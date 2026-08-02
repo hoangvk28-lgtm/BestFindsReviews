@@ -78,7 +78,7 @@ interface GetItemsResponse {
   errors?: Array<{ code: string; message: string }>;
 }
 
-const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "bestfindsreviews0d-20";
+const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "bestfindshq0d-20";
 
 // GetItems accepts at most 10 ASINs per request.
 export async function getItems(asins: string[]): Promise<CreatorsApiItem[]> {

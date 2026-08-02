@@ -23,8 +23,8 @@ const nextConfig: NextConfig = {
       // TODO: confirm final domain, this must match NEXT_PUBLIC_SITE_URL
       {
         source: "/:path*",
-        has: [{ type: "host", value: "bestfindsreviews.com" }],
-        destination: "https://www.bestfindsreviews.com/:path*",
+        has: [{ type: "host", value: "bestfindshq.com" }],
+        destination: "https://www.bestfindshq.com/:path*",
         permanent: true,
       },
       {

@@ -24,7 +24,7 @@ export function FooterSettingsForm({ initial }: { initial: FooterSettings }) {
 
         <div>
           <label className="block text-sm font-medium text-ink-secondary mb-1">Copyright text</label>
-          <input name="copyrightText" defaultValue={initial.copyrightText} className={inputClass} placeholder="BestFindsReviews. All rights reserved." />
+          <input name="copyrightText" defaultValue={initial.copyrightText} className={inputClass} placeholder="BestFindsHQ. All rights reserved." />
           <p className="text-xs text-ink-muted mt-1">The year is automatically prepended (e.g. &quot;© 2025&quot;).</p>
         </div>
 

@@ -10,7 +10,7 @@
  */
 import { execSync } from "child_process";
 
-const HOST = "www.bestfindsreviews.com";
+const HOST = "www.bestfindshq.com";
 // TODO: generate a new IndexNow key at https://www.bing.com/indexnow/getstarted,
 // set it here, and create public/<key>.txt containing just the key string.
 const KEY = "REPLACE_WITH_NEW_INDEXNOW_KEY";

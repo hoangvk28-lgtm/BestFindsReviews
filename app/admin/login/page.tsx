@@ -20,7 +20,7 @@ export default function AdminLoginPage() {
             <span className="text-white text-sm font-bold">SP</span>
           </div>
           <div>
-            <p className="text-white font-bold text-lg tracking-tight leading-none">BestFindsReviews</p>
+            <p className="text-white font-bold text-lg tracking-tight leading-none">BestFindsHQ</p>
             <p className="text-blue-300 text-xs mt-0.5">Admin Dashboard</p>
           </div>
         </div>
@@ -50,7 +50,7 @@ export default function AdminLoginPage() {
                 type="email"
                 autoComplete="email"
                 required
-                placeholder="admin@bestfindsreviews.com"
+                placeholder="admin@bestfindshq.com"
                 className="w-full px-3 py-2.5 text-sm border border-gray-300 rounded-lg bg-white text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow"
               />
             </div>
@@ -91,7 +91,7 @@ export default function AdminLoginPage() {
         </div>
 
         <p className="text-center text-xs mt-6" style={{ color: "rgba(255,255,255,0.35)" }}>
-          Protected admin area · BestFindsReviews
+          Protected admin area · BestFindsHQ
         </p>
       </div>
     </div>

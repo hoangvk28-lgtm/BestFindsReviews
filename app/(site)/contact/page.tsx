@@ -4,9 +4,9 @@ import { Container } from "@/components/layout/Container";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Contact BestFindsReviews",
+  title: "Contact BestFindsHQ",
   description:
-    "Get in touch with the BestFindsReviews team. Corrections, product suggestions, buying questions, and press inquiries welcome.",
+    "Get in touch with the BestFindsHQ team. Corrections, product suggestions, buying questions, and press inquiries welcome.",
   path: "/contact",
 });
 
@@ -88,10 +88,10 @@ export default function ContactPage() {
               You can reach us at:
             </p>
             <a
-              href="mailto:hello@bestfindsreviews.com"
+              href="mailto:hello@bestfindshq.com"
               className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors break-all"
             >
-              hello@bestfindsreviews.com
+              hello@bestfindshq.com
             </a>
             <p className="text-xs text-ink-muted mt-2">
               We aim to respond within 3 business days.
@@ -104,7 +104,7 @@ export default function ContactPage() {
             <ul className="space-y-1.5 text-sm">
               <li><Link href="/how-we-review" className="text-brand hover:text-brand-dark transition-colors font-medium">How We Review Products →</Link></li>
               <li><Link href="/affiliate-disclosure" className="text-brand hover:text-brand-dark transition-colors font-medium">Affiliate Disclosure →</Link></li>
-              <li><Link href="/about-bestfindsreviews" className="text-brand hover:text-brand-dark transition-colors font-medium">About BestFindsReviews →</Link></li>
+              <li><Link href="/about-bestfindshq" className="text-brand hover:text-brand-dark transition-colors font-medium">About BestFindsHQ →</Link></li>
               <li><Link href="/privacy-policy" className="text-brand hover:text-brand-dark transition-colors font-medium">Privacy Policy →</Link></li>
             </ul>
           </div>
@@ -184,7 +184,7 @@ export default function ContactPage() {
                 Send Message
               </button>
               <p className="mt-2 text-xs text-ink-muted">
-                This form does not have a backend connected yet. Please email us directly at hello@bestfindsreviews.com.
+                This form does not have a backend connected yet. Please email us directly at hello@bestfindshq.com.
               </p>
             </div>
           </form>

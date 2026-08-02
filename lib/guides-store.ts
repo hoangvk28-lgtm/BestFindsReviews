@@ -10,11 +10,11 @@ export interface GuideProductPick {
   badge: string;        // "Best Overall", "Best Budget", "Best Premium", etc.
   name: string;
   brand?: string;
-  asin?: string;        // auto-generates affiliateUrl: https://www.amazon.com/dp/{ASIN}?tag=bestfindsreviews0d-20
+  asin?: string;        // auto-generates affiliateUrl: https://www.amazon.com/dp/{ASIN}?tag=bestfindshq0d-20
   affiliateUrl: string; // always use rel="nofollow sponsored noopener noreferrer"
   imageUrl: string;
   priceLabel: "Budget" | "Mid-range" | "Premium" | "Check Amazon";
-  fitScore?: number;    // 0–10 editorial score — labeled "BestFindsReviews Fit Score" in UI
+  fitScore?: number;    // 0–10 editorial score — labeled "BestFindsHQ Fit Score" in UI
   summary: string;      // 1–2 sentence overview
   whyItWins: string;    // key differentiator paragraph
   bestFor?: string;     // one-line ideal user description

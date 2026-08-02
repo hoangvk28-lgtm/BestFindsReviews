@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: SITE_NAME,
     description: SITE_DESCRIPTION,
-    site: "@bestfindsreviews", // TODO: confirm real handle or remove
+    site: "@bestfindshq", // TODO: confirm real handle or remove
   },
   robots: {
     index: true,

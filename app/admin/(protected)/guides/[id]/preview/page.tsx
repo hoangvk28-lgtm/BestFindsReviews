@@ -209,7 +209,7 @@ function PickCard({ pick, rank }: { pick: GuideProductPick; rank: number }) {
 
           {pick.fitScore != null && (
             <div className="mb-2">
-              <span className="text-xs text-gray-500">BestFindsReviews Fit Score: </span>
+              <span className="text-xs text-gray-500">BestFindsHQ Fit Score: </span>
               <span className={`font-bold ${scoreToColor(pick.fitScore)}`}>{pick.fitScore.toFixed(1)}/10</span>
             </div>
           )}

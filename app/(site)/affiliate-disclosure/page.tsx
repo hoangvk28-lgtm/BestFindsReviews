@@ -4,9 +4,9 @@ import { Container } from "@/components/layout/Container";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Affiliate Disclosure - BestFindsReviews",
+  title: "Affiliate Disclosure - BestFindsHQ",
   description:
-    "BestFindsReviews participates in the Amazon Associates program. Read our disclosure on how we earn commissions and why it doesn't affect our recommendations.",
+    "BestFindsHQ participates in the Amazon Associates program. Read our disclosure on how we earn commissions and why it doesn't affect our recommendations.",
   path: "/affiliate-disclosure",
 });
 
@@ -25,7 +25,7 @@ export default function AffiliateDisclosurePage() {
       <div className="mb-10 p-5 rounded-lg border-2 border-brand-muted bg-brand-light">
         <p className="font-bold text-ink text-sm mb-1">Required Disclosure</p>
         <p className="text-ink leading-relaxed text-sm">
-          As an Amazon Associate, we may earn from qualifying purchases. BestFindsReviews is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+          As an Amazon Associate, we may earn from qualifying purchases. BestFindsHQ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
         </p>
       </div>
 
@@ -34,10 +34,10 @@ export default function AffiliateDisclosurePage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">How Affiliate Links Work</h2>
           <p className="mb-3">
-            When you click a product link on BestFindsReviews and complete a purchase on Amazon, Amazon pays us a small referral fee - typically 1–8% of the sale price depending on the product category. This fee is paid by Amazon, not added to your purchase price. You pay exactly the same amount whether you use our link or navigate to Amazon directly.
+            When you click a product link on BestFindsHQ and complete a purchase on Amazon, Amazon pays us a small referral fee - typically 1–8% of the sale price depending on the product category. This fee is paid by Amazon, not added to your purchase price. You pay exactly the same amount whether you use our link or navigate to Amazon directly.
           </p>
           <p>
-            Our links include an affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">bestfindsreviews0d-20</code>) that allows Amazon to attribute the referral to our account. This tag is the only information passed; we do not receive your name, address, or payment details.
+            Our links include an affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">bestfindshq0d-20</code>) that allows Amazon to attribute the referral to our account. This tag is the only information passed; we do not receive your name, address, or payment details.
           </p>
         </section>
 
@@ -60,7 +60,7 @@ export default function AffiliateDisclosurePage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">Amazon Associates Program</h2>
           <p className="mb-3">
-            BestFindsReviews is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+            BestFindsHQ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
           </p>
           <p>
             Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.

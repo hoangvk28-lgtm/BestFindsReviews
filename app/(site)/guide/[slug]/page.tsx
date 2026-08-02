@@ -842,7 +842,7 @@ function InlinePickCard({ pick, rank }: { pick: GuideProductPick; rank: number }
 
           {pick.fitScore != null && (
             <p className="text-xs text-ink-muted mb-2">
-              BestFindsReviews Fit Score: <span className={`font-bold text-sm ${scoreToColor(pick.fitScore)}`}>{pick.fitScore.toFixed(1)}/10</span>
+              BestFindsHQ Fit Score: <span className={`font-bold text-sm ${scoreToColor(pick.fitScore)}`}>{pick.fitScore.toFixed(1)}/10</span>
             </p>
           )}
 

@@ -76,7 +76,7 @@ function parseFormData(formData: FormData): Omit<StoredGuide, "id"> & { id?: str
     intro: (formData.get("intro") as string | null)?.trim() ?? "",
     recommendedProductIds: parseLines((formData.get("recommendedProductIds") as string) ?? ""),
     relatedGuideSlugs: parseLines((formData.get("relatedGuideSlugs") as string) ?? ""),
-    author: (formData.get("author") as string | null)?.trim() ?? "BestFindsReviews Editorial Team",
+    author: (formData.get("author") as string | null)?.trim() ?? "BestFindsHQ Editorial Team",
     readTime: (formData.get("readTime") as string | null)?.trim() ?? "",
     lastUpdated: new Date().toISOString().split("T")[0],
     sections: parseSections(formData),

@@ -4,7 +4,7 @@ import { AdminHeader } from "@/components/admin/AdminHeader";
 import { AdminShell } from "@/components/admin/AdminShell";
 
 export const metadata = {
-  title: "Admin Dashboard - BestFindsReviews",
+  title: "Admin Dashboard - BestFindsHQ",
   robots: { index: false, follow: false },
 };
 

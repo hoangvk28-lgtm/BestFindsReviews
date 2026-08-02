@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!product) return {};
 
   const productImage = product.image && product.image.startsWith("http") ? product.image : undefined;
-  // Truncate product name to keep title under 60 chars total (with " Review | BestFindsReviews" = 20 chars)
+  // Truncate product name to keep title under 60 chars total (with " Review | BestFindsHQ" = 20 chars)
   const truncatedName = product.name.length > 40 ? product.name.slice(0, 37) + "..." : product.name;
   return buildMetadata({
     title: `${truncatedName} Review`,

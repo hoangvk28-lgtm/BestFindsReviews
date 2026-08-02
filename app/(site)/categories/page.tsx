@@ -9,7 +9,7 @@ import { getPublicProducts } from "@/lib/public-products";
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
-  title: "All Categories -- Small Space Products | BestFindsReviews",
+  title: "All Categories -- Small Space Products | BestFindsHQ",
   description:
     "Browse all product categories: desk setup, dorm essentials, small room storage, and more. Find the right buying guide for your space.",
   path: "/categories",
