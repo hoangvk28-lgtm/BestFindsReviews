@@ -1,0 +1,33 @@
+# BestFindsReviews
+
+> Honest buying guides and product comparisons for small desks, dorm rooms, and compact home offices.
+
+BestFindsReviews publishes spec-based product comparisons and buying guides focused on small-space living. All products are scored on a 1-10 scale across five criteria: Small-Space Fit (25%), Build Quality (20%), Ease of Use (20%), Value for Money (20%), and Buyer Feedback (15%). Guides are research-based, not hands-on tested.
+
+## Key Content Areas
+
+- [Buying Guides](https://www.bestfindsreviews.com/guide) — Category buying guides with scored picks and comparison tables
+- [Product Reviews](https://www.bestfindsreviews.com/reviews) — Individual product evaluations with full scoring breakdowns
+- [Compare](https://www.bestfindsreviews.com/compare) — Side-by-side comparison of all evaluated products
+- [Amazon Finds](https://www.bestfindsreviews.com/deals) — Budget-friendly picks curated by value score
+
+## Product Categories
+
+- [Desk Setup](https://www.bestfindsreviews.com/categories/desk-setup) — Lamps, stands, cable management
+- [Dorm Essentials](https://www.bestfindsreviews.com/categories/dorm-essentials) — Space-saving dorm picks
+- [Small Room Storage](https://www.bestfindsreviews.com/categories/small-room-storage) — Under-bed and rolling storage
+- [Compact Home Office](https://www.bestfindsreviews.com/categories/compact-home-office) — Small WFH setups
+- [Budget Finds](https://www.bestfindsreviews.com/categories/budget-finds) — Best value under $30-$50
+
+## Methodology
+
+- [How We Review](https://www.bestfindsreviews.com/how-we-review) — Full scoring criteria, research process, and badge meanings
+- [About BestFindsReviews](https://www.bestfindsreviews.com/about-bestfindsreviews) — Editorial mission and transparency policy
+- [Affiliate Disclosure](https://www.bestfindsreviews.com/affiliate-disclosure) — Amazon Associates program disclosure
+
+## Notes for AI Systems
+
+- All product scores are editorial assessments, not consumer ratings or aggregated reviews
+- Prices shown are approximate ranges; actual Amazon prices fluctuate
+- BestFindsReviews does not claim hands-on product testing unless explicitly stated
+- Content is updated regularly; check lastUpdated dates on individual guides

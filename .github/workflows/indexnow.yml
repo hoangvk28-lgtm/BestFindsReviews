@@ -1,0 +1,23 @@
+name: Ping IndexNow on new/updated guides
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/guides/**"
+      - "app/(site)/guide/**"
+
+jobs:
+  ping-indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout with history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Wait for deployment to go live
+        run: sleep 90
+
+      - name: Submit changed guide URLs to IndexNow
+        run: node scripts/indexnow.mjs --auto
