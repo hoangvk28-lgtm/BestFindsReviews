@@ -62,7 +62,7 @@ export const DEFAULT_HOMEPAGE_SETTINGS: HomepageSettings = {
 };
 
 export const DEFAULT_GLOBAL_SETTINGS: GlobalSettings = {
-  siteName: "BestFindsHQ",
+  siteName: "WorthRated",
   siteTagline: "Amazon Buying Guides for Small Rooms & Dorms",
   header: {
     logoText: "SmartSpacePicks",
@@ -73,18 +73,18 @@ export const DEFAULT_GLOBAL_SETTINGS: GlobalSettings = {
 
 export const DEFAULT_AFFILIATE_SETTINGS: AffiliateSettings = {
   disclosureShort:
-    "BestFindsHQ earns a small commission on qualifying Amazon purchases at no extra cost to you.",
+    "WorthRated earns a small commission on qualifying Amazon purchases at no extra cost to you.",
   disclosureFull:
-    "BestFindsHQ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our editorial opinions are independent and are never influenced by affiliate relationships.",
+    "WorthRated is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our editorial opinions are independent and are never influenced by affiliate relationships.",
   disclosureBannerText:
     "We may earn a commission when you buy through Amazon links. Our recommendations are based on product specs, buyer feedback, use cases, and clear comparison criteria.",
-  amazonTag: "bestfindshq0d-20",
+  amazonTag: "worthrated0d-20",
 };
 
 export const DEFAULT_FOOTER_SETTINGS: FooterSettings = {
   description:
     "Honest buying guides for small rooms, dorm setups, and compact home offices. No sponsored posts. No fake reviews.",
-  copyrightText: "BestFindsHQ. All rights reserved.",
+  copyrightText: "WorthRated. All rights reserved.",
   showAffiliateDisclosure: true,
 };
 

@@ -144,7 +144,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
   function onAsinChange(i: number, asin: string) {
     updatePick(i, {
       asin,
-      affiliateUrl: asin ? `https://www.amazon.com/dp/${asin.trim()}?tag=bestfindshq0d-20` : "",
+      affiliateUrl: asin ? `https://www.amazon.com/dp/${asin.trim()}?tag=worthrated0d-20` : "",
     });
   }
 
@@ -305,7 +305,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
               name="author"
               type="text"
               className={inputClass}
-              defaultValue={guide?.author ?? "BestFindsHQ Editorial Team"}
+              defaultValue={guide?.author ?? "WorthRated Editorial Team"}
             />
           </AdminFormField>
 
@@ -638,7 +638,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                 {/* Row 2: ASIN + Affiliate URL */}
                 <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
                   <AdminFormField label="ASIN" htmlFor={`pick_asin_${i}`}
-                    hint="Auto-fills affiliate URL with bestfindshq0d-20 tag">
+                    hint="Auto-fills affiliate URL with worthrated0d-20 tag">
                     <input id={`pick_asin_${i}`} type="text" className={inputClass}
                       value={pick.asin ?? ""} onChange={(e) => onAsinChange(i, e.target.value)}
                       placeholder="B0CT2NQ7WG" />
@@ -647,7 +647,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                     hint="Auto-generated from ASIN. Edit to override.">
                     <input id={`pick_affiliateUrl_${i}`} type="url" className={inputClass}
                       value={pick.affiliateUrl} onChange={(e) => updatePick(i, { affiliateUrl: e.target.value })}
-                      placeholder="https://www.amazon.com/dp/…?tag=bestfindshq0d-20" />
+                      placeholder="https://www.amazon.com/dp/…?tag=worthrated0d-20" />
                   </AdminFormField>
                 </div>
 
@@ -676,7 +676,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                         {PRICE_LABELS.map((l) => <option key={l} value={l}>{l}</option>)}
                       </select>
                     </AdminFormField>
-                    <AdminFormField label="BestFindsHQ Fit Score (0–10)" htmlFor={`pick_fitScore_${i}`}
+                    <AdminFormField label="WorthRated Fit Score (0–10)" htmlFor={`pick_fitScore_${i}`}
                       hint="Editorial score only — not shown as star rating">
                       <input id={`pick_fitScore_${i}`} type="number" min={0} max={10} step={0.1} className={inputClass}
                         value={pick.fitScore ?? ""} onChange={(e) => updatePick(i, { fitScore: e.target.value ? parseFloat(e.target.value) : undefined })} />

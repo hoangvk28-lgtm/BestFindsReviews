@@ -1,4 +1,4 @@
-# BestFindsHQ — CLAUDE.md
+# WorthRated — CLAUDE.md
 
 @AGENTS.md
 
@@ -12,8 +12,8 @@
 
 ## 1. Project Overview
 
-- **Site name:** BestFindsHQ (`SITE_NAME = "BestFindsHQ"`)
-- **Live domain:** `https://www.bestfindshq.com` (www is canonical; non-www redirects 301)
+- **Site name:** WorthRated (`SITE_NAME = "WorthRated"`)
+- **Live domain:** `https://www.worthrated.com` (www is canonical; non-www redirects 301)
 - **Business model:** Affiliate content site — earns commissions via Amazon affiliate links
 - **Niche:** TODO — define this site's niche/audience (kept the DeskFinds example below as a reference pattern until replaced)
 - **Content types:**
@@ -22,10 +22,10 @@
   - Category hubs (`/categories/[slug]`) — top-level category landing pages
   - Compare pages (`/compare/[slug]`) — side-by-side category comparisons and VS articles
   - Deals page (`/deals`) — curated product deals
-  - Static editorial pages — `/how-we-review`, `/about-bestfindshq`, `/affiliate-disclosure`, `/privacy-policy`, `/contact`
+  - Static editorial pages — `/how-we-review`, `/about-worthrated`, `/affiliate-disclosure`, `/privacy-policy`, `/contact`
 - **Target audience:** People furnishing small spaces — dorm rooms, compact home offices, studio apartments
 - **Google Analytics:** `G-XXXXXXXXXX` — TODO: replace with this site's real GA4 measurement ID
-- **Twitter handle:** `@bestfindshq`
+- **Twitter handle:** `@worthrated`
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### App Router & File Structure
 ```
-bestfindshq/
+worthrated/
 ├── app/                        # Next.js App Router root
 │   ├── layout.tsx              # Root layout — Inter font, GTM, global metadata
 │   ├── globals.css
@@ -77,7 +77,7 @@ bestfindshq/
 │   ├── seed-deals.ts
 │   └── seed-site-settings.ts
 ├── public/
-│   ├── logo-bestfindshq.png / .svg / logo-bestfindshq-official.png
+│   ├── logo-worthrated.png / .svg / logo-worthrated-official.png
 │   ├── icon.webp
 │   ├── hero-banner.jpg
 │   ├── og-default.png          # Default OG image (1200×630)
@@ -105,17 +105,17 @@ bestfindshq/
 
 ## 3. Canonical Domain Rules
 
-- **Canonical domain is always:** `https://www.bestfindshq.com` (www, no bare `bestfindshq.com`)
+- **Canonical domain is always:** `https://www.worthrated.com` (www, no bare `worthrated.com`)
 - **Non-www redirect** is handled in `next.config.ts`:
   ```ts
-  // Matches host: bestfindshq.com → redirects to https://www.bestfindshq.com/:path*
+  // Matches host: worthrated.com → redirects to https://www.worthrated.com/:path*
   // permanent: true → HTTP 301
   ```
-- **NEXT_PUBLIC_SITE_URL** must be set to `https://www.bestfindshq.com` in production — `lib/seo.ts` strips trailing slashes: `process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "")`
+- **NEXT_PUBLIC_SITE_URL** must be set to `https://www.worthrated.com` in production — `lib/seo.ts` strips trailing slashes: `process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "")`
 - **Homepage canonical** should match the final live URL used by the app — do not assume `/` vs no slash without checking
 - **Internal page canonicals** should avoid trailing slashes unless the app intentionally uses `trailingSlash: true` in `next.config.ts`
-- **All schema, sitemap, and OG URLs** must use the `www.bestfindshq.com` domain
-- **Legacy redirect:** `/about` → `/about-bestfindshq` (301, in `next.config.ts`)
+- **All schema, sitemap, and OG URLs** must use the `www.worthrated.com` domain
+- **Legacy redirect:** `/about` → `/about-worthrated` (301, in `next.config.ts`)
 - All canonical URLs are built via `buildMetadata({ path })` — never construct them manually
 - The `alternates.canonical` field is always set in `buildMetadata()`
 
@@ -129,7 +129,7 @@ Located at `lib/seo.ts`. Required fields:
 
 ```ts
 buildMetadata({
-  title: string,        // Do NOT append "| BestFindsHQ" — the function does it
+  title: string,        // Do NOT append "| WorthRated" — the function does it
   description: string,  // Unique per page, 120–160 chars
   path: string,         // e.g. "/guide/best-monitor-stands"
   image?: string,       // Absolute Supabase URL or relative /path — function handles both
@@ -139,10 +139,10 @@ buildMetadata({
 ```
 
 ### Title Rules
-- **Never** manually append `| BestFindsHQ` — `buildMetadata()` appends it automatically
-- The root layout uses `template: "%s | BestFindsHQ"` — `buildMetadata()` uses `{ absolute: fullTitle }` to prevent double-suffix
+- **Never** manually append `| WorthRated` — `buildMetadata()` appends it automatically
+- The root layout uses `template: "%s | WorthRated"` — `buildMetadata()` uses `{ absolute: fullTitle }` to prevent double-suffix
 - Guide/review titles should be descriptive: `"Best Monitor Stands for Small Desks"` not just `"Monitor Stands"`
-- **Hard character budget — check before writing, not after:** `metaTitle` (the `data/guides/<slug>.ts` export) must be **≤48 characters**, because the site auto-appends `" | BestFindsHQ"` (12 chars) on render, and the combined title must stay **≤60 characters** total or it gets flagged/truncated in search results and SEO tooling. Count the actual string length — `"Best Ryzen Mini PCs, Honestly Reviewed (2026)"` is already 46 chars before the suffix, so anything with a longer product name or an added qualifier will blow the budget. Prefer a plain `"Best X in 2026"` or `"Best X, Reviewed (2026)"` pattern over `"Best X, Honestly Reviewed (2026)"` when the product name itself is long.
+- **Hard character budget — check before writing, not after:** `metaTitle` (the `data/guides/<slug>.ts` export) must be **≤48 characters**, because the site auto-appends `" | WorthRated"` (12 chars) on render, and the combined title must stay **≤60 characters** total or it gets flagged/truncated in search results and SEO tooling. Count the actual string length — `"Best Ryzen Mini PCs, Honestly Reviewed (2026)"` is already 46 chars before the suffix, so anything with a longer product name or an added qualifier will blow the budget. Prefer a plain `"Best X in 2026"` or `"Best X, Reviewed (2026)"` pattern over `"Best X, Honestly Reviewed (2026)"` when the product name itself is long.
 - Before finalizing any `metaTitle`, run the actual string length check (`metaTitle.length + 12 <= 60`) — do not eyeball it. This was a recurring, systemic error across a prior 87-guide batch (most titles landed in the 65–80 char range) and must not recur.
 
 ### Description Rules
@@ -336,7 +336,7 @@ Three exports are involved, and they serve **different purposes at different dep
    { criterion: "Short label (3-6 words)", explanation: "2-3 sentence advisory with specific numbers or thresholds." }
    ```
 
-2. **`howWeEvaluated[]`** (required as of 2026-07-18) → renders as **"How We Evaluated These [Products]"**, a 2-column card grid, positioned **right after** the product reviews (before "How to Choose"). 4-5 entries describing the guide-specific scoring methodology — category-specific angles (e.g. Stability, Adjustability, Build quality, Device compatibility, Value for price for a tablet-stand guide), not the generic site-wide "BestFindsHQ Fit Score" weights from the Scoring Criteria table above reused verbatim.
+2. **`howWeEvaluated[]`** (required as of 2026-07-18) → renders as **"How We Evaluated These [Products]"**, a 2-column card grid, positioned **right after** the product reviews (before "How to Choose"). 4-5 entries describing the guide-specific scoring methodology — category-specific angles (e.g. Stability, Adjustability, Build quality, Device compatibility, Value for price for a tablet-stand guide), not the generic site-wide "WorthRated Fit Score" weights from the Scoring Criteria table above reused verbatim.
    ```ts
    { title: "Stability", description: "Tested with a standard iPad Pro 11\" and a heavy 13\" Android tablet. Scored on tipping resistance under tapping and drawing load." }
    ```
@@ -361,7 +361,7 @@ Three exports are involved, and they serve **different purposes at different dep
 ### Content Tone
 - Direct, practical, space-conscious — written for people with limited desk/room space
 - No marketing superlatives without specific backing ("the best" must be qualified)
-- Use "BestFindsHQ" as the brand name — never "Desk Finds" (two words) or "bestfindshq" (all lowercase)
+- Use "WorthRated" as the brand name — never "Desk Finds" (two words) or "worthrated" (all lowercase)
 
 ### "About this pick" Product Description Rules (GuideProduct.description)
 - **Always split into 2 paragraphs** using `\n\n` as separator — never write one long block of text
@@ -377,12 +377,12 @@ Three exports are involved, and they serve **different purposes at different dep
 ## 8. Scoring Rules
 
 ### Score Label
-- The editorial score is called the **"BestFindsHQ Fit Score"** — use this exact label in UI and content
+- The editorial score is called the **"WorthRated Fit Score"** — use this exact label in UI and content
 - Scores are on a **0–10 scale** (e.g., `8.4`)
 - `scoreToColor()` from `lib/utils.ts` maps score ranges to Tailwind color classes — always use this function for score display, never hardcode colors
 
 ### Schema Restrictions
-- **Do not** emit `AggregateRating` schema for BestFindsHQ Fit Scores — they are editorial, not crowd-sourced ratings
+- **Do not** emit `AggregateRating` schema for WorthRated Fit Scores — they are editorial, not crowd-sourced ratings
 - If a product has real Amazon review data (count + rating from the PA API), a `Review` or `AggregateRating` schema may be considered — but only with real, sourced values
 - Do not invent `ratingCount`, `bestRating`, or `worstRating` values
 
@@ -398,7 +398,7 @@ Three exports are involved, and they serve **different purposes at different dep
 - All `<Image>` components must have descriptive `alt` text — never empty string `alt=""` except for purely decorative SVG icons with `aria-hidden="true"`
 - Product images: `alt={product.name}` — include product name
 - Guide hero images: `alt={guide.title}`
-- Logo: `alt="BestFindsHQ logo"`
+- Logo: `alt="WorthRated logo"`
 
 ### File Naming
 - Use kebab-case: `best-monitor-stand-review.jpg` not `BestMonitorStand.jpg`
@@ -455,7 +455,7 @@ Three exports are involved, and they serve **different purposes at different dep
 - Generated dynamically in `app/sitemap.ts`
 - Static pages, guide pages, review pages, category pages, compare pages, VS pages
 - Supabase data takes precedence; static fallback fills gaps
-- Sitemap URL: `https://www.bestfindshq.com/sitemap.xml`
+- Sitemap URL: `https://www.worthrated.com/sitemap.xml`
 
 ---
 
@@ -487,8 +487,8 @@ Three exports are involved, and they serve **different purposes at different dep
 Do not undo these:
 
 - **Non-www → www redirect** added to `next.config.ts` with `permanent: true` (301)
-- **`/about` → `/about-bestfindshq` redirect** added to `next.config.ts` with `permanent: true`
-- **Double title suffix bug fixed** — `buildMetadata()` uses `{ absolute: fullTitle }` to prevent `"Title | BestFindsHQ | BestFindsHQ"`
+- **`/about` → `/about-worthrated` redirect** added to `next.config.ts` with `permanent: true`
+- **Double title suffix bug fixed** — `buildMetadata()` uses `{ absolute: fullTitle }` to prevent `"Title | WorthRated | WorthRated"`
 - **`FAQPage` schema removed from commercial pages** — low/no rich-result value for affiliate pages; avoided to keep schema conservative
 - **Canonical URLs** always set via `buildMetadata()` `alternates.canonical` field
 - **Security headers** set globally in `next.config.ts`: X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy, HSTS
@@ -522,7 +522,7 @@ Handle these carefully going forward:
 
 ## 14. Build, Lint & QA Commands
 
-All commands run from the `bestfindshq/` directory.
+All commands run from the `worthrated/` directory.
 
 ### Development
 ```bash
@@ -560,7 +560,7 @@ Before committing any change that touches routes, metadata, or schema:
 1. `npx tsc --noEmit` — zero TypeScript errors
 2. `npm run lint` — zero ESLint errors
 3. `npm run build` — successful build with no `notFound()` warnings
-4. Manually verify the changed page's `<title>` tag does not contain `| BestFindsHQ | BestFindsHQ`
+4. Manually verify the changed page's `<title>` tag does not contain `| WorthRated | WorthRated`
 5. Verify canonical URL is correct (`/guide/slug` not `/guide/slug/`)
 
 ---
@@ -575,16 +575,16 @@ Before committing any change that touches routes, metadata, or schema:
 
 | Variable | Purpose | Example |
 |---|---|---|
-| `ADMIN_EMAIL` | Admin login email | `admin@bestfindshq.com` |
+| `ADMIN_EMAIL` | Admin login email | `admin@worthrated.com` |
 | `ADMIN_PASSWORD` | Admin login password | (strong password, min 16 chars) |
 | `SESSION_SECRET` | iron-session encryption key | min 32 characters |
 | `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL | `https://xxx.supabase.co` |
 | `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role JWT | (long JWT string) |
-| `NEXT_PUBLIC_SITE_URL` | Canonical site URL | `https://www.bestfindshq.com` |
+| `NEXT_PUBLIC_SITE_URL` | Canonical site URL | `https://www.worthrated.com` |
 
 ### Secrets Policy — Critical
 - **Never commit `.env.local`** — it contains live Supabase service role keys and admin credentials
-- `.env.example` in `bestfindshq/` is the template — keep it updated but with placeholder values only
+- `.env.example` in `worthrated/` is the template — keep it updated but with placeholder values only
 - `SUPABASE_SERVICE_ROLE_KEY` has full database access — treat as a root credential
 - `SESSION_SECRET` must be at least 32 characters; use a cryptographically random string in production
 - Rotate `ADMIN_PASSWORD` before any public launch — the dev default `admin123` must never reach production
@@ -635,7 +635,7 @@ Build status: [passed | not verified]
 ```
 
 ### What Agents Must Not Do
-- Do not change the canonical domain from `www.bestfindshq.com` to anything else
+- Do not change the canonical domain from `www.worthrated.com` to anything else
 - Do not remove the non-www redirect from `next.config.ts`
 - Do not add `AggregateRating` schema with editorial scores
 - Do not write "we tested" or "we tried" in any content
@@ -682,7 +682,7 @@ Run this checklist before every commit that touches pages, metadata, content, or
 - [ ] `npm run build` completes successfully
 
 ### Metadata
-- [ ] Page `<title>` does not contain `| BestFindsHQ | BestFindsHQ` (double suffix)
+- [ ] Page `<title>` does not contain `| WorthRated | WorthRated` (double suffix)
 - [ ] `description` is unique, 120–160 chars, not the default `SITE_DESCRIPTION`
 - [ ] `buildMetadata()` used — no manual `Metadata` object construction
 - [ ] Canonical URL matches the page's actual URL, no trailing slash

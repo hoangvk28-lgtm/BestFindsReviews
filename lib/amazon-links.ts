@@ -1,4 +1,4 @@
-const TAG = "bestfindshq0d-20";
+const TAG = "worthrated0d-20";
 
 export const amazonSearchLinks: Record<string, string> = {
   "desk-setup":         `https://www.amazon.com/s?k=desk+setup+essentials&tag=${TAG}`,

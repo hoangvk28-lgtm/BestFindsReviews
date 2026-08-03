@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 
-const SITE_NAME = "BestFindsHQ"; // TODO: confirm final brand name/casing
+const SITE_NAME = "WorthRated"; // TODO: confirm final brand name/casing
 // Prefer env var so the same build can be deployed to any domain without code changes.
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-  "https://www.bestfindshq.com";
+  "https://www.worthrated.com";
 const SITE_DESCRIPTION =
   "TODO: one-sentence site description for the homepage <meta description> and OG tags.";
-const TWITTER_HANDLE = "@bestfindshq"; // TODO: confirm real handle or remove
+const TWITTER_HANDLE = "@worthrated"; // TODO: confirm real handle or remove
 
 export function buildMetadata({
   title,
@@ -24,8 +24,8 @@ export function buildMetadata({
   noIndex?: boolean;
   type?: "website" | "article";
 }): Metadata {
-  // Build the display title once, with "| BestFindsHQ" appended if not already present.
-  // Use { absolute } so the root layout template (%s | BestFindsHQ) never wraps it again.
+  // Build the display title once, with "| WorthRated" appended if not already present.
+  // Use { absolute } so the root layout template (%s | WorthRated) never wraps it again.
   const fullTitle = title.includes(SITE_NAME)
     ? title
     : `${title} | ${SITE_NAME}`;

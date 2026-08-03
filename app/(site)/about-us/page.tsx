@@ -6,19 +6,19 @@ import { buildMetadata, SITE_URL } from "@/lib/seo";
 // ── Metadata ──────────────────────────────────────────────────────────────────
 
 const baseMeta = buildMetadata({
-  title: "About BestFindsHQ | Small-Space Desk Setup Buying Guides",
+  title: "About WorthRated | Small-Space Desk Setup Buying Guides",
   description:
-    "BestFindsHQ helps students, remote workers, and small-space users find practical desk products through research-based buying guides and comparisons.",
-  path: "/about-bestfindshq",
+    "WorthRated helps students, remote workers, and small-space users find practical desk products through research-based buying guides and comparisons.",
+  path: "/about-worthrated",
 });
 
 export const metadata: Metadata = {
   ...baseMeta,
   keywords: [
-    "BestFindsHQ",
+    "WorthRated",
     "desk finds",
-    "what is BestFindsHQ",
-    "BestFindsHQ reviews",
+    "what is WorthRated",
+    "WorthRated reviews",
     "small-space desk setup",
     "workspace buying guides",
     "dorm room desk setup",
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     ...(baseMeta.openGraph as object),
-    title: "About BestFindsHQ",
+    title: "About WorthRated",
     description:
-      "Learn what BestFindsHQ is, who it helps, how recommendations are created, and how the site earns through transparent affiliate links.",
+      "Learn what WorthRated is, who it helps, how recommendations are created, and how the site earns through transparent affiliate links.",
   },
 };
 
@@ -137,36 +137,36 @@ const EDITORIAL_STANDARDS = [
 
 const FAQ_ITEMS = [
   {
-    q: "What is BestFindsHQ?",
-    a: "BestFindsHQ is a buying guide website focused on small-space desk setups, dorm rooms, and compact workspaces. We publish research-based product comparisons and guides to help people find practical products for tight spaces and realistic budgets.",
+    q: "What is WorthRated?",
+    a: "WorthRated is a buying guide website focused on small-space desk setups, dorm rooms, and compact workspaces. We publish research-based product comparisons and guides to help people find practical products for tight spaces and realistic budgets.",
   },
   {
-    q: "Is BestFindsHQ an online store?",
-    a: "No. BestFindsHQ is not an online store. We do not sell, stock, or ship products. We publish buying guides and product comparisons with links to retailers where products can be purchased.",
+    q: "Is WorthRated an online store?",
+    a: "No. WorthRated is not an online store. We do not sell, stock, or ship products. We publish buying guides and product comparisons with links to retailers where products can be purchased.",
   },
   {
-    q: "Does BestFindsHQ sell products directly?",
-    a: "No. BestFindsHQ does not sell products directly. When you click a product link on BestFindsHQ, you are taken to a third-party retailer — most commonly Amazon — to complete the purchase there.",
+    q: "Does WorthRated sell products directly?",
+    a: "No. WorthRated does not sell products directly. When you click a product link on WorthRated, you are taken to a third-party retailer — most commonly Amazon — to complete the purchase there.",
   },
   {
-    q: "How does BestFindsHQ make money?",
-    a: "BestFindsHQ earns a small commission when users purchase products through affiliate links on the site. As an Amazon Associate, BestFindsHQ earns from qualifying purchases. This does not add any extra cost to you.",
+    q: "How does WorthRated make money?",
+    a: "WorthRated earns a small commission when users purchase products through affiliate links on the site. As an Amazon Associate, WorthRated earns from qualifying purchases. This does not add any extra cost to you.",
   },
   {
-    q: "Are BestFindsHQ recommendations paid placements?",
-    a: "No. Recommendation rankings on BestFindsHQ are not influenced by commission rates, brand payments, or sponsored placement fees. Products are ranked based on our evaluation criteria. Affiliate commissions fund the site but do not influence which products we recommend.",
+    q: "Are WorthRated recommendations paid placements?",
+    a: "No. Recommendation rankings on WorthRated are not influenced by commission rates, brand payments, or sponsored placement fees. Products are ranked based on our evaluation criteria. Affiliate commissions fund the site but do not influence which products we recommend.",
   },
   {
-    q: "Is BestFindsHQ part of Amazon?",
-    a: "No. BestFindsHQ is an independent editorial website. BestFindsHQ is not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which allows independent publishers to earn commissions on qualifying purchases — but we operate independently.",
+    q: "Is WorthRated part of Amazon?",
+    a: "No. WorthRated is an independent editorial website. WorthRated is not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which allows independent publishers to earn commissions on qualifying purchases — but we operate independently.",
   },
   {
-    q: "How are BestFindsHQ recommendations created?",
+    q: "How are WorthRated recommendations created?",
     a: "Recommendations are based on product specifications, verified buyer feedback patterns, dimensions, mounting requirements, and small-space use cases. Unless explicitly stated otherwise, our guides are research-based — not hands-on lab tests. Our full methodology is explained on the How We Review page.",
   },
   {
     q: 'What does "desk finds" mean?',
-    a: '"Desk finds" refers to useful, practical products discovered for desk setups and compact workspaces — similar to the idea of a great "find" when shopping. BestFindsHQ was built around the idea of surfacing the best products for small-space desk setups that are easy to overlook in typical product roundups.',
+    a: '"Desk finds" refers to useful, practical products discovered for desk setups and compact workspaces — similar to the idea of a great "find" when shopping. WorthRated was built around the idea of surfacing the best products for small-space desk setups that are easy to overlook in typical product roundups.',
   },
 ];
 
@@ -186,34 +186,34 @@ const breadcrumbSchema = {
   "@type": "BreadcrumbList",
   itemListElement: [
     { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
-    { "@type": "ListItem", position: 2, name: "About BestFindsHQ", item: `${SITE_URL}/about-bestfindshq` },
+    { "@type": "ListItem", position: 2, name: "About WorthRated", item: `${SITE_URL}/about-worthrated` },
   ],
 };
 
 const aboutPageSchema = {
   "@context": "https://schema.org",
   "@type": "AboutPage",
-  name: "About BestFindsHQ",
+  name: "About WorthRated",
   description:
-    "BestFindsHQ helps students, remote workers, renters, and small-space users find practical desk setup products through research-based buying guides, comparisons, and transparent affiliate recommendations.",
-  url: `${SITE_URL}/about-bestfindshq`,
+    "WorthRated helps students, remote workers, renters, and small-space users find practical desk setup products through research-based buying guides, comparisons, and transparent affiliate recommendations.",
+  url: `${SITE_URL}/about-worthrated`,
   publisher: {
     "@type": "Organization",
-    name: "BestFindsHQ",
+    name: "WorthRated",
     url: SITE_URL,
-    sameAs: [`${SITE_URL}/author/bestfindshq-editorial-team`],
+    sameAs: [`${SITE_URL}/author/worthrated-editorial-team`],
   },
 };
 
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "BestFindsHQ",
+  name: "WorthRated",
   url: SITE_URL,
   description:
     "Independent buying guide website for small-space desk setups, dorm rooms, and compact home offices.",
   publishingPrinciples: `${SITE_URL}/how-we-review`,
-  sameAs: [`${SITE_URL}/author/bestfindshq-editorial-team`],
+  sameAs: [`${SITE_URL}/author/worthrated-editorial-team`],
 };
 
 
@@ -230,27 +230,27 @@ export default function AboutPage() {
 
         {/* ── H1 Hero ────────────────────────────────────────────────── */}
         <header className="mb-12">
-          <span className="text-xs font-bold uppercase tracking-widest text-brand">About BestFindsHQ</span>
+          <span className="text-xs font-bold uppercase tracking-widest text-brand">About WorthRated</span>
           <h1 className="text-4xl font-bold text-ink mt-2 mb-3 tracking-tight">
             Making Small Spaces Work Smarter
           </h1>
           <p className="text-lg text-ink-secondary leading-relaxed max-w-2xl">
-            BestFindsHQ is a workspace buying guide website for people who need practical product recommendations for dorm rooms, small apartments, bedroom desks, and compact workspaces — built on research, not sponsored rankings.
+            WorthRated is a workspace buying guide website for people who need practical product recommendations for dorm rooms, small apartments, bedroom desks, and compact workspaces — built on research, not sponsored rankings.
           </p>
         </header>
 
-        {/* ── What Is BestFindsHQ ──────────────────────────────────────── */}
-        <section className="mb-12 p-6 bg-white rounded-2xl border border-border" aria-labelledby="what-is-bestfindshq">
-          <h2 id="what-is-bestfindshq" className="text-2xl font-bold text-ink mb-4 tracking-tight">What Is BestFindsHQ?</h2>
+        {/* ── What Is WorthRated ──────────────────────────────────────── */}
+        <section className="mb-12 p-6 bg-white rounded-2xl border border-border" aria-labelledby="what-is-worthrated">
+          <h2 id="what-is-worthrated" className="text-2xl font-bold text-ink mb-4 tracking-tight">What Is WorthRated?</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
-              <strong className="text-ink">BestFindsHQ is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on BestFindsHQ, you go directly to a third-party retailer — usually Amazon — to buy it there.
+              <strong className="text-ink">WorthRated is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on WorthRated, you go directly to a third-party retailer — usually Amazon — to buy it there.
             </p>
             <p>
-              BestFindsHQ publishes <strong className="text-ink">buying guides, product comparisons, and review-style content</strong> to help people figure out which products are worth buying before they spend money. Every guide is focused on a specific product category and a specific constraint: small spaces, realistic budgets, and practical use cases.
+              WorthRated publishes <strong className="text-ink">buying guides, product comparisons, and review-style content</strong> to help people figure out which products are worth buying before they spend money. Every guide is focused on a specific product category and a specific constraint: small spaces, realistic budgets, and practical use cases.
             </p>
             <p>
-              If you have searched for something like <em>&ldquo;best desk lamp for a dorm room&rdquo;</em> or <em>&ldquo;tablet stand that works on a bed&rdquo;</em> and found a BestFindsHQ article, that is what we do — we research those questions and publish structured answers, not sales pitches.
+              If you have searched for something like <em>&ldquo;best desk lamp for a dorm room&rdquo;</em> or <em>&ldquo;tablet stand that works on a bed&rdquo;</em> and found a WorthRated article, that is what we do — we research those questions and publish structured answers, not sales pitches.
             </p>
           </div>
         </section>
@@ -263,16 +263,16 @@ export default function AboutPage() {
               A dorm room, a studio apartment, or a bedroom desk does not have to mean a compromised setup. The right products — chosen specifically for tight spaces — can make a 200-square-foot room as productive and comfortable as a much larger one.
             </p>
             <p>
-              BestFindsHQ exists to help <strong className="text-ink">students, remote workers, first-time renters, and small-space users</strong> find those products without wading through sponsored rankings, vague listicles, or buying guides clearly written without considering what a real dorm desk looks like.
+              WorthRated exists to help <strong className="text-ink">students, remote workers, first-time renters, and small-space users</strong> find those products without wading through sponsored rankings, vague listicles, or buying guides clearly written without considering what a real dorm desk looks like.
             </p>
           </div>
         </section>
 
-        {/* ── Who BestFindsHQ Is For ───────────────────────────────────── */}
+        {/* ── Who WorthRated Is For ───────────────────────────────────── */}
         <section className="mb-12" aria-labelledby="who-for">
-          <h2 id="who-for" className="text-2xl font-bold text-ink mb-2 tracking-tight">Who BestFindsHQ Is For</h2>
+          <h2 id="who-for" className="text-2xl font-bold text-ink mb-2 tracking-tight">Who WorthRated Is For</h2>
           <p className="text-sm text-ink-secondary mb-6">
-            Every guide on BestFindsHQ is written with one of these people in mind:
+            Every guide on WorthRated is written with one of these people in mind:
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {AUDIENCE.map((item) => (
@@ -289,11 +289,11 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* ── What BestFindsHQ Covers ──────────────────────────────────── */}
+        {/* ── What WorthRated Covers ──────────────────────────────────── */}
         <section className="mb-12" aria-labelledby="what-covers">
-          <h2 id="what-covers" className="text-2xl font-bold text-ink mb-2 tracking-tight">What BestFindsHQ Covers</h2>
+          <h2 id="what-covers" className="text-2xl font-bold text-ink mb-2 tracking-tight">What WorthRated Covers</h2>
           <p className="text-sm text-ink-secondary mb-5">
-            BestFindsHQ publishes guides across the most common small-space desk setup categories:
+            WorthRated publishes guides across the most common small-space desk setup categories:
           </p>
           <div className="flex flex-wrap gap-2.5">
             {COVERS.map((item) => (
@@ -311,7 +311,7 @@ export default function AboutPage() {
           </div>
           <p className="text-xs text-ink-muted mt-4">
             Browse all guides at{" "}
-            <Link href="/guide" className="text-brand hover:underline font-medium">bestfindshq.com/guide</Link>
+            <Link href="/guide" className="text-brand hover:underline font-medium">worthrated.com/guide</Link>
             {" "}or by category at{" "}
             <Link href="/categories/desk-setup" className="text-brand hover:underline font-medium">Desk Setup</Link>
             {", "}
@@ -321,11 +321,11 @@ export default function AboutPage() {
           </p>
         </section>
 
-        {/* ── What Makes BestFindsHQ Different ────────────────────────── */}
+        {/* ── What Makes WorthRated Different ────────────────────────── */}
         <section className="mb-12" aria-labelledby="different">
-          <h2 id="different" className="text-2xl font-bold text-ink mb-2 tracking-tight">What Makes BestFindsHQ Different</h2>
+          <h2 id="different" className="text-2xl font-bold text-ink mb-2 tracking-tight">What Makes WorthRated Different</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-6">
-            There are thousands of Amazon product roundup sites. Here is why we think BestFindsHQ is worth your time:
+            There are thousands of Amazon product roundup sites. Here is why we think WorthRated is worth your time:
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {DIFFERENTIATORS.map((item) => (
@@ -346,9 +346,9 @@ export default function AboutPage() {
           </p>
         </section>
 
-        {/* ── How BestFindsHQ Research Works ──────────────────────────── */}
+        {/* ── How WorthRated Research Works ──────────────────────────── */}
         <section className="mb-12" aria-labelledby="research">
-          <h2 id="research" className="text-2xl font-bold text-ink mb-4 tracking-tight">How BestFindsHQ Research Works</h2>
+          <h2 id="research" className="text-2xl font-bold text-ink mb-4 tracking-tight">How WorthRated Research Works</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
               For every buying guide, we start by defining the exact small-space context: what are the physical constraints, what does the target buyer already own, and what are they actually trying to solve? We evaluate products against those real constraints — not generic &ldquo;great for home offices&rdquo; claims.
@@ -420,10 +420,10 @@ export default function AboutPage() {
           <h2 id="affiliate" className="text-lg font-bold text-ink mb-3">Our Affiliate Relationship</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
-              BestFindsHQ may earn a small commission when you purchase through links on this site. This does not add any extra cost to you — affiliate commissions come from the retailer margin, not from a price increase on your end.
+              WorthRated may earn a small commission when you purchase through links on this site. This does not add any extra cost to you — affiliate commissions come from the retailer margin, not from a price increase on your end.
             </p>
             <p>
-              Recommendation rankings on BestFindsHQ are not influenced by commission rates. We link to whatever product we genuinely believe is the best choice based on our evaluation criteria. A product that earns a higher commission will not rank higher than one that earns a lower commission if it is not the better product.
+              Recommendation rankings on WorthRated are not influenced by commission rates. We link to whatever product we genuinely believe is the best choice based on our evaluation criteria. A product that earns a higher commission will not rank higher than one that earns a lower commission if it is not the better product.
             </p>
             <p>
               Affiliate commissions help fund the research, writing, and maintenance of the site. Without them, the site would not exist in its current form.
@@ -436,7 +436,7 @@ export default function AboutPage() {
           {/* Affiliate CTA — single placement, transparent */}
           <div className="mt-5 pt-5 border-t border-border">
             <p className="text-xs text-ink-muted mb-3">
-              As an Amazon Associate, BestFindsHQ may earn from qualifying purchases. This does not add extra cost to you.
+              As an Amazon Associate, WorthRated may earn from qualifying purchases. This does not add extra cost to you.
             </p>
             <a
               href="https://amzn.to/4a8EGlH"
@@ -452,9 +452,9 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* ── Start With BestFindsHQ Guides ───────────────────────────── */}
+        {/* ── Start With WorthRated Guides ───────────────────────────── */}
         <section className="mb-12" aria-labelledby="start-guides">
-          <h2 id="start-guides" className="text-2xl font-bold text-ink mb-5 tracking-tight">Start With BestFindsHQ Guides</h2>
+          <h2 id="start-guides" className="text-2xl font-bold text-ink mb-5 tracking-tight">Start With WorthRated Guides</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {START_GUIDES.map((guide) => (
               <Link

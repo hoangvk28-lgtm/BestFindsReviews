@@ -80,7 +80,7 @@ export function AdminSidebar({ onClose }: AdminSidebarProps = {}) {
           <span className="text-white text-xs font-bold">SP</span>
         </div>
         <div className="min-w-0 flex-1">
-          <p className="text-white text-sm font-bold tracking-tight truncate">BestFindsHQ</p>
+          <p className="text-white text-sm font-bold tracking-tight truncate">WorthRated</p>
           <p className="text-[11px]" style={{ color: "rgba(255,255,255,0.38)" }}>Admin</p>
         </div>
         {onClose && (

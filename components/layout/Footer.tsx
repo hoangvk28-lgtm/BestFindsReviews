@@ -32,8 +32,8 @@ export async function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block mb-4">
               <Image
-                src="/logo-bestfindshq-official.png"
-                alt="BestFindsHQ"
+                src="/logo-worthrated-official.png"
+                alt="WorthRated"
                 width={280}
                 height={76}
                 className="h-16 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"

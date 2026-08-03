@@ -91,7 +91,7 @@ const methodologyArticleSchema = {
   url: `${SITE_URL}/how-we-review`,
   author: {
     "@type": "Organization",
-    name: "BestFindsHQ",
+    name: "WorthRated",
     url: SITE_URL,
   },
   publisher: { "@id": `${SITE_URL}/#organization` },
@@ -110,7 +110,7 @@ export default function HowWeReviewPage() {
           How We Review and Compare Products
         </h1>
         <p className="text-lg text-ink-secondary leading-relaxed max-w-2xl">
-          Every recommendation on BestFindsHQ follows the same documented process. Here is exactly how we evaluate products, how we assign scores, and what our editorial badges mean.
+          Every recommendation on WorthRated follows the same documented process. Here is exactly how we evaluate products, how we assign scores, and what our editorial badges mean.
         </p>
       </header>
 

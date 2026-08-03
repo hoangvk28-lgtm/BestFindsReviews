@@ -1,4 +1,4 @@
-﻿export const AMAZON_TAG = "bestfindshq0d-20";
+﻿export const AMAZON_TAG = "worthrated0d-20";
 
 /**
  * Central URL builder - swap out AMAZON_TAG once your Associates account is approved.
@@ -9,7 +9,7 @@ export function buildAmazonUrl(asin: string): string {
 }
 
 export const DISCLOSURE_SHORT =
-  "BestFindsHQ earns a small commission on qualifying Amazon purchases at no extra cost to you.";
+  "WorthRated earns a small commission on qualifying Amazon purchases at no extra cost to you.";
 
 export const DISCLOSURE_FULL =
-  "BestFindsHQ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our editorial opinions are independent and are never influenced by affiliate relationships.";
+  "WorthRated is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our editorial opinions are independent and are never influenced by affiliate relationships.";

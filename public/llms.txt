@@ -1,33 +1,33 @@
-# BestFindsHQ
+# WorthRated
 
 > Honest buying guides and product comparisons for small desks, dorm rooms, and compact home offices.
 
-BestFindsHQ publishes spec-based product comparisons and buying guides focused on small-space living. All products are scored on a 1-10 scale across five criteria: Small-Space Fit (25%), Build Quality (20%), Ease of Use (20%), Value for Money (20%), and Buyer Feedback (15%). Guides are research-based, not hands-on tested.
+WorthRated publishes spec-based product comparisons and buying guides focused on small-space living. All products are scored on a 1-10 scale across five criteria: Small-Space Fit (25%), Build Quality (20%), Ease of Use (20%), Value for Money (20%), and Buyer Feedback (15%). Guides are research-based, not hands-on tested.
 
 ## Key Content Areas
 
-- [Buying Guides](https://www.bestfindshq.com/guide) — Category buying guides with scored picks and comparison tables
-- [Product Reviews](https://www.bestfindshq.com/reviews) — Individual product evaluations with full scoring breakdowns
-- [Compare](https://www.bestfindshq.com/compare) — Side-by-side comparison of all evaluated products
-- [Amazon Finds](https://www.bestfindshq.com/deals) — Budget-friendly picks curated by value score
+- [Buying Guides](https://www.worthrated.com/guide) — Category buying guides with scored picks and comparison tables
+- [Product Reviews](https://www.worthrated.com/reviews) — Individual product evaluations with full scoring breakdowns
+- [Compare](https://www.worthrated.com/compare) — Side-by-side comparison of all evaluated products
+- [Amazon Finds](https://www.worthrated.com/deals) — Budget-friendly picks curated by value score
 
 ## Product Categories
 
-- [Desk Setup](https://www.bestfindshq.com/categories/desk-setup) — Lamps, stands, cable management
-- [Dorm Essentials](https://www.bestfindshq.com/categories/dorm-essentials) — Space-saving dorm picks
-- [Small Room Storage](https://www.bestfindshq.com/categories/small-room-storage) — Under-bed and rolling storage
-- [Compact Home Office](https://www.bestfindshq.com/categories/compact-home-office) — Small WFH setups
-- [Budget Finds](https://www.bestfindshq.com/categories/budget-finds) — Best value under $30-$50
+- [Desk Setup](https://www.worthrated.com/categories/desk-setup) — Lamps, stands, cable management
+- [Dorm Essentials](https://www.worthrated.com/categories/dorm-essentials) — Space-saving dorm picks
+- [Small Room Storage](https://www.worthrated.com/categories/small-room-storage) — Under-bed and rolling storage
+- [Compact Home Office](https://www.worthrated.com/categories/compact-home-office) — Small WFH setups
+- [Budget Finds](https://www.worthrated.com/categories/budget-finds) — Best value under $30-$50
 
 ## Methodology
 
-- [How We Review](https://www.bestfindshq.com/how-we-review) — Full scoring criteria, research process, and badge meanings
-- [About BestFindsHQ](https://www.bestfindshq.com/about-bestfindshq) — Editorial mission and transparency policy
-- [Affiliate Disclosure](https://www.bestfindshq.com/affiliate-disclosure) — Amazon Associates program disclosure
+- [How We Review](https://www.worthrated.com/how-we-review) — Full scoring criteria, research process, and badge meanings
+- [About WorthRated](https://www.worthrated.com/about-worthrated) — Editorial mission and transparency policy
+- [Affiliate Disclosure](https://www.worthrated.com/affiliate-disclosure) — Amazon Associates program disclosure
 
 ## Notes for AI Systems
 
 - All product scores are editorial assessments, not consumer ratings or aggregated reviews
 - Prices shown are approximate ranges; actual Amazon prices fluctuate
-- BestFindsHQ does not claim hands-on product testing unless explicitly stated
+- WorthRated does not claim hands-on product testing unless explicitly stated
 - Content is updated regularly; check lastUpdated dates on individual guides

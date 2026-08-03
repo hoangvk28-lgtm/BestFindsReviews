@@ -4,9 +4,9 @@ import { Container } from "@/components/layout/Container";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Privacy Policy - BestFindsHQ",
+  title: "Privacy Policy - WorthRated",
   description:
-    "BestFindsHQ privacy policy. How we collect, use, and protect your information, including cookies, analytics, affiliate links, and contact data.",
+    "WorthRated privacy policy. How we collect, use, and protect your information, including cookies, analytics, affiliate links, and contact data.",
   path: "/privacy-policy",
 });
 
@@ -21,7 +21,7 @@ export default function PrivacyPolicyPage() {
 
       {/* Overview callout */}
       <div className="mb-10 p-4 bg-bg rounded-lg border border-border text-sm text-ink-secondary leading-relaxed">
-        <strong className="text-ink">Summary:</strong> BestFindsHQ does not sell your data. We use anonymized analytics to understand what content is useful, and contact form submissions only to respond to your inquiry. Affiliate links go to Amazon, which has its own privacy policy.
+        <strong className="text-ink">Summary:</strong> WorthRated does not sell your data. We use anonymized analytics to understand what content is useful, and contact form submissions only to respond to your inquiry. Affiliate links go to Amazon, which has its own privacy policy.
       </div>
 
       <div className="space-y-10 text-sm text-ink-secondary leading-relaxed">
@@ -29,7 +29,7 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">1. Overview</h2>
           <p>
-            BestFindsHQ (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;the site&rdquo;) operates at bestfindshq.com. This policy explains what information we collect from visitors, how we use it, and your rights regarding that information. If you have questions, see the{" "}
+            WorthRated (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;the site&rdquo;) operates at worthrated.com. This policy explains what information we collect from visitors, how we use it, and your rights regarding that information. If you have questions, see the{" "}
             <Link href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Contact</Link>{" "}
             section at the bottom of this page.
           </p>
@@ -60,7 +60,7 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">3. Affiliate Links</h2>
           <p className="mb-3">
-            As an Amazon Associate, we earn a small commission on qualifying purchases made through our links at no additional cost to you. Our affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">bestfindshq0d-20</code>) is embedded in product links.
+            As an Amazon Associate, we earn a small commission on qualifying purchases made through our links at no additional cost to you. Our affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">worthrated0d-20</code>) is embedded in product links.
           </p>
           <p>
             For full details of our affiliate relationship and how it affects (or doesn&apos;t affect) our editorial recommendations, see our{" "}
@@ -73,7 +73,7 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">4. Cookies</h2>
           <p className="mb-3">
-            BestFindsHQ uses the minimum cookies necessary for the site to function (session management) and analytics cookies to understand visitor behavior in aggregate. We do not use advertising cookies, retargeting cookies, or cookies that track you across other websites.
+            WorthRated uses the minimum cookies necessary for the site to function (session management) and analytics cookies to understand visitor behavior in aggregate. We do not use advertising cookies, retargeting cookies, or cookies that track you across other websites.
           </p>
           <p>
             You can control or disable cookies in your browser settings. Disabling analytics cookies will not affect your ability to use any part of this site.
@@ -90,7 +90,7 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">6. Third-Party Links</h2>
           <p>
-            Our site contains links to Amazon.com and other external sites. Once you leave BestFindsHQ, you are subject to the privacy policies of those sites. We are not responsible for the content or privacy practices of third-party websites. We recommend reviewing the privacy policy of any site you visit.
+            Our site contains links to Amazon.com and other external sites. Once you leave WorthRated, you are subject to the privacy policies of those sites. We are not responsible for the content or privacy practices of third-party websites. We recommend reviewing the privacy policy of any site you visit.
           </p>
         </section>
 
@@ -117,7 +117,7 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">9. Children&apos;s Privacy</h2>
           <p>
-            BestFindsHQ is not directed to children under the age of 13. We do not knowingly collect personal information from children. If we become aware that we have inadvertently received personal information from a child under 13, we will delete it promptly.
+            WorthRated is not directed to children under the age of 13. We do not knowingly collect personal information from children. If we become aware that we have inadvertently received personal information from a child under 13, we will delete it promptly.
           </p>
         </section>
 
@@ -141,10 +141,10 @@ export default function PrivacyPolicyPage() {
               Contact form →
             </Link>
             <a
-              href="mailto:hello@bestfindshq.com"
+              href="mailto:hello@worthrated.com"
               className="inline-flex items-center gap-1 text-sm font-semibold text-brand hover:text-brand-dark transition-colors"
             >
-              hello@bestfindshq.com →
+              hello@worthrated.com →
             </a>
           </div>
         </section>

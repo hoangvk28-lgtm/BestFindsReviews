@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const author = getAuthorBySlug(slug);
   if (!author) return {};
   return buildMetadata({
-    title: `${author.name} — ${author.role} | BestFindsHQ`,
+    title: `${author.name} — ${author.role} | WorthRated`,
     description: author.bio,
     path: `/author/${slug}`,
   });
@@ -37,7 +37,7 @@ export default async function AuthorPage({ params }: Props) {
   const authorGuides = allGuides.filter(
     (g) =>
       g.author?.toLowerCase() === author.name.toLowerCase() ||
-      g.author?.toLowerCase().includes("bestfindshq")
+      g.author?.toLowerCase().includes("worthrated")
   );
 
   const jsonLd = author.isPerson
@@ -52,7 +52,7 @@ export default async function AuthorPage({ params }: Props) {
         ...(author.avatarUrl ? { image: author.avatarUrl } : {}),
         sameAs: author.social.filter((s) => s.url).map((s) => s.url),
         knowsAbout: author.expertise,
-        worksFor: { "@type": "Organization", name: "BestFindsHQ", url: SITE_URL },
+        worksFor: { "@type": "Organization", name: "WorthRated", url: SITE_URL },
         publishingPrinciples: `${SITE_URL}/how-we-review`,
       }
     : {

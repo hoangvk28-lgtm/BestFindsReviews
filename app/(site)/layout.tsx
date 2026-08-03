@@ -13,9 +13,9 @@ const siteSchema = {
       description: SITE_DESCRIPTION,
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/logo-bestfindshq-official.png`,
+        url: `${SITE_URL}/logo-worthrated-official.png`,
       },
-      sameAs: ["https://twitter.com/bestfindshq"],
+      sameAs: ["https://twitter.com/worthrated"],
     },
     {
       "@type": "WebSite",
