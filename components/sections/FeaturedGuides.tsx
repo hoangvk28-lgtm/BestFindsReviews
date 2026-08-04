@@ -40,7 +40,7 @@ export function FeaturedGuides({
       ) : (
         <div className="rounded-card border border-border border-dashed bg-surface-soft/40 p-8 text-center">
           <p className="text-sm text-ink-secondary">
-            Our first buying guides are in research right now — check back soon.
+            Our first buying guides are in research right now. Check back soon.
           </p>
         </div>
       )}

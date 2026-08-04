@@ -52,7 +52,7 @@ export default function OpengraphImage() {
             fontWeight: 600,
           }}
         >
-          {BRAND_NAME} — Independent buying guides for easier living
+          {BRAND_NAME}, Independent buying guides for easier living
         </div>
       </div>
     ),

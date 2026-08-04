@@ -11,7 +11,7 @@ import { categories } from "@/data/categories";
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
-  title: "Product Reviews – Small Space Products",
+  title: "Product Reviews - Small Space Products",
   description:
     "Individual product reviews for small room setups, desk accessories, dorm essentials, and storage solutions.",
   path: "/reviews",

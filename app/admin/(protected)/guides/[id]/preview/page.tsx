@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: PageProps) {
   const guide = await getGuideById(id).catch(() => null);
   return buildMetadata({
     title: guide ? `PREVIEW: ${guide.title}` : "Guide Preview",
-    description: "Admin preview — not published.",
+    description: "Admin preview, not published.",
     path: `/admin/guides/${id}/preview`,
     noIndex: true,
   });
@@ -34,7 +34,7 @@ export default async function GuidePreviewPage({ params }: PageProps) {
     guide = await getGuideById(id);
   } catch {
     return (
-      <div className="p-8 text-red-600 text-sm">Could not load guide — Supabase may not be configured.</div>
+      <div className="p-8 text-red-600 text-sm">Could not load guide, Supabase may not be configured.</div>
     );
   }
   if (!guide) notFound();
@@ -47,7 +47,7 @@ export default async function GuidePreviewPage({ params }: PageProps) {
     <div className="min-h-screen bg-white">
       {/* Preview banner */}
       <div className="bg-amber-400 text-amber-900 text-sm font-semibold text-center px-4 py-2.5 flex items-center justify-center gap-3">
-        <span>PREVIEW — This guide is {guide.status === "published" ? "published" : "not published"} (status: {guide.status})</span>
+        <span>PREVIEW, This guide is {guide.status === "published" ? "published" : "not published"} (status: {guide.status})</span>
         <Link href={`/admin/guides/${id}/edit`}
           className="underline text-amber-800 hover:text-amber-950 transition-colors">
           ← Back to Edit
@@ -118,14 +118,14 @@ export default async function GuidePreviewPage({ params }: PageProps) {
                     {guide.productPicks.map((pick) => (
                       <tr key={pick.id} className="hover:bg-gray-50 transition-colors">
                         <td className="px-4 py-3 font-medium text-gray-900">{pick.name}</td>
-                        <td className="px-4 py-3 text-gray-500 hidden sm:table-cell">{pick.badge || "—"}</td>
+                        <td className="px-4 py-3 text-gray-500 hidden sm:table-cell">{pick.badge || ", "}</td>
                         <td className="px-4 py-3 text-gray-500 hidden sm:table-cell">{pick.priceLabel}</td>
                         <td className="px-4 py-3">
                           {pick.fitScore != null ? (
                             <span className={`font-bold text-sm ${scoreToColor(pick.fitScore)}`}>
                               {pick.fitScore.toFixed(1)}
                             </span>
-                          ) : "—"}
+                          ) : ", "}
                         </td>
                       </tr>
                     ))}

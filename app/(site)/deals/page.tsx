@@ -25,9 +25,9 @@ const exploreChips = [
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Amazon Finds for Small Spaces – Budget-Friendly Picks",
+  title: "Amazon Finds for Small Spaces - Budget-Friendly Picks",
   description:
-    "Budget-friendly Amazon products for small spaces, dorm rooms, and compact desks. Curated for value — scored on real criteria, not sponsored placement.",
+    "Budget-friendly Amazon products for small spaces, dorm rooms, and compact desks. Curated for value, scored on real criteria, not sponsored placement.",
   path: "/deals",
 });
 
@@ -86,13 +86,13 @@ export default async function DealsPage() {
             Amazon Finds for Small Spaces
           </h1>
           <p className="text-ink-secondary leading-relaxed text-lg">
-            Budget-friendly picks for dorms, compact desks, and small rooms – curated by value score, not sponsored rank. All prices are approximate ranges; check Amazon for current pricing.
+            Budget-friendly picks for dorms, compact desks, and small rooms - curated by value score, not sponsored rank. All prices are approximate ranges; check Amazon for current pricing.
           </p>
         </div>
 
         {/* Disclosure */}
         <div className="mb-8 p-4 bg-bg rounded-lg border border-border text-sm text-ink-muted leading-relaxed">
-          <strong className="text-ink">Affiliate disclosure:</strong> We may earn a commission when you buy through our Amazon links at no extra cost to you. Prices and availability change on Amazon – always check the current listing before purchasing. We do not receive payment for product placement.
+          <strong className="text-ink">Affiliate disclosure:</strong> We may earn a commission when you buy through our Amazon links at no extra cost to you. Prices and availability change on Amazon - always check the current listing before purchasing. We do not receive payment for product placement.
         </div>
 
         {/* Jump nav */}
@@ -127,7 +127,7 @@ export default async function DealsPage() {
                 </div>
                 <h2 className="text-2xl font-bold text-ink tracking-tight">Current Curated Picks</h2>
                 <p className="text-sm text-ink-secondary mt-1 max-w-lg leading-relaxed">
-                  Hand-selected products worth checking on Amazon right now – scored and verified, not sponsored.
+                  Hand-selected products worth checking on Amazon right now - scored and verified, not sponsored.
                 </p>
               </div>
               <p className="text-xs text-ink-muted shrink-0">All prices approximate · Check Amazon</p>
@@ -148,7 +148,7 @@ export default async function DealsPage() {
           id="top-value"
           eyebrow="Top Picks"
           heading="Highest Value for Money"
-          description="Products that score 9.3 or higher on our value-for-money criteria – these deliver the most capability per dollar among everything we've evaluated."
+          description="Products that score 9.3 or higher on our value-for-money criteria - these deliver the most capability per dollar among everything we've evaluated."
           products={topValuePicks}
           disclaimer="Value scores reflect our editorial assessment. Check current Amazon pricing before purchasing."
         />
@@ -157,10 +157,10 @@ export default async function DealsPage() {
         <ProductSection
           id="budget"
           eyebrow="Budget Finds"
-          heading="Worth Checking – Often Under $30"
-          description="Picks where the lower end of the typical price range falls under $30. Actual prices vary – these are often available at affordable prices but check Amazon for the current amount."
+          heading="Worth Checking - Often Under $30"
+          description="Picks where the lower end of the typical price range falls under $30. Actual prices vary - these are often available at affordable prices but check Amazon for the current amount."
           products={budgetPicks}
-          disclaimer="Price ranges are approximate. Actual Amazon prices fluctuate – always check the listing."
+          disclaimer="Price ranges are approximate. Actual Amazon prices fluctuate - always check the listing."
         />
 
         {/* ── Section: Dorm room finds ── */}
@@ -168,7 +168,7 @@ export default async function DealsPage() {
           id="dorm"
           eyebrow="Dorm Room"
           heading="Dorm Room Finds"
-          description="Space-saving picks designed for dorm life – compact, damage-free, and affordable. These work within typical dorm restrictions and tight quarters."
+          description="Space-saving picks designed for dorm life - compact, damage-free, and affordable. These work within typical dorm restrictions and tight quarters."
           products={dormPicks}
         />
 
@@ -200,11 +200,11 @@ export default async function DealsPage() {
             </div>
             <div>
               <p className="font-semibold text-ink mb-1">Look for clippable coupons</p>
-              <p>Many products have an optional coupon on the product page – look for a &quot;Save X% with coupon&quot; checkbox before checkout.</p>
+              <p>Many products have an optional coupon on the product page - look for a &quot;Save X% with coupon&quot; checkbox before checkout.</p>
             </div>
             <div>
               <p className="font-semibold text-ink mb-1">Prime Day &amp; Back to School</p>
-              <p>Desk accessories and storage products often see their deepest discounts during Prime Day (July) and back-to-school season (August–September).</p>
+              <p>Desk accessories and storage products often see their deepest discounts during Prime Day (July) and back-to-school season (August-September).</p>
             </div>
           </div>
         </div>
@@ -217,7 +217,7 @@ export default async function DealsPage() {
               Not Sure What to Buy? Read a Guide First
             </h2>
             <p className="text-sm text-ink-secondary max-w-xl">
-              Our buying guides compare every product in a category side-by-side – with use-case advice, a comparison table, and a clear top recommendation.
+              Our buying guides compare every product in a category side-by-side - with use-case advice, a comparison table, and a clear top recommendation.
             </p>
           </div>
 

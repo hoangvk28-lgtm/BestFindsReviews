@@ -176,7 +176,7 @@ export async function createProductAction(
   if (Object.keys(dupeWarnings).length > 0) {
     if (data.status === "draft") {
       fieldErrors.duplicateWarning =
-        `Possible duplicate: ${Object.values(dupeWarnings).join(" ")} Save as draft is allowed — resolve before publishing.`;
+        `Possible duplicate: ${Object.values(dupeWarnings).join(" ")} Save as draft is allowed, resolve before publishing.`;
     } else {
       Object.assign(fieldErrors, dupeWarnings);
     }
@@ -221,7 +221,7 @@ export async function updateProductAction(
   if (Object.keys(dupeWarnings).length > 0) {
     if (data.status === "draft") {
       fieldErrors.duplicateWarning =
-        `Possible duplicate: ${Object.values(dupeWarnings).join(" ")} Save as draft is allowed — resolve before publishing.`;
+        `Possible duplicate: ${Object.values(dupeWarnings).join(" ")} Save as draft is allowed, resolve before publishing.`;
     } else {
       Object.assign(fieldErrors, dupeWarnings);
     }

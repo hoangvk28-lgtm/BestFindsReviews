@@ -34,7 +34,7 @@ export default function AffiliateDisclosurePage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">How Affiliate Links Work</h2>
           <p className="mb-3">
-            When you click a product link on WorthRated and complete a purchase on Amazon, Amazon pays us a small referral fee - typically 1–8% of the sale price depending on the product category. This fee is paid by Amazon, not added to your purchase price. You pay exactly the same amount whether you use our link or navigate to Amazon directly.
+            When you click a product link on WorthRated and complete a purchase on Amazon, Amazon pays us a small referral fee - typically 1-8% of the sale price depending on the product category. This fee is paid by Amazon, not added to your purchase price. You pay exactly the same amount whether you use our link or navigate to Amazon directly.
           </p>
           <p>
             Our links include an affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">worthrated-20</code>) that allows Amazon to attribute the referral to our account. This tag is the only information passed; we do not receive your name, address, or payment details.

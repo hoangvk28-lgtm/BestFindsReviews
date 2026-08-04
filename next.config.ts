@@ -46,6 +46,11 @@ const nextConfig: NextConfig = {
     },
   },
   images: {
+    // Vercel Hobby plan's free Image Optimization quota (5,000 transformations/month)
+    // is shared across every project on the account and is already exhausted, which
+    // makes every next/image request 402 in production. Serve images unoptimized
+    // (no on-the-fly resize/reformat) until the plan is upgraded or the quota resets.
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",

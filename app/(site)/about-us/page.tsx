@@ -8,7 +8,7 @@ import { buildMetadata, SITE_URL } from "@/lib/seo";
 const baseMeta = buildMetadata({
   title: "About WorthRated | Independent Buying Guides for Easier Living",
   description:
-    "WorthRated helps active, independent adults — and the family members researching for them — find home products that are genuinely easy to use.",
+    "WorthRated helps active, independent adults, and the family members researching for them, find home products that are genuinely easy to use.",
   path: "/about-us",
 });
 
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
 const AUDIENCE = [
   {
     title: "Active, independent adults 55-70",
-    desc: "Still living independently and shopping for themselves — looking for products that work well without a steep learning curve or fine print they can't read.",
+    desc: "Still living independently and shopping for themselves, looking for products that work well without a steep learning curve or fine print they can't read.",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
@@ -45,7 +45,7 @@ const AUDIENCE = [
   },
   {
     title: "Adult children researching for parents",
-    desc: "Trying to find the right microwave, vacuum, or phone for a parent — someone who wants a genuinely good product, not something that looks patronizing or overly medical.",
+    desc: "Trying to find the right microwave, vacuum, or phone for a parent, someone who wants a genuinely good product, not something that looks patronizing or overly medical.",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M18 18.72a9.094 9.094 0 0 0 3.741-.479 3 3 0 0 0-4.682-2.72m.94 3.198.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0 1 12 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 0 1 6 18.719m12 0a5.971 5.971 0 0 0-.941-3.197m0 0A5.995 5.995 0 0 0 12 12.75a5.995 5.995 0 0 0-5.058 2.772m0 0a3 3 0 0 0-4.681 2.72 8.986 8.986 0 0 0 3.74.477m.94-3.197a5.971 5.971 0 0 0-.94 3.197M15 6.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm6 3a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Zm-13.5 0a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Z" />
@@ -54,7 +54,7 @@ const AUDIENCE = [
   },
   {
     title: "Anyone tired of confusing products",
-    desc: "Readers who just want appliances and tools with clear buttons, readable displays, and manageable weight — without buying into a niche marketed only as 'for seniors.'",
+    desc: "Readers who just want appliances and tools with clear buttons, readable displays, and manageable weight, without buying into a niche marketed only as 'for seniors.'",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" />
@@ -71,7 +71,7 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Ease-of-use focused",
-    desc: "Every product is evaluated for how easy it actually is to set up, operate, and maintain — not just for feature count. Ease of Use is the single largest factor in our score.",
+    desc: "Every product is evaluated for how easy it actually is to set up, operate, and maintain, not just for feature count. Ease of Use is the single largest factor in our score.",
   },
   {
     icon: (
@@ -89,7 +89,7 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Practical buying guides",
-    desc: "Our guides are structured around real buying decisions: who a product is for, what trade-offs exist, and a clear recommendation with reasons — not a wall of near-identical listicle picks.",
+    desc: "Our guides are structured around real buying decisions: who a product is for, what trade-offs exist, and a clear recommendation with reasons, not a wall of near-identical listicle picks.",
   },
   {
     icon: (
@@ -121,7 +121,7 @@ const EDITORIAL_STANDARDS = [
 const FAQ_ITEMS = [
   {
     q: "What is WorthRated?",
-    a: "WorthRated is a buying guide website focused on everyday home products — kitchen, cleaning, tech, and garden — that are genuinely easy to use. We research and compare products to help people choose with confidence, especially readers who want simple controls and dependable long-term value.",
+    a: "WorthRated is a buying guide website focused on everyday home products, kitchen, cleaning, tech, and garden, that are genuinely easy to use. We research and compare products to help people choose with confidence, especially readers who want simple controls and dependable long-term value.",
   },
   {
     q: "Is WorthRated an online store?",
@@ -129,7 +129,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Does WorthRated sell products directly?",
-    a: "No. WorthRated does not sell products directly. When you click a product link on WorthRated, you are taken to a third-party retailer — most commonly Amazon — to complete the purchase there.",
+    a: "No. WorthRated does not sell products directly. When you click a product link on WorthRated, you are taken to a third-party retailer, most commonly Amazon, to complete the purchase there.",
   },
   {
     q: "How does WorthRated make money?",
@@ -141,7 +141,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Is WorthRated part of Amazon?",
-    a: "No. WorthRated is an independent editorial website, not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which lets independent publishers earn commissions on qualifying purchases — but we operate independently.",
+    a: "No. WorthRated is an independent editorial website, not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which lets independent publishers earn commissions on qualifying purchases, but we operate independently.",
   },
   {
     q: "How are WorthRated recommendations created?",
@@ -198,7 +198,7 @@ export default function AboutPage() {
             We rate products for easier living.
           </h1>
           <p className="text-lg text-ink-secondary leading-relaxed max-w-2xl">
-            WorthRated is an independent buying guide site for everyday home products — built for people who want something that&apos;s genuinely easy to use, not just full of features. Built on research, not sponsored rankings.
+            WorthRated is an independent buying guide site for everyday home products, built for people who want something that&apos;s genuinely easy to use, not just full of features. Built on research, not sponsored rankings.
           </p>
         </header>
 
@@ -207,13 +207,13 @@ export default function AboutPage() {
           <h2 id="what-is-worthrated" className="mb-4 tracking-tight">What Is WorthRated?</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
-              <strong className="text-ink">WorthRated is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on WorthRated, you go directly to a third-party retailer — usually Amazon — to buy it there.
+              <strong className="text-ink">WorthRated is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on WorthRated, you go directly to a third-party retailer, usually Amazon, to buy it there.
             </p>
             <p>
               WorthRated publishes <strong className="text-ink">buying guides and product comparisons</strong> to help people figure out which products are worth buying before they spend money. Every guide focuses on a specific product category and the questions that actually matter: how hard is this to set up, how clear are the controls, and will it hold up.
             </p>
             <p>
-              If you have searched for something like <em>&ldquo;easiest microwave to use&rdquo;</em> or <em>&ldquo;lightweight vacuum for seniors&rdquo;</em> and found a WorthRated article, that is what we do — we research those questions and publish clear, structured answers.
+              If you have searched for something like <em>&ldquo;easiest microwave to use&rdquo;</em> or <em>&ldquo;lightweight vacuum for seniors&rdquo;</em> and found a WorthRated article, that is what we do, we research those questions and publish clear, structured answers.
             </p>
           </div>
         </section>
@@ -223,7 +223,7 @@ export default function AboutPage() {
           <h2 id="our-mission" className="mb-4 tracking-tight">Our Mission</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
-              A good product shouldn&apos;t require a manual, a phone call to a grandchild, or a magnifying glass to operate. The right choice — one designed for genuine ease of use — makes daily life simpler for everyone, not just people with limited tech patience.
+              A good product shouldn&apos;t require a manual, a phone call to a grandchild, or a magnifying glass to operate. The right choice, one designed for genuine ease of use, makes daily life simpler for everyone, not just people with limited tech patience.
             </p>
             <p>
               WorthRated exists to help <strong className="text-ink">active, independent adults, and the family members researching on their behalf,</strong> find those products without wading through sponsored rankings, vague listicles, or guides that never mention how confusing the controls actually are.
@@ -308,7 +308,7 @@ export default function AboutPage() {
           <h2 id="research" className="mb-4 tracking-tight">How WorthRated Research Works</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
-              For every buying guide, we start with the questions that matter most for this audience: how easy is setup, how readable are the controls and display, how much does it weigh, and how much upkeep does it require? We evaluate products against those questions — not generic feature checklists.
+              For every buying guide, we start with the questions that matter most for this audience: how easy is setup, how readable are the controls and display, how much does it weigh, and how much upkeep does it require? We evaluate products against those questions, not generic feature checklists.
             </p>
             <p>Our research draws on:</p>
             <ul className="space-y-2 pl-4">
@@ -332,7 +332,7 @@ export default function AboutPage() {
               We believe being honest about this is more useful to you than pretending otherwise.
             </p>
             <p>
-              You can read our complete methodology — including all seven scoring criteria and what each badge means — on our{" "}
+              You can read our complete methodology, including all seven scoring criteria and what each badge means, on our{" "}
               <Link href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
                 How We Rate page
               </Link>.
@@ -374,7 +374,7 @@ export default function AboutPage() {
           <h2 id="affiliate" className="text-lg font-bold text-ink mb-3">Our Affiliate Relationship</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
-              WorthRated may earn a small commission when you purchase through links on this site. This does not add any extra cost to you — affiliate commissions come from the retailer margin, not from a price increase on your end.
+              WorthRated may earn a small commission when you purchase through links on this site. This does not add any extra cost to you, affiliate commissions come from the retailer margin, not from a price increase on your end.
             </p>
             <p>
               Recommendation rankings on WorthRated are not influenced by commission rates. We link to whatever product we genuinely believe is the best choice based on our evaluation criteria.

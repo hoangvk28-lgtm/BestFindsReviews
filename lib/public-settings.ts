@@ -37,7 +37,7 @@ export const DEFAULT_HOMEPAGE_SETTINGS: HomepageSettings = {
   sections: {
     guides: {
       title: "Top-rated picks for easier living",
-      description: "Independent guides comparing setup, controls, and long-term value — no padding, just honest picks.",
+      description: "Independent guides comparing setup, controls, and long-term value, no padding, just honest picks.",
       limit: 6,
     },
     deals: {
@@ -75,7 +75,7 @@ export const DEFAULT_AFFILIATE_SETTINGS: AffiliateSettings = {
   disclosureShort:
     "WorthRated is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no additional cost to you.",
   disclosureFull:
-    "WorthRated participates in affiliate programs, including the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our recommendations are based on published specifications, manufacturer documentation, and patterns in verified buyer feedback — our editorial opinions are independent and are never influenced by affiliate relationships.",
+    "WorthRated participates in affiliate programs, including the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our recommendations are based on published specifications, manufacturer documentation, and patterns in verified buyer feedback, our editorial opinions are independent and are never influenced by affiliate relationships.",
   disclosureBannerText:
     "We may earn a commission when you buy through Amazon links. Our recommendations are based on published specs, manufacturer documentation, and clear comparison criteria.",
   amazonTag: "worthrated-20",

@@ -55,7 +55,7 @@ export async function updateHomepageSettingsAction(
           { number: "14", unit: "products", label: str(formData, "trust.0.label"), description: str(formData, "trust.0.description") },
           { number: "6", unit: "buying guides", label: str(formData, "trust.1.label"), description: str(formData, "trust.1.description") },
           { number: "5", unit: "scoring criteria", label: str(formData, "trust.2.label"), description: str(formData, "trust.2.description") },
-          { number: "1–10", unit: "score scale", label: str(formData, "trust.3.label"), description: str(formData, "trust.3.description") },
+          { number: "1-10", unit: "score scale", label: str(formData, "trust.3.label"), description: str(formData, "trust.3.description") },
         ],
       },
       featuredGuideSlug: str(formData, "featuredGuideSlug"),

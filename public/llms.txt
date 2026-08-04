@@ -6,24 +6,24 @@ WorthRated publishes spec-based product comparisons and buying guides focused on
 
 ## Key Content Areas
 
-- [Buying Guides](https://www.worthrated.com/guide) — Category buying guides with scored picks and comparison tables
-- [Product Reviews](https://www.worthrated.com/reviews) — Individual product evaluations with full scoring breakdowns
-- [Compare](https://www.worthrated.com/compare) — Side-by-side comparison of all evaluated products
-- [Amazon Finds](https://www.worthrated.com/deals) — Budget-friendly picks curated by value score
+- [Buying Guides](https://www.worthrated.com/guide), Category buying guides with scored picks and comparison tables
+- [Product Reviews](https://www.worthrated.com/reviews), Individual product evaluations with full scoring breakdowns
+- [Compare](https://www.worthrated.com/compare), Side-by-side comparison of all evaluated products
+- [Amazon Finds](https://www.worthrated.com/deals), Budget-friendly picks curated by value score
 
 ## Product Categories
 
-- [Desk Setup](https://www.worthrated.com/categories/desk-setup) — Lamps, stands, cable management
-- [Dorm Essentials](https://www.worthrated.com/categories/dorm-essentials) — Space-saving dorm picks
-- [Small Room Storage](https://www.worthrated.com/categories/small-room-storage) — Under-bed and rolling storage
-- [Compact Home Office](https://www.worthrated.com/categories/compact-home-office) — Small WFH setups
-- [Budget Finds](https://www.worthrated.com/categories/budget-finds) — Best value under $30-$50
+- [Desk Setup](https://www.worthrated.com/categories/desk-setup), Lamps, stands, cable management
+- [Dorm Essentials](https://www.worthrated.com/categories/dorm-essentials), Space-saving dorm picks
+- [Small Room Storage](https://www.worthrated.com/categories/small-room-storage), Under-bed and rolling storage
+- [Compact Home Office](https://www.worthrated.com/categories/compact-home-office), Small WFH setups
+- [Budget Finds](https://www.worthrated.com/categories/budget-finds), Best value under $30-$50
 
 ## Methodology
 
-- [How We Review](https://www.worthrated.com/how-we-review) — Full scoring criteria, research process, and badge meanings
-- [About WorthRated](https://www.worthrated.com/about-worthrated) — Editorial mission and transparency policy
-- [Affiliate Disclosure](https://www.worthrated.com/affiliate-disclosure) — Amazon Associates program disclosure
+- [How We Review](https://www.worthrated.com/how-we-review), Full scoring criteria, research process, and badge meanings
+- [About WorthRated](https://www.worthrated.com/about-worthrated), Editorial mission and transparency policy
+- [Affiliate Disclosure](https://www.worthrated.com/affiliate-disclosure), Amazon Associates program disclosure
 
 ## Notes for AI Systems
 

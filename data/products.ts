@@ -1,7 +1,7 @@
 ﻿// ─── Types ───────────────────────────────────────────────────────────────────
 
 export interface ProductScore {
-  overall: number;       // 1–10  weighted aggregate
+  overall: number;       // 1-10  weighted aggregate
   smallSpaceFit: number; // how well it works in a tight/dorm space
   buildQuality: number;  // materials, finish, sturdiness
   easeOfUse: number;     // setup time, daily usability
@@ -17,7 +17,7 @@ export interface Product {
   subcategorySlug: string;
   image: string;
   amazonUrl: string;
-  priceRange: string;   // display string, e.g. "$25–$30"
+  priceRange: string;   // display string, e.g. "$25-$30"
   badge?: string;       // single primary editorial badge
   shortDescription: string;
   bestFor: string[];
@@ -33,7 +33,7 @@ export interface Product {
   asin?: string;           // Amazon ASIN (auto-builds amazonUrl if set)
   priceLabel?: "Budget" | "Mid-range" | "Premium" | "Check Amazon";
   useCase?: string;        // one-line use-case summary for editors
-  sourceNotes?: string;    // internal verification notes — not rendered publicly
+  sourceNotes?: string;    // internal verification notes, not rendered publicly
 }
 
 // ─── Data ─────────────────────────────────────────────────────────────────────

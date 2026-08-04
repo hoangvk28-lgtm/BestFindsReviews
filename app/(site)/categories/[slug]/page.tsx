@@ -67,7 +67,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!category) return {};
   return buildMetadata({
     title: `${category.name} Buying Guides`,
-    description: `Browse ${category.name.toLowerCase()} buying guides and product reviews on WorthRated — compared on ease of use, setup, and long-term value.`,
+    description: `Browse ${category.name.toLowerCase()} buying guides and product reviews on WorthRated, compared on ease of use, setup, and long-term value.`,
     path: `/categories/${slug}`,
   });
 }
@@ -99,7 +99,7 @@ export default async function CategoryPage({ params }: Props) {
   const collectionPageSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: `${category.name} — WorthRated`,
+    name: `${category.name}, WorthRated`,
     description: category.description,
     url: `${SITE_URL}/categories/${slug}`,
   };
@@ -204,7 +204,7 @@ export default async function CategoryPage({ params }: Props) {
               Quick Compare
             </span>
             <h2 className="text-2xl font-bold text-ink mt-1 mb-2 tracking-tight">
-              {category.name} — Side-by-Side
+              {category.name}, Side-by-Side
             </h2>
             <p className="text-sm text-ink-secondary leading-relaxed max-w-2xl">
               All {products.length} {category.name.toLowerCase()} products we evaluated, sorted by
@@ -232,7 +232,7 @@ export default async function CategoryPage({ params }: Props) {
               {category.name} Buying Advice
             </h2>
             <p className="text-sm text-ink-secondary leading-relaxed max-w-2xl">
-              Specific buying advice for common small-space questions — each linked to our full guide where available.
+              Specific buying advice for common small-space questions, each linked to our full guide where available.
             </p>
           </div>
 

@@ -19,9 +19,9 @@ import { buildMetadata } from "@/lib/seo";
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
-  title: "WorthRated - Amazon Buying Guides for Small Rooms & Dorms",
+  title: "WorthRated | Products That Make Everyday Life Simpler",
   description:
-    "Honest Amazon buying guides for small rooms, dorm setups, compact desks, and home offices. Spec-based comparisons so you don't have to guess.",
+    "Independent buying guides for easier to use home products. WorthRated compares setup, controls, handling, reliability and value to help you buy with confidence.",
   path: "/",
 });
 

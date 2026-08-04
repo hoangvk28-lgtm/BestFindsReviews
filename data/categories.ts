@@ -15,7 +15,7 @@ export const categories: Category[] = [
     slug: "easy-kitchen",
     name: "Easy Kitchen",
     description:
-      "Kitchen gadgets and appliances rated on how simple they are to set up, operate, and clean — clear buttons, readable displays, and manageable weight, not just features on a spec sheet.",
+      "Kitchen gadgets and appliances rated on how simple they are to set up, operate, and clean, clear buttons, readable displays, and manageable weight, not just features on a spec sheet.",
     shortDescription: "Appliances and gadgets with clear controls and simple daily use.",
     icon: "Kitchen",
     color: "#17324D",
@@ -25,7 +25,7 @@ export const categories: Category[] = [
     slug: "easy-cleaning",
     name: "Easy Cleaning",
     description:
-      "Vacuums, mops, and cleaning tools evaluated for weight, maneuverability, and how much ongoing maintenance they demand — practical picks for keeping a home comfortable without a fight.",
+      "Vacuums, mops, and cleaning tools evaluated for weight, maneuverability, and how much ongoing maintenance they demand, practical picks for keeping a home comfortable without a fight.",
     shortDescription: "Lightweight, low-maintenance tools for a comfortable home.",
     icon: "Cleaning",
     color: "#2F7D78",
@@ -35,7 +35,7 @@ export const categories: Category[] = [
     slug: "simple-tech",
     name: "Simple Tech",
     description:
-      "Phones, remotes, and smart-home devices compared on setup difficulty and everyday usability — technology that helps rather than adds another manual to read.",
+      "Phones, remotes, and smart-home devices compared on setup difficulty and everyday usability, technology that helps rather than adds another manual to read.",
     shortDescription: "Everyday tech that's genuinely easy to set up and use.",
     icon: "Tech",
     color: "#17324D",

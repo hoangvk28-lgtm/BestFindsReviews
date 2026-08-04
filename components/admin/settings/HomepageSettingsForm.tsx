@@ -77,7 +77,7 @@ export function HomepageSettingsForm({ initial, availableGuides }: Props) {
             <Textarea label="Description" name={`trust.${i}.description`} defaultValue={item.description} rows={2} />
           </div>
         ))}
-        <p className="text-xs text-ink-muted">The numbers/units are fixed (14 products, 6 guides, 5 criteria, 1–10 scale). Edit label and description text here.</p>
+        <p className="text-xs text-ink-muted">The numbers/units are fixed (14 products, 6 guides, 5 criteria, 1-10 scale). Edit label and description text here.</p>
       </Section>
 
       {/* ── Featured guide ── */}

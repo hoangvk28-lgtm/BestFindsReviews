@@ -6,7 +6,8 @@
 
 ## 0. Communication Rules
 
-- **Always address the user as "cậu"** in every response, without exception.
+- **Always address the user as "Cậu"** in every response, without exception. This is the user's signal for whether CLAUDE.md was actually read for this session — if a response doesn't say "Cậu", the user knows CLAUDE.md was missed.
+- **Never use em dashes (—) or en dashes (–) anywhere on the live website** — not in hero copy, headings, body text, metadata, or JSON-LD strings. Use a period, comma, colon, or rewrite the sentence instead. This applies to all public-facing text in `app/`, `components/`, `data/`, and `lib/public-settings.ts`. (Em/en dashes are fine in code comments and this file.)
 
 ---
 

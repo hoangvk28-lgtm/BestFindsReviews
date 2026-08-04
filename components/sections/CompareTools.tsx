@@ -34,7 +34,7 @@ export function CompareTools() {
             Side-by-Side Comparisons
           </h2>
           <p className="text-ink-secondary mt-2 leading-relaxed max-w-2xl">
-            Every comparison uses the same Worth Rating criteria — ease of use, controls, setup, and value — so results stay comparable across categories.
+            Every comparison uses the same Worth Rating criteria, ease of use, controls, setup, and value, so results stay comparable across categories.
           </p>
         </div>
         <Link

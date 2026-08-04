@@ -46,7 +46,7 @@ const SCORE_DIMS = [
     label: "Buyer Feedback",
     weight: "15%",
     description:
-      "Patterns extracted from verified Amazon buyer reviews, with particular attention to 1–3 star reviews that surface failure modes not visible in an aggregate rating. We weight this at 15% because buyer review quality varies significantly.",
+      "Patterns extracted from verified Amazon buyer reviews, with particular attention to 1-3 star reviews that surface failure modes not visible in an aggregate rating. We weight this at 15% because buyer review quality varies significantly.",
   },
 ];
 
@@ -147,12 +147,12 @@ export default function HowWeReviewPage() {
             {
               n: "4",
               title: "Score against our five criteria",
-              body: "Remaining products are scored across Small-Space Fit, Build Quality, Ease of Use, Value for Money, and Buyer Feedback. Each dimension is weighted to produce a single overall score on a 1–10 scale.",
+              body: "Remaining products are scored across Small-Space Fit, Build Quality, Ease of Use, Value for Money, and Buyer Feedback. Each dimension is weighted to produce a single overall score on a 1-10 scale.",
             },
             {
               n: "5",
               title: "Analyze negative reviews",
-              body: "We read 1–3 star Amazon reviews specifically to find failure patterns not visible in aggregate ratings. These patterns often reveal durability issues, size mismatches, or compatibility problems that positive reviews mask.",
+              body: "We read 1-3 star Amazon reviews specifically to find failure patterns not visible in aggregate ratings. These patterns often reveal durability issues, size mismatches, or compatibility problems that positive reviews mask.",
             },
             {
               n: "6",
@@ -177,7 +177,7 @@ export default function HowWeReviewPage() {
       <section className="mb-12">
         <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">Scoring Criteria</h2>
         <p className="text-ink-secondary leading-relaxed mb-6">
-          We score every product on a 1–10 scale across five dimensions. A weighted combination produces the overall score shown on each review and comparison page.
+          We score every product on a 1-10 scale across five dimensions. A weighted combination produces the overall score shown on each review and comparison page.
         </p>
 
         <div className="rounded-card border border-border overflow-hidden">
@@ -207,10 +207,10 @@ export default function HowWeReviewPage() {
         <h2 className="text-2xl font-bold text-ink mb-4 tracking-tight">Score Scale</h2>
         <div className="space-y-3">
           {[
-            { range: "9.0 – 10.0", label: "Excellent", color: "text-score-high bg-score-high/10 border-score-high/30", desc: "Best-in-class for small-space use. We recommend this product without hesitation to anyone in the target use case." },
-            { range: "8.0 – 8.9", label: "Very Good",  color: "text-score-mid bg-score-mid/10 border-score-mid/30", desc: "Strong performer with minor trade-offs. A confident recommendation - the caveats are noted clearly in the review." },
-            { range: "7.0 – 7.9", label: "Good",        color: "text-score-mid bg-score-mid/10 border-score-mid/30", desc: "Solid product that performs its core function well, but better alternatives exist in at least one important dimension." },
-            { range: "6.0 – 6.9", label: "Fair",        color: "text-score-low bg-score-low/10 border-score-low/30", desc: "Acceptable but with noticeable shortcomings. We include these only when they represent the best available budget option." },
+            { range: "9.0-10.0", label: "Excellent", color: "text-score-high bg-score-high/10 border-score-high/30", desc: "Best-in-class for small-space use. We recommend this product without hesitation to anyone in the target use case." },
+            { range: "8.0-8.9", label: "Very Good",  color: "text-score-mid bg-score-mid/10 border-score-mid/30", desc: "Strong performer with minor trade-offs. A confident recommendation - the caveats are noted clearly in the review." },
+            { range: "7.0-7.9", label: "Good",        color: "text-score-mid bg-score-mid/10 border-score-mid/30", desc: "Solid product that performs its core function well, but better alternatives exist in at least one important dimension." },
+            { range: "6.0-6.9", label: "Fair",        color: "text-score-low bg-score-low/10 border-score-low/30", desc: "Acceptable but with noticeable shortcomings. We include these only when they represent the best available budget option." },
             { range: "Below 6.0", label: "Not Included", color: "text-ink-muted bg-bg border-border", desc: "We generally do not include products that score below 6.0 in our published guides." },
           ].map((row) => (
             <div key={row.range} className="flex flex-col gap-2">

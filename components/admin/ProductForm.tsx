@@ -234,13 +234,13 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
             />
           </AdminFormField>
 
-          <AdminFormField label="Price Range" htmlFor="priceRange" hint='Display string e.g. "$25–$30". Required for published products.' error={fe.priceRange}>
+          <AdminFormField label="Price Range" htmlFor="priceRange" hint='Display string e.g. "$25-$30". Required for published products.' error={fe.priceRange}>
             <input
               id="priceRange"
               name="priceRange"
               type="text"
               defaultValue={product?.priceRange ?? ""}
-              placeholder="$25–$30"
+              placeholder="$25-$30"
               className={inputClass}
             />
           </AdminFormField>
@@ -262,7 +262,7 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
         </div>
 
         {!product?.amazonUrl && mode === "edit" && (
-          <p className="mt-3 text-xs text-amber-600 font-medium">⚠ No Amazon URL set — this product won&apos;t have a buy button on the public site.</p>
+          <p className="mt-3 text-xs text-amber-600 font-medium">⚠ No Amazon URL set, this product won&apos;t have a buy button on the public site.</p>
         )}
       </AdminCard>
 
@@ -296,7 +296,7 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
       <AdminCard>
         <h2 className="text-sm font-bold text-gray-900 mb-4">Descriptions</h2>
         <div className="flex flex-col gap-4">
-          <AdminFormField label="Short Description" htmlFor="shortDescription" hint="1–2 sentences shown in cards and search results.">
+          <AdminFormField label="Short Description" htmlFor="shortDescription" hint="1-2 sentences shown in cards and search results.">
             <textarea
               id="shortDescription"
               name="shortDescription"
@@ -306,7 +306,7 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
             />
           </AdminFormField>
 
-          <AdminFormField label="Review Summary" htmlFor="reviewSummary" hint="2–4 sentence editorial summary shown on the review page.">
+          <AdminFormField label="Review Summary" htmlFor="reviewSummary" hint="2-4 sentence editorial summary shown on the review page.">
             <textarea
               id="reviewSummary"
               name="reviewSummary"
@@ -385,7 +385,7 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
 
       {/* ── 8. Scores ─────────────────────────────────────────────────────── */}
       <AdminCard>
-        <h2 className="text-sm font-bold text-gray-900 mb-4">Scores <span className="font-normal text-gray-400">(0–10)</span></h2>
+        <h2 className="text-sm font-bold text-gray-900 mb-4">Scores <span className="font-normal text-gray-400">(0-10)</span></h2>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           {SCORE_FIELDS.map(({ key, label }) => (
             <AdminFormField
@@ -415,7 +415,7 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
       {/* ── 9. Source & Internal Notes ───────────────────────────────────── */}
       <AdminCard>
         <h2 className="text-sm font-bold text-gray-900 mb-1">Source & Internal Notes</h2>
-        <p className="text-xs text-gray-500 mb-4">Not rendered publicly — for editor reference only.</p>
+        <p className="text-xs text-gray-500 mb-4">Not rendered publicly, for editor reference only.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <AdminFormField label="Use Case" htmlFor="useCase" hint="One-line description, e.g. &quot;Home office charging, travel&quot;.">
             <input

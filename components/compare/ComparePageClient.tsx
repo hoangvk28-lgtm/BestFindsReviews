@@ -289,7 +289,7 @@ function ComparePageInner({ products, categories, lockedCategorySlug }: Props) {
       <div id="cards">
         <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">Browse All Products</h2>
         <p className="text-sm text-ink-secondary mb-6">
-          Click any card to read the full review. Scores are on a 1–10 scale.
+          Click any card to read the full review. Scores are on a 1-10 scale.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {filtered.map((product) => (

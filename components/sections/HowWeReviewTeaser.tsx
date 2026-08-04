@@ -25,10 +25,10 @@ export function HowWeReviewTeaser() {
               A clearer way to compare products
             </h2>
             <p className="text-ink-secondary leading-relaxed mb-4 max-w-lg">
-              Every guide compares products against the same seven criteria — weighted and combined into a single Worth Rating. We research published specifications, manufacturer documentation, and patterns in verified buyer feedback rather than claiming to have tested every unit ourselves.
+              Every guide compares products against the same seven criteria, weighted and combined into a single Worth Rating. We research published specifications, manufacturer documentation, and patterns in verified buyer feedback rather than claiming to have tested every unit ourselves.
             </p>
             <p className="text-ink-secondary leading-relaxed mb-6 max-w-lg">
-              We don&apos;t accept payment for placement or scores. Our affiliate income depends on recommending products people are actually happy with — honest evaluation is in our direct interest.
+              We don&apos;t accept payment for placement or scores. Our affiliate income depends on recommending products people are actually happy with, so honest evaluation is in our direct interest.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link
@@ -70,7 +70,7 @@ export function HowWeReviewTeaser() {
                 100%
               </div>
               <p className="text-xs font-semibold text-brand">
-                = Worth Rating (1–10 scale)
+                = Worth Rating (1-10 scale)
               </p>
             </div>
           </div>

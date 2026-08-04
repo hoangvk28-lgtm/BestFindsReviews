@@ -676,8 +676,8 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                         {PRICE_LABELS.map((l) => <option key={l} value={l}>{l}</option>)}
                       </select>
                     </AdminFormField>
-                    <AdminFormField label="WorthRated Fit Score (0–10)" htmlFor={`pick_fitScore_${i}`}
-                      hint="Editorial score only — not shown as star rating">
+                    <AdminFormField label="WorthRated Fit Score (0-10)" htmlFor={`pick_fitScore_${i}`}
+                      hint="Editorial score only, not shown as star rating">
                       <input id={`pick_fitScore_${i}`} type="number" min={0} max={10} step={0.1} className={inputClass}
                         value={pick.fitScore ?? ""} onChange={(e) => updatePick(i, { fitScore: e.target.value ? parseFloat(e.target.value) : undefined })} />
                     </AdminFormField>
@@ -685,7 +685,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                 </div>
 
                 {/* Row 4: Summary + Why It Wins */}
-                <AdminFormField label="Summary (1–2 sentences)" htmlFor={`pick_summary_${i}`}>
+                <AdminFormField label="Summary (1-2 sentences)" htmlFor={`pick_summary_${i}`}>
                   <textarea id={`pick_summary_${i}`} rows={2} className={textareaClass}
                     value={pick.summary} onChange={(e) => updatePick(i, { summary: e.target.value })}
                     placeholder="One or two sentences describing why this pick matters." />

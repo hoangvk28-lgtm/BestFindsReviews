@@ -10,9 +10,9 @@ interface BadgeProps {
 
 const variantStyles: Record<BadgeVariant, string> = {
   default:  "bg-border text-ink-secondary",
-  primary:  "bg-brand-light text-brand",       // Deep Navy — Best Overall
-  success:  "bg-cta-light text-cta-dark",       // Calm Teal — Easiest to Use / Best Simple Controls
-  warning:  "bg-accent-light text-accent-dark", // Warm Amber — Best Value only
+  primary:  "bg-brand-light text-brand",       // Deep Navy, Best Overall
+  success:  "bg-cta-light text-cta-dark",       // Calm Teal, Easiest to Use / Best Simple Controls
+  warning:  "bg-accent-light text-accent-dark", // Warm Amber, Best Value only
   info:     "bg-cta-light text-cta-dark",
   muted:    "bg-bg text-ink-muted border border-border",
 };

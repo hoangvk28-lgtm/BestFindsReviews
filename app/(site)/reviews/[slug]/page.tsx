@@ -244,7 +244,7 @@ export default async function ProductReviewPage({ params }: Props) {
               <div
                 className="w-full max-w-md h-52 rounded-card border border-border flex items-center justify-center mb-2 overflow-hidden"
                 style={{ background: "linear-gradient(135deg, #f1f5f9 0%, #eff6ff 100%)" }}
-                aria-label={`${product.name} — product image not yet available`}
+                aria-label={`${product.name}, product image not yet available`}
                 role="img"
               >
                 <div className="flex flex-col items-center gap-2 opacity-30">
@@ -256,7 +256,7 @@ export default async function ProductReviewPage({ params }: Props) {
               </div>
             )}
             <p className="text-xs text-ink-muted mb-0">
-              {product.name} — {product.subcategorySlug.replace(/-/g, " ")}
+              {product.name}, {product.subcategorySlug.replace(/-/g, " ")}
             </p>
           </div>
 
@@ -515,8 +515,8 @@ export default async function ProductReviewPage({ params }: Props) {
         <section className="mb-12 max-w-3xl" aria-label="Detailed evaluation">
           <h2 className="text-xl font-bold text-ink mb-2 tracking-tight">Detailed Evaluation</h2>
           <p className="text-sm text-ink-secondary mb-6 leading-relaxed max-w-2xl">
-            Each dimension scored 1–10 for small-space use specifically. Scores are based on
-            product specifications and verified buyer feedback patterns — not hands-on lab testing.
+            Each dimension scored 1-10 for small-space use specifically. Scores are based on
+            product specifications and verified buyer feedback patterns, not hands-on lab testing.
           </p>
 
           <div className="flex flex-col gap-4">
@@ -646,7 +646,7 @@ export default async function ProductReviewPage({ params }: Props) {
               </p>
               <p className="text-xs text-ink-secondary leading-relaxed mb-3">
                 See all {product.subcategorySlug.replace(/-/g, " ")} products we evaluated in a
-                single table — scores, prices, and best-for cases compared directly.
+                single table, scores, prices, and best-for cases compared directly.
               </p>
               <Link
                 href="/compare"
