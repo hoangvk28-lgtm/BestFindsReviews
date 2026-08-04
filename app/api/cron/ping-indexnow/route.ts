@@ -6,15 +6,7 @@ import { categories } from "@/data/categories";
 
 export const dynamic = "force-dynamic";
 
-const INDEXNOW_KEY = process.env.INDEXNOW_KEY ?? "c98c7bf07f814a3b85155692e78cbbfc";
-
-// VS compare slugs (static — not in data files)
-const VS_SLUGS = [
-  "monitor-stand-vs-monitor-arm",
-  "usb-c-hub-vs-docking-station",
-  "lap-desk-vs-standing-desk-converter",
-  "desk-mat-vs-mouse-pad",
-];
+const INDEXNOW_KEY = process.env.INDEXNOW_KEY ?? "e2444801d6e544c0b94c53358ad268bd";
 
 function buildUrlList(): string[] {
   const urls: string[] = [
@@ -34,10 +26,6 @@ function buildUrlList(): string[] {
 
   for (const c of categories) {
     urls.push(`${SITE_URL}/categories/${c.slug}`);
-  }
-
-  for (const slug of VS_SLUGS) {
-    urls.push(`${SITE_URL}/compare/${slug}`);
   }
 
   return [...new Set(urls)];
