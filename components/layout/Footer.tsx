@@ -1,8 +1,9 @@
 import Link from "next/link";
-import Image from "next/image";
 import { Container } from "./Container";
+import { Logo } from "@/components/ui/Logo";
 import { footerNav } from "@/data/nav";
 import { DISCLOSURE_SHORT } from "@/lib/affiliate";
+import { BRAND_TAGLINE } from "@/lib/brand";
 import { getPublicFooterSettings, getPublicAffiliateSettings } from "@/lib/public-settings";
 
 export async function Footer() {
@@ -20,7 +21,7 @@ export async function Footer() {
       {footerSettings.showAffiliateDisclosure && (
         <div className="bg-ink/80 border-b border-white/10">
           <Container className="py-3">
-            <p className="text-xs text-ink-inverse/70 text-center whitespace-nowrap">{disclosureText}</p>
+            <p className="text-xs text-ink-inverse/70 text-center max-w-3xl mx-auto">{disclosureText}</p>
           </Container>
         </div>
       )}
@@ -30,15 +31,10 @@ export async function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand column */}
           <div className="lg:col-span-1">
-            <Link href="/" className="inline-block mb-4">
-              <Image
-                src="/logo-worthrated-official.png"
-                alt="WorthRated"
-                width={280}
-                height={76}
-                className="h-16 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"
-              />
+            <Link href="/" className="inline-block mb-3">
+              <Logo inverse className="h-9 w-auto opacity-95 hover:opacity-100 transition-opacity" />
             </Link>
+            <p className="text-sm text-ink-inverse/80 font-medium mb-3">{BRAND_TAGLINE}</p>
             <p className="text-sm text-ink-inverse/75 leading-relaxed max-w-xs">
               {footerSettings.description}
             </p>

@@ -6,25 +6,22 @@ import { buildMetadata, SITE_URL } from "@/lib/seo";
 // ── Metadata ──────────────────────────────────────────────────────────────────
 
 const baseMeta = buildMetadata({
-  title: "About WorthRated | Small-Space Desk Setup Buying Guides",
+  title: "About WorthRated | Independent Buying Guides for Easier Living",
   description:
-    "WorthRated helps students, remote workers, and small-space users find practical desk products through research-based buying guides and comparisons.",
-  path: "/about-worthrated",
+    "WorthRated helps active, independent adults — and the family members researching for them — find home products that are genuinely easy to use.",
+  path: "/about-us",
 });
 
 export const metadata: Metadata = {
   ...baseMeta,
   keywords: [
     "WorthRated",
-    "desk finds",
     "what is WorthRated",
     "WorthRated reviews",
-    "small-space desk setup",
-    "workspace buying guides",
-    "dorm room desk setup",
-    "compact workspace products",
-    "desk setup buying guides",
-    "Amazon product guides for small spaces",
+    "easy to use products for seniors",
+    "buying guides for older adults",
+    "easy kitchen appliances",
+    "simple tech for seniors",
   ],
   openGraph: {
     ...(baseMeta.openGraph as object),
@@ -38,38 +35,29 @@ export const metadata: Metadata = {
 
 const AUDIENCE = [
   {
-    title: "College students",
-    desc: "Living in dorms and shared apartments who need to maximize one desk and limited floor space on a student budget.",
-    icon: (
-      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 3.741-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5" />
-      </svg>
-    ),
-  },
-  {
-    title: "Remote workers",
-    desc: "Setting up a professional home office in a bedroom corner or studio apartment without the budget or space for dedicated office furniture.",
-    icon: (
-      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="M9 17.25v1.007a3 3 0 0 1-.879 2.122L7.5 21h9l-.621-.621A3 3 0 0 1 15 18.257V17.25m6-12V15a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 15V5.25m18 0A2.25 2.25 0 0 0 18.75 3H5.25A2.25 2.25 0 0 0 3 5.25m18 0H3" />
-      </svg>
-    ),
-  },
-  {
-    title: "Small apartment renters",
-    desc: "Who want organized, functional rooms and can't drill holes, can't add furniture that dominates the room, and need products that work with what they already have.",
-    icon: (
-      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="m2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
-      </svg>
-    ),
-  },
-  {
-    title: "First-time renters",
-    desc: "Equipping their first place and trying to avoid the expensive mistake of buying something that doesn't fit or doesn't solve the actual problem.",
+    title: "Active, independent adults 55-70",
+    desc: "Still living independently and shopping for themselves — looking for products that work well without a steep learning curve or fine print they can't read.",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
+      </svg>
+    ),
+  },
+  {
+    title: "Adult children researching for parents",
+    desc: "Trying to find the right microwave, vacuum, or phone for a parent — someone who wants a genuinely good product, not something that looks patronizing or overly medical.",
+    icon: (
+      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M18 18.72a9.094 9.094 0 0 0 3.741-.479 3 3 0 0 0-4.682-2.72m.94 3.198.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0 1 12 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 0 1 6 18.719m12 0a5.971 5.971 0 0 0-.941-3.197m0 0A5.995 5.995 0 0 0 12 12.75a5.995 5.995 0 0 0-5.058 2.772m0 0a3 3 0 0 0-4.681 2.72 8.986 8.986 0 0 0 3.74.477m.94-3.197a5.971 5.971 0 0 0-.94 3.197M15 6.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm6 3a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Zm-13.5 0a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Z" />
+      </svg>
+    ),
+  },
+  {
+    title: "Anyone tired of confusing products",
+    desc: "Readers who just want appliances and tools with clear buttons, readable displays, and manageable weight — without buying into a niche marketed only as 'for seniors.'",
+    icon: (
+      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" />
       </svg>
     ),
   },
@@ -82,8 +70,8 @@ const DIFFERENTIATORS = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
       </svg>
     ),
-    title: "Small-space focused",
-    desc: "Every product is evaluated for dorm rooms, apartment desks, and compact setups — not hypothetical large home offices. Physical size, mounting requirements, and space footprint are first-class evaluation criteria.",
+    title: "Ease-of-use focused",
+    desc: "Every product is evaluated for how easy it actually is to set up, operate, and maintain — not just for feature count. Ease of Use is the single largest factor in our score.",
   },
   {
     icon: (
@@ -92,7 +80,7 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Clear product comparisons",
-    desc: "We use a consistent 1–10 scoring system across five criteria for every product we evaluate. Scores are comparable across categories because the criteria don't change. See our full scoring methodology on the How We Review page.",
+    desc: "We use a consistent Worth Rating across seven weighted criteria for every product we evaluate, so scores stay comparable across categories. See our full methodology on the How We Rate page.",
   },
   {
     icon: (
@@ -101,7 +89,7 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Practical buying guides",
-    desc: "Our guides are structured around real buying decisions: who this is for, what trade-offs exist, what to avoid, and a clear recommendation with reasons. We don't pad guides with irrelevant products to increase affiliate link count.",
+    desc: "Our guides are structured around real buying decisions: who a product is for, what trade-offs exist, and a clear recommendation with reasons — not a wall of near-identical listicle picks.",
   },
   {
     icon: (
@@ -110,35 +98,30 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Fewer, better recommendations",
-    desc: "Most buying guides recommend 10–20 products so no reader decision feels wrong. We pick the best 2–5 options and explain clearly why. If you can't choose between the options we recommend, we tell you which one to buy.",
+    desc: "We pick a small number of genuinely good options and explain clearly why, instead of a 15-item list designed to maximize affiliate links.",
   },
 ];
 
 const COVERS = [
-  { label: "Tablet Stands", href: "/guide/best-tablet-stands" },
-  { label: "Tablet Stands for Desk", href: "/guide/best-tablet-stands-for-desk" },
-  { label: "Tablet Stands for Bed", href: "/guide/best-tablet-stands-for-bed" },
-  { label: "Desk Lamps", href: "/guide/desk-lamps-small-desks" },
-  { label: "Monitor Stands", href: "/guide/monitor-stands-small-desks" },
-  { label: "Desk Organizers", href: "/guide/desk-organizers-small-desks" },
-  { label: "Dorm Essentials", href: "/categories/dorm-essentials" },
-  { label: "Small Room Storage", href: "/categories/small-room-storage" },
-  { label: "Compact Home Office", href: "/categories/compact-home-office" },
+  { label: "Easy Kitchen", href: "/categories/easy-kitchen" },
+  { label: "Easy Cleaning", href: "/categories/easy-cleaning" },
+  { label: "Simple Tech", href: "/categories/simple-tech" },
+  { label: "Garden & Yard", href: "/categories/garden-yard" },
 ];
 
 const EDITORIAL_STANDARDS = [
   "We disclose affiliate links clearly on every page that contains them.",
   "We do not publish paid placements as independent editorial recommendations.",
-  "We do not claim hands-on testing unless clearly and explicitly stated.",
+  "We do not claim hands-on testing unless a specific article's data confirms it.",
   "We avoid exact prices unless they are verified and maintainable.",
-  "We prioritize fit, space constraints, and use case over product quantity.",
-  "We update guides when information changes or recommendations no longer make sense.",
+  "We prioritize ease of use, controls, and long-term value over product quantity.",
+  "We update guides when information changes or a recommendation no longer holds up.",
 ];
 
 const FAQ_ITEMS = [
   {
     q: "What is WorthRated?",
-    a: "WorthRated is a buying guide website focused on small-space desk setups, dorm rooms, and compact workspaces. We publish research-based product comparisons and guides to help people find practical products for tight spaces and realistic budgets.",
+    a: "WorthRated is a buying guide website focused on everyday home products — kitchen, cleaning, tech, and garden — that are genuinely easy to use. We research and compare products to help people choose with confidence, especially readers who want simple controls and dependable long-term value.",
   },
   {
     q: "Is WorthRated an online store?",
@@ -150,33 +133,20 @@ const FAQ_ITEMS = [
   },
   {
     q: "How does WorthRated make money?",
-    a: "WorthRated earns a small commission when users purchase products through affiliate links on the site. As an Amazon Associate, WorthRated earns from qualifying purchases. This does not add any extra cost to you.",
+    a: "WorthRated earns a small commission when readers purchase products through affiliate links on the site, including through the Amazon Associates program. This does not add any extra cost to you.",
   },
   {
     q: "Are WorthRated recommendations paid placements?",
-    a: "No. Recommendation rankings on WorthRated are not influenced by commission rates, brand payments, or sponsored placement fees. Products are ranked based on our evaluation criteria. Affiliate commissions fund the site but do not influence which products we recommend.",
+    a: "No. Recommendation rankings on WorthRated are not influenced by commission rates, brand payments, or sponsored placement fees. Affiliate commissions fund the site but do not decide which products we recommend.",
   },
   {
     q: "Is WorthRated part of Amazon?",
-    a: "No. WorthRated is an independent editorial website. WorthRated is not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which allows independent publishers to earn commissions on qualifying purchases — but we operate independently.",
+    a: "No. WorthRated is an independent editorial website, not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which lets independent publishers earn commissions on qualifying purchases — but we operate independently.",
   },
   {
     q: "How are WorthRated recommendations created?",
-    a: "Recommendations are based on product specifications, verified buyer feedback patterns, dimensions, mounting requirements, and small-space use cases. Unless explicitly stated otherwise, our guides are research-based — not hands-on lab tests. Our full methodology is explained on the How We Review page.",
+    a: "Recommendations are based on published product specifications, manufacturer documentation, and patterns in verified buyer feedback. Unless a specific article states otherwise, our guides are research-based comparisons, not hands-on lab tests. Our full methodology is explained on the How We Rate page.",
   },
-  {
-    q: 'What does "desk finds" mean?',
-    a: '"Desk finds" refers to useful, practical products discovered for desk setups and compact workspaces — similar to the idea of a great "find" when shopping. WorthRated was built around the idea of surfacing the best products for small-space desk setups that are easy to overlook in typical product roundups.',
-  },
-];
-
-const START_GUIDES = [
-  { label: "Best Tablet Stands", href: "/guide/best-tablet-stands" },
-  { label: "Best Tablet Stands for Desk", href: "/guide/best-tablet-stands-for-desk" },
-  { label: "Best Tablet Stands for Bed", href: "/guide/best-tablet-stands-for-bed" },
-  { label: "Desk Lamps for Small Desks", href: "/guide/desk-lamps-small-desks" },
-  { label: "Monitor Stands for Small Desks", href: "/guide/monitor-stands-small-desks" },
-  { label: "Desk Organizers for Small Desks", href: "/guide/desk-organizers-small-desks" },
 ];
 
 // ── JSON-LD ───────────────────────────────────────────────────────────────────
@@ -186,7 +156,7 @@ const breadcrumbSchema = {
   "@type": "BreadcrumbList",
   itemListElement: [
     { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
-    { "@type": "ListItem", position: 2, name: "About WorthRated", item: `${SITE_URL}/about-worthrated` },
+    { "@type": "ListItem", position: 2, name: "About WorthRated", item: `${SITE_URL}/about-us` },
   ],
 };
 
@@ -195,14 +165,9 @@ const aboutPageSchema = {
   "@type": "AboutPage",
   name: "About WorthRated",
   description:
-    "WorthRated helps students, remote workers, renters, and small-space users find practical desk setup products through research-based buying guides, comparisons, and transparent affiliate recommendations.",
-  url: `${SITE_URL}/about-worthrated`,
-  publisher: {
-    "@type": "Organization",
-    name: "WorthRated",
-    url: SITE_URL,
-    sameAs: [`${SITE_URL}/author/worthrated-editorial-team`],
-  },
+    "WorthRated helps active, independent adults and the family members researching for them find genuinely easy-to-use home products through research-based buying guides.",
+  url: `${SITE_URL}/about-us`,
+  publisher: { "@type": "Organization", name: "WorthRated", url: SITE_URL },
 };
 
 const organizationSchema = {
@@ -211,11 +176,9 @@ const organizationSchema = {
   name: "WorthRated",
   url: SITE_URL,
   description:
-    "Independent buying guide website for small-space desk setups, dorm rooms, and compact home offices.",
+    "Independent buying guide website comparing everyday home products on ease of use, setup, controls, and long-term value.",
   publishingPrinciples: `${SITE_URL}/how-we-review`,
-  sameAs: [`${SITE_URL}/author/worthrated-editorial-team`],
 };
-
 
 // ── Page ──────────────────────────────────────────────────────────────────────
 
@@ -231,48 +194,48 @@ export default function AboutPage() {
         {/* ── H1 Hero ────────────────────────────────────────────────── */}
         <header className="mb-12">
           <span className="text-xs font-bold uppercase tracking-widest text-brand">About WorthRated</span>
-          <h1 className="text-4xl font-bold text-ink mt-2 mb-3 tracking-tight">
-            Making Small Spaces Work Smarter
+          <h1 className="mt-2 mb-3 tracking-tight">
+            We rate products for easier living.
           </h1>
           <p className="text-lg text-ink-secondary leading-relaxed max-w-2xl">
-            WorthRated is a workspace buying guide website for people who need practical product recommendations for dorm rooms, small apartments, bedroom desks, and compact workspaces — built on research, not sponsored rankings.
+            WorthRated is an independent buying guide site for everyday home products — built for people who want something that&apos;s genuinely easy to use, not just full of features. Built on research, not sponsored rankings.
           </p>
         </header>
 
         {/* ── What Is WorthRated ──────────────────────────────────────── */}
         <section className="mb-12 p-6 bg-white rounded-2xl border border-border" aria-labelledby="what-is-worthrated">
-          <h2 id="what-is-worthrated" className="text-2xl font-bold text-ink mb-4 tracking-tight">What Is WorthRated?</h2>
+          <h2 id="what-is-worthrated" className="mb-4 tracking-tight">What Is WorthRated?</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
               <strong className="text-ink">WorthRated is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on WorthRated, you go directly to a third-party retailer — usually Amazon — to buy it there.
             </p>
             <p>
-              WorthRated publishes <strong className="text-ink">buying guides, product comparisons, and review-style content</strong> to help people figure out which products are worth buying before they spend money. Every guide is focused on a specific product category and a specific constraint: small spaces, realistic budgets, and practical use cases.
+              WorthRated publishes <strong className="text-ink">buying guides and product comparisons</strong> to help people figure out which products are worth buying before they spend money. Every guide focuses on a specific product category and the questions that actually matter: how hard is this to set up, how clear are the controls, and will it hold up.
             </p>
             <p>
-              If you have searched for something like <em>&ldquo;best desk lamp for a dorm room&rdquo;</em> or <em>&ldquo;tablet stand that works on a bed&rdquo;</em> and found a WorthRated article, that is what we do — we research those questions and publish structured answers, not sales pitches.
+              If you have searched for something like <em>&ldquo;easiest microwave to use&rdquo;</em> or <em>&ldquo;lightweight vacuum for seniors&rdquo;</em> and found a WorthRated article, that is what we do — we research those questions and publish clear, structured answers.
             </p>
           </div>
         </section>
 
         {/* ── Mission ───────────────────────────────────────────────── */}
         <section className="mb-12" aria-labelledby="our-mission">
-          <h2 id="our-mission" className="text-2xl font-bold text-ink mb-4 tracking-tight">Our Mission</h2>
+          <h2 id="our-mission" className="mb-4 tracking-tight">Our Mission</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
-              A dorm room, a studio apartment, or a bedroom desk does not have to mean a compromised setup. The right products — chosen specifically for tight spaces — can make a 200-square-foot room as productive and comfortable as a much larger one.
+              A good product shouldn&apos;t require a manual, a phone call to a grandchild, or a magnifying glass to operate. The right choice — one designed for genuine ease of use — makes daily life simpler for everyone, not just people with limited tech patience.
             </p>
             <p>
-              WorthRated exists to help <strong className="text-ink">students, remote workers, first-time renters, and small-space users</strong> find those products without wading through sponsored rankings, vague listicles, or buying guides clearly written without considering what a real dorm desk looks like.
+              WorthRated exists to help <strong className="text-ink">active, independent adults, and the family members researching on their behalf,</strong> find those products without wading through sponsored rankings, vague listicles, or guides that never mention how confusing the controls actually are.
             </p>
           </div>
         </section>
 
         {/* ── Who WorthRated Is For ───────────────────────────────────── */}
         <section className="mb-12" aria-labelledby="who-for">
-          <h2 id="who-for" className="text-2xl font-bold text-ink mb-2 tracking-tight">Who WorthRated Is For</h2>
+          <h2 id="who-for" className="mb-2 tracking-tight">Who WorthRated Is For</h2>
           <p className="text-sm text-ink-secondary mb-6">
-            Every guide on WorthRated is written with one of these people in mind:
+            Every guide on WorthRated is written with one of these readers in mind:
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {AUDIENCE.map((item) => (
@@ -291,9 +254,9 @@ export default function AboutPage() {
 
         {/* ── What WorthRated Covers ──────────────────────────────────── */}
         <section className="mb-12" aria-labelledby="what-covers">
-          <h2 id="what-covers" className="text-2xl font-bold text-ink mb-2 tracking-tight">What WorthRated Covers</h2>
+          <h2 id="what-covers" className="mb-2 tracking-tight">What WorthRated Covers</h2>
           <p className="text-sm text-ink-secondary mb-5">
-            WorthRated publishes guides across the most common small-space desk setup categories:
+            WorthRated publishes guides across four initial content areas:
           </p>
           <div className="flex flex-wrap gap-2.5">
             {COVERS.map((item) => (
@@ -310,20 +273,14 @@ export default function AboutPage() {
             ))}
           </div>
           <p className="text-xs text-ink-muted mt-4">
-            Browse all guides at{" "}
-            <Link href="/guide" className="text-brand hover:underline font-medium">worthrated.com/guide</Link>
-            {" "}or by category at{" "}
-            <Link href="/categories/desk-setup" className="text-brand hover:underline font-medium">Desk Setup</Link>
-            {", "}
-            <Link href="/categories/dorm-essentials" className="text-brand hover:underline font-medium">Dorm Essentials</Link>
-            {", and "}
-            <Link href="/categories/small-room-storage" className="text-brand hover:underline font-medium">Small Room Storage</Link>.
+            Browse all categories at{" "}
+            <Link href="/categories" className="text-brand hover:underline font-medium">worthrated.com/categories</Link>.
           </p>
         </section>
 
         {/* ── What Makes WorthRated Different ────────────────────────── */}
         <section className="mb-12" aria-labelledby="different">
-          <h2 id="different" className="text-2xl font-bold text-ink mb-2 tracking-tight">What Makes WorthRated Different</h2>
+          <h2 id="different" className="mb-2 tracking-tight">What Makes WorthRated Different</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-6">
             There are thousands of Amazon product roundup sites. Here is why we think WorthRated is worth your time:
           </p>
@@ -342,27 +299,24 @@ export default function AboutPage() {
           </div>
           <p className="text-xs text-ink-muted mt-4">
             Our scoring criteria are explained in full on{" "}
-            <Link href="/how-we-review" className="text-brand hover:underline font-medium">How We Review</Link>.
+            <Link href="/how-we-review" className="text-brand hover:underline font-medium">How We Rate</Link>.
           </p>
         </section>
 
         {/* ── How WorthRated Research Works ──────────────────────────── */}
         <section className="mb-12" aria-labelledby="research">
-          <h2 id="research" className="text-2xl font-bold text-ink mb-4 tracking-tight">How WorthRated Research Works</h2>
+          <h2 id="research" className="mb-4 tracking-tight">How WorthRated Research Works</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
-              For every buying guide, we start by defining the exact small-space context: what are the physical constraints, what does the target buyer already own, and what are they actually trying to solve? We evaluate products against those real constraints — not generic &ldquo;great for home offices&rdquo; claims.
+              For every buying guide, we start with the questions that matter most for this audience: how easy is setup, how readable are the controls and display, how much does it weigh, and how much upkeep does it require? We evaluate products against those questions — not generic feature checklists.
             </p>
-            <p>
-              Our research draws on:
-            </p>
+            <p>Our research draws on:</p>
             <ul className="space-y-2 pl-4">
               {[
-                "Product specifications and technical dimensions",
-                "Space footprint and mounting or installation requirements",
-                "Verified buyer feedback patterns (with close attention to negative review patterns that surface real failure modes)",
-                "Community discussions where small-room users share what actually works",
-                "Small-space use cases specific to the product category",
+                "Published product specifications and manufacturer documentation",
+                "Setup instructions and control layouts, evaluated for genuine clarity",
+                "Verified buyer feedback patterns (with close attention to complaints about confusing controls or difficult setup)",
+                "Weight, handling, and warranty information",
               ].map((item) => (
                 <li key={item} className="flex gap-2.5">
                   <svg className="w-3.5 h-3.5 text-brand shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
@@ -374,13 +328,13 @@ export default function AboutPage() {
             </ul>
             <p>
               We are transparent about one important thing:{" "}
-              <strong className="text-ink">unless we explicitly state otherwise, our guides are research-based, not hands-on lab tests.</strong>{" "}
-              We do not have a testing facility. We believe being honest about this is more useful to you than pretending otherwise.
+              <strong className="text-ink">unless a specific article states otherwise, our guides are research-based comparisons, not hands-on lab tests.</strong>{" "}
+              We believe being honest about this is more useful to you than pretending otherwise.
             </p>
             <p>
-              You can read our complete methodology — including all five scoring criteria and what each editorial badge means — on our{" "}
+              You can read our complete methodology — including all seven scoring criteria and what each badge means — on our{" "}
               <Link href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
-                How We Review page
+                How We Rate page
               </Link>.
             </p>
           </div>
@@ -388,7 +342,7 @@ export default function AboutPage() {
 
         {/* ── Editorial Standards ───────────────────────────────────── */}
         <section className="mb-12" aria-labelledby="standards">
-          <h2 id="standards" className="text-2xl font-bold text-ink mb-4 tracking-tight">Our Editorial Standards</h2>
+          <h2 id="standards" className="mb-4 tracking-tight">Our Editorial Standards</h2>
           <div className="p-5 bg-white rounded-2xl border border-border">
             <ul className="space-y-3">
               {EDITORIAL_STANDARDS.map((item) => (
@@ -402,7 +356,7 @@ export default function AboutPage() {
             </ul>
             <div className="mt-5 pt-4 border-t border-border flex flex-wrap gap-x-5 gap-y-2 text-xs">
               {[
-                { label: "How We Review", href: "/how-we-review" },
+                { label: "How We Rate", href: "/how-we-review" },
                 { label: "Affiliate Disclosure", href: "/affiliate-disclosure" },
                 { label: "Privacy Policy", href: "/privacy-policy" },
                 { label: "Contact", href: "/contact" },
@@ -423,64 +377,20 @@ export default function AboutPage() {
               WorthRated may earn a small commission when you purchase through links on this site. This does not add any extra cost to you — affiliate commissions come from the retailer margin, not from a price increase on your end.
             </p>
             <p>
-              Recommendation rankings on WorthRated are not influenced by commission rates. We link to whatever product we genuinely believe is the best choice based on our evaluation criteria. A product that earns a higher commission will not rank higher than one that earns a lower commission if it is not the better product.
+              Recommendation rankings on WorthRated are not influenced by commission rates. We link to whatever product we genuinely believe is the best choice based on our evaluation criteria.
             </p>
             <p>
-              Affiliate commissions help fund the research, writing, and maintenance of the site. Without them, the site would not exist in its current form.
+              Affiliate commissions help fund the research, writing, and maintenance of the site.
             </p>
           </div>
           <Link href="/affiliate-disclosure" className="inline-block mt-3 text-sm font-semibold text-brand hover:text-brand-dark transition-colors">
             Read our full affiliate disclosure →
           </Link>
-
-          {/* Affiliate CTA — single placement, transparent */}
-          <div className="mt-5 pt-5 border-t border-border">
-            <p className="text-xs text-ink-muted mb-3">
-              As an Amazon Associate, WorthRated may earn from qualifying purchases. This does not add extra cost to you.
-            </p>
-            <a
-              href="https://amzn.to/4a8EGlH"
-              target="_blank"
-              rel="sponsored nofollow noopener noreferrer"
-              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg bg-amber-50 border border-amber-200 text-amber-800 text-sm font-medium hover:bg-amber-100 transition-colors"
-            >
-              <svg className="w-4 h-4 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-              </svg>
-              View our current Amazon workspace pick
-            </a>
-          </div>
-        </section>
-
-        {/* ── Start With WorthRated Guides ───────────────────────────── */}
-        <section className="mb-12" aria-labelledby="start-guides">
-          <h2 id="start-guides" className="text-2xl font-bold text-ink mb-5 tracking-tight">Start With WorthRated Guides</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {START_GUIDES.map((guide) => (
-              <Link
-                key={guide.href}
-                href={guide.href}
-                className="group flex items-center justify-between p-4 rounded-xl border border-border bg-white hover:border-brand/40 hover:shadow-sm transition-all"
-              >
-                <span className="text-sm font-medium text-ink group-hover:text-brand transition-colors">
-                  {guide.label}
-                </span>
-                <svg className="w-4 h-4 text-ink-muted group-hover:text-brand group-hover:translate-x-0.5 transition-all shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />
-                </svg>
-              </Link>
-            ))}
-          </div>
-          <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-xs">
-            <Link href="/guide" className="text-brand hover:underline font-medium">View all buying guides →</Link>
-            <Link href="/compare" className="text-brand hover:underline font-medium">Compare all products →</Link>
-            <Link href="/deals" className="text-brand hover:underline font-medium">Budget-friendly finds →</Link>
-          </div>
         </section>
 
         {/* ── FAQ ───────────────────────────────────────────────────── */}
         <section aria-labelledby="faq">
-          <h2 id="faq" className="text-2xl font-bold text-ink mb-5 tracking-tight">Frequently Asked Questions</h2>
+          <h2 id="faq" className="mb-5 tracking-tight">Frequently Asked Questions</h2>
           <div className="space-y-3">
             {FAQ_ITEMS.map((item) => (
               <details

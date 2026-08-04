@@ -13,9 +13,10 @@ const siteSchema = {
       description: SITE_DESCRIPTION,
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/logo-worthrated-official.png`,
+        url: `${SITE_URL}/icon`,
       },
-      sameAs: ["https://twitter.com/worthrated"],
+      // No confirmed live social accounts yet — add here once real profiles exist.
+      sameAs: [],
     },
     {
       "@type": "WebSite",
@@ -36,7 +37,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
         dangerouslySetInnerHTML={{ __html: JSON.stringify(siteSchema) }}
       />
       <Header />
-      <main className="flex-1">{children}</main>
+      <main id="main-content" className="flex-1">{children}</main>
       <Footer />
     </div>
   );

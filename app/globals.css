@@ -1,52 +1,73 @@
 @import "tailwindcss";
 
-/* ─── Design Tokens ─────────────────────────────────────── */
+/* ─── Design Tokens — WorthRated brand ──────────────────────
+   Canonical brand hex values (kept as literal aliases below
+   for anyone auditing against the brand spec):
+   primary #17324D · primary-hover #10273C
+   secondary #2F7D78 · secondary-hover #256964
+   background #F7F3EA · surface #FFFFFF · surface-soft #DDEBE5
+   accent #E6A04B · text #24313D · text-muted #61717F · border #D6E0DD
+   ──────────────────────────────────────────────────────────── */
 @theme inline {
-  /* Brand */
-  --color-brand: #2563eb;
-  --color-brand-dark: #1d4ed8;
-  --color-brand-light: #eff6ff;
-  --color-brand-muted: #dbeafe;
+  /* Brand-spec aliases (use these names in new code) */
+  --color-primary: #17324d;
+  --color-primary-hover: #10273c;
+  --color-secondary: #2f7d78;
+  --color-secondary-hover: #256964;
+  --color-background: #f7f3ea;
+  --color-surface-soft: #ddebe5;
+  --color-text: #24313d;
+  --color-text-muted: #61717f;
 
-  /* CTA – Amazon-style green for buy buttons */
-  --color-cta: #16a34a;
-  --color-cta-dark: #15803d;
-  --color-cta-light: #f0fdf4;
+  /* Existing semantic tokens — repointed to the brand-spec values above so
+     every component that already uses bg-brand / text-ink / etc. picks up
+     the new identity without a component-by-component rewrite. */
 
-  /* Accent – deals, badges */
-  --color-accent: #f59e0b;
-  --color-accent-dark: #d97706;
-  --color-accent-light: #fffbeb;
+  /* Brand → Deep Navy (logo, headings, nav, primary buttons) */
+  --color-brand: var(--color-primary);
+  --color-brand-dark: var(--color-primary-hover);
+  --color-brand-light: #e8edf1;
+  --color-brand-muted: #d3dce3;
+
+  /* CTA → Calm Teal (buy/affiliate buttons, links, interactive state) */
+  --color-cta: var(--color-secondary);
+  --color-cta-dark: var(--color-secondary-hover);
+  --color-cta-light: #eaf4f2;
+
+  /* Accent → Warm Amber (badges + small highlights ONLY, e.g. Best Value) */
+  --color-accent: #e6a04b;
+  --color-accent-dark: #c9822f;
+  --color-accent-light: #fbeedb;
 
   /* Neutral palette */
   --color-surface: #ffffff;
-  --color-bg: #f8fafc;
-  --color-border: #e2e8f0;
-  --color-border-dark: #cbd5e1;
+  --color-bg: var(--color-background);
+  --color-border: #d6e0dd;
+  --color-border-dark: #b9c9c4;
 
   /* Text */
-  --color-ink: #0f172a;
-  --color-ink-secondary: #475569;
-  --color-ink-muted: #94a3b8;
-  --color-ink-inverse: #f8fafc;
+  --color-ink: var(--color-text);
+  --color-ink-secondary: var(--color-text-muted);
+  --color-ink-muted: #8a96a0;
+  --color-ink-inverse: #f7f3ea;
 
-  /* Score colours */
-  --color-score-high: #16a34a;
-  --color-score-mid: #f59e0b;
-  --color-score-low: #ef4444;
+  /* Score colours (numeric score bars/tables — not star ratings) */
+  --color-score-high: var(--color-secondary);
+  --color-score-mid: #e6a04b;
+  --color-score-low: #b8503f;
 
-  /* Typography */
-  --font-display: var(--font-inter), "Inter", system-ui, sans-serif;
-  --font-body: var(--font-inter), "Inter", system-ui, sans-serif;
+  /* Typography — next/font variables set in app/layout.tsx */
+  --font-display: var(--font-manrope), "Manrope", system-ui, sans-serif;
+  --font-body: var(--font-source-sans), "Source Sans 3", system-ui, sans-serif;
 
   /* Radii */
-  --radius-card: 0.75rem;
-  --radius-btn: 0.5rem;
+  --radius-card: 1.125rem;
+  --radius-btn: 0.625rem;
   --radius-badge: 9999px;
 
-  /* Shadows */
-  --shadow-card: 0 1px 3px 0 rgb(0 0 0 / 0.08), 0 1px 2px -1px rgb(0 0 0 / 0.06);
-  --shadow-card-hover: 0 4px 12px 0 rgb(0 0 0 / 0.1), 0 2px 6px -2px rgb(0 0 0 / 0.06);
+  /* Shadows — soft, no glow */
+  --shadow-card: 0 1px 2px 0 rgb(23 50 77 / 0.06), 0 1px 3px 0 rgb(23 50 77 / 0.05);
+  --shadow-card-hover: 0 8px 20px -4px rgb(23 50 77 / 0.12), 0 2px 6px -2px rgb(23 50 77 / 0.06);
 }
 
 /* ─── Anchor scroll offset (for jump nav) ───────────────── */
@@ -72,8 +93,8 @@
     background-color: var(--color-bg);
     color: var(--color-ink);
     font-family: var(--font-body);
-    font-size: 1rem;
-    line-height: 1.75;
+    font-size: 1.0625rem; /* 17px */
+    line-height: 1.65;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     overflow-x: hidden;
@@ -82,15 +103,17 @@
   /* ─── Typography ────────────────────────────────────────── */
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-display);
-    font-weight: 700;
-    line-height: 1.25;
+    font-weight: 800;
+    line-height: 1.15;
     letter-spacing: -0.02em;
     color: var(--color-ink);
   }
 
-  h1 { font-size: clamp(1.875rem, 4vw, 2.75rem); }
-  h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
-  h3 { font-size: clamp(1.25rem, 2.5vw, 1.5rem); }
+  /* H1: 38-44px mobile → 52-64px desktop, per brand spec */
+  h1 { font-size: clamp(2.375rem, 3vw + 1.75rem, 4rem); }
+  /* H2: 34-42px */
+  h2 { font-size: clamp(1.75rem, 2vw + 1.375rem, 2.625rem); font-weight: 700; }
+  h3 { font-size: clamp(1.25rem, 1vw + 1.05rem, 1.5rem); font-weight: 700; }
   h4 { font-size: 1.125rem; font-weight: 600; }
 
   p {
@@ -205,4 +228,37 @@
   outline: 2px solid var(--color-brand);
   outline-offset: 2px;
   border-radius: 4px;
+}
+
+/* ─── Skip to content ───────────────────────────────────── */
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -3rem;
+  z-index: 100;
+  background: var(--color-surface);
+  color: var(--color-brand);
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-btn);
+  font-weight: 600;
+  font-size: 0.875rem;
+  box-shadow: var(--shadow-card-hover);
+  transition: top 0.15s ease;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+/* ─── Reduced motion ────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

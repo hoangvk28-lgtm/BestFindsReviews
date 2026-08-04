@@ -80,10 +80,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE_URL}/categories`,               lastModified: now, changeFrequency: "weekly",  priority: 0.7 },
     { url: `${SITE_URL}/deals`,                    lastModified: now, changeFrequency: "daily",   priority: 0.7 },
     { url: `${SITE_URL}/how-we-review`,            lastModified: now, changeFrequency: "monthly", priority: 0.6 },
-    { url: `${SITE_URL}/about-worthrated`,           lastModified: now, changeFrequency: "monthly", priority: 0.5 },
+    { url: `${SITE_URL}/about-us`,                 lastModified: now, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE_URL}/contact`,                  lastModified: now, changeFrequency: "yearly",  priority: 0.4 },
     { url: `${SITE_URL}/affiliate-disclosure`,     lastModified: now, changeFrequency: "yearly",  priority: 0.3 },
     { url: `${SITE_URL}/privacy-policy`,           lastModified: now, changeFrequency: "yearly",  priority: 0.3 },
+    { url: `${SITE_URL}/terms-of-use`,             lastModified: now, changeFrequency: "yearly",  priority: 0.3 },
   ];
 
   // Published buying guide pages (Supabase or static fallback)
@@ -118,20 +119,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.6,
   }));
 
-  // Static VS compare articles (not category-based)
-  const vsComparePages: MetadataRoute.Sitemap = [
-    { url: `${SITE_URL}/compare/monitor-stand-vs-monitor-arm`,         lastModified: "2026-05-27", changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/compare/usb-c-hub-vs-docking-station`,         lastModified: "2026-06-06", changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/compare/lap-desk-vs-standing-desk-converter`,  lastModified: "2026-06-06", changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/compare/desk-mat-vs-mouse-pad`,                lastModified: "2026-06-06", changeFrequency: "monthly", priority: 0.8 },
-  ];
-
   return [
     ...staticPages,
     ...guidePages,
     ...reviewPages,
     ...categoryPages,
     ...comparePages,
-    ...vsComparePages,
   ];
 }

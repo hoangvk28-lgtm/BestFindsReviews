@@ -17,7 +17,7 @@ interface FeaturedGuideHeroProps {
 
 export function FeaturedGuideHero({ guide, products }: FeaturedGuideHeroProps) {
   const topThree = products.slice(0, 3);
-  const categoryColor = categories.find((c) => c.slug === guide.categorySlug)?.color ?? "#2563eb";
+  const categoryColor = categories.find((c) => c.slug === guide.categorySlug)?.color ?? "#17324D";
   const coverImage = (guide as PublicGuide).thumbnailImage || guide.heroImage || "";
 
   return (

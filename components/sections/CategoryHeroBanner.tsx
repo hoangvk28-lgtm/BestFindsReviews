@@ -9,35 +9,29 @@ const categoryConfig: Record<string, {
   guideCount: number;
   highlights: string[];
 }> = {
-  "desk-setup": {
-    tagline: "Best gear for compact desks & small workspaces",
-    icon: "🖥️",
-    guideCount: 4,
-    highlights: ["Desk Lamps", "Monitor Stands", "Laptop Stands", "Cable Management"],
+  "easy-kitchen": {
+    tagline: "Kitchen appliances rated on clear controls and simple daily use",
+    icon: "🍳",
+    guideCount: 0,
+    highlights: ["Clear Displays", "Simple Controls", "Easy to Clean"],
   },
-  "dorm-essentials": {
-    tagline: "Space-saving picks every college student needs",
-    icon: "🎓",
-    guideCount: 3,
-    highlights: ["Bedside Caddies", "Cable Management", "Desk Lamps"],
+  "easy-cleaning": {
+    tagline: "Lightweight, low-maintenance cleaning tools for a comfortable home",
+    icon: "🧹",
+    guideCount: 0,
+    highlights: ["Lightweight", "Easy Maintenance", "Simple Setup"],
   },
-  "small-room-storage": {
-    tagline: "Maximize every inch of your small space",
-    icon: "📦",
-    guideCount: 2,
-    highlights: ["Under-Bed Storage", "Storage Carts"],
+  "simple-tech": {
+    tagline: "Everyday tech that's genuinely easy to set up and use",
+    icon: "📱",
+    guideCount: 0,
+    highlights: ["Quick Setup", "Readable Displays", "Reliable"],
   },
-  "compact-home-office": {
-    tagline: "Professional setup for your bedroom or studio office",
-    icon: "💼",
-    guideCount: 4,
-    highlights: ["Monitor Stands", "Laptop Stands", "Desk Lamps", "Cable Mgmt"],
-  },
-  "budget-finds": {
-    tagline: "High-value small-space products under $30, $50, $100",
-    icon: "🏷️",
-    guideCount: 4,
-    highlights: ["Under $30", "Under $50", "Under $100", "Best Value"],
+  "garden-yard": {
+    tagline: "Comfortable, manageable tools for the garden and yard",
+    icon: "🌿",
+    guideCount: 0,
+    highlights: ["Lightweight", "Comfortable Grip", "Easy Handling"],
   },
 };
 

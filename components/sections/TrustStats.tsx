@@ -1,69 +1,46 @@
-﻿import Image from "next/image";
-
+// Honest methodology highlights — no fabricated product/guide counts.
+// (See lib/brand.ts RATING_CRITERIA for the full weighted rubric.)
 const stats = [
   {
-    number: "1,000+",
-    unit: "products",
+    label: "Ease of Use",
+    weight: "25%",
     icon: (
-      <Image
-        src="/images/icons/products-evaluated-icon.webp"
-        alt="3D checklist icon representing evaluated products"
-        width={64}
-        height={64}
-        className="object-contain"
-      />
+      <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+      </svg>
     ),
-    iconSize: "w-16 h-16",
-    label: "Evaluated for small-space use",
-    description: "Every product scored on five criteria - specs, buyer feedback, value, build, and space fit.",
+    description: "The single biggest factor in every score we publish.",
   },
   {
-    number: "200+",
-    unit: "buying guides",
+    label: "Controls & Readability",
+    weight: "20%",
     icon: (
-      <Image
-        src="/images/icons/buying-guides-icon.webp"
-        alt="3D chat and guide icon representing buying guides"
-        width={64}
-        height={64}
-        className="object-contain"
-      />
+      <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M9 4.5v15m6-15v15M4.5 9h15M4.5 15h15" />
+        <rect x="3.75" y="3.75" width="16.5" height="16.5" rx="2.5" strokeLinecap="round" strokeLinejoin="round" />
+      </svg>
     ),
-    iconSize: "w-16 h-16",
-    label: "With side-by-side comparisons",
-    description: "Structured like Wirecutter - clear top pick, honest trade-offs, and a comparison table.",
+    description: "Clear labeling, legible displays, and intuitive layouts.",
   },
   {
-    number: "5",
-    unit: "scoring criteria",
+    label: "Setup Difficulty",
+    weight: "15%",
     icon: (
-      <Image
-        src="/images/icons/scoring-criteria-icon.webp"
-        alt="3D scoring criteria icon representing evaluation methodology"
-        width={64}
-        height={64}
-        className="object-contain"
-      />
+      <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 6h9.75M10.5 12h9.75M10.5 18h9.75M3.75 6h.007v.008H3.75V6Zm0 6h.007v.008H3.75V12Zm0 6h.007v.008H3.75V18Z" />
+      </svg>
     ),
-    iconSize: "w-16 h-16",
-    label: "Tuned for small-space fit",
-    description: "Space fit, build quality, ease of use, value, and buyer feedback - all weighted for compact living.",
+    description: "How much work it takes to get a product running.",
   },
   {
-    number: "1–10",
-    unit: "score scale",
+    label: "Value for Money",
+    weight: "5%",
     icon: (
-      <Image
-        src="/images/icons/score-scale-icon.webp"
-        alt="3D score scale icon representing consistent 1-10 scoring"
-        width={64}
-        height={64}
-        className="object-contain"
-      />
+      <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v12m3.75-9.75c0-1.036-1.679-1.875-3.75-1.875s-3.75.84-3.75 1.875S10.929 10.125 13 10.125s3.75.84 3.75 1.875-1.679 1.875-3.75 1.875-3.75-.84-3.75-1.875" />
+      </svg>
     ),
-    iconSize: "w-16 h-16",
-    label: "Consistent across all products",
-    description: "The same rubric for every product we evaluate - so scores are genuinely comparable across guides.",
+    description: "Price weighed against durability and long-term use.",
   },
 ];
 
@@ -74,17 +51,17 @@ export function TrustStats() {
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-10">
           {stats.map((stat) => (
             <div key={stat.label} className="flex flex-col gap-3">
-              {/* Icon + number row */}
+              {/* Icon + weight row */}
               <div className="flex items-center gap-3">
-                <div className={`shrink-0 ${stat.iconSize} rounded-xl bg-brand-light flex items-center justify-center text-brand overflow-hidden`}>
+                <div className="shrink-0 w-14 h-14 rounded-xl bg-brand-light flex items-center justify-center text-brand" aria-hidden="true">
                   {stat.icon}
                 </div>
                 <div className="flex flex-col gap-0.5 min-w-0">
                   <span className="text-2xl font-bold text-ink tabular-nums tracking-tight leading-none whitespace-nowrap">
-                    {stat.number}
+                    {stat.weight}
                   </span>
                   <span className="text-[11px] font-semibold text-ink-muted leading-none whitespace-nowrap">
-                    {stat.unit}
+                    of overall score
                   </span>
                 </div>
               </div>

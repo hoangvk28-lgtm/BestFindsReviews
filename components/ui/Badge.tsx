@@ -10,23 +10,23 @@ interface BadgeProps {
 
 const variantStyles: Record<BadgeVariant, string> = {
   default:  "bg-border text-ink-secondary",
-  primary:  "bg-brand-light text-brand",
-  success:  "bg-cta-light text-cta-dark",
-  warning:  "bg-accent-light text-accent-dark",
-  info:     "bg-blue-50 text-blue-700",
+  primary:  "bg-brand-light text-brand",       // Deep Navy — Best Overall
+  success:  "bg-cta-light text-cta-dark",       // Calm Teal — Easiest to Use / Best Simple Controls
+  warning:  "bg-accent-light text-accent-dark", // Warm Amber — Best Value only
+  info:     "bg-cta-light text-cta-dark",
   muted:    "bg-bg text-ink-muted border border-border",
 };
 
+// WorthRated badge color rules: navy = Best Overall, teal = Easiest to Use /
+// Best Simple Controls, amber = Best Value only. No Amazon-style gold stars.
 const autoVariantMap: Record<string, BadgeVariant> = {
-  "Best Overall":             "success",
+  "Best Overall":             "primary",
   "Editor's Choice":          "primary",
-  "Best Budget":              "warning",
+  "Easiest to Use":           "success",
+  "Best Simple Controls":     "success",
   "Best Value":               "warning",
-  "Best for Students":        "info",
-  "Best for Dorm Rooms":      "info",
-  "Best for Study":           "info",
-  "Best for Dual Monitors":   "primary",
-  "Best for Compact Home Office": "primary",
+  "Best Budget":              "warning",
+  "Worth Rating":             "primary",
 };
 
 export function Badge({ children, variant, className }: BadgeProps) {

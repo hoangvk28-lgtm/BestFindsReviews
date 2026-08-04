@@ -27,15 +27,23 @@ export function FeaturedGuides({
         hrefLabel="View all guides"
       />
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {guides.map((guide) => {
-          const categoryColor =
-            categories.find((c) => c.slug === guide.categorySlug)?.color ?? "#2563eb";
-          return (
-            <GuideCard key={guide.slug} guide={guide} categoryColor={categoryColor} />
-          );
-        })}
-      </div>
+      {guides.length > 0 ? (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {guides.map((guide) => {
+            const categoryColor =
+              categories.find((c) => c.slug === guide.categorySlug)?.color ?? "#17324D";
+            return (
+              <GuideCard key={guide.slug} guide={guide} categoryColor={categoryColor} />
+            );
+          })}
+        </div>
+      ) : (
+        <div className="rounded-card border border-border border-dashed bg-surface-soft/40 p-8 text-center">
+          <p className="text-sm text-ink-secondary">
+            Our first buying guides are in research right now — check back soon.
+          </p>
+        </div>
+      )}
     </section>
   );
 }

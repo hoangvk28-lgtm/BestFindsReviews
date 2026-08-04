@@ -1,44 +1,49 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Manrope, Source_Sans_3 } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/seo";
 import { ScrollToTop } from "@/components/ScrollToTop";
 
-const inter = Inter({
-  variable: "--font-inter",
+const manrope = Manrope({
+  variable: "--font-manrope",
   subsets: ["latin"],
+  weight: ["700", "800"],
+  display: "swap",
+});
+
+const sourceSans = Source_Sans_3({
+  variable: "--font-source-sans",
+  subsets: ["latin"],
+  weight: ["400", "500", "600"],
   display: "swap",
 });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: SITE_NAME,
+    default: `${SITE_NAME} | Products That Make Everyday Life Simpler`,
     template: `%s | ${SITE_NAME}`,
   },
   description: SITE_DESCRIPTION,
   icons: {
-    icon: [
-      { url: "/icon.png", type: "image/png", sizes: "512x512" },
-    ],
-    apple: [
-      { url: "/apple-icon.png", type: "image/png" },
-    ],
-    shortcut: "/icon.png",
+    icon: [{ url: "/icon", type: "image/png", sizes: "512x512" }],
+    apple: [{ url: "/apple-icon", type: "image/png" }],
+    shortcut: "/icon",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
     url: SITE_URL,
     siteName: SITE_NAME,
-    title: SITE_NAME,
+    title: `${SITE_NAME} | Products That Make Everyday Life Simpler`,
     description: SITE_DESCRIPTION,
   },
   twitter: {
     card: "summary_large_image",
-    title: SITE_NAME,
+    title: `${SITE_NAME} | Products That Make Everyday Life Simpler`,
     description: SITE_DESCRIPTION,
-    site: "@worthrated", // TODO: confirm real handle or remove
+    site: "@worthrated", // TODO: confirm real handle or remove once account exists
   },
   robots: {
     index: true,
@@ -49,18 +54,19 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${inter.variable} h-full`}>
-      <head>
-        {/* TODO: replace with this site's real GA4 measurement ID before launch */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" />
-        <script dangerouslySetInnerHTML={{ __html: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-XXXXXXXXXX');
-        `}} />
-      </head>
+    <html lang="en" className={`${manrope.variable} ${sourceSans.variable} h-full`} data-scroll-behavior="smooth">
       <body className="h-full antialiased">
+        {/* TODO: replace with this site's real GA4 measurement ID before launch */}
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" strategy="afterInteractive" />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX');
+          `}
+        </Script>
+        <a href="#main-content" className="skip-link">Skip to content</a>
         <ScrollToTop />
         {children}
       </body>

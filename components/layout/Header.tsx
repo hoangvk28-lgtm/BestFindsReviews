@@ -1,9 +1,9 @@
 ﻿"use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { useState } from "react";
 import { Container } from "./Container";
+import { Logo } from "@/components/ui/Logo";
 import { mainNav } from "@/data/nav";
 
 export function Header() {
@@ -32,17 +32,7 @@ export function Header() {
           className="group shrink-0 focus-ring"
           aria-label="WorthRated - Home"
         >
-          <Image
-            src="/logo-worthrated-official.png"
-            alt="WorthRated"
-            width={240}
-            height={64}
-            className="h-12 w-auto object-contain
-              transition-all duration-300 ease-out
-              group-hover:scale-105 group-hover:drop-shadow-[0_0_12px_rgba(37,99,235,0.5)]
-              group-active:scale-95"
-            priority
-          />
+          <Logo className="h-9 w-auto transition-transform duration-200 ease-out group-hover:scale-[1.03]" />
         </Link>
 
         {/* Desktop nav */}

@@ -30,41 +30,28 @@ interface EducationalTopic {
   comingSoon?: boolean;
 }
 
+// All topics are marked comingSoon until a real guide is published for that
+// slug — avoids linking to guide pages that don't exist yet.
 const educationalTopics: Record<string, EducationalTopic[]> = {
-  "desk-setup": [
-    { question: "How to choose a desk lamp for a small desk", href: "/guide/desk-lamps-small-desks" },
-    { question: "What size monitor stand do I actually need?", href: "/guide/monitor-stands-small-desks" },
-    { question: "Best laptop stands for working at a small desk", href: "/guide/laptop-stands-small-desks" },
-    { question: "How to manage cables on a tiny desk", href: "/guide/cable-management-dorm" },
-    { question: "How to organize a small desk for deep focus", comingSoon: true },
+  "easy-kitchen": [
+    { question: "How to choose a microwave with clear, simple controls", comingSoon: true },
+    { question: "What makes a coffee maker easy to use every morning", comingSoon: true },
+    { question: "Choosing kitchen appliances with readable displays", comingSoon: true },
   ],
-  "dorm-essentials": [
-    { question: "How to organize a dorm room bedside table", href: "/guide/bedside-caddies-students" },
-    { question: "Best cable management solutions for dorm rooms", href: "/guide/cable-management-dorm" },
-    { question: "How to choose a study lamp for a dorm desk", href: "/guide/desk-lamps-small-desks" },
-    { question: "How to maximize storage when you have no closet space", comingSoon: true },
-    { question: "Dorm setup checklist: what you actually need", comingSoon: true },
+  "easy-cleaning": [
+    { question: "How to choose a lightweight vacuum you can maneuver easily", comingSoon: true },
+    { question: "What to look for in a low-maintenance cleaning tool", comingSoon: true },
+    { question: "Cordless vs. corded: which is easier for everyday cleaning", comingSoon: true },
   ],
-  "small-room-storage": [
-    { question: "Best under-bed storage options for small bedrooms", href: "/guide/under-bed-storage-small-rooms" },
-    { question: "How to use a bedside caddy to reclaim floor space", href: "/guide/bedside-caddies-students" },
-    { question: "How to choose the right rolling cart for a small room", comingSoon: true },
-    { question: "Studio apartment storage: what actually works", comingSoon: true },
-    { question: "How to organize a bedroom with limited closet space", comingSoon: true },
+  "simple-tech": [
+    { question: "How to choose a phone with simple, readable menus", comingSoon: true },
+    { question: "What makes a TV remote genuinely easy to use", comingSoon: true },
+    { question: "Smart home devices that don't require a manual", comingSoon: true },
   ],
-  "compact-home-office": [
-    { question: "How to choose a monitor stand for a home office desk", href: "/guide/monitor-stands-small-desks" },
-    { question: "Best laptop stands for remote work", href: "/guide/laptop-stands-small-desks" },
-    { question: "How to manage cables in a bedroom home office", href: "/guide/cable-management-dorm" },
-    { question: "Best desk lamps for long remote work sessions", href: "/guide/desk-lamps-small-desks" },
-    { question: "How to set up a productive workspace in a small apartment", comingSoon: true },
-  ],
-  "budget-finds": [
-    { question: "Best budget desk lamps under $40", href: "/guide/desk-lamps-small-desks" },
-    { question: "Affordable cable management solutions for dorms", href: "/guide/cable-management-dorm" },
-    { question: "Best affordable bedside organizers for students", href: "/guide/bedside-caddies-students" },
-    { question: "Budget under-bed storage that doesn't feel cheap", href: "/guide/under-bed-storage-small-rooms" },
-    { question: "How to get the most from a $50 desk setup budget", comingSoon: true },
+  "garden-yard": [
+    { question: "Choosing garden tools that are comfortable to grip and lift", comingSoon: true },
+    { question: "What to look for in a lightweight garden kneeler", comingSoon: true },
+    { question: "How to pick yard tools that reduce bending and strain", comingSoon: true },
   ],
 };
 
@@ -80,7 +67,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!category) return {};
   return buildMetadata({
     title: `${category.name} Buying Guides`,
-    description: `Browse ${category.name.toLowerCase()} buying guides and product reviews for small desks, dorm rooms, and compact spaces on WorthRated.`,
+    description: `Browse ${category.name.toLowerCase()} buying guides and product reviews on WorthRated — compared on ease of use, setup, and long-term value.`,
     path: `/categories/${slug}`,
   });
 }

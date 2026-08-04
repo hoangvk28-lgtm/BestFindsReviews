@@ -32,7 +32,7 @@ export interface ProductReviewCardProps {
 }
 
 const BADGE_COLORS: Record<string, { bg: string; text: string }> = {
-  "Top Pick":       { bg: "#2563eb", text: "#fff" },
+  "Top Pick":       { bg: "#17324D", text: "#fff" },
   "Best Budget":    { bg: "#16a34a", text: "#fff" },
   "Best Premium":   { bg: "#7c3aed", text: "#fff" },
   "Most Portable":  { bg: "#0891b2", text: "#fff" },
@@ -60,7 +60,7 @@ export function ProductReviewCard({
   reviewSlug,
   scoreOverall,
 }: ProductReviewCardProps) {
-  const badgeStyle = badge ? (BADGE_COLORS[badge] ?? { bg: "#2563eb", text: "#fff" }) : null;
+  const badgeStyle = badge ? (BADGE_COLORS[badge] ?? { bg: "#17324D", text: "#fff" }) : null;
   const paragraphs = Array.isArray(reviewText) ? reviewText : [reviewText];
 
   return (
@@ -69,7 +69,7 @@ export function ProductReviewCard({
       <div className="flex items-center gap-3 px-5 py-4 border-b border-border bg-bg">
         <span
           className="w-9 h-9 rounded-xl flex items-center justify-center text-base font-bold shrink-0 text-white"
-          style={{ background: "#2563eb" }}
+          style={{ background: "#17324D" }}
         >
           {rank}
         </span>

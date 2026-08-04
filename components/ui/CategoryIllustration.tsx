@@ -34,7 +34,7 @@ const DEFAULT_PATH = (
 
 export function CategoryIllustration({
   subcategorySlug,
-  categoryColor = "#2563eb",
+  categoryColor = "#17324D",
   className = "w-full h-44",
 }: CategoryIllustrationProps) {
   const path = PATHS[subcategorySlug] ?? DEFAULT_PATH;

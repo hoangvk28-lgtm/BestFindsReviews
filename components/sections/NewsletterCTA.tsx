@@ -26,11 +26,11 @@ export function NewsletterCTA({ config }: Props) {
   return (
     <section
       className="py-16"
-      style={{ background: "linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%)" }}
+      style={{ background: "linear-gradient(135deg, #17324D 0%, #10273C 100%)" }}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="max-w-2xl mx-auto text-center">
-          <span className="text-xs font-bold uppercase tracking-widest text-brand">
+        <div className="max-w-md mx-auto text-center">
+          <span className="text-xs font-bold uppercase tracking-widest" style={{ color: "#E6A04B" }}>
             {c.eyebrow}
           </span>
           <h3 className="text-2xl sm:text-3xl font-bold text-white mt-3 mb-4 tracking-tight">
@@ -39,7 +39,7 @@ export function NewsletterCTA({ config }: Props) {
           <p className="text-white/80 leading-relaxed mb-8">{c.description}</p>
 
           <form
-            className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
+            className="flex flex-col sm:flex-row gap-3"
             onSubmit={(e) => e.preventDefault()}
             aria-label="Newsletter signup"
           >
@@ -49,11 +49,13 @@ export function NewsletterCTA({ config }: Props) {
               type="email"
               placeholder={c.inputPlaceholder}
               autoComplete="email"
-              className="flex-1 px-4 py-3 rounded-btn bg-white/10 border border-white/15 text-white placeholder:text-white/35 text-sm focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-colors"
+              className="flex-1 min-w-0 px-4 py-3 rounded-btn bg-white/10 border border-white/15 text-white placeholder:text-white/35 text-sm focus:outline-none focus:border-white/40 focus:ring-1 focus:ring-white/40 transition-colors"
+              style={{ ["--tw-ring-color" as string]: "#2F7D78" }}
             />
             <button
               type="submit"
-              className="px-6 py-3 bg-brand text-white font-semibold rounded-btn hover:bg-brand-dark transition-colors text-sm shrink-0"
+              className="px-6 py-3 font-semibold rounded-btn transition-colors text-sm shrink-0"
+              style={{ background: "#2F7D78", color: "#fff" }}
             >
               {c.buttonText}
             </button>

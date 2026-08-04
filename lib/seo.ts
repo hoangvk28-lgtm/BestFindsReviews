@@ -1,13 +1,8 @@
 import type { Metadata } from "next";
+import { BRAND_NAME, SITE_URL, SITE_DESCRIPTION } from "@/lib/brand";
 
-const SITE_NAME = "WorthRated"; // TODO: confirm final brand name/casing
-// Prefer env var so the same build can be deployed to any domain without code changes.
-const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-  "https://www.worthrated.com";
-const SITE_DESCRIPTION =
-  "TODO: one-sentence site description for the homepage <meta description> and OG tags.";
-const TWITTER_HANDLE = "@worthrated"; // TODO: confirm real handle or remove
+const SITE_NAME = BRAND_NAME;
+const TWITTER_HANDLE = "@worthrated"; // TODO: confirm real handle or remove once account exists
 
 export function buildMetadata({
   title,
@@ -35,7 +30,7 @@ export function buildMetadata({
     ? image.startsWith("http")
       ? image
       : `${SITE_URL}${image}`
-    : `${SITE_URL}/og-default.png`;
+    : `${SITE_URL}/opengraph-image`;
 
   return {
     title: { absolute: fullTitle },
