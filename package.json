@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node scripts/indexnow-postbuild.mjs",
     "start": "next start",
     "lint": "eslint",
     "seed:products": "npx tsx scripts/seed-products.ts",
