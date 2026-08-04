@@ -4,27 +4,36 @@ import { Container } from "@/components/layout/Container";
 import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
 import { buildMetadata } from "@/lib/seo";
 import { categories } from "@/data/categories";
-import { getPublicProducts } from "@/lib/public-products";
+import { getPublicGuidesByCategory } from "@/lib/public-guides";
+import { getPublicProductsForCategoryHub } from "@/lib/public-products";
 
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
-  title: "All Categories -- Small Space Products | WorthRated",
+  title: "All Categories | WorthRated",
   description:
-    "Browse all product categories: desk setup, dorm essentials, small room storage, and more. Find the right buying guide for your space.",
+    "Browse all WorthRated categories: Easy Kitchen, Easy Cleaning, Simple Tech, and Garden & Yard. Find the right buying guide for easier everyday living.",
   path: "/categories",
 });
 
 const CATEGORY_ICONS: Record<string, string> = {
-  "desk-setup":        "🖥️",
-  "dorm-essentials":   "🎓",
-  "small-room-storage":"📦",
-  "compact-home-office":"💼",
-  "budget-finds":      "💰",
+  "easy-kitchen": "🍳",
+  "easy-cleaning": "🧹",
+  "simple-tech": "📱",
+  "garden-yard": "🌿",
 };
 
 export default async function CategoriesPage() {
-  const products = await getPublicProducts();
+  const categoryStats = await Promise.all(
+    categories.map(async (cat) => {
+      const [guides, products] = await Promise.all([
+        getPublicGuidesByCategory(cat.slug),
+        getPublicProductsForCategoryHub(cat),
+      ]);
+      return { slug: cat.slug, guideCount: guides.length, productCount: products.length };
+    })
+  );
+  const statsBySlug = new Map(categoryStats.map((s) => [s.slug, s]));
 
   return (
     <Container className="py-12">
@@ -35,13 +44,13 @@ export default async function CategoriesPage() {
       <div className="mt-6 mb-10 max-w-2xl">
         <h1 className="text-4xl font-bold text-ink tracking-tight mb-3">All Categories</h1>
         <p className="text-ink-secondary leading-relaxed text-lg">
-          Browse products and buying guides by category. Each category covers a specific small-space need with scored recommendations and comparison tables.
+          Browse buying guides by category. Each one compares products on ease of use, setup, controls, and long-term value.
         </p>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {categories.map((cat) => {
-          const catProducts = products.filter((p) => p.categorySlug === cat.slug);
+          const stats = statsBySlug.get(cat.slug);
           const icon = CATEGORY_ICONS[cat.slug] ?? "📋";
           return (
             <Link
@@ -60,7 +69,6 @@ export default async function CategoriesPage() {
                   <h2 className="font-bold text-ink text-base group-hover:text-brand transition-colors">
                     {cat.name}
                   </h2>
-                  <p className="text-xs text-ink-muted">{cat.subcategories.length} subcategories</p>
                 </div>
               </div>
 
@@ -69,7 +77,10 @@ export default async function CategoriesPage() {
               </p>
 
               <div className="flex items-center justify-between pt-2 border-t border-border">
-                <span className="text-xs text-ink-muted">{catProducts.length} products evaluated</span>
+                <span className="text-xs text-ink-muted">
+                  {stats?.guideCount ?? 0} {stats?.guideCount === 1 ? "guide" : "guides"}
+                  {stats && stats.productCount > 0 ? ` · ${stats.productCount} products` : ""}
+                </span>
                 <span className="text-xs font-semibold text-brand group-hover:text-brand-dark transition-colors">
                   Browse &rarr;
                 </span>
