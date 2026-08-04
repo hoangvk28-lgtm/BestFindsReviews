@@ -34,9 +34,9 @@ interface EducationalTopic {
 // slug — avoids linking to guide pages that don't exist yet.
 const educationalTopics: Record<string, EducationalTopic[]> = {
   "easy-kitchen": [
-    { question: "How to choose a microwave with clear, simple controls", comingSoon: true },
-    { question: "What makes a coffee maker easy to use every morning", comingSoon: true },
-    { question: "Choosing kitchen appliances with readable displays", comingSoon: true },
+    { question: "How to choose a microwave with clear, simple controls", href: "/guide/how-to-choose-a-microwave-with-simple-controls" },
+    { question: "What makes a coffee maker easy to use every morning", href: "/guide/best-easy-to-use-coffee-makers" },
+    { question: "Choosing kitchen appliances with readable displays", href: "/guide/choosing-kitchen-appliances-with-readable-displays" },
   ],
   "easy-cleaning": [
     { question: "How to choose a lightweight vacuum you can maneuver easily", comingSoon: true },
