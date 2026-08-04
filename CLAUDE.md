@@ -316,6 +316,12 @@ Every buying guide (`/guide/[slug]`) must include a substantive "How to Choose" 
 
 As of `scripts/generate-guide-page.mjs`, every generated guide page follows this section order top to bottom. **Do not hand-write `page.tsx` for a new guide; always run the generator** so these sections are never accidentally omitted or misplaced.
 
+**Hero image block (updated 2026-08-04):** the hero is responsive, not one fixed image at all breakpoints.
+- **Mobile (below `md`):** a single `heroImg` (from `data/guides/<slug>.ts` → `heroImage`), capped at a fixed height (`h-56 sm:h-64`) with `object-contain` so it never stretches tall regardless of the source photo's aspect ratio.
+- **Desktop (`md` and up):** a horizontal row showing every pick's own `imageUrl` from `products[]`, one evenly-spaced column per product (`gridTemplateColumns: repeat(products.length, minmax(0,1fr))`), each in its own fixed-height white card (`h-56`) with `object-contain` so photos of different aspect ratios and backgrounds stay visually even instead of looking mismatched.
+- This fills the wide desktop hero area with the actual products being compared instead of one small centered image surrounded by wasted whitespace, while keeping mobile simple since a multi-column row would be cramped on a narrow screen.
+- This is defined once in the generator template (`scripts/generate-guide-page.mjs`) and applies automatically to every guide generated from it — do not hand-roll a different hero layout per guide.
+
 ```
 Breadcrumbs → header → affiliate note → hero image
 → Comparison Table (products[])

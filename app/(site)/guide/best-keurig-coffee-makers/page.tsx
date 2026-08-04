@@ -1,140 +1,4 @@
-/**
- * Deterministically generates app/(site)/guide/<slug>/page.tsx from a
- * data/guides/<slug>.ts file, following the exact template established by
- * app/(site)/guide/best-corner-standing-desk/page.tsx.
- *
- * The data file must export: guideSlug, guideTitle, metaTitle, metaDescription,
- * lastUpdated, readTime, heroImage, products, buyingCriteria, howWeEvaluated,
- * howToChoose, faq, relatedGuides, mainKeyword, introParagraphs (string[], 2-3
- * sentences).
- *
- * Two advisory sections render AFTER the individual product reviews and BEFORE the
- * FAQ section, in this order:
- *
- * 1. howWeEvaluated: { title: string; description: string }[] — 4-5 entries, a card
- *    grid titled "How We Evaluated These X", explaining the guide-specific scoring
- *    methodology (e.g. Stability, Adjustability, Build quality, Device compatibility,
- *    Value for price for a tablet-stand guide). Category-specific, not generic filler.
- *
- * 2. howToChoose: a deep, multi-subsection "How to Choose the Right X" advisory block.
- *    Each entry is one subsection with a subheading plus an optional intro paragraph,
- *    an optional table, an optional 2-col card grid, and an optional closing note:
- *      { subheading: string; intro?: string;
- *        table?: { headers: string[]; rows: string[][] };
- *        cards?: { label: string; text: string }[]; note?: string }[]
- *    Model this on scenario-based tables that map a buyer situation directly to a
- *    named pick (e.g. "By Sitting Duration" -> daily hours -> which pick to buy;
- *    "Chair Height vs Your Height" -> a measurement -> which picks fit). 4-6
- *    subsections per guide is the target depth — this is the guide's primary
- *    E-E-A-T / content-gap section.
- *
- * Both are required as of 2026-07-18 — do not omit either, even if short.
- *
- * Usage:
- *   node scripts/generate-guide-page.mjs best-tv-stand-white
- *   node scripts/generate-guide-page.mjs best-tv-stand-white best-tv-stand-black ...
- */
-
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from "fs";
-import { resolve, dirname } from "path";
-import { fileURLToPath } from "url";
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = resolve(__dirname, "..");
-
-function extractStringConst(content, name) {
-  const re = new RegExp(`export const ${name}\\s*=\\s*(?:\`([^\`]*)\`|"((?:[^"\\\\]|\\\\.)*)")`, "s");
-  const m = content.match(re);
-  if (!m) return null;
-  const raw = m[1] ?? m[2];
-  return raw.replace(/\\"/g, '"').replace(/\\n/g, "\n");
-}
-
-function extractArrayLength(content, name) {
-  const re = new RegExp(`export const ${name}[^=]*=\\s*\\[`, "s");
-  const m = content.match(re);
-  if (!m) return 0;
-  let depth = 1;
-  let i = m.index + m[0].length;
-  let count = content[i] === "]" ? 0 : 1;
-  while (depth > 0 && i < content.length) {
-    i++;
-    if (content[i] === "[") depth++;
-    else if (content[i] === "]") depth--;
-  }
-  return null; // not used, we import the module instead for arrays
-}
-
-function toBreadcrumbTitle(guideTitle) {
-  return guideTitle.replace(/^\d+\s+/, "").replace(/\s+in\s+2026$/i, "");
-}
-
-function toAmazonSearchQuery(mainKeyword, guideSlug) {
-  const kw = mainKeyword || guideSlug.replace(/^best-/, "").replace(/-/g, " ");
-  return kw.replace(/\s+/g, "+");
-}
-
-// Singularizes a breadcrumb-style title's trailing plural product noun for use in
-// "N Criteria to Look For Before Buying a ___" and "How We Evaluated These ___" headings.
-// Falls back to the first noun-ish token if no simple plural is detected.
-function toProductNounSingular(breadcrumbTitle) {
-  const words = breadcrumbTitle.replace(/^Best\s+/i, "").trim();
-  if (/ies$/i.test(words)) return words.replace(/ies$/i, "y");
-  if (/ches$|shes$|xes$|sses$/i.test(words)) return words.replace(/es$/i, "");
-  if (/s$/i.test(words) && !/ss$/i.test(words)) return words.replace(/s$/i, "");
-  return words;
-}
-
-async function main() {
-  const slugs = process.argv.slice(2);
-  if (slugs.length === 0) {
-    console.error("Usage: node scripts/generate-guide-page.mjs <slug> [<slug> ...]");
-    process.exit(1);
-  }
-
-  for (const slug of slugs) {
-    const dataPath = resolve(ROOT, "data", "guides", `${slug}.ts`);
-    if (!existsSync(dataPath)) {
-      console.error(`✗ ${slug}: data file not found at ${dataPath}`);
-      continue;
-    }
-    const content = readFileSync(dataPath, "utf8");
-
-    const guideTitle = extractStringConst(content, "guideTitle");
-    const metaDescription = extractStringConst(content, "metaDescription");
-    const mainKeyword = extractStringConst(content, "mainKeyword");
-    const introParagraphsRaw = content.match(/export const introParagraphs[^=]*=\s*\[([\s\S]*?)\n\];/);
-
-    if (!guideTitle) {
-      console.error(`✗ ${slug}: could not parse guideTitle — skipping`);
-      continue;
-    }
-
-    let introParagraphs = [];
-    if (introParagraphsRaw) {
-      // crude but reliable extraction of double-quoted or template strings in the array
-      const items = introParagraphsRaw[1].match(/(?:"(?:[^"\\]|\\.)*"|`[^`]*`)/g) || [];
-      introParagraphs = items.map((s) =>
-        s.startsWith("`")
-          ? s.slice(1, -1)
-          : JSON.parse(s)
-      );
-    }
-    if (introParagraphs.length === 0) {
-      introParagraphs = [
-        `This guide covers the top picks for ${mainKeyword || guideTitle.toLowerCase()}, ranked by real product specs, weight capacity, and buyer feedback.`,
-      ];
-    }
-
-    const breadcrumbTitle = toBreadcrumbTitle(guideTitle);
-    const amazonQuery = toAmazonSearchQuery(mainKeyword, slug);
-    const pascalSchemaName = breadcrumbTitle;
-    const productNoun = toProductNounSingular(breadcrumbTitle);
-    const productNounPlural = breadcrumbTitle.replace(/^Best\s+/i, "").trim();
-
-    const introBlock = introParagraphs.map((p) => `          <p>${p}</p>`).join("\n");
-
-    const page = `import type { Metadata } from "next";
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
@@ -154,14 +18,14 @@ import {
   howWeEvaluated,
   howToChoose,
   type GuideProduct,
-} from "@/data/guides/${slug}";
+} from "@/data/guides/best-keurig-coffee-makers";
 
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
   description: metaDescription,
-  path: "/guide/${slug}",
+  path: "/guide/best-keurig-coffee-makers",
   image: fallbackHeroImage,
   type: "article",
 });
@@ -213,7 +77,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-brand mb-1">About this pick</p>
-              {product.description.split("\\n\\n").map((para, i) => (
+              {product.description.split("\n\n").map((para, i) => (
                 <p key={i} className="text-sm text-ink-secondary leading-relaxed">
                   {para}
                 </p>
@@ -267,7 +131,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
 }
 
 export default async function Page() {
-  const guide = await getPublicGuideBySlug("${slug}");
+  const guide = await getPublicGuideBySlug("best-keurig-coffee-makers");
   const heroImg = guide?.thumbnailImage ?? guide?.heroImage ?? fallbackHeroImage;
 
   const articleSchema = {
@@ -277,10 +141,10 @@ export default async function Page() {
     description: metaDescription,
     datePublished: lastUpdated,
     dateModified: lastUpdated,
-    author: { "@type": "Person", name: "Jamie Cole", url: \`\${SITE_URL}/author/jamie-cole\` },
+    author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
     publisher: { "@type": "Organization", name: "WorthRated", url: SITE_URL },
-    mainEntityOfPage: { "@type": "WebPage", "@id": \`\${SITE_URL}/guide/${slug}\` },
-    about: [{"@type":"Thing","name":"${pascalSchemaName}"}],
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-keurig-coffee-makers` },
+    about: [{"@type":"Thing","name":"Best Keurig Coffee Makers"}],
   };
 
   const breadcrumbSchema = {
@@ -288,8 +152,8 @@ export default async function Page() {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
-      { "@type": "ListItem", position: 2, name: "Buying Guides", item: \`\${SITE_URL}/guide\` },
-      { "@type": "ListItem", position: 3, name: "${breadcrumbTitle}", item: \`\${SITE_URL}/guide/${slug}\` },
+      { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` },
+      { "@type": "ListItem", position: 3, name: "Best Keurig Coffee Makers", item: `${SITE_URL}/guide/best-keurig-coffee-makers` },
     ],
   };
 
@@ -302,8 +166,8 @@ export default async function Page() {
     itemListElement: products.map((p) => ({
       "@type": "ListItem",
       position: p.rank,
-      name: \`\${p.name} - \${p.badge}\`,
-      url: \`\${SITE_URL}/guide/${slug}#\${p.id}\`,
+      name: `${p.name} - ${p.badge}`,
+      url: `${SITE_URL}/guide/best-keurig-coffee-makers#${p.id}`,
     })),
   };
 
@@ -318,7 +182,7 @@ export default async function Page() {
           <span>/</span>
           <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
           <span>/</span>
-          <span className="text-ink">${breadcrumbTitle}</span>
+          <span className="text-ink">Best Keurig Coffee Makers</span>
         </nav>
 
         <header className="mb-8">
@@ -361,12 +225,12 @@ export default async function Page() {
         <div className="rounded-2xl overflow-hidden border border-border mb-10 bg-bg">
           {/* Mobile: single hero image */}
           <div className="md:hidden h-56 sm:h-64 flex items-center justify-center">
-            <Image src={heroImg} alt="${breadcrumbTitle}" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
+            <Image src={heroImg} alt="Best Keurig Coffee Makers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
           </div>
           {/* Desktop: row of every pick's own product image, evenly spaced */}
           <div
             className="hidden md:grid gap-3 p-4"
-            style={{ gridTemplateColumns: \`repeat(\${products.length}, minmax(0, 1fr))\` }}
+            style={{ gridTemplateColumns: `repeat(${products.length}, minmax(0, 1fr))` }}
           >
             {products.map((product, i) => (
               <div key={product.id} className="h-56 flex items-center justify-center bg-white rounded-xl border border-border p-3">
@@ -401,7 +265,7 @@ export default async function Page() {
                 {products.map((product, i) => (
                   <tr key={product.id} className={i % 2 === 0 ? "bg-white" : "bg-bg"}>
                     <td className="px-4 py-3">
-                      <a href={\`#\${product.id}\`} className="text-xs font-bold text-brand hover:underline">{product.badge}</a>
+                      <a href={`#${product.id}`} className="text-xs font-bold text-brand hover:underline">{product.badge}</a>
                     </td>
                     <td className="px-4 py-3 font-semibold text-ink text-xs">{product.name}</td>
                     <td className="px-4 py-3 text-ink-secondary text-xs hidden sm:table-cell">{product.price}</td>
@@ -420,12 +284,13 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-${introBlock}
+          <p>The current Keurig lineup covers a wide range of needs, from a countertop-hogging dual carafe machine to a unit small enough to fit on a dorm shelf. Most comparisons treat every model as interchangeable and rank them mainly by price.</p>
+          <p>We looked at four current, distinct models rather than color variants of the same machine, and focused on the details that actually change daily use: reservoir size, how consistent brew temperature stays across cup sizes, how easy each model is to descale, and what a full year of pods and maintenance actually costs.</p>
         </section>
 
         {buyingCriteria.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a ${productNoun}</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Keurig Coffee Maker</h2>
             <p className="text-sm text-ink-muted mb-5">Key buying criteria so you get the right fit the first time.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {buyingCriteria.map((item, i) => (
@@ -442,7 +307,7 @@ ${introBlock}
           <p className="text-xs font-bold uppercase tracking-widest text-ink-muted mb-3">Jump to pick</p>
           <div className="flex flex-wrap gap-2">
             {products.map((p) => (
-              <a key={p.id} href={\`#\${p.id}\`} className="text-xs font-medium px-3 py-1.5 rounded-lg bg-white border border-border text-ink-secondary hover:text-brand hover:border-brand transition-colors">
+              <a key={p.id} href={`#${p.id}`} className="text-xs font-medium px-3 py-1.5 rounded-lg bg-white border border-border text-ink-secondary hover:text-brand hover:border-brand transition-colors">
                 #{p.rank} {p.badge}
               </a>
             ))}
@@ -458,7 +323,7 @@ ${introBlock}
 
         {howWeEvaluated.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These ${productNounPlural}</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Keurig Coffee Makers</h2>
             <p className="text-sm text-ink-muted mb-5">Each pick was assessed across {howWeEvaluated.length} criteria weighted for real-world use.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {howWeEvaluated.map((item, i) => (
@@ -473,7 +338,7 @@ ${introBlock}
 
         {howToChoose.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right ${productNounPlural}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Keurig Coffee Makers</h2>
             <div className="space-y-8">
               {howToChoose.map((sub, i) => (
                 <div key={i}>
@@ -541,7 +406,7 @@ ${introBlock}
               <span className="w-2 h-2 rounded-full bg-brand mt-2 shrink-0" />
               <p className="text-sm text-ink-secondary">
                 <strong className="text-ink">best overall:</strong>{" "}
-                <a href={\`#\${products[0]?.id}\`} className="font-bold text-ink hover:text-brand transition-colors">{products[0]?.name}</a>
+                <a href={`#${products[0]?.id}`} className="font-bold text-ink hover:text-brand transition-colors">{products[0]?.name}</a>
                 {" "}- {products[0]?.badge.toLowerCase()} pick in this roundup.
               </p>
             </div>
@@ -552,7 +417,7 @@ ${introBlock}
         <section className="mb-14 p-6 rounded-2xl flex flex-col items-center text-center" style={{ background: "linear-gradient(135deg, #FF9900 0%, #e68900 100%)" }}>
           <h2 className="text-xl font-bold text-white mb-2">Browse on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All Prime-eligible options with current pricing.</p>
-          <a href={\`https://www.amazon.com/s?k=${amazonQuery}&tag=worthrated-20\`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
+          <a href={`https://www.amazon.com/s?k=keurig+coffee+makers&tag=worthrated-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
             Shop on Amazon &rarr;
           </a>
         </section>
@@ -578,13 +443,3 @@ ${introBlock}
     </>
   );
 }
-`;
-
-    const pageDir = resolve(ROOT, "app", "(site)", "guide", slug);
-    mkdirSync(pageDir, { recursive: true });
-    writeFileSync(resolve(pageDir, "page.tsx"), page, "utf8");
-    console.log(`✓ ${slug}: page.tsx generated`);
-  }
-}
-
-main();
