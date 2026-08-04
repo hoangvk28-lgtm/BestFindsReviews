@@ -10,7 +10,7 @@ export interface GuideProductPick {
   badge: string;        // "Best Overall", "Best Budget", "Best Premium", etc.
   name: string;
   brand?: string;
-  asin?: string;        // auto-generates affiliateUrl: https://www.amazon.com/dp/{ASIN}?tag=worthrated0d-20
+  asin?: string;        // auto-generates affiliateUrl: https://www.amazon.com/dp/{ASIN}?tag=worthrated-20
   affiliateUrl: string; // always use rel="nofollow sponsored noopener noreferrer"
   imageUrl: string;
   priceLabel: "Budget" | "Mid-range" | "Premium" | "Check Amazon";

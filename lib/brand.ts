@@ -18,7 +18,7 @@ export const CONTACT_EMAIL = "hello@worthrated.com";
 // Populate as { platform: "twitter", url: "https://twitter.com/worthrated" } etc.
 export const SOCIAL_LINKS: { platform: string; url: string }[] = [];
 
-export const AMAZON_ASSOCIATE_TAG = "worthrated0d-20";
+export const AMAZON_ASSOCIATE_TAG = "worthrated-20";
 
 // ─── Audience & positioning (for editorial copy, not rendered directly) ──────
 export const AUDIENCE_DESCRIPTION =

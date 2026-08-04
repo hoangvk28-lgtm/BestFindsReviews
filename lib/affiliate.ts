@@ -1,4 +1,4 @@
-﻿export const AMAZON_TAG = "worthrated0d-20";
+﻿export const AMAZON_TAG = "worthrated-20";
 
 /**
  * Central URL builder - swap out AMAZON_TAG once your Associates account is approved.

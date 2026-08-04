@@ -56,14 +56,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${manrope.variable} ${sourceSans.variable} h-full`} data-scroll-behavior="smooth">
       <body className="h-full antialiased">
-        {/* TODO: replace with this site's real GA4 measurement ID before launch */}
-        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" strategy="afterInteractive" />
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-J31H6NCTHP" strategy="afterInteractive" />
         <Script id="ga4-init" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXXXXX');
+            gtag('config', 'G-J31H6NCTHP');
           `}
         </Script>
         <a href="#main-content" className="skip-link">Skip to content</a>

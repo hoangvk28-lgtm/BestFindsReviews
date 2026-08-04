@@ -60,7 +60,7 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-xl font-bold text-ink mb-3">3. Affiliate Links</h2>
           <p className="mb-3">
-            As an Amazon Associate, we earn a small commission on qualifying purchases made through our links at no additional cost to you. Our affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">worthrated0d-20</code>) is embedded in product links.
+            As an Amazon Associate, we earn a small commission on qualifying purchases made through our links at no additional cost to you. Our affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">worthrated-20</code>) is embedded in product links.
           </p>
           <p>
             For full details of our affiliate relationship and how it affects (or doesn&apos;t affect) our editorial recommendations, see our{" "}

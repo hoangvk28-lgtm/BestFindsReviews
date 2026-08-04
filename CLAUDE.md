@@ -13,19 +13,22 @@
 ## 1. Project Overview
 
 - **Site name:** WorthRated (`SITE_NAME = "WorthRated"`)
+- **Tagline:** "We rate products for easier living."
 - **Live domain:** `https://www.worthrated.com` (www is canonical; non-www redirects 301)
 - **Business model:** Affiliate content site — earns commissions via Amazon affiliate links
-- **Niche:** TODO — define this site's niche/audience (kept the DeskFinds example below as a reference pattern until replaced)
+- **Amazon Associates tag:** `worthrated-20` — the ONLY tag string that should appear in any `amazon.com` link on this site (see `lib/brand.ts` → `AMAZON_ASSOCIATE_TAG`, `lib/affiliate.ts` → `AMAZON_TAG`, `lib/amazon-links.ts` → `TAG`). Never hardcode a different tag or a placeholder — always import from one of these.
+- **Niche:** Everyday home products that are genuinely easy to use, for active/independent adults roughly 55-70 and the adult children researching for them. Four content pillars: Easy Kitchen, Easy Cleaning, Simple Tech, Garden & Yard.
 - **Content types:**
   - Buying guides (`/guide/[slug]`) — ranked product picks with scores, FAQs, and editorial sections
   - Product reviews (`/reviews/[slug]`) — individual product pages with full scoring breakdowns
-  - Category hubs (`/categories/[slug]`) — top-level category landing pages
-  - Compare pages (`/compare/[slug]`) — side-by-side category comparisons and VS articles
+  - Category hubs (`/categories/[slug]`) — top-level category landing pages (easy-kitchen, easy-cleaning, simple-tech, garden-yard)
+  - Compare pages (`/compare/[slug]`) — side-by-side category comparisons
   - Deals page (`/deals`) — curated product deals
-  - Static editorial pages — `/how-we-review`, `/about-worthrated`, `/affiliate-disclosure`, `/privacy-policy`, `/contact`
-- **Target audience:** People furnishing small spaces — dorm rooms, compact home offices, studio apartments
-- **Google Analytics:** `G-XXXXXXXXXX` — TODO: replace with this site's real GA4 measurement ID
-- **Twitter handle:** `@worthrated`
+  - Static editorial pages — `/how-we-review`, `/about-us`, `/affiliate-disclosure`, `/privacy-policy`, `/terms-of-use`, `/contact`
+- **Target audience:** Active, independent adults ~55-70 and the family members buying for them — NOT a medical/assisted-living framing.
+- **Worth Rating criteria (7, weighted):** Ease of Use 25%, Controls & Readability 20%, Weight & Handling 15%, Setup Difficulty 15%, Cleaning & Maintenance 10%, Reliability & Warranty 10%, Value for Money 5% (see `lib/brand.ts` → `RATING_CRITERIA`)
+- **Google Analytics:** `G-J31H6NCTHP` — live
+- **Twitter handle:** `@worthrated` — TODO: not a confirmed live account yet
 
 ---
 
@@ -513,7 +516,6 @@ Handle these carefully going forward:
 - **`revalidate` value:** Currently 86400 (24h). Do not lower this without understanding CDN cache costs; do not raise it above 604800 (7 days) for guide pages that update frequently
 - **Static vs Supabase data sync:** If a guide is published in Supabase with a slug that differs from `data/guides.ts`, both may appear in the sitemap. Audit `app/sitemap.ts` merge logic before bulk-publishing
 - **`m.media-amazon.com` images:** In `remotePatterns` but Amazon ToS restricts image hotlinking outside PA API — verify compliance before using
-- **Google Analytics ID** in `app/layout.tsx` is a placeholder (`G-XXXXXXXXXX`) — replace with the real GA4 measurement ID before launch
 - **`/compare/[slug]`** dual-purpose route (category compare + VS articles) — ensure new VS articles don't accidentally match a category slug
 - **Author pages `/author/[slug]`** — linked from guide bylines; if the route doesn't exist or returns 404, it creates broken internal links. Verify author slugs in `data/authors.ts` match existing pages
 - **`llms.txt` and `llms-full.txt`** in `public/` — AI-readable site description files. Keep these updated when site structure or content scope changes significantly

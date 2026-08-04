@@ -78,7 +78,7 @@ export const DEFAULT_AFFILIATE_SETTINGS: AffiliateSettings = {
     "WorthRated participates in affiliate programs, including the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click a product link and make a purchase, we may earn a small commission at no additional cost to you. Our recommendations are based on published specifications, manufacturer documentation, and patterns in verified buyer feedback — our editorial opinions are independent and are never influenced by affiliate relationships.",
   disclosureBannerText:
     "We may earn a commission when you buy through Amazon links. Our recommendations are based on published specs, manufacturer documentation, and clear comparison criteria.",
-  amazonTag: "worthrated0d-20",
+  amazonTag: "worthrated-20",
 };
 
 export const DEFAULT_FOOTER_SETTINGS: FooterSettings = {

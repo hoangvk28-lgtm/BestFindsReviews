@@ -1,4 +1,4 @@
-const TAG = "worthrated0d-20";
+const TAG = "worthrated-20";
 
 export const amazonSearchLinks: Record<string, string> = {
   "easy-kitchen":  `https://www.amazon.com/s?k=easy+to+use+kitchen+appliances+for+seniors&tag=${TAG}`,

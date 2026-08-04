@@ -144,7 +144,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
   function onAsinChange(i: number, asin: string) {
     updatePick(i, {
       asin,
-      affiliateUrl: asin ? `https://www.amazon.com/dp/${asin.trim()}?tag=worthrated0d-20` : "",
+      affiliateUrl: asin ? `https://www.amazon.com/dp/${asin.trim()}?tag=worthrated-20` : "",
     });
   }
 
@@ -638,7 +638,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                 {/* Row 2: ASIN + Affiliate URL */}
                 <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
                   <AdminFormField label="ASIN" htmlFor={`pick_asin_${i}`}
-                    hint="Auto-fills affiliate URL with worthrated0d-20 tag">
+                    hint="Auto-fills affiliate URL with worthrated-20 tag">
                     <input id={`pick_asin_${i}`} type="text" className={inputClass}
                       value={pick.asin ?? ""} onChange={(e) => onAsinChange(i, e.target.value)}
                       placeholder="B0CT2NQ7WG" />
@@ -647,7 +647,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                     hint="Auto-generated from ASIN. Edit to override.">
                     <input id={`pick_affiliateUrl_${i}`} type="url" className={inputClass}
                       value={pick.affiliateUrl} onChange={(e) => updatePick(i, { affiliateUrl: e.target.value })}
-                      placeholder="https://www.amazon.com/dp/…?tag=worthrated0d-20" />
+                      placeholder="https://www.amazon.com/dp/…?tag=worthrated-20" />
                   </AdminFormField>
                 </div>
 
