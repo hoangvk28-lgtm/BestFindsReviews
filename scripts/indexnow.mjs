@@ -11,9 +11,7 @@
 import { execSync } from "child_process";
 
 const HOST = "www.worthrated.com";
-// TODO: generate a new IndexNow key at https://www.bing.com/indexnow/getstarted,
-// set it here, and create public/<key>.txt containing just the key string.
-const KEY = "REPLACE_WITH_NEW_INDEXNOW_KEY";
+const KEY = process.env.INDEXNOW_KEY ?? "e2444801d6e544c0b94c53358ad268bd";
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 
 function slugsFromGitDiff(sinceRef) {
