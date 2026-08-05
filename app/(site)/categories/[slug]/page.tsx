@@ -39,9 +39,9 @@ const educationalTopics: Record<string, EducationalTopic[]> = {
     { question: "Choosing kitchen appliances with readable displays", href: "/guide/choosing-kitchen-appliances-with-readable-displays" },
   ],
   "easy-cleaning": [
-    { question: "How to choose a lightweight vacuum you can maneuver easily", comingSoon: true },
+    { question: "Are robot vacuums worth it?", href: "/guide/are-robot-vacuums-worth-it" },
+    { question: "Robot vacuum brand comparison: Shark vs eufy vs Roborock vs Dreame", href: "/guide/robot-vacuum-brand-comparison" },
     { question: "What to look for in a low-maintenance cleaning tool", comingSoon: true },
-    { question: "Cordless vs. corded: which is easier for everyday cleaning", comingSoon: true },
   ],
   "simple-tech": [
     { question: "How to choose a phone with simple, readable menus", comingSoon: true },
