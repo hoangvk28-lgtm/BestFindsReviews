@@ -1538,7 +1538,7 @@ export const guides: Guide[] = [
   {
     title: "Best Variable-Temperature Electric Kettles",
     slug: "best-variable-temperature-electric-kettles",
-    categorySlug: "",
+    categorySlug: "easy-kitchen",
     subcategorySlug: "",
     description: "We compared five temperature-control electric kettles on adjustment range, hold behavior, control memory, pouring, cleaning, and warranty support.",
     mainKeyword: "temperature control electric kettle",
