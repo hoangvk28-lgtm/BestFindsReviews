@@ -24,7 +24,7 @@ async function main() {
     const entry = `  {
     title: ${JSON.stringify(mod.guideTitle)},
     slug: ${JSON.stringify(mod.guideSlug)},
-    categorySlug: "",
+    categorySlug: ${JSON.stringify(mod.categorySlug || "")},
     subcategorySlug: "",
     description: ${JSON.stringify(mod.metaDescription)},
     mainKeyword: ${JSON.stringify(kw)},
