@@ -18,14 +18,14 @@ import {
   howWeEvaluated,
   howToChoose,
   type GuideProduct,
-} from "@/data/guides/best-toro-lawn-mowers";
+} from "@/data/guides/best-milwaukee-lawn-mowers";
 
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
   description: metaDescription,
-  path: "/guide/best-toro-lawn-mowers",
+  path: "/guide/best-milwaukee-lawn-mowers",
   image: fallbackHeroImage,
   type: "article",
 });
@@ -125,7 +125,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
 }
 
 export default async function Page() {
-  const guide = await getPublicGuideBySlug("best-toro-lawn-mowers");
+  const guide = await getPublicGuideBySlug("best-milwaukee-lawn-mowers");
   const heroImg = guide?.thumbnailImage ?? guide?.heroImage ?? fallbackHeroImage;
 
   const articleSchema = {
@@ -137,8 +137,8 @@ export default async function Page() {
     dateModified: lastUpdated,
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
     publisher: { "@type": "Organization", name: "WorthRated", url: SITE_URL },
-    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-toro-lawn-mowers` },
-    about: [{"@type":"Thing","name":"Best Toro Lawn Mowers"}],
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-milwaukee-lawn-mowers` },
+    about: [{"@type":"Thing","name":"Best Milwaukee Lawn Mowers"}],
   };
 
   const breadcrumbSchema = {
@@ -147,7 +147,7 @@ export default async function Page() {
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
       { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` },
-      { "@type": "ListItem", position: 3, name: "Best Toro Lawn Mowers", item: `${SITE_URL}/guide/best-toro-lawn-mowers` },
+      { "@type": "ListItem", position: 3, name: "Best Milwaukee Lawn Mowers", item: `${SITE_URL}/guide/best-milwaukee-lawn-mowers` },
     ],
   };
 
@@ -161,7 +161,7 @@ export default async function Page() {
       "@type": "ListItem",
       position: p.rank,
       name: `${p.name} - ${p.badge}`,
-      url: `${SITE_URL}/guide/best-toro-lawn-mowers#${p.id}`,
+      url: `${SITE_URL}/guide/best-milwaukee-lawn-mowers#${p.id}`,
     })),
   };
 
@@ -176,7 +176,7 @@ export default async function Page() {
           <span>/</span>
           <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
           <span>/</span>
-          <span className="text-ink">Best Toro Lawn Mowers</span>
+          <span className="text-ink">Best Milwaukee Lawn Mowers</span>
         </nav>
 
         <header className="mb-8">
@@ -219,7 +219,7 @@ export default async function Page() {
         <div className="rounded-2xl overflow-hidden border border-border mb-10 bg-bg">
           {/* Mobile: single hero image */}
           <div className="md:hidden h-56 sm:h-64 flex items-center justify-center">
-            <Image src={heroImg} alt="Best Toro Lawn Mowers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
+            <Image src={heroImg} alt="Best Milwaukee Lawn Mowers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
           </div>
           {/* Desktop: row of every pick's own product image, evenly spaced */}
           <div
@@ -276,13 +276,13 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>The Toro mower range covers compact walk-behinds, wide-deck models, and zero-turn machines. The two picks here solve very different jobs: the 21-inch Recycler is easier around beds and gates, while the 30-inch eTimeMaster reduces passes on larger open lawns.</p>
-          <p>We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.</p>
+          <p>Milwaukee is a newer entrant to cordless outdoor power compared to brands that have sold full mower lineups for years. Right now the current catalog centers on one self-propelled 21 inch deck built on the M18 FUEL dual battery platform, sold in a small number of kit variations rather than a wide range of separate mower models.</p>
+          <p>Because the lineup is narrow, this guide compares the genuine complete mowers we could verify rather than padding the list with battery-compatible dethatchers, trimmers, or third-party attachments that use an M18 pack but are not Milwaukee mowers. That left three verified complete mowers, and we say so plainly instead of stretching the list.</p>
         </section>
 
         {buyingCriteria.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Toro Lawn Mower</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Milwaukee Lawn Mower</h2>
             <p className="text-sm text-ink-muted mb-5">Key buying criteria so you get the right fit the first time.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {buyingCriteria.map((item, i) => (
@@ -315,7 +315,7 @@ export default async function Page() {
 
         {howWeEvaluated.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Toro Lawn Mowers</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Milwaukee Lawn Mowers</h2>
             <p className="text-sm text-ink-muted mb-5">Each pick was assessed across {howWeEvaluated.length} criteria weighted for real-world use.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {howWeEvaluated.map((item, i) => (
@@ -330,7 +330,7 @@ export default async function Page() {
 
         {howToChoose.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Toro Lawn Mowers</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Milwaukee Lawn Mowers</h2>
             <div className="space-y-8">
               {howToChoose.map((sub, i) => (
                 <div key={i}>
@@ -409,7 +409,7 @@ export default async function Page() {
         <section className="mb-14 p-6 rounded-2xl flex flex-col items-center text-center" style={{ background: "linear-gradient(135deg, #FF9900 0%, #e68900 100%)" }}>
           <h2 className="text-xl font-bold text-white mb-2">Browse on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All Prime-eligible options with current pricing.</p>
-          <a href={`https://www.amazon.com/s?k=toro+lawn+mowers&tag=worthrated-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
+          <a href={`https://www.amazon.com/s?k=milwaukee+lawn+mowers&tag=worthrated-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
             Shop on Amazon &rarr;
           </a>
         </section>

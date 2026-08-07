@@ -8,7 +8,7 @@ export const lastUpdated = "2026-08-06";
 export const readTime = "11 min";
 export const heroImage = "https://m.media-amazon.com/images/I/31l8LBDrn1L._SL500_.jpg";
 export const introParagraphs = [
-  "Toro's mower range covers compact walk-behinds, wide-deck models, and zero-turn machines. The two picks here solve very different jobs: the 21-inch Recycler is easier around beds and gates, while the 30-inch eTimeMaster reduces passes on larger open lawns.",
+  "The Toro mower range covers compact walk-behinds, wide-deck models, and zero-turn machines. The two picks here solve very different jobs: the 21-inch Recycler is easier around beds and gates, while the 30-inch eTimeMaster reduces passes on larger open lawns.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }

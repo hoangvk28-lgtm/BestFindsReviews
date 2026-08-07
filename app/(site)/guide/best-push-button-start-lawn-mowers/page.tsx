@@ -18,14 +18,14 @@ import {
   howWeEvaluated,
   howToChoose,
   type GuideProduct,
-} from "@/data/guides/best-toro-lawn-mowers";
+} from "@/data/guides/best-push-button-start-lawn-mowers";
 
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
   description: metaDescription,
-  path: "/guide/best-toro-lawn-mowers",
+  path: "/guide/best-push-button-start-lawn-mowers",
   image: fallbackHeroImage,
   type: "article",
 });
@@ -125,7 +125,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
 }
 
 export default async function Page() {
-  const guide = await getPublicGuideBySlug("best-toro-lawn-mowers");
+  const guide = await getPublicGuideBySlug("best-push-button-start-lawn-mowers");
   const heroImg = guide?.thumbnailImage ?? guide?.heroImage ?? fallbackHeroImage;
 
   const articleSchema = {
@@ -137,8 +137,8 @@ export default async function Page() {
     dateModified: lastUpdated,
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
     publisher: { "@type": "Organization", name: "WorthRated", url: SITE_URL },
-    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-toro-lawn-mowers` },
-    about: [{"@type":"Thing","name":"Best Toro Lawn Mowers"}],
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-push-button-start-lawn-mowers` },
+    about: [{"@type":"Thing","name":"Best Push-Button Start Lawn Mowers"}],
   };
 
   const breadcrumbSchema = {
@@ -147,7 +147,7 @@ export default async function Page() {
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
       { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` },
-      { "@type": "ListItem", position: 3, name: "Best Toro Lawn Mowers", item: `${SITE_URL}/guide/best-toro-lawn-mowers` },
+      { "@type": "ListItem", position: 3, name: "Best Push-Button Start Lawn Mowers", item: `${SITE_URL}/guide/best-push-button-start-lawn-mowers` },
     ],
   };
 
@@ -161,7 +161,7 @@ export default async function Page() {
       "@type": "ListItem",
       position: p.rank,
       name: `${p.name} - ${p.badge}`,
-      url: `${SITE_URL}/guide/best-toro-lawn-mowers#${p.id}`,
+      url: `${SITE_URL}/guide/best-push-button-start-lawn-mowers#${p.id}`,
     })),
   };
 
@@ -176,7 +176,7 @@ export default async function Page() {
           <span>/</span>
           <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
           <span>/</span>
-          <span className="text-ink">Best Toro Lawn Mowers</span>
+          <span className="text-ink">Best Push-Button Start Lawn Mowers</span>
         </nav>
 
         <header className="mb-8">
@@ -219,7 +219,7 @@ export default async function Page() {
         <div className="rounded-2xl overflow-hidden border border-border mb-10 bg-bg">
           {/* Mobile: single hero image */}
           <div className="md:hidden h-56 sm:h-64 flex items-center justify-center">
-            <Image src={heroImg} alt="Best Toro Lawn Mowers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
+            <Image src={heroImg} alt="Best Push-Button Start Lawn Mowers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
           </div>
           {/* Desktop: row of every pick's own product image, evenly spaced */}
           <div
@@ -276,13 +276,13 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>The Toro mower range covers compact walk-behinds, wide-deck models, and zero-turn machines. The two picks here solve very different jobs: the 21-inch Recycler is easier around beds and gates, while the 30-inch eTimeMaster reduces passes on larger open lawns.</p>
-          <p>We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.</p>
+          <p>Push-button start means different things depending on the mower. On a battery mower, push-button start is inherent to the design: there is no engine to prime or pull, just a safety key or bail lever and a start button. On a gas mower advertised with electric start, the button is powering a small starting battery that spins a normal gasoline engine, and that battery needs its own charging and maintenance separate from the fuel system.</p>
+          <p>We grouped the current lineup by starting system and drive type, then compared deck size, included battery capacity, self-propel availability, and what a buyer needs to know about backup starting before choosing a model. Because the current push-button lineup we reviewed is entirely battery-powered, every model below starts the same simple way: a safety key, a bail lever, and a button, with no pull cord and no separate starting battery to maintain.</p>
         </section>
 
         {buyingCriteria.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Toro Lawn Mower</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Push-Button Start Lawn Mower</h2>
             <p className="text-sm text-ink-muted mb-5">Key buying criteria so you get the right fit the first time.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {buyingCriteria.map((item, i) => (
@@ -315,7 +315,7 @@ export default async function Page() {
 
         {howWeEvaluated.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Toro Lawn Mowers</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Push-Button Start Lawn Mowers</h2>
             <p className="text-sm text-ink-muted mb-5">Each pick was assessed across {howWeEvaluated.length} criteria weighted for real-world use.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {howWeEvaluated.map((item, i) => (
@@ -330,7 +330,7 @@ export default async function Page() {
 
         {howToChoose.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Toro Lawn Mowers</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Push-Button Start Lawn Mowers</h2>
             <div className="space-y-8">
               {howToChoose.map((sub, i) => (
                 <div key={i}>
@@ -409,7 +409,7 @@ export default async function Page() {
         <section className="mb-14 p-6 rounded-2xl flex flex-col items-center text-center" style={{ background: "linear-gradient(135deg, #FF9900 0%, #e68900 100%)" }}>
           <h2 className="text-xl font-bold text-white mb-2">Browse on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All Prime-eligible options with current pricing.</p>
-          <a href={`https://www.amazon.com/s?k=toro+lawn+mowers&tag=worthrated-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
+          <a href={`https://www.amazon.com/s?k=push+button+start+lawn+mowers&tag=worthrated-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
             Shop on Amazon &rarr;
           </a>
         </section>

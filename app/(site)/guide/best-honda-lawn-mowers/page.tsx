@@ -276,7 +276,7 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>A current Honda mower guide should not rank discontinued U.S. gas models as if they were the active lineup. Honda's present range is a four-model battery family: HRN-BV, HRX-BV, HRX-BE, and the commercial HRC-BE, each with a different battery-bay and drive workflow.</p>
+          <p>A current Honda mower guide should not rank discontinued U.S. gas models as if they were the active lineup. The current Honda lineup is a four-model battery family: HRN-BV, HRX-BV, HRX-BE, and the commercial HRC-BE, each with a different battery-bay and drive workflow.</p>
           <p>We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.</p>
         </section>
 

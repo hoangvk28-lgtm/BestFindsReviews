@@ -276,7 +276,7 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Craftsman's range spans corded, V20 battery, gas, riding, and zero-turn mowers. This comparison focuses on two walk-behind options for smaller residential lawns: a mobile V20 battery model and a corded model that avoids charging and battery replacement.</p>
+          <p>The Craftsman range spans corded, V20 battery, gas, riding, and zero-turn mowers. This comparison focuses on two walk-behind options for smaller residential lawns: a mobile V20 battery model and a corded model that avoids charging and battery replacement.</p>
           <p>We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.</p>
         </section>
 
