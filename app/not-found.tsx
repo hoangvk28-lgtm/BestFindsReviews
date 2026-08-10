@@ -1,13 +1,12 @@
 ﻿import Link from "next/link";
-import { categories } from "@/data/categories";
 
 const quickLinks = [
-  { label: "Desk Setup", href: "/categories/desk-setup", emoji: "🖥️" },
-  { label: "Dorm Essentials", href: "/categories/dorm-essentials", emoji: "🎓" },
-  { label: "Small Room Storage", href: "/categories/small-room-storage", emoji: "📦" },
-  { label: "Compare All Products", href: "/compare", emoji: "⚖️" },
+  { label: "Easy Kitchen", href: "/categories/easy-kitchen", emoji: "🍳" },
+  { label: "Easy Cleaning", href: "/categories/easy-cleaning", emoji: "🧹" },
+  { label: "Simple Tech", href: "/categories/simple-tech", emoji: "📱" },
+  { label: "Garden & Yard", href: "/categories/garden-yard", emoji: "🌿" },
+  { label: "All Buying Guides", href: "/guide/all", emoji: "📖" },
   { label: "Today's Deals", href: "/deals", emoji: "🔥" },
-  { label: "Buying Guides", href: "/guide", emoji: "📖" },
 ];
 
 export default function NotFound() {
@@ -17,7 +16,7 @@ export default function NotFound() {
       <div
         className="relative flex-1 flex flex-col items-center justify-center px-4 py-20 text-center"
         style={{
-          backgroundImage: "url('/hero-banner.jpg')",
+          backgroundImage: "url('/worthrated-hero-02-kitchen-living.webp')",
           backgroundSize: "cover",
           backgroundPosition: "center right",
         }}
@@ -45,7 +44,7 @@ export default function NotFound() {
           </h1>
 
           <p className="text-white/70 text-base sm:text-lg leading-relaxed mb-10 max-w-sm mx-auto">
-            This page doesn&apos;t exist or has moved. Let&apos;s get you back to finding the perfect small-space product.
+            This page doesn&apos;t exist or has moved. Let&apos;s get you back to finding the right product for easier living.
           </p>
 
           {/* Primary actions */}
@@ -57,10 +56,10 @@ export default function NotFound() {
               ← Back to Home
             </Link>
             <Link
-              href="/compare"
+              href="/guide/all"
               className="px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold rounded-xl transition-colors text-sm backdrop-blur-sm"
             >
-              Browse All Products
+              Browse All Guides
             </Link>
           </div>
 
