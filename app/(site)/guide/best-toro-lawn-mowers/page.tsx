@@ -71,11 +71,13 @@ function ProductSection({ product }: { product: GuideProduct }) {
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-brand mb-1">About this pick</p>
-              {product.description.split("\n\n").map((para, i) => (
-                <p key={i} className="text-sm text-ink-secondary leading-relaxed">
-                  {para}
-                </p>
-              ))}
+              <div className="space-y-2">
+                {product.description.split("\n\n").map((para, i) => (
+                  <p key={i} className="text-sm text-ink-secondary leading-relaxed">
+                    {para}
+                  </p>
+                ))}
+              </div>
             </div>
             <p className="text-xs text-ink-muted">
               <span className="font-semibold text-ink">Best for:</span>{" "}
