@@ -8,8 +8,8 @@ export const lastUpdated = "2026-08-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/41gN2z9JeWL._SL500_.jpg";
 export const introParagraphs = [
-  "Best Weed Pullers can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product availability, Root capture and breakage, and Soil penetration and plug size are the details most listings gloss over in favor of a generic spec sheet.",
-  "We compared all 8 models below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to Fiskars Deluxe Stand-Up Weed Puller Tool at $48.98, with a focus on separating hand, stand-up claw and powered pullers into distinct classes, and cross-checked Ergonomics and force and Durability, warranty and support against the current listing data rather than repeating manufacturer marketing claims."
+  "It's a common assumption that weed pullers are basically interchangeable once you've picked a price range. In practice, Current product availability, Root capture and breakage, and Soil penetration and plug size are the factors that separate a pick you'll be happy with from one you'll want to return.",
+  "The 8 picks compared here were evaluated with separating hand, stand-up claw and powered pullers into distinct classes as the starting point, not an afterthought. Prices here run from $17.59 (RexWeed Stand Up Weed Puller Tool) to $48.98 (Fiskars Deluxe Stand-Up Weed Puller Tool). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
