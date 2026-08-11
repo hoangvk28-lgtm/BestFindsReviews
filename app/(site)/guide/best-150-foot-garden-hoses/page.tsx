@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best 150-Foot Garden Hoses can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling are the details most listings gloss over in favor of a generic spec sheet. Length alone in this lineup spans from 50 ft on the VEVOR Retractable Garden Hose Reel up to 100 ft on the Flexzilla Garden Hose 5/8 in. x 100 ft., a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Doorich Garden Hose at $29.99 up to Flexi Hose with 8 Function Nozzle at $76.49, with a focus on measuring dry and filled weight at the exact length, and cross-checked Working pressure and measured flow and Repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Before buying 150-foot garden hoses, the more useful question isn't just which one is cheapest, but which one actually holds up on current US product pool. That, along with Inside diameter and fitting restriction and Dry versus filled handling, is what we dug into for the picks below. Length alone in this lineup spans from 50 ft on the VEVOR Retractable Garden Hose Reel up to 100 ft on the Flexzilla Garden Hose 5/8 in. x 100 ft., a real difference worth checking against your own use case.</p>
+          <p>The 7 picks compared here were evaluated with measuring dry and filled weight at the exact length as the starting point, not an afterthought. Prices here run from $29.99 (Doorich Garden Hose) to $76.49 (Flexi Hose with 8 Function Nozzle). We also cross-checked Working pressure and measured flow and repairability and warranty against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

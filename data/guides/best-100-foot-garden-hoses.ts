@@ -8,8 +8,8 @@ export const lastUpdated = "2026-08-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/41JYQUegd-L._SL500_.jpg";
 export const introParagraphs = [
-  "Shoppers comparing 100-foot garden hoses often assume any well-reviewed listing is a safe bet, but Current US product pool and Inside diameter and fitting restriction vary enough between these picks to change which one actually fits a given yard, and dry versus filled handling is rarely spelled out clearly on the product page.",
-  "This roundup covers 7 current models and prioritizes measuring dry and filled weight at the exact length over spec-sheet comparisons alone. Prices here run from $29.99 (Doorich Garden Hose) to $76.49 (Flexi Hose with 8 Function Nozzle). Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy."
+  "Two listings for 100-foot garden hoses can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out.",
+  "We put 7 models head-to-head below, spanning Doorich Garden Hose at $29.99 up to Flexi Hose with 8 Function Nozzle at $76.49, focusing first on measuring dry and filled weight at the exact length. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

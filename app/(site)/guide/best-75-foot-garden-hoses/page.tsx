@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best 75-Foot Garden Hoses can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling are the details most listings gloss over in favor of a generic spec sheet. Length alone in this lineup spans from 50 ft on the VEVOR Retractable Garden Hose Reel up to 100 ft on the NEO-TEC Upgraded Retractable Garden Hose Reel 5/8 inch x 100 ft Wall-Mounted, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning EOOIO Garden Hose 75 ft x 5/8" at $39.98 up to glahoden Retractable Garden Hose Reel at $129.99, with a focus on measuring dry and filled weight at the exact length, and cross-checked Working pressure and measured flow and Repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Before buying 75-foot garden hoses, the more useful question isn't just which one is cheapest, but which one actually holds up on current US product pool. That, along with Inside diameter and fitting restriction and Dry versus filled handling, is what we dug into for the picks below. Length alone in this lineup spans from 50 ft on the VEVOR Retractable Garden Hose Reel up to 100 ft on the NEO-TEC Upgraded Retractable Garden Hose Reel 5/8 inch x 100 ft Wall-Mounted, a real difference worth checking against your own use case.</p>
+          <p>Below, all 8 models are broken down side by side, spanning EOOIO Garden Hose 75 ft x 5/8" at $39.98 up to glahoden Retractable Garden Hose Reel at $129.99, with particular attention to measuring dry and filled weight at the exact length. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

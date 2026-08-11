@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Weed Pullers for Seniors can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product availability, Root capture and breakage, and Soil penetration and plug size are the details most listings gloss over in favor of a generic spec sheet. Claw Count alone in this lineup spans from 3 claws on the DIAINSKY Weed Puller Tool up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning RexWeed Stand Up Weed Puller Tool at $16.99 up to DIAINSKY Weed Puller Tool at $79.99, with a focus on measuring tool weight and balance over a realistic session, and cross-checked Ergonomics and force and Durability, warranty and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Before buying weed pullers for seniors, the more useful question isn't just which one is cheapest, but which one actually holds up on current product availability. That, along with Root capture and breakage and Soil penetration and plug size, is what we dug into for the picks below. Claw Count alone in this lineup spans from 3 claws on the DIAINSKY Weed Puller Tool up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
+          <p>We put 8 models head-to-head below, spanning RexWeed Stand Up Weed Puller Tool at $16.99 up to DIAINSKY Weed Puller Tool at $79.99, focusing first on measuring tool weight and balance over a realistic session. Ergonomics and force and durability, warranty and support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

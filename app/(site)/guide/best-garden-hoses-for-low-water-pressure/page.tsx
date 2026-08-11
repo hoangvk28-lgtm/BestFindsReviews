@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Garden Hoses for Low Water Pressure can look similar in a listing photo but differ in ways that matter once real daily use is involved: Source pressure, Length, and Inside diameter are the details most listings gloss over in favor of a generic spec sheet. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 75 ft on the KETTOYA Non-Expanding Garden Hose 75 ft, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI at $26.09 up to Pocket Hose Ballistic 50 FT Expandable Garden Hose at $59.99, with a focus on stating clearly that a passive hose cannot boost source pressure, and cross-checked Fitting/nozzle restriction and Required end flow against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>It's a common assumption that garden hoses for low water pressure are basically interchangeable once you've picked a price range. In practice, Source pressure, Length, and Inside diameter are the factors that separate a pick you'll be happy with from one you'll want to return. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 75 ft on the KETTOYA Non-Expanding Garden Hose 75 ft, a real difference worth checking against your own use case.</p>
+          <p>We compared all 8 models below, spanning ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI at $26.09 up to Pocket Hose Ballistic 50 FT Expandable Garden Hose at $59.99, with a focus on stating clearly that a passive hose cannot boost source pressure, and cross-checked Fitting/nozzle restriction and required end flow against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

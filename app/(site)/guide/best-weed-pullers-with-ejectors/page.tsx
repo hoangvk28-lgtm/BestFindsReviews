@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Weed Pullers With Ejectors can look similar in a listing photo but differ in ways that matter once real daily use is involved: Eject force, Complete release, and Clogging are the details most listings gloss over in favor of a generic spec sheet. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the GASREKV Weed Puller Tool, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Bamda Weed Puller Tool for Garden Lawn Yard at $20.99 up to Grootpow WP5 Heavy Duty Weed Puller Tool at $55.30, with a focus on measuring ejector force, and cross-checked One-hand use and Cycle time against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Two listings for weed pullers with ejectors can look nearly identical in a thumbnail, yet eject force, complete release, and clogging are exactly the details a generic spec sheet tends to leave out. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the GASREKV Weed Puller Tool, a real difference worth checking against your own use case.</p>
+          <p>We put 7 models head-to-head below, spanning Bamda Weed Puller Tool for Garden Lawn Yard at $20.99 up to Grootpow WP5 Heavy Duty Weed Puller Tool at $55.30, focusing first on measuring ejector force. One-hand use and cycle time got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

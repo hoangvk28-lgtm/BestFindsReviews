@@ -8,8 +8,8 @@ export const lastUpdated = "2026-08-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/41gN2z9JeWL._SL500_.jpg";
 export const introParagraphs = [
-  "Before buying long-handled weed pullers, the more useful question isn't just which one is cheapest, but which one actually holds up on current product availability. That, along with Root capture and breakage and Soil penetration and plug size, is what we dug into for the picks below.",
-  "Below, all 8 models are broken down side by side, spanning NICOFPHY Weed Puller Tool with Long Handle at $20.49 up to HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden at $49.71, with particular attention to separating long-handled forks/spears from foot-platform claw tools. We also verified Ergonomics and force and durability, warranty and support directly against current listings instead of taking manufacturer copy at face value."
+  "Shoppers comparing long-handled weed pullers often assume any well-reviewed listing is a safe bet, but Current product availability and Root capture and breakage vary enough between these picks to change which one actually fits a given yard, and soil penetration and plug size is rarely spelled out clearly on the product page.",
+  "The 8 picks compared here were evaluated with separating long-handled forks/spears from foot-platform claw tools as the starting point, not an afterthought. Prices here run from $20.49 (NICOFPHY Weed Puller Tool with Long Handle) to $49.71 (HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Lightweight Garden Hoses can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling are the details most listings gloss over in favor of a generic spec sheet. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 100 ft on the Flexi Hose with 8 Function Nozzle, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI at $26.09 up to Flexi Hose with 8 Function Nozzle at $76.49, with a focus on ranking dry and filled weight separately, and cross-checked Working pressure and measured flow and Repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling rarely show up as clear differentiators in a standard listing for lightweight garden hoses, even though they're often the real reason one pick performs better than another once it's in actual use. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 100 ft on the Flexi Hose with 8 Function Nozzle, a real difference worth checking against your own use case.</p>
+          <p>This roundup covers 8 current models and prioritizes ranking dry and filled weight separately over spec-sheet comparisons alone. Prices here run from $26.09 (ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI) to $76.49 (Flexi Hose with 8 Function Nozzle). Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

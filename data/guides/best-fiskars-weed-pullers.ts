@@ -9,7 +9,7 @@ export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/317GIA+WmJL._SL500_.jpg";
 export const introParagraphs = [
   "It's a common assumption that fiskars weed pullers are basically interchangeable once you've picked a price range. In practice, Current SKU count, Mechanism/material, and Warranty are the factors that separate a pick you'll be happy with from one you'll want to return.",
-  "This roundup covers 8 current models and prioritizes building a current SKU map and decide whether a plural roundup is justified over spec-sheet comparisons alone. Prices here run from $17.59 (RexWeed Stand Up Weed Puller Tool) to $49.71 (HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden). Replacement/support and Weed/soil fit were checked against the live listing data for each pick, not assumed from the box copy."
+  "We put 8 models head-to-head below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden at $49.71, focusing first on building a current SKU map and decide whether a plural roundup is justified. Replacement/support and weed/soil fit got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

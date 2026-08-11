@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Electric Weed Pullers can look similar in a listing photo but differ in ways that matter once real daily use is involved: Battery/motor support, Root extraction depth, and Soil jamming are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 7 models below, spanning Fiskars Deluxe Stand-Up Weed Puller Tool at $48.98 up to SEESII Electric Stand-Up Weed Puller at $79.99, with a focus on requiring a manufacturer-backed current product rather than anonymous marketplace listings only, and cross-checked Completed extractions per charge and Manufacturer versus marketplace support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Two listings for electric weed pullers can look nearly identical in a thumbnail, yet battery/motor support, root extraction depth, and soil jamming are exactly the details a generic spec sheet tends to leave out.</p>
+          <p>Below, all 7 models are broken down side by side, spanning Fiskars Deluxe Stand-Up Weed Puller Tool at $48.98 up to SEESII Electric Stand-Up Weed Puller at $79.99, with particular attention to requiring a manufacturer-backed current product rather than anonymous marketplace listings only. We also verified Completed extractions per charge and manufacturer versus marketplace support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

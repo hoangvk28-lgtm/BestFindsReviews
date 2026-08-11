@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Weed Pullers for Clay Soil can look similar in a listing photo but differ in ways that matter once real daily use is involved: Soil moisture, Penetration force, and Release clogging are the details most listings gloss over in favor of a generic spec sheet. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the RexWeed Stand Up Weed Puller Tool, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to Grootpow WP5 Heavy Duty Weed Puller Tool at $55.30, with a focus on testing multiple soil moisture levels, and cross-checked Plug size and Tool stress against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Shoppers comparing weed pullers for clay soil often assume any well-reviewed listing is a safe bet, but Soil moisture and Penetration force vary enough between these picks to change which one actually fits a given yard, and release clogging is rarely spelled out clearly on the product page. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the RexWeed Stand Up Weed Puller Tool, a real difference worth checking against your own use case.</p>
+          <p>We put 7 models head-to-head below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to Grootpow WP5 Heavy Duty Weed Puller Tool at $55.30, focusing first on testing multiple soil moisture levels. Plug size and tool stress got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Fiskars Weed Pullers can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current SKU count, Mechanism/material, and Warranty are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden at $49.71, with a focus on building a current SKU map and decide whether a plural roundup is justified, and cross-checked Replacement/support and Weed/soil fit against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>It's a common assumption that fiskars weed pullers are basically interchangeable once you've picked a price range. In practice, Current SKU count, Mechanism/material, and Warranty are the factors that separate a pick you'll be happy with from one you'll want to return.</p>
+          <p>We put 8 models head-to-head below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden at $49.71, focusing first on building a current SKU map and decide whether a plural roundup is justified. Replacement/support and weed/soil fit got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -8,8 +8,8 @@ export const lastUpdated = "2026-08-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/21NnI8Fcc5L._SL500_.jpg";
 export const introParagraphs = [
-  "Shoppers comparing hand weed pullers often assume any well-reviewed listing is a safe bet, but Current product availability and Root capture and breakage vary enough between these picks to change which one actually fits a given yard, and soil penetration and plug size is rarely spelled out clearly on the product page.",
-  "This roundup covers 8 current models and prioritizes measuring grip comfort and wrist torque over spec-sheet comparisons alone. Prices here run from $6.99 (MOTEERLLU Weed Puller Tool) to $34.79 (Fiskars Stand-Up Weed Puller Tool). Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy."
+  "It's a common assumption that hand weed pullers are basically interchangeable once you've picked a price range. In practice, Current product availability, Root capture and breakage, and Soil penetration and plug size are the factors that separate a pick you'll be happy with from one you'll want to return.",
+  "The 8 picks compared here were evaluated with measuring grip comfort and wrist torque as the starting point, not an afterthought. Prices here run from $6.99 (MOTEERLLU Weed Puller Tool) to $34.79 (Fiskars Stand-Up Weed Puller Tool). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

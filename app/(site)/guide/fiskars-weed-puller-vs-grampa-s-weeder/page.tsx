@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Fiskars Weed Puller vs Grampa's Weeder can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product availability, Root capture and breakage, and Soil penetration and plug size are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Fiskars Ergo Garden Hand Weeder Tool at $7.15 up to Fiskars Garden Weeding Tool Set: 4-Claw & Ergo Hand Weeder at $56.13, with a focus on using the same weed type, soil and operator, and cross-checked Ergonomics and force and Durability, warranty and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Current product availability, Root capture and breakage, and Soil penetration and plug size rarely show up as clear differentiators in a standard listing for fiskars weed puller vs grampa's weeder, even though they're often the real reason one pick performs better than another once it's in actual use.</p>
+          <p>We put 8 models head-to-head below, spanning Fiskars Ergo Garden Hand Weeder Tool at $7.15 up to Fiskars Garden Weeding Tool Set: 4-Claw & Ergo Hand Weeder at $56.13, focusing first on using the same weed type, soil and operator. Ergonomics and force and durability, warranty and support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

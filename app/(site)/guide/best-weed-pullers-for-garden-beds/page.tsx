@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Weed Pullers for Garden Beds can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product availability, Root capture and breakage, and Soil penetration and plug size are the details most listings gloss over in favor of a generic spec sheet. Claw Count alone in this lineup spans from 3 claws on the Tegarbed 39" Stand Up Weed Puller Tool - Heavy Duty Detachable 3-Claw up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Fiskars Ergo Garden Hand Weeder Tool at $7.15 up to Gardena 03518 at $49.29, with a focus on measuring precision around crop and ornamental roots, and cross-checked Ergonomics and force and Durability, warranty and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Two listings for weed pullers for garden beds can look nearly identical in a thumbnail, yet current product availability, root capture and breakage, and soil penetration and plug size are exactly the details a generic spec sheet tends to leave out. Claw Count alone in this lineup spans from 3 claws on the Tegarbed 39" Stand Up Weed Puller Tool - Heavy Duty Detachable 3-Claw up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
+          <p>The 8 picks compared here were evaluated with measuring precision around crop and ornamental roots as the starting point, not an afterthought. Prices here run from $7.15 (Fiskars Ergo Garden Hand Weeder Tool) to $49.29 (Gardena 03518). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

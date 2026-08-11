@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Garden Hoses for High Water Pressure can look similar in a listing photo but differ in ways that matter once real daily use is involved: Working PSI, Burst PSI, and Supply versus pressure-washer output are the details most listings gloss over in favor of a generic spec sheet. Length alone in this lineup spans from 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning PUUKU Garden Hose 25ft x 5/8" at $20.39 up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water at $55.97, with a focus on defining the page around safe high source pressure, not pressure-washer discharge pressure, and cross-checked Inside diameter and Coupling retention against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Two listings for garden hoses for high water pressure can look nearly identical in a thumbnail, yet working PSI, burst PSI, and supply versus pressure-washer output are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
+          <p>We put 8 models head-to-head below, spanning PUUKU Garden Hose 25ft x 5/8" at $20.39 up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water at $55.97, focusing first on defining the page around safe high source pressure, not pressure-washer discharge pressure. Inside diameter and coupling retention got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

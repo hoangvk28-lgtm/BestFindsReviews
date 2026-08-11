@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best 25-Foot Garden Hoses can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling are the details most listings gloss over in favor of a generic spec sheet. Length alone in this lineup spans from 15 ft on the Flexzilla Garden Utility Hose 5/8 in. x 15 ft. up to 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft., a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Flexzilla Garden Utility Hose 5/8 in. x 15 ft. at $19.40 up to Pocket Hose Ballistic 25 FT Expandable Garden Hose at $39.99, with a focus on measuring dry and filled weight at the exact length, and cross-checked Working pressure and measured flow and Repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Before buying 25-foot garden hoses, the more useful question isn't just which one is cheapest, but which one actually holds up on current US product pool. That, along with Inside diameter and fitting restriction and Dry versus filled handling, is what we dug into for the picks below. Length alone in this lineup spans from 15 ft on the Flexzilla Garden Utility Hose 5/8 in. x 15 ft. up to 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft., a real difference worth checking against your own use case.</p>
+          <p>We compared all 8 models below, spanning Flexzilla Garden Utility Hose 5/8 in. x 15 ft. at $19.40 up to Pocket Hose Ballistic 25 FT Expandable Garden Hose at $39.99, with a focus on measuring dry and filled weight at the exact length, and cross-checked Working pressure and measured flow and repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

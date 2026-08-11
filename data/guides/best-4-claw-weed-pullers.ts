@@ -8,8 +8,8 @@ export const lastUpdated = "2026-08-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/317GIA+WmJL._SL500_.jpg";
 export const introParagraphs = [
-  "Shoppers comparing 4-claw weed pullers often assume any well-reviewed listing is a safe bet, but Current product availability and Root capture and breakage vary enough between these picks to change which one actually fits a given yard, and soil penetration and plug size is rarely spelled out clearly on the product page.",
-  "The 8 picks compared here were evaluated with measuring claw spacing and penetration depth instead of assuming claw count predicts grip as the starting point, not an afterthought. Prices here run from $6.99 (MOTEERLLU Weed Puller Tool) to $48.98 (Fiskars Deluxe Stand-Up Weed Puller Tool). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one."
+  "Two listings for 4-claw weed pullers can look nearly identical in a thumbnail, yet current product availability, root capture and breakage, and soil penetration and plug size are exactly the details a generic spec sheet tends to leave out.",
+  "This roundup covers 8 current models and prioritizes measuring claw spacing and penetration depth instead of assuming claw count predicts grip over spec-sheet comparisons alone. Prices here run from $6.99 (MOTEERLLU Weed Puller Tool) to $48.98 (Fiskars Deluxe Stand-Up Weed Puller Tool). Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
