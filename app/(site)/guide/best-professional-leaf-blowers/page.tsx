@@ -20,7 +20,7 @@ import {
   type GuideProduct,
 } from "@/data/guides/best-professional-leaf-blowers";
 
-export const revalidate = 604800;
+export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Professional and Commercial leaf blower searches overlap heavily; this guide focuses specifically on crew workflow, serviceability, and fleet logistics, and cross-links our Commercial guide as the primary hub for duty-cycle comparisons. Best Professional Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: duty cycle, sustained blowing force, and service network are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 550 CFM on the Thalorus 52cc Backpack Leaf Blower - Gas Powered 550 CFM 230 MPH High up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning HTK Backpack Blower at $159.99 up to Husqvarna 570BTS Backpack Leaf Blower at $530.95, with a focus on defining whether the page targets full-time landscaping crews, facility maintenance or premium homeowners, and cross-checked wear parts and operator exposure against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Professional and Commercial overlap heavily in current product pools, so this guide requires duty-cycle, service, and commercial-warranty evidence rather than treating "pro" as a marketing label alone. Before buying professional leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 665 CFM on the HTK Backpack Blower up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
+          <p>Below, all 8 models are broken down side by side, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with particular attention to defining professional eligibility using duty cycle, warranty, service and sustained productivity. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

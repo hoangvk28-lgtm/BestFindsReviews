@@ -20,7 +20,7 @@ import {
   type GuideProduct,
 } from "@/data/guides/best-2-stroke-leaf-blowers";
 
-export const revalidate = 604800;
+export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Always recheck local gas-blower rules before buying - restrictions on gas-powered leaf blowers are set at the city or county level and change over time. Best 2-Stroke Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: true engine architecture, fuel mix ratio, and cold and hot starting are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 550 CFM on the Thalorus 52cc Backpack Leaf Blower - Gas Powered 550 CFM 230 MPH High up to 850 CFM on the HASANEN Backpack Gas Powered Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to Husqvarna 570BTS Backpack Leaf Blower at $530.95, with a focus on requiring exact engine architecture and fuel-mix specification from the manufacturer for every pick, and cross-checked measured vibration and local use restrictions against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Before buying 2-stroke leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 470 CFM on the Husqvarna 125B Gas Leaf Blower up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
+          <p>Below, all 8 models are broken down side by side, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with particular attention to verifying engine displacement, fuel mix and current model availability. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

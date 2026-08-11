@@ -20,7 +20,7 @@ import {
   type GuideProduct,
 } from "@/data/guides/best-walk-behind-leaf-blowers";
 
-export const revalidate = 604800;
+export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Walk-Behind Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: measured output, push/self-propel effort, and nozzle control are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 200 CFM on the Champion Power Equipment 212cc 1200 CFM Walk-Behind Leaf Blower up to 270 CFM on the SuperHandy Walk Behind Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning PROYAMA 72CC Gas Backpack Leaf Blower at $199.00 up to SuperHandy Tow-Behind Leaf Blower at $1698.47, with a focus on separating push and self-propelled walk-behind blowers, and cross-checked transport width and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>It's a common assumption that walk-behind leaf blowers are basically interchangeable once you've picked a price range. In practice, Engine/power system, Self-propel drive, and Discharge direction are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 765 CFM on the Husqvarna 150BT Gas Leaf Blower up to 1200 CFM on the Yardmax Gas Walk-Behind Blower, a real difference worth checking against your own use case.</p>
+          <p>We compared all 8 models below, spanning PROYAMA 72CC Gas Backpack Leaf Blower at $199.00 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with a focus on measuring push or steering effort and compare self-propel versus push-only models, and cross-checked Push/steering effort and transport/storage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (
