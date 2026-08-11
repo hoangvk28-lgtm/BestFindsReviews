@@ -560,7 +560,9 @@ All commands run from the `worthrated/` directory.
 npm run dev          # Start Next.js dev server (http://localhost:3000)
 ```
 
-**Agent-environment note (added 2026-08-10):** the agent's shell and the user's browser are frequently not on the same machine. `curl http://localhost:3000/...` succeeding from the agent's shell does NOT mean the user can open that link — it only proves the dev server itself is healthy. Do not tell the user to open a `localhost` link as the way to review changes before a commit/push; if the user needs to visually verify something pre-push, take a screenshot (or describe the rendered output) instead of pointing them at a local URL.
+**Agent-environment note (added 2026-08-10):** the agent's shell and the user's browser are frequently not on the same machine. `curl http://localhost:3000/...` succeeding from the agent's shell does NOT mean the user can open that link — it only proves the dev server itself is healthy. Do not tell the user to open a `localhost` link as the way to review changes before a commit/push.
+
+**Pre-push preview workflow (added 2026-08-10, per explicit user instruction — "lần sau cho tôi xem bài ở localhost trước rồi mới push"):** when the user wants to review a batch before it goes live, do NOT push directly to `main`. Instead: (1) create a feature branch (e.g. `git checkout -b guide-batch-<topic>`), commit the work there, and `git push -u origin <branch>`; (2) Vercel's GitHub integration automatically builds a real, browser-accessible preview deployment for any pushed branch/PR (URL pattern like `worthrated-git-<branch>-<team>.vercel.app`, or check the PR/branch in the Vercel dashboard or `vercel ls` for the exact URL) — give the user that real URL, not localhost; (3) wait for the user's explicit approval of the preview before merging the branch into `main` (which triggers the production deploy and the IndexNow-ping GitHub Action, since that workflow only fires on push to `main`). This gives the user a real link they can open themselves, unlike localhost. Only skip this workflow if the user explicitly says to push straight to main.
 
 ### Production Build
 ```bash
