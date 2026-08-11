@@ -20,7 +20,7 @@ import {
   type GuideProduct,
 } from "@/data/guides/best-commercial-leaf-blowers";
 
-export const revalidate = 604800;
+export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best Commercial Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: duty cycle, sustained blowing force, and service network are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 550 CFM on the Thalorus 52cc Backpack Leaf Blower - Gas Powered 550 CFM 230 MPH High up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to Husqvarna 570BTS Backpack Leaf Blower at $530.95, with a focus on defining whether the page targets full-time landscaping crews, facility maintenance or premium homeowners, and cross-checked wear parts and operator exposure against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>Shoppers comparing commercial leaf blowers often assume any well-reviewed listing is a safe bet, but Exact current model and market and CFM/MPH mode and nozzle vary enough between these picks to change which one actually fits a given yard, and ready-to-use weight is rarely spelled out clearly on the product page. Airflow alone in this lineup spans from 665 CFM on the HTK Backpack Blower up to 1125 CFM on the PRORUN PBB3000 Gas Backpack Leaf Blower, a real difference worth checking against your own use case.</p>
+          <p>We put 8 models head-to-head below, spanning HTK Backpack Blower at $159.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, focusing first on requiring commercial warranty or explicit professional-use positioning for primary picks. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

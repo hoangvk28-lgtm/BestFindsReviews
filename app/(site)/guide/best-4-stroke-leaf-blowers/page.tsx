@@ -20,7 +20,7 @@ import {
   type GuideProduct,
 } from "@/data/guides/best-4-stroke-leaf-blowers";
 
-export const revalidate = 604800;
+export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: metaTitle,
@@ -278,8 +278,8 @@ export default async function Page() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Best 4-Stroke Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: true four-stroke engine, current US availability, and oil service are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 200 CFM on the Champion Power Equipment 212cc 1200 CFM Walk-Behind Leaf Blower up to 615 CFM on the VEVOR Backpack Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning SENIX 4QL 26.5cc 4-Cycle Handheld Gas Leaf Blower at $89.00 up to Champion Power Equipment 212cc 1200 CFM Walk-Behind Leaf Blower at $601.22, with a focus on requiring current US-market availability and official engine-type documentation for every pick, and cross-checked weight and emissions and noise data against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>True four-stroke leaf blowers have a narrow current US product pool compared to two-stroke gas, so this guide validates real current availability rather than padding the list with hard-to-find models. Before buying 4-stroke leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 410 CFM on the SENIX 4QL 26.5cc 4-Cycle Handheld Gas Leaf Blower up to 880 CFM on the PROYAMA 72CC Gas Backpack Leaf Blower, a real difference worth checking against your own use case.</p>
+          <p>The 8 picks compared here were evaluated with validate current US-market inventory before treating this as a normal national roundup as the starting point, not an afterthought. Prices here run from $89.00 (SENIX 4QL 26.5cc 4-Cycle Handheld Gas Leaf Blower) to $319.20 (Husqvarna 150BT Gas Leaf Blower). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (
