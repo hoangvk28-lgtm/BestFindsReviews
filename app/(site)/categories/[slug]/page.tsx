@@ -20,7 +20,7 @@ import { buildMetadata, SITE_URL } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 // ─── Per-category editorial educational topics ────────────────────────────────
 

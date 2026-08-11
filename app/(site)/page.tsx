@@ -16,7 +16,7 @@ import { getPublicFeaturedDeals } from "@/lib/public-deals";
 import { getPublicHomepageSettings, getPublicAffiliateSettings } from "@/lib/public-settings";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 86400;
+export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
   title: "WorthRated | Products That Make Everyday Life Simpler",
