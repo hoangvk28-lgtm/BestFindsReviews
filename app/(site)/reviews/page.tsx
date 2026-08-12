@@ -11,9 +11,9 @@ import { categories } from "@/data/categories";
 export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
-  title: "Product Reviews - Small Space Products",
+  title: "Product Reviews - Easier-to-Use Home Products",
   description:
-    "Individual product reviews for small room setups, desk accessories, dorm essentials, and storage solutions.",
+    "Individual product reviews for easy kitchen, easy cleaning, simple tech, and garden & yard products, scored on ease of use and real ownership value.",
   path: "/reviews",
 });
 

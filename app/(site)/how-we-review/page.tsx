@@ -8,45 +8,59 @@ import { categories } from "@/data/categories";
 export const metadata: Metadata = buildMetadata({
   title: "How We Review and Compare Products",
   description:
-    "Our full methodology for evaluating small-space products: scoring criteria, research process, badge meanings, and what we do and don't claim about our testing.",
+    "Our full methodology for evaluating easier-to-use home products: scoring criteria, research process, badge meanings, and what we do and don't claim about our testing.",
   path: "/how-we-review",
 });
 
 const SCORE_DIMS = [
   {
-    key: "smallSpaceFit",
-    label: "Small-Space Fit",
-    weight: "25%",
-    description:
-      "How well the product works in tight, dorm-sized, or apartment contexts. We penalize products that are physically too large, require permanent installation, or are impractical outside a full home office.",
-  },
-  {
-    key: "buildQuality",
-    label: "Build Quality",
-    weight: "20%",
-    description:
-      "Materials, finish, structural integrity, and construction durability. We look at what the product is made of, how it feels in use, and patterns in long-term owner reviews around build failure.",
-  },
-  {
     key: "easeOfUse",
     label: "Ease of Use",
+    weight: "25%",
+    description:
+      "How straightforward the product is to operate day-to-day, without a learning curve. This is the single biggest factor in every score we publish.",
+  },
+  {
+    key: "controlsReadability",
+    label: "Controls and Readability",
     weight: "20%",
     description:
-      "Setup time, day-to-day usability, and how intuitive the product is. For small spaces, this also includes how quickly and easily it can be moved, stored, or adjusted.",
+      "Clear labeling, legible displays, and buttons that are easy to find by touch or sight. We penalize products with cramped, unlabeled, or overly small controls.",
+  },
+  {
+    key: "weightHandling",
+    label: "Weight and Handling",
+    weight: "15%",
+    description:
+      "How comfortable the product is to lift, carry, and maneuver during normal use. We look at real operating weight, balance, and grip, not just a spec-sheet number.",
+  },
+  {
+    key: "setupDifficulty",
+    label: "Setup Difficulty",
+    weight: "15%",
+    description:
+      "How much work it takes to get the product running out of the box - assembly steps, pairing/connection process, and whether the manual is actually clear.",
+  },
+  {
+    key: "cleaningMaintenance",
+    label: "Cleaning and Maintenance",
+    weight: "10%",
+    description:
+      "How much ongoing upkeep the product demands to keep working well - filter changes, battery care, cleaning frequency, and part replacement.",
+  },
+  {
+    key: "reliabilityWarranty",
+    label: "Reliability and Warranty",
+    weight: "10%",
+    description:
+      "Build quality signals and the manufacturer's warranty coverage, cross-checked against patterns in verified buyer feedback around long-term failure.",
   },
   {
     key: "valueForMoney",
     label: "Value for Money",
-    weight: "20%",
+    weight: "5%",
     description:
-      "Price-to-performance ratio relative to competing products at a similar price point. We do not penalize a product simply for being expensive - we evaluate whether the price is justified by what you get.",
-  },
-  {
-    key: "buyerFeedback",
-    label: "Buyer Feedback",
-    weight: "15%",
-    description:
-      "Patterns extracted from verified Amazon buyer reviews, with particular attention to 1-3 star reviews that surface failure modes not visible in an aggregate rating. We weight this at 15% because buyer review quality varies significantly.",
+      "Price weighed against durability, features, and long-term use. We do not penalize a product simply for being expensive - we evaluate whether the price is justified by what you get.",
   },
 ];
 
@@ -54,7 +68,7 @@ const BADGES = [
   {
     label: "Best Overall",
     meaning:
-      "The top-scoring product in the category when all five criteria are weighted equally. This is our primary recommendation for most buyers.",
+      "The top-scoring product in the category once our seven weighted criteria are combined into a single Worth Rating. This is our primary recommendation for most buyers.",
   },
   {
     label: "Best Budget",
@@ -62,14 +76,14 @@ const BADGES = [
       "The highest-scoring product at the lower end of the price range. It may trade some build quality or features for a lower price, but it represents the best value for cost-conscious buyers.",
   },
   {
-    label: "Best for Dual Monitors",
+    label: "Best for Seniors",
     meaning:
-      "The product most suited to a specific, narrower use case where it outperforms the overall winner. These are secondary recommendations for buyers with a defined need.",
+      "The product most suited to buyers who weigh ease of use, weight, and controls above all else - even if it isn't the single highest-scoring product overall.",
   },
   {
     label: "Editor's Choice",
     meaning:
-      "A product that earns a strong recommendation for reasons not fully captured in our five scored criteria - typically exceptional design, a standout single feature, or unusually strong buyer satisfaction.",
+      "A product that earns a strong recommendation for reasons not fully captured in our seven scored criteria - typically exceptional design, a standout single feature, or unusually strong buyer satisfaction.",
   },
 ];
 
@@ -132,22 +146,22 @@ export default function HowWeReviewPage() {
             {
               n: "1",
               title: "Define the use case",
-              body: "Who is buying this, and what space constraints do they face? We write buying guides around specific contexts - a dorm room is different from a studio apartment, which is different from a bedroom home office. Use-case framing is set before any product is evaluated.",
+              body: "Who is buying this, and what will make it easier or harder for them day to day? We write buying guides around specific contexts - an active, independent adult using a product solo is different from an adult child buying it for a parent. Use-case framing is set before any product is evaluated.",
             },
             {
               n: "2",
               title: "Build the candidate list",
-              body: "We identify relevant products through Amazon category searches, community recommendations (Reddit: r/college, r/malelivingspace, r/femalelivingspace, r/productivity), and consumer review aggregators. We aim to consider all products that could plausibly earn a recommendation.",
+              body: "We identify relevant products through Amazon category searches, manufacturer documentation, and consumer review aggregators. We aim to consider all current products that could plausibly earn a recommendation.",
             },
             {
               n: "3",
               title: "Filter by specifications",
-              body: "Products that don't meet baseline requirements for small-space use - too large, wrong mounting type, incompatible with dorm furniture, or requiring permanent installation - are excluded before scoring.",
+              body: "Products that don't meet baseline requirements for ease of use - unclear controls, illegible displays, unreasonably heavy for the task, or discontinued/unavailable listings - are excluded before scoring.",
             },
             {
               n: "4",
-              title: "Score against our five criteria",
-              body: "Remaining products are scored across Small-Space Fit, Build Quality, Ease of Use, Value for Money, and Buyer Feedback. Each dimension is weighted to produce a single overall score on a 1-10 scale.",
+              title: "Score against our seven criteria",
+              body: "Remaining products are scored across Ease of Use, Controls and Readability, Weight and Handling, Setup Difficulty, Cleaning and Maintenance, Reliability and Warranty, and Value for Money. Each dimension is weighted to produce a single Worth Rating on a 1-10 scale.",
             },
             {
               n: "5",
@@ -177,7 +191,7 @@ export default function HowWeReviewPage() {
       <section className="mb-12">
         <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">Scoring Criteria</h2>
         <p className="text-ink-secondary leading-relaxed mb-6">
-          We score every product on a 1-10 scale across five dimensions. A weighted combination produces the overall score shown on each review and comparison page.
+          We score every product on a 1-10 scale across seven dimensions. A weighted combination produces the Worth Rating shown on each review and comparison page.
         </p>
 
         <div className="rounded-card border border-border overflow-hidden">
@@ -207,7 +221,7 @@ export default function HowWeReviewPage() {
         <h2 className="text-2xl font-bold text-ink mb-4 tracking-tight">Score Scale</h2>
         <div className="space-y-3">
           {[
-            { range: "9.0-10.0", label: "Excellent", color: "text-score-high bg-score-high/10 border-score-high/30", desc: "Best-in-class for small-space use. We recommend this product without hesitation to anyone in the target use case." },
+            { range: "9.0-10.0", label: "Excellent", color: "text-score-high bg-score-high/10 border-score-high/30", desc: "Best-in-class for easy, everyday use. We recommend this product without hesitation to anyone in the target use case." },
             { range: "8.0-8.9", label: "Very Good",  color: "text-score-mid bg-score-mid/10 border-score-mid/30", desc: "Strong performer with minor trade-offs. A confident recommendation - the caveats are noted clearly in the review." },
             { range: "7.0-7.9", label: "Good",        color: "text-score-mid bg-score-mid/10 border-score-mid/30", desc: "Solid product that performs its core function well, but better alternatives exist in at least one important dimension." },
             { range: "6.0-6.9", label: "Fair",        color: "text-score-low bg-score-low/10 border-score-low/30", desc: "Acceptable but with noticeable shortcomings. We include these only when they represent the best available budget option." },

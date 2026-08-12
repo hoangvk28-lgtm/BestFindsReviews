@@ -10,9 +10,9 @@ import { categories } from "@/data/categories";
 export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
-  title: "All Buying Guides - Best Small Space Products",
+  title: "All Buying Guides - Easier-to-Use Home Products",
   description:
-    "All our buying guides for small rooms, dorm setups, compact desks, and home offices. Top picks for students and small-space dwellers.",
+    "All our buying guides for easy kitchen, easy cleaning, simple tech, and garden & yard products. Compared on ease of use, controls, setup, and value.",
   path: "/guide",
 });
 
@@ -103,7 +103,7 @@ export default async function BuyingGuidesIndexPage() {
         <span className="text-xs font-bold uppercase tracking-widest text-brand">Buying Guides</span>
         <h1 className="text-4xl font-bold text-ink mt-3 mb-4 tracking-tight">Buying Guides</h1>
         <p className="text-lg text-ink-secondary leading-relaxed">
-          Honest picks for small rooms, dorms, compact desks, and home offices. Updated regularly as better products appear.
+          Honest picks for easy kitchen, easy cleaning, simple tech, and garden &amp; yard products. Updated regularly as better products appear.
         </p>
       </div>
 
@@ -151,7 +151,7 @@ export default async function BuyingGuidesIndexPage() {
             <div>
               <p className="font-bold text-ink text-lg mb-1">Looking for more guides?</p>
               <p className="text-sm text-ink-secondary">
-                We have <strong>{totalGuides} buying guides</strong> covering every corner of your desk setup and home office.
+                We have <strong>{totalGuides} buying guides</strong> covering everyday products for easier living.
               </p>
             </div>
             <Link

@@ -10,24 +10,18 @@ import { getFeaturedPublicGuides } from "@/lib/public-guides";
 import { amazonSearchLinks } from "@/lib/amazon-links";
 
 const exploreChips = [
-  { label: "Desk Setup", key: "desk-setup" },
-  { label: "Dorm Essentials", key: "dorm-essentials" },
-  { label: "Small Room Storage", key: "small-room-storage" },
-  { label: "Compact Home Office", key: "compact-home-office" },
-  { label: "Budget Finds", key: "budget-finds" },
-  { label: "Desk Lamps", key: "desk-lamps" },
-  { label: "Monitor Stands", key: "monitor-stands" },
-  { label: "Laptop Stands", key: "laptop-stands" },
-  { label: "Cable Management", key: "cable-management" },
-  { label: "Under-Bed Storage", key: "under-bed-storage" },
+  { label: "Easy Kitchen", key: "easy-kitchen" },
+  { label: "Easy Cleaning", key: "easy-cleaning" },
+  { label: "Simple Tech", key: "simple-tech" },
+  { label: "Garden & Yard", key: "garden-yard" },
 ];
 
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Amazon Finds for Small Spaces - Budget-Friendly Picks",
+  title: "Amazon Finds - Budget-Friendly Easy-to-Use Picks",
   description:
-    "Budget-friendly Amazon products for small spaces, dorm rooms, and compact desks. Curated for value, scored on real criteria, not sponsored placement.",
+    "Budget-friendly Amazon products for easy kitchen, easy cleaning, simple tech, and garden & yard. Curated for value, scored on real criteria, not sponsored placement.",
   path: "/deals",
 });
 
@@ -57,19 +51,19 @@ export default async function DealsPage() {
     .filter((p) => lowerPrice(p.priceRange) < 30)
     .sort((a, b) => b.scores.overall - a.scores.overall);
 
-  // Dorm room: dorm-essentials category
-  const dormPicks = [...products]
-    .filter((p) => p.categorySlug === "dorm-essentials")
+  // Easy Kitchen finds
+  const kitchenPicks = [...products]
+    .filter((p) => p.categorySlug === "easy-kitchen")
     .sort((a, b) => b.scores.overall - a.scores.overall);
 
-  // Desk setup finds
-  const deskPicks = [...products]
-    .filter((p) => p.categorySlug === "desk-setup")
+  // Easy Cleaning finds
+  const cleaningPicks = [...products]
+    .filter((p) => p.categorySlug === "easy-cleaning")
     .sort((a, b) => b.scores.overall - a.scores.overall);
 
-  // Storage finds
-  const storagePicks = [...products]
-    .filter((p) => p.categorySlug === "small-room-storage")
+  // Garden & Yard finds
+  const gardenPicks = [...products]
+    .filter((p) => p.categorySlug === "garden-yard")
     .sort((a, b) => b.scores.overall - a.scores.overall);
 
   // Deals from DB: only active deals that have a linked product; fallback to topValuePicks
@@ -83,10 +77,10 @@ export default async function DealsPage() {
         <div className="max-w-2xl mb-6">
           <span className="text-xs font-bold uppercase tracking-widest text-brand">Amazon Picks</span>
           <h1 className="text-4xl font-bold text-ink mt-2 mb-3 tracking-tight">
-            Amazon Finds for Small Spaces
+            Amazon Finds for Easier Living
           </h1>
           <p className="text-ink-secondary leading-relaxed text-lg">
-            Budget-friendly picks for dorms, compact desks, and small rooms - curated by value score, not sponsored rank. All prices are approximate ranges; check Amazon for current pricing.
+            Budget-friendly picks for easy kitchen, easy cleaning, simple tech, and garden &amp; yard - curated by value score, not sponsored rank. All prices are approximate ranges; check Amazon for current pricing.
           </p>
         </div>
 
@@ -101,9 +95,9 @@ export default async function DealsPage() {
             { href: "#featured-deals", label: "Editor's picks" },
             { href: "#top-value", label: "Top value" },
             { href: "#budget", label: "Under ~$30" },
-            { href: "#dorm", label: "Dorm room" },
-            { href: "#desk", label: "Desk setup" },
-            { href: "#storage", label: "Storage" },
+            { href: "#kitchen", label: "Easy kitchen" },
+            { href: "#cleaning", label: "Easy cleaning" },
+            { href: "#garden", label: "Garden & yard" },
             { href: "#guides", label: "Buying guides" },
           ].map(({ href, label }) => (
             <a
@@ -163,31 +157,31 @@ export default async function DealsPage() {
           disclaimer="Price ranges are approximate. Actual Amazon prices fluctuate - always check the listing."
         />
 
-        {/* ── Section: Dorm room finds ── */}
+        {/* ── Section: Easy Kitchen finds ── */}
         <ProductSection
-          id="dorm"
-          eyebrow="Dorm Room"
-          heading="Dorm Room Finds"
-          description="Space-saving picks designed for dorm life - compact, damage-free, and affordable. These work within typical dorm restrictions and tight quarters."
-          products={dormPicks}
+          id="kitchen"
+          eyebrow="Easy Kitchen"
+          heading="Easy Kitchen Finds"
+          description="Appliances and gadgets with clear controls and simple daily use - picked for anyone who wants a kitchen tool without a learning curve."
+          products={kitchenPicks}
         />
 
-        {/* ── Section: Desk setup ── */}
+        {/* ── Section: Easy Cleaning ── */}
         <ProductSection
-          id="desk"
-          eyebrow="Desk Setup"
-          heading="Desk Setup Finds"
-          description="Lamps, stands, and organizers that improve small desks without cluttering them. Good for students, remote workers, and anyone upgrading a bedroom workspace."
-          products={deskPicks}
+          id="cleaning"
+          eyebrow="Easy Cleaning"
+          heading="Easy Cleaning Finds"
+          description="Lightweight, low-maintenance tools that make cleaning less of a chore, without sacrificing real cleaning power."
+          products={cleaningPicks}
         />
 
-        {/* ── Section: Storage ── */}
+        {/* ── Section: Garden & Yard ── */}
         <ProductSection
-          id="storage"
-          eyebrow="Storage"
-          heading="Storage Finds"
-          description="Under-bed bags, rolling carts, and storage towers that make the most of every square inch in a small room or apartment."
-          products={storagePicks}
+          id="garden"
+          eyebrow="Garden & Yard"
+          heading="Garden & Yard Finds"
+          description="Comfortable, manageable tools for the garden and yard - picked for good handling and easy setup, not just raw power."
+          products={gardenPicks}
         />
 
         {/* ── Tips box ── */}
@@ -203,8 +197,8 @@ export default async function DealsPage() {
               <p>Many products have an optional coupon on the product page - look for a &quot;Save X% with coupon&quot; checkbox before checkout.</p>
             </div>
             <div>
-              <p className="font-semibold text-ink mb-1">Prime Day &amp; Back to School</p>
-              <p>Desk accessories and storage products often see their deepest discounts during Prime Day (July) and back-to-school season (August-September).</p>
+              <p className="font-semibold text-ink mb-1">Prime Day &amp; Seasonal Sales</p>
+              <p>Home and outdoor products often see their deepest discounts during Prime Day (July) and end-of-season clearance windows.</p>
             </div>
           </div>
         </div>
