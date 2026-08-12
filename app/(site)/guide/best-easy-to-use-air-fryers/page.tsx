@@ -140,7 +140,7 @@ export default async function Page() {
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
     publisher: { "@type": "Organization", name: "WorthRated", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-easy-to-use-air-fryers` },
-    about: [{"@type":"Thing","name":"Best Easy-to-Use Air Fryers"}],
+    about: [{"@type":"Thing","name":"Best Easy-to-Use Air Fryers (2026)"}],
   };
 
   const breadcrumbSchema = {
@@ -149,7 +149,7 @@ export default async function Page() {
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
       { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` },
-      { "@type": "ListItem", position: 3, name: "Best Easy-to-Use Air Fryers", item: `${SITE_URL}/guide/best-easy-to-use-air-fryers` },
+      { "@type": "ListItem", position: 3, name: "Best Easy-to-Use Air Fryers (2026)", item: `${SITE_URL}/guide/best-easy-to-use-air-fryers` },
     ],
   };
 
@@ -178,7 +178,7 @@ export default async function Page() {
           <span>/</span>
           <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
           <span>/</span>
-          <span className="text-ink">Best Easy-to-Use Air Fryers</span>
+          <span className="text-ink">Best Easy-to-Use Air Fryers (2026)</span>
         </nav>
 
         <header className="mb-8">
@@ -221,7 +221,7 @@ export default async function Page() {
         <div className="rounded-2xl overflow-hidden border border-border mb-10 bg-bg">
           {/* Mobile: single hero image */}
           <div className="md:hidden h-56 sm:h-64 flex items-center justify-center">
-            <Image src={heroImg} alt="Best Easy-to-Use Air Fryers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
+            <Image src={heroImg} alt="Best Easy-to-Use Air Fryers (2026)" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />
           </div>
           {/* Desktop: row of every pick's own product image, evenly spaced */}
           <div
@@ -284,7 +284,7 @@ export default async function Page() {
 
         {buyingCriteria.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Easy-to-Use Air Fryer</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">{buyingCriteria.length} Criteria to Look For Before Buying a Easy-to-Use Air Fryers (2026)</h2>
             <p className="text-sm text-ink-muted mb-5">Key buying criteria so you get the right fit the first time.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {buyingCriteria.map((item, i) => (
@@ -317,7 +317,7 @@ export default async function Page() {
 
         {howWeEvaluated.length > 0 && (
           <section className="mb-12 p-6 rounded-2xl border border-border bg-white">
-            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Easy-to-Use Air Fryers</h2>
+            <h2 className="text-xl font-bold text-ink mb-1 tracking-tight">How We Evaluated These Easy-to-Use Air Fryers (2026)</h2>
             <p className="text-sm text-ink-muted mb-5">Each pick was assessed across {howWeEvaluated.length} criteria weighted for real-world use.</p>
             <div className="grid sm:grid-cols-2 gap-4">
               {howWeEvaluated.map((item, i) => (
@@ -332,7 +332,7 @@ export default async function Page() {
 
         {howToChoose.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Easy-to-Use Air Fryers</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6 tracking-tight">How to Choose the Right Easy-to-Use Air Fryers (2026)</h2>
             <div className="space-y-8">
               {howToChoose.map((sub, i) => (
                 <div key={i}>
