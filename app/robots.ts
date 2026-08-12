@@ -26,8 +26,11 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "Google-Extended", allow: "/" },
       { userAgent: "Applebot-Extended", allow: "/" },
       { userAgent: "Bingbot", allow: "/" },
-      { userAgent: "Bytespider", allow: "/" },
-      { userAgent: "CCBot", allow: "/" },
+      // Bytespider (ByteDance) and CCBot (Common Crawl) crawl aggressively
+      // without respecting crawl-delay and drive up ISR reads / origin
+      // bandwidth without sending real traffic back to the site.
+      { userAgent: "Bytespider", disallow: "/" },
+      { userAgent: "CCBot", disallow: "/" },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
   };
