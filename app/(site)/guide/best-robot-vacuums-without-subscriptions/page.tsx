@@ -30,7 +30,7 @@ export const metadata: Metadata = buildMetadata({
   type: "article",
 });
 
-function ProductSection({ product }: { product: GuideProduct }) {
+function ProductSection({ product }: { product: GuideProduct & { ctaLabel?: string; shortCtaLabel?: string } }) {
   return (
     <section id={product.id} className="mb-14 scroll-mt-20">
       <div className="flex flex-wrap items-center gap-2 mb-4">
@@ -63,12 +63,6 @@ function ProductSection({ product }: { product: GuideProduct }) {
               <span className="text-xs px-2.5 py-1 rounded-lg bg-brand-muted text-brand font-bold">
                 {product.price}
               </span>
-              <span className="text-xs px-2.5 py-1 rounded-lg bg-gray-100 text-ink-secondary font-medium">
-                {product.rating}
-              </span>
-              <span className="text-xs px-2.5 py-1 rounded-lg bg-gray-100 text-ink-secondary font-medium">
-                {product.reviews}
-              </span>
               {product.specs.map((spec, i) => (
                 <span key={i} className="text-xs px-2.5 py-1 rounded-lg bg-gray-100 text-ink-secondary font-medium">
                   {spec}
@@ -77,11 +71,13 @@ function ProductSection({ product }: { product: GuideProduct }) {
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-widest text-brand mb-1">About this pick</p>
-              {product.description.split("\n\n").map((para, i) => (
-                <p key={i} className="text-sm text-ink-secondary leading-relaxed">
-                  {para}
-                </p>
-              ))}
+              <div className="space-y-2">
+                {product.description.split("\n\n").map((para, i) => (
+                  <p key={i} className="text-sm text-ink-secondary leading-relaxed">
+                    {para}
+                  </p>
+                ))}
+              </div>
             </div>
             <p className="text-xs text-ink-muted">
               <span className="font-semibold text-ink">Best for:</span>{" "}
@@ -97,7 +93,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
               <svg className="w-3.5 h-3.5 shrink-0" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M12.26 18.36C9.18 20.34 4.76 21.38 1 20.16c-.38-.13-.33-.44.08-.35 3.47.67 7.77-.07 10.6-1.82.47-.27.87.17.58.37zm1.06-1.17c-.43-.56-2.85-.27-3.94-.13-.33.04-.38-.25-.08-.46 1.93-1.36 5.1-.97 5.47-.51.37.46-.1 3.63-1.91 5.14-.28.23-.54.11-.42-.2.41-.98 1.32-3.28.88-3.84z" />
               </svg>
-              Check price on Amazon
+              {product.ctaLabel ?? "Check price on Amazon"}
             </a>
           </div>
         </div>
@@ -257,7 +253,6 @@ export default async function Page() {
                   <th className="text-left px-4 py-3 font-semibold">Pick</th>
                   <th className="text-left px-4 py-3 font-semibold">Product</th>
                   <th className="text-left px-4 py-3 font-semibold hidden sm:table-cell">Price</th>
-                  <th className="text-left px-4 py-3 font-semibold hidden sm:table-cell">Rating</th>
                   <th className="px-4 py-3"></th>
                 </tr>
               </thead>
@@ -269,10 +264,9 @@ export default async function Page() {
                     </td>
                     <td className="px-4 py-3 font-semibold text-ink text-xs">{product.name}</td>
                     <td className="px-4 py-3 text-ink-secondary text-xs hidden sm:table-cell">{product.price}</td>
-                    <td className="px-4 py-3 text-ink-secondary text-xs hidden sm:table-cell">{product.rating}</td>
                     <td className="px-4 py-3">
                       <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="text-xs font-bold px-3 py-1.5 rounded-lg text-white whitespace-nowrap inline-block" style={{ background: "#FF9900" }}>
-                        Check price
+                        {(product as typeof product & { shortCtaLabel?: string }).shortCtaLabel ?? "Check price"}
                       </a>
                     </td>
                   </tr>

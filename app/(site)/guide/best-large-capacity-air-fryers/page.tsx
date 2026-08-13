@@ -30,7 +30,7 @@ export const metadata: Metadata = buildMetadata({
   type: "article",
 });
 
-function ProductSection({ product }: { product: GuideProduct }) {
+function ProductSection({ product }: { product: GuideProduct & { ctaLabel?: string; shortCtaLabel?: string } }) {
   return (
     <section id={product.id} className="mb-14 scroll-mt-20">
       <div className="flex flex-wrap items-center gap-2 mb-4">
@@ -266,7 +266,7 @@ export default async function Page() {
                     <td className="px-4 py-3 text-ink-secondary text-xs hidden sm:table-cell">{product.price}</td>
                     <td className="px-4 py-3">
                       <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="text-xs font-bold px-3 py-1.5 rounded-lg text-white whitespace-nowrap inline-block" style={{ background: "#FF9900" }}>
-                        {product.shortCtaLabel ?? "Check price"}
+                        {(product as typeof product & { shortCtaLabel?: string }).shortCtaLabel ?? "Check price"}
                       </a>
                     </td>
                   </tr>

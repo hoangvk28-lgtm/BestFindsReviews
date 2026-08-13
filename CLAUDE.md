@@ -404,6 +404,9 @@ Three exports are involved, and they serve **different purposes at different dep
 - Do NOT use em dash or en dash anywhere in descriptions
 - The `description` field is rendered by splitting on `\n\n` — each segment becomes a separate `<p>` tag in the UI
 
+### `GuideProduct.rating` / `GuideProduct.reviews` fields — do not populate or render (added 2026-08-13, per explicit user instruction)
+- **Do not add `rating` or `reviews` fields to new `GuideProduct` entries, and do not render them anywhere in a guide page (product-card pill badges or the Comparison Table "Rating" column).** This is separate from and in addition to the prose rule above — that rule covers *written* text in `description`/`pros`/`cons`; this rule covers the *structured* `rating`/`reviews` fields and their UI badges, which is the same underlying Amazon-republishing risk but a different code path. **Why:** republishing Amazon's exact star rating or review count anywhere on the page — not just in prose — risks Amazon Associates penalties. **Current state:** `scripts/generate-guide-page.mjs` was already updated to stop rendering these fields (no rating/reviews pill badges on product cards, no "Rating" column in the Comparison Table) — confirm this is still true before generating any new guide. Older `data/guides/*.ts` files may still have `rating`/`reviews` keys on `GuideProduct` objects (harmless dead data, safe to ignore or strip) but the generator must never render them. **When building a new guide:** omit `rating`/`reviews` entirely from the `GuideProduct` objects, or leave the interface fields optional/unused — never populate them with real Amazon numbers to feed a badge.
+
 ---
 
 ## 8. Scoring Rules
