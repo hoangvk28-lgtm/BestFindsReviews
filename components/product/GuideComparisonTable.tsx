@@ -35,9 +35,6 @@ export function GuideComparisonTable({ products }: GuideComparisonTableProps) {
                 Key Strength
               </th>
               <th className="px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide text-center whitespace-nowrap">
-                Price
-              </th>
-              <th className="px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide text-center whitespace-nowrap">
                 Score
               </th>
               <th className="px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide text-center">
@@ -86,13 +83,6 @@ export function GuideComparisonTable({ products }: GuideComparisonTableProps) {
                   <p className="text-xs text-ink-secondary leading-relaxed max-w-[200px]">
                     {product.pros[0] ?? "-"}
                   </p>
-                </td>
-
-                {/* Price */}
-                <td className="px-4 py-4 text-center align-top">
-                  <span className="font-bold text-ink text-sm whitespace-nowrap">
-                    {product.priceRange}
-                  </span>
                 </td>
 
                 {/* Score */}

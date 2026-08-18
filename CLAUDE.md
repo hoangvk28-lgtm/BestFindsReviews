@@ -244,6 +244,13 @@ m.media-amazon.com   ← only for compliant Amazon PA API usage
 - **Approved language:** "we evaluated", "we researched", "based on verified buyer feedback", "based on product specs", "our analysis"
 - All scores are **editorial assessments** based on structured criteria — not measurements
 
+### No Price Display — MANDATORY, added 2026-08-18
+Guide articles must **not display product prices anywhere**, structural or in prose. Reason: prices change constantly and a stale number undermines trust; the "Check price on Amazon" CTA button already covers this.
+- **Structural/template:** the price badge on product cards, the "Price"/"Price Tier" column in comparison tables, and the price span next to the CTA button must not render. This applies across both guide pipelines — `scripts/generate-guide-page.mjs` (static per-slug pages) and `app/(site)/guide/[slug]/page.tsx` + `GuideComparisonTable`/`GuideRecommendationBox` (legacy DB-backed pipeline).
+- **Written content:** do not write sentences that state a specific dollar figure (e.g. "At $89.99, it's positioned as...", "Prices here run from roughly $X to $Y"). Anchor pricing claims instead in relative, evergreen terms if price tier matters to the comparison — e.g. "the most affordable pick here" / "a premium price relative to the budget picks in this comparison" — without naming the number itself.
+- The `price` field still exists on `GuideProduct` in `data/guides/<slug>.ts` (kept for potential internal/admin use and the CTA label default) — just don't surface it in generated JSX or reference it in the prose you write.
+- `ctaLabel`/`shortCtaLabel` button text ("Check price on Amazon", "Check price") is fine to keep — it's a call to action, not a displayed number.
+
 ### Required Sections for Buying Guides
 Every `/guide/[slug]` page must include (in order). As of the 2026-07-18 template revision (see "Guide Page Template — Page Order & Mandatory Sections" below), the `data/guides/<slug>.ts` + `scripts/generate-guide-page.mjs` pipeline produces:
 1. Breadcrumbs
@@ -373,12 +380,12 @@ Three exports are involved, and they serve **different purposes at different dep
 
 **Reference standard:** `data/guides/best-shark-robot-vacuums.ts` (hand-written) and the 35-guide microwave batch (`data/guides/best-*-microwaves.ts` etc., built 2026-08-10) are the quality floor for every guide going forward. The user flagged an earlier microwave draft as "thin content, no value" (sơ sài, ko cung cấp giá trị) before this bar was enforced — that failure mode must not recur.
 
-**The core rule: every section must reference real, named products and real numbers pulled from actual data (price, rating, reviews, wattage/capacity/whatever spec applies to the category) — never generic, product-agnostic advice.** Example of the standard: "the eufy C28 at 15,000Pa" (Shark guide) / "the Panasonic NN-SN76LS ... rated at 1250W while the COMFEE' Countertop Microwave Oven is rated at 700W" (microwave guide). A sentence that could be copy-pasted into any other guide in the same category without changing a word is not deep enough — rewrite it so it only makes sense for this specific lineup.
+**The core rule: every section must reference real, named products and real numbers pulled from actual data (rating, reviews, wattage/capacity/whatever spec applies to the category) — never generic, product-agnostic advice.** Example of the standard: "the eufy C28 at 15,000Pa" (Shark guide) / "the Panasonic NN-SN76LS ... rated at 1250W while the COMFEE' Countertop Microwave Oven is rated at 700W" (microwave guide). A sentence that could be copy-pasted into any other guide in the same category without changing a word is not deep enough — rewrite it so it only makes sense for this specific lineup. **Price is excluded from this real-data requirement — see "No Price Display" below.**
 
 **Applies to every section, not just `buyingCriteria`:**
-- **`introParagraphs`**: name the actual spread across the lineup (price range, spec range) with real product names attached, not just "we compared N models."
-- **`buyingCriteria`** — this is the section most likely to go thin. Every one of the 5+ entries must include a real-data-grounded sentence (a fact_pool style approach: wattage/capacity/price/rating/review-count facts each naming the specific products involved), not just a generic explanation of the criterion. A criterion with only a generic 2-3 sentence definition and no named-product comparison fails this bar.
-- **`howWeEvaluated`**: category-specific methodology entries, plus at least one entry that names actual price/rating positioning across the real lineup (e.g. cheapest vs. priciest pick by name and price).
+- **`introParagraphs`**: name the actual spread across the lineup (spec range) with real product names attached, not just "we compared N models."
+- **`buyingCriteria`** — this is the section most likely to go thin. Every one of the 5+ entries must include a real-data-grounded sentence (a fact_pool style approach: wattage/capacity/rating/review-count facts each naming the specific products involved), not just a generic explanation of the criterion. A criterion with only a generic 2-3 sentence definition and no named-product comparison fails this bar.
+- **`howWeEvaluated`**: category-specific methodology entries, plus at least one entry that names actual rating/spec positioning across the real lineup (e.g. highest-rated vs. most basic pick by name).
 - **`howToChoose`**: every table row must map a concrete buyer situation to a **named pick** from `products[]` — add spec-comparison tables (e.g. "Wattage by Model", "By Budget") whenever the underlying data varies enough to support one, not just the minimum scenario tables.
 - **Individual product `description`/`pros`/`cons`**: pull real extracted specs (via title-parsing regex or Creators API `itemInfo`/`offersV2` fields — see `/tmp/microwave/build_guides.py` pattern) and write at least one comparative sentence per product naming a sibling product by name and number (e.g. "at 1250W it heats faster than every other pick here, including the X at 700W"). Do not rely solely on Amazon's own listed features paraphrased.
 

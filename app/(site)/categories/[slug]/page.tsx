@@ -85,6 +85,7 @@ export default async function CategoryPage({ params }: Props) {
   ]);
   const relatedCategories = getAllCategories().filter((c) => c.slug !== slug);
   const topics = educationalTopics[slug] ?? [];
+  const guideProductCount = guides.reduce((sum, g) => sum + g.recommendedProductIds.length, 0);
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -122,7 +123,7 @@ export default async function CategoryPage({ params }: Props) {
       <div className="mt-6">
         <CategoryHeroBanner
           category={category}
-          productCount={products.length}
+          productCount={guideProductCount}
           guideCount={guides.length}
           topProductName={products[0]?.name}
           topProductScore={products[0]?.scores?.overall}

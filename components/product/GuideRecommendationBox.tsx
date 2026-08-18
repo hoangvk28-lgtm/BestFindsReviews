@@ -71,8 +71,6 @@ export function GuideRecommendationBox({ picks }: GuideRecommendationBoxProps) {
                   Check Price on Amazon
                 </CTAButton>
                 <div className="flex items-center gap-2">
-                  <span className="font-bold text-ink text-sm">{product.priceRange}</span>
-                  <span className="text-border">·</span>
                   <Link
                     href={`/reviews/${product.slug}`}
                     className="text-xs font-medium text-brand hover:text-brand-dark transition-colors"

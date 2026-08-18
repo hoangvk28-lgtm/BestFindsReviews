@@ -765,7 +765,6 @@ function InlineProductPicks({ picks }: { picks: GuideProductPick[] }) {
               <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide">#</th>
               <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide">Product</th>
               <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide hidden sm:table-cell">Badge</th>
-              <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide hidden sm:table-cell">Price Tier</th>
               <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide">Score</th>
             </tr>
           </thead>
@@ -777,7 +776,6 @@ function InlineProductPicks({ picks }: { picks: GuideProductPick[] }) {
                   <a href={`#inline-pick-${pick.id}`} className="hover:text-brand transition-colors scroll-smooth">{pick.name}</a>
                 </td>
                 <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{pick.badge || ", "}</td>
-                <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{pick.priceLabel}</td>
                 <td className="px-4 py-3">
                   {pick.fitScore != null ? (
                     <span className={`font-bold text-sm ${scoreToColor(pick.fitScore)}`}>
@@ -832,7 +830,6 @@ function InlinePickCard({ pick, rank }: { pick: GuideProductPick; rank: number }
             {pick.badge && (
               <Badge>{pick.badge}</Badge>
             )}
-            <span className="text-xs text-ink-muted px-2 py-0.5 rounded-full bg-bg border border-border">{pick.priceLabel}</span>
           </div>
 
           <h3 className="text-lg font-bold text-ink mb-0.5 leading-snug flex flex-wrap items-center gap-2 min-w-0 break-words">
