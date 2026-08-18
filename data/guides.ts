@@ -15025,7 +15025,7 @@ export const guides: Guide[] = [
     description: "We tested display quality, remote-family sharing workflow, subscription dependence, and offline behavior across current digital photo frames.",
     mainKeyword: "digital photo frames",
     subKeywords: ["digital photo frames","digital photo frames guide","best digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/71Q3E-nXPCL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41X8fOrm5XL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "13 min",
@@ -15043,7 +15043,7 @@ export const guides: Guide[] = [
     description: "We required remote network sharing plus app/cloud management for eligibility, measuring upload latency and contributor permissions honestly.",
     mainKeyword: "smart digital photo frames",
     subKeywords: ["smart digital photo frames","smart digital photo frames guide","best smart digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/61hqzq6PVBL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41kjcXY-wXL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "11 min",
@@ -15061,7 +15061,7 @@ export const guides: Guide[] = [
     description: "We map Aura's current lineup, Carver, Aspen, and the 15-inch Walden, verifying no-subscription value and gift-setup workflow across each model.",
     mainKeyword: "aura digital photo frames",
     subKeywords: ["aura digital photo frames","aura digital photo frames guide","best aura digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/71Q3E-nXPCL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41X8fOrm5XL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "10 min",
@@ -15079,7 +15079,7 @@ export const guides: Guide[] = [
     description: "We measured how much setup a giver can complete before gifting, and tested recipient use without needing to open an app, across current picks.",
     mainKeyword: "digital photo frames for grandparents",
     subKeywords: ["digital photo frames for grandparents","digital photo frames for grandparents guide","best digital photo frames for grandparents"],
-    heroImage: "https://m.media-amazon.com/images/I/71Q3E-nXPCL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41X8fOrm5XL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "11 min",
@@ -15097,7 +15097,7 @@ export const guides: Guide[] = [
     description: "We define large as roughly 15-inch class and up, publishing resolution and pixel density alongside wall and tabletop stability testing.",
     mainKeyword: "large digital photo frames",
     subKeywords: ["large digital photo frames","large digital photo frames guide","best large digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/71Q3E-nXPCL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41X8fOrm5XL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "11 min",
@@ -15115,7 +15115,7 @@ export const guides: Guide[] = [
     description: "We separate Nixplay's Basic, Lite, and Plus features clearly, testing Google Photos connected albums and touch/rotation behavior across current models.",
     mainKeyword: "nixplay digital photo frames",
     subKeywords: ["nixplay digital photo frames","nixplay digital photo frames guide","best nixplay digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/61hqzq6PVBL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41kjcXY-wXL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "10 min",
@@ -15133,7 +15133,7 @@ export const guides: Guide[] = [
     description: "We separate Skylight's free email-based photo sharing from Plus-only features, testing gift mode and comparing 10-inch color options directly.",
     mainKeyword: "skylight digital photo frames",
     subKeywords: ["skylight digital photo frames","skylight digital photo frames guide","best skylight digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/61m0j6DIhwL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41cMyFl+dIL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "9 min",
@@ -15151,7 +15151,7 @@ export const guides: Guide[] = [
     description: "Frameo is software used by many hardware makers. We verify each specific vendor's panel, storage, and build quality rather than treating Frameo as one brand.",
     mainKeyword: "frameo digital photo frames",
     subKeywords: ["frameo digital photo frames","frameo digital photo frames guide","best frameo digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/71t3jhLpz9L._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41TGnAfb9mL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "10 min",
@@ -15169,7 +15169,7 @@ export const guides: Guide[] = [
     description: "We measured touch-target size and accidental taps, comparing remote app control against on-device touch to see whether touch actually adds real value.",
     mainKeyword: "touchscreen digital photo frames",
     subKeywords: ["touchscreen digital photo frames","touchscreen digital photo frames guide","best touchscreen digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/61hqzq6PVBL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41kjcXY-wXL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "10 min",
@@ -15187,7 +15187,7 @@ export const guides: Guide[] = [
     description: "We distinguish 10.0-inch from 10.1-inch displays and compare resolution, portrait cropping, and stand footprint across current picks.",
     mainKeyword: "10-inch digital photo frames",
     subKeywords: ["10-inch digital photo frames","10-inch digital photo frames guide","best 10-inch digital photo frames"],
-    heroImage: "https://m.media-amazon.com/images/I/71Q3E-nXPCL._SL500_.jpg",
+    heroImage: "https://m.media-amazon.com/images/I/41X8fOrm5XL._SL500_.jpg",
     lastUpdated: "2026-08-17",
     author: "Editorial Team",
     readTime: "10 min",
@@ -15452,7 +15452,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Window Cleaners (2026)",
     slug: "best-electric-window-cleaners",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless electric window vacuum squeegees on suction power, battery life, and included accessories.",
     mainKeyword: "electric window cleaners",
@@ -15470,7 +15470,7 @@ export const guides: Guide[] = [
   {
     title: "Best Power Window Cleaners (2026)",
     slug: "best-power-window-cleaners",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current high-power electric window vacuum squeegees on named suction ratings and extension-pole reach for larger cleaning jobs.",
     mainKeyword: "power window cleaners",
@@ -15488,7 +15488,7 @@ export const guides: Guide[] = [
   {
     title: "Electric Window Cleaner vs Window Cleaning Robot (2026)",
     slug: "electric-window-cleaner-vs-window-cleaning-robot",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare handheld electric window vacuums against a fully automated window cleaning robot on price, effort required, and cleaning results.",
     mainKeyword: "electric window cleaner vs window cleaning robot",
@@ -15506,7 +15506,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Window Cleaners with Extension Poles (2026)",
     slug: "best-electric-window-cleaners-with-extension-poles",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We verify genuine named extension-pole reach across current electric window vacuum squeegees for taller windows and upper stories.",
     mainKeyword: "electric window cleaners with extension poles",
@@ -15524,7 +15524,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Window Cleaners for Showers (2026)",
     slug: "best-electric-window-cleaners-for-showers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric window vacuum squeegees specifically named for shower glass and bathroom use.",
     mainKeyword: "electric window cleaners for showers",
@@ -15542,7 +15542,7 @@ export const guides: Guide[] = [
   {
     title: "Best Karcher Electric Window Cleaners (2026)",
     slug: "best-karcher-electric-window-cleaners",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare Karcher's current electric window vacuum lineup directly, plus a genuine replacement charger and budget non-Karcher alternatives for context.",
     mainKeyword: "karcher electric window cleaners",
@@ -15560,7 +15560,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Window Cleaners for Cars (2026)",
     slug: "best-electric-window-cleaners-for-cars",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric window vacuum squeegees named for car windows and windshields, including a dedicated interior cleaning tool.",
     mainKeyword: "electric window cleaners for cars",
@@ -15578,7 +15578,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Scrub Brushes (2026)",
     slug: "best-cordless-scrub-brushes",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless scrub brushes, including standalone electric spin scrubbers and drill-powered attachment sets, for bathroom and household cleaning.",
     mainKeyword: "cordless scrub brushes",
@@ -15596,7 +15596,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Electric Scrub Brushes (2026)",
     slug: "best-cordless-electric-scrub-brushes",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We narrow the cordless scrub brush category to genuinely standalone electric units with their own battery and motor, excluding drill attachments.",
     mainKeyword: "cordless electric scrub brushes",
@@ -15614,7 +15614,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Drill Scrub Brush Attachments (2026)",
     slug: "best-cordless-drill-scrub-brush-attachments",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current drill brush attachment sets that turn any cordless drill into a scrubbing tool, no separate motor or battery included.",
     mainKeyword: "cordless drill scrub brush attachments",
@@ -15632,7 +15632,7 @@ export const guides: Guide[] = [
   {
     title: "Cordless Scrub Brush vs Electric Spin Scrubber (2026)",
     slug: "cordless-scrub-brush-vs-electric-spin-scrubber",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We clarify the overlapping terminology between cordless scrub brushes and electric spin scrubbers, since these terms are often used interchangeably in current product listings.",
     mainKeyword: "cordless scrub brush vs electric spin scrubber",
@@ -15650,7 +15650,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Scrub Brushes for Bathrooms (2026)",
     slug: "best-cordless-scrub-brushes-for-bathrooms",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless scrub brushes specifically named for bathroom tile, grout, and fixture cleaning, standalone and drill-attachment options included.",
     mainKeyword: "cordless scrub brushes for bathrooms",
@@ -15668,7 +15668,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Scrub Brushes for Showers (2026)",
     slug: "best-cordless-scrub-brushes-for-showers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless scrub brushes named for shower cleaning, testing handle reach for ceilings and floors without bending.",
     mainKeyword: "cordless scrub brushes for showers",
@@ -15686,7 +15686,7 @@ export const guides: Guide[] = [
   {
     title: "Best Milwaukee Cordless Scrubbers (2026)",
     slug: "best-milwaukee-cordless-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We checked current Amazon listings for dedicated Milwaukee indoor cordless spin scrubbers and found none. Here's what we verified instead.",
     mainKeyword: "milwaukee cordless scrubbers",
@@ -15704,7 +15704,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Spin Scrubbers (2026)",
     slug: "best-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless electric spin scrubbers on named brush head count, handle design, and battery power for bathroom and household cleaning.",
     mainKeyword: "electric spin scrubbers",
@@ -15722,7 +15722,7 @@ export const guides: Guide[] = [
   {
     title: "Best HOTO Electric Spin Scrubbers (2026)",
     slug: "best-hoto-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare HOTO's current electric spin scrubber lineup, Grip, Flexi, Cordless, Wand, and Swift models, on named waterproofing and brush head count.",
     mainKeyword: "hoto electric spin scrubbers",
@@ -15740,7 +15740,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Electric Spin Scrubbers (2026)",
     slug: "best-cordless-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless electric spin scrubbers specifically on battery-powered mobility, verifying none require a power cord during use.",
     mainKeyword: "cordless electric spin scrubbers",
@@ -15758,7 +15758,7 @@ export const guides: Guide[] = [
   {
     title: "Best Leebein Electric Spin Scrubbers (2026)",
     slug: "best-leebein-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare Leebein's current electric spin scrubber lineup on named waterproofing, adjustable angles, and remote control features.",
     mainKeyword: "leebein electric spin scrubbers",
@@ -15776,7 +15776,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Spin Scrubbers for Bathrooms (2026)",
     slug: "best-electric-spin-scrubbers-for-bathrooms",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric spin scrubbers explicitly named for bathroom, tub, and tile use, testing brush head variety and handle reach.",
     mainKeyword: "electric spin scrubbers for bathrooms",
@@ -15794,7 +15794,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Spin Scrubbers for Showers (2026)",
     slug: "best-electric-spin-scrubbers-for-showers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric spin scrubbers named for shower use, testing handle reach for ceilings and floors alongside power specifications.",
     mainKeyword: "electric spin scrubbers for showers",
@@ -15812,7 +15812,7 @@ export const guides: Guide[] = [
   {
     title: "Best Long-Handled Electric Spin Scrubbers (2026)",
     slug: "best-long-handled-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric spin scrubbers specifically on named handle length and extension design for reaching ceilings and floors without bending.",
     mainKeyword: "long handled electric spin scrubbers",
@@ -15830,7 +15830,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Spin Scrubbers for Seniors (2026)",
     slug: "best-electric-spin-scrubbers-for-seniors",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric spin scrubbers on handle length, weight, and control simplicity for seniors or anyone with limited mobility or grip strength.",
     mainKeyword: "electric spin scrubbers for seniors",
@@ -15848,7 +15848,7 @@ export const guides: Guide[] = [
   {
     title: "Best Labigo Electric Spin Scrubbers (2026)",
     slug: "best-labigo-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We checked current Amazon listings for Labigo-branded electric spin scrubbers and found no confirmed match in our verified product data. Here's what we found instead.",
     mainKeyword: "labigo electric spin scrubbers",
@@ -15866,7 +15866,7 @@ export const guides: Guide[] = [
   {
     title: "Best Dovety Electric Spin Scrubbers (2026)",
     slug: "best-dovety-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare Dovety's current electric spin scrubber colorways and flag important seller and support considerations for this marketplace-led brand.",
     mainKeyword: "dovety electric spin scrubbers",
@@ -15884,7 +15884,7 @@ export const guides: Guide[] = [
   {
     title: "Best Voweek Electric Spin Scrubbers (2026)",
     slug: "best-voweek-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We checked current Amazon listings for Voweek-branded electric spin scrubbers and found no confirmed match in our verified product data. Here's what we found instead.",
     mainKeyword: "voweek electric spin scrubbers",
@@ -15902,7 +15902,7 @@ export const guides: Guide[] = [
   {
     title: "Best Electric Spin Scrubbers for Tile and Grout (2026)",
     slug: "best-electric-spin-scrubbers-for-tile-and-grout",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current electric spin scrubbers on named brush head detail, grout-specific design, and power for tackling narrow grout lines.",
     mainKeyword: "electric spin scrubbers for tile and grout",
@@ -15920,7 +15920,7 @@ export const guides: Guide[] = [
   {
     title: "Best Waterproof Electric Spin Scrubbers (2026)",
     slug: "best-waterproof-electric-spin-scrubbers",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We verify genuine named IPX waterproof ratings across current electric spin scrubbers, flagging which picks lack an explicit rating despite shower marketing.",
     mainKeyword: "waterproof electric spin scrubbers",
@@ -15938,7 +15938,7 @@ export const guides: Guide[] = [
   {
     title: "Best Handheld Vacuums (2026)",
     slug: "best-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums on named suction power, battery runtime, and included attachments across Shark, Black+Decker, DeWalt, Bissell, and Dyson.",
     mainKeyword: "handheld vacuums",
@@ -15956,7 +15956,7 @@ export const guides: Guide[] = [
   {
     title: "Best Cordless Handheld Vacuums (2026)",
     slug: "best-cordless-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current cordless handheld vacuums specifically on named battery specifications and charging convenience across major brands.",
     mainKeyword: "cordless handheld vacuums",
@@ -15974,7 +15974,7 @@ export const guides: Guide[] = [
   {
     title: "Best Dyson Handheld Vacuums (2026)",
     slug: "best-dyson-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We clarify that Dyson's current lineup is full cordless vacuums that convert to handheld mode, not dedicated compact handhelds, and compare current models.",
     mainKeyword: "dyson handheld vacuums",
@@ -15992,7 +15992,7 @@ export const guides: Guide[] = [
   {
     title: "Best Shark Handheld Vacuums (2026)",
     slug: "best-shark-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare Shark's current handheld and compact cordless vacuum lineup on named suction technology and included features.",
     mainKeyword: "shark handheld vacuums",
@@ -16010,7 +16010,7 @@ export const guides: Guide[] = [
   {
     title: "Best Black+Decker Handheld Vacuums (2026)",
     slug: "best-black-decker-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare Black+Decker's current Dustbuster lineup on named power ratings, included accessories, and pet-hair-specific technology.",
     mainKeyword: "black+decker handheld vacuums",
@@ -16028,7 +16028,7 @@ export const guides: Guide[] = [
   {
     title: "Best Handheld Vacuums for Cars (2026)",
     slug: "best-handheld-vacuums-for-cars",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums explicitly named for car use, testing crevice tools, portability, and named power for tight interior spaces.",
     mainKeyword: "handheld vacuums for cars",
@@ -16046,7 +16046,7 @@ export const guides: Guide[] = [
   {
     title: "Best DeWalt Handheld Vacuums (2026)",
     slug: "best-dewalt-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare DeWalt's two genuine current handheld vacuum models against third-party tools compatible with DeWalt 20V batteries.",
     mainKeyword: "dewalt handheld vacuums",
@@ -16064,7 +16064,7 @@ export const guides: Guide[] = [
   {
     title: "Best Milwaukee Handheld Vacuums (2026)",
     slug: "best-milwaukee-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We clarify that Milwaukee's current lineup consists of compact wet/dry shop vacuums, not dedicated dustbuster-style handhelds, and compare current models.",
     mainKeyword: "milwaukee handheld vacuums",
@@ -16082,7 +16082,7 @@ export const guides: Guide[] = [
   {
     title: "Best Handheld Vacuums for Pet Hair (2026)",
     slug: "best-handheld-vacuums-for-pet-hair",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums on named pet-hair-specific technology, motorized brushes, and cyclone suction across major brands.",
     mainKeyword: "handheld vacuums for pet hair",
@@ -16100,7 +16100,7 @@ export const guides: Guide[] = [
   {
     title: "Most Powerful Handheld Vacuums (2026)",
     slug: "most-powerful-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums specifically on named power specifications, from voltage ratings to wattage and Dyson's named suction technology.",
     mainKeyword: "most powerful handheld vacuums",
@@ -16118,7 +16118,7 @@ export const guides: Guide[] = [
   {
     title: "Best Small Handheld Vacuums (2026)",
     slug: "best-small-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current compact handheld vacuums on named footprint, storage convenience, and quick-cleanup design across major brands.",
     mainKeyword: "small handheld vacuums",
@@ -16136,7 +16136,7 @@ export const guides: Guide[] = [
   {
     title: "Best Lightweight Handheld Vacuums (2026)",
     slug: "best-lightweight-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums on manageable weight and one-handed comfort for extended cleaning sessions without arm fatigue.",
     mainKeyword: "lightweight handheld vacuums",
@@ -16154,7 +16154,7 @@ export const guides: Guide[] = [
   {
     title: "Best Handheld Vacuums for Seniors (2026)",
     slug: "best-handheld-vacuums-for-seniors",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums on weight, one-handed operation simplicity, and storage convenience for seniors or anyone with limited grip strength.",
     mainKeyword: "handheld vacuums for seniors",
@@ -16172,7 +16172,7 @@ export const guides: Guide[] = [
   {
     title: "Best Bissell Handheld Vacuums (2026)",
     slug: "best-bissell-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We verified Bissell's current handheld vacuum listings and found only one genuine match, plus flagged mismatched and unavailable ASINs from our initial research.",
     mainKeyword: "bissell handheld vacuums",
@@ -16190,7 +16190,7 @@ export const guides: Guide[] = [
   {
     title: "Best Portable Handheld Vacuums (2026)",
     slug: "best-portable-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current handheld vacuums on named portability features, home-and-car dual use, and quick storage for on-the-go cleaning.",
     mainKeyword: "portable handheld vacuums",
@@ -16208,7 +16208,7 @@ export const guides: Guide[] = [
   {
     title: "Best HEPA Handheld Vacuums (2026)",
     slug: "best-hepa-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We verify genuine named HEPA filtration across current handheld vacuums, distinguishing confirmed HEPA-rated filters from general filtration claims.",
     mainKeyword: "hepa handheld vacuums",
@@ -16226,7 +16226,7 @@ export const guides: Guide[] = [
   {
     title: "Best Commercial Handheld Vacuums (2026)",
     slug: "best-commercial-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We compare current commercial-grade handheld and shop vacuums from DeWalt and Milwaukee on named capacity, power, and wet/dry versatility.",
     mainKeyword: "commercial handheld vacuums",
@@ -16244,7 +16244,7 @@ export const guides: Guide[] = [
   {
     title: "Best Wet/Dry Handheld Vacuums (2026)",
     slug: "best-wet-dry-handheld-vacuums",
-    categorySlug: "simple-tech",
+    categorySlug: "easy-cleaning",
     subcategorySlug: "",
     description: "We verify genuine named wet/dry capability across current handheld vacuums, flagging dry-only picks that shouldn't be used for liquid spills.",
     mainKeyword: "wet dry handheld vacuums",
