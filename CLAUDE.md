@@ -251,6 +251,22 @@ Guide articles must **not display product prices anywhere**, structural or in pr
 - The `price` field still exists on `GuideProduct` in `data/guides/<slug>.ts` (kept for potential internal/admin use and the CTA label default) — just don't surface it in generated JSX or reference it in the prose you write.
 - `ctaLabel`/`shortCtaLabel` button text ("Check price on Amazon", "Check price") is fine to keep — it's a call to action, not a displayed number.
 
+### New-Guide Workflow — MANDATORY, changed 2026-08-19 (do not use the old generate-guide-page.mjs step for new guides)
+As the site grew past ~900 static `app/(site)/guide/<slug>/page.tsx` routes, `next build`'s TypeScript pass started reliably crashing with a JS heap OOM (see "Build Heap / OOM" note below) — adding a 901st, 902nd, etc. literal route file only makes that worse. **Every new guide from now on is served dynamically instead of getting its own route file:**
+
+1. `node scripts/build-guide.mjs <spec.json>` → writes `data/guides/<slug>.ts` exactly as before (same rich content shape: `products[]`, `buyingCriteria[]`, `howWeEvaluated[]`, `howToChoose[]`, etc. — nothing about the spec JSON or content-depth bar changes).
+2. `node scripts/register-dynamic-guide.mjs <slug>` → adds an explicit entry to `data/dynamic-guides-registry.ts`'s `dynamicGuideLoaders` map. **Do NOT run `scripts/generate-guide-page.mjs` for a new guide** — that creates the literal route dir this workflow exists to avoid.
+3. `node scripts/register-new-guides.mjs <slug>` → adds the slug to `data/guides.ts` as before (still required — this is what the sitemap, category pages, and `/guide` index read from).
+
+`app/(site)/guide/[slug]/page.tsx` checks `dynamicGuideSlugs` first; if the requested slug is registered there, it dynamically imports the matching `data/guides/<slug>.ts` via `dynamicGuideLoaders[slug]()` and renders it through `components/guide/RichGuidePage.tsx` — a shared component that reproduces the exact same JSX `scripts/generate-guide-page.mjs` bakes per-file (AtAGlance, buying criteria, how-we-evaluated, how-to-choose, FAQ, related guides, schema.org scripts), just as one reusable component instead of ~900 duplicated ones. Content depth requirements, the no-price-display rule, and every other guide-content rule in this file apply identically regardless of which pipeline serves the page.
+
+**Critical constraint on `dynamicGuideLoaders` entries:** each one must be a literal, statically-analyzable call — `"slug": () => import("./guides/exact-slug")` — never a template-literal expression built from a variable (`import(\`./guides/${slug}\`)`). An expression-based dynamic import forces the bundler to treat the *entire* `data/guides/` directory (900+ files) as a glob of candidates, which reproducibly re-triggers the exact heap-OOM crash this workflow exists to avoid, even with an otherwise-empty registry. `scripts/register-dynamic-guide.mjs` already writes entries in the correct literal form — don't hand-edit the array into an expression form.
+
+**The existing ~900 guides published before 2026-08-19 are untouched** — they keep their literal `app/(site)/guide/<slug>/page.tsx` routes and are not being migrated retroactively. Only guides created from now on use the dynamic pipeline. If you're editing an *existing* guide, check whether it has a literal route dir before assuming which pipeline applies.
+
+### Build Heap / OOM (added 2026-08-19)
+`next build`'s TypeScript pass needs more heap than Node's ~2GB default purely from the ~900 existing static routes, independent of any single change. `package.json`'s `build` script sets `NODE_OPTIONS=--max-old-space-size=6144` to give headroom on Vercel's 8GB build machines — do not remove this. If OOM resurfaces despite this (e.g. after many more guides accumulate), raise the ceiling further before assuming the cause is something else, and re-verify with the exact failure signature: `next build` can crash with `FATAL ERROR: ... JavaScript heap out of memory` and `Next.js build worker exited with code: null and signal: SIGABRT` while a wrapping shell pipeline (e.g. `| tail -80`) still reports **exit code 0** — the pipe's exit code reflects `tail`, not the crashed `next build` process. Always grep the actual build output for `Compiled successfully` **and** `Finished TypeScript` (or an explicit error) before treating a build as genuinely green; do not trust a background task notification's reported exit code alone.
+
 ### Required Sections for Buying Guides
 Every `/guide/[slug]` page must include (in order). As of the 2026-07-18 template revision (see "Guide Page Template — Page Order & Mandatory Sections" below), the `data/guides/<slug>.ts` + `scripts/generate-guide-page.mjs` pipeline produces:
 1. Breadcrumbs
@@ -322,7 +338,7 @@ Every buying guide (`/guide/[slug]`) must include a substantive "How to Choose" 
 
 ### Guide Page Template — Page Order & Mandatory Sections (added 2026-07-18, corrected 2026-07-18)
 
-As of `scripts/generate-guide-page.mjs`, every generated guide page follows this section order top to bottom. **Do not hand-write `page.tsx` for a new guide; always run the generator** so these sections are never accidentally omitted or misplaced.
+As of `scripts/generate-guide-page.mjs`, every generated guide page follows this section order top to bottom — and `components/guide/RichGuidePage.tsx` (the dynamic-pipeline renderer, see "New-Guide Workflow" above) reproduces the same order. **Never hand-write a guide's rendering JSX.** For a genuinely new guide, use the dynamic pipeline (`register-dynamic-guide.mjs`, not `generate-guide-page.mjs`); only run the generator when working on the pre-2026-08-19 static pipeline's existing guides.
 
 **Hero image block (updated 2026-08-04):** the hero is responsive, not one fixed image at all breakpoints.
 - **Mobile (below `md`):** a single `heroImg` (from `data/guides/<slug>.ts` → `heroImage`), capped at a fixed height (`h-56 sm:h-64`) with `object-contain` so it never stretches tall regardless of the source photo's aspect ratio.
