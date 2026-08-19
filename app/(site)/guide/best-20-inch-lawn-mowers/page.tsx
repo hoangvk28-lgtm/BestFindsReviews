@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
+import { AtAGlance } from "@/components/product/AtAGlance";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { getPublicGuideBySlug } from "@/lib/public-guides";
 import {
@@ -241,36 +242,18 @@ export default async function Page() {
           </div>
         </div>
 
-        <section className="mb-10">
-          <h2 className="text-2xl font-bold text-ink mb-4 tracking-tight">Comparison Table</h2>
-          <div className="overflow-x-auto rounded-xl border border-border">
-            <table className="w-full text-sm">
-              <thead>
-                <tr className="bg-brand text-white">
-                  <th className="text-left px-4 py-3 font-semibold">Pick</th>
-                  <th className="text-left px-4 py-3 font-semibold">Product</th>
-                  <th className="px-4 py-3"></th>
-                </tr>
-              </thead>
-              <tbody>
-                {products.map((product, i) => (
-                  <tr key={product.id} className={i % 2 === 0 ? "bg-white" : "bg-bg"}>
-                    <td className="px-4 py-3">
-                      <a href={`#${product.id}`} className="text-xs font-bold text-brand hover:underline">{product.badge}</a>
-                    </td>
-                    <td className="px-4 py-3 font-semibold text-ink text-xs">{product.name}</td>
-                    <td className="px-4 py-3">
-                      <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="text-xs font-bold px-3 py-1.5 rounded-lg text-white whitespace-nowrap inline-block" style={{ background: "#FF9900" }}>
-                        {(product as typeof product & { shortCtaLabel?: string }).shortCtaLabel ?? "Check price"}
-                      </a>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-          <p className="text-xs text-ink-muted mt-2">Prices are approximate. Check Amazon for current pricing before purchasing.</p>
-        </section>
+        <AtAGlance
+          items={products.map((product, i) => ({
+            rank: i + 1,
+            badge: product.badge,
+            name: product.name,
+            imageUrl: product.imageUrl,
+            affiliateUrl: product.amazonUrl,
+            pros: product.pros.map((text) => ({ text })),
+            cons: product.cons.map((text) => ({ text, severity: "minor" as const })),
+            anchorId: product.id,
+          }))}
+        />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A 20-inch mower sits in a narrow but popular band: wide enough to clear a small to mid-size lawn in a reasonable number of passes, but still light enough for most owners to push, lift, and store without a shed built around it. The 20-inch label gets applied loosely across gas, reel, and battery decks, so it is worth checking whether that number describes the actual cutting swath or just the overall machine width.</p>

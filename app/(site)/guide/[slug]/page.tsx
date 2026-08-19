@@ -5,6 +5,7 @@ import Image from "next/image";
 import { Container } from "@/components/layout/Container";
 import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
 import { ProductPick } from "@/components/product/ProductPick";
+import { AtAGlance } from "@/components/product/AtAGlance";
 import { GuideRecommendationBox } from "@/components/product/GuideRecommendationBox";
 import { GuideComparisonTable } from "@/components/product/GuideComparisonTable";
 import { AffiliateDisclosureBar } from "@/components/affiliate/AffiliateDisclosureBar";
@@ -757,37 +758,19 @@ function InlineProductPicks({ picks }: { picks: GuideProductPick[] }) {
     <section className="mb-12" aria-label="Top product picks">
       <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">Our Top Picks</h2>
 
-      {/* At-a-glance quick table */}
-      <div className="rounded-card border border-border overflow-hidden mb-8">
-        <table className="w-full text-sm">
-          <thead className="bg-bg border-b border-border">
-            <tr>
-              <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide">#</th>
-              <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide">Product</th>
-              <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide hidden sm:table-cell">Badge</th>
-              <th className="text-left px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide">Score</th>
-            </tr>
-          </thead>
-          <tbody className="divide-y divide-border">
-            {picks.map((pick, i) => (
-              <tr key={pick.id} className="hover:bg-bg/60 transition-colors">
-                <td className="px-4 py-3 text-ink-muted font-medium">{i + 1}</td>
-                <td className="px-4 py-3 font-medium text-ink">
-                  <a href={`#inline-pick-${pick.id}`} className="hover:text-brand transition-colors scroll-smooth">{pick.name}</a>
-                </td>
-                <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{pick.badge || ", "}</td>
-                <td className="px-4 py-3">
-                  {pick.fitScore != null ? (
-                    <span className={`font-bold text-sm ${scoreToColor(pick.fitScore)}`}>
-                      {pick.fitScore.toFixed(1)}
-                    </span>
-                  ) : ", "}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      {/* At-a-glance */}
+      <AtAGlance
+        items={picks.map((pick, i) => ({
+          rank: i + 1,
+          badge: pick.badge,
+          name: pick.name,
+          imageUrl: pick.imageUrl,
+          affiliateUrl: pick.affiliateUrl,
+          pros: pick.pros.map((text) => ({ text })),
+          cons: pick.cons.map((text) => ({ text, severity: "minor" as const })),
+          anchorId: `inline-pick-${pick.id}`,
+        }))}
+      />
 
       {/* Detailed pick cards */}
       <div className="flex flex-col gap-6">
