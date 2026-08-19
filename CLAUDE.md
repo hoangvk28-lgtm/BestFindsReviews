@@ -257,7 +257,7 @@ Every `/guide/[slug]` page must include (in order). As of the 2026-07-18 templat
 2. Affiliate disclosure bar
 3. Article header (title, description, meta row)
 4. Hero image
-5. **"Comparison Table"** — renamed from "Quick Picks", from `products[]`
+5. **"At a Glance"** — collapsible pick list from `products[]`, rendered via `<AtAGlance>` (see "At a Glance Component" below). **Do not reintroduce a plain HTML comparison table** — this replaced it site-wide 2026-08-18.
 6. Intro section
 7. **"N Criteria to Look For Before Buying a [Product]"** — card grid, from `buyingCriteria[]`, heading dynamically includes the count and singular product noun, positioned before the reviews
 8. Jump nav
@@ -332,7 +332,7 @@ As of `scripts/generate-guide-page.mjs`, every generated guide page follows this
 
 ```
 Breadcrumbs → header → affiliate note → hero image
-→ Comparison Table (products[])
+→ At a Glance (products[], via <AtAGlance>)
 → intro paragraphs
 → "N Criteria to Look For Before Buying a [Product]"  (buyingCriteria[], card grid)
 → jump nav
@@ -346,6 +346,14 @@ Breadcrumbs → header → affiliate note → hero image
 ```
 
 **Do not merge "How We Evaluated" and "How to Choose" into one section — they are two separate sections, both positioned after the product reviews, in that order, both before the FAQ.** An earlier revision of this rule mistakenly collapsed them into one; both must render independently.
+
+### At a Glance Component — replaces the old Comparison Table (added 2026-08-18)
+`components/product/AtAGlance.tsx` (a pre-existing component inherited from the DeskFinds template fork, unused until 2026-08-18) renders the pick list right after the hero image. It's a collapsible row per product: thumbnail + badge + name + a "Check price" CTA button, with a "Show Pros & Cons" toggle that expands a two-column pros/cons list. No price number is ever displayed (consistent with "No Price Display" above) — the button says "Check price" but shows no figure.
+
+- **`scripts/generate-guide-page.mjs`** wires it for the static per-slug pipeline: `<AtAGlance items={products.map(...)} />`, mapping each `GuideProduct` to `{ rank, badge, name, imageUrl, affiliateUrl: amazonUrl, pros: pros.map(text => ({text})), cons: cons.map(text => ({text, severity: "minor"})), anchorId: product.id }`. `anchorId` must match the `id` on that product's `<ProductSection>` below so "See why we picked it" scrolls correctly.
+- **`app/(site)/guide/[slug]/page.tsx`** (legacy DB-backed pipeline) wires it the same way from `GuideProductPick[]`, with `anchorId: \`inline-pick-${pick.id}\`` matching `InlinePickCard`'s section id.
+- Every `cons` entry defaults `severity: "minor"` (yellow) — there's no current data source for `"major"` (red); leave as `"minor"` unless a future guide's `data/guides/<slug>.ts` schema adds real severity data.
+- Do not hand-roll a plain `<table>` pick list again for any new guide — always use `<AtAGlance>`.
 
 Three exports are involved, and they serve **different purposes at different depths** — do not merge them or treat them as interchangeable:
 
