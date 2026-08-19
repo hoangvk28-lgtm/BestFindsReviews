@@ -23,6 +23,8 @@ import { SITE_URL } from "@/lib/seo";
 import { amazonSearchLinks } from "@/lib/amazon-links";
 import { categories, getCategoryBySlug } from "@/data/categories";
 import { authorToSlug, getAuthorByName } from "@/data/authors";
+import { dynamicGuideSlugs, dynamicGuideLoaders } from "@/data/dynamic-guides-registry";
+import { RichGuidePage, type RichGuideModule } from "@/components/guide/RichGuidePage";
 
 export const revalidate = 604800;
 
@@ -33,12 +35,24 @@ type Props = { params: Promise<{ slug: string }> };
 export async function generateStaticParams() {
   const [guideSlugs] = await Promise.all([getPublicGuideSlugs()]);
   const categorySlugs = categories.map((c) => c.slug);
-  const all = [...new Set([...guideSlugs, ...categorySlugs])];
+  const all = [...new Set([...guideSlugs, ...categorySlugs, ...dynamicGuideSlugs])];
   return all.map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+
+  // Rich static-data-backed guide, served dynamically (no literal route dir)
+  if (dynamicGuideSlugs.includes(slug)) {
+    const mod = (await dynamicGuideLoaders[slug]()) as unknown as RichGuideModule;
+    return buildMetadata({
+      title: mod.metaTitle,
+      description: mod.metaDescription,
+      path: `/guide/${slug}`,
+      image: mod.heroImage,
+      type: "article",
+    });
+  }
 
   // Category listing page metadata
   const category = getCategoryBySlug(slug);
@@ -121,6 +135,12 @@ const scoringCriteria = [
 
 export default async function BuyingGuidePage({ params }: Props) {
   const { slug } = await params;
+
+  // ── Rich static-data-backed guide, served dynamically (no literal route dir) ──
+  if (dynamicGuideSlugs.includes(slug)) {
+    const mod = (await dynamicGuideLoaders[slug]()) as unknown as RichGuideModule;
+    return <RichGuidePage slug={slug} guide={mod} />;
+  }
 
   // ── Category listing page ─────────────────────────────────────────────────
   const category = getCategoryBySlug(slug);
