@@ -11,6 +11,22 @@
 
 ---
 
+## 0.1 Content Depth Standard (no thin content, ever)
+
+**Passing a syntax/QA checklist is not the same as being publishable.** In August 2026, a batch of 124 guide articles was generated with a templated script (`gen.mjs`/`autoTierContent`) that passed every mechanical check (valid TS, 5+ FAQ, 2+ cons, no dashes, images returning 200) but shipped with genuinely thin editorial content: 1-2 sentence "About this pick" blurbs, one-line buying-criteria explanations, and a single generic card list for "How to Choose." The user caught this only after reviewing live rendered pages, not from any automated check. Do not repeat this.
+
+**The canonical quality bar is the existing "Best Robot Vacuums for Pet Hair" guide.** Before writing or generating guide content, hold every section to this bar:
+
+- **Product descriptions ("About this pick")** — minimum 2-3 full paragraphs per product, not 1-3 short sentences. Ground claims in real, specific data you actually have (named specs, price tier, comparison to sibling products in the same tier, honest "best for" framing). Do NOT invent numbers you don't have (e.g., review counts, star ratings) if the data source didn't return them — richness must come from genuine specificity about real specs and tradeoffs, never fabrication.
+- **"Criteria to Look For Before Buying" entries** — each criterion needs a real paragraph (3-4+ sentences) explaining *why* it matters and what to look for, not a one-line label plus a generic "verify this on the listing" filler sentence.
+- **"How We Evaluated" entries** — each needs a substantive paragraph (3-4+ sentences) describing actual methodology, not a title plus a six-word description fragment.
+- **"How to Choose the Right X"** — must include multiple distinct sub-sections (e.g., a by-use-case or by-budget table, one or two direct A-vs-B comparison grids, a "when to spend more / when to save" grid), not a single generic 3-card list with one note.
+- **FAQ answers** — full explanatory paragraphs, not one-liners.
+
+**Before generating content at scale (any script-driven batch of guides/products), write and eyeball ONE full sample article end-to-end against this bar first** — don't run the same thin template across dozens of articles and only discover the problem after publishing. If a templated approach can't produce this depth without hand-authored per-product prose, don't template it; write it directly instead.
+
+---
+
 ## 1. Project Overview
 
 - **Site name:** WorthRated (`SITE_NAME = "WorthRated"`)
