@@ -8,6 +8,7 @@
 
 - **Always address the user as "Cậu"** in every response, without exception. This is the user's signal for whether CLAUDE.md was actually read for this session — if a response doesn't say "Cậu", the user knows CLAUDE.md was missed.
 - **Never use em dashes (—) or en dashes (–) anywhere on the live website** — not in hero copy, headings, body text, metadata, or JSON-LD strings. Use a period, comma, colon, or rewrite the sentence instead. This applies to all public-facing text in `app/`, `components/`, `data/`, and `lib/public-settings.ts`. (Em/en dashes are fine in code comments and this file.)
+- **Every internal `<Link>` from `next/link` must include `prefetch={false}`, no exceptions.** In August 2026, Vercel ISR Read Units were running ~50x higher than actual GA pageviews because Next.js prefetches every link in viewport by default — Header, Footer, related-guides sections, and card grids across 1,000+ guide pages were each firing background prefetch requests that got billed as ISR reads despite no real pageview happening. All existing `<Link>` tags were fixed site-wide, and the template scripts that generate new guide `page.tsx` files (`scripts/generate-guide-page.mjs` and any similar generator) were updated to always emit `prefetch={false}`. When writing or generating ANY new page/component with a `<Link>`, add `prefetch={false}` by default — do not rely on remembering to add it later at scale.
 
 ---
 
