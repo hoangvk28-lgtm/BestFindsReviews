@@ -56,7 +56,7 @@ export function CategoryComparisonTable({ products }: CategoryComparisonTablePro
               <td className="px-4 py-3.5">
                 <div className="flex flex-col gap-1.5">
                   {product.badge && <Badge>{product.badge}</Badge>}
-                  <Link
+                  <Link prefetch={false}
                     href={`/reviews/${product.slug}`}
                     className="font-semibold text-ink hover:text-brand transition-colors leading-snug text-sm"
                   >

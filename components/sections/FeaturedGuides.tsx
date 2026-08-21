@@ -58,7 +58,7 @@ function GuideCard({
   const category = categories.find((c) => c.slug === guide.categorySlug);
 
   return (
-    <Link
+    <Link prefetch={false}
       href={`/guide/${guide.slug}`}
       className="group flex flex-col gap-4 bg-white rounded-card border border-border border-t-4 border-t-transparent overflow-hidden hover:shadow-card-hover transition-all"
       style={{ borderTopColor: categoryColor }}

@@ -45,7 +45,7 @@ export default function AffiliateDisclosurePage() {
           <h2 className="text-xl font-bold text-ink mb-3">Does This Affect Our Recommendations?</h2>
           <p className="mb-3">
             No. Our product rankings and recommendations are determined entirely by our editorial evaluation process, which you can read in full on our{" "}
-            <Link href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
+            <Link prefetch={false} href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
               How We Review page
             </Link>.
           </p>
@@ -98,7 +98,7 @@ export default function AffiliateDisclosurePage() {
           <h2 className="text-xl font-bold text-ink mb-3">Questions?</h2>
           <p>
             If you have questions about our affiliate relationships or our editorial independence, please{" "}
-            <Link href="/contact" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
+            <Link prefetch={false} href="/contact" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
               contact us
             </Link>. We are happy to explain our process in more detail.
           </p>

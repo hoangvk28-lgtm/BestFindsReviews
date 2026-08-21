@@ -48,7 +48,7 @@ export default async function GuidePreviewPage({ params }: PageProps) {
       {/* Preview banner */}
       <div className="bg-amber-400 text-amber-900 text-sm font-semibold text-center px-4 py-2.5 flex items-center justify-center gap-3">
         <span>PREVIEW, This guide is {guide.status === "published" ? "published" : "not published"} (status: {guide.status})</span>
-        <Link href={`/admin/guides/${id}/edit`}
+        <Link prefetch={false} href={`/admin/guides/${id}/edit`}
           className="underline text-amber-800 hover:text-amber-950 transition-colors">
           ← Back to Edit
         </Link>

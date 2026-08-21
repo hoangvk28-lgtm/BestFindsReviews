@@ -95,7 +95,7 @@ export default async function AdminSettingsPage({
       {/* Tab nav */}
       <div className="flex gap-1 border-b border-border">
         {TABS.map((t) => (
-          <Link
+          <Link prefetch={false}
             key={t.key}
             href={`/admin/settings?tab=${t.key}`}
             className={`px-4 py-2.5 text-sm font-medium transition-colors border-b-2 -mb-px ${

@@ -170,7 +170,7 @@ export default async function BuyingGuidePage({ params }: Props) {
             {categoryGuides.map((guide) => {
               const cover = (guide as { thumbnailImage?: string }).thumbnailImage || guide.heroImage;
               return (
-                <Link
+                <Link prefetch={false}
                   key={guide.slug}
                   href={`/guide/${guide.slug}`}
                   className="group flex flex-col bg-white rounded-card border border-border hover:shadow-card-hover hover:border-brand/20 transition-all overflow-hidden"
@@ -221,7 +221,7 @@ export default async function BuyingGuidePage({ params }: Props) {
 
         {/* Link back to all guides */}
         <div className="mt-12 pt-8 border-t border-border">
-          <Link href="/guide" className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors flex items-center gap-1">
+          <Link prefetch={false} href="/guide" className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors flex items-center gap-1">
             ← View all buying guides
           </Link>
         </div>
@@ -346,7 +346,7 @@ export default async function BuyingGuidePage({ params }: Props) {
         <header className="mt-6 mb-6 max-w-3xl">
           {/* Category tag */}
           <div className="flex flex-wrap items-center gap-2 mb-3">
-            <Link
+            <Link prefetch={false}
               href={`/categories/${guide.categorySlug}`}
               className="text-xs font-bold uppercase tracking-widest text-brand hover:text-brand-dark transition-colors"
             >
@@ -368,7 +368,7 @@ export default async function BuyingGuidePage({ params }: Props) {
               <svg className="w-3.5 h-3.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
               </svg>
-              <Link
+              <Link prefetch={false}
                 href={`/author/${authorToSlug(guide.author)}`}
                 className="hover:text-ink hover:underline transition-colors"
               >
@@ -586,7 +586,7 @@ export default async function BuyingGuidePage({ params }: Props) {
           )}
 
           <div className="mt-5 p-4 bg-bg rounded-lg border border-border">
-            <Link
+            <Link prefetch={false}
               href="/how-we-review"
               className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors flex items-center gap-1"
             >
@@ -651,7 +651,7 @@ export default async function BuyingGuidePage({ params }: Props) {
             </p>
             <div className="flex flex-col gap-3">
               {alternatives.map((alt) => (
-                <Link
+                <Link prefetch={false}
                   key={alt.id}
                   href={`/reviews/${alt.slug}`}
                   className="group flex items-start gap-4 p-4 bg-white rounded-card border border-border hover:border-brand/30 hover:shadow-card transition-all"
@@ -705,7 +705,7 @@ export default async function BuyingGuidePage({ params }: Props) {
             <h2 className="text-xl font-bold text-ink mb-4 tracking-tight">Related Buying Guides</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {relatedGuides.map((related) => (
-                <Link
+                <Link prefetch={false}
                   key={related.slug}
                   href={`/guide/${related.slug}`}
                   className="group flex flex-col gap-2 p-4 bg-white rounded-card border border-border hover:border-brand/30 hover:shadow-card transition-all"
@@ -755,7 +755,7 @@ export default async function BuyingGuidePage({ params }: Props) {
             ease of use, value for money, and buyer feedback from verified Amazon reviews. We do not
             claim hands-on product testing.
           </p>
-          <Link
+          <Link prefetch={false}
             href="/how-we-review"
             className="inline-flex items-center gap-1 mt-3 text-sm font-semibold text-brand hover:text-brand-dark transition-colors"
           >

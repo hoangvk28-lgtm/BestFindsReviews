@@ -60,7 +60,7 @@ export function GuideComparisonTable({ products }: GuideComparisonTableProps) {
 
                 {/* Product name */}
                 <td className="px-4 py-4 align-top">
-                  <Link
+                  <Link prefetch={false}
                     href={`/reviews/${product.slug}`}
                     className="font-semibold text-ink hover:text-brand transition-colors leading-snug text-sm block mb-1"
                   >

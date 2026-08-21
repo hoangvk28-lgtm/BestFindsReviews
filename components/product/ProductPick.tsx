@@ -72,7 +72,7 @@ export function ProductPick({ product, pickLabel, rank, lastUpdated }: ProductPi
         <div className="flex flex-col gap-4">
           {/* Name */}
           <div>
-            <Link href={`/reviews/${product.slug}`} className="group">
+            <Link prefetch={false} href={`/reviews/${product.slug}`} className="group">
               <h3 className="text-xl font-bold text-ink leading-snug group-hover:text-brand transition-colors">
                 {product.name}
               </h3>
@@ -141,7 +141,7 @@ export function ProductPick({ product, pickLabel, rank, lastUpdated }: ProductPi
             <CTAButton href={product.amazonUrl} size="lg">
               Check Price on Amazon
             </CTAButton>
-            <Link
+            <Link prefetch={false}
               href={`/reviews/${product.slug}`}
               className="text-sm font-medium text-brand hover:text-brand-dark transition-colors"
             >

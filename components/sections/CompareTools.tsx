@@ -37,7 +37,7 @@ export function CompareTools() {
             Every comparison uses the same Worth Rating criteria, ease of use, controls, setup, and value, so results stay comparable across categories.
           </p>
         </div>
-        <Link
+        <Link prefetch={false}
           href="/compare"
           className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors shrink-0 flex items-center gap-1"
         >

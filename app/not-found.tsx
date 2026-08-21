@@ -49,13 +49,13 @@ export default function NotFound() {
 
           {/* Primary actions */}
           <div className="flex flex-wrap justify-center gap-3 mb-12">
-            <Link
+            <Link prefetch={false}
               href="/"
               className="px-6 py-3 bg-blue-600 hover:bg-blue-500 text-white font-semibold rounded-xl transition-colors text-sm shadow-lg"
             >
               ← Back to Home
             </Link>
-            <Link
+            <Link prefetch={false}
               href="/guide/all"
               className="px-6 py-3 bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold rounded-xl transition-colors text-sm backdrop-blur-sm"
             >
@@ -70,7 +70,7 @@ export default function NotFound() {
             </p>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
               {quickLinks.map((link) => (
-                <Link
+                <Link prefetch={false}
                   key={link.href}
                   href={link.href}
                   className="flex items-center gap-2 px-3 py-2.5 rounded-lg bg-white/8 hover:bg-white/15 border border-white/10 hover:border-white/25 transition-all text-left"

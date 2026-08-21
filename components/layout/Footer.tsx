@@ -31,7 +31,7 @@ export async function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand column */}
           <div className="lg:col-span-1">
-            <Link href="/" className="inline-block mb-3">
+            <Link prefetch={false} href="/" className="inline-block mb-3">
               <Logo inverse className="h-9 w-auto opacity-95 hover:opacity-100 transition-opacity" />
             </Link>
             <p className="text-sm text-ink-inverse/80 font-medium mb-3">{BRAND_TAGLINE}</p>
@@ -46,7 +46,7 @@ export async function Footer() {
             <ul className="space-y-2.5">
               {footerNav.categories.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
+                  <Link prefetch={false} href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
                 </li>
               ))}
             </ul>
@@ -58,7 +58,7 @@ export async function Footer() {
             <ul className="space-y-2.5">
               {footerNav.company.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
+                  <Link prefetch={false} href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
                 </li>
               ))}
             </ul>
@@ -70,7 +70,7 @@ export async function Footer() {
             <ul className="space-y-2.5">
               {footerNav.legal.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
+                  <Link prefetch={false} href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
                 </li>
               ))}
             </ul>

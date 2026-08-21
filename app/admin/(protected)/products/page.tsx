@@ -66,7 +66,7 @@ export default async function AdminProductsPage({ searchParams }: PageProps) {
         description={configError ? "Supabase not configured" : `${products.length} of ${totalAll} products`}
         action={
           !configError ? (
-            <Link
+            <Link prefetch={false}
               href="/admin/products/new"
               className="inline-flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-lg transition-colors"
             >
@@ -145,7 +145,7 @@ export default async function AdminProductsPage({ searchParams }: PageProps) {
             </button>
 
             {(q || filterCategory || filterStatus || filterMissing) && (
-              <Link
+              <Link prefetch={false}
                 href="/admin/products"
                 className="px-3 py-2 text-sm text-gray-500 hover:text-gray-900 transition-colors"
               >
@@ -160,7 +160,7 @@ export default async function AdminProductsPage({ searchParams }: PageProps) {
               {totalAll === 0 ? (
                 <>
                   <p className="text-sm font-semibold text-gray-500">No products yet.</p>
-                  <Link href="/admin/products/new" className="mt-3 inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-lg transition-colors">
+                  <Link prefetch={false} href="/admin/products/new" className="mt-3 inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-lg transition-colors">
                     <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
                     Add Product
                   </Link>
@@ -168,7 +168,7 @@ export default async function AdminProductsPage({ searchParams }: PageProps) {
               ) : (
                 <>
                   <p className="text-sm font-semibold text-gray-500">No products match your filters.</p>
-                  <Link href="/admin/products" className="mt-2 text-xs text-blue-600 hover:underline">Clear filters</Link>
+                  <Link prefetch={false} href="/admin/products" className="mt-2 text-xs text-blue-600 hover:underline">Clear filters</Link>
                 </>
               )}
             </div>
@@ -259,7 +259,7 @@ export default async function AdminProductsPage({ searchParams }: PageProps) {
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
                               </svg>
                             </a>
-                            <Link
+                            <Link prefetch={false}
                               href={`/admin/products/${product.id}/edit`}
                               className="text-xs text-gray-400 hover:text-blue-600 transition-colors"
                               title="Edit product"

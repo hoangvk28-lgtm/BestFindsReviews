@@ -91,7 +91,7 @@ export function FeaturedGuideHero({ guide, products }: FeaturedGuideHeroProps) {
           )}
 
           <div className="flex flex-wrap gap-3 pt-2">
-            <Link
+            <Link prefetch={false}
               href={`/guide/${guide.slug}`}
               className="inline-flex items-center gap-2 px-6 py-3 bg-brand text-white font-semibold rounded-btn hover:bg-brand-dark transition-colors text-sm"
             >
@@ -110,7 +110,7 @@ export function FeaturedGuideHero({ guide, products }: FeaturedGuideHeroProps) {
               Top Picks from this Guide
             </p>
             {topThree.map((product, i) => (
-              <Link
+              <Link prefetch={false}
                 key={product.id}
                 href={`/reviews/${product.slug}`}
                 className="group flex items-start gap-4 p-4 bg-white rounded-card border border-border hover:border-brand/30 hover:shadow-card transition-all"

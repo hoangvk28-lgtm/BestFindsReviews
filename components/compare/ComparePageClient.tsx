@@ -209,7 +209,7 @@ function ComparePageInner({ products, categories, lockedCategorySlug }: Props) {
                             <Badge>{product.badge}</Badge>
                           </div>
                         )}
-                        <Link
+                        <Link prefetch={false}
                           href={`/reviews/${product.slug}`}
                           className="font-semibold text-ink hover:text-brand transition-colors text-sm leading-snug block"
                         >
@@ -223,7 +223,7 @@ function ComparePageInner({ products, categories, lockedCategorySlug }: Props) {
                   {/* Category */}
                   <td className="px-4 py-4 align-top hidden md:table-cell">
                     {cat ? (
-                      <Link
+                      <Link prefetch={false}
                         href={`/categories/${cat.slug}`}
                         className="text-xs text-brand hover:text-brand-dark font-medium transition-colors"
                       >
@@ -340,7 +340,7 @@ function ProductCard({
         <div className="flex items-center gap-2 min-w-0">
           {product.badge && <Badge>{product.badge}</Badge>}
           {cat && (
-            <Link
+            <Link prefetch={false}
               href={`/categories/${cat.slug}`}
               className="text-xs text-ink-muted hover:text-brand transition-colors truncate"
             >
@@ -355,7 +355,7 @@ function ProductCard({
 
       {/* Body */}
       <div className="px-4 pt-4 pb-3">
-        <Link href={`/reviews/${product.slug}`}>
+        <Link prefetch={false} href={`/reviews/${product.slug}`}>
           <h3 className="font-semibold text-ink text-sm leading-snug group-hover:text-brand transition-colors mb-2 line-clamp-2">
             {product.name}
           </h3>
@@ -387,7 +387,7 @@ function ProductCard({
         <div className="flex items-center justify-between gap-2 pt-3 border-t border-border">
           <span className="font-bold text-ink text-sm">{product.priceRange}</span>
           <div className="flex items-center gap-2">
-            <Link
+            <Link prefetch={false}
               href={`/reviews/${product.slug}`}
               className="text-xs font-medium text-brand hover:text-brand-dark transition-colors"
             >

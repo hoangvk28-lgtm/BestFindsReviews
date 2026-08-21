@@ -30,7 +30,7 @@ export default function PrivacyPolicyPage() {
           <h2 className="text-xl font-bold text-ink mb-3">1. Overview</h2>
           <p>
             WorthRated (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;the site&rdquo;) operates at worthrated.com. This policy explains what information we collect from visitors, how we use it, and your rights regarding that information. If you have questions, see the{" "}
-            <Link href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Contact</Link>{" "}
+            <Link prefetch={false} href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Contact</Link>{" "}
             section at the bottom of this page.
           </p>
         </section>
@@ -64,7 +64,7 @@ export default function PrivacyPolicyPage() {
           </p>
           <p>
             For full details of our affiliate relationship and how it affects (or doesn&apos;t affect) our editorial recommendations, see our{" "}
-            <Link href="/affiliate-disclosure" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">
+            <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">
               Affiliate Disclosure page
             </Link>.
           </p>
@@ -105,7 +105,7 @@ export default function PrivacyPolicyPage() {
           <h2 className="text-xl font-bold text-ink mb-3">8. Your Rights</h2>
           <p className="mb-3">
             Depending on your location, you may have the right to access, correct, or request deletion of any personal data you have provided to us. To make such a request, contact us via our{" "}
-            <Link href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">
+            <Link prefetch={false} href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">
               contact page
             </Link>. We will respond within 30 days.
           </p>
@@ -134,7 +134,7 @@ export default function PrivacyPolicyPage() {
             Questions about this privacy policy or our data practices?
           </p>
           <div className="flex flex-wrap gap-4">
-            <Link
+            <Link prefetch={false}
               href="/contact"
               className="inline-flex items-center gap-1 text-sm font-semibold text-brand hover:text-brand-dark transition-colors"
             >

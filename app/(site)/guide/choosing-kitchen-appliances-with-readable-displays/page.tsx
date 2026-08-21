@@ -62,9 +62,9 @@ export default function Page() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <Container className="py-12 max-w-3xl">
         <nav className="flex items-center gap-1.5 text-xs text-ink-muted mb-6">
-          <Link href="/" className="hover:text-brand transition-colors">Home</Link>
+          <Link prefetch={false} href="/" className="hover:text-brand transition-colors">Home</Link>
           <span>/</span>
-          <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
+          <Link prefetch={false} href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
           <span>/</span>
           <span className="text-ink">Readable Displays</span>
         </nav>
@@ -79,7 +79,7 @@ export default function Page() {
 
         <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
           <strong className="text-ink">Quick note:</strong> This is a research-based buying checklist that applies across appliance categories, not a ranked product roundup. We may earn a commission on Amazon links elsewhere on this site.{" "}
-          <Link href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
+          <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
         </div>
 
         <div className="space-y-8">
@@ -94,13 +94,13 @@ export default function Page() {
         <section className="mt-14 p-6 rounded-2xl border border-border bg-white">
           <h2 className="text-xl font-bold text-ink mb-4 tracking-tight">Related Reading</h2>
           <div className="grid sm:grid-cols-2 gap-3">
-            <Link href="/guide/best-coffee-makers-for-seniors" className="flex items-center justify-between p-4 rounded-xl border border-border hover:border-brand/40 hover:shadow-sm transition-all group">
+            <Link prefetch={false} href="/guide/best-coffee-makers-for-seniors" className="flex items-center justify-between p-4 rounded-xl border border-border hover:border-brand/40 hover:shadow-sm transition-all group">
               <span className="text-sm font-medium text-ink group-hover:text-brand transition-colors">Best Coffee Makers for Seniors</span>
               <svg className="w-4 h-4 text-ink-muted group-hover:text-brand group-hover:translate-x-0.5 transition-all shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />
               </svg>
             </Link>
-            <Link href="/guide/how-to-choose-a-microwave-with-simple-controls" className="flex items-center justify-between p-4 rounded-xl border border-border hover:border-brand/40 hover:shadow-sm transition-all group">
+            <Link prefetch={false} href="/guide/how-to-choose-a-microwave-with-simple-controls" className="flex items-center justify-between p-4 rounded-xl border border-border hover:border-brand/40 hover:shadow-sm transition-all group">
               <span className="text-sm font-medium text-ink group-hover:text-brand transition-colors">How to Choose a Microwave With Simple Controls</span>
               <svg className="w-4 h-4 text-ink-muted group-hover:text-brand group-hover:translate-x-0.5 transition-all shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />

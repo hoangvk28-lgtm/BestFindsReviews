@@ -91,9 +91,9 @@ export default function Page() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <Container className="py-12 max-w-4xl">
         <nav className="flex items-center gap-1.5 text-xs text-ink-muted mb-6">
-          <Link href="/" className="hover:text-brand transition-colors">Home</Link>
+          <Link prefetch={false} href="/" className="hover:text-brand transition-colors">Home</Link>
           <span>/</span>
-          <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
+          <Link prefetch={false} href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
           <span>/</span>
           <span className="text-ink">Brand Comparison</span>
         </nav>
@@ -108,7 +108,7 @@ export default function Page() {
 
         <div className="mb-10 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
           <strong className="text-ink">Quick note:</strong> This is a snapshot comparison at one price tier, not a full ranking of every model each brand sells. We may earn a commission on Amazon links on this page.{" "}
-          <Link href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
+          <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
         </div>
 
         <div className="overflow-x-auto mb-12 rounded-2xl border border-border">
@@ -154,7 +154,7 @@ export default function Page() {
               <div className="flex-1 min-w-0">
                 <h2 className="text-lg font-bold text-ink mb-1">{b.brand}: {b.name}</h2>
                 <p className="text-sm text-ink-secondary leading-relaxed mb-3">{b.note}</p>
-                <Link href={b.guideHref} className="text-sm font-semibold text-brand hover:underline">
+                <Link prefetch={false} href={b.guideHref} className="text-sm font-semibold text-brand hover:underline">
                   See the full {b.brand} buying guide &rarr;
                 </Link>
               </div>
@@ -179,7 +179,7 @@ export default function Page() {
               { title: "Best Roomba Robot Vacuums", href: "/guide/best-roomba-robot-vacuums" },
               { title: "Best Robot Vacuum and Mop Combos", href: "/guide/best-robot-vacuum-and-mop-combos" },
             ].map((r) => (
-              <Link key={r.href} href={r.href} className="flex items-center justify-between p-4 rounded-xl border border-border hover:border-brand/40 hover:shadow-sm transition-all group">
+              <Link prefetch={false} key={r.href} href={r.href} className="flex items-center justify-between p-4 rounded-xl border border-border hover:border-brand/40 hover:shadow-sm transition-all group">
                 <span className="text-sm font-medium text-ink group-hover:text-brand transition-colors">{r.title}</span>
                 <svg className="w-4 h-4 text-ink-muted group-hover:text-brand group-hover:translate-x-0.5 transition-all shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />

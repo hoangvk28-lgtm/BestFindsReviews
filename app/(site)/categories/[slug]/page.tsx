@@ -179,7 +179,7 @@ export default async function CategoryPage({ params }: Props) {
                 Top-Rated {category.name} Products
               </h2>
             </div>
-            <Link
+            <Link prefetch={false}
               href="/reviews"
               className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors flex items-center gap-1 shrink-0"
             >
@@ -215,7 +215,7 @@ export default async function CategoryPage({ params }: Props) {
           <CategoryComparisonTable products={products} />
           <p className="mt-3 text-xs text-ink-muted">
             Scores reflect small-space performance specifically.{" "}
-            <Link href="/compare" className="text-brand hover:text-brand-dark font-medium transition-colors">
+            <Link prefetch={false} href="/compare" className="text-brand hover:text-brand-dark font-medium transition-colors">
               See full comparison page →
             </Link>
           </p>
@@ -258,7 +258,7 @@ export default async function CategoryPage({ params }: Props) {
                     <Badge variant="muted">Coming soon</Badge>
                   </div>
                 ) : (
-                  <Link
+                  <Link prefetch={false}
                     href={topic.href!}
                     className="flex items-center gap-3 p-4 bg-white rounded-lg border border-border hover:border-brand/30 hover:shadow-card transition-all group"
                   >
@@ -299,7 +299,7 @@ export default async function CategoryPage({ params }: Props) {
           <h2 className="text-xl font-bold text-ink mb-4 tracking-tight">Related Categories</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {relatedCategories.map((cat) => (
-              <Link
+              <Link prefetch={false}
                 key={cat.slug}
                 href={`/categories/${cat.slug}`}
                 className="group flex items-center gap-3 p-4 bg-white rounded-card border border-border hover:border-brand/30 hover:shadow-card transition-all"

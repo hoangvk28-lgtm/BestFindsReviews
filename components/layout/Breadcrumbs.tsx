@@ -12,7 +12,7 @@ interface BreadcrumbsProps {
 export function Breadcrumbs({ crumbs }: BreadcrumbsProps) {
   return (
     <nav aria-label="Breadcrumb" className="flex items-center gap-1.5 text-sm text-ink-muted flex-wrap">
-      <Link href="/" className="hover:text-brand transition-colors">
+      <Link prefetch={false} href="/" className="hover:text-brand transition-colors">
         Home
       </Link>
       {crumbs.map((crumb, i) => {
@@ -33,7 +33,7 @@ export function Breadcrumbs({ crumbs }: BreadcrumbsProps) {
                 {crumb.label}
               </span>
             ) : (
-              <Link href={crumb.href} className="hover:text-brand transition-colors">
+              <Link prefetch={false} href={crumb.href} className="hover:text-brand transition-colors">
                 {crumb.label}
               </Link>
             )}

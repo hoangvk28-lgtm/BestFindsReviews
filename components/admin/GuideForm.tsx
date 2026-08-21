@@ -199,7 +199,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
         {pending ? "Saving…" : "Save Guide"}
       </button>
       {mode === "edit" && guide?.id && (
-        <Link
+        <Link prefetch={false}
           href={`/admin/guides/${guide.id}/preview`}
           target="_blank"
           className="inline-flex items-center gap-1.5 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
@@ -211,7 +211,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
           Preview
         </Link>
       )}
-      <Link
+      <Link prefetch={false}
         href="/admin/guides"
         className="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors"
       >
@@ -572,7 +572,7 @@ export function GuideForm({ action, guide, mode, products }: GuideFormProps) {
                         <span className="text-xs font-semibold text-blue-700">
                           Linked: {(products ?? []).find((p) => p.id === pick.productId)?.name ?? pick.productId}
                         </span>
-                        <Link
+                        <Link prefetch={false}
                           href={`/admin/products/${pick.productId}/edit`}
                           target="_blank"
                           className="text-xs text-blue-600 hover:underline"

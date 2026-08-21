@@ -22,7 +22,7 @@ const PER_CATEGORY = 4;
 function GuideCard({ guide, priority = false }: { guide: { slug: string; title: string; description: string; heroImage?: string; thumbnailImage?: string; subcategorySlug: string; readTime: string; lastUpdated: string; recommendedProductIds: string[] }; priority?: boolean }) {
   const thumb = guide.thumbnailImage || guide.heroImage;
   return (
-    <Link
+    <Link prefetch={false}
       href={`/guide/${guide.slug}`}
       className="group flex flex-col bg-white rounded-card border border-border hover:shadow-card-hover hover:border-brand/20 transition-all overflow-hidden"
     >
@@ -154,7 +154,7 @@ export default async function BuyingGuidesIndexPage() {
                 We have <strong>{totalGuides} buying guides</strong> covering everyday products for easier living.
               </p>
             </div>
-            <Link
+            <Link prefetch={false}
               href="/guide/all"
               className="shrink-0 inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-brand text-white font-bold text-sm hover:bg-brand-dark transition-colors"
             >

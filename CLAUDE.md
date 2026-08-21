@@ -20,7 +20,14 @@
 - **Product descriptions ("About this pick")** — minimum 2-3 full paragraphs per product, not 1-3 short sentences. Ground claims in real, specific data you actually have (named specs, price tier, comparison to sibling products in the same tier, honest "best for" framing). Do NOT invent numbers you don't have (e.g., review counts, star ratings) if the data source didn't return them — richness must come from genuine specificity about real specs and tradeoffs, never fabrication.
 - **"Criteria to Look For Before Buying" entries** — each criterion needs a real paragraph (3-4+ sentences) explaining *why* it matters and what to look for, not a one-line label plus a generic "verify this on the listing" filler sentence.
 - **"How We Evaluated" entries** — each needs a substantive paragraph (3-4+ sentences) describing actual methodology, not a title plus a six-word description fragment.
-- **"How to Choose the Right X"** — must include multiple distinct sub-sections (e.g., a by-use-case or by-budget table, one or two direct A-vs-B comparison grids, a "when to spend more / when to save" grid), not a single generic 3-card list with one note.
+- **"How to Choose the Right X"** — must include multiple distinct sub-sections, not a single generic 3-card list with one note. Use this template (drop or rename sub-sections that genuinely don't fit the category, but never collapse back to one card list):
+  1. **By [primary attribute]** — table: scenario → recommended pick.
+  2. **By Budget** — table: price range → recommended pick.
+  3. **[Option A] vs [Option B]** — a genuine binary tradeoff in this category. Each side explains the real mechanism/tradeoff AND lists which specific products in this roundup fall into that group, ending with a one-line recommendation of who should pick which side.
+  4. **A secondary decision axis specific to the category** (e.g. self-empty vs manual emptying for robot vacuums, wired vs wireless backhaul for mesh Wi-Fi) — table: preference → recommended pick.
+  5. **For [common specific use case] Specifically** (e.g. "For Pet Hair Specifically") — a "Look for" paragraph (what to check and why) plus an "In this comparison" paragraph naming the specific model that satisfies it and why.
+  6. **When to Spend More** — two columns, "Spend more if" / "Save if", each with reasoning tied to specific named products, not generic advice.
+  - **Every recommendation in every sub-section must name an actual product from the current roundup** (by model name, not just "the top pick") — a "How to Choose" section that never names a product is still thin content even if it's long.
 - **FAQ answers** — full explanatory paragraphs, not one-liners.
 
 **Before generating content at scale (any script-driven batch of guides/products), write and eyeball ONE full sample article end-to-end against this bar first** — don't run the same thin template across dozens of articles and only discover the problem after publishing. If a templated approach can't produce this depth without hand-authored per-product prose, don't template it; write it directly instead.

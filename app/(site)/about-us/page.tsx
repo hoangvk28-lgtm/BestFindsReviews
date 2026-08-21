@@ -260,7 +260,7 @@ export default function AboutPage() {
           </p>
           <div className="flex flex-wrap gap-2.5">
             {COVERS.map((item) => (
-              <Link
+              <Link prefetch={false}
                 key={item.href}
                 href={item.href}
                 className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-border bg-white text-sm font-medium text-ink hover:border-brand/40 hover:text-brand transition-colors"
@@ -274,7 +274,7 @@ export default function AboutPage() {
           </div>
           <p className="text-xs text-ink-muted mt-4">
             Browse all categories at{" "}
-            <Link href="/categories" className="text-brand hover:underline font-medium">worthrated.com/categories</Link>.
+            <Link prefetch={false} href="/categories" className="text-brand hover:underline font-medium">worthrated.com/categories</Link>.
           </p>
         </section>
 
@@ -299,7 +299,7 @@ export default function AboutPage() {
           </div>
           <p className="text-xs text-ink-muted mt-4">
             Our scoring criteria are explained in full on{" "}
-            <Link href="/how-we-review" className="text-brand hover:underline font-medium">How We Rate</Link>.
+            <Link prefetch={false} href="/how-we-review" className="text-brand hover:underline font-medium">How We Rate</Link>.
           </p>
         </section>
 
@@ -333,7 +333,7 @@ export default function AboutPage() {
             </p>
             <p>
               You can read our complete methodology, including all seven scoring criteria and what each badge means, on our{" "}
-              <Link href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
+              <Link prefetch={false} href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
                 How We Rate page
               </Link>.
             </p>
@@ -361,7 +361,7 @@ export default function AboutPage() {
                 { label: "Privacy Policy", href: "/privacy-policy" },
                 { label: "Contact", href: "/contact" },
               ].map((l) => (
-                <Link key={l.href} href={l.href} className="text-brand hover:underline font-medium">
+                <Link prefetch={false} key={l.href} href={l.href} className="text-brand hover:underline font-medium">
                   {l.label} →
                 </Link>
               ))}
@@ -383,7 +383,7 @@ export default function AboutPage() {
               Affiliate commissions help fund the research, writing, and maintenance of the site.
             </p>
           </div>
-          <Link href="/affiliate-disclosure" className="inline-block mt-3 text-sm font-semibold text-brand hover:text-brand-dark transition-colors">
+          <Link prefetch={false} href="/affiliate-disclosure" className="inline-block mt-3 text-sm font-semibold text-brand hover:text-brand-dark transition-colors">
             Read our full affiliate disclosure →
           </Link>
         </section>

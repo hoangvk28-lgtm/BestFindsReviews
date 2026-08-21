@@ -125,7 +125,7 @@ export default async function AuthorPage({ params }: Props) {
                   {s.label}
                 </a>
               ))}
-              <Link
+              <Link prefetch={false}
                 href="/how-we-review"
                 className="inline-flex items-center gap-1.5 text-sm text-ink-muted hover:text-ink transition-colors"
               >
@@ -200,7 +200,7 @@ export default async function AuthorPage({ params }: Props) {
               </div>
             </div>
           </div>
-          <Link
+          <Link prefetch={false}
             href="/how-we-review"
             className="inline-flex items-center gap-1.5 mt-4 text-sm font-medium text-accent hover:underline"
           >
@@ -220,7 +220,7 @@ export default async function AuthorPage({ params }: Props) {
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {authorGuides.map((guide) => (
-                <Link
+                <Link prefetch={false}
                   key={guide.slug}
                   href={`/guide/${guide.slug}`}
                   className="group flex gap-4 p-4 rounded-xl border border-border bg-surface hover:border-accent/40 hover:shadow-sm transition-all"

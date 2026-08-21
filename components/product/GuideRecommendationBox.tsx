@@ -47,7 +47,7 @@ export function GuideRecommendationBox({ picks }: GuideRecommendationBoxProps) {
                 </span>
               </div>
 
-              <Link href={`/reviews/${product.slug}`} className="group/link">
+              <Link prefetch={false} href={`/reviews/${product.slug}`} className="group/link">
                 <h3 className="font-bold text-ink text-base leading-snug group-hover/link:text-brand transition-colors mb-1">
                   {product.name}
                 </h3>
@@ -71,7 +71,7 @@ export function GuideRecommendationBox({ picks }: GuideRecommendationBoxProps) {
                   Check Price on Amazon
                 </CTAButton>
                 <div className="flex items-center gap-2">
-                  <Link
+                  <Link prefetch={false}
                     href={`/reviews/${product.slug}`}
                     className="text-xs font-medium text-brand hover:text-brand-dark transition-colors"
                   >

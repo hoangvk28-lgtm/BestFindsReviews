@@ -190,7 +190,7 @@ export default async function ProductReviewPage({ params }: Props) {
           <div>
             {/* Category + badge row */}
             <div className="flex flex-wrap items-center gap-2 mb-3">
-              <Link
+              <Link prefetch={false}
                 href={`/categories/${product.categorySlug}`}
                 className="text-xs font-bold uppercase tracking-widest text-brand hover:text-brand-dark transition-colors"
               >
@@ -217,7 +217,7 @@ export default async function ProductReviewPage({ params }: Props) {
                 <svg className="w-3.5 h-3.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} aria-hidden="true">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
                 </svg>
-                <Link href="/author/jamie-cole" className="font-medium text-ink hover:text-brand transition-colors">
+                <Link prefetch={false} href="/author/jamie-cole" className="font-medium text-ink hover:text-brand transition-colors">
                   Jamie Cole
                 </Link>
               </span>
@@ -378,7 +378,7 @@ export default async function ProductReviewPage({ params }: Props) {
             </div>
             <div className="px-5 py-3 bg-bg border-t border-border text-xs text-ink-muted">
               Scores reflect small-space use specifically, not general product quality.{" "}
-              <Link href="/how-we-review" className="text-brand hover:underline">Full methodology →</Link>
+              <Link prefetch={false} href="/how-we-review" className="text-brand hover:underline">Full methodology →</Link>
             </div>
           </details>
         </section>
@@ -595,7 +595,7 @@ export default async function ProductReviewPage({ params }: Props) {
             </p>
             <div className="flex flex-col gap-3">
               {alternatives.map((alt) => (
-                <Link
+                <Link prefetch={false}
                   key={alt.id}
                   href={`/reviews/${alt.slug}`}
                   className="group flex items-start gap-4 p-4 bg-white rounded-card border border-border hover:border-brand/30 hover:shadow-card transition-all"
@@ -648,7 +648,7 @@ export default async function ProductReviewPage({ params }: Props) {
                 See all {product.subcategorySlug.replace(/-/g, " ")} products we evaluated in a
                 single table, scores, prices, and best-for cases compared directly.
               </p>
-              <Link
+              <Link prefetch={false}
                 href="/compare"
                 className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors flex items-center gap-1"
               >
@@ -665,7 +665,7 @@ export default async function ProductReviewPage({ params }: Props) {
             <div className="flex flex-col gap-3">
               {relatedGuides.map((guide) => (
                 guide && (
-                  <Link
+                  <Link prefetch={false}
                     key={guide.slug}
                     href={`/guide/${guide.slug}`}
                     className="group flex items-center justify-between p-4 bg-white rounded-lg border border-border hover:border-brand/30 hover:shadow-card transition-all"
@@ -719,7 +719,7 @@ export default async function ProductReviewPage({ params }: Props) {
         <p className="text-xs text-ink-muted mt-4 max-w-3xl leading-relaxed">
           Scores are based on product specifications and verified buyer feedback. We do not claim
           hands-on testing.{" "}
-          <Link href="/how-we-review" className="text-brand hover:text-brand-dark transition-colors">
+          <Link prefetch={false} href="/how-we-review" className="text-brand hover:text-brand-dark transition-colors">
             Read our methodology →
           </Link>
         </p>

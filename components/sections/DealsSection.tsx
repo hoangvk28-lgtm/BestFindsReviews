@@ -39,7 +39,7 @@ export function DealsSection({ products }: DealsSectionProps) {
             High-scoring products at accessible price points. Check Amazon for current pricing - deals change frequently.
           </p>
         </div>
-        <Link
+        <Link prefetch={false}
           href="/deals"
           className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors shrink-0 flex items-center gap-1"
         >
@@ -93,7 +93,7 @@ export function DealsSection({ products }: DealsSectionProps) {
 
             {/* Name */}
             <div className="flex-1">
-              <Link href={`/reviews/${product.slug}`} className="group">
+              <Link prefetch={false} href={`/reviews/${product.slug}`} className="group">
                 <h3 className="font-bold text-ink text-sm leading-snug group-hover:text-brand transition-colors mb-2">
                   {product.name}
                 </h3>
@@ -109,7 +109,7 @@ export function DealsSection({ products }: DealsSectionProps) {
               <CTAButton href={product.amazonUrl} size="sm" fullWidth>
                 Check on Amazon
               </CTAButton>
-              <Link
+              <Link prefetch={false}
                 href={`/reviews/${product.slug}`}
                 className="text-center text-xs text-ink-muted hover:text-brand transition-colors"
               >

@@ -69,7 +69,7 @@ export default async function CategoryComparePage({
       <Container className="py-14">
         {/* Breadcrumb */}
         <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm text-ink-muted mb-6">
-          <Link href="/compare" className="hover:text-brand transition-colors">Compare</Link>
+          <Link prefetch={false} href="/compare" className="hover:text-brand transition-colors">Compare</Link>
           <span>›</span>
           <span className="text-ink font-medium">{category.name}</span>
         </nav>
@@ -87,14 +87,14 @@ export default async function CategoryComparePage({
 
         {/* Category nav */}
         <div className="flex flex-wrap gap-2 mb-8">
-          <Link
+          <Link prefetch={false}
             href="/compare"
             className="px-3 py-1.5 rounded-full text-sm font-medium bg-white text-ink-secondary border border-border hover:border-brand hover:text-brand transition-colors"
           >
             All Products
           </Link>
           {categories.map((cat) => (
-            <Link
+            <Link prefetch={false}
               key={cat.slug}
               href={`/compare/${cat.slug}`}
               className={`px-3 py-1.5 rounded-full text-sm font-medium border transition-colors ${
@@ -118,7 +118,7 @@ export default async function CategoryComparePage({
             ↓ Product cards
           </a>
           <span className="text-border">·</span>
-          <Link href={`/categories/${category.slug}`} className="text-ink-muted hover:text-brand transition-colors">
+          <Link prefetch={false} href={`/categories/${category.slug}`} className="text-ink-muted hover:text-brand transition-colors">
             {category.name} hub →
           </Link>
         </div>

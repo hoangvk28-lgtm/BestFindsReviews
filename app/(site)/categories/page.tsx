@@ -53,7 +53,7 @@ export default async function CategoriesPage() {
           const stats = statsBySlug.get(cat.slug);
           const icon = CATEGORY_ICONS[cat.slug] ?? "📋";
           return (
-            <Link
+            <Link prefetch={false}
               key={cat.slug}
               href={`/categories/${cat.slug}`}
               className="group flex flex-col gap-4 p-6 bg-white rounded-card border border-border hover:border-brand/40 hover:shadow-card-hover transition-all"

@@ -109,7 +109,7 @@ export function AdminSidebar({ onClose }: AdminSidebarProps = {}) {
               {group.items.map((item) => {
                 const active = isActive(item.href, (item as { exact?: boolean }).exact);
                 return (
-                  <Link
+                  <Link prefetch={false}
                     key={item.href}
                     href={item.href}
                     className="flex items-center gap-2.5 px-2.5 py-2 rounded-lg text-sm font-medium transition-all"

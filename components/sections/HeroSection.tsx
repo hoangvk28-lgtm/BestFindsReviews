@@ -65,7 +65,7 @@ export async function HeroSection({ settings: propSettings }: Props = {}) {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-3 mb-8">
-              <Link
+              <Link prefetch={false}
                 href={hero.primaryCtaHref || "/categories"}
                 className="inline-flex items-center gap-2 px-6 py-3.5 font-semibold rounded-btn text-sm transition-all"
                 style={{ background: "#2F7D78", color: "#ffffff" }}
@@ -75,7 +75,7 @@ export async function HeroSection({ settings: propSettings }: Props = {}) {
                   <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />
                 </svg>
               </Link>
-              <Link
+              <Link prefetch={false}
                 href={hero.secondaryCtaHref || "/how-we-review"}
                 className="inline-flex items-center gap-2 px-6 py-3.5 font-semibold rounded-btn text-sm transition-all"
                 style={{ background: "rgba(247,243,234,0.12)", color: "#ffffff", border: "1px solid rgba(247,243,234,0.28)" }}
@@ -135,7 +135,7 @@ export async function HeroSection({ settings: propSettings }: Props = {}) {
               ))}
 
               <div className="px-5 py-3.5" style={{ background: "rgba(247,243,234,0.05)" }}>
-                <Link href="/how-we-review" className="text-xs font-semibold flex items-center justify-between group transition-colors" style={{ color: "#DDEBE5" }}>
+                <Link prefetch={false} href="/how-we-review" className="text-xs font-semibold flex items-center justify-between group transition-colors" style={{ color: "#DDEBE5" }}>
                   See our full rating method
                   <svg className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />

@@ -97,7 +97,7 @@ export default async function AdminMediaPage({
               Search
             </button>
             {(q || folder) && (
-              <Link
+              <Link prefetch={false}
                 href="/admin/media"
                 className="px-4 py-2 border border-border text-ink-secondary text-sm rounded-md hover:bg-surface transition-colors"
               >

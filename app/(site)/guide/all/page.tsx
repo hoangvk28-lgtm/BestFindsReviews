@@ -30,9 +30,9 @@ export default async function AllGuidesPage() {
   return (
     <Container className="py-14">
       <nav className="flex items-center gap-1.5 text-xs text-ink-muted mb-6">
-        <Link href="/" className="hover:text-brand transition-colors">Home</Link>
+        <Link prefetch={false} href="/" className="hover:text-brand transition-colors">Home</Link>
         <span>/</span>
-        <Link href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
+        <Link prefetch={false} href="/guide" className="hover:text-brand transition-colors">Buying Guides</Link>
         <span>/</span>
         <span className="text-ink">All Guides</span>
       </nav>
@@ -76,7 +76,7 @@ export default async function AllGuidesPage() {
             <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-2">
               {catGuides.map((guide) => (
                 <li key={guide.slug}>
-                  <Link
+                  <Link prefetch={false}
                     href={`/guide/${guide.slug}`}
                     className="text-sm text-ink-secondary hover:text-brand transition-colors leading-relaxed"
                   >

@@ -196,7 +196,7 @@ export function ProductReviewCard({
                 Check price on Amazon
               </a>
               {reviewSlug && (
-                <Link
+                <Link prefetch={false}
                   href={`/reviews/${reviewSlug}`}
                   className="text-xs font-semibold text-brand hover:text-brand-dark transition-colors"
                 >

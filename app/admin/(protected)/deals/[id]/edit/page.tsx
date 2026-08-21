@@ -18,7 +18,7 @@ export default async function EditDealPage({
   return (
     <div className="space-y-6">
       <div className="flex items-center gap-3">
-        <Link
+        <Link prefetch={false}
           href="/admin/deals"
           className="text-sm text-ink-secondary hover:text-ink transition-colors"
         >

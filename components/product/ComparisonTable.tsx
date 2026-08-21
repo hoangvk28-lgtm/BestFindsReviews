@@ -32,7 +32,7 @@ export function ComparisonTable({ products, showSpecs = false }: ComparisonTable
               <th key={p.id} className="px-4 py-3 text-center min-w-[160px]">
                 <div className="flex flex-col gap-1.5 items-center">
                   {p.badge && <Badge>{p.badge}</Badge>}
-                  <Link
+                  <Link prefetch={false}
                     href={`/reviews/${p.slug}`}
                     className="font-semibold text-ink hover:text-brand transition-colors text-xs leading-snug text-center"
                   >

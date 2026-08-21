@@ -58,7 +58,7 @@ export function ProductCard({ product, showScore = true }: ProductCardProps) {
         </div>
 
         {/* Name */}
-        <Link href={`/reviews/${product.slug}`}>
+        <Link prefetch={false} href={`/reviews/${product.slug}`}>
           <h3 className="font-bold text-ink text-base leading-snug group-hover:text-brand transition-colors">
             {product.name}
           </h3>
@@ -87,7 +87,7 @@ export function ProductCard({ product, showScore = true }: ProductCardProps) {
           <CTAButton href={product.amazonUrl} size="md" fullWidth>
             Check Price on Amazon
           </CTAButton>
-          <Link
+          <Link prefetch={false}
             href={`/reviews/${product.slug}`}
             className="text-center text-xs font-medium text-ink-muted hover:text-brand transition-colors py-1"
           >

@@ -38,7 +38,7 @@ export default function TermsOfUsePage() {
           <h2 className="text-xl font-bold text-ink mb-3">3. Affiliate Relationships</h2>
           <p>
             WorthRated participates in affiliate programs, including the Amazon Services LLC Associates Program. We may earn a commission on qualifying purchases made through links on this site, at no additional cost to you. See our{" "}
-            <Link href="/affiliate-disclosure" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Affiliate Disclosure</Link>{" "}
+            <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Affiliate Disclosure</Link>{" "}
             for details.
           </p>
         </section>
@@ -82,7 +82,7 @@ export default function TermsOfUsePage() {
           <h2 className="text-xl font-bold text-ink mb-3">9. Contact</h2>
           <p>
             Questions about these terms can be sent through our{" "}
-            <Link href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Contact page</Link>.
+            <Link prefetch={false} href="/contact" className="text-brand hover:text-brand-dark underline underline-offset-2 font-medium transition-colors">Contact page</Link>.
           </p>
         </section>
       </div>

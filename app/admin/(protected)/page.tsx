@@ -66,7 +66,7 @@ export default async function AdminDashboardPage() {
               {item.label} ↗
             </a>
           ) : (
-            <Link key={item.href} href={item.href} className={`flex items-center justify-center px-3 py-3 rounded-lg text-xs font-semibold text-center transition-colors ${item.color}`}>
+            <Link prefetch={false} key={item.href} href={item.href} className={`flex items-center justify-center px-3 py-3 rounded-lg text-xs font-semibold text-center transition-colors ${item.color}`}>
               {item.label}
             </Link>
           )
@@ -95,7 +95,7 @@ export default async function AdminDashboardPage() {
                     </div>
                     <p className={`text-xs mt-0.5 leading-relaxed ${s.text} opacity-80`}>{w.description}</p>
                   </div>
-                  <Link href={w.actionHref} className={`text-xs font-semibold shrink-0 ${s.text} hover:underline`}>
+                  <Link prefetch={false} href={w.actionHref} className={`text-xs font-semibold shrink-0 ${s.text} hover:underline`}>
                     {w.actionLabel} →
                   </Link>
                 </div>
@@ -192,7 +192,7 @@ export default async function AdminDashboardPage() {
                         {item.status && item.type !== "media" && (
                           <AdminStatusBadge status={item.status as "published" | "draft" | "active" | "inactive"} />
                         )}
-                        <Link href={editHref} className="text-xs text-ink-muted hover:text-brand transition-colors">Edit</Link>
+                        <Link prefetch={false} href={editHref} className="text-xs text-ink-muted hover:text-brand transition-colors">Edit</Link>
                         {previewHref && (
                           <a href={previewHref} target="_blank" rel="noopener noreferrer" className="text-xs text-ink-muted hover:text-brand transition-colors">↗</a>
                         )}
@@ -215,7 +215,7 @@ function StatCard({ label, value, sub, href, iconBg, iconColor, icon }: {
   label: string; value: number; sub?: string; href: string; iconBg: string; iconColor: string; icon: React.ReactNode;
 }) {
   return (
-    <Link href={href} className="group block">
+    <Link prefetch={false} href={href} className="group block">
       <AdminStatCard
         label={label}
         value={value}
@@ -233,7 +233,7 @@ function BreakdownRow({ label, total, published, draft, publishedLabel = "publis
 }) {
   return (
     <div className="flex items-center justify-between">
-      <Link href={href} className="text-sm font-medium text-ink hover:text-brand transition-colors">{label}</Link>
+      <Link prefetch={false} href={href} className="text-sm font-medium text-ink hover:text-brand transition-colors">{label}</Link>
       <div className="flex items-center gap-3 text-xs text-ink-muted">
         {total > 0 ? (
           <>

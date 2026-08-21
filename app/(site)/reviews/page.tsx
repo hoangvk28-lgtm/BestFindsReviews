@@ -55,7 +55,7 @@ export default async function ReviewsIndexPage() {
             className="group flex flex-col bg-white rounded-card border border-border hover:shadow-card-hover hover:border-brand/20 transition-all overflow-hidden"
           >
             {/* Thumbnail */}
-            <Link href={`/reviews/${product.slug}`} className="block relative w-full h-44 overflow-hidden bg-bg">
+            <Link prefetch={false} href={`/reviews/${product.slug}`} className="block relative w-full h-44 overflow-hidden bg-bg">
               {product.image ? (
                 <Image
                   src={product.image}
@@ -86,7 +86,7 @@ export default async function ReviewsIndexPage() {
 
             {/* Main content */}
             <div className="flex flex-col gap-2.5 p-5 flex-1">
-              <Link href={`/reviews/${product.slug}`}>
+              <Link prefetch={false} href={`/reviews/${product.slug}`}>
                 <h3 className="font-bold text-ink group-hover:text-brand transition-colors text-base leading-snug">
                   {product.name}
                 </h3>
@@ -117,7 +117,7 @@ export default async function ReviewsIndexPage() {
                   </div>
                   <span className="font-bold text-ink text-base">{product.priceRange}</span>
                 </div>
-                <Link
+                <Link prefetch={false}
                   href={`/reviews/${product.slug}`}
                   className="flex items-center justify-center gap-1.5 w-full py-2 rounded-lg border border-brand/30 bg-brand-light text-brand text-sm font-semibold hover:bg-brand hover:text-white transition-all"
                 >
@@ -139,7 +139,7 @@ export default async function ReviewsIndexPage() {
             <h2 id="rev-cat-other" className="text-2xl font-bold text-ink tracking-tight mb-6 sr-only">More Reviews</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {uncategorised.map((product) => (
-                <Link key={product.id} href={`/reviews/${product.slug}`}
+                <Link prefetch={false} key={product.id} href={`/reviews/${product.slug}`}
                   className="group flex flex-col bg-white rounded-card border border-border hover:shadow-card-hover hover:border-brand/20 transition-all overflow-hidden p-4">
                   <h3 className="font-bold text-ink group-hover:text-brand transition-colors text-sm">{product.name}</h3>
                   <p className="text-xs text-ink-secondary mt-1 line-clamp-2">{product.shortDescription}</p>

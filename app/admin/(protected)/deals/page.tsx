@@ -44,7 +44,7 @@ export default async function AdminDealsPage({
           <h1 className="text-2xl font-bold text-ink">Deals</h1>
           <p className="text-sm text-ink-secondary mt-0.5">{deals.length} total</p>
         </div>
-        <Link
+        <Link prefetch={false}
           href="/admin/deals/new"
           className="px-4 py-2 bg-brand text-white rounded-md text-sm font-medium hover:bg-brand-dark transition-colors"
         >
@@ -93,7 +93,7 @@ export default async function AdminDealsPage({
           Filter
         </button>
         {(q || status || section) && (
-          <Link
+          <Link prefetch={false}
             href="/admin/deals"
             className="px-4 py-2 border border-border text-ink-secondary text-sm rounded-md hover:bg-surface transition-colors"
           >
@@ -108,7 +108,7 @@ export default async function AdminDealsPage({
             {deals.length === 0 ? (
               <>
                 <p className="text-sm font-semibold text-ink-secondary">No deals yet.</p>
-                <Link href="/admin/deals/new" className="mt-3 inline-flex items-center gap-1.5 px-4 py-2 bg-brand text-white text-sm font-semibold rounded-lg hover:bg-brand-dark transition-colors">
+                <Link prefetch={false} href="/admin/deals/new" className="mt-3 inline-flex items-center gap-1.5 px-4 py-2 bg-brand text-white text-sm font-semibold rounded-lg hover:bg-brand-dark transition-colors">
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
                   Add Deal
                 </Link>
@@ -116,7 +116,7 @@ export default async function AdminDealsPage({
             ) : (
               <>
                 <p className="text-sm font-semibold text-ink-secondary">No deals match your filters.</p>
-                <Link href="/admin/deals" className="mt-2 text-xs text-brand hover:underline">Clear filters</Link>
+                <Link prefetch={false} href="/admin/deals" className="mt-2 text-xs text-brand hover:underline">Clear filters</Link>
               </>
             )}
           </div>
@@ -171,7 +171,7 @@ export default async function AdminDealsPage({
                             <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
                           </svg>
                         </a>
-                        <Link
+                        <Link prefetch={false}
                           href={`/admin/deals/${deal.id}/edit`}
                           className="px-3 py-1.5 text-sm rounded-md border border-border text-ink-secondary hover:bg-surface transition-colors"
                         >

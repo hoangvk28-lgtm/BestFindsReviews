@@ -294,7 +294,7 @@ export default function HowWeReviewPage() {
           <p className="text-sm font-semibold text-ink-secondary uppercase tracking-wide mb-3">Buying Guides</p>
           <div className="flex flex-wrap gap-2">
             {guides.map((guide) => (
-              <Link
+              <Link prefetch={false}
                 key={guide.slug}
                 href={`/guide/${guide.slug}`}
                 className="px-3 py-1.5 rounded-full border border-border bg-white text-sm text-ink-secondary hover:border-brand hover:text-brand transition-colors"
@@ -309,7 +309,7 @@ export default function HowWeReviewPage() {
           <p className="text-sm font-semibold text-ink-secondary uppercase tracking-wide mb-3">Product Categories</p>
           <div className="flex flex-wrap gap-2">
             {categories.map((cat) => (
-              <Link
+              <Link prefetch={false}
                 key={cat.slug}
                 href={`/categories/${cat.slug}`}
                 className="px-3 py-1.5 rounded-full border border-border bg-white text-sm text-ink-secondary hover:border-brand hover:text-brand transition-colors"

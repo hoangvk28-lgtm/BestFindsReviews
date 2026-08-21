@@ -106,7 +106,7 @@ export function CategoryHeroBanner({
 
         {/* Top pick bar */}
         {topProductName && topProductSlug && (
-          <Link
+          <Link prefetch={false}
             href={`/reviews/${topProductSlug}`}
             className="mt-4 flex items-center gap-3 px-4 py-3 rounded-xl transition-all hover:opacity-90 group"
             style={{ background: `${category.color}15`, border: `1px solid ${category.color}30` }}

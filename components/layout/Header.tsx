@@ -16,7 +16,7 @@ export function Header() {
       <div className="bg-brand text-ink-inverse text-xs py-1.5 px-4 flex items-center justify-center gap-2">
         <span className="opacity-90 hidden sm:inline">WorthRated earns a commission on qualifying Amazon purchases.</span>
         <span className="opacity-90 sm:hidden text-[10px] leading-tight whitespace-nowrap">Amazon affiliate links - we earn a commission.</span>
-        <Link
+        <Link prefetch={false}
           href="/affiliate-disclosure"
           className="shrink-0 font-semibold text-white bg-white/20 hover:bg-white/30 px-2 py-0.5 rounded transition-colors whitespace-nowrap"
         >
@@ -27,7 +27,7 @@ export function Header() {
       {/* Main header */}
       <Container className="flex items-center justify-between h-16 gap-4">
         {/* Logo */}
-        <Link
+        <Link prefetch={false}
           href="/"
           className="group shrink-0 focus-ring"
           aria-label="WorthRated - Home"
@@ -44,7 +44,7 @@ export function Header() {
               onMouseEnter={() => setOpenDropdown(item.label)}
               onMouseLeave={() => setOpenDropdown(null)}
             >
-              <Link
+              <Link prefetch={false}
                 href={item.href}
                 className="flex items-center gap-1 px-3 py-2 text-sm font-medium text-ink-secondary rounded-md hover:text-brand hover:bg-brand-light transition-colors focus-ring"
               >
@@ -67,7 +67,7 @@ export function Header() {
                 <div className="absolute left-0 top-full pt-1 w-64 z-50">
                   <div className="bg-white rounded-xl shadow-card-hover border border-border py-2">
                     {item.children.map((child) => (
-                      <Link
+                      <Link prefetch={false}
                         key={child.href}
                         href={child.href}
                         className="block px-4 py-2.5 hover:bg-bg transition-colors focus-ring"
@@ -91,7 +91,7 @@ export function Header() {
 
         {/* Right actions */}
         <div className="flex items-center gap-3">
-          <Link
+          <Link prefetch={false}
             href="/deals"
             className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold bg-accent-light text-accent-dark rounded-full border border-accent/30 hover:bg-accent hover:text-white transition-colors"
           >
@@ -125,7 +125,7 @@ export function Header() {
           <nav className="max-w-7xl mx-auto px-4 py-3 flex flex-col gap-1">
             {mainNav.map((item) => (
               <div key={item.label}>
-                <Link
+                <Link prefetch={false}
                   href={item.href}
                   onClick={() => setMobileOpen(false)}
                   className="block px-3 py-2.5 text-sm font-semibold text-ink rounded-md hover:bg-bg transition-colors"
@@ -135,7 +135,7 @@ export function Header() {
                 {item.children && (
                   <div className="pl-4 flex flex-col gap-0.5 mb-2">
                     {item.children.map((child) => (
-                      <Link
+                      <Link prefetch={false}
                         key={child.href}
                         href={child.href}
                         onClick={() => setMobileOpen(false)}
@@ -149,7 +149,7 @@ export function Header() {
               </div>
             ))}
             <div className="pt-2 border-t border-border mt-1">
-              <Link
+              <Link prefetch={false}
                 href="/deals"
                 onClick={() => setMobileOpen(false)}
                 className="flex items-center gap-2 px-3 py-2 text-sm font-semibold text-accent-dark hover:bg-accent-light rounded-md transition-colors"

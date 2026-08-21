@@ -43,7 +43,7 @@ export function SectionHeader({
           {title}
         </h2>
         {href && !centered && (
-          <Link
+          <Link prefetch={false}
             href={href}
             className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors shrink-0 flex items-center gap-1"
           >
@@ -60,7 +60,7 @@ export function SectionHeader({
         </p>
       )}
       {href && centered && (
-        <Link
+        <Link prefetch={false}
           href={href}
           className="mt-2 text-sm font-semibold text-brand hover:text-brand-dark transition-colors flex items-center gap-1"
         >

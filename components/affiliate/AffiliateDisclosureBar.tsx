@@ -36,7 +36,7 @@ export function AffiliateDisclosureBar({
         <p className="text-xs sm:text-sm text-brand leading-relaxed">
           <span className="font-semibold">Affiliate Disclosure:</span>{" "}
           We may earn a small commission on qualifying Amazon purchases at no extra cost to you.{" "}
-          <Link
+          <Link prefetch={false}
             href="/affiliate-disclosure"
             className="font-semibold underline underline-offset-2 hover:no-underline whitespace-nowrap"
           >
@@ -50,7 +50,7 @@ export function AffiliateDisclosureBar({
   return (
     <p className={clsx("text-xs text-ink-muted", className)}>
       {text}{" "}
-      <Link
+      <Link prefetch={false}
         href="/affiliate-disclosure"
         className="underline underline-offset-2 hover:text-brand transition-colors"
       >

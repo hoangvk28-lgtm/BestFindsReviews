@@ -102,10 +102,10 @@ export default function ContactPage() {
           <div>
             <p className="text-xs font-bold uppercase tracking-widest text-ink-muted mb-3">Useful Pages</p>
             <ul className="space-y-1.5 text-sm">
-              <li><Link href="/how-we-review" className="text-brand hover:text-brand-dark transition-colors font-medium">How We Review Products →</Link></li>
-              <li><Link href="/affiliate-disclosure" className="text-brand hover:text-brand-dark transition-colors font-medium">Affiliate Disclosure →</Link></li>
-              <li><Link href="/about-worthrated" className="text-brand hover:text-brand-dark transition-colors font-medium">About WorthRated →</Link></li>
-              <li><Link href="/privacy-policy" className="text-brand hover:text-brand-dark transition-colors font-medium">Privacy Policy →</Link></li>
+              <li><Link prefetch={false} href="/how-we-review" className="text-brand hover:text-brand-dark transition-colors font-medium">How We Review Products →</Link></li>
+              <li><Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:text-brand-dark transition-colors font-medium">Affiliate Disclosure →</Link></li>
+              <li><Link prefetch={false} href="/about-worthrated" className="text-brand hover:text-brand-dark transition-colors font-medium">About WorthRated →</Link></li>
+              <li><Link prefetch={false} href="/privacy-policy" className="text-brand hover:text-brand-dark transition-colors font-medium">Privacy Policy →</Link></li>
             </ul>
           </div>
         </div>

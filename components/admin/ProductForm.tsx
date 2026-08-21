@@ -468,7 +468,7 @@ export function ProductForm({ action, product, mode }: ProductFormProps) {
 
       {/* ── Submit ────────────────────────────────────────────────────────── */}
       <div className="flex items-center justify-between gap-4 py-2">
-        <Link
+        <Link prefetch={false}
           href="/admin/products"
           className="px-4 py-2 text-sm font-semibold text-gray-600 hover:text-gray-900 transition-colors"
         >

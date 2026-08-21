@@ -217,7 +217,7 @@ export default async function DealsPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {featuredGuides.map((guide) => (
-              <Link
+              <Link prefetch={false}
                 key={guide.slug}
                 href={`/guide/${guide.slug}`}
                 className="group flex flex-col gap-2 p-4 rounded-card border border-border bg-white hover:border-brand/40 hover:shadow-sm transition-all"
@@ -240,7 +240,7 @@ export default async function DealsPage() {
           </div>
 
           <div className="mt-6 text-center">
-            <Link
+            <Link prefetch={false}
               href="/guide"
               className="inline-flex items-center gap-1 text-sm font-semibold text-brand hover:text-brand-dark transition-colors"
             >

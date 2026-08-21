@@ -52,7 +52,7 @@ export function CategoryGrid() {
               className="group flex flex-col gap-3 p-5 bg-white rounded-card border border-border border-t-4 border-t-transparent min-w-0 hover:shadow-card-hover hover:border-transparent hover:translate-y-[-2px] transition-all"
               style={{ borderTopColor: cat.color }}
             >
-              <Link href={`/categories/${cat.slug}`} className="flex flex-col gap-3 focus-ring rounded-lg">
+              <Link prefetch={false} href={`/categories/${cat.slug}`} className="flex flex-col gap-3 focus-ring rounded-lg">
                 {/* Icon */}
                 <div
                   className="flex items-center justify-center w-12 h-12 rounded-lg text-white transition-transform group-hover:scale-110"
