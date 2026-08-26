@@ -492,6 +492,23 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-digital-radios-with-remote-controls": () => import("./guides/best-digital-radios-with-remote-controls"),
   "best-outdoor-digital-radios": () => import("./guides/best-outdoor-digital-radios"),
   "best-wi-fi-digital-radios": () => import("./guides/best-wi-fi-digital-radios"),
+  "best-emergency-radios": () => import("./guides/best-emergency-radios"),
+  "best-midland-emergency-radios": () => import("./guides/best-midland-emergency-radios"),
+  "best-weather-emergency-radios": () => import("./guides/best-weather-emergency-radios"),
+  "best-hand-crank-emergency-radios": () => import("./guides/best-hand-crank-emergency-radios"),
+  "best-portable-emergency-radios": () => import("./guides/best-portable-emergency-radios"),
+  "best-solar-emergency-radios": () => import("./guides/best-solar-emergency-radios"),
+  "best-noaa-emergency-radios": () => import("./guides/best-noaa-emergency-radios"),
+  "best-emergency-radios-for-seniors": () => import("./guides/best-emergency-radios-for-seniors"),
+  "best-emergency-radio-beacons": () => import("./guides/best-emergency-radio-beacons"),
+  "best-eton-emergency-radios": () => import("./guides/best-eton-emergency-radios"),
+  "best-battery-powered-emergency-radios": () => import("./guides/best-battery-powered-emergency-radios"),
+  "best-raynic-emergency-radios": () => import("./guides/best-raynic-emergency-radios"),
+  "best-fospower-emergency-radios": () => import("./guides/best-fospower-emergency-radios"),
+  "best-emergency-radios-with-flashlights": () => import("./guides/best-emergency-radios-with-flashlights"),
+  "best-am-fm-noaa-emergency-radios": () => import("./guides/best-am-fm-noaa-emergency-radios"),
+  "best-emergency-radios-with-phone-chargers": () => import("./guides/best-emergency-radios-with-phone-chargers"),
+  "best-waterproof-emergency-radios": () => import("./guides/best-waterproof-emergency-radios"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
