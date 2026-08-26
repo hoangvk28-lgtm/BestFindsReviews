@@ -417,6 +417,22 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-medical-alert-watches": () => import("./guides/best-medical-alert-watches"),
   "best-landline-medical-alert-systems": () => import("./guides/best-landline-medical-alert-systems"),
   "best-medical-alert-systems-for-couples": () => import("./guides/best-medical-alert-systems-for-couples"),
+  "best-roku-voice-remote-pro-models": () => import("./guides/best-roku-voice-remote-pro-models"),
+  "best-xfinity-voice-remotes": () => import("./guides/best-xfinity-voice-remotes"),
+  "best-verizon-fios-voice-remotes": () => import("./guides/best-verizon-fios-voice-remotes"),
+  "best-alexa-voice-remotes": () => import("./guides/best-alexa-voice-remotes"),
+  "best-fire-tv-alexa-voice-remotes": () => import("./guides/best-fire-tv-alexa-voice-remotes"),
+  "best-large-button-xfinity-voice-remotes": () => import("./guides/best-large-button-xfinity-voice-remotes"),
+  "best-universal-voice-remotes": () => import("./guides/best-universal-voice-remotes"),
+  "best-voice-remotes-for-seniors": () => import("./guides/best-voice-remotes-for-seniors"),
+  "best-voice-remotes-for-tvs": () => import("./guides/best-voice-remotes-for-tvs"),
+  "best-vizio-voice-remotes": () => import("./guides/best-vizio-voice-remotes"),
+  "best-samsung-tv-voice-remotes": () => import("./guides/best-samsung-tv-voice-remotes"),
+  "best-google-tv-voice-remotes": () => import("./guides/best-google-tv-voice-remotes"),
+  "best-dish-voice-remotes": () => import("./guides/best-dish-voice-remotes"),
+  "best-lg-voice-remotes": () => import("./guides/best-lg-voice-remotes"),
+  "best-voice-remotes-for-smart-tvs": () => import("./guides/best-voice-remotes-for-smart-tvs"),
+  "best-directv-voice-remotes": () => import("./guides/best-directv-voice-remotes"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
