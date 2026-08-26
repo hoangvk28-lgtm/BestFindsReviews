@@ -138,6 +138,55 @@ export async function getItemsBatched(asins: string[]): Promise<CreatorsApiItem[
   return results;
 }
 
+interface SearchItemsResponse {
+  searchResult?: {
+    items: CreatorsApiItem[];
+  };
+  errors?: Array<{ code: string; message: string }>;
+}
+
+// Keyword search — discovers real, currently-listed ASINs instead of guessing.
+export async function searchItems(
+  keywords: string,
+  opts: { itemCount?: number; searchIndex?: string } = {}
+): Promise<CreatorsApiItem[]> {
+  const token = await getAccessToken();
+
+  const res = await fetch(`${API_BASE}/catalog/v1/searchItems`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+      "x-marketplace": MARKETPLACE,
+    },
+    body: JSON.stringify({
+      keywords,
+      searchIndex: opts.searchIndex ?? "All",
+      itemCount: opts.itemCount ?? 10,
+      marketplace: MARKETPLACE,
+      partnerTag: PARTNER_TAG,
+      resources: [
+        "images.primary.large",
+        "itemInfo.title",
+        "offersV2.listings.price",
+        "customerReviews.starRating",
+        "customerReviews.count",
+      ],
+    }),
+  });
+
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`Creators API searchItems failed (${res.status}): ${text}`);
+  }
+
+  const json = (await res.json()) as SearchItemsResponse;
+  if (json.errors?.length) {
+    throw new Error(`Creators API returned errors: ${JSON.stringify(json.errors)}`);
+  }
+  return json.searchResult?.items ?? [];
+}
+
 export function extractAsinFromAmazonUrl(amazonUrl: string): string | null {
   const match = amazonUrl.match(/\/dp\/([A-Z0-9]{10})/);
   return match ? match[1] : null;

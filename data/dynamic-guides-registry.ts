@@ -382,6 +382,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-shark-upright-vacuums": () => import("./guides/best-shark-upright-vacuums"),
   "best-dyson-upright-vacuums": () => import("./guides/best-dyson-upright-vacuums"),
   "best-bissell-upright-vacuums": () => import("./guides/best-bissell-upright-vacuums"),
+  "best-chromebooks": () => import("./guides/best-chromebooks"),
+  "best-medical-alert-systems-for-seniors": () => import("./guides/best-medical-alert-systems-for-seniors"),
+  "best-roku-voice-remotes": () => import("./guides/best-roku-voice-remotes"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
