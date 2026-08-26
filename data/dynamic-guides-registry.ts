@@ -509,6 +509,22 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-am-fm-noaa-emergency-radios": () => import("./guides/best-am-fm-noaa-emergency-radios"),
   "best-emergency-radios-with-phone-chargers": () => import("./guides/best-emergency-radios-with-phone-chargers"),
   "best-waterproof-emergency-radios": () => import("./guides/best-waterproof-emergency-radios"),
+  "best-landline-phones": () => import("./guides/best-landline-phones"),
+  "best-bluetooth-landline-phones": () => import("./guides/best-bluetooth-landline-phones"),
+  "best-corded-landline-phones": () => import("./guides/best-corded-landline-phones"),
+  "best-cordless-landline-phones": () => import("./guides/best-cordless-landline-phones"),
+  "best-landline-phones-for-seniors": () => import("./guides/best-landline-phones-for-seniors"),
+  "best-landline-phones-with-answering-machines": () => import("./guides/best-landline-phones-with-answering-machines"),
+  "best-big-button-landline-phones": () => import("./guides/best-big-button-landline-phones"),
+  "best-amplified-landline-phones": () => import("./guides/best-amplified-landline-phones"),
+  "best-landline-phones-with-call-blocking": () => import("./guides/best-landline-phones-with-call-blocking"),
+  "cheapest-landline-phone-service": () => import("./guides/cheapest-landline-phone-service"),
+  "best-landline-phone-service-for-seniors": () => import("./guides/best-landline-phone-service-for-seniors"),
+  "best-retro-landline-phones": () => import("./guides/best-retro-landline-phones"),
+  "best-wi-fi-landline-phones": () => import("./guides/best-wi-fi-landline-phones"),
+  "best-landline-phones-with-large-displays": () => import("./guides/best-landline-phones-with-large-displays"),
+  "best-landline-phones-for-power-outages": () => import("./guides/best-landline-phones-for-power-outages"),
+  "best-at-and-t-landline-phones": () => import("./guides/best-at-and-t-landline-phones"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
