@@ -460,6 +460,23 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-chromebooks-for-simple-home-use": () => import("./guides/best-chromebooks-for-simple-home-use"),
   "best-large-screen-chromebooks": () => import("./guides/best-large-screen-chromebooks"),
   "best-chromebooks-with-keyboards-for-seniors": () => import("./guides/best-chromebooks-with-keyboards-for-seniors"),
+  "best-ecobee-smart-thermostats": () => import("./guides/best-ecobee-smart-thermostats"),
+  "best-amazon-smart-thermostats": () => import("./guides/best-amazon-smart-thermostats"),
+  "best-honeywell-smart-thermostats": () => import("./guides/best-honeywell-smart-thermostats"),
+  "best-smart-thermostats": () => import("./guides/best-smart-thermostats"),
+  "best-smart-thermostats-for-home": () => import("./guides/best-smart-thermostats-for-home"),
+  "best-google-nest-smart-thermostats": () => import("./guides/best-google-nest-smart-thermostats"),
+  "best-sensi-smart-thermostats": () => import("./guides/best-sensi-smart-thermostats"),
+  "best-wi-fi-smart-thermostats": () => import("./guides/best-wi-fi-smart-thermostats"),
+  "best-smart-thermostats-without-a-c-wire": () => import("./guides/best-smart-thermostats-without-a-c-wire"),
+  "best-programmable-smart-thermostats": () => import("./guides/best-programmable-smart-thermostats"),
+  "ecobee-vs-nest-smart-thermostats": () => import("./guides/ecobee-vs-nest-smart-thermostats"),
+  "best-smart-thermostats-for-seniors": () => import("./guides/best-smart-thermostats-for-seniors"),
+  "best-lennox-smart-thermostats": () => import("./guides/best-lennox-smart-thermostats"),
+  "best-carrier-smart-thermostats": () => import("./guides/best-carrier-smart-thermostats"),
+  "best-smart-thermostats-for-heat-pumps": () => import("./guides/best-smart-thermostats-for-heat-pumps"),
+  "best-smart-thermostats-for-apartments": () => import("./guides/best-smart-thermostats-for-apartments"),
+  "best-smart-thermostats-with-large-displays": () => import("./guides/best-smart-thermostats-with-large-displays"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
