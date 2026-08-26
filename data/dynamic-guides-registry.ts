@@ -562,6 +562,16 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-8-device-universal-remotes": () => import("./guides/best-8-device-universal-remotes"),
   "best-backlit-universal-remotes": () => import("./guides/best-backlit-universal-remotes"),
   "best-learning-universal-remotes": () => import("./guides/best-learning-universal-remotes"),
+  "best-big-button-tv-remotes": () => import("./guides/best-big-button-tv-remotes"),
+  "best-big-button-universal-tv-remotes": () => import("./guides/best-big-button-universal-tv-remotes"),
+  "best-flipper-big-button-tv-remotes": () => import("./guides/best-flipper-big-button-tv-remotes"),
+  "best-big-button-tv-remotes-for-seniors": () => import("./guides/best-big-button-tv-remotes-for-seniors"),
+  "best-big-button-tv-remotes-for-visually-impaired-users": () => import("./guides/best-big-button-tv-remotes-for-visually-impaired-users"),
+  "best-ge-big-button-universal-remotes": () => import("./guides/best-ge-big-button-universal-remotes"),
+  "best-ezclicker-big-button-tv-remotes": () => import("./guides/best-ezclicker-big-button-tv-remotes"),
+  "best-big-button-roku-tv-remotes": () => import("./guides/best-big-button-roku-tv-remotes"),
+  "best-few-button-tv-remotes": () => import("./guides/best-few-button-tv-remotes"),
+  "best-big-button-samsung-tv-remotes": () => import("./guides/best-big-button-samsung-tv-remotes"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
