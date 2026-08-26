@@ -433,6 +433,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-lg-voice-remotes": () => import("./guides/best-lg-voice-remotes"),
   "best-voice-remotes-for-smart-tvs": () => import("./guides/best-voice-remotes-for-smart-tvs"),
   "best-directv-voice-remotes": () => import("./guides/best-directv-voice-remotes"),
+  "best-simple-laptops": () => import("./guides/best-simple-laptops"),
+  "best-simple-laptops-for-seniors": () => import("./guides/best-simple-laptops-for-seniors"),
+  "best-simple-laptops-for-home-use": () => import("./guides/best-simple-laptops-for-home-use"),
+  "best-small-simple-laptops": () => import("./guides/best-small-simple-laptops"),
+  "best-touchscreen-simple-laptops": () => import("./guides/best-touchscreen-simple-laptops"),
+  "best-dell-simple-laptops": () => import("./guides/best-dell-simple-laptops"),
+  "best-hp-simple-laptops": () => import("./guides/best-hp-simple-laptops"),
+  "best-simple-laptops-for-students": () => import("./guides/best-simple-laptops-for-students"),
+  "best-simple-laptops-for-writing": () => import("./guides/best-simple-laptops-for-writing"),
+  "best-budget-simple-laptops": () => import("./guides/best-budget-simple-laptops"),
+  "best-simple-laptops-for-office-work": () => import("./guides/best-simple-laptops-for-office-work"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
