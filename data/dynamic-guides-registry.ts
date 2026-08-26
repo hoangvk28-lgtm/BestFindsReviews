@@ -477,6 +477,21 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-smart-thermostats-for-heat-pumps": () => import("./guides/best-smart-thermostats-for-heat-pumps"),
   "best-smart-thermostats-for-apartments": () => import("./guides/best-smart-thermostats-for-apartments"),
   "best-smart-thermostats-with-large-displays": () => import("./guides/best-smart-thermostats-with-large-displays"),
+  "best-digital-radios": () => import("./guides/best-digital-radios"),
+  "best-digital-radios-with-clocks": () => import("./guides/best-digital-radios-with-clocks"),
+  "best-portable-digital-radios": () => import("./guides/best-portable-digital-radios"),
+  "best-digital-radio-alarm-clocks": () => import("./guides/best-digital-radio-alarm-clocks"),
+  "best-am-fm-digital-radios": () => import("./guides/best-am-fm-digital-radios"),
+  "best-bluetooth-digital-radios": () => import("./guides/best-bluetooth-digital-radios"),
+  "best-digital-radios-for-seniors": () => import("./guides/best-digital-radios-for-seniors"),
+  "best-easy-to-use-digital-radios": () => import("./guides/best-easy-to-use-digital-radios"),
+  "best-jensen-digital-radios": () => import("./guides/best-jensen-digital-radios"),
+  "best-mini-digital-radios": () => import("./guides/best-mini-digital-radios"),
+  "best-sangean-digital-radios": () => import("./guides/best-sangean-digital-radios"),
+  "best-digital-radios-with-cd-players": () => import("./guides/best-digital-radios-with-cd-players"),
+  "best-digital-radios-with-remote-controls": () => import("./guides/best-digital-radios-with-remote-controls"),
+  "best-outdoor-digital-radios": () => import("./guides/best-outdoor-digital-radios"),
+  "best-wi-fi-digital-radios": () => import("./guides/best-wi-fi-digital-radios"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
