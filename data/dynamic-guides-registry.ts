@@ -444,6 +444,22 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-simple-laptops-for-writing": () => import("./guides/best-simple-laptops-for-writing"),
   "best-budget-simple-laptops": () => import("./guides/best-budget-simple-laptops"),
   "best-simple-laptops-for-office-work": () => import("./guides/best-simple-laptops-for-office-work"),
+  "best-acer-chromebooks": () => import("./guides/best-acer-chromebooks"),
+  "best-dell-chromebooks": () => import("./guides/best-dell-chromebooks"),
+  "best-hp-chromebooks": () => import("./guides/best-hp-chromebooks"),
+  "best-lenovo-chromebooks": () => import("./guides/best-lenovo-chromebooks"),
+  "best-chromebook-plus-laptops": () => import("./guides/best-chromebook-plus-laptops"),
+  "best-samsung-chromebooks": () => import("./guides/best-samsung-chromebooks"),
+  "best-touchscreen-chromebooks": () => import("./guides/best-touchscreen-chromebooks"),
+  "best-asus-chromebooks": () => import("./guides/best-asus-chromebooks"),
+  "best-14-inch-chromebooks": () => import("./guides/best-14-inch-chromebooks"),
+  "best-budget-chromebooks": () => import("./guides/best-budget-chromebooks"),
+  "best-2-in-1-chromebooks": () => import("./guides/best-2-in-1-chromebooks"),
+  "best-chromebooks-for-seniors": () => import("./guides/best-chromebooks-for-seniors"),
+  "best-11-inch-chromebooks": () => import("./guides/best-11-inch-chromebooks"),
+  "best-chromebooks-for-simple-home-use": () => import("./guides/best-chromebooks-for-simple-home-use"),
+  "best-large-screen-chromebooks": () => import("./guides/best-large-screen-chromebooks"),
+  "best-chromebooks-with-keyboards-for-seniors": () => import("./guides/best-chromebooks-with-keyboards-for-seniors"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
