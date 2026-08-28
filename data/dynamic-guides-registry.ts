@@ -706,6 +706,20 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-rain-bird-watering-timers": () => import("./guides/best-rain-bird-watering-timers"),
   "best-rain-delay-watering-timers": () => import("./guides/best-rain-delay-watering-timers"),
   "best-watering-timers": () => import("./guides/best-watering-timers"),
+  "best-cedar-raised-planters": () => import("./guides/best-cedar-raised-planters"),
+  "best-elevated-raised-planters": () => import("./guides/best-elevated-raised-planters"),
+  "best-metal-raised-planters": () => import("./guides/best-metal-raised-planters"),
+  "best-narrow-raised-planters": () => import("./guides/best-narrow-raised-planters"),
+  "best-plastic-raised-planters": () => import("./guides/best-plastic-raised-planters"),
+  "best-raised-planter-boxes": () => import("./guides/best-raised-planter-boxes"),
+  "best-raised-planters-for-patios": () => import("./guides/best-raised-planters-for-patios"),
+  "best-raised-planters-for-seniors": () => import("./guides/best-raised-planters-for-seniors"),
+  "best-raised-planters-for-vegetables": () => import("./guides/best-raised-planters-for-vegetables"),
+  "best-raised-planters-with-trellises": () => import("./guides/best-raised-planters-with-trellises"),
+  "best-raised-planters-with-wheels": () => import("./guides/best-raised-planters-with-wheels"),
+  "best-raised-planters": () => import("./guides/best-raised-planters"),
+  "best-self-watering-raised-planters": () => import("./guides/best-self-watering-raised-planters"),
+  "best-wooden-raised-planters": () => import("./guides/best-wooden-raised-planters"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
