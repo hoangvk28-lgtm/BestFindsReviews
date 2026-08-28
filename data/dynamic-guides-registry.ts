@@ -693,6 +693,19 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-lightweight-cordless-grass-shears": () => import("./guides/best-lightweight-cordless-grass-shears"),
   "best-makita-cordless-grass-shears": () => import("./guides/best-makita-cordless-grass-shears"),
   "best-ryobi-cordless-grass-shears": () => import("./guides/best-ryobi-cordless-grass-shears"),
+  "best-2-outlet-watering-timers": () => import("./guides/best-2-outlet-watering-timers"),
+  "best-4-outlet-watering-timers": () => import("./guides/best-4-outlet-watering-timers"),
+  "best-battery-operated-watering-timers": () => import("./guides/best-battery-operated-watering-timers"),
+  "best-digital-watering-timers": () => import("./guides/best-digital-watering-timers"),
+  "best-easy-to-use-watering-timers-for-seniors": () => import("./guides/best-easy-to-use-watering-timers-for-seniors"),
+  "best-garden-watering-timers": () => import("./guides/best-garden-watering-timers"),
+  "best-hose-watering-timers": () => import("./guides/best-hose-watering-timers"),
+  "best-mechanical-watering-timers": () => import("./guides/best-mechanical-watering-timers"),
+  "best-melnor-watering-timers": () => import("./guides/best-melnor-watering-timers"),
+  "best-orbit-watering-timers": () => import("./guides/best-orbit-watering-timers"),
+  "best-rain-bird-watering-timers": () => import("./guides/best-rain-bird-watering-timers"),
+  "best-rain-delay-watering-timers": () => import("./guides/best-rain-delay-watering-timers"),
+  "best-watering-timers": () => import("./guides/best-watering-timers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
