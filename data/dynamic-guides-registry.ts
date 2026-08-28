@@ -729,6 +729,19 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-lightweight-garden-stools": () => import("./guides/best-lightweight-garden-stools"),
   "best-rolling-garden-stools": () => import("./guides/best-rolling-garden-stools"),
   "best-swivel-garden-stools": () => import("./guides/best-swivel-garden-stools"),
+  "best-abco-tech-garden-kneelers": () => import("./guides/best-abco-tech-garden-kneelers"),
+  "best-extra-wide-garden-kneelers": () => import("./guides/best-extra-wide-garden-kneelers"),
+  "best-folding-garden-kneelers": () => import("./guides/best-folding-garden-kneelers"),
+  "best-garden-kneeler-benches": () => import("./guides/best-garden-kneeler-benches"),
+  "best-garden-kneeler-seats": () => import("./guides/best-garden-kneeler-seats"),
+  "best-garden-kneelers-for-seniors": () => import("./guides/best-garden-kneelers-for-seniors"),
+  "best-garden-kneelers-with-handles": () => import("./guides/best-garden-kneelers-with-handles"),
+  "best-garden-kneelers-with-tool-pouches": () => import("./guides/best-garden-kneelers-with-tool-pouches"),
+  "best-garden-kneelers": () => import("./guides/best-garden-kneelers"),
+  "best-heavy-duty-garden-kneelers": () => import("./guides/best-heavy-duty-garden-kneelers"),
+  "best-ohuhu-garden-kneelers": () => import("./guides/best-ohuhu-garden-kneelers"),
+  "best-padded-garden-kneelers": () => import("./guides/best-padded-garden-kneelers"),
+  "best-vevor-garden-kneelers": () => import("./guides/best-vevor-garden-kneelers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
