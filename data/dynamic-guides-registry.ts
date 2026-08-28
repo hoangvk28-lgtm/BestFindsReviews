@@ -674,6 +674,13 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-garden-sprayers-with-long-wands": () => import("./guides/best-garden-sprayers-with-long-wands"),
   "best-lightweight-garden-sprayers": () => import("./guides/best-lightweight-garden-sprayers"),
   "best-wheeled-garden-sprayers": () => import("./guides/best-wheeled-garden-sprayers"),
+  "best-1500w-electric-weed-burners": () => import("./guides/best-1500w-electric-weed-burners"),
+  "best-2000w-electric-weed-burners": () => import("./guides/best-2000w-electric-weed-burners"),
+  "best-electric-weed-burner-torches": () => import("./guides/best-electric-weed-burner-torches"),
+  "best-electric-weed-burners-for-driveways": () => import("./guides/best-electric-weed-burners-for-driveways"),
+  "best-electric-weed-burners-for-seniors": () => import("./guides/best-electric-weed-burners-for-seniors"),
+  "best-electric-weed-burners": () => import("./guides/best-electric-weed-burners"),
+  "best-long-handled-electric-weed-burners": () => import("./guides/best-long-handled-electric-weed-burners"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
