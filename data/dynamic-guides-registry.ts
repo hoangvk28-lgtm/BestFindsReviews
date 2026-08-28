@@ -681,6 +681,18 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-electric-weed-burners-for-seniors": () => import("./guides/best-electric-weed-burners-for-seniors"),
   "best-electric-weed-burners": () => import("./guides/best-electric-weed-burners"),
   "best-long-handled-electric-weed-burners": () => import("./guides/best-long-handled-electric-weed-burners"),
+  "best-18v-cordless-grass-shears": () => import("./guides/best-18v-cordless-grass-shears"),
+  "best-20v-cordless-grass-shears": () => import("./guides/best-20v-cordless-grass-shears"),
+  "best-black-decker-cordless-grass-shears": () => import("./guides/best-black-decker-cordless-grass-shears"),
+  "best-cordless-grass-and-shrub-shears": () => import("./guides/best-cordless-grass-and-shrub-shears"),
+  "best-cordless-grass-shears-for-seniors": () => import("./guides/best-cordless-grass-shears-for-seniors"),
+  "best-cordless-grass-shears-with-batteries-and-chargers": () => import("./guides/best-cordless-grass-shears-with-batteries-and-chargers"),
+  "best-cordless-grass-shears-with-extension-handles": () => import("./guides/best-cordless-grass-shears-with-extension-handles"),
+  "best-cordless-grass-shears": () => import("./guides/best-cordless-grass-shears"),
+  "best-dewalt-cordless-grass-shears": () => import("./guides/best-dewalt-cordless-grass-shears"),
+  "best-lightweight-cordless-grass-shears": () => import("./guides/best-lightweight-cordless-grass-shears"),
+  "best-makita-cordless-grass-shears": () => import("./guides/best-makita-cordless-grass-shears"),
+  "best-ryobi-cordless-grass-shears": () => import("./guides/best-ryobi-cordless-grass-shears"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
