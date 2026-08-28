@@ -663,6 +663,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-garden-sprayers": () => import("./guides/best-garden-sprayers"),
   "best-hose-end-garden-sprayers": () => import("./guides/best-hose-end-garden-sprayers"),
   "best-pump-garden-sprayers": () => import("./guides/best-pump-garden-sprayers"),
+  "best-1-gallon-garden-sprayers": () => import("./guides/best-1-gallon-garden-sprayers"),
+  "best-2-gallon-garden-sprayers": () => import("./guides/best-2-gallon-garden-sprayers"),
+  "best-4-gallon-garden-sprayers": () => import("./guides/best-4-gallon-garden-sprayers"),
+  "best-backpack-garden-sprayers": () => import("./guides/best-backpack-garden-sprayers"),
+  "best-battery-powered-garden-sprayers": () => import("./guides/best-battery-powered-garden-sprayers"),
+  "best-garden-sprayers-for-fertilizer": () => import("./guides/best-garden-sprayers-for-fertilizer"),
+  "best-garden-sprayers-for-seniors": () => import("./guides/best-garden-sprayers-for-seniors"),
+  "best-garden-sprayers-for-weed-killer": () => import("./guides/best-garden-sprayers-for-weed-killer"),
+  "best-garden-sprayers-with-long-wands": () => import("./guides/best-garden-sprayers-with-long-wands"),
+  "best-lightweight-garden-sprayers": () => import("./guides/best-lightweight-garden-sprayers"),
+  "best-wheeled-garden-sprayers": () => import("./guides/best-wheeled-garden-sprayers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
