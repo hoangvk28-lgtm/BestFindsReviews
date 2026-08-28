@@ -660,6 +660,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-smart-digital-calendars": () => import("./guides/best-smart-digital-calendars"),
   "best-touchscreen-digital-calendars": () => import("./guides/best-touchscreen-digital-calendars"),
   "best-wall-mounted-digital-calendars": () => import("./guides/best-wall-mounted-digital-calendars"),
+  "best-garden-sprayers": () => import("./guides/best-garden-sprayers"),
+  "best-hose-end-garden-sprayers": () => import("./guides/best-hose-end-garden-sprayers"),
+  "best-pump-garden-sprayers": () => import("./guides/best-pump-garden-sprayers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
