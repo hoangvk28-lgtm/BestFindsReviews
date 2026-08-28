@@ -720,6 +720,15 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-raised-planters": () => import("./guides/best-raised-planters"),
   "best-self-watering-raised-planters": () => import("./guides/best-self-watering-raised-planters"),
   "best-wooden-raised-planters": () => import("./guides/best-wooden-raised-planters"),
+  "best-adjustable-height-garden-stools": () => import("./guides/best-adjustable-height-garden-stools"),
+  "best-garden-stools-for-gardening": () => import("./guides/best-garden-stools-for-gardening"),
+  "best-garden-stools-for-seniors": () => import("./guides/best-garden-stools-for-seniors"),
+  "best-garden-stools-with-backrests": () => import("./guides/best-garden-stools-with-backrests"),
+  "best-garden-stools-with-storage": () => import("./guides/best-garden-stools-with-storage"),
+  "best-heavy-duty-garden-stools": () => import("./guides/best-heavy-duty-garden-stools"),
+  "best-lightweight-garden-stools": () => import("./guides/best-lightweight-garden-stools"),
+  "best-rolling-garden-stools": () => import("./guides/best-rolling-garden-stools"),
+  "best-swivel-garden-stools": () => import("./guides/best-swivel-garden-stools"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
