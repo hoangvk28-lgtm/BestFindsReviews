@@ -844,6 +844,8 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-hunter-smart-sprinkler-controllers": () => import("./guides/best-hunter-smart-sprinkler-controllers"),
   "best-orbit-b-hyve-smart-sprinkler-controllers": () => import("./guides/best-orbit-b-hyve-smart-sprinkler-controllers"),
   "best-8-zone-smart-sprinkler-controllers": () => import("./guides/best-8-zone-smart-sprinkler-controllers"),
+  "best-12-zone-smart-sprinkler-controllers": () => import("./guides/best-12-zone-smart-sprinkler-controllers"),
+  "best-moen-smart-sprinkler-controllers": () => import("./guides/best-moen-smart-sprinkler-controllers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
