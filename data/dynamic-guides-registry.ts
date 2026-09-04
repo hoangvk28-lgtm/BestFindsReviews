@@ -855,6 +855,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-smart-sprinkler-controllers-without-subscriptions": () => import("./guides/best-smart-sprinkler-controllers-without-subscriptions"),
   "best-battery-backpack-sprayers": () => import("./guides/best-battery-backpack-sprayers"),
   "best-4-gallon-battery-backpack-sprayers": () => import("./guides/best-4-gallon-battery-backpack-sprayers"),
+  "best-dewalt-compatible-battery-sprayers": () => import("./guides/best-dewalt-compatible-battery-sprayers"),
+  "best-wheeled-battery-garden-sprayers": () => import("./guides/best-wheeled-battery-garden-sprayers"),
+  "best-battery-garden-sprayers-for-seniors": () => import("./guides/best-battery-garden-sprayers-for-seniors"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
