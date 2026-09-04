@@ -867,6 +867,10 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-ryobi-compatible-battery-sprayers": () => import("./guides/best-ryobi-compatible-battery-sprayers"),
   "best-electric-tillers": () => import("./guides/best-electric-tillers"),
   "best-sun-joe-electric-tillers": () => import("./guides/best-sun-joe-electric-tillers"),
+  "best-cordless-electric-tillers": () => import("./guides/best-cordless-electric-tillers"),
+  "best-corded-electric-tillers": () => import("./guides/best-corded-electric-tillers"),
+  "best-ryobi-electric-tillers": () => import("./guides/best-ryobi-electric-tillers"),
+  "best-small-electric-tillers": () => import("./guides/best-small-electric-tillers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
