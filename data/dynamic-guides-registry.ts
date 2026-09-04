@@ -791,6 +791,11 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-corded-landline-phones-for-seniors-under-40": () => import("./guides/best-corded-landline-phones-for-seniors-under-40"),
   "best-digital-day-clocks-for-dementia-under-30": () => import("./guides/best-digital-day-clocks-for-dementia-under-30"),
   "best-electric-spin-scrubbers-under-30": () => import("./guides/best-electric-spin-scrubbers-under-30"),
+  "best-floor-scrubbers-under-150": () => import("./guides/best-floor-scrubbers-under-150"),
+  "best-window-cleaning-robots-under-150": () => import("./guides/best-window-cleaning-robots-under-150"),
+  "best-lightweight-leaf-blowers-under-50": () => import("./guides/best-lightweight-leaf-blowers-under-50"),
+  "best-digital-radios-for-seniors-under-30": () => import("./guides/best-digital-radios-for-seniors-under-30"),
+  "best-voice-remotes-for-fire-tv-under-15": () => import("./guides/best-voice-remotes-for-fire-tv-under-15"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
