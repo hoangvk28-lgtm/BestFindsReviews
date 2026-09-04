@@ -875,6 +875,10 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-electric-tillers-for-small-gardens": () => import("./guides/best-electric-tillers-for-small-gardens"),
   "best-electric-tillers-for-seniors": () => import("./guides/best-electric-tillers-for-seniors"),
   "best-lightweight-electric-tillers": () => import("./guides/best-lightweight-electric-tillers"),
+  "best-earthwise-electric-tillers": () => import("./guides/best-earthwise-electric-tillers"),
+  "best-electric-tillers-for-clay-soil": () => import("./guides/best-electric-tillers-for-clay-soil"),
+  "best-electric-tillers-for-hard-soil": () => import("./guides/best-electric-tillers-for-hard-soil"),
+  "best-electric-tillers-for-raised-beds": () => import("./guides/best-electric-tillers-for-raised-beds"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
