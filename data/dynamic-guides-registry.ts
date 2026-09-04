@@ -742,6 +742,23 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-ohuhu-garden-kneelers": () => import("./guides/best-ohuhu-garden-kneelers"),
   "best-padded-garden-kneelers": () => import("./guides/best-padded-garden-kneelers"),
   "best-vevor-garden-kneelers": () => import("./guides/best-vevor-garden-kneelers"),
+  "best-cordless-grass-shears-under-100": () => import("./guides/best-cordless-grass-shears-under-100"),
+  "best-cordless-grass-shears-under-50": () => import("./guides/best-cordless-grass-shears-under-50"),
+  "best-electric-weed-burners-under-60": () => import("./guides/best-electric-weed-burners-under-60"),
+  "best-electric-weed-burners-under-75": () => import("./guides/best-electric-weed-burners-under-75"),
+  "best-garden-kneelers-under-30": () => import("./guides/best-garden-kneelers-under-30"),
+  "best-garden-kneelers-under-50": () => import("./guides/best-garden-kneelers-under-50"),
+  "best-garden-sprayers-under-100": () => import("./guides/best-garden-sprayers-under-100"),
+  "best-garden-sprayers-under-25": () => import("./guides/best-garden-sprayers-under-25"),
+  "best-garden-sprayers-under-50": () => import("./guides/best-garden-sprayers-under-50"),
+  "best-garden-stools-under-100": () => import("./guides/best-garden-stools-under-100"),
+  "best-garden-stools-under-50": () => import("./guides/best-garden-stools-under-50"),
+  "best-raised-planters-under-100": () => import("./guides/best-raised-planters-under-100"),
+  "best-raised-planters-under-200": () => import("./guides/best-raised-planters-under-200"),
+  "best-raised-planters-under-50": () => import("./guides/best-raised-planters-under-50"),
+  "best-watering-timers-under-100": () => import("./guides/best-watering-timers-under-100"),
+  "best-watering-timers-under-25": () => import("./guides/best-watering-timers-under-25"),
+  "best-watering-timers-under-50": () => import("./guides/best-watering-timers-under-50"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
