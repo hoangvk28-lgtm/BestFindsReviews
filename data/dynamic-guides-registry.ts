@@ -853,6 +853,8 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-smart-sprinkler-controllers-for-seniors": () => import("./guides/best-smart-sprinkler-controllers-for-seniors"),
   "best-weather-based-smart-sprinkler-controllers": () => import("./guides/best-weather-based-smart-sprinkler-controllers"),
   "best-smart-sprinkler-controllers-without-subscriptions": () => import("./guides/best-smart-sprinkler-controllers-without-subscriptions"),
+  "best-battery-backpack-sprayers": () => import("./guides/best-battery-backpack-sprayers"),
+  "best-4-gallon-battery-backpack-sprayers": () => import("./guides/best-4-gallon-battery-backpack-sprayers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
