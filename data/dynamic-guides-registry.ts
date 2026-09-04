@@ -858,6 +858,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-dewalt-compatible-battery-sprayers": () => import("./guides/best-dewalt-compatible-battery-sprayers"),
   "best-wheeled-battery-garden-sprayers": () => import("./guides/best-wheeled-battery-garden-sprayers"),
   "best-battery-garden-sprayers-for-seniors": () => import("./guides/best-battery-garden-sprayers-for-seniors"),
+  "best-battery-sprayers-for-fertilizer": () => import("./guides/best-battery-sprayers-for-fertilizer"),
+  "best-battery-sprayers-with-long-wands": () => import("./guides/best-battery-sprayers-with-long-wands"),
+  "best-2-gallon-battery-garden-sprayers": () => import("./guides/best-2-gallon-battery-garden-sprayers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
