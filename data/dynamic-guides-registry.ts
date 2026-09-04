@@ -825,6 +825,14 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-leaf-vacuums-with-bags": () => import("./guides/best-leaf-vacuums-with-bags"),
   "best-leaf-vacuums-for-pine-needles": () => import("./guides/best-leaf-vacuums-for-pine-needles"),
   "best-leaf-vacuums-for-wet-leaves": () => import("./guides/best-leaf-vacuums-for-wet-leaves"),
+  "best-vevor-lawn-sweepers": () => import("./guides/best-vevor-lawn-sweepers"),
+  "best-push-lawn-sweepers": () => import("./guides/best-push-lawn-sweepers"),
+  "best-tow-behind-lawn-sweepers": () => import("./guides/best-tow-behind-lawn-sweepers"),
+  "best-agri-fab-lawn-sweepers": () => import("./guides/best-agri-fab-lawn-sweepers"),
+  "best-lawn-sweepers-for-leaves": () => import("./guides/best-lawn-sweepers-for-leaves"),
+  "best-manual-lawn-sweepers": () => import("./guides/best-manual-lawn-sweepers"),
+  "best-craftsman-lawn-sweepers": () => import("./guides/best-craftsman-lawn-sweepers"),
+  "best-lawn-sweepers-for-seniors": () => import("./guides/best-lawn-sweepers-for-seniors"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
