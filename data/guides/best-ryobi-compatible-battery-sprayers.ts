@@ -1,0 +1,26 @@
+export const guideSlug = "best-ryobi-compatible-battery-sprayers";
+export const guideTitle = "Best Ryobi-Compatible Battery Sprayers (2026)";
+export const metaTitle = "Best Ryobi-Compatible Battery Sprayers (2026)";
+export const metaDescription = "The best battery sprayers compatible with Ryobi 18V ONE+ tools, compared on tank size and features.";
+export const mainKeyword = "battery powered sprayer ryobi";
+export const categorySlug = "garden-yard";
+export const lastUpdated = "2026-09-04";
+export const readTime = "7 min";
+export const heroImage = "https://m.media-amazon.com/images/I/31RhuqakiRL._SL500_.jpg";
+export const introParagraphs = [
+  "Ryobi's massive 18V ONE+ battery ecosystem extends into garden sprayers, letting existing Ryobi tool owners skip a separate battery purchase. We compared the current lineup."
+];
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export const products: GuideProduct[] = [
+  { id: "B06XPHCKNC", rank: 1, badge: "Best Value", name: "Ryobi OWS1880 One Plus Cordless Weed Sprayer", amazonUrl: "https://www.amazon.com/dp/B06XPHCKNC?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31RhuqakiRL._SL500_.jpg", price: "$189.00", ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price", specs: ["18V", "ONE+ Compatible", "Weed Sprayer"], description: "Ryobi's own OWS1880 brings genuine brand build quality at an accessible price.\n\nSmaller capacity than dedicated garden sprayer specialists.\n\nBest for Ryobi 18V ONE+ owners wanting the brand's own sprayer. It's the most affordable pick in this lineup, and the main tradeoff to weigh is that smaller capacity than dedicated sprayer specialists.", bestFor: "Ryobi 18V ONE Plus owners wanting the brand's own sprayer", pros: ["From Ryobi directly, genuine brand build quality", "Compatible with the massive 18V ONE Plus ecosystem", "Most accessible price point in this comparison"], cons: ["Smaller capacity than dedicated sprayer specialists for some buyers", "Battery not included, requires one separately for some buyers"] },
+  { id: "B0BYTM6XKL", rank: 2, badge: "Best 2-Gallon Capacity", name: "RYOBI 18V ONE Plus 2 Gal Garden Sprayer", amazonUrl: "https://www.amazon.com/dp/B0BYTM6XKL?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31N6cQDa41L._SL500_.jpg", price: "$228.28", ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price", specs: ["2 Gallon", "18V ONE+", "Garden Sprayer"], description: "This 2-gallon Ryobi model offers genuinely more capacity for larger garden tasks.\n\nPriced higher, and sold as a renewed unit.\n\nBest if you want more capacity from the Ryobi ecosystem. It's the premium pick in this lineup, and the main tradeoff to weigh is that priced higher, and sold as a renewed unit.", bestFor: "Buyers wanting more capacity from the Ryobi ecosystem", pros: ["2-gallon capacity for more substantial garden tasks", "Compatible with the massive 18V ONE Plus ecosystem", "From Ryobi, an established outdoor tool brand"], cons: ["Priced higher, and sold as a renewed unit", "Renewed condition rather than brand-new hardware worth factoring in"] }
+];
+export const buyingCriteria = [{"criterion":"18V ONE+ Ecosystem","explanation":"Ryobi's 18V ONE+ platform shares batteries across dozens of tools, a genuine convenience if you already own compatible batteries."},{"criterion":"Tank Capacity","explanation":"Match tank size to your typical garden spraying area."},{"criterion":"New vs. Renewed","explanation":"Some Ryobi sprayer listings are renewed units at a lower price than new."}];
+export const howWeEvaluated = [{"title":"Real Amazon Listings","description":"Every pick is a current, purchasable listing."},{"title":"Ecosystem Compatibility Check","description":"We confirm genuine Ryobi 18V ONE Plus compatibility for each listing."}];
+export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
+export const howToChoose: HowToChooseSection[] = [{"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"You want the most complete feature set in this comparison. The RYOBI 18V ONE Plus 2 Gal Garden Sprayer justifies its premium price for that."},{"label":"Save if","text":"Your needs are basic and price matters most. The Ryobi OWS1880 One Plus Cordless Weed Sprayer covers that at the most accessible price here."}]}];
+export const faq = [{"q":"Do these sprayers include a Ryobi battery?","a":"No, most are sold tool-only, requiring you to already own or separately buy a compatible Ryobi 18V battery."},{"q":"Is a renewed Ryobi sprayer a good option?","a":"Renewed units are tested and typically carry a shorter warranty, a reasonable option to save money if you're comfortable with that tradeoff."}];
+export const relatedGuides: { title: string; href: string }[] = [
+  { title: "Best Milwaukee-Compatible Battery Sprayers", href: "/guide/best-milwaukee-compatible-battery-sprayers" },
+  { title: "Best DeWalt-Compatible Battery Sprayers", href: "/guide/best-dewalt-compatible-battery-sprayers" }
+];

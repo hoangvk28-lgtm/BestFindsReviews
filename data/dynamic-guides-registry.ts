@@ -861,6 +861,10 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-battery-sprayers-for-fertilizer": () => import("./guides/best-battery-sprayers-for-fertilizer"),
   "best-battery-sprayers-with-long-wands": () => import("./guides/best-battery-sprayers-with-long-wands"),
   "best-2-gallon-battery-garden-sprayers": () => import("./guides/best-2-gallon-battery-garden-sprayers"),
+  "best-1-gallon-battery-sprayers": () => import("./guides/best-1-gallon-battery-sprayers"),
+  "best-handheld-battery-sprayers": () => import("./guides/best-handheld-battery-sprayers"),
+  "best-milwaukee-compatible-battery-sprayers": () => import("./guides/best-milwaukee-compatible-battery-sprayers"),
+  "best-ryobi-compatible-battery-sprayers": () => import("./guides/best-ryobi-compatible-battery-sprayers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
