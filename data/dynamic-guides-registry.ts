@@ -803,6 +803,16 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-automatic-hose-reels": () => import("./guides/best-automatic-hose-reels"),
   "best-leaf-vacuums": () => import("./guides/best-leaf-vacuums"),
   "best-lawn-sweepers": () => import("./guides/best-lawn-sweepers"),
+  "best-wall-mounted-retractable-hose-reels": () => import("./guides/best-wall-mounted-retractable-hose-reels"),
+  "best-100-foot-retractable-hose-reels": () => import("./guides/best-100-foot-retractable-hose-reels"),
+  "best-suncast-automatic-hose-reels": () => import("./guides/best-suncast-automatic-hose-reels"),
+  "best-giraffe-tools-retractable-hose-reels": () => import("./guides/best-giraffe-tools-retractable-hose-reels"),
+  "best-automatic-hose-reels-for-seniors": () => import("./guides/best-automatic-hose-reels-for-seniors"),
+  "best-50-foot-retractable-hose-reels": () => import("./guides/best-50-foot-retractable-hose-reels"),
+  "best-gardena-retractable-hose-reels": () => import("./guides/best-gardena-retractable-hose-reels"),
+  "best-65-foot-retractable-hose-reels": () => import("./guides/best-65-foot-retractable-hose-reels"),
+  "best-metal-automatic-hose-reels": () => import("./guides/best-metal-automatic-hose-reels"),
+  "best-hoselink-retractable-hose-reels": () => import("./guides/best-hoselink-retractable-hose-reels"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
