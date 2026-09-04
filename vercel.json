@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/cron/ping-supabase",
-      "schedule": "0 10 */3 * *"
+      "schedule": "0 10 * * *"
     },
     {
       "path": "/api/cron/ping-indexnow",
