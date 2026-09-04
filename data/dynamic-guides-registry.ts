@@ -849,6 +849,10 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-4-zone-smart-sprinkler-controllers": () => import("./guides/best-4-zone-smart-sprinkler-controllers"),
   "best-imolaza-smart-sprinkler-controllers": () => import("./guides/best-imolaza-smart-sprinkler-controllers"),
   "best-16-zone-smart-sprinkler-controllers": () => import("./guides/best-16-zone-smart-sprinkler-controllers"),
+  "best-6-zone-smart-sprinkler-controllers": () => import("./guides/best-6-zone-smart-sprinkler-controllers"),
+  "best-smart-sprinkler-controllers-for-seniors": () => import("./guides/best-smart-sprinkler-controllers-for-seniors"),
+  "best-weather-based-smart-sprinkler-controllers": () => import("./guides/best-weather-based-smart-sprinkler-controllers"),
+  "best-smart-sprinkler-controllers-without-subscriptions": () => import("./guides/best-smart-sprinkler-controllers-without-subscriptions"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
