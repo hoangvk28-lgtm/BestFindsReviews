@@ -813,6 +813,18 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-65-foot-retractable-hose-reels": () => import("./guides/best-65-foot-retractable-hose-reels"),
   "best-metal-automatic-hose-reels": () => import("./guides/best-metal-automatic-hose-reels"),
   "best-hoselink-retractable-hose-reels": () => import("./guides/best-hoselink-retractable-hose-reels"),
+  "best-cyclone-leaf-vacuums": () => import("./guides/best-cyclone-leaf-vacuums"),
+  "best-handheld-leaf-vacuums": () => import("./guides/best-handheld-leaf-vacuums"),
+  "best-billy-goat-leaf-vacuums": () => import("./guides/best-billy-goat-leaf-vacuums"),
+  "best-cordless-leaf-vacuums": () => import("./guides/best-cordless-leaf-vacuums"),
+  "best-ryobi-leaf-vacuums": () => import("./guides/best-ryobi-leaf-vacuums"),
+  "best-commercial-leaf-vacuums": () => import("./guides/best-commercial-leaf-vacuums"),
+  "best-tow-behind-leaf-vacuums": () => import("./guides/best-tow-behind-leaf-vacuums"),
+  "best-walk-behind-leaf-vacuums": () => import("./guides/best-walk-behind-leaf-vacuums"),
+  "best-leaf-vacuums-for-seniors": () => import("./guides/best-leaf-vacuums-for-seniors"),
+  "best-leaf-vacuums-with-bags": () => import("./guides/best-leaf-vacuums-with-bags"),
+  "best-leaf-vacuums-for-pine-needles": () => import("./guides/best-leaf-vacuums-for-pine-needles"),
+  "best-leaf-vacuums-for-wet-leaves": () => import("./guides/best-leaf-vacuums-for-wet-leaves"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
