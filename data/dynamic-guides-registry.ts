@@ -839,6 +839,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-44-inch-lawn-sweepers": () => import("./guides/best-44-inch-lawn-sweepers"),
   "best-42-inch-lawn-sweepers": () => import("./guides/best-42-inch-lawn-sweepers"),
   "best-48-inch-lawn-sweepers": () => import("./guides/best-48-inch-lawn-sweepers"),
+  "best-rachio-smart-sprinkler-controllers": () => import("./guides/best-rachio-smart-sprinkler-controllers"),
+  "best-smart-sprinkler-controllers": () => import("./guides/best-smart-sprinkler-controllers"),
+  "best-hunter-smart-sprinkler-controllers": () => import("./guides/best-hunter-smart-sprinkler-controllers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
