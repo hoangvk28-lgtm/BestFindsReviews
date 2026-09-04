@@ -833,6 +833,12 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-manual-lawn-sweepers": () => import("./guides/best-manual-lawn-sweepers"),
   "best-craftsman-lawn-sweepers": () => import("./guides/best-craftsman-lawn-sweepers"),
   "best-lawn-sweepers-for-seniors": () => import("./guides/best-lawn-sweepers-for-seniors"),
+  "best-lawn-sweepers-for-acorns": () => import("./guides/best-lawn-sweepers-for-acorns"),
+  "best-lawn-sweepers-for-pine-needles": () => import("./guides/best-lawn-sweepers-for-pine-needles"),
+  "best-lawn-sweepers-for-grass-clippings": () => import("./guides/best-lawn-sweepers-for-grass-clippings"),
+  "best-44-inch-lawn-sweepers": () => import("./guides/best-44-inch-lawn-sweepers"),
+  "best-42-inch-lawn-sweepers": () => import("./guides/best-42-inch-lawn-sweepers"),
+  "best-48-inch-lawn-sweepers": () => import("./guides/best-48-inch-lawn-sweepers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
