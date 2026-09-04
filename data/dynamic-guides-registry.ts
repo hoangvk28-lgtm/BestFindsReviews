@@ -800,6 +800,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-lightweight-garden-hoses-under-50": () => import("./guides/best-lightweight-garden-hoses-under-50"),
   "best-rolling-garden-seats-under-70": () => import("./guides/best-rolling-garden-seats-under-70"),
   "best-lightweight-carpet-cleaners-under-130": () => import("./guides/best-lightweight-carpet-cleaners-under-130"),
+  "best-automatic-hose-reels": () => import("./guides/best-automatic-hose-reels"),
+  "best-leaf-vacuums": () => import("./guides/best-leaf-vacuums"),
+  "best-lawn-sweepers": () => import("./guides/best-lawn-sweepers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
