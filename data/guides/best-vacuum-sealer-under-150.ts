@@ -11,7 +11,7 @@ export const introParagraphs = [
   "Not every vacuum sealer under $150 is worth buying. We compared the current lineup on wattage, features, and what's actually included in the box.",
   "We ranked these 8 options from strongest overall pick down, factoring in motor power, included accessories, and brand track record where the listing specs supported it. This tier mixes standalone vacuum sealer machines with bag/roll consumables where the machine pool is thin at this exact price point, each product's specs and description make clear which is which."
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     "id": "vacuum-sealer-b00lugk5qw",
@@ -236,38 +236,8 @@ export const products: GuideProduct[] = [
     ]
   }
 ];
-export const buyingCriteria = [
-  {
-    "criterion": "Motor power / wattage",
-    "explanation": "Higher listed wattage generally means faster, more consistent performance, especially with denser foods or thicker materials."
-  },
-  {
-    "criterion": "Included accessories",
-    "explanation": "Bundled attachments, cases, or extra blades change the effective value of a listing beyond the sticker price."
-  },
-  {
-    "criterion": "Brand track record",
-    "explanation": "Established kitchen brands tend to have more consistent quality control and easier-to-find replacement parts."
-  },
-  {
-    "criterion": "Confirmed pricing",
-    "explanation": "Amazon pricing shifts constantly, always verify the current price on the product page before buying, especially for listings we flagged as unconfirmed."
-  }
-];
-export const howWeEvaluated = [
-  {
-    "title": "Listing data pull",
-    "description": "We pulled live title, image, and price data for every ASIN in this comparison directly from Amazon's product API."
-  },
-  {
-    "title": "Spec comparison",
-    "description": "We compared listed wattage, speed settings, cordless/corded design, and included accessories across every product in the budget tier."
-  },
-  {
-    "title": "Budget-tier ranking",
-    "description": "Products are ranked within this specific budget tier, a pick ranked #1 here may rank differently in an adjacent budget tier with a different lineup."
-  }
-];
+export const buyingCriteria = [{"criterion":"Motor power / wattage","explanation":"Higher listed wattage generally means faster, more consistent performance, especially with denser foods or thicker materials."},{"criterion":"Included accessories","explanation":"Bundled attachments, cases, or extra blades change the effective value of a listing beyond the sticker price."},{"criterion":"Brand track record","explanation":"Established kitchen brands tend to have more consistent quality control and easier-to-find replacement parts."},{"criterion":"Confirmed pricing","explanation":"Amazon pricing shifts constantly, always verify the current price on the product page before buying, especially for listings we flagged as unconfirmed."},{"criterion":"Warranty and Return Policy","explanation":"Check the specific listing's warranty length and return window before buying, since coverage varies meaningfully even within this vacuum sealer under $ category."}];
+export const howWeEvaluated = [{"title":"Listing data pull","description":"We pulled live title, image, and price data for every ASIN in this comparison directly from Amazon's product API."},{"title":"Spec comparison","description":"We compared listed wattage, speed settings, cordless/corded design, and included accessories across every product in the budget tier."},{"title":"Budget-tier ranking","description":"Products are ranked within this specific budget tier, a pick ranked #1 here may rank differently in an adjacent budget tier with a different lineup."},{"title":"Specification Cross-Check","description":"We verify each listing's stated specs and included accessories against the manufacturer's own product page where one is available."}];
 export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
 export const howToChoose: HowToChooseSection[] = [
   {

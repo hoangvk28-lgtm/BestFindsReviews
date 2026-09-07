@@ -11,7 +11,7 @@ export const introParagraphs = [
   "Shopping for electric knife under $30? We pulled current Amazon listings, checked what's actually in each model's spec sheet, and ranked the ones worth your money at this price.",
   "We ranked these 8 options from strongest overall pick down, factoring in motor power, included accessories, and brand track record where the listing specs supported it. This budget category has a fairly small pool of distinct models on Amazon, so you'll see some of the same electric knives reappear across our $30, $50, $75, and $100 guides at different listed prices, that's expected, not an error."
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     "id": "electric-knife-b0bnqxr1mq",
@@ -234,38 +234,8 @@ export const products: GuideProduct[] = [
     ]
   }
 ];
-export const buyingCriteria = [
-  {
-    "criterion": "Motor power / wattage",
-    "explanation": "Higher listed wattage generally means faster, more consistent performance, especially with denser foods or thicker materials."
-  },
-  {
-    "criterion": "Included accessories",
-    "explanation": "Bundled attachments, cases, or extra blades change the effective value of a listing beyond the sticker price."
-  },
-  {
-    "criterion": "Brand track record",
-    "explanation": "Established kitchen brands tend to have more consistent quality control and easier-to-find replacement parts."
-  },
-  {
-    "criterion": "Confirmed pricing",
-    "explanation": "Amazon pricing shifts constantly, always verify the current price on the product page before buying, especially for listings we flagged as unconfirmed."
-  }
-];
-export const howWeEvaluated = [
-  {
-    "title": "Listing data pull",
-    "description": "We pulled live title, image, and price data for every ASIN in this comparison directly from Amazon's product API."
-  },
-  {
-    "title": "Spec comparison",
-    "description": "We compared listed wattage, speed settings, cordless/corded design, and included accessories across every product in the budget tier."
-  },
-  {
-    "title": "Budget-tier ranking",
-    "description": "Products are ranked within this specific budget tier, a pick ranked #1 here may rank differently in an adjacent budget tier with a different lineup."
-  }
-];
+export const buyingCriteria = [{"criterion":"Motor power / wattage","explanation":"Higher listed wattage generally means faster, more consistent performance, especially with denser foods or thicker materials."},{"criterion":"Included accessories","explanation":"Bundled attachments, cases, or extra blades change the effective value of a listing beyond the sticker price."},{"criterion":"Brand track record","explanation":"Established kitchen brands tend to have more consistent quality control and easier-to-find replacement parts."},{"criterion":"Confirmed pricing","explanation":"Amazon pricing shifts constantly, always verify the current price on the product page before buying, especially for listings we flagged as unconfirmed."},{"criterion":"Total Cost Beyond the Listed Price","explanation":"Factor in any required accessories, replacement parts, or batteries not included at checkout, since the real total cost can run higher than the listed price."}];
+export const howWeEvaluated = [{"title":"Listing data pull","description":"We pulled live title, image, and price data for every ASIN in this comparison directly from Amazon's product API."},{"title":"Spec comparison","description":"We compared listed wattage, speed settings, cordless/corded design, and included accessories across every product in the budget tier."},{"title":"Budget-tier ranking","description":"Products are ranked within this specific budget tier, a pick ranked #1 here may rank differently in an adjacent budget tier with a different lineup."},{"title":"Review Pattern Analysis","description":"We look at recent customer reviews for recurring complaints or praise that a simple star rating alone wouldn't reveal about long-term reliability."}];
 export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
 export const howToChoose: HowToChooseSection[] = [
   {

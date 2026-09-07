@@ -11,7 +11,7 @@ export const introParagraphs = [
   "Shopping for immersion blender under $50? We pulled current Amazon listings, checked what's actually in each model's spec sheet, and ranked the ones worth your money at this price.",
   "We ranked these 8 options from strongest overall pick down, factoring in motor power, included accessories, and brand track record where the listing specs supported it. Several of these models overlap with our other immersion-blender budget guides since the same product often gets listed at different price points across sellers, check the specific ASIN price before assuming a lower tier is strictly cheaper. Note: 2 of the 8 listings here didn't return a confirmed price during our data pull, we've flagged those individually and you should double-check current pricing on Amazon before buying."
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     "id": "immersion-blender-b079nxbwdr",
@@ -235,38 +235,8 @@ export const products: GuideProduct[] = [
     ]
   }
 ];
-export const buyingCriteria = [
-  {
-    "criterion": "Motor power / wattage",
-    "explanation": "Higher listed wattage generally means faster, more consistent performance, especially with denser foods or thicker materials."
-  },
-  {
-    "criterion": "Included accessories",
-    "explanation": "Bundled attachments, cases, or extra blades change the effective value of a listing beyond the sticker price."
-  },
-  {
-    "criterion": "Brand track record",
-    "explanation": "Established kitchen brands tend to have more consistent quality control and easier-to-find replacement parts."
-  },
-  {
-    "criterion": "Confirmed pricing",
-    "explanation": "Amazon pricing shifts constantly, always verify the current price on the product page before buying, especially for listings we flagged as unconfirmed."
-  }
-];
-export const howWeEvaluated = [
-  {
-    "title": "Listing data pull",
-    "description": "We pulled live title, image, and price data for every ASIN in this comparison directly from Amazon's product API."
-  },
-  {
-    "title": "Spec comparison",
-    "description": "We compared listed wattage, speed settings, cordless/corded design, and included accessories across every product in the budget tier."
-  },
-  {
-    "title": "Budget-tier ranking",
-    "description": "Products are ranked within this specific budget tier, a pick ranked #1 here may rank differently in an adjacent budget tier with a different lineup."
-  }
-];
+export const buyingCriteria = [{"criterion":"Motor power / wattage","explanation":"Higher listed wattage generally means faster, more consistent performance, especially with denser foods or thicker materials."},{"criterion":"Included accessories","explanation":"Bundled attachments, cases, or extra blades change the effective value of a listing beyond the sticker price."},{"criterion":"Brand track record","explanation":"Established kitchen brands tend to have more consistent quality control and easier-to-find replacement parts."},{"criterion":"Confirmed pricing","explanation":"Amazon pricing shifts constantly, always verify the current price on the product page before buying, especially for listings we flagged as unconfirmed."},{"criterion":"Warranty and Return Policy","explanation":"Check the specific listing's warranty length and return window before buying, since coverage varies meaningfully even within this immersion blender under $ category."}];
+export const howWeEvaluated = [{"title":"Listing data pull","description":"We pulled live title, image, and price data for every ASIN in this comparison directly from Amazon's product API."},{"title":"Spec comparison","description":"We compared listed wattage, speed settings, cordless/corded design, and included accessories across every product in the budget tier."},{"title":"Budget-tier ranking","description":"Products are ranked within this specific budget tier, a pick ranked #1 here may rank differently in an adjacent budget tier with a different lineup."},{"title":"Specification Cross-Check","description":"We verify each listing's stated specs and included accessories against the manufacturer's own product page where one is available."}];
 export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
 export const howToChoose: HowToChooseSection[] = [
   {
