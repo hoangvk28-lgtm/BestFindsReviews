@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Riding mower roundups often compare deck size and horsepower while mixing tractors, rear-engine riders, zero-turns, and battery machines as if they solve the same access and handling problems. We separated the formats and focused on total ownership, property access, storage, and service rather than speed alone.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "greenworks-60v-30-rider", rank: 1, badge: "Best Overall", name: "Greenworks 60V 30-Inch Riding Mower",
     amazonUrl: "https://www.amazon.com/dp/B0DLKLBRYP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41uRION5OkL._SL500_.jpg", price: "$2,499.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["30-inch deck","1,920Wh included battery capacity","Up to 1.25-acre claim","200 lb tow rating"],
+    specList: [{"label":"Size","value":"30-inch deck"},{"label":"Battery","value":"1,920Wh included battery capacity"},{"label":"Feature 3","value":"Up to 1.25-acre claim"},{"label":"Reviews","value":"200 lb tow rating"}],
     description: "Greenworks 60V 30-Inch Riding Mower combines 30-inch deck, 1,920Wh included battery capacity, Up to 1.25-acre claim. That combination makes it a practical option for small properties needing a compact battery rider.\n\nThe 30-inch deck trades cutting speed for easier gate, shed, and trailer access. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small properties needing a compact battery rider",
     pros: ["30-inch deck","1,920Wh included battery capacity","Up to 1.25-acre claim"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0F5BY8XGP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31JS0DH8mlL._SL500_.jpg", price: "$3,299.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["46-inch deck","22HP Briggs engine","Lawn tractor layout","Dealer-serviceable platform"],
+    specList: [{"label":"Size","value":"46-inch deck"},{"label":"Feature 2","value":"22HP Briggs engine"},{"label":"Feature 3","value":"Lawn tractor layout"},{"label":"Feature 4","value":"Dealer-serviceable platform"}],
     description: "Husqvarna TS 146 Lawn Tractor combines 46-inch deck, 22HP Briggs engine, Lawn tractor layout. That combination makes it a practical option for buyers who want a conventional tractor and attachment path.\n\nDelivery width, storage space, and local dealer support need checking before purchase. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers who want a conventional tractor and attachment path",
     pros: ["46-inch deck","22HP Briggs engine","Lawn tractor layout"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CPJRDC76?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41zKGPYJh7L._SL500_.jpg", price: "$4,399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["42-inch deck","Battery riding platform","Tractor steering","Battery-and-charger kit"],
+    specList: [{"label":"Size","value":"42-inch deck"},{"label":"Battery","value":"Battery riding platform"},{"label":"Feature 3","value":"Tractor steering"},{"label":"Feature 4","value":"Battery-and-charger kit"}],
     description: "EGO Power+ TR4204 42-Inch Lawn Tractor combines 42-inch deck, Battery riding platform, Tractor steering. That combination makes it a practical option for buyers replacing a gas tractor with a battery platform.\n\nRuntime varies with grass load, terrain, drive speed, and blade speed. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers replacing a gas tractor with a battery platform",
     pros: ["42-inch deck","Battery riding platform","Tractor steering"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B07NF3V21T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41CMAS3TEVL._SL500_.jpg", price: "$3,899.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive","Residential class"],
+    specList: [{"label":"Size","value":"54-inch deck"},{"label":"Feature 2","value":"23HP Kawasaki engine"},{"label":"Drive Type","value":"Hydrostatic zero-turn drive"},{"label":"Feature 4","value":"Residential class"}],
     description: "Husqvarna Z254F 54-Inch Zero-Turn Mower combines 54-inch deck, 23HP Kawasaki engine, Hydrostatic zero-turn drive. That combination makes it a practical option for larger open lawns where maneuvering speed matters.\n\nA 54-inch zero-turn needs substantial storage and is not the default choice for slopes. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "larger open lawns where maneuvering speed matters",
     pros: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive"],

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup glass carafe", "24-hour programmable", "Single-pass drip", "Auto shutoff"],
+    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Collection","value":"Single-pass drip"},{"label":"Feature 4","value":"Auto shutoff"}],
     description:
       "This drip machine passes hot water through the grounds a single time, so extraction is limited by design and consistent from cup to cup within the same pot. Its 24-hour programmable timer means it can be set up the night before with zero attention needed the next morning.\n\nAt under $35 it is a low-cost, low-maintenance entry point into single-pass drip brewing, with a standard paper-filter basket and an enclosed heating element that keeps hot surfaces mostly contained.",
     bestFor: "Anyone who wants consistent, single-pass extraction with zero hands-on brewing effort.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "3,512 reviews",
     specs: ["Always-hot internal tank", "Brews 10 cups in ~4 minutes", "Multi-stream sprayhead", "3-year warranty"],
+    specList: [{"label":"Feature 1","value":"Always-hot internal tank"},{"label":"Size","value":"Brews 10 cups in ~4 minutes"},{"label":"Nozzles","value":"Multi-stream sprayhead"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "The BUNN keeps an internal tank of water hot continuously, so it brews a full 10-cup pot in about 4 minutes, still single-pass drip extraction but notably faster than a typical drip machine since it skips the usual heat-up wait. That speed comes from an always-hot design, not from percolator-style recirculation.\n\nIts multi-stream sprayhead evenly saturates the grounds for consistent extraction across the pot, and it carries a 3-year warranty. Standby electricity use is the main tradeoff of keeping that internal tank hot at all times.",
     bestFor: "Buyers who want fast single-pass drip brewing and don't mind a small standby electricity cost.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "19,761 reviews",
     specs: ["12-cup capacity", "Rapid cup-a-minute brewing", "Automatic temperature control", "Stainless steel body"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 2","value":"Rapid cup-a-minute brewing"},{"label":"Feature 3","value":"Automatic temperature control"},{"label":"Material","value":"Stainless steel body"}],
     description:
       "The Presto recirculates boiling water repeatedly through the grounds via an internal tube, cycling roughly a cup a minute until the automatic temperature control senses the brew is done and settles into a keep-warm mode. That repeated cycling produces a bolder, more robust flavor than single-pass drip, with more risk of bitterness if left brewing too long or ground too fine.\n\nIts 12-cup capacity and simple mechanical design make it a common choice for larger groups, and the all-steel percolating chamber has no electronics or programmable timer to fail. The stainless steel exterior does get hot to the touch during brewing, a real consideration around kids or in a tight camping setup.",
     bestFor: "Larger groups, camping, or off-grid situations where a simple mechanical brewer is more practical than electronics.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "12,673 reviews",
     specs: ["8-cup capacity", "Cup-a-minute brewing", "Automatic keep warm", "Detachable cord"],
+    specList: [{"label":"Capacity","value":"8-cup capacity"},{"label":"Feature 2","value":"Cup-a-minute brewing"},{"label":"Feature 3","value":"Automatic keep warm"},{"label":"Feature 4","value":"Detachable cord"}],
     description:
       "This is a smaller 8-cup version of the same recirculating percolator mechanism, cycling boiling water through the grounds roughly a cup a minute before automatically switching to a keep-warm mode. It skips a large group's worth of capacity in exchange for a more manageable size for a smaller household or a smaller camping group.\n\nA detachable cord simplifies moving the pot to the table or serving area once brewing finishes, and the stainless steel basket is straightforward to remove and clean. Like the Presto, the exterior gets hot during the boiling recirculation cycle, so handling requires more care than an enclosed drip machine.",
     bestFor: "A smaller household or camping group that wants percolator flavor without a full 12-cup unit.",

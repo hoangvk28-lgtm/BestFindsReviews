@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "348 reviews",
     specs: ["AI vision navigation", "Cordless design", "Floor, wall & waterline", "Top-load basket access"],
+    specList: [{"label":"Navigation","value":"AI vision navigation"},{"label":"Design","value":"Cordless design"},{"label":"Feature 3","value":"Floor, wall & waterline"},{"label":"Feature 4","value":"Top-load basket access"}],
     description:
       "The Scuba V3 uses AI-assisted vision to map the pool and adjust its cleaning path in real time, rather than relying on the random-bounce navigation older cordless cleaners use. That translates into more even coverage across the floor, walls, and waterline in a single cycle instead of needing separate passes.\n\nBeing fully cordless means no cable to untangle or accidentally snag on ladders and steps, which is the most common complaint with corded pool robots. The tradeoff is battery life and price, both of which sit at the upper end of this comparison, but the current rating and review base back up that it performs consistently across pool types.",
     bestFor: "Buyers who want the most capable current cleaner and are not trying to hit a budget ceiling.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["180-min runtime", "3L debris basket", "Above ground & inground", "Auto-parking, up to 2200 sq ft"],
+    specList: [{"label":"Feature 1","value":"180-min runtime"},{"label":"Feature 2","value":"3L debris basket"},{"label":"Feature 3","value":"Above ground & inground"},{"label":"Feature 4","value":"Auto-parking, up to 2200 sq ft"}],
     description:
       "This model covers both above-ground and in-ground pools up to 2200 square feet, with a listed 180-minute runtime that is long enough for most residential pools to finish a full cycle without a mid-clean recharge. The 3L basket is sized for leaves and heavier debris rather than just fine sediment.\n\nAuto-parking brings the unit to the pool wall or steps when the cycle ends or the battery runs low, which makes retrieval easier than fishing a dead cleaner off the pool floor. At well under $200, it is the clearest budget entry point in this comparison for buyers who do not need AI navigation or app control.",
     bestFor: "Budget-conscious buyers with a standard above-ground or in-ground pool who want long runtime without paying for smart navigation.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["Wall-climbing scrubber brush", "Top-load filter access", "Above/in-ground up to 33 ft", "Corded design"],
+    specList: [{"label":"Feature 1","value":"Wall-climbing scrubber brush"},{"label":"Filtration","value":"Top-load filter access"},{"label":"Size","value":"Above/in-ground up to 33 ft"},{"label":"Design","value":"Corded design"}],
     description:
       "Dolphin has built pool cleaners for years, and the Nautilus CC carries that history with a dedicated scrubber brush built specifically for climbing walls and breaking up algae rather than just vacuuming the floor. It is rated for pools up to 33 feet in length, which covers most residential above-ground and in-ground setups.\n\nThe top-load filter access means you do not have to flip the unit over or dig into a bottom-mounted compartment to empty it, which keeps the retrieval-and-empty routine quick. As a corded model, it trades the freedom of cordless designs for a more predictable, consistent cleaning path.",
     bestFor: "Buyers who specifically want strong wall and waterline scrubbing on a mid-size pool.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Well-regarded",
     reviews: "Frequently purchased",
     specs: ["270-min runtime", "Floor, wall, waterline & shallow areas", "11 sensors, app control", "Weekly custom scheduling"],
+    specList: [{"label":"Feature 1","value":"270-min runtime"},{"label":"Feature 2","value":"Floor, wall, waterline & shallow areas"},{"label":"Connectivity","value":"11 sensors, app control"},{"label":"Feature 4","value":"Weekly custom scheduling"}],
     description:
       "The Scuba S1 targets full pool coverage, including shallow areas near steps and tanning ledges that flat-bottom-only cleaners tend to skip. Eleven onboard sensors feed into a smarter navigation system, and the 270-minute runtime is among the longest in this comparison, useful for larger or irregularly shaped pools.\n\nApp support adds weekly custom cleaning schedules, so the unit can run automatically without needing to be dropped in manually each time. That convenience comes at a mid-to-upper price point, positioned between the budget cordless models and the flagship Scuba V3.",
     bestFor: "Pools with shallow ledges or irregular shapes where floor-only cleaners leave gaps.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Highly rated",
     reviews: "Extensively reviewed",
     specs: ["Wall-climbing scrubber brush", "Smart navigation", "In-ground pools up to 40 ft", "Corded design"],
+    specList: [{"label":"Feature 1","value":"Wall-climbing scrubber brush"},{"label":"Navigation","value":"Smart navigation"},{"label":"Size","value":"In-ground pools up to 40 ft"},{"label":"Design","value":"Corded design"}],
     description:
       "The Nautilus CC Plus is the step up from the standard Nautilus CC, rated for in-ground pools up to 40 feet in length rather than 33. Smart navigation is built to reduce overlap and missed spots on the larger surface area a pool that size covers.\n\nIt carries the same wall-climbing scrubber brush design as the standard CC, so waterline scum and algae get the same dedicated attention as the pool floor. This is a corded model aimed squarely at larger in-ground pools where a smaller cleaner would need multiple cycles to finish.",
     bestFor: "Larger in-ground pools that need a cleaner rated for real length, not just square footage.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Solid option",
     reviews: "Regularly bought on Amazon",
     specs: ["Wall & waterline focused", "Auto-climb, no hand-scrubbing", "150-min runtime", "Auto-docking, up to 2600 sq ft"],
+    specList: [{"label":"Feature 1","value":"Wall & waterline focused"},{"label":"Feature 2","value":"Auto-climb, no hand-scrubbing"},{"label":"Feature 3","value":"150-min runtime"},{"label":"Feature 4","value":"Auto-docking, up to 2600 sq ft"}],
     description:
       "The U8 is built specifically around wall and waterline cleaning rather than treating it as a secondary feature, which matters since waterline scum is often the most visible sign of a neglected pool. It climbs automatically and is marketed as eliminating the need for hand-scrubbing the tile line entirely.\n\nAuto-docking brings the unit back to a fixed point when the cycle finishes, and it is rated for in-ground pools up to 2600 square feet on a 150-minute runtime. This is a solid mid-tier pick for anyone whose main frustration is a dirty waterline rather than floor debris.",
     bestFor: "In-ground pool owners whose main complaint is waterline grime rather than floor debris.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Popular budget option",
     reviews: "Commonly purchased",
     specs: ["Dual motors", "120-min runtime", "Above ground & flat inground", "Auto-parking, up to 1100 sq ft"],
+    specList: [{"label":"Feature 1","value":"Dual motors"},{"label":"Feature 2","value":"120-min runtime"},{"label":"Feature 3","value":"Above ground & flat inground"},{"label":"Feature 4","value":"Auto-parking, up to 1100 sq ft"}],
     description:
       "The Y20 is sized for smaller above-ground and flat-bottom in-ground pools up to 1100 square feet, which covers most standard above-ground setups without paying for coverage you will never use. Dual motors give it more consistent suction on a flat pool floor than single-motor budget units.\n\nAt well under $150, it is one of the lowest-cost cordless options here, and auto-parking still brings it to the edge of the pool for retrieval when the 120-minute cycle ends. This is a straightforward pick for a smaller above-ground pool rather than a large or irregularly shaped in-ground one.",
     bestFor: "Smaller above-ground or flat-bottom pools where a compact, low-cost cleaner is all that is needed.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Budget favorite",
     reviews: "Popular with above-ground pool owners",
     specs: ["Dual motor", "120-min runtime", "Adjustable cleaning path", "Flat pools up to 850 sq ft, cordless"],
+    specList: [{"label":"Feature 1","value":"Dual motor"},{"label":"Feature 2","value":"120-min runtime"},{"label":"Adjustability","value":"Adjustable cleaning path"},{"label":"Feature 4","value":"Flat pools up to 850 sq ft, cordless"}],
     description:
       "The Planet Edge is built for smaller flat-bottom above-ground pools, with an adjustable cleaning path so the unit does not just wander randomly across the floor. Its compact size and light build also make it one of the easier units in this comparison to lift out and carry to storage after each cycle.\n\nAt under $90 it is the lowest price in this entire list, aimed squarely at buyers with a small or seasonal above-ground pool who do not need waterline climbing or app control, just reliable floor coverage on a budget.",
     bestFor: "Small seasonal above-ground pools where a lightweight, low-cost floor cleaner is the priority.",

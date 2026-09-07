@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Always-hot internal tank", "Brews 10 cups in ~3 minutes", "Multi-stream sprayhead", "3-year warranty"],
+    specList: [{"label":"Feature 1","value":"Always-hot internal tank"},{"label":"Size","value":"Brews 10 cups in ~3 minutes"},{"label":"Nozzles","value":"Multi-stream sprayhead"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "The BUNN keeps an internal tank of water hot at all times, so once it is warmed up during initial setup it can brew a full 10-cup pot in about 3 to 4 minutes, faster than most drip machines because it skips the usual heat-up wait. That speed advantage is unique to BUNN's always-hot tank design among drip machines.\n\nThe tradeoff is standby electricity use, since the tank stays hot continuously rather than only during brewing. It uses standard paper filters and ground coffee, with no pod compatibility, and a large flat-bottom filter basket for full water-to-grounds contact.",
     bestFor: "Households that want a full pot fast and don't mind a small ongoing standby electricity cost.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53,550 reviews",
     specs: ["Single-serve or 12-cup carafe", "2 separate reservoirs", "Bold brew setting", "AutoPause & Pour"],
+    specList: [{"label":"Capacity","value":"Single-serve or 12-cup carafe"},{"label":"Feature 2","value":"2 separate reservoirs"},{"label":"Feature 3","value":"Bold brew setting"},{"label":"Feature 4","value":"AutoPause & Pour"}],
     description:
       "This is a genuine hybrid, brewing either a single cup up to 14oz with a mesh scoop or a full 12-cup pot from the same machine, each side with its own water reservoir. It uses ground coffee only, explicitly not compatible with K-Cup pods, so there is no per-pod cost on either side.\n\nFor a mixed household where some people want a quick single cup and others want a full pot, this avoids needing two separate machines. Both sides share the same descaling process since they draw from the same internal heating path.",
     bestFor: "Mixed households that want both single-cup and full-pot brewing without pods or a second machine.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "50,271 reviews",
     specs: ["42oz reservoir", "3 cup sizes: 8, 10, 12oz", "Strong button", "My K-Cup reusable filter compatible"],
+    specList: [{"label":"Feature 1","value":"42oz reservoir"},{"label":"Capacity","value":"3 cup sizes: 8, 10, 12oz"},{"label":"Feature 3","value":"Strong button"},{"label":"Filtration","value":"My K-Cup reusable filter compatible"}],
     description:
       "The K-Express brews a single cup in about 1 to 2 minutes from a sealed pod, with three cup-size options and a strong-brew button that runs more water through the same pod for bolder flavor. Its 42oz reservoir holds roughly four to five 8oz cups before refilling, so daily single-cup use doesn't mean refilling every time.\n\nIt supports the My K-Cup reusable filter for ground coffee, meaning it can skip pods entirely if you want, though its default and most common use is single-serve K-Cup pods. Auto-off after 5 minutes limits standby power between uses.",
     bestFor: "A single-cup routine for one or two people who want speed and simplicity over batch brewing.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "1-cup reservoir", "6 to 12oz brew", "My K-Cup compatible"],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Capacity","value":"1-cup reservoir"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"My K-Cup compatible"}],
     description:
       "The K-Mini uses a fill-per-brew one-cup reservoir instead of a standing tank, so you add fresh water for every cup rather than keeping a reservoir topped off. That keeps its footprint under 5 inches wide, the smallest of any machine in this comparison, drip or pod.\n\nIt brews any size between 6 and 12oz from a single K-Cup pod and also accepts the My K-Cup reusable filter. Auto-off after 90 seconds is faster than the K-Express's 5-minute window, saving a bit more standby power for occasional use.",
     bestFor: "Tight counter space, a dorm, or a secondary single-cup machine for an office or bedroom.",

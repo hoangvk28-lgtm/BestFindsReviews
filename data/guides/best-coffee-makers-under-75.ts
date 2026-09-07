@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,557 reviews",
     specs: ["10-cup capacity", "Regular/Strong brew", "Auto shut-off", "Permanent filter included"],
+    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"Regular/Strong brew"},{"label":"Feature 3","value":"Auto shut-off"},{"label":"Filtration","value":"Permanent filter included"}],
     description:
       "The SHARDOR sits comfortably under this tier's $75 ceiling while offering programmable brew start, a regular-or-strong selector, and a permanent filter that removes ongoing paper filter costs entirely. That combination is normally what separates this middle tier from the bare-bones sub-$50 machines.\n\nWith real budget headroom left under $75, buyers who want to spend a little more within this tier could pair it with a better burr grinder or a second reusable filter without ever approaching the Under $100 range.",
     bestFor: "Buyers who want programmable brewing and a permanent filter while leaving room in the $75 budget.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22,693 reviews",
     specs: ["10-cup capacity", "900 watts", "Drip-free design", "Dishwasher-safe carafe"],
+    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Design","value":"Drip-free design"},{"label":"Feature 4","value":"Dishwasher-safe carafe"}],
     description:
       "KRUPS is a more established appliance brand than several sub-$50 alternatives, and the Simply Brew's dishwasher-safe carafe and drip-free pour design reflect a build-quality step up that is a genuine, if modest, upgrade over the cheapest tier. At 900 watts it is a straightforward, no-frills drip machine.\n\nIt sticks to standard paper filters rather than a permanent one, which is a small recurring cost, but the sturdier overall build and easier cleanup are worth the tradeoff for buyers prioritizing longevity over the absolute lowest price in this tier.",
     bestFor: "Buyers who want a sturdier build and easier cleanup without paying the full $75.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup capacity", "Vortex brewing technology", "Sneak-a-cup", "Removable filter basket"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 2","value":"Vortex brewing technology"},{"label":"Feature 3","value":"Sneak-a-cup"},{"label":"Filtration","value":"Removable filter basket"}],
     description:
       "This BLACK+DECKER model has the largest carafe in this comparison at 12 cups and uses Vortex brewing technology aimed at more even water distribution over the grounds than a basic drip stream. For a household that regularly brews a full pot, it delivers the most capacity for the price in this tier.\n\nIt is also the lowest-priced machine here, which leaves the most budget headroom of the four if you want to also buy a reusable filter or a better grinder within the same $75 ceiling.",
     bestFor: "Larger households that want maximum carafe capacity and the most budget headroom in this tier.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "2,175 reviews",
     specs: ["12-cup capacity", "Programmable", "No-drip glass carafe", "Auto shut-off"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 2","value":"Programmable"},{"label":"Feature 3","value":"No-drip glass carafe"},{"label":"Feature 4","value":"Auto shut-off"}],
     description:
       "The BREW combines a 12-cup capacity with genuine programmable start at the lowest price of any model in this comparison, undercutting even the sub-$50 tier while still fitting comfortably within this guide. Its no-drip carafe spout is a small but real convenience during pouring that not every budget machine includes.\n\nWith the smallest review base of the four picks here, it has less of a track record than the more established KRUPS or BLACK+DECKER options, though its current rating is in line with the rest of this comparison.",
     bestFor: "Buyers who want programmable start and a no-drip carafe at the lowest price in this tier.",

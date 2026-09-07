@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "1,123 reviews",
     specs: ["2 to 12 cup range", "Cordless serving base", "Glass viewing cover", "Stainless steel construction"],
+    specList: [{"label":"Capacity","value":"2 to 12 cup range"},{"label":"Feature 2","value":"Cordless serving base"},{"label":"Feature 3","value":"Glass viewing cover"},{"label":"Material","value":"Stainless steel construction"}],
     description:
       "The 02815 brews about a cup per minute according to the listing, and a glass cover lets you watch the percolation cycle so you can judge when to pull it off the power base rather than guessing. Because the pot detaches from a cordless power base, you can stop the active percolating cycle and move to serving immediately, which limits how long the grounds keep recirculating boiling water.\n\nThe 2 to 12 cup range means brew time varies meaningfully by batch size. Expect the low end of a stated brew estimate at 2 cups and closer to the high end at a full 12-cup batch, since more water needs to cycle through the stem regardless of capacity setting.",
     bestFor: "Buyers who want to visually monitor the percolation cycle and stop it at the right moment.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "19,761 reviews",
     specs: ["12-cup capacity", "Cup-a-minute brewing", "Automatic keep-warm", "Signal light"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 2","value":"Cup-a-minute brewing"},{"label":"Feature 3","value":"Automatic keep-warm"},{"label":"Lighting","value":"Signal light"}],
     description:
       "This model brews at roughly a cup per minute per the listing and automatically switches to a keep-warm function once brewing finishes, which is convenient but is exactly the setting most likely to over-extract coffee if left running for an hour or more. A signal light indicates when brewing is complete, giving you a clear cue to pour rather than leaving it recirculating.\n\nThe detachable cord simplifies moving the pot for serving, and the stainless steel body and interior chamber clean up easily, though the percolator stem and basket still need to be disassembled and rinsed separately from the pot after each use.",
     bestFor: "Buyers who want a straightforward stainless steel percolator at a moderate price.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "12,673 reviews",
     specs: ["8-cup capacity", "Stainless steel basket", "No-drip spout", "Detachable cord"],
+    specList: [{"label":"Capacity","value":"8-cup capacity"},{"label":"Material","value":"Stainless steel basket"},{"label":"Feature 3","value":"No-drip spout"},{"label":"Feature 4","value":"Detachable cord"}],
     description:
       "The 8-cup capacity makes this the smallest household percolator in this comparison, brewing faster to a full batch than the 12-cup models simply because less total water needs to cycle through the stem. That is a genuine advantage for a smaller household that does not want a full 12 cups every time and does not want to wait as long for a smaller pot either.\n\nThe stainless steel exterior and coffee basket are called out specifically in the listing, and the automatic keep-warm function carries the same over-extraction caution as the larger Presto models, worth watching if you tend to leave coffee sitting after the brew cycle ends.",
     bestFor: "Smaller households who want a faster brew cycle to a smaller batch.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "823 reviews",
     specs: ["1.9qt / 12 cups", "1000W power", "Reheats below 113F", "Food-grade 304 steel"],
+    specList: [{"label":"Capacity","value":"1.9qt / 12 cups"},{"label":"Feature 2","value":"1000W power"},{"label":"Feature 3","value":"Reheats below 113F"},{"label":"Material","value":"Food-grade 304 steel"}],
     description:
       "The VEVOR's keep-warm behavior is more specific than most competitors: the listing states it reheats automatically if the liquid drops below 113 degrees Fahrenheit, rather than simply holding a constant warming plate temperature. That threshold-based reheating cycle is worth understanding, since repeated reheating over a long period is another path to over-extracted, bitter coffee even without continuous percolating.\n\nAt 1000 watts it brews quickly, and the food-grade 304 stainless steel body and press-to-release lid make disassembly for cleaning straightforward. This is the lowest-priced model in this comparison and a reasonable entry point if you do not need cordless serving or a viewing window.",
     bestFor: "Budget buyers who want a full 12-cup capacity without paying for cordless or viewing extras.",

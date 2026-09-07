@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "62 reviews",
     specs: ["8000Pa suction", "Vacuum and mop combo", "Pet hair focused", "Carpet and hard floor modes"],
+    specList: [{"label":"Suction Power","value":"8000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Pet hair focused"},{"label":"Feature 4","value":"Carpet and hard floor modes"}],
     description:
       "The Vyzzle E20 pairs 8000Pa suction with a combined vacuum and mop function, which is a useful combination for a larger home with mixed flooring where you do not want to run two separate machines. Vyzzle is a newer name compared to the established robot vacuum brands, but its current rating is the strongest of any model in this comparison.\n\nThe review count is small relative to the more established brands here, so treat the rating as an early but genuinely positive signal rather than a large-scale track record. For a large home, pair it with attention to how it handles recharge-and-resume across multiple rooms, since that behavior matters more as square footage grows.",
     bestFor: "Buyers who want strong current owner feedback on a vacuum-and-mop combo and are comfortable with a newer brand.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Highly rated by current owners",
     reviews: "Large volume of buyer feedback",
     specs: ["10000Pa suction", "Self-empty dock rated up to 7-9 weeks", "Vacuum and mop combo", "roborock navigation"],
+    specList: [{"label":"Suction Power","value":"10000Pa suction"},{"label":"Durability","value":"Self-empty dock rated up to 7-9 weeks"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"roborock navigation"}],
     description:
       "The Q7 M5+ pairs 10000Pa suction with a self-empty dock rated to hold up to 7 to 9 weeks of debris, which is the longest stated self-empty interval in this comparison. For a large home generating more dust and pet hair across more square footage, that stretch between manual dustbin emptying is a meaningful convenience.\n\nroborock's navigation and app ecosystem is well established at this point, which tends to translate into steadier multi-room mapping and more predictable recharge-and-resume behavior than newer entrants in this price range.",
     bestFor: "Large homes that want the longest stretch between manually emptying the dock.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Strong buyer feedback",
     reviews: "Well reviewed by current owners",
     specs: ["20,000Pa suction", "HydroJet roller mop", "Vacuum and mop combo", "Premium dock system"],
+    specList: [{"label":"Suction Power","value":"20,000Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Premium dock system"}],
     description:
       "The E25 leads this comparison on raw suction at 20,000Pa, and pairs it with eufy's HydroJet roller mop, which actively cleans the mop roller during use rather than dragging a increasingly dirty pad across your floors. That combination targets homes with heavier pet hair or ground-in dirt across a large floor plan.\n\nThe price is the highest of any model here, which puts it in a different tier than the budget and mid-range entries. It is best considered by buyers who have already ruled out mid-range options because of suction or mop-cleanliness complaints.",
     bestFor: "Larger homes with heavy pet hair or ground-in dirt where maximum suction and a self-cleaning mop roller matter more than price.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Well reviewed by owners",
     reviews: "Solid volume of current feedback",
     specs: ["Vacuum and mop combo", "Hardwood and carpet modes", "All-in-one dock", "eufy Omni platform"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet modes"},{"label":"Size","value":"All-in-one dock"},{"label":"Feature 4","value":"eufy Omni platform"}],
     description:
       "The Omni C20 is built around eufy's all-in-one dock system, which handles both dustbin emptying and mop pad washing in the same station. For a large home where multiple flooring types are common, the dedicated hardwood and carpet modes help it adjust suction and mop behavior room by room rather than using one setting everywhere.\n\nAs a mid-tier entry in eufy's current lineup, it sits between the budget self-empty models and the flagship HydroJet suction of the E25, making it a reasonable middle ground for households that want a full-service dock without paying flagship pricing.",
     bestFor: "Homes with a mix of hardwood and carpet that want dustbin emptying and mop washing handled in one dock.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Positive early feedback",
     reviews: "Growing number of buyer reviews",
     specs: ["8000Pa suction", "Self-emptying dock rated 90 days", "Vacuum and mop combo", "Large-capacity base"],
+    specList: [{"label":"Suction Power","value":"8000Pa suction"},{"label":"Durability","value":"Self-emptying dock rated 90 days"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Capacity","value":"Large-capacity base"}],
     description:
       "MONSGA advertises a 90-day self-emptying interval on its dock, which lines up closely with roborock's Q7 M5+ at the top of this list while coming in at a somewhat lower price. Combined with 8000Pa suction and mop functionality, it targets the same large-home use case of going long stretches without manual dustbin emptying.\n\nAs a less established brand than roborock or eufy, it has a shorter ownership track record, so buyers prioritizing long-term reliability data may want to weigh that against the lower price and comparable self-empty interval.",
     bestFor: "Large homes that want a long self-empty interval without paying roborock or eufy flagship pricing.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Well-liked by current buyers",
     reviews: "Broadly positive reviews",
     specs: ["8000Pa suction", "150-minute runtime", "Laser navigation with smart mapping", "Self-emptying dock"],
+    specList: [{"label":"Suction Power","value":"8000Pa suction"},{"label":"Feature 2","value":"150-minute runtime"},{"label":"Connectivity","value":"Laser navigation with smart mapping"},{"label":"Feature 4","value":"Self-emptying dock"}],
     description:
       "This Q10 pro model lists a 150-minute runtime per charge, the longest stated single-charge runtime in this comparison, alongside laser navigation and smart mapping. A longer per-charge runtime reduces how often a large home requires a recharge-and-resume cycle to finish a full cleaning pass.\n\nIt pairs that runtime with a self-emptying dock and 8000Pa suction, putting it in the same general tier as the MONSGA and roborock Q7 M5+ above, with runtime as its specific differentiator rather than dock capacity or suction.",
     bestFor: "Large, sprawling floor plans where finishing a full clean on a single charge matters more than maximum suction.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Praised in owner reviews",
     reviews: "Substantial buyer feedback",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "roborock navigation platform", "S5+ dock system"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"roborock navigation platform"},{"label":"Feature 4","value":"S5+ dock system"}],
     description:
       "The Q10 S5+ brings 10,000Pa suction on roborock's established navigation platform, which tends to handle multi-room mapping and obstacle avoidance more consistently than newer or smaller brands. For a large home with pets, that suction level combined with steady mapping helps keep pickup consistent from room to room.\n\nIt does not list the extended self-empty interval of its sibling Q7 M5+, so buyers who specifically want the longest stretch between dock maintenance should compare the two roborock models directly before choosing.",
     bestFor: "Pet-owning households with a large floor plan that want roborock's navigation reliability at 10,000Pa suction.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Solid feedback from current owners",
     reviews: "Healthy number of reviews",
     specs: ["10000Pa max suction", "Vacuum and mop combo", "ILIFE navigation", "Sub-$200 price point"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"ILIFE navigation"},{"label":"Feature 4","value":"Sub-$200 price point"}],
     description:
       "The A30 Pro matches the 10000Pa max suction rating of pricier roborock and MONSGA models here while coming in under $200, making it the clearest value pick in this comparison for a large home on a tighter budget. It combines vacuuming and mopping in one pass rather than requiring separate cleaning modes.\n\nIt does not include the extended self-empty dock capacity or stated long runtime of the higher-priced entries above, so buyers choosing it for a large home should plan on more frequent manual dustbin checks than with the self-empty-focused models on this list.",
     bestFor: "Large-home buyers who want 10000Pa suction without paying for an extended self-empty dock.",

@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Gas mower listings tend to lead with engine displacement (cc) as if a bigger number always means a better mower, but cc alone does not tell you how a mower starts, how much it vibrates, or how often it needs oil changes and filter cleaning. We looked past the engine spec sheet to how each mower is actually built and driven.",
   "We compare engine type, drive system, deck size, fuel workload, and the maintenance and seasonal storage tasks that come with owning a gas mower, so you can match a model to your yard instead of buying on cc alone.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "powersmart-easyglide-21", rank: 1, badge: "Best Overall", name: "PowerSmart EasyGlide 21-Inch Gas Lawn Mower",
     amazonUrl: "https://www.amazon.com/dp/B0CB9XSR1S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/419ZsDeTwFL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch steel deck", "144cc 4-stroke OHV engine", "3-in-1 mulch/bag/side discharge", "6-position height adjustment"],
+    specList: [{"label":"Size","value":"21-inch steel deck"},{"label":"Feature 2","value":"144cc 4-stroke OHV engine"},{"label":"Collection","value":"3-in-1 mulch/bag/side discharge"},{"label":"Adjustability","value":"6-position height adjustment"}],
     description: "The PowerSmart EasyGlide pairs a 21-inch steel deck with a 144cc 4-stroke OHV engine and gives you mulch, bag, and side discharge in one machine, so you are not locked into one grass-handling method for the whole season. The 6-position height adjustment covers most lawn conditions from a tight spring cut to letting grass run longer in summer heat.\n\nAt this writing it holds a 4.3 rating across 932 reviews on Amazon, which is a large enough sample to take seriously for a mower in this price range. A push (non-self-propelled) walk-behind still means you are supplying the forward effort yourself, so flat to gently sloped yards are the better fit than steep terrain.",
     bestFor: "buyers who want a full-featured, well-reviewed push mower without paying for self-propel",
     pros: ["21-inch steel deck with 3-in-1 discharge options", "144cc 4-stroke OHV engine", "4.3 rating across 932 reviews at time of writing"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H7WZV1X5?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/415GtVk9iTL._SL500_.jpg", price: "$299.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "170cc 4-cycle engine", "Self-propelled drive", "Larger displacement than most 21-inch mowers"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"170cc 4-cycle engine"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Feature 4","value":"Larger displacement than most 21-inch mowers"}],
     description: "The Ezasin steps up to a 170cc 4-cycle engine and adds self-propelled drive to a 21-inch deck, which is the combination that matters most once a yard is large enough that pushing a mower for the full session becomes tiring. The bigger engine also gives it more reserve power for thicker or taller grass than a smaller-displacement push mower.\n\nAt time of writing this listing shows a 5.0 rating, but that is from only 17 reviews, so treat it as an early signal rather than a settled track record the way a mower with hundreds of reviews would be. Buyers who want a larger, proven review history may prefer the PowerSmart EasyGlide above.\n\nAs with any self-propelled gas mower, factor in that the drive system adds another mechanical part (typically a drive cable and transmission) that can need adjustment or repair over the mower's life.",
     bestFor: "larger lawns or gently sloped yards where self-propel reduces fatigue",
     pros: ["170cc 4-cycle engine with more reserve power", "Self-propelled drive reduces pushing effort", "21-inch deck matches most residential lawns"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GKFSJ7WR?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41MuYPVbecL._SL500_.jpg", price: "$129.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["131cc gas engine", "Self-propelled rear-wheel drive", "50L grass collection tank", "Foldable frame for storage"],
+    specList: [{"label":"Feature 1","value":"131cc gas engine"},{"label":"Wheels","value":"Self-propelled rear-wheel drive"},{"label":"Collection","value":"50L grass collection tank"},{"label":"Material","value":"Foldable frame for storage"}],
     description: "This 131cc self-propelled mower undercuts the other gas mowers here on price while still offering rear-wheel self-propelled drive and a 50L grass collection tank. The foldable frame is a genuine advantage for anyone with limited garage or shed space, since it collapses down for vertical storage rather than needing a full footprint year-round.\n\nAt time of writing it holds a 3.3 rating from 19 reviews, both lower and thinner than the other two mowers in this guide, so it is worth reading current owner feedback before buying rather than relying on the price alone. It is best treated as an entry-level option for buyers prioritizing low upfront cost and compact storage over engine size or a longer review track record.",
     bestFor: "buyers who want the lowest upfront cost and compact folded storage over a long review history",
     pros: ["Lowest price of the gas mowers in this guide", "Foldable frame saves storage space", "Self-propelled drive despite the smaller 131cc engine"],

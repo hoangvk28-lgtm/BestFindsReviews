@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Under $150 is a thin tier for powered mowers. Most full-size gas and battery mowers with a real deck and self-propel start well above this price, so this list leans on a manual reel mower, compact corded electrics, and a couple of small cordless push mowers with limited review history. We priced every model at or below $150 as sold, not on a temporary sale.",
   "If you have a larger or uneven lawn, or you want more cutting width and a bigger battery, our Best Lawn Mowers Under $100 and Best Lawn Mowers Under $200 guides cover the tiers directly below and above this one, and the Under $200 guide in particular opens up more self-propelled and higher-capacity cordless options.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "american-lawn-mower-1204-14", rank: 1, badge: "Best Overall", name: "American Lawn Mower 1204-14 14-Inch 4-Blade Push Reel Mower",
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "4-blade reel cutting head", "No motor, cord, or battery", "Push-powered operation"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Hose","value":"4-blade reel cutting head"},{"label":"Battery","value":"No motor, cord, or battery"},{"label":"Color/Finish","value":"Push-powered operation"}],
     description: "The American Lawn Mower 1204-14 is a manual reel mower with a 14-inch cutting width and a 4-blade reel head. It holds a 4.3 out of 5 rating across more than 15,000 reviews, the largest and most consistent review base of any mower in this price range, which points to a design that has held up across a large number of buyers over time.",
     bestFor: "small flat lawns where a buyer wants no motor, no cord, and no battery to maintain",
     pros: ["Highest review count and rating of any mower in this tier", "No fuel, charging, or battery replacement cost", "Simple design with few parts to fail"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B078YYPWLY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31CdnGNWAvL._SL500_.jpg", price: "$65.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["12-inch cutting width", "6.5-amp corded motor", "Converts to trimmer and edger", "Lowest price in this guide"],
+    specList: [{"label":"Size","value":"12-inch cutting width"},{"label":"Motor","value":"6.5-amp corded motor"},{"label":"Feature 3","value":"Converts to trimmer and edger"},{"label":"Feature 4","value":"Lowest price in this guide"}],
     description: "The BLACK+DECKER BESTA512CM combines a compact 12-inch corded push mower with a trimmer and edger attachment in one 6.5-amp unit. It carries a 4.2 out of 5 rating from roughly 9,700 reviews, a strong result for a mower this size and price, and the lowest price of any product in this guide.",
     bestFor: "very small or oddly shaped yards where one tool needs to mow, trim, and edge",
     pros: ["Lowest price of any mower on this list", "Strong rating across a large review count", "Trimmer and edger functions in one purchase"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch cutting width", "11-amp corded motor", "No battery replacement needed", "Cord-dependent operation"],
+    specList: [{"label":"Size","value":"15-inch cutting width"},{"label":"Motor","value":"11-amp corded motor"},{"label":"Battery","value":"No battery replacement needed"},{"label":"Feature 4","value":"Cord-dependent operation"}],
     description: "The LawnMaster MEB1114K pairs a 15-inch deck with an 11-amp corded motor, the widest cutting path of any mower in this guide. It holds a 4.0 out of 5 rating from about 4,450 reviews, a solid result with a smaller review base than the reel mower and the BLACK+DECKER combo above it.",
     bestFor: "small unobstructed yards near an outlet that want the widest deck available under $150",
     pros: ["Widest cutting deck in this price tier", "No battery to buy or replace over time", "Solid rating across a meaningful review count"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVD6ZLV?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51zw5LOnu7L._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "Brushless motor", "5.0Ah battery and charger included", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Feature 2","value":"Brushless motor"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "The Litheli 14-Inch is a cordless push mower with a brushless motor and an included 5.0Ah battery and charger, rated for lawns up to about 3,000 square feet. It has a 3.9 out of 5 rating, but that rating comes from only 48 reviews, so treat it as an early signal rather than a proven track record.",
     bestFor: "small cord-free lawns where a buyer accepts a limited review history in exchange for battery convenience",
     pros: ["Battery and charger included at under $100", "Brushless motor and 5 height positions", "No cord to manage while mowing"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H82DR75D?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Wu7LRPntL._SL500_.jpg", price: "$119.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["13-inch cutting width", "40V cordless battery system", "Compact size for small yards or patios", "Lightweight push design"],
+    specList: [{"label":"Size","value":"13-inch cutting width"},{"label":"Power Source","value":"40V cordless battery system"},{"label":"Design","value":"Compact size for small yards or patios"},{"label":"Weight Capacity","value":"Lightweight push design"}],
     description: "This 13-inch 40V cordless mower is built for very small patios and garden strips rather than a full lawn. Its 3.3 out of 5 rating is drawn from only 19 reviews, the smallest and lowest-rated review base in this guide, so it belongs on a shortlist only after the products above have been ruled out.",
     bestFor: "very small patio or garden strips where a buyer has already ruled out the higher-rated options above",
     pros: ["Compact and lightweight for tight storage spaces", "Cordless operation for small, contained areas"],

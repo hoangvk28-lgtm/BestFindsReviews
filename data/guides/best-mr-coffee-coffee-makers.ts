@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "1,949 reviews",
     specs: ["14-cup capacity, 70oz", "1 to 4 cup small-batch setting", "Strong brew selector", "Keep-warm, 1 to 4 hours adjustable"],
+    specList: [{"label":"Capacity","value":"14-cup capacity, 70oz"},{"label":"Feature 2","value":"1 to 4 cup small-batch setting"},{"label":"Feature 3","value":"Strong brew selector"},{"label":"Adjustability","value":"Keep-warm, 1 to 4 hours adjustable"}],
     description:
       "This is the largest and most fully featured model in the current Mr Coffee lineup, with a dedicated 1 to 4 cup small-batch selector alongside the standard 14-cup mode. The small-batch setting slows the brew cycle for a smaller water volume rather than just running the full-pot cycle on less water, which noticeably improves small-batch strength compared to running a full-size machine on a partial fill.\n\nAn adjustable keep-warm setting lets you choose how long the plate stays on, from 1 to 4 hours, which is worth setting conservatively since coffee sitting on any warming plate that long will taste noticeably flatter than fresh. Mr Coffee counts one cup as 5 fluid ounces, so the 14-cup label brews about 70oz total, closer to nine standard 8oz mugs than fourteen.",
     bestFor: "Households that need both a full pot and a genuinely usable small-batch mode in one machine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "6,992 reviews",
     specs: ["12-cup capacity, 60oz", "Programmable LED display", "Grab-a-Cup auto pause", "Water window for level checking"],
+    specList: [{"label":"Capacity","value":"12-cup capacity, 60oz"},{"label":"Lighting","value":"Programmable LED display"},{"label":"Feature 3","value":"Grab-a-Cup auto pause"},{"label":"Feature 4","value":"Water window for level checking"}],
     description:
       "This model adds programmable scheduling to Mr Coffee's basic 12-cup format, so you can set it up the night before and wake up to a finished pot. The lift-and-clean filter basket removes fully for rinsing, which is a small but genuinely useful detail for daily cleanup.\n\nLike the rest of the current lineup, it includes Grab-a-Cup auto pause, which stops the flow briefly so you can pull a cup before the cycle finishes. Doing this repeatedly, or leaving the carafe out of position for more than a few seconds, risks the basket overflowing since the machine keeps dripping the moment the carafe is pulled.",
     bestFor: "Buyers who want scheduled brewing without paying for the small-batch mode or the largest capacity.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "44,650 reviews",
     specs: ["12-cup capacity, 60oz", "On/off indicator light", "Grab-a-Cup auto pause", "Removable basket filter"],
+    specList: [{"label":"Capacity","value":"12-cup capacity, 60oz"},{"label":"Lighting","value":"On/off indicator light"},{"label":"Feature 3","value":"Grab-a-Cup auto pause"},{"label":"Filtration","value":"Removable basket filter"}],
     description:
       "This is Mr Coffee's simplest current 12-cup machine, with no programming and just an on/off switch and indicator light. For a buyer who wants to press one button and get a pot without setting a clock, this is the most straightforward option in the lineup and the least likely to be misconfigured.\n\nThe basic warming plate has no adjustable duration, so coffee left sitting for over an hour will start to taste noticeably scorched and bitter. Treat that plate as a short-term hold, not a way to keep coffee fresh through the morning.",
     bestFor: "Buyers who want the lowest price and simplest possible operation with no programming to configure.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "32,949 reviews",
     specs: ["5-cup capacity", "Compact footprint", "Grab-a-Cup auto pause", "Ounce markings on carafe"],
+    specList: [{"label":"Capacity","value":"5-cup capacity"},{"label":"Design","value":"Compact footprint"},{"label":"Feature 3","value":"Grab-a-Cup auto pause"},{"label":"Feature 4","value":"Ounce markings on carafe"}],
     description:
       "The 5-cup Mini Brew is sized for a single person or a small kitchen, with a compact footprint and a carafe marked with ounce measurements for accurate small pours. It shares the same Grab-a-Cup auto pause as the larger models, so the same overflow caution applies if you pull the carafe out for more than a moment.\n\nWith no programming and a small reservoir, this is closer to a dorm-room or office-desk appliance than a household's primary coffee maker. It is the least expensive machine in this comparison and the easiest to fit on a tight counter.",
     bestFor: "Single users or tight counter spaces that do not need a full-size pot.",

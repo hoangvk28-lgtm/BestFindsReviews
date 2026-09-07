@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["Vacuum and mop combo", "Hardwood and carpet", "No onboard camera", "Self-cleaning dock"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Feature 4","value":"Self-cleaning dock"}],
     description:
       "The Omni C20 combines vacuuming and mopping in a single unit and navigates using structural and cliff sensors rather than a camera, so there is no lens capturing images of your floor as it maps a room. It carries the highest rating and among the highest review counts in this comparison, which is a solid signal of day-to-day reliability across a range of homes.\n\nBecause it handles both hardwood and carpet with an automated dock, it suits buyers who want one machine to cover most of a home without swapping accessories. As with any connected vacuum, check the eufy app's account and map-sharing settings if you want to confirm exactly what is stored in the cloud versus kept on the device.",
     bestFor: "Buyers who want a full-featured vacuum and mop combo with no onboard camera and top-tier reliability.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "53,856 reviews",
     specs: ["15,000 Pa suction", "HydroJet roller mop", "No onboard camera", "Self-empty base"],
+    specList: [{"label":"Suction Power","value":"15,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Feature 4","value":"Self-empty base"}],
     description:
       "The C28 pairs 15,000 Pa of suction with a HydroJet roller mop that spins to scrub floors rather than dragging a pad behind it, and it navigates without any camera or vision-based object recognition. That suction figure is among the strongest in this lineup, which matters most for homes with rugs or pet hair.\n\nThe roller mop system needs periodic cleaning of its own, which is a fair tradeoff for the deeper scrubbing it provides over a passive mop pad. This is a premium option in the lineup, so it fits buyers prioritizing cleaning performance over price.",
     bestFor: "Buyers who want strong suction and active mopping without paying attention to a lower price tag.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "59,218 reviews",
     specs: ["Super-thin profile", "Quiet operation", "No onboard camera", "Bump-sensor navigation"],
+    specList: [{"label":"Feature 1","value":"Super-thin profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Navigation","value":"Bump-sensor navigation"}],
     description:
       "The 11S MAX is a vacuum-only model that uses a slim body to fit under low furniture, along with bump and cliff sensors instead of a camera or LiDAR turret. It has the highest review count in this comparison, which reflects how often it gets bought as a straightforward, no-frills daily vacuum.\n\nIts navigation is simpler than the LiDAR models here, so it covers a room in a more randomized pattern rather than mapping it methodically. For buyers who mainly want reliable daily suction under couches and beds without paying for mapping features, that tradeoff is usually acceptable.",
     bestFor: "Budget-focused buyers who want a slim, quiet, camera-free vacuum for daily maintenance cleaning.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "31,447 reviews",
     specs: ["LiDAR navigation", "Neat-row cleaning pattern", "No onboard camera", "Self-charging"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 2","value":"Neat-row cleaning pattern"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Roomba 105 uses LiDAR rather than a camera to build its map, sweeping rooms in defined rows instead of a randomized bounce pattern. LiDAR relies on laser distance measurement rather than a captured image, which is a meaningfully different sensing approach from vision-based navigation even though both can produce a room map.\n\nAt under $160, it undercuts most LiDAR-equipped models by a wide margin while still delivering methodical row-by-row coverage and strong review volume. It is vacuum-only, with no mopping function.",
     bestFor: "Buyers who want true LiDAR mapping and methodical cleaning rows without paying LiDAR premium pricing.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "18,586 reviews",
     specs: ["10,000Pa suction", "Up to 7-9 week self-empty", "No onboard camera", "Vacuum and mop combo"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Feature 2","value":"Up to 7-9 week self-empty"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "The Q7 M5+ uses LiDAR-based navigation and pairs it with a self-empty dock rated for up to 7 to 9 weeks between manual dust bag changes, which is longer than most models in this price range. It combines vacuuming and mopping in one unit at 10,000Pa of suction.\n\nIts rating sits a step below the eufy models here, though its long self-empty interval and combined mop function make it a reasonable middle-ground pick for buyers who want to minimize hands-on maintenance without paying premium pricing.",
     bestFor: "Buyers who want the longest stretch between emptying the dock without stepping up to a premium price.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,152 reviews",
     specs: ["10,000Pa suction", "LiDAR navigation", "No onboard camera", "Vacuum and mop combo"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "The Q10 S5+ shares the same LiDAR-based, camera-free navigation as its Q7 sibling and matches its 10,000Pa suction rating, making it a strong option for homes with medium-pile carpet or shedding pets. It also combines vacuum and mop functions in one unit.\n\nAt a slightly lower price than the Q7 M5+ but without the extended self-empty interval, this is the pick for buyers who prioritize suction and price over how long the dock goes between servicing.",
     bestFor: "Carpet-heavy homes that want strong suction and LiDAR mapping at a moderate price.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "7,587 reviews",
     specs: ["Self-empty base", "No onboard camera", "Bump-sensor navigation", "Tangle-resistant brush roll"],
+    specList: [{"label":"Feature 1","value":"Self-empty base"},{"label":"Feature 2","value":"No onboard camera"},{"label":"Navigation","value":"Bump-sensor navigation"},{"label":"Feature 4","value":"Tangle-resistant brush roll"}],
     description:
       "The Navigator RV2120AE relies on bump and cliff sensors rather than a camera or LiDAR turret, and pairs that simpler navigation with a self-empty base and a tangle-resistant brush roll aimed at pet hair specifically. Shark's brush roll design is one of the more commonly cited strengths for pet owners across its vacuum lineup.\n\nIt has the lowest review count of the mid-tier models here, so treat it as a newer entrant rather than a long-proven one, though its rating is in line with the other 4.0-rated picks in this comparison.",
     bestFor: "Pet owners who want a tangle-resistant brush roll and self-empty convenience without LiDAR mapping.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "726 reviews",
     specs: ["LiDAR navigation", "Dual rubber anti-tangle brushes", "Obstacle and anti-fall detection", "AutoEmpty dock"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 2","value":"Dual rubber anti-tangle brushes"},{"label":"Feature 3","value":"Obstacle and anti-fall detection"},{"label":"Feature 4","value":"AutoEmpty dock"}],
     description:
       "The Roomba Max 705 uses LiDAR navigation with added obstacle and anti-fall detection sensors, none of which require a camera, along with dual rubber anti-tangle brushes built for carpet and hard floors. Its AutoEmpty dock keeps hands-on maintenance to a minimum between larger cleaning sessions.\n\nIt is the newest and least-reviewed model in this comparison, and its current rating is the lowest of the eight, so weigh its added obstacle-avoidance sensors against that more limited track record before choosing it over the better-established picks above.",
     bestFor: "Buyers who specifically want extra obstacle and anti-fall sensors and are comfortable with a newer, less-reviewed model.",

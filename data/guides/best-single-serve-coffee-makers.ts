@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "72,567 reviews",
     specs: ["Pod-only, 4, 6, 8, 10, 12oz sizes", "75oz reservoir", "Iced setting", "Strength control"],
+    specList: [{"label":"Feature 1","value":"Pod-only, 4, 6, 8, 10, 12oz sizes"},{"label":"Feature 2","value":"75oz reservoir"},{"label":"Feature 3","value":"Iced setting"},{"label":"Feature 4","value":"Strength control"}],
     description:
       "The K-Elite is a pod-only machine, primarily built around K-Cup pods, though it accepts a separately sold reusable filter for ground coffee if you want that option later. It brews five distinct cup sizes with strength control, and the smallest 4oz setting can run a few degrees cooler than the mid-range sizes since less water passes over the heating element in that shorter cycle.\n\nThe 75oz reservoir is large enough to go several days without a refill for one person, and a built-in descale reminder helps you stay on top of the maintenance that keeps temperature and flow consistent over time. Needle-cleaning is straightforward since the pod chamber lifts open fully for access.",
     bestFor: "Buyers who want the most cup-size and strength control in a pod-only machine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,498 reviews",
     specs: ["Pods or grounds, 6 to 24oz", "56oz reservoir", "Built-in milk frother", "4 brew styles including Over Ice"],
+    specList: [{"label":"Feature 1","value":"Pods or grounds, 6 to 24oz"},{"label":"Feature 2","value":"56oz reservoir"},{"label":"Size","value":"Built-in milk frother"},{"label":"Feature 4","value":"4 brew styles including Over Ice"}],
     description:
       "This is a genuinely dual-compatible machine, brewing both K-Cup pods and your own ground coffee through the same chamber using an included pod adapter, rather than treating one format as an afterthought. That flexibility matters if different people in your household prefer different formats, or if you want the option to skip pods on any given day.\n\nTemperature and extraction are managed by Ninja's own thermal flavor extraction system rather than a Keurig mechanism, and the brew basket needs regular rinsing when using grounds since coffee oil residue builds up faster in an insert designed for two formats. A built-in milk frother adds real versatility for lattes without adding much cleaning burden since it folds away.",
     bestFor: "Households that want the flexibility to use either pods or their own ground coffee in the same machine.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "9,293 reviews",
     specs: ["Grounds only, no pod compatibility", "Under 60 seconds to brew", "Up to 12oz", "Includes 12oz travel mug"],
+    specList: [{"label":"Feature 1","value":"Grounds only, no pod compatibility"},{"label":"Feature 2","value":"Under 60 seconds to brew"},{"label":"Feature 3","value":"Up to 12oz"},{"label":"Feature 4","value":"Includes 12oz travel mug"}],
     description:
       "This is a grounds-only machine with no pod compatibility at all, which means no per-pod cost ever, just the price of your own ground coffee. At roughly $23, it is by far the cheapest entry point in this comparison and brews a single cup in under 60 seconds directly into the included travel mug.\n\nBecause it lacks a reservoir in the traditional sense, you add water fresh for each brew, and the compact narrow design that makes it easy to store also means it holds less thermal mass, so a very small brew can run cooler than a larger machine's mid-range cup size. It is a genuinely different product category from the pod machines here, closer to a minimalist personal brewer than a full-featured single-serve system.",
     bestFor: "Budget buyers who exclusively want ground coffee with zero pod cost and minimal counter footprint.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Pod-only, 6 to 12oz", "One-cup reservoir", "Under 5in wide", "My K-Cup reusable filter compatible"],
+    specList: [{"label":"Feature 1","value":"Pod-only, 6 to 12oz"},{"label":"Capacity","value":"One-cup reservoir"},{"label":"Feature 3","value":"Under 5in wide"},{"label":"Filtration","value":"My K-Cup reusable filter compatible"}],
     description:
       "The K-Mini is a pod-only machine primarily, though it also accepts the separately sold My K-Cup reusable filter if you want to brew grounds occasionally. Its one-cup reservoir means adding fresh water for every single brew rather than keeping a tank filled, which is a real tradeoff for its under-5-inch footprint.\n\nCup-size temperature is fairly consistent across its narrower 6 to 12oz range compared to wider-range machines, since there is less spread between the smallest and largest settings. If you do use the reusable filter, be aware that overfilling it is a common cause of grounds overflowing into the cup on compact single-serve designs like this one.",
     bestFor: "Tight counter space or a secondary machine where a full reservoir is not needed.",

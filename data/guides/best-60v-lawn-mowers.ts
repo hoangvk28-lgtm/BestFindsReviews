@@ -11,13 +11,15 @@ export const introParagraphs = [
   "60V has become a popular label on cordless mower boxes, but the number by itself does not describe how long a mower will run or how it will feel on a real lawn. Voltage alone does not equal battery energy: two 60V mowers can ship with very different amp-hour packs, and a mower with more included watt-hours will typically outrun one with a bigger voltage number and a smaller pack.",
   "We compared four current 60V mowers across push, self-propelled, and riding formats, looking at included battery capacity, deck width, drive type, and what each model is realistically suited for, so you can match a mower to your property instead of shopping on the voltage label alone.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "greenworks-60v-21-push", rank: 1, badge: "Best Overall", name: "Greenworks 60V 21-Inch Push Lawn Mower",
     amazonUrl: "https://www.amazon.com/dp/B0C2ZPBHC7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41R0pwuOOQL._SL500_.jpg", price: "$389.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "60V platform", "5.0Ah battery and charger included", "Push drive"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V platform"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
     description: "The Greenworks 60V 21-Inch Push Lawn Mower pairs a full-width 21-inch deck with a 5.0Ah battery on the 60V platform, and it holds a 4.4 rating across 494 reviews, which is a solid sample size for a cordless push mower in this price range.\n\nA push mower without self-propel assist works best on flat to gently sloped lawns where the operator supplies all the forward motion. The included 5.0Ah pack gives a reasonable starting point, but actual runtime will still depend on grass height, moisture, and mowing speed, so it is worth confirming those details against the current listing before buying.",
     bestFor: "standard-size flat to gently sloped lawns where a well-reviewed push mower is enough",
     pros: ["Strong review history at 4.4 stars across 494 reviews", "21-inch deck covers standard lawns efficiently", "Battery and charger included in the box"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H389SFNF?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/410Kmx0JdYL._SL500_.jpg", price: "$619.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "Two 4.0Ah batteries included", "Self-propelled, brushless motor", "4-in-1 cutting, IPX4 rated"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Battery","value":"Two 4.0Ah batteries included"},{"label":"Lighting","value":"Self-propelled, brushless motor"},{"label":"Durability","value":"4-in-1 cutting, IPX4 rated"}],
     description: "The Greenworks 60V 21-Inch Brushless Self-Propelled Mower ships with two 4.0Ah batteries and a rapid charger, which is meant to cover roughly three-quarter-acre lawns without a mid-mow recharge. The brushless motor and self-propel drive are aimed at buyers who want less physical effort on larger or uneven yards, and it also includes an extra mower blade and LED lights for low-light mowing.\n\nThis listing does not yet carry a public rating or review count, so treat the manufacturer's coverage claims as a starting point rather than a confirmed result. The dual-battery setup and IPX4 water resistance rating are worth weighing against the higher price compared to the single-battery push model above.",
     bestFor: "larger lawns up to about three-quarter acre where self-propel and dual batteries reduce recharge interruptions",
     pros: ["Two 4.0Ah batteries plus a rapid charger for extended coverage", "Self-propelled brushless drive reduces pushing effort", "Includes a spare blade and IPX4 water resistance"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DLKLBRYP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41uRION5OkL._SL500_.jpg", price: "$2,499.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["30-inch deck", "Four 8.0Ah batteries (1,920Wh max)", "Rated for up to 1.25 acres", "Tows up to 200 lbs"],
+    specList: [{"label":"Size","value":"30-inch deck"},{"label":"Battery","value":"Four 8.0Ah batteries (1,920Wh max)"},{"label":"Durability","value":"Rated for up to 1.25 acres"},{"label":"Weight Capacity","value":"Tows up to 200 lbs"}],
     description: "The Greenworks 60V 30-Inch Riding Lawn Mower moves into a completely different category from the push and self-propelled models above, with a 30-inch deck, a listed 1.25-acre coverage rating, and a substantial 1,920 watt-hour maximum battery capacity across four 8.0Ah packs. It holds a 4.1 rating from 28 reviews, a smaller sample than the entry-level push mower but consistent directionally with a positive reception.\n\nBecause this is a riding mower, the buying considerations shift toward transport width, storage space, and whether the property has open enough terrain to justify a ride-on machine instead of a walk-behind. The included battery capacity is large in absolute watt-hours, which is the more meaningful number here than the shared 60V platform label.",
     bestFor: "properties around one acre or more where a walk-behind mower would take too long",
     pros: ["1,920Wh maximum battery capacity from four included 8.0Ah packs", "30-inch deck and 1.25-acre rating suited to larger lots", "Can tow attachments up to 200 lbs"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GWL8DPV6?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51URoz8Vl4L._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "3-in-1 cutting", "8Ah battery and charger included", "Smart display, 7-level height adjustment"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"3-in-1 cutting"},{"label":"Battery","value":"8Ah battery and charger included"},{"label":"Adjustability","value":"Smart display, 7-level height adjustment"}],
     description: "The SENIX X6 60V Max 21-Inch Self-Propelled Mower undercuts the Greenworks self-propelled model on price while still including an 8Ah battery, a smart display, and 7-level cutting height adjustment. It currently sits at a 3.8 rating from 16 reviews, which is a small sample, so early buyers should treat that number as a limited data point rather than a settled track record.\n\nThe larger 8Ah battery on paper suggests good runtime, but with so few reviews it is harder to confirm how that translates to real mowing sessions across different grass conditions. It is a reasonable option for buyers who want self-propel and a bigger included pack at a lower price than the Greenworks equivalent, as long as the limited review history is an acceptable tradeoff.",
     bestFor: "buyers who want a lower-priced self-propelled 60V mower and are comfortable with a limited review history",
     pros: ["8Ah battery included at a lower price than comparable self-propelled competitors", "Smart display and 7-level height adjustment for tuning cut quality", "Self-propelled drive with 3-in-1 cutting modes"],

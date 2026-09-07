@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,160 reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "Multi-floor mapping", "Self-empty compatible dock"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"Multi-floor mapping"},{"label":"Feature 4","value":"Self-empty compatible dock"}],
     description:
       "The Q10 S5+ pairs strong 10,000Pa suction with a combo vacuum and mop head, and it holds multiple saved maps so it can switch between floor layouts instead of remapping every time it starts a new level. That is the feature that matters most once a home has more than one floor in regular rotation.\n\nWith a self-empty compatible dock and consistent real-world ratings across a large review base, it is the model in this comparison we would point most buyers toward first, particularly if one floor will have a dock and the other will need the robot carried up or down periodically.",
     bestFor: "Buyers who want one strong all-around robot to rotate between two or more floors with reliable mapping.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "reported as consistently strong by owners",
     reviews: "a large number of reviews",
     specs: ["30-day capacity HEPA self-empty base", "Matrix Clean home mapping", "Bagless design", "Wifi app control"],
+    specList: [{"label":"Capacity","value":"30-day capacity HEPA self-empty base"},{"label":"Connectivity","value":"Matrix Clean home mapping"},{"label":"Collection","value":"Bagless design"},{"label":"Feature 4","value":"Wifi app control"}],
     description:
       "The AV2501S uses Matrix Clean mapping to build a home layout and a 30-day capacity HEPA self-empty base that is especially useful on a pet-heavy floor where bin emptying frequency adds up fast. Owners commonly point to the pet hair pickup and the long self-empty interval as the standout features.\n\nFor multi-floor households, the key question is whether each level gets its own base. Without a second base, this model still needs to be carried and manually docked to keep the battery topped up on the floor that lacks one.",
     bestFor: "Homes with pets where at least one floor can host the self-empty base full time.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "generally well regarded by owners",
     reviews: "a growing base of reviews",
     specs: ["25,000Pa suction", "Vacuum and mop combo", "ECOVACS ecosystem app", "Multi-surface transitions"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"ECOVACS ecosystem app"},{"label":"Feature 4","value":"Multi-surface transitions"}],
     description:
       "The M12 PRO Gen2 leads this comparison on raw suction power, which is useful on a floor with heavier carpet or a lot of foot traffic. Owners generally describe it as capable across mixed flooring, and the ECOVACS app supports saved layouts for repeat cleaning.\n\nAs with the other models here, moving it between floors without a dedicated dock on each level means manually returning it to charge, and its higher suction rating can mean a slightly heavier unit to carry up and down stairs.",
     bestFor: "A carpet-heavy floor that benefits from stronger suction than the other picks here offer.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "described positively by most owners",
     reviews: "a solid number of reviews",
     specs: ["Self-emptying base", "Vacuum and mop combo", "App and remote control", "Auto-charge and resume"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and remote control"},{"label":"Feature 4","value":"Auto-charge and resume"}],
     description:
       "This Tikom model bundles a self-emptying base with combo vacuum and mop cleaning at a price well under the higher-suction options in this list. For a multi-floor household on a budget, it is a reasonable way to get automated bin emptying on the primary floor.\n\nIt supports auto-charge and resume within a single mapped layout, but like most models without per-floor docks, a second level still means either buying a spare dock or manually returning the robot to charge before it can resume cleaning there.",
     bestFor: "Budget-conscious buyers who want self-emptying convenience on their main floor.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "well received in early owner feedback",
     reviews: "a moderate number of reviews",
     specs: ["LiDAR navigation", "7000Pa suction", "Self-empty station", "Vacuum and mop combo"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"7000Pa suction"},{"label":"Feature 3","value":"Self-empty station"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "LiDAR navigation tends to produce more accurate maps than camera-only or gyroscope-based systems, which matters when a robot needs to keep multiple distinct floor plans straight without mixing up rooms. This model pairs that navigation with a self-empty station and moderate 7000Pa suction.\n\nFor no-go zones and per-floor room settings, LiDAR-based mapping generally holds up more reliably over time than cheaper navigation systems, making this a solid pick for buyers who care most about map accuracy across levels.",
     bestFor: "Buyers who prioritize accurate room-level mapping and zone settings over maximum suction.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "reported as reliable by early owners",
     reviews: "a smaller but growing number of reviews",
     specs: ["90-day self-emptying capacity", "8000Pa suction", "Vacuum and mop combo", "App scheduling"],
+    specList: [{"label":"Capacity","value":"90-day self-emptying capacity"},{"label":"Suction Power","value":"8000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App scheduling"}],
     description:
       "The standout spec here is a self-empty base rated for roughly 90 days of capacity, which is longer than most of the other self-emptying models in this comparison. For a floor that gets cleaned often but checked on infrequently, that longer interval reduces one more maintenance task.\n\nSuction sits in the middle of the pack at 8000Pa, which is adequate for most floors but not the strongest option here. As with the other single-dock models, a second floor without its own base still needs manual charging management.",
     bestFor: "A floor that is cleaned frequently but visited infrequently, where longer self-empty intervals help.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "generally positive among owners",
     reviews: "a healthy number of reviews",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "roborock app mapping", "Lower price point"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"roborock app mapping"},{"label":"Feature 4","value":"Lower price point"}],
     description:
       "This Q7 L5 model brings roborock's mapping and app ecosystem down to a lower price point than the brand's flagship Q10 S5+, while still offering combo vacuuming and mopping at 8,000Pa suction. For buyers who want multi-floor map storage without paying flagship pricing, it is a reasonable middle-ground pick.\n\nIt does without some of the higher-end suction and dock features of the pricier models here, so it suits lighter cleaning needs or a secondary floor better than a heavily trafficked main level.",
     bestFor: "Buyers who want roborock's app and mapping ecosystem at a lower entry price.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "considered a strong value by owners",
     reviews: "a healthy number of reviews",
     specs: ["10,000Pa max suction", "Budget price point", "App-based control", "Basic mapping"],
+    specList: [{"label":"Suction Power","value":"10,000Pa max suction"},{"label":"Feature 2","value":"Budget price point"},{"label":"Connectivity","value":"App-based control"},{"label":"Navigation","value":"Basic mapping"}],
     description:
       "The A30s claims 10,000Pa max suction at a price that undercuts most of the other models here, which makes it worth considering for a secondary floor that does not need every premium feature. Basic app control and mapping cover the essentials for most single-floor layouts.\n\nBuyers should temper expectations for advanced multi-floor features like a self-empty base or LiDAR precision at this price. It works best as a budget addition to a floor that is already served by a stronger primary robot elsewhere in the home.",
     bestFor: "A budget-friendly secondary robot for a floor that does not need premium mapping or self-emptying.",

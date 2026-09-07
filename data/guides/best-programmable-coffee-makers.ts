@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["24-hour programmable", "1-4 cup setting", "Adjustable heater plate", "0-4hr auto-off"],
+    specList: [{"label":"Feature 1","value":"24-hour programmable"},{"label":"Capacity","value":"1-4 cup setting"},{"label":"Adjustability","value":"Adjustable heater plate"},{"label":"Feature 4","value":"0-4hr auto-off"}],
     description:
       "The DCC-1200P1 offers a variable heater plate with low, medium, and high settings in addition to the standard 24-hour programmability, which is a genuine step beyond the single default warming temperature most competitors use. Auto-off is adjustable from 0 to 4 hours rather than fixed, so you can match it to how long coffee actually sits in your household.\n\nThe listing does not mention battery backup for the clock, so treat clock retention through a power outage as unverified. As with most programmable machines in this price range, expect to re-set the time and any programmed brew after even a brief outage unless you confirm otherwise with the current manual.",
     bestFor: "Buyers who want adjustable warming temperature alongside standard 24-hour programming.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["QuickTouch programming", "2-hour auto shutoff", "Sneak-a-cup", "Easy-view water window"],
+    specList: [{"label":"Feature 1","value":"QuickTouch programming"},{"label":"Feature 2","value":"2-hour auto shutoff"},{"label":"Capacity","value":"Sneak-a-cup"},{"label":"Feature 4","value":"Easy-view water window"}],
     description:
       "This model uses what Black+Decker calls QuickTouch programming, with large rubberized buttons and a display showing clock, brew time, and programming options together, which keeps setup to a handful of presses rather than cycling through multiple nested menus. Auto shutoff is fixed at 2 hours rather than adjustable, a real limitation if you want coffee to stay warm longer without manually restarting it.\n\nAt under $32, this is the cheapest genuinely programmable machine in this comparison, and it still includes the sneak-a-cup pause feature found on pricier models.",
     bestFor: "Budget buyers who still want straightforward 24-hour programming and a display that is easy to read.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "28,849 reviews",
     specs: ["24-hour delay brew", "Adjustable warming plate", "Small batch mode", "Built-in clean cycle"],
+    specList: [{"label":"Feature 1","value":"24-hour delay brew"},{"label":"Adjustability","value":"Adjustable warming plate"},{"label":"Feature 3","value":"Small batch mode"},{"label":"Size","value":"Built-in clean cycle"}],
     description:
       "The CE251 combines 24-hour delay brew with a small batch function that avoids over-extracting a diluted 1-4 cup pot, plus a warming plate adjustable across a temperature range rather than a single fixed setting. A built-in Clean setting for descaling is a genuine convenience most competitors leave to a separate manual process.\n\nThe listing does not mention battery backup, so like most machines here, assume the clock needs resetting after a power interruption. Programming still requires navigating a few dedicated buttons for delay brew, strength, and warming plate level, more total steps than the simpler Black+Decker but with more control as the tradeoff.",
     bestFor: "Buyers who want small-batch brewing quality plus a built-in descale cycle alongside standard programming.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,557 reviews",
     specs: ["LCD touch screen", "24-hour programmable", "2-hour keep warm", "2 strength options"],
+    specList: [{"label":"Feature 1","value":"LCD touch screen"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"2-hour keep warm"},{"label":"Feature 4","value":"2 strength options"}],
     description:
       "The SHARDOR uses an LCD touch screen instead of physical buttons for programming, which some buyers find faster once learned but others find fiddlier to tap accurately at 6am compared to large rubberized buttons. It covers the core programmable basics, 24-hour delay brew, two strength settings, and a 2-hour warming plate, without the small-batch or adjustable-temperature extras found on the Ninja or Cuisinart.\n\nAs with the other machines here, there is no stated battery backup, so budget for resetting the clock and programmed brew time after any power interruption.",
     bestFor: "Buyers who prefer a touch screen interface over physical programming buttons.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "20,051 reviews",
     specs: ["24-hour programmable", "Front-swing brew basket", "Cleaning cycle reminder", "Select-a-Brew strength"],
+    specList: [{"label":"Feature 1","value":"24-hour programmable"},{"label":"Feature 2","value":"Front-swing brew basket"},{"label":"Feature 3","value":"Cleaning cycle reminder"},{"label":"Feature 4","value":"Select-a-Brew strength"}],
     description:
       "The FrontFill's swing-open brew basket accesses from the front rather than requiring you to lift the whole unit out from under a cabinet, a genuinely useful design detail for tight kitchen installs that most programmable guides never mention. Programming covers 24-hour delay brew and Select-a-Brew strength, with a CLEAN indicator that prompts the self-cleaning cycle when it is due.\n\nSetup takes a moderate number of steps, roughly on par with the Cuisinart, and battery backup for the clock is not specified in the listing, so treat retention through outages as unverified here as well.",
     bestFor: "Buyers with under-cabinet installs who want front access to the brew basket.",

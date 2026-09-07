@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "23,547 reviews",
     specs: ["AI home mapping", "Matrix Clean navigation", "Self-Empty compatible", "Vacuum-only"],
+    specList: [{"label":"Connectivity","value":"AI home mapping"},{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Feature 3","value":"Self-Empty compatible"},{"label":"Feature 4","value":"Vacuum-only"}],
     description:
       "The AI Ultra is Shark's flagship vacuum-only model, using AI-powered home mapping and Matrix Clean navigation to move in structured rows rather than bouncing randomly around a room. That systematic pattern generally means fewer missed spots on larger open floor plans compared to entry-level SmartPath models.\n\nThis is a vacuum-only unit, not a 2-in-1 mop system, so buyers who also want mopping should look at the Matrix Plus line instead. As with any AV-series model, double check the exact listing before buying since suffixes like AV2511AE can differ in included accessories (extra filters, dock type) from other AV2xxx variants.",
     bestFor: "Buyers who want the most capable navigation and mapping in a vacuum-only Shark model.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["2-in-1 vacuum + mop", "Matrix navigation", "Black/Brass finish", "Self-Empty compatible"],
+    specList: [{"label":"Size","value":"2-in-1 vacuum + mop"},{"label":"Navigation","value":"Matrix navigation"},{"label":"Color/Finish","value":"Black/Brass finish"},{"label":"Feature 4","value":"Self-Empty compatible"}],
     description:
       "The Matrix Plus adds a mopping pad to Shark's Matrix navigation system, so it vacuums and mops in the same pass rather than requiring a separate mopping robot or a manual attachment swap. That combined design is the main reason to pick this over the AI Ultra if hard floors are a regular part of your cleaning routine.\n\nWorth noting for anyone comparing this to the vacuum-only AI Ultra: a 2-in-1 mop deck adds a water tank and mop pads that need their own periodic cleaning and pad replacement, on top of the usual dustbin and filter maintenance.",
     bestFor: "Homes with a mix of hard floors and carpet that want vacuuming and mopping handled by one robot.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Frequently purchased",
     specs: ["Self-Empty base included", "SmartPath navigation", "Vacuum-only", "Bagless dock"],
+    specList: [{"label":"Feature 1","value":"Self-Empty base included"},{"label":"Navigation","value":"SmartPath navigation"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Collection","value":"Bagless dock"}],
     description:
       "The Navigator RV2120AE bundles a self-empty base at a price well under the AI Ultra, making it the more approachable way to get hands-off bin emptying without paying flagship pricing. It uses SmartPath navigation rather than the AI Ultra's Matrix Clean system, which is a step down in mapping sophistication but still covers rooms methodically rather than randomly.\n\nA bagless self-empty dock is convenient but it is not maintenance-free: the dust bin and filter inside the base still need periodic emptying and rinsing, just far less often than emptying the robot itself after every run.",
     bestFor: "Buyers who want self-emptying convenience without paying flagship AI Ultra pricing.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["SmartPath navigation", "Steel Grey finish", "Vacuum-only", "No self-empty dock"],
+    specList: [{"label":"Navigation","value":"SmartPath navigation"},{"label":"Material","value":"Steel Grey finish"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Feature 4","value":"No self-empty dock"}],
     description:
       "The RV2110 strips out the self-empty base entirely, which is the main reason it comes in under $200 while keeping the same SmartPath navigation found on pricier Navigator models. That makes it a reasonable entry point for buyers who don't mind emptying the dustbin by hand after runs.\n\nBecause this model ships without a self-empty dock, buyers who later want that convenience should compare the cost of buying a compatible base separately against simply stepping up to the RV2120AE bundle instead.",
     bestFor: "Budget-focused buyers who are comfortable manually emptying the dustbin after each run.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["2-in-1 vacuum + mop", "Matrix navigation", "Mid-range pricing", "Black/Brass finish"],
+    specList: [{"label":"Size","value":"2-in-1 vacuum + mop"},{"label":"Navigation","value":"Matrix navigation"},{"label":"Feature 3","value":"Mid-range pricing"},{"label":"Color/Finish","value":"Black/Brass finish"}],
     description:
       "The AV2613WA brings the same 2-in-1 vacuum-and-mop concept as the pricier AV2610WA down to a more mid-range price. It's worth reading the specific listing closely here, since Matrix Plus model suffixes can differ in dock type and included accessories even when the core vacuum-and-mop hardware looks similar.\n\nFor buyers who want mopping but don't need the top-tier AI Ultra's mapping sophistication, this sits in a reasonable middle ground between the budget vacuum-only Navigator models and the flagship Matrix Plus AV2610WA.",
     bestFor: "Buyers who want a 2-in-1 mop system without paying flagship Matrix Plus pricing.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Frequently purchased",
     specs: ["Vacuum + mop", "Compact profile", "Budget 2-in-1 tier", "Hard floor focus"],
+    specList: [{"label":"Mopping","value":"Vacuum + mop"},{"label":"Design","value":"Compact profile"},{"label":"Size","value":"Budget 2-in-1 tier"},{"label":"Feature 4","value":"Hard floor focus"}],
     description:
       "The UR2650WS is the most affordable 2-in-1 mop model in this comparison, undercutting both Matrix Plus AV-series units while still combining vacuuming and mopping in one pass. Reviewers commonly point to this tier as a solid pick for homes that are mostly hard flooring with only light carpet.\n\nAs with the other mop-equipped models here, the water tank and mop pads need regular rinsing and pad swaps to avoid streaking or odor buildup, on top of standard dustbin maintenance.",
     bestFor: "Hard-floor-heavy homes that want mopping included without paying Matrix Plus AV-series pricing.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["SmartPath navigation", "White finish", "Vacuum-only", "Compact design"],
+    specList: [{"label":"Navigation","value":"SmartPath navigation"},{"label":"Color/Finish","value":"White finish"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Design","value":"Compact design"}],
     description:
       "The AV2120 is another entry-level SmartPath vacuum-only model, priced close to the RV2110 but in a white finish and slightly different accessory bundle. It covers the same basic use case: methodical room coverage without AI mapping, a self-empty dock, or mopping.\n\nFor buyers cross-shopping the RV2110 and AV2120, the practical difference usually comes down to finish and whatever accessories are bundled in the specific listing rather than any meaningful performance gap, so it's worth comparing current listing details directly before choosing between them.",
     bestFor: "Buyers who want the cheapest reliable Shark option and don't need mopping or self-emptying.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["HEPA bagless self-empty base", "30-day capacity", "Matrix Clean mapping", "Pet hair focus"],
+    specList: [{"label":"Collection","value":"HEPA bagless self-empty base"},{"label":"Capacity","value":"30-day capacity"},{"label":"Connectivity","value":"Matrix Clean mapping"},{"label":"Feature 4","value":"Pet hair focus"}],
     description:
       "The AV2501S is an earlier AI Ultra variant that pairs Matrix Clean navigation and home mapping with a HEPA bagless self-empty base rated for roughly 30 days of capacity before the dock itself needs emptying. That combination of HEPA filtration and long self-empty intervals is why reviewers commonly recommend this tier for pet hair heavy homes.\n\nA 30-day self-empty base is a meaningful convenience upgrade over the base-model RV2120AE dock, but it is still a bagless system, meaning the base's own filter and dust tray need periodic rinsing even though you're not touching the robot's bin every run.",
     bestFor: "Pet owners who want HEPA filtration and a long-interval self-empty base without flagship AV2511AE pricing.",

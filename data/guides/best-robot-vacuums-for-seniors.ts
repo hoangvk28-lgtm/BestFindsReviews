@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "31,448 reviews",
     specs: ["Vacuum only, no mop mode", "Self-charging base", "Multi-surface cleaning", "Simple start button"],
+    specList: [{"label":"Mopping","value":"Vacuum only, no mop mode"},{"label":"Feature 2","value":"Self-charging base"},{"label":"Feature 3","value":"Multi-surface cleaning"},{"label":"Reviews","value":"Simple start button"}],
     description:
       "The Roomba 105 Vac keeps things simple by doing one job, vacuuming, instead of also trying to mop. That single-purpose design means fewer settings to learn and fewer parts that can jam or need cleaning, which matters if the goal is a machine that just runs on its own. It self-charges and returns to its base without any manual intervention once a cleaning cycle finishes.",
     bestFor: "Buyers who want a well-reviewed, no-frills vacuum-only robot without mop mode complexity.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "Well-regarded by owners",
     reviews: "Sizeable number of owner reviews",
     specs: ["AutoEmpty dock, self-empties for up to 75 days", "LiDAR navigation", "Intense power-lifting suction", "Cleans in neat rows"],
+    specList: [{"label":"Feature 1","value":"AutoEmpty dock, self-empties for up to 75 days"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"Intense power-lifting suction"},{"label":"Size","value":"Cleans in neat rows"}],
     description:
       "This is the same Roomba 105 platform as our top pick, but with an AutoEmpty dock that can hold up to 75 days of debris before it needs to be emptied. For a senior with limited grip strength or a family member who cannot visit often, that difference is significant, since it removes the weekly task of pulling out and dumping a bin entirely.\n\nLiDAR navigation means it cleans in predictable, neat rows rather than a random bounce pattern, which also makes it easier to tell at a glance whether a room was actually covered.",
     bestFor: "Households that want to cut manual bin-emptying down to a few times a year instead of weekly.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently rated well by owners",
     reviews: "Large number of owner reviews",
     specs: ["Super-slim profile", "Quiet operation", "Strong suction for the size", "Simple one-button start"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Suction Power","value":"Strong suction for the size"},{"label":"Reviews","value":"Simple one-button start"}],
     description:
       "The 11S MAX is built to slide under low furniture like couches and bed frames, spaces a bulkier robot vacuum simply cannot reach. Its quiet operation is also worth calling out for a household where a loud machine running mid-afternoon or during a nap would be disruptive.\n\nControls are limited to basics, which is a plus for anyone who does not want to manage a companion app just to start a cleaning cycle.",
     bestFor: "Homes with low-clearance furniture where a slim profile and quiet running matter most.",
@@ -115,6 +119,7 @@ export const products: GuideProduct[] = [
     rating: "Generally positive owner feedback",
     reviews: "Growing number of owner reviews",
     specs: ["Tangle-free suction inlet", "Budget-friendly price point", "Basic self-charging", "Straightforward physical buttons"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction inlet"},{"label":"Feature 2","value":"Budget-friendly price point"},{"label":"Feature 3","value":"Basic self-charging"},{"label":"Feature 4","value":"Straightforward physical buttons"}],
     description:
       "The ILIFE V2 is the most affordable model in this comparison and keeps its feature set deliberately minimal, which lines up well with a buyer who mainly wants dust and pet hair handled without learning a new system. The tangle-free suction inlet is worth noting for households with pets or anyone with long hair, since it cuts down on one of the more common manual maintenance tasks: cutting hair out of the brush roll.",
     bestFor: "Buyers who want low-cost, low-complexity cleaning without a self-empty dock or app dependence.",
@@ -139,6 +144,7 @@ export const products: GuideProduct[] = [
     rating: "Solid owner ratings",
     reviews: "Steady stream of owner reviews",
     specs: ["5000Pa suction", "Vacuum and mop in one pass", "Up to 150 min runtime", "App and remote control"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Size","value":"Vacuum and mop in one pass"},{"label":"Feature 3","value":"Up to 150 min runtime"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "The Tikom combo handles vacuuming and mopping in a single pass, which can reduce the number of separate cleaning tools a household needs to manage. It offers both app control and a physical remote, so a family member can set up scheduling through the app while the senior using it day to day can rely on the simpler remote for starting a cycle.\n\nAt this price point, expect the mopping function to handle light upkeep rather than deep scrubbing, and plan on periodically checking the water tank and mop pad by hand.",
     bestFor: "Households that want combined vacuum and mop cleaning without a high price tag.",
@@ -163,6 +169,7 @@ export const products: GuideProduct[] = [
     rating: "Positively reviewed so far",
     reviews: "Modest but growing review count",
     specs: ["5200Pa suction", "Combined vacuum and mop", "Self-charging", "App-based scheduling"],
+    specList: [{"label":"Suction Power","value":"5200Pa suction"},{"label":"Mopping","value":"Combined vacuum and mop"},{"label":"Feature 3","value":"Self-charging"},{"label":"Connectivity","value":"App-based scheduling"}],
     description:
       "The ROPVACNIC combo leans on stronger suction than most models in this price range, which helps on carpet and in homes with pets. Like other combo units here, mopping is a light-duty addition rather than a full replacement for a dedicated mop, and the water tank still needs to be filled and emptied by hand.\n\nAs a newer entrant with a smaller review history than the established brands in this guide, it is worth treating as a reasonable middle option rather than a first choice if reliability track record matters most.",
     bestFor: "Buyers who want stronger suction in a budget-friendly combo unit and are comfortable with a newer brand.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Favorable early feedback",
     reviews: "Building a review base",
     specs: ["5000Pa suction", "Self-charging dock", "App and Alexa control", "3-in-1 vacuum, mop, and navigation"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Feature 2","value":"Self-charging dock"},{"label":"Connectivity","value":"App and Alexa control"},{"label":"Size","value":"3-in-1 vacuum, mop, and navigation"}],
     description:
       "This model's main advantage is voice control through Alexa in addition to the standard app, which can be genuinely useful for a senior who finds pressing small app buttons more difficult than saying a command out loud. An adult child can also add the vacuum to a shared smart home app to check status remotely.\n\nAs with other budget combo units, expect the app setup to require a Wi-Fi connection and account creation up front, which is worth doing together the first time rather than leaving a senior to complete alone.",
     bestFor: "Households already using Alexa who want voice control as an alternative to app buttons.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Mixed but mostly positive",
     reviews: "Small number of owner reviews",
     specs: ["Compact, lightweight body", "USB charging", "Automatic obstacle avoidance", "No app required"],
+    specList: [{"label":"Weight Capacity","value":"Compact, lightweight body"},{"label":"Feature 2","value":"USB charging"},{"label":"Feature 3","value":"Automatic obstacle avoidance"},{"label":"Connectivity","value":"No app required"}],
     description:
       "The Fdit mini is about as basic as a robot vacuum gets: no app, no Wi-Fi setup, no account creation, just a small unit that charges over USB and runs with automatic obstacle avoidance. That simplicity is the entire appeal for a single small room or as a light-duty supplement to regular cleaning, not as a whole-home solution.\n\nGiven its very low price and limited review history, expectations should be modest. This is better suited to a small apartment or a single room than to whole-home cleaning for someone who wants thorough, hands-off coverage.",
     bestFor: "A very low-cost, no-setup option for a single small room rather than whole-home cleaning.",

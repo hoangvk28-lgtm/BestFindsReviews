@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "2,582 reviews",
     specs: ["10-cup glass carafe, 47oz", "Two aroma strength settings", "Programmable auto-start", "Keep-warm plate, 60 minutes"],
+    specList: [{"label":"Capacity","value":"10-cup glass carafe, 47oz"},{"label":"Feature 2","value":"Two aroma strength settings"},{"label":"Reviews","value":"Programmable auto-start"},{"label":"Feature 4","value":"Keep-warm plate, 60 minutes"}],
     description:
       "This is the flagship Smeg drip machine, with a 10-cup glass carafe, programmable auto-start, and a choice of light or intense aroma settings on an LED control panel. The carafe lid opens further back than most standard drip carafes, which genuinely helps with pouring and rinsing without the finish or hardware getting in the way.\n\nThe reusable permanent filter is included alongside standard paper filter compatibility, so day to day operation is close to any other programmable drip machine once you get past the retro shell. The keep-warm plate holds coffee for up to 60 minutes, which is shorter than some competitors and worth knowing if you tend to nurse a pot for longer than that.",
     bestFor: "Buyers who want the full Smeg drip feature set and are comfortable paying a design premium over a plain programmable machine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "2,582 reviews",
     specs: ["10-cup glass carafe, 47oz", "Auto-start programming", "Two aroma strength settings", "LED display"],
+    specList: [{"label":"Capacity","value":"10-cup glass carafe, 47oz"},{"label":"Reviews","value":"Auto-start programming"},{"label":"Feature 3","value":"Two aroma strength settings"},{"label":"Lighting","value":"LED display"}],
     description:
       "This black-finish drip model carries the same core feature set as the cream version, including the 10-cup carafe, programmable auto-start, and dual aroma strength settings, at a lower current price. If the cream finish and the roughly 60 dollar premium it usually carries are not important to you, this is the more sensible way into the same brewing experience.\n\nAs with the other Smeg drip model, the reservoir and brew basket require periodic descaling like any drip machine, and the compact 10.25 by 14.25 by 9 inch footprint keeps it manageable on a standard counter despite the retro-styled housing.",
     bestFor: "Buyers who want the same Smeg drip performance as the flagship model without paying extra for a specific finish.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "69 reviews",
     specs: ["Integrated conical burr grinder", "Dual thermoblock heating", "58mm commercial-grade portafilter", "Pressure gauge, steam wand"],
+    specList: [{"label":"Durability","value":"Integrated conical burr grinder"},{"label":"Feature 2","value":"Dual thermoblock heating"},{"label":"Filtration","value":"58mm commercial-grade portafilter"},{"label":"Feature 4","value":"Pressure gauge, steam wand"}],
     description:
       "This is a genuinely different category of machine from the two drip models above, built around an integrated conical burr grinder, a 58mm commercial-style portafilter, and a pressure gauge for monitoring extraction. The dual thermoblock heating system is meant to keep brew temperature stable while the steam wand runs milk frothing separately, which is the setup that matters most for consistent espresso shots.\n\nAt close to 1,000 dollars, it competes directly with dedicated espresso brands rather than with other Smeg products, and the retro design premium is a smaller share of the total price here than it is on the drip machines. Buyers should weigh whether they want the learning curve and cleaning routine of a real portafilter machine before choosing it over a simpler pod-based espresso maker.",
     bestFor: "Buyers who specifically want espresso with grinder integration and are willing to pay for a commercial-style portafilter setup.",

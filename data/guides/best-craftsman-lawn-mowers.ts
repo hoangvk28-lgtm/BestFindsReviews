@@ -11,13 +11,15 @@ export const introParagraphs = [
   "The Craftsman range spans corded, V20 battery, gas, riding, and zero-turn mowers. This comparison focuses on two walk-behind options for smaller residential lawns: a mobile V20 battery model and a corded model that avoids charging and battery replacement.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "craftsman-cmcmw220p2", rank: 1, badge: "Best Overall", name: "CRAFTSMAN CMCMW220P2 V20 Push Mower",
     amazonUrl: "https://www.amazon.com/dp/B092GNZM5V?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41-SLzFTztL._SL500_.jpg", price: "$349.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch deck","Two 5Ah V20 batteries","Two chargers included","Up to 50-minute runtime"],
+    specList: [{"label":"Size","value":"20-inch deck"},{"label":"Battery","value":"Two 5Ah V20 batteries"},{"label":"Feature 3","value":"Two chargers included"},{"label":"Feature 4","value":"Up to 50-minute runtime"}],
     description: "CRAFTSMAN CMCMW220P2 V20 Push Mower combines 20-inch deck, Two 5Ah V20 batteries, Two chargers included. That combination makes it a practical option for existing V20 owners and small to medium maintained lawns.\n\nTall or damp grass can shorten runtime, so larger lawns may need a recharge between sections. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "existing V20 owners and small to medium maintained lawns",
     pros: ["20-inch deck","Two 5Ah V20 batteries","Two chargers included"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B07Q69B31R?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41YHvJ4uy8L._SL500_.jpg", price: "$267.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch deck","13A corded motor","3-in-1 cutting modes","Six height settings"],
+    specList: [{"label":"Size","value":"20-inch deck"},{"label":"Feature 2","value":"13A corded motor"},{"label":"Feature 3","value":"3-in-1 cutting modes"},{"label":"Adjustability","value":"Six height settings"}],
     description: "CRAFTSMAN CMEMW213 20-Inch Corded Mower combines 20-inch deck, 13A corded motor, 3-in-1 cutting modes. That combination makes it a practical option for small yards where an extension cord is manageable.\n\nThe current Amazon price is high for a corded mower and must be compared with local retail pricing. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small yards where an extension cord is manageable",
     pros: ["20-inch deck","13A corded motor","3-in-1 cutting modes"],

@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,857 reviews",
     specs: ["20,000 Pa suction", "Vacuum and mop combo", "Auto carpet detection", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Auto carpet detection"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The E25 leads this comparison on rated suction, at 20,000 Pa, which gives it enough headroom to boost meaningfully once it senses carpet rather than just nudging power up slightly. That extra ceiling matters most on medium-pile carpet where embedded dust and pet hair sit below the surface fibers and need real pull to lift out.\n\nAs a combo unit, it also has to manage mop lifting so the pad does not drag wet across carpet, which we weighed heavily given how often combo units get this wrong. It carries the strongest review base of the eight models here, which is a reasonable signal of consistent real-world performance across different carpet types.",
     bestFor: "Buyers who want the strongest all-around carpet performance and are fine paying for a full-featured combo unit.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "Highly rated",
     reviews: "Thousands of reviews",
     specs: ["Matrix Clean navigation", "Home mapping", "30-day self-empty base", "HEPA bagless, pet-hair optimized"],
+    specList: [{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Connectivity","value":"Home mapping"},{"label":"Feature 3","value":"30-day self-empty base"},{"label":"Collection","value":"HEPA bagless, pet-hair optimized"}],
     description:
       "Shark markets the AV2501S specifically around pet hair pickup, and Matrix Clean navigation is meant to run methodical overlapping passes rather than a single sweep, which matters on carpet where hair tends to wind into fibers instead of sitting loose on top. The 30-day self-empty base also reduces how often you have to handle a bin full of carpet debris and pet hair by hand.\n\nHome mapping lets you set carpeted rooms as higher-priority zones or schedule extra passes in high-traffic carpeted areas, which is a practical way to compensate for any single-pass suction limits.",
     bestFor: "Pet owners with carpeted rooms who want thorough hair pickup and minimal bin maintenance.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "Well reviewed",
     reviews: "Several thousand reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "roborock navigation", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"roborock navigation"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "At 10,000Pa, the Q10 S5+ sits comfortably above entry-level suction ratings while staying well under the E25's price, making it a reasonable middle option for buyers who want real carpet-boost headroom without paying flagship prices. roborock's navigation stack is generally consistent about tracking room layout, which helps it maintain coverage across carpet-to-hardfloor transitions instead of getting confused at the edge.\n\nAs a combo unit it also mops, so mop-lift behavior on carpet is worth checking in current owner feedback before buying if your home is mostly carpeted with only small hard-floor sections.",
     bestFor: "Buyers who want strong mid-range suction and mapping without paying flagship pricing.",
@@ -115,6 +119,7 @@ export const products: GuideProduct[] = [
     rating: "Solidly rated",
     reviews: "Growing review base",
     specs: ["Intense power-lifting suction", "LiDAR navigation", "Multi-surface cleaning", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"Intense power-lifting suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"Multi-surface cleaning"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "iRobot built its reputation on carpet performance long before combo mop units existed, and the Roomba 105 keeps that vacuum-only focus with a suction setting described as power-lifting, aimed at pulling embedded debris rather than skating over the top layer of pile. LiDAR navigation also helps it clean in neat, predictable rows, which reduces the missed patches that random-bounce navigation tends to leave on textured carpet.\n\nWithout a mop deck to manage, there is one less mechanism that can misbehave on carpet, which is part of why this stays a straightforward, lower-cost option for carpet-focused households that do not need mopping at all.",
     bestFor: "Carpet-heavy homes that do not need mopping and want a proven, vacuum-only design.",
@@ -139,6 +144,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed",
     reviews: "A solid number of reviews",
     specs: ["10,000Pa max suction", "Budget price point", "Self-charging", "Auto-boost on carpet"],
+    specList: [{"label":"Suction Power","value":"10,000Pa max suction"},{"label":"Feature 2","value":"Budget price point"},{"label":"Feature 3","value":"Self-charging"},{"label":"Feature 4","value":"Auto-boost on carpet"}],
     description:
       "The A30s pairs a 10,000Pa max suction rating with a price well under most of the competition here, which is unusual since carpet-capable suction is normally the first thing cut on budget models. That makes it worth a look for buyers furnishing a first apartment or a secondary carpeted room who do not want to spend flagship money.\n\nAs with most budget-tier units, brush stall resistance and long-term motor durability under repeated carpet use are the areas to watch most closely in current owner feedback, since suction rating alone does not guarantee the brush keeps spinning freely under thicker pile.",
     bestFor: "Budget-conscious buyers who still want a real carpet-boost suction rating.",
@@ -163,6 +169,7 @@ export const products: GuideProduct[] = [
     rating: "Decently reviewed",
     reviews: "A modest but active review base",
     specs: ["5000Pa suction", "Up to 150 min runtime", "App and remote control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Feature 2","value":"Up to 150 min runtime"},{"label":"Connectivity","value":"App and remote control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The G8000 Max is rated for up to 150 minutes of runtime per charge, which is meaningfully longer than most units in this comparison and useful for larger carpeted floor plans that would otherwise need a mid-clean recharge stop. Its 5000Pa suction rating is the lowest of the eight here, so it is better matched to low-pile carpet than to thicker medium-pile rooms.\n\nApp and remote control both work, giving flexibility for manual spot cleaning on carpeted areas the auto routine might undercover, which partly offsets the more modest suction ceiling.",
     bestFor: "Larger low-pile carpeted floor plans where runtime matters more than peak suction.",
@@ -187,6 +194,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently reviewed",
     reviews: "A long-standing review history",
     specs: ["Super-slim profile", "Quiet operation", "Vacuum-only", "Self-charging"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The 11S MAX is built around a notably slim profile, which lets it reach under beds, sofas, and low furniture where carpet often goes uncleaned by taller robots for months at a time. It is a vacuum-only design, so there is no mop deck to manage on carpet, keeping the mechanism simple.\n\nQuiet operation is also a practical carpet-specific benefit, since carpet already muffles some vacuum noise, and this model stays comfortable enough to run during the day without becoming a household nuisance.",
     bestFor: "Homes with low-clearance furniture over carpet where a slim profile matters more than peak suction.",
@@ -211,6 +219,7 @@ export const products: GuideProduct[] = [
     rating: "Newly reviewed",
     reviews: "A newer, smaller review base",
     specs: ["5200Pa suction", "Vacuum and mop combo", "Self-charging", "Budget price point"],
+    specList: [{"label":"Suction Power","value":"5200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-charging"},{"label":"Feature 4","value":"Budget price point"}],
     description:
       "The ROPVACNIC combo unit brings both vacuum and mop functions in at a budget price, with a 5200Pa suction rating that puts it toward the lower end of this comparison but still ahead of entry-level vacuum-only models with no stated carpet boost at all. It is a newer listing, so the review history is thinner than the more established brands here.\n\nFor buyers who mainly have low-pile carpet in a smaller apartment and want mopping included without paying combo-flagship prices, it is a reasonable low-commitment starting point, with the caveat that long-term durability data is still limited.",
     bestFor: "Small apartments with mostly low-pile carpet where a budget combo unit is enough.",

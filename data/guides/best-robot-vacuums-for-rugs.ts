@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "35,903 reviews",
     specs: ["Vacuum and mop combo", "Matrix Clean grid navigation", "Self-cleaning brushroll", "App and voice control"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"Matrix Clean grid navigation"},{"label":"Feature 3","value":"Self-cleaning brushroll"},{"label":"Connectivity","value":"App and voice control"}],
     description:
       "The Matrix Plus combines vacuuming and mopping in one unit and uses Shark's grid-style Matrix Clean navigation, which tends to approach rug edges in straight, predictable passes rather than random bounces. That matters on area rugs because a robot that hits a rug edge at an angle is more likely to push or fold a lightweight rug than one that crosses it squarely. Its self-cleaning brushroll is also worth checking in owner reviews for fringe handling, since a brush roll that clears its own hair and fibers is generally less prone to fringe wrapping tightly around the roller over time.\n\nAs a combo unit, the mop pad is the detail to verify before buying if you have several area rugs mixed with hard flooring. Look at current owner reviews and the manufacturer's carpet-detection settings to confirm the mop lifts or the pad avoids rugs entirely, since a mop head that drags across a rug can leave it damp. With a broad base of reviews behind it, this is the safest starting point for a mixed room with multiple rug types.",
     bestFor: "Buyers who want one well-reviewed combo unit to handle a room with several different rug types and hard flooring.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently well-rated by owners",
     reviews: "A large base of owner reviews",
     specs: ["Super-thin, low-profile body", "Quiet operation", "Vacuum only, no mop", "Suction-only cleaning path"],
+    specList: [{"label":"Feature 1","value":"Super-thin, low-profile body"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Mopping","value":"Vacuum only, no mop"},{"label":"Suction Power","value":"Suction-only cleaning path"}],
     description:
       "A slim, low-profile chassis is one of the more overlooked details for area rugs, since a robot that sits low to the floor generally has an easier time climbing onto a rug edge without catching and shoving the rug forward. The 11S MAX is built around exactly that low-profile design, which makes it worth researching for homes with thin, flatweave, or washable rugs that tend to shift when a taller robot bumps into their edge.\n\nBecause it is vacuum-only, there is no mop pad to worry about dragging across a rug, which simplifies the rug question compared with combo units. It is also a simpler, older-style suction-only robot without lidar mapping, so buyers should check current reviews for how it behaves on darker or busier rug patterns, since simpler infrared sensors can be more prone to hesitating on high-contrast designs than newer lidar-based systems.",
     bestFor: "Homes with thin, flatweave, or washable area rugs where a low body height helps avoid pushing the rug at the edge.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "Positively reviewed by most owners",
     reviews: "A substantial number of owner reviews",
     specs: ["LiDAR navigation", "Self-empties for up to 75 days", "Power-lifting suction", "Cleans in neat rows"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 2","value":"Self-empties for up to 75 days"},{"label":"Suction Power","value":"Power-lifting suction"},{"label":"Size","value":"Cleans in neat rows"}],
     description:
       "Lidar-based navigation, rather than purely optical drop-off sensors, tends to be a meaningful advantage on dark or densely patterned rugs, since it maps the room using laser distance readings instead of relying only on a camera or infrared beam that can misread a dark rug as a ledge and stop short. The Roomba 105 Vac's lidar system and methodical row-by-row cleaning pattern make it worth researching if a dark, tasseled, or busy-patterned rug has caused a previous robot to stall at its edge.\n\nThe self-emptying dock is a separate convenience feature that has nothing to do with rug performance directly, but it does mean less manual bin emptying if the robot is running frequent passes across multiple rugs in a larger home. Confirm current owner reviews specifically mention rug edge behavior, since lidar helps with mapping but does not eliminate the physical risk of a rug shifting under the robot's wheels.",
     bestFor: "Homes with dark-colored or busily patterned rugs where earlier robots hesitated or stopped short at the rug's edge.",
@@ -115,6 +119,7 @@ export const products: GuideProduct[] = [
     rating: "Generally well-reviewed by owners",
     reviews: "A growing base of owner reviews",
     specs: ["10000Pa max suction", "Vacuum and mop combo", "Self-emptying base", "High-suction mode for rugs"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-emptying base"},{"label":"Feature 4","value":"High-suction mode for rugs"}],
     description:
       "The A30 Pro pairs a self-emptying base with a mop pad, which is the combination worth scrutinizing before placing it on a home full of area rugs. High-suction combo robots like this one usually offer a carpet-boost mode that increases suction on a rug, but the more important question for a mop combo is whether it lifts the pad automatically before crossing onto a rug or simply avoids rugs by routing around them. Check current owner reviews and the app's carpet-detection settings for that specific behavior before relying on it near your rugs.\n\nAt 10000Pa of rated suction, it is positioned as one of the stronger suction units in this comparison, which can help lift embedded debris out of a low-pile or flatweave rug. That same suction strength is worth checking against lightweight rugs specifically, since higher suction at the intake can occasionally tug at a rug's edge or corner rather than gliding over it, so reviewers' comments about rug-pushing behavior are worth reading before buying if your rugs are unsecured.",
     bestFor: "Buyers who want a self-emptying mop-and-vacuum combo with strong suction for low-pile or flatweave area rugs.",
@@ -139,6 +144,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed overall",
     reviews: "A solid number of owner reviews",
     specs: ["8000Pa suction", "Self-emptying for up to 90 days", "Vacuum and mop combo", "Anti-tangle design claims"],
+    specList: [{"label":"Suction Power","value":"8000Pa suction"},{"label":"Feature 2","value":"Self-emptying for up to 90 days"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Design","value":"Anti-tangle design claims"}],
     description:
       "Shag rugs and anything with loose tassels or fringe are the hardest category for any robot vacuum, since long fibers are exactly what wraps around a spinning brush roll. Before buying any robot for a shag or tasseled rug, including this one, read current owner reviews closely for specific mentions of fringe or tassel tangling rather than relying on general anti-tangle marketing claims, since real-world performance on long fibers varies a lot between models even within the same suction tier.\n\nThe 90-day self-emptying base and 8000Pa suction make this a reasonably strong candidate for regular upkeep on textured rugs, and the extended self-empty interval means less frequent manual bin changes if you are running it often to keep a shag rug's pile from matting down. As with the other combo units here, confirm the mop pad avoids or lifts over textured and tasseled rugs before letting it run unattended.",
     bestFor: "Textured, shag, or lightly tasseled area rugs, after confirming fringe handling in current owner reviews.",
@@ -163,6 +169,7 @@ export const products: GuideProduct[] = [
     rating: "Well-liked by budget-focused buyers",
     reviews: "A modest but positive number of reviews",
     specs: ["Super-thin profile", "Rated for hard floors to low-pile rugs", "Self-charging", "Vacuum only"],
+    specList: [{"label":"Feature 1","value":"Super-thin profile"},{"label":"Durability","value":"Rated for hard floors to low-pile rugs"},{"label":"Feature 3","value":"Self-charging"},{"label":"Feature 4","value":"Vacuum only"}],
     description:
       "Thamtu markets this model specifically for hard floors through low-pile rugs, which lines up well with typical flatweave and thin area rugs rather than shag or plush pile. Its slim body height is the practical advantage here, since a thinner robot generally has an easier time riding up onto a low-pile rug's edge instead of catching on it and pushing the rug out of place, similar in principle to the eufy 11S MAX in this comparison but at a lower price point.\n\nAs a simpler, budget-oriented robot, it is worth checking current reviews for how it handles darker rug colors, since less expensive models sometimes use simpler infrared cliff sensors that can be more prone to hesitating on dark rugs than pricier lidar-equipped units. For a straightforward low-pile rug and hard floor combination on a budget, it is a reasonable starting point.",
     bestFor: "Budget shoppers with primarily low-pile or flatweave rugs mixed with hard flooring.",
@@ -187,6 +194,7 @@ export const products: GuideProduct[] = [
     rating: "Positively received at its price point",
     reviews: "A meaningful number of owner reviews",
     specs: ["5000Pa suction", "Vacuum and mop combo", "150-minute max runtime", "App and remote control"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"150-minute max runtime"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "At this price, the G8000 Max is one of the more affordable combo units in this comparison, pairing vacuum and mop functions with app and remote control for around a third of the cost of the pricier combo picks here. Its 150-minute runtime is enough to cover a full apartment with several area rugs in one charge cycle, which is useful if you have rugs spread across multiple rooms rather than concentrated in one space.\n\nAs a lower-cost combo unit, it is worth reading current owner reviews specifically for rug-edge and fringe behavior, since budget combo robots vary widely in how well their sensors and mop-lift mechanisms are tuned compared with pricier models. It is a reasonable value pick for straightforward, secured rugs without heavy fringe or tassels, but is not the first choice here for a shag or heavily tasseled rug.",
     bestFor: "Budget-conscious buyers who want vacuum and mop combo coverage across several ordinary area rugs and hard floors.",
@@ -211,6 +219,7 @@ export const products: GuideProduct[] = [
     rating: "Strongly rated by owners",
     reviews: "A well-established number of owner reviews",
     specs: ["AI-based obstacle recognition", "Home mapping", "Vacuum only, no mop", "Self-emptying base compatible"],
+    specList: [{"label":"Feature 1","value":"AI-based obstacle recognition"},{"label":"Connectivity","value":"Home mapping"},{"label":"Mopping","value":"Vacuum only, no mop"},{"label":"Feature 4","value":"Self-emptying base compatible"}],
     description:
       "The AI Ultra sits at the top of this comparison on price, and its AI-based obstacle recognition and mapping are worth researching for larger homes with several different rug types spread across multiple rooms, since better mapping generally means more consistent, repeatable paths across each rug rather than a robot re-learning the room every run. That consistency matters for lightweight or unsecured rugs, since a robot that takes the same route every time is less likely to catch a rug edge at an unpredictable angle.\n\nIt is vacuum-only, so there is no mop pad to manage over rugs, which simplifies the rug question compared with the combo units in this comparison. Given the price, it is best suited to buyers who want the most capable navigation and obstacle handling across a large home with a real mix of rug types, rather than a single-room or budget-focused purchase.",
     bestFor: "Larger homes with several different rug types where consistent, repeatable navigation matters most.",

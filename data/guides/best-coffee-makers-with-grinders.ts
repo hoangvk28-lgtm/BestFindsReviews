@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,411 reviews",
     specs: ["Built-in conical burr grinder", "25 grind settings", "Espresso, drip, and cold brew modes", "Weight-based dosing"],
+    specList: [{"label":"Size","value":"Built-in conical burr grinder"},{"label":"Grinder","value":"25 grind settings"},{"label":"Feature 3","value":"Espresso, drip, and cold brew modes"},{"label":"Weight Capacity","value":"Weight-based dosing"}],
     description:
       "The conical burr grinder here offers 25 settings and weight-based dosing, aimed at minimizing the retention that plagues cheaper built-in grinders since precise dosing means less leftover ground coffee sitting in the chamber between brews. It also functions as three separate machines, espresso, drip, and cold brew, all sharing the same grinder.\n\nThat shared grinder is also the single point of failure risk this whole guide is about: if the grinder mechanism fails, all three brew modes lose fresh-grind capability at once, not just one function. At $599, it is by far the most expensive model here, and that price needs to be weighed against a standalone burr grinder plus separate brewer covering the same basic need for meaningfully less.",
     bestFor: "Buyers who want espresso, drip, and cold brew from one machine and are willing to pay a premium for precise dosing.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "914 reviews",
     specs: ["Built-in burr grinder", "8 grind settings, 3 strength levels", "2 to 10 cup range", "Reusable filter"],
+    specList: [{"label":"Size","value":"Built-in burr grinder"},{"label":"Grinder","value":"8 grind settings, 3 strength levels"},{"label":"Capacity","value":"2 to 10 cup range"},{"label":"Filtration","value":"Reusable filter"}],
     description:
       "This model covers a full 2-to-10-cup range with an integrated burr grinder offering 8 settings and 3 strength levels, using a POWDER 2-10 button that adjusts the coffee-to-water ratio automatically for the batch size selected. That automatic adjustment is genuinely useful, but a built-in grinder chamber at this price point is also more prone to retaining a small amount of ground coffee between brews than a dedicated standalone grinder with a larger clearing chute.\n\nSwitching between bean types on any built-in grinder like this one risks a small amount of the previous bean mixing into the next grind unless you run the grinder empty between switches, a manual step worth building into your routine. The listing does not document a bypass mode for pre-ground coffee, so confirm that directly if you sometimes want to skip grinding.",
     bestFor: "A full-size 10-cup grind-and-brew machine at a mid-range price without espresso-machine cost.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.9",
     reviews: "16 reviews",
     specs: ["Built-in grinder blade", "6 grind time settings (6 to 16 sec)", "Whole bean, ground, or K-pod", "6 to 16oz brew sizes"],
+    specList: [{"label":"Size","value":"Built-in grinder blade"},{"label":"Grinder","value":"6 grind time settings (6 to 16 sec)"},{"label":"Feature 3","value":"Whole bean, ground, or K-pod"},{"label":"Feature 4","value":"6 to 16oz brew sizes"}],
     description:
       "This is the only model here that explicitly supports a real bypass option: it accepts whole beans, pre-ground coffee, or K-Cup pods, so you are not locked into grinding every single cup. That flexibility directly addresses the days you want a fast pod or already-ground coffee without running the grinder at all.\n\nIts grinder uses a blade rather than a burr, timed in 6-to-16-second increments rather than a numbered grind-size dial, which gives less precise control over particle consistency than the burr grinders in the Ninja and Gevi models above. Because the grind basket is small and reusable, leftover grounds and static are easier to spot and clear by hand between uses than in a larger enclosed hopper.",
     bestFor: "A budget single-serve pick that actually lets you skip grinding on days you want pre-ground coffee or a pod.",

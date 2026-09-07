@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,806 reviews",
     specs: ["304 stainless steel plunger and filter", "Borosilicate glass carafe", "Food-grade silicone seals", "4-level filtration"],
+    specList: [{"label":"Material","value":"304 stainless steel plunger and filter"},{"label":"Capacity","value":"Borosilicate glass carafe"},{"label":"Feature 3","value":"Food-grade silicone seals"},{"label":"Feature 4","value":"4-level filtration"}],
     description:
       "Evidence label: fully plastic-free, based on the manufacturer's own listing, which states the carafe, plunger, and 4-layer filter are made from high borosilicate glass and 304 stainless steel, with food-grade silicone used for seals rather than plastic gaskets. Silicone is a different material class from plastic and is commonly used in food-safe seals specifically because it tolerates heat without leaching the way some plastics can.\n\nBecause it is fully manual with no motor or electrical housing, there is no plastic enclosure to worry about at all, unlike an electric brewer. The tradeoff of any French press is more hands-on cleaning after every use, since the plunger and mesh filter need to be disassembled and rinsed rather than just wiped down.",
     bestFor: "Buyers who want a verified fully plastic-free brewing method and do not mind manual plunging and cleanup.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "807 reviews",
     specs: ["316 surgical-grade stainless steel", "Double-wall insulation", "4-layer filter", "100% dishwasher safe"],
+    specList: [{"label":"Material","value":"316 surgical-grade stainless steel"},{"label":"Feature 2","value":"Double-wall insulation"},{"label":"Filtration","value":"4-layer filter"},{"label":"Feature 4","value":"100% dishwasher safe"}],
     description:
       "Evidence label: fully plastic-free, based on the manufacturer's listing, which explicitly states the press is built from 316 surgical-grade stainless steel and describes the product as 100% plastic-free. This is a higher steel grade than the standard 304 stainless used in many kitchen products, marketed here specifically for buyers avoiding both plastic and certain metal leaching concerns.\n\nUnlike a glass-carafe French press, this one uses double-wall steel construction, so there is no glass to worry about breaking and the exterior stays cool to the touch while the coffee inside stays hot longer. It is fully dishwasher safe, which is a genuine convenience advantage over hand-washing a glass French press.",
     bestFor: "Buyers who want a plastic-free French press with better heat retention and no glass to break.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "29 reviews",
     specs: ["Stainless steel interior and filter basket", "Borosilicate glass brew-check knob", "Cordless serving base", "Keep-warm function"],
+    specList: [{"label":"Material","value":"Stainless steel interior and filter basket"},{"label":"Feature 2","value":"Borosilicate glass brew-check knob"},{"label":"Feature 3","value":"Cordless serving base"},{"label":"Feature 4","value":"Keep-warm function"}],
     description:
       "Evidence label: no plastic touching hot water or brewed coffee, based on the manufacturer's listing, which states the percolator interior and filter basket are stainless steel with no aluminum or plastic contacting the coffee. The cordless serving base and exterior housing likely include some plastic components, which is normal for an electric appliance's outer shell and switch assembly, but that plastic sits outside the water path based on the listed materials.\n\nBeing electric and automatic, this saves the manual plunging step of a French press and adds a keep-warm function that holds the pot at serving temperature after brewing. The tempered glass knob on top lets you watch the brew progress without opening the lid, and a spare knob is included since it is the one component most likely to need replacing over time.",
     bestFor: "Buyers who want an automatic plastic-free brewing workflow and a keep-warm feature.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "19,761 reviews",
     specs: ["Stainless steel construction", "Automatic temperature control", "Stay-cool handle", "1-year warranty"],
+    specList: [{"label":"Material","value":"Stainless steel construction"},{"label":"Feature 2","value":"Automatic temperature control"},{"label":"Feature 3","value":"Stay-cool handle"},{"label":"Warranty","value":"1-year warranty"}],
     description:
       "Evidence label: unverified, check manufacturer specs before assuming. Presto's listing describes the percolator as stainless steel construction with a stay-cool handle and automatic temperature control, but it does not explicitly state that no plastic contacts the water or brewed coffee the way the Veken and APOXCON listings do. The stay-cool handle in particular is a common spot for heat-resistant plastic or nylon on percolators in this price range, so treat that claim as open rather than assumed plastic-free.\n\nIt is a long-running, well-reviewed classic percolator design with automatic keep-hot temperature control, and at under $80 it undercuts the APOXCON on price. If a fully verified plastic-free water path matters more to you than price, the French presses in this comparison have more explicit manufacturer claims to point to.",
     bestFor: "Buyers who want a reliable, well-reviewed automatic percolator and are comfortable with an unverified plastic claim on the handle.",

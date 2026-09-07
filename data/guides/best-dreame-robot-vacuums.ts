@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "929 reviews",
     specs: ["25,000Pa suction", "Auto mop washing", "Self-empty base", "Obstacle avoidance"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Auto mop washing"},{"label":"Feature 3","value":"Self-empty base"},{"label":"Feature 4","value":"Obstacle avoidance"}],
     description:
       "The L40 Ultra Gen 2 sits in the upper-middle of the current Dreame lineup, pairing a 25,000Pa suction rating with an all-in-one base that washes and dries the mop pads between passes. It is the most reviewed and highest-rated model we evaluated in this comparison, which matters more than the suction number by itself since a high figure does not guarantee better pickup on real carpet and debris.\n\nOwners generally point to consistent mapping and a dock that handles mop maintenance without much manual intervention as the strongest parts of the experience. As with any high-suction claim, we'd still recommend checking recent reviews for your specific flooring and pet situation before assuming the number alone settles the pickup question.",
     bestFor: "Buyers who want the best-reviewed all-around Dreame model without stepping up to the priciest tier.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently verified",
     reviews: "review count not yet established",
     specs: ["20,000Pa suction", "Robot vacuum and mop", "Compact design", "Budget-tier pricing"],
+    specList: [{"label":"Suction Power","value":"20,000Pa suction"},{"label":"Mopping","value":"Robot vacuum and mop"},{"label":"Design","value":"Compact design"},{"label":"Feature 4","value":"Budget-tier pricing"}],
     description:
       "The D20 Air Plus is the clear entry point into the current Dreame lineup, priced well under half of most of the other models we evaluated while still carrying a 20,000Pa suction rating on paper. It targets buyers who want core vacuum-and-mop functionality without paying for a self-emptying, self-washing dock.\n\nBecause it is a newer listing, we could not pull a verified rating or review count for it at the time of writing, so treat the suction figure and feature list as manufacturer claims worth checking against recent owner feedback before buying, rather than as confirmed performance.",
     bestFor: "Budget-conscious buyers who want a basic Dreame vacuum-and-mop combo without the premium dock features.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently verified",
     reviews: "review count not yet established",
     specs: ["212°F (100°C) mop wash", "Self-cleaning dock", "Premium price tier", "Robot vacuum and mop"],
+    specList: [{"label":"Mopping","value":"212°F (100°C) mop wash"},{"label":"Feature 2","value":"Self-cleaning dock"},{"label":"Feature 3","value":"Premium price tier"},{"label":"Feature 4","value":"Robot vacuum and mop"}],
     description:
       "The L60 Ultra FE is the priciest model we evaluated and leads with a mop-washing dock claiming full boiling-point water for cleaning the pads between rooms. That kind of hot-water claim is worth verifying against recent owner reviews, since dock water temperature can vary from the advertised figure depending on how long the heating cycle actually runs before the pads are reused.\n\nAs a newer listing, we did not find an established rating or review count to independently confirm real-world reliability, so the hot-water washing claim and premium price should be weighed against feedback that accumulates after more owners have used it through a full cleaning cycle.",
     bestFor: "Buyers most concerned with mop hygiene who are willing to pay a premium and verify washing-temperature claims themselves.",
@@ -112,6 +116,7 @@ export const products: GuideProduct[] = [
     rating: "Generally well received in early listings",
     reviews: "a growing base of owner feedback",
     specs: ["136°F (58°C) mop wash", "Self-cleaning dock", "Mid-range price", "Robot vacuum and mop"],
+    specList: [{"label":"Mopping","value":"136°F (58°C) mop wash"},{"label":"Feature 2","value":"Self-cleaning dock"},{"label":"Feature 3","value":"Mid-range price"},{"label":"Feature 4","value":"Robot vacuum and mop"}],
     description:
       "The L10s Pro Ultra Heat sits in the middle of the lineup on price and offers a more moderate 136°F mop-washing temperature than the L60 Ultra FE's boiling-point claim, which for many households is a reasonable middle ground between hygiene and dock complexity. It has been on the market longer than some of the newest listings here, so there is a somewhat larger pool of owner feedback to draw from, even without a formally verified rating figure.\n\nWe'd still recommend checking current reviews for how the heated wash cycle holds up over months of use rather than relying on the launch-day spec sheet, since heating elements in these docks are a common point of gradual wear.",
     bestFor: "Buyers who want heated mop washing without paying flagship prices for the highest advertised temperature.",
@@ -135,6 +140,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently verified",
     reviews: "review count not yet established",
     specs: ["35,000Pa suction", "Ultra-thin chassis", "Self-emptying and refilling", "280+ obstacle avoidance"],
+    specList: [{"label":"Suction Power","value":"35,000Pa suction"},{"label":"Feature 2","value":"Ultra-thin chassis"},{"label":"Feature 3","value":"Self-emptying and refilling"},{"label":"Feature 4","value":"280+ obstacle avoidance"}],
     description:
       "The X60 Max Ultra is the top-tier model we evaluated, combining the highest suction figure in this comparison with an ultra-thin chassis meant to fit under low furniture and a camera-based system claiming recognition of 280-plus obstacle types. Camera-based recognition raises real privacy considerations worth thinking through, since it typically means indoor mapping and sometimes image data tied to a companion app account.\n\nAt well over a thousand dollars, this is a significant investment without an established review base yet to confirm the suction figure and threshold-climbing claims hold up in daily use. Buyers considering this tier should weigh the price against a more modest model like the L40 Ultra Gen 2, which has a proven review history at roughly a third of the cost.",
     bestFor: "Buyers with a large or complex home layout who want the highest-spec current Dreame model and are comfortable with camera-based navigation.",
@@ -159,6 +165,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently verified",
     reviews: "review count not yet established",
     specs: ["25,000Pa suction", "Robot vacuum and mop", "Mid-range pricing", "Compact base"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Robot vacuum and mop"},{"label":"Feature 3","value":"Mid-range pricing"},{"label":"Design","value":"Compact base"}],
     description:
       "The D30 Ultra CE matches the L40 Ultra Gen 2's 25,000Pa suction rating at a noticeably lower price, positioning it as a strong option for buyers who want the higher suction figure without paying for the most established review history in the lineup. As with the other newer listings here, that suction number is a manufacturer claim rather than an independently confirmed result, so it is worth checking current owner feedback for how it performs on carpet versus hard flooring specifically.\n\nGiven the price gap to the L40 Ultra Gen 2, this model makes the most sense for buyers prioritizing suction-per-dollar who are comfortable buying ahead of an established review base.",
     bestFor: "Buyers who want the same suction rating as the top pick at a noticeably lower price and are comfortable buying before reviews accumulate.",

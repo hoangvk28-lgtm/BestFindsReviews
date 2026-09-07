@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "15,864 reviews",
     specs: ["Self-charging", "App and WiFi control", "Multiple cleaning modes", "Low-profile design"],
+    specList: [{"label":"Feature 1","value":"Self-charging"},{"label":"Connectivity","value":"App and WiFi control"},{"label":"Feature 3","value":"Multiple cleaning modes"},{"label":"Design","value":"Low-profile design"}],
     description:
       "The M210 is the entry point into Lefant's lineup and also the model with by far the largest review base of anything the brand sells, which makes it the safer bet for buyers who want a track record rather than a spec sheet. It covers the basics well: self-charging, app control, and a slim profile that gets under most furniture.\n\nIt does not carry the higher suction ratings or the self-emptying dock of some newer Lefant models, and its navigation is simpler than the LiDAR-equipped options in this comparison. For a straightforward budget robot vacuum with a proven review history, it is the model we would point most buyers toward first.",
     bestFor: "Buyers who want the most reviewed, proven Lefant model at an entry-level price.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Well rated by early owners",
     reviews: "Growing review base",
     specs: ["75-day self-emptying dock", "6000Pa suction", "140 min runtime", "2.4G/5G WiFi, Alexa/App/iWatch"],
+    specList: [{"label":"Feature 1","value":"75-day self-emptying dock"},{"label":"Suction Power","value":"6000Pa suction"},{"label":"Feature 3","value":"140 min runtime"},{"label":"Connectivity","value":"2.4G/5G WiFi, Alexa/App/iWatch"}],
     description:
       "The M2 Plus steps up from the base M210 with a self-emptying dock rated for roughly 75 days between bag changes, plus a meaningfully stronger 6000Pa suction rating and combined vacuum-and-mop cleaning. That combination puts it a tier above the entry models here for buyers who want to hand off dirt disposal, not just floor cleaning.\n\nHome mapping and customized cleaning zones round out the feature set, and the 140-minute runtime should cover most single-floor apartments and small homes in one pass. It sits mid-pack on price among the models we researched, which tracks with the added dock hardware.",
     bestFor: "Buyers who want to stop emptying the dustbin by hand and are willing to pay for the dock.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Solidly rated by owners",
     reviews: "Established review base",
     specs: ["190° PSD obstacle avoidance", "450ml visible dustbin", "150 min runtime", "Multi-floor mapping"],
+    specList: [{"label":"Feature 1","value":"190° PSD obstacle avoidance"},{"label":"Feature 2","value":"450ml visible dustbin"},{"label":"Feature 3","value":"150 min runtime"},{"label":"Connectivity","value":"Multi-floor mapping"}],
     description:
       "The M330 Pro's main differentiator is its upgraded 190-degree obstacle avoidance sensor, which is a real advantage in homes with cables, shoes, or pet toys left on the floor since it can route around them rather than pushing through. A visible 450ml dustbin also makes it easy to see when it needs emptying without opening a panel to check.\n\nMulti-floor mapping and a 150-minute runtime make it a reasonable fit for two-story homes where the robot gets carried between levels. It lands in the middle of the price range we researched, positioned above the base M210 but below the self-emptying and LiDAR-equipped models.",
     bestFor: "Homes with clutter, cords, or pets where obstacle avoidance matters more than suction power.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Positively received",
     reviews: "Modest but growing review count",
     specs: ["2200Pa suction", "6 cleaning modes", "120 min runtime", "Voice control, self-charging"],
+    specList: [{"label":"Suction Power","value":"2200Pa suction"},{"label":"Feature 2","value":"6 cleaning modes"},{"label":"Feature 3","value":"120 min runtime"},{"label":"Feature 4","value":"Voice control, self-charging"}],
     description:
       "The M210 Pro sits at the same price as the base M210 but adds a step up in rated suction and six selectable cleaning modes for different floor types and mess levels. Voice control through a connected assistant rounds out a feature set that is respectable for the price.\n\nIt is a quiet performer according to the listing, and self-charging means it returns to its dock on its own between runs. Runtime at 120 minutes is on the shorter side of the models we researched here, so larger homes may need it to dock and resume mid-clean.",
     bestFor: "Buyers who want a small suction and feature bump over the base M210 at the same price.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Strong early impressions",
     reviews: "Newer, smaller review base",
     specs: ["LiDAR navigation and obstacle avoidance", "20000Pa strong suction", "Self-cleaning roller mop with auto drying", "800ml dustbin, 5G WiFi"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation and obstacle avoidance"},{"label":"Suction Power","value":"20000Pa strong suction"},{"label":"Mopping","value":"Self-cleaning roller mop with auto drying"},{"label":"Connectivity","value":"800ml dustbin, 5G WiFi"}],
     description:
       "The M210 Pro OMNI is by far the most expensive and most capable model in this comparison, combining LiDAR-based navigation with a rated 20000Pa suction figure and a self-cleaning, auto-drying roller mop dock. That places it closer to flagship robot vacuums from larger brands than to the rest of Lefant's own lineup.\n\nFor buyers who want precise room mapping, tangle-free pet hair handling, and a dock that washes and dries its own mop pad, this is the model to consider, provided the price fits the budget. Everything else in this guide is a meaningful step down in both capability and cost.",
     bestFor: "Buyers who want Lefant's most capable navigation and self-maintenance features and have the budget for it.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Well received early on",
     reviews: "Smaller, newer review base",
     specs: ["ToF LiDAR navigation", "6000Pa suction", "Slim profile", "170 min runtime"],
+    specList: [{"label":"Navigation","value":"ToF LiDAR navigation"},{"label":"Suction Power","value":"6000Pa suction"},{"label":"Feature 3","value":"Slim profile"},{"label":"Feature 4","value":"170 min runtime"}],
     description:
       "The M310 Ultra brings ToF LiDAR navigation, normally found on pricier robot vacuums, down to a budget price point while keeping a slim body that fits under low furniture. That combination of accurate mapping and a low profile is fairly unusual at this price among the models we researched.\n\n6000Pa suction and a 170-minute runtime put it ahead of the entry-level models on paper, and accurate obstacle avoidance is called out specifically for pet hair and cluttered rooms. It has fewer verified reviews than the base M210 simply due to being a newer release.",
     bestFor: "Buyers who want LiDAR-level navigation accuracy without paying OMNI-level prices.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed so far",
     reviews: "Moderate review count",
     specs: ["12000Pa suction", "90-day self-emptying dock", "Hot water self-cleaning and drying dock", "5G WiFi, Alexa/App/iWatch control"],
+    specList: [{"label":"Suction Power","value":"12000Pa suction"},{"label":"Feature 2","value":"90-day self-emptying dock"},{"label":"Feature 3","value":"Hot water self-cleaning and drying dock"},{"label":"Connectivity","value":"5G WiFi, Alexa/App/iWatch control"}],
     description:
       "The M3 pairs a high 12000Pa suction rating with a multifunctional dock that self-empties for up to 90 days and washes its own mop with hot water before drying it, which is a meaningfully more hands-off setup than the M2 Plus a tier below it. Obstacle avoidance is also included for navigating around everyday household clutter.\n\nAt roughly $200, it costs more than most of the lineup here but noticeably less than the LiDAR-equipped OMNI flagship, making it a middle-ground option for buyers who want strong self-maintenance without paying premium prices.",
     bestFor: "Buyers who want a longer self-emptying interval and a self-washing mop dock without flagship pricing.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Generally positive feedback",
     reviews: "Moderate review count",
     specs: ["4000Pa suction", "Super thin profile", "200 min runtime", "APP/WiFi/Alexa control"],
+    specList: [{"label":"Suction Power","value":"4000Pa suction"},{"label":"Feature 2","value":"Super thin profile"},{"label":"Feature 3","value":"200 min runtime"},{"label":"Connectivity","value":"APP/WiFi/Alexa control"}],
     description:
       "The M210P is built around a super-thin body designed to clean under couches, beds, and cabinets that block bulkier robot vacuums entirely. It pairs that low profile with a 4000Pa suction rating and one of the longer runtimes in this comparison at 200 minutes.\n\nIt does not include a self-emptying dock or LiDAR navigation, so it competes on physical design rather than smart features. For homes with a lot of low furniture where other robots simply cannot reach, it fills a niche the rest of this lineup does not.",
     bestFor: "Homes with low-clearance furniture where a standard-height robot vacuum cannot fit underneath.",

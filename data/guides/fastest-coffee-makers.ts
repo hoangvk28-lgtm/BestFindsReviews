@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal always-hot tank", "10-cup carafe", "~3 minute steady-state brew", "Warming plate"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"~3 minute steady-state brew"},{"label":"Feature 4","value":"Warming plate"}],
     description:
       "The GRB keeps an internal tank of water hot at all times, so once it has gone through its initial cold-start fill cycles, every subsequent full pot brews in around three minutes because the machine is not heating water from scratch each time. That steady-state speed is the fastest of any machine in this comparison for a full 10-cup pot.\n\nThe genuine tradeoff is that the tank draws standby power continuously to stay hot, even between brews, which a standard drip machine that only heats on demand does not do. For daily use the speed generally outweighs that cost, but it is a real ongoing expense a one-time brew-time number does not capture.",
     bestFor: "Daily coffee drinkers who brew at least once a day and want the fastest steady-state full pot.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "7,588 reviews",
     specs: ["Internal always-hot tank", "10-cup carafe", "Stay-hot warmer", "Compact footprint"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"Stay-hot warmer"},{"label":"Design","value":"Compact footprint"}],
     description:
       "The Classic shares the GRB's always-hot tank and steady-state speed in a more compact housing, making it a near-identical performer for kitchens with tighter counter space. Like every Bunn here, the cold-start fill cycle before first use is the one step that does not match the fast steady-state claim.\n\nSetup and cleanup time also factor into real total time savings, and the Classic's simple one-button design keeps both minimal once the initial fill is done.",
     bestFor: "Buyers who want Bunn's steady-state speed in a smaller footprint than the GRB.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "7,731 reviews",
     specs: ["Internal always-hot tank", "Thermal stainless carafe", "10-cup capacity", "No warming plate"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"Thermal stainless carafe"},{"label":"Feature 3","value":"10-cup capacity"},{"label":"Feature 4","value":"No warming plate"}],
     description:
       "The Platinum brews at the same fast steady-state speed as the GRB and Classic but pours into a thermal stainless carafe instead of a glass carafe on a warming plate. That means the coffee itself does not keep degrading in flavor after the fast brew finishes, which a hot plate slowly does over the following hour.\n\nIt is the most expensive machine in this comparison and the thermal lid adds a pour-spout mechanism that needs its own occasional cleaning, a small addition to total time spent versus a simple glass carafe.",
     bestFor: "Buyers who want fast brewing plus coffee that stays genuinely hot for hours without a warming plate.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "8,046 reviews",
     specs: ["Heats on demand", "Full carafe or single-serve modes", "No standby tank", "Multiple brew strengths"],
+    specList: [{"label":"Feature 1","value":"Heats on demand"},{"label":"Capacity","value":"Full carafe or single-serve modes"},{"label":"Feature 3","value":"No standby tank"},{"label":"Feature 4","value":"Multiple brew strengths"}],
     description:
       "Unlike the Bunn models here, the DualBrew Pro heats water on demand rather than keeping a tank hot continuously, which means it draws no standby power between brews but takes longer per pot since it starts from a cold heating element every time. For anyone who only brews once or twice a day, that tradeoff can matter more than shaving a couple of minutes off brew time.\n\nIt also brews single servings directly into a cup or mug in addition to a full carafe, which is a flexibility the Bunn lineup in this guide does not offer, though a full carafe cycle takes noticeably longer than a Bunn's steady-state pot.",
     bestFor: "Buyers who want reasonably fast brewing without paying continuous standby power for an always-hot tank.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "19,690 reviews",
     specs: ["Heats on demand", "10-cup carafe", "Fold-away frother", "Multiple brew styles"],
+    specList: [{"label":"Feature 1","value":"Heats on demand"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"Fold-away frother"},{"label":"Feature 4","value":"Multiple brew styles"}],
     description:
       "The CM401 is a standard on-demand drip machine like the DualBrew Pro but at a lower price and without the single-serve mode. It heats from cold on every brew, so its per-pot time trails the always-hot Bunn machines here, but it draws no standby power and includes a fold-away frother for milk-based drinks that none of the Bunn models offer.\n\nFor buyers who want reasonably quick brewing without committing to an always-hot tank's ongoing electricity cost, this is the more affordable standard-drip option in this comparison.",
     bestFor: "Buyers who want a reasonably fast standard drip machine with milk frothing and no standby power cost.",

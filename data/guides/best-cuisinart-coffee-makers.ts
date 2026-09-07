@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["12-cup glass carafe", "24-hour programmability", "1 to 4 cup setting", "Adjustable auto-off, 0 to 4 hours"],
+    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmability"},{"label":"Feature 3","value":"1 to 4 cup setting"},{"label":"Adjustability","value":"Adjustable auto-off, 0 to 4 hours"}],
     description:
       "The DCC-1200 is Cuisinart's longest-running current model, with 24-hour programmability, a 1 to 4 cup small-batch setting, and a variable heater plate with low, medium, and high temperature control. The included permanent gold-tone filter cuts down on paper filter costs, and a built-in charcoal water filter is meant to improve tap water taste going into the brew.\n\nLike every Cuisinart drip machine, its 12-cup rating is based on a 5oz cup, so the true yield is closer to 60oz total, roughly seven and a half standard 8oz mugs rather than a literal twelve. The dripless spout and knuckle guard on the carafe lid are genuinely useful pouring details that make less of a mess than a plain lid.",
     bestFor: "Buyers who want Cuisinart's most established model with full temperature control and a small-batch setting.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,989 reviews",
     specs: ["14-cup glass carafe", "PerfecTemp technology", "1 to 4 cup setting", "Brew strength control"],
+    specList: [{"label":"Capacity","value":"14-cup glass carafe"},{"label":"Feature 2","value":"PerfecTemp technology"},{"label":"Feature 3","value":"1 to 4 cup setting"},{"label":"Feature 4","value":"Brew strength control"}],
     description:
       "The DCC-3200 uses Cuisinart's PerfecTemp system, which the brand describes as delivering hotter coffee without sacrificing flavor, alongside the same permanent gold-tone filter and small-batch setting found on the DCC-1200. It carries a lower current price than the DCC-1200 despite the larger stated capacity, making it the value pick in this comparison.\n\nAt Cuisinart's 5oz-per-cup measurement, the 14-cup rating works out to roughly 70oz total. Brew strength control toggles between a regular and bold setting, which is a genuine difference in extraction strength rather than just a marketing label, useful if your household disagrees on how strong coffee should be.",
     bestFor: "Buyers who want PerfecTemp brewing and brew strength control at a lower price than the DCC-1200.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "11,061 reviews",
     specs: ["12-cup thermal carafe", "Self-clean function", "Decalcify indicator light", "Backlit LCD display"],
+    specList: [{"label":"Capacity","value":"12-cup thermal carafe"},{"label":"Feature 2","value":"Self-clean function"},{"label":"Lighting","value":"Decalcify indicator light"},{"label":"Feature 4","value":"Backlit LCD display"}],
     description:
       "The DCC-3400 swaps the glass carafe for a stainless thermal carafe while keeping PerfecTemp brewing, brew strength control, and the 1 to 4 cup small-batch setting. It adds a self-clean function and a decalcify indicator light that signals when it detects scale buildup, though how much that alert actually reduces buildup versus a fixed maintenance schedule is worth questioning rather than assuming.\n\nAt Cuisinart's 5oz-per-cup measurement, this model's 12-cup rating works out to roughly 60oz total. The backlit LCD is easier to read at a glance than the DCC-1200's simpler display, and a ready-alert tone can be toggled on or off if you do not want a beep announcing the finished pot.",
     bestFor: "Buyers who want thermal carafe retention with PerfecTemp brewing and do not mind paying more than the glass carafe models.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "19,467 reviews",
     specs: ["72oz reservoir", "5 cup-size settings", "Hot water dispenser", "Programmable brewing"],
+    specList: [{"label":"Feature 1","value":"72oz reservoir"},{"label":"Capacity","value":"5 cup-size settings"},{"label":"Feature 3","value":"Hot water dispenser"},{"label":"Feature 4","value":"Programmable brewing"}],
     description:
       "This is Cuisinart's single-serve pod machine, genuinely distinct from the three full-carafe drip models above rather than just a smaller version of the same design. A 72oz reservoir holds enough water for multiple brews before refilling, and 5 cup-size settings give more granularity than most single-serve competitors offer.\n\nA built-in hot water dispenser handles tea or instant needs without a separate kettle, and the auto-rinse function flushes the brew chamber between uses. Like other pod machines, ongoing pod cost adds up over time, and it does not offer the small-batch grounds brewing flexibility of the drip models in this lineup.",
     bestFor: "Single users who want pod convenience with a large reservoir and hot-water-on-demand.",

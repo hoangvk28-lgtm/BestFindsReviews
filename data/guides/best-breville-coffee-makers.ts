@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "27,741 reviews",
     specs: ["Integrated conical burr grinder", "58mm portafilter", "Digital temperature control", "67oz water tank"],
+    specList: [{"label":"Durability","value":"Integrated conical burr grinder"},{"label":"Filtration","value":"58mm portafilter"},{"label":"Feature 3","value":"Digital temperature control"},{"label":"Feature 4","value":"67oz water tank"}],
     description:
       "The Barista Express is Breville's entry point into all-in-one espresso, combining a dose-control conical burr grinder with a 58mm commercial-style portafilter so you can go from whole bean to shot in one machine. Digital temperature control targets consistent extraction temperature shot to shot, which matters more for taste consistency than most marketing copy suggests.\n\nThe manual steam wand means milk texturing is a learned skill rather than a one-touch feature, and the reservoir, showerhead, and portafilter all need separate regular cleaning to avoid stale oil buildup affecting flavor. It carries a 1-year limited warranty, shorter than the multi-year terms on premium drip brewers like Moccamaster.",
     bestFor: "Buyers who want grinder integration at the lowest entry price into Breville's espresso lineup.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,877 reviews",
     specs: ["Touch screen display", "Automatic milk texturing", "ThermoJet heating, 3-second heat up", "8 custom saved settings"],
+    specList: [{"label":"Feature 1","value":"Touch screen display"},{"label":"Feature 2","value":"Automatic milk texturing"},{"label":"Feature 3","value":"ThermoJet heating, 3-second heat up"},{"label":"Feature 4","value":"8 custom saved settings"}],
     description:
       "The Barista Touch adds a touch screen and automatic milk texturing to the same core grinder-plus-portafilter formula as the Barista Express, letting you save up to 8 personalized coffee profiles and adjust strength, milk texture, and temperature without manual guesswork on the steam wand. The ThermoJet heating system reaches extraction temperature in about 3 seconds instead of the longer warm-up some machines need.\n\nWhether the touch screen and automation meaningfully improve the coffee itself, versus just making the process faster and more approachable, depends on how much you value consistency over hands-on control. The extraction quality ceiling is similar to the Barista Express since both share the same portafilter and grinder architecture; the Touch mainly buys convenience and a 2-year warranty instead of 1 year.",
     bestFor: "Buyers who want automated milk texturing and saved profiles without learning manual steam wand technique.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "2,545 reviews",
     specs: ["No built-in grinder", "54mm portafilter", "Automatic steam wand", "ThermoJet heating, 3-second heat up"],
+    specList: [{"label":"Size","value":"No built-in grinder"},{"label":"Filtration","value":"54mm portafilter"},{"label":"Feature 3","value":"Automatic steam wand"},{"label":"Feature 4","value":"ThermoJet heating, 3-second heat up"}],
     description:
       "The Bambino drops the built-in grinder entirely, so you need a separate burr grinder and pre-ground or freshly ground coffee ready to go into the 54mm portafilter. In exchange it is the smallest and least expensive of the three espresso machines here, with the same fast ThermoJet heating and automatic milk texturing as the pricier Touch model.\n\nFor buyers who already own a decent grinder, this is arguably the better value than the Barista Express, since you are not paying for a built-in grinder you may prefer to replace anyway. The 1-year warranty and simpler control panel keep the footprint and price down without cutting the automatic steam wand that makes daily milk drinks easier.",
     bestFor: "Buyers who already have a separate grinder and want compact automatic-steam espresso without paying for grinder integration.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "3.3",
     reviews: "108 reviews",
     specs: ["Dual-wall thermal carafe", "SCA Golden Cup certified", "Cold brew and custom brew presets", "60oz removable water tank"],
+    specList: [{"label":"Capacity","value":"Dual-wall thermal carafe"},{"label":"Feature 2","value":"SCA Golden Cup certified"},{"label":"Presets","value":"Cold brew and custom brew presets"},{"label":"Feature 4","value":"60oz removable water tank"}],
     description:
       "This is the one drip machine in Breville's current lineup, and it belongs in a separate conversation from the three espresso machines above rather than being ranked against them directly. It meets the SCA Golden Cup standard for extraction and includes both cone and flat-bottom filter basket options, since filter shape genuinely affects flavor profile according to research the brand cites from UC Davis and the Coffee Science Foundation.\n\nThe dual-wall thermal carafe keeps coffee above 150 degrees Fahrenheit for up to 4 hours, a meaningfully longer hold than a standard warming plate, and a programmable timer allows scheduling up to 24 hours in advance, something none of the three espresso machines offer. Reservoir, showerhead, and carafe lid cleaning is still a multi-step process, similar in effort to maintaining an espresso machine's portafilter, just with different parts.",
     bestFor: "Buyers who want a full pot of drip coffee with SCA-certified quality and do not need espresso at all.",

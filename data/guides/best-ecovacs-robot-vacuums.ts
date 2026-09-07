@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "2,311 reviews",
     specs: ["3.19in ultra-slim body", "Omni auto-empty and wash dock", "Under-furniture access", "ZeroTangle brush"],
+    specList: [{"label":"Feature 1","value":"3.19in ultra-slim body"},{"label":"Feature 2","value":"Omni auto-empty and wash dock"},{"label":"Feature 3","value":"Under-furniture access"},{"label":"Feature 4","value":"ZeroTangle brush"}],
     description:
       "The T50 PRO Omni pairs a 3.19-inch ultra-slim body with a full Omni dock that empties the dustbin and washes the mop pads, a combination that is unusual at this price since slim-profile models often skip the hot-water wash step to keep the dock compact. The thin body lets it reach under sofas and low bed frames that taller Omni-tier robots cannot enter.\n\nAmong the eight models we researched, it carries the only verified rating and review count, which we treat as a meaningful reliability signal rather than a marketing number. It balances suction, dock convenience, and physical reach better than the other T-series Omni variants at a similar price.",
     bestFor: "Buyers who want a full self-washing dock plus the ability to clean under low furniture.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Recently listed, review count still building",
     specs: ["30000Pa blast suction", "Omni auto-empty and wash dock", "Hot water mop washing", "Obstacle avoidance"],
+    specList: [{"label":"Suction Power","value":"30000Pa blast suction"},{"label":"Feature 2","value":"Omni auto-empty and wash dock"},{"label":"Mopping","value":"Hot water mop washing"},{"label":"Feature 4","value":"Obstacle avoidance"}],
     description:
       "The T90 PRO Omni sits near the top of the current lineup on paper suction, at 30000Pa versus the 15,000 to 20,000Pa range of the mid-tier T-series models. That extra suction matters most on thick carpet and for pet owners dealing with embedded hair rather than on bare floors, where lower-suction models already perform adequately.\n\nIt pairs that suction with the same category of Omni dock as the flagship X-series, handling both auto-empty and hot-water mop washing. Since it is a newer listing without an established review history, we would treat the suction spec as a reason to shortlist it rather than a guarantee of real-world performance until more owner feedback accumulates.",
     bestFor: "Homes with thick carpet or heavy pet hair that want the highest listed suction without paying flagship X-series pricing.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Limited owner feedback so far",
     specs: ["FocusJet pre-spray roller mop", "OMNICYCLONE dock system", "X-series flagship tier", "Roller-mop hot water wash"],
+    specList: [{"label":"Nozzles","value":"FocusJet pre-spray roller mop"},{"label":"Feature 2","value":"OMNICYCLONE dock system"},{"label":"Feature 3","value":"X-series flagship tier"},{"label":"Mopping","value":"Roller-mop hot water wash"}],
     description:
       "The X12 OMNICYCLONE is the most expensive model we researched by a wide margin, and it uses a rotating roller mop with pre-spray jets rather than the flat pad mops on the T and N series. Roller mops generally scrub floors more thoroughly since the roller physically agitates the surface, but they also require more dock maintenance and a larger, more complex base station.\n\nAt this price it competes with dedicated wash-and-dry robot systems from other brands rather than with the rest of the DEEBOT lineup. It is a reasonable pick only for buyers who specifically want roller-mop cleaning and are not price sensitive within the Ecovacs ecosystem.",
     bestFor: "Buyers who specifically want roller-mop scrubbing and are not price sensitive.",
@@ -112,6 +116,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Newer listing, review count still building",
     specs: ["OZMO instant roller self-washing", "Omni dock", "X-series build", "Auto obstacle avoidance"],
+    specList: [{"label":"Feature 1","value":"OZMO instant roller self-washing"},{"label":"Feature 2","value":"Omni dock"},{"label":"Material","value":"X-series build"},{"label":"Feature 4","value":"Auto obstacle avoidance"}],
     description:
       "The X9 PRO Omni brings roller-mop technology down to a lower price than the X12, using OZMO's instant self-washing roller that rinses continuously as it cleans rather than only between rooms. That continuous rinse cycle is meant to reduce the streaking that flat pad mops can leave when they redistribute dirty water across a floor.\n\nIt is priced well above the T-series pad-mop models but well under the X12 flagship, making it the middle ground for buyers who want roller-mop performance without flagship pricing.",
     bestFor: "Buyers who want roller-mop self-washing without paying flagship X12 pricing.",
@@ -135,6 +140,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Newer listing, review count still building",
     specs: ["18500Pa blast suction", "Omni auto-empty and wash dock", "MAX PRO tier build", "ZeroTangle brush"],
+    specList: [{"label":"Suction Power","value":"18500Pa blast suction"},{"label":"Feature 2","value":"Omni auto-empty and wash dock"},{"label":"Material","value":"MAX PRO tier build"},{"label":"Feature 4","value":"ZeroTangle brush"}],
     description:
       "The T50 MAX PRO Omni slots between the entry T30C and the higher-suction T90 PRO Omni, with 18500Pa suction that splits the difference between the two. It keeps the full Omni dock functionality, so buyers get hot-water mop washing and auto-emptying without stepping up to T90 or X-series pricing.\n\nThis is the model to consider if the base T50 PRO Omni's slim-body tradeoffs (smaller dustbin, less under-furniture reach needed) do not matter to you and you would rather have a bit more suction headroom for carpet.",
     bestFor: "Buyers who want more suction than the entry Omni tier without paying for T90 or X-series pricing.",
@@ -158,6 +164,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Newer listing, review count still building",
     specs: ["20,000Pa suction", "TruEdge adaptive edge mopping", "ZeroTangle 2.0 brush", "Hot water washing, self-emptying"],
+    specList: [{"label":"Suction Power","value":"20,000Pa suction"},{"label":"Mopping","value":"TruEdge adaptive edge mopping"},{"label":"Feature 3","value":"ZeroTangle 2.0 brush"},{"label":"Feature 4","value":"Hot water washing, self-emptying"}],
     description:
       "The T30C matches the T50 PRO Omni on price while offering a higher listed suction figure and TruEdge adaptive edge mopping, which extends an arm to scrub baseboards that a standard round mop pad cannot reach flush against a wall. It also uses ZeroTangle 2.0, the newer generation of Ecovacs's hair-tangle-resistant brush design.\n\nIt gives up the T50 PRO Omni's ultra-slim body, so it will not fit under as much low furniture, but for buyers who prioritize edge cleaning and suction over under-furniture reach, it is a reasonable alternative at the same price.",
     bestFor: "Buyers who prioritize baseboard and edge mopping over under-furniture reach.",
@@ -182,6 +189,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Newer listing, review count still building",
     specs: ["8000Pa suction", "ZeroTangle brush", "300-minute runtime", "TrueMapping path planning"],
+    specList: [{"label":"Suction Power","value":"8000Pa suction"},{"label":"Feature 2","value":"ZeroTangle brush"},{"label":"Feature 3","value":"300-minute runtime"},{"label":"Connectivity","value":"TrueMapping path planning"}],
     description:
       "The N20 is the entry point into the current DEEBOT lineup and the only N-series model we researched, sitting well below the T-series on both price and suction. It still includes ZeroTangle brush technology and TrueMapping for room-by-room path planning, but it does not come with an Omni-style dock, so there is no auto-emptying or mop washing.\n\nAt roughly a third the price of the T50 PRO Omni, it is a reasonable entry option for a smaller home or a first robot vacuum, as long as you are comfortable emptying the dustbin and rinsing the mop pad by hand.",
     bestFor: "Smaller homes or first-time buyers who do not need an auto-empty or mop-wash dock.",
@@ -205,6 +213,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently rated",
     reviews: "Older listing, mixed and dated feedback",
     specs: ["Precise laser navigation", "Multi-floor mapping", "No-go and no-mop zones", "Auto-empty station compatible"],
+    specList: [{"label":"Navigation","value":"Precise laser navigation"},{"label":"Connectivity","value":"Multi-floor mapping"},{"label":"Zones","value":"No-go and no-mop zones"},{"label":"Feature 4","value":"Auto-empty station compatible"}],
     description:
       "The T8 is the oldest model in this comparison and relies on laser-based navigation rather than the camera and AI obstacle avoidance found on newer T and X-series models. Laser navigation maps a room accurately but is generally slower to react to small objects on the floor, like cords or pet toys, than camera-based systems.\n\nIt is compatible with an auto-empty station, but unlike the Omni-tier models here, that dock is a separate accessory rather than an included hot-water mop-washing base. It is best considered by buyers who specifically want an older, simpler mapping-only robot at a lower price rather than the newer obstacle-avoidance and dock features.",
     bestFor: "Buyers who want basic mapped cleaning at a lower price and do not need camera-based obstacle avoidance.",

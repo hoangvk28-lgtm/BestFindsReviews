@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "23,547 reviews",
     specs: ["30-day bagless HEPA self-empty base", "Home mapping with Matrix Clean", "Wifi app control", "Pet hair focused design"],
+    specList: [{"label":"Collection","value":"30-day bagless HEPA self-empty base"},{"label":"Connectivity","value":"Home mapping with Matrix Clean"},{"label":"Feature 3","value":"Wifi app control"},{"label":"Design","value":"Pet hair focused design"}],
     description:
       "The AV2501S is the most reviewed model in this comparison by a wide margin, which matters for a bagless dock since long-term reliability of the seal and cyclone path only shows up after thousands of households have logged real usage. Its 30-day capacity HEPA base uses a reusable bin rather than a disposable bag, so the ongoing cost drops but the emptying task does not disappear.\n\nMatrix Clean mapping is meant to reduce missed spots that force repeat passes, which indirectly reduces how much debris builds up in the bin between empties. Owners should still expect to wipe down the bin and check the HEPA filter regularly, since bagless systems rely on that manual step to keep suction from degrading.",
     bestFor: "Buyers who want the most field-tested bagless self-empty option and are comfortable with a hands-on filter routine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,152 reviews",
     specs: ["10,000Pa suction", "Combined vacuum and mop", "Bagless self-empty dock", "20,000+ verified reviews"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Combined vacuum and mop"},{"label":"Collection","value":"Bagless self-empty dock"},{"label":"Reviews","value":"20,000+ verified reviews"}],
     description:
       "The Q10 S5+ pairs strong rated suction with mopping in one unit, which is useful if you are trying to cover hard floors and carpet without running two separate machines. Its self-empty dock uses a bagless reusable bin, so the ongoing cost of ownership stays lower than a bagged system as long as you keep up with emptying it.\n\nAt over 20,000 reviews and the same 4.0 average as the top pick, it has a comparable reliability track record for a similar price. The main thing to check before buying is how the mop pad and dock interact with the dust bin, since combined vacuum-mop docks sometimes need more frequent cleaning at the seal to avoid odor buildup.",
     bestFor: "Buyers who want vacuum and mop in one bagless self-empty system without paying a premium.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "18,586 reviews",
     specs: ["Up to 7 to 9 weeks between self-empties", "10,000Pa suction", "Vacuum and mop combo", "Bagless reusable dust bin"],
+    specList: [{"label":"Feature 1","value":"Up to 7 to 9 weeks between self-empties"},{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Collection","value":"Bagless reusable dust bin"}],
     description:
       "The Q7 M5+ is built around a larger bagless bin that Roborock rates for up to 7 to 9 weeks between manual empties, longer than most models in this comparison. That stretch is worth checking against your household's dust and pet hair levels, since a larger bin only helps if it does not lose suction well before it is full.\n\nWith 18,586 reviews at the same 4.0 average as the other Roborock and Shark models here, it has a solid track record, though buyers should confirm the cyclone path stays clear at that extended interval rather than assuming the rated capacity holds up in every home.",
     bestFor: "Households that want to empty a bagless dock as infrequently as possible without switching to a bagged system.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "7,587 reviews",
     specs: ["Bagless self-empty base", "Grey finish", "Vacuum-only design", "No mopping hardware to maintain"],
+    specList: [{"label":"Collection","value":"Bagless self-empty base"},{"label":"Color/Finish","value":"Grey finish"},{"label":"Design","value":"Vacuum-only design"},{"label":"Mopping","value":"No mopping hardware to maintain"}],
     description:
       "The Navigator RV2120AE keeps things simple as a vacuum-only robot with a bagless self-empty base, skipping the mop tank and pad maintenance that combined units require. Fewer components at the dock generally means fewer seals to check for buildup, which can offset some of the extra effort bagless systems demand elsewhere.\n\nIts review count is smaller than the top three picks but still substantial, and the 4.0 rating matches the rest of the Shark and Roborock lineup here. It is a reasonable middle-of-the-road choice for someone who specifically wants to avoid the added mop-dock cleaning that comes with hybrid units.",
     bestFor: "Buyers who want a straightforward bagless self-empty vacuum without mopping components to maintain.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "7,587 reviews",
     specs: ["Bagless self-empty base", "White finish", "Vacuum-only design", "Lower price point than the Grey RV2120AE"],
+    specList: [{"label":"Collection","value":"Bagless self-empty base"},{"label":"Color/Finish","value":"White finish"},{"label":"Design","value":"Vacuum-only design"},{"label":"Feature 4","value":"Lower price point than the Grey RV2120AE"}],
     description:
       "The AV2110S shares the same review count and 4.0 rating as the Grey RV2120AE, since both are effectively the same Shark Navigator platform in a different finish and price tier. At $269.98 it undercuts its sibling slightly, which makes it worth checking for the lower price if the white finish and included features fit your kitchen or living room.\n\nAs with the Grey version, this is a vacuum-only bagless self-empty design, so there is no mop tank to clean, but the reusable dust bin and filter still need periodic manual attention to avoid gradual suction loss.",
     bestFor: "Buyers who want the same Shark Navigator platform as the Grey model at a slightly lower price.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "915 reviews",
     specs: ["Bagless self-emptying base", "Vacuum and mop combo", "Lowest price in this comparison", "4.4 average rating"],
+    specList: [{"label":"Collection","value":"Bagless self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Size","value":"Lowest price in this comparison"},{"label":"Reviews","value":"4.4 average rating"}],
     description:
       "The Tikom combines vacuuming and mopping with a bagless self-emptying base at the lowest price point in this comparison, and its 4.4 rating is meaningfully higher than the established Shark and Roborock models here. With only 915 reviews, that rating carries less statistical weight than the tens of thousands behind the top picks, so treat it as a promising early signal rather than a proven track record.\n\nBudget bagless docks can be more prone to seal wear and cyclone clogging over time than pricier models, so buyers considering this one should factor in that the lower price may come with a shorter service life before filter or dock performance noticeably drops.",
     bestFor: "Budget-focused buyers willing to accept a smaller review history in exchange for a lower price and strong early ratings.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "171 reviews",
     specs: ["Bagless self-emptying base", "Marketed specifically for pet hair and carpet", "Vacuum and mop combo", "4.4 average rating"],
+    specList: [{"label":"Collection","value":"Bagless self-emptying base"},{"label":"Feature 2","value":"Marketed specifically for pet hair and carpet"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Reviews","value":"4.4 average rating"}],
     description:
       "Airzeen markets this model specifically around pet hair and carpet performance, which is a common failure point for bagless docks since hair tends to wrap around brush rollers and clog the cyclone path faster than fine dust alone. Its 4.4 rating is encouraging, but with only 171 reviews the sample is too small to treat as a reliable long-term signal.\n\nAnyone considering this model for a heavy-shedding household should pay close attention to how easy the brush roller is to clear of wrapped hair, since that maintenance step matters more for pet owners than for most other bagless self-empty buyers.",
     bestFor: "Pet owners specifically prioritizing hair pickup who are comfortable with a newer, less-reviewed model.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "169 reviews",
     specs: ["7000Pa suction", "LiDAR navigation", "Bagless self-empty station", "4.6 average rating, highest in this comparison"],
+    specList: [{"label":"Suction Power","value":"7000Pa suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Collection","value":"Bagless self-empty station"},{"label":"Size","value":"4.6 average rating, highest in this comparison"}],
     description:
       "The uninell carries the highest average rating in this entire comparison at 4.6, and it is one of the few models here that uses LiDAR navigation rather than camera or gyroscope-based mapping, which typically means more consistent room coverage and fewer missed spots. Fewer missed spots can translate to less debris tracked back into the bin over repeated passes.\n\nThe review count is the smallest in this comparison at 169, so the 4.6 average should be read as an early, encouraging signal rather than a settled verdict. Buyers drawn to the navigation technology should weigh that upside against the lack of a large-scale track record for the self-empty station's long-term seal and filter performance.",
     bestFor: "Buyers prioritizing precise LiDAR navigation who are willing to accept a limited review history.",

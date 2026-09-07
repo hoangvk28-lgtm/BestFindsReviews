@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A 20-inch mower sits in a narrow but popular band: wide enough to clear a small to mid-size lawn in a reasonable number of passes, but still light enough for most owners to push, lift, and store without a shed built around it. The 20-inch label gets applied loosely across gas, reel, and battery decks, so it is worth checking whether that number describes the actual cutting swath or just the overall machine width.",
   "We compared current 20-inch mowers on deck type, cutting height range, weight, bag or clipping handling, and the maintenance each power source requires, so you can match the mower to the yard instead of picking on price alone.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "senix-20-4cycle", rank: 1, badge: "Best Overall", name: "SENIX 20-Inch Gas Lawn Mower, 144cc 4-Cycle Engine",
     amazonUrl: "https://www.amazon.com/dp/B0GQBCT9LK?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/5150U1cYT7L._SL500_.jpg", price: "$189.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch cutting deck", "144cc 4-cycle engine", "3 cutting height settings", "Walk-behind push drive"],
+    specList: [{"label":"Size","value":"20-inch cutting deck"},{"label":"Feature 2","value":"144cc 4-cycle engine"},{"label":"Adjustability","value":"3 cutting height settings"},{"label":"Drive Type","value":"Walk-behind push drive"}],
     description: "This SENIX carries a rating around 4.0 stars from roughly 445 reviews, and the listing centers on a 144cc 4-cycle engine paired with a 20-inch deck and three cutting height settings. A 4-cycle engine means no gas-oil mixing, which keeps fueling simpler than older 2-cycle push mowers.\n\nAt this price point it is a straightforward gas push mower rather than a self-propelled or mulching-focused unit, so expect to supply the walking effort yourself. Check the current listing for included oil and confirm the fuel type before first startup.",
     bestFor: "small to mid-size lawns where a simple gas push mower beats charging a battery",
     pros: ["Full 20-inch cutting deck for fewer passes than 16 to 18-inch mowers", "4-cycle engine avoids gas-oil mixing", "Adjustable cutting height for different grass conditions"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0F32NCSPX?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41DodyuVy0L._SL500_.jpg", price: "$189.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch cutting deck", "144cc gas engine", "Push drive", "Rated 4.0 stars from about 1,228 reviews"],
+    specList: [{"label":"Size","value":"20-inch cutting deck"},{"label":"Feature 2","value":"144cc gas engine"},{"label":"Drive Type","value":"Push drive"},{"label":"Durability","value":"Rated 4.0 stars from about 1,228 reviews"}],
     description: "This SENIX variant shares the same 20-inch deck and 144cc engine class as its sibling listing, and carries a 4.0-star rating across a larger review base of about 1,228 buyers, which gives a somewhat wider sample of real-world feedback on starting reliability and cut quality.\n\nBecause it is priced identically to the other SENIX 20-inch listing, the deciding factor is usually current stock or the specific feature callouts on each product page rather than a meaningful spec difference. Confirm bagging or mulching capability in the current listing before ordering.",
     bestFor: "buyers who want the same 20-inch gas class with a larger review history to check against",
     pros: ["20-inch deck matches full-size mower coverage", "Larger review base (about 1,228 ratings) to gauge reliability", "Straightforward gas push mower with no battery to manage"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GQGWLYQT?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/414w+zwM8UL._SL500_.jpg", price: "$129.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch cutting width", "5-blade reel cutting system", "No gas or battery required", "Rated 4.1 stars from about 1,837 reviews"],
+    specList: [{"label":"Size","value":"20-inch cutting width"},{"label":"Hose","value":"5-blade reel cutting system"},{"label":"Battery","value":"No gas or battery required"},{"label":"Durability","value":"Rated 4.1 stars from about 1,837 reviews"}],
     description: "The LawnMaster LMRM2001 is a human-powered reel mower with a 20-inch cutting width and a 5-blade reel, and it holds a 4.1-star rating across roughly 1,837 reviews, a strong sample for this category. Reel mowers cut with a scissor action rather than an impact blade, which tends to leave a cleaner edge on well-maintained grass.\n\nWith no engine or battery, there is no fuel, charging, or motor maintenance to plan around, but reel mowers ask more of the operator on thick, tall, or uneven grass than gas or battery decks do. Blade sharpening on the reel is the main recurring maintenance item.\n\nThis fits smaller, flatter, regularly mowed lawns where quiet operation and zero fuel or charging cost matter more than speed.",
     bestFor: "small, flat, regularly mowed lawns where quiet, fuel-free operation matters most",
     pros: ["No gas, oil, or battery to buy, store, or charge", "Quiet operation compared to gas or even most electric mowers", "Strong review base at 4.1 stars from about 1,837 reviews"],

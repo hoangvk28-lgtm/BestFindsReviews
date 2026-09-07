@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "1-cup reservoir", "6 to 12oz brew", "Cord storage"],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Capacity","value":"1-cup reservoir"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"Cord storage"}],
     description:
       "The K-Mini's closed width is under five inches, but the number that matters more is what happens when you use it. The lid opens straight up with a few inches of clearance needed above the machine, and because it uses a one-cup reservoir instead of a tank, there is no reservoir to remove or wrestle out from a tight corner. You add water fresh through the top opening for every single brew.\n\nThat one-cup design means no meaningful difference between one-cup and max-capacity performance since every brew is effectively a fresh fill. The tradeoff is you refill it every time, and the drip tray needs to be removed to accommodate anything taller than a standard mug.",
     bestFor: "The smallest available counter footprint, dorm shelves, and anywhere refilling per cup is not a hassle.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "9,293 reviews",
     specs: ["Narrow personal design", "Includes travel mug", "Under 60-second brew", "600 watts"],
+    specList: [{"label":"Design","value":"Narrow personal design"},{"label":"Feature 2","value":"Includes travel mug"},{"label":"Feature 3","value":"Under 60-second brew"},{"label":"Feature 4","value":"600 watts"}],
     description:
       "This model ships with its own 12oz stainless travel mug sized to sit directly under the dispenser, which removes a real source of frustration in tight spaces: guessing whether a mug you own will actually clear the spout height. The narrow body needs almost no side clearance, only vertical room to lift the mug straight out after brewing.\n\nAt 600 watts it draws less power than a full-size drip machine, a genuine consideration for RV or dorm circuits with limited amperage. It only brews one size at a time built around its included mug, so it is not the pick if you sometimes want a larger multi-cup batch.",
     bestFor: "Dorm rooms, RVs, and anyone who wants a known mug-to-spout fit without measuring.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,882 reviews",
     specs: ["5-cup (0.8 qt) carafe", "Auto shutoff", "Auto pause and pour", "Removable filter basket"],
+    specList: [{"label":"Capacity","value":"5-cup (0.8 qt) carafe"},{"label":"Feature 2","value":"Auto shutoff"},{"label":"Feature 3","value":"Auto pause and pour"},{"label":"Filtration","value":"Removable filter basket"}],
     description:
       "This is the most compact way in this comparison to get an actual carafe rather than a single mug. The 0.8-quart glass pot keeps the overall footprint small while still holding enough for two people or a couple of refills, and the lid opens with the filter basket lifting straight out for grounds disposal without needing extra side clearance.\n\nOne-cup brews work fine but the machine is clearly tuned for its 5-cup max, where flavor and flow are most consistent based on its design; a single cup brewed alone can run weaker than a full pot. The 2-hour auto shutoff is a genuine safety plus for a unit likely to be left running in a small shared space.",
     bestFor: "Small kitchens or offices that want a real carafe instead of single-serve pods, without a full-size machine's footprint.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "50,271 reviews",
     specs: ["42oz reservoir", "3 cup sizes", "Strong button", "Auto off after 5 min"],
+    specList: [{"label":"Feature 1","value":"42oz reservoir"},{"label":"Capacity","value":"3 cup sizes"},{"label":"Feature 3","value":"Strong button"},{"label":"Feature 4","value":"Auto off after 5 min"}],
     description:
       "The K-Express trades the K-Mini's ultra-narrow width for a 42oz removable reservoir, which holds roughly four 8oz cups before needing a refill. That reservoir has to lift straight up and out for filling at the sink, so it needs a few inches of clearance above the machine that a fixed one-cup design does not.\n\nOnce filled, it performs the same across its three cup sizes without the weaker-cup issue that a carafe machine can show on a single serving, since each K-Cup pod is dosed for its size regardless of how many cups you brew that day. The auto-off after 5 minutes helps offset the slightly larger standing footprint.",
     bestFor: "Anyone who wants single-serve convenience without refilling water before every cup.",

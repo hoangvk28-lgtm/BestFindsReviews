@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "See Amazon",
     reviews: "for current rating",
     specs: ["Requires wall outlet, 600W", "Includes 12oz travel mug", "Brews in under 60 seconds", "Compact narrow footprint"],
+    specList: [{"label":"Feature 1","value":"Requires wall outlet, 600W"},{"label":"Feature 2","value":"Includes 12oz travel mug"},{"label":"Size","value":"Brews in under 60 seconds"},{"label":"Design","value":"Compact narrow footprint"}],
     description:
       "This is an electric drip machine, not a battery or manual device, so it needs a standard wall outlet to run and is not usable in a car or off-grid without an inverter. Within that limitation, it is genuinely fast, brewing a mug in under a minute, and it includes a 12oz insulated travel mug sized to sit directly under the dispenser rather than requiring you to bring your own cup.\n\nPacked weight is light for what it does since the mug doubles as the brewing vessel rather than adding separate weight, and the narrow compact design fits into a dorm room, office desk, or hotel room outlet setup easily. Cleanup without a sink is straightforward since it only has a small removable basket to rinse, though you still need somewhere to dispose of wet grounds.",
     bestFor: "Hotel rooms, offices, or dorms with a standard wall outlet where you want fast, fresh drip coffee.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "See Amazon",
     reviews: "for current rating",
     specs: ["Requires wall outlet", "Under 5in wide", "1-cup reservoir", "Cord storage for packing"],
+    specList: [{"label":"Feature 1","value":"Requires wall outlet"},{"label":"Feature 2","value":"Under 5in wide"},{"label":"Capacity","value":"1-cup reservoir"},{"label":"Feature 4","value":"Cord storage for packing"}],
     description:
       "Like the Elite Gourmet, the K-Mini needs a standard wall outlet and will not run in a car or off-grid, but its under-5-inch width and built-in cord storage make it genuinely easy to pack for a hotel stay or an RV with shore power. The one-cup reservoir means no standing water tank to spill during transport, since you fill it fresh at each stop.\n\nIt is heavier and bulkier than the fully manual or battery-powered options here, so it is a poor fit for a backpack or carry-on where weight is tightly limited. Cleanup without a sink is manageable since there is no permanent reservoir to drain, just a small drip tray to empty, but you do need K-Cup pods on hand, which adds packed volume compared to loose grounds.",
     bestFor: "Hotel rooms or RVs with reliable outlet access where you want K-Cup convenience in a small footprint.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "See Amazon",
     reviews: "for current rating",
     specs: ["Requires wall outlet", "K-Cup pod or ground coffee compatible", "Built-in carry handle", "Compact single-serve size"],
+    specList: [{"label":"Feature 1","value":"Requires wall outlet"},{"label":"Capacity","value":"K-Cup pod or ground coffee compatible"},{"label":"Size","value":"Built-in carry handle"},{"label":"Design","value":"Compact single-serve size"}],
     description:
       "This still needs a wall outlet like the two models above, but the built-in carry handle and dual pod-or-grounds compatibility make it a reasonable middle-ground pick if you are moving between hotel rooms or a rental with power but want the flexibility to use whatever coffee you can find locally, K-Cups or bulk grounds, rather than being locked into one format.\n\nPacked size is compact for a machine that handles both formats, and the handle genuinely helps when you are carrying it along with luggage rather than shipping it in a box. Cleanup without a sink is similar to the other outlet-powered models: rinse the basket, empty the drip tray, and you are set, though grounds disposal still requires finding a trash receptacle.",
     bestFor: "Road trips or rental stays with outlet access where you want the flexibility to use either pods or grounds.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "See Amazon",
     reviews: "for current rating",
     specs: ["Self-heating, no wall outlet required", "Works with grounds or capsules", "Rechargeable internal battery", "Compact single-serve size"],
+    specList: [{"label":"Color/Finish","value":"Self-heating, no wall outlet required"},{"label":"Feature 2","value":"Works with grounds or capsules"},{"label":"Battery","value":"Rechargeable internal battery"},{"label":"Design","value":"Compact single-serve size"}],
     description:
       "This is the one model here that does not need a wall outlet at all. It runs on an internal rechargeable battery and self-heats, so it works in a car, on a campsite, or on a plane once charged, which none of the three outlet-dependent models above can do. The tradeoff for that independence is that you need to remember to charge it ahead of time, and once the battery is depleted it is unusable until recharged or plugged in again.\n\nBecause it has no water reservoir sitting exposed and uses sealed capsules or a small grounds basket, leak resistance in a packed bag is better than an electric drip machine with an open tank, though you should still confirm the seal on the water chamber before packing it upright. Cleanup without a sink is genuinely easier here than on any drip-style model, since there is only a small puck of grounds or a used capsule to dispose of, no basket or filter paper.",
     bestFor: "Camping, road trips, or air travel where no wall outlet or car port will be available.",

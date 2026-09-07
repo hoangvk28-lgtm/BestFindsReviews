@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,411 reviews",
     specs: ["Espresso, drip, cold brew", "Built-in grinder", "Milk frother", "Premium build"],
+    specList: [{"label":"Feature 1","value":"Espresso, drip, cold brew"},{"label":"Size","value":"Built-in grinder"},{"label":"Feature 3","value":"Milk frother"},{"label":"Material","value":"Premium build"}],
     description:
       "The Luxe Cafe Premier is Ninja's flagship, combining espresso, drip coffee, and cold brew into one machine with a built-in grinder and frother. For a household that genuinely wants all three brew styles without buying three separate appliances, it covers real ground.\n\nThe tradeoff is complexity and price. Three brewing systems in one unit means more parts to clean and more that could eventually need service, and at $599 it costs several times what a simple drip machine runs.",
     bestFor: "Buyers who genuinely want espresso, drip, and cold brew from one machine and will use all three.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "8,046 reviews",
     specs: ["Pods and grounds", "Full carafe mode", "Rich/Over Ice settings", "Fold-away frother"],
+    specList: [{"label":"Feature 1","value":"Pods and grounds"},{"label":"Capacity","value":"Full carafe mode"},{"label":"Feature 3","value":"Rich/Over Ice settings"},{"label":"Feature 4","value":"Fold-away frother"}],
     description:
       "The DualBrew Pro brews both K-Cup pods and a full carafe of grounds coffee from the same machine, with dedicated Classic, Rich, and Over Ice settings for each. It sits below the Luxe Cafe in price while still covering the two most common daily brewing needs.\n\nBecause it handles both pod and full-carafe brewing, expect more parts than a single-mode machine, including a needle assembly for pods and a reservoir shared between both sides. Cleaning both systems regularly keeps performance consistent.",
     bestFor: "Households where some people want a quick single pod and others want a full pot.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "19,690 reviews",
     specs: ["10-cup carafe", "Fold-away frother", "Multiple brew styles", "Grounds only"],
+    specList: [{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 2","value":"Fold-away frother"},{"label":"Feature 3","value":"Multiple brew styles"},{"label":"Feature 4","value":"Grounds only"}],
     description:
       "The CM401 keeps things focused on grounds-based carafe brewing without the added complexity of pod compatibility, and it has the highest review count of the four models here. A fold-away frother lets you make basic milk-based drinks without a separate machine.\n\nSince it only brews grounds, not pods, it is a poor fit for anyone who wants single-cup pod convenience. Within its grounds-only lane, it is Ninja's most straightforward and well-reviewed option.",
     bestFor: "Buyers who only want grounds-based carafe brewing without pod compatibility.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,502 reviews",
     specs: ["Pods and grounds", "Compact single-serve", "K-Cup compatible", "Budget price"],
+    specList: [{"label":"Feature 1","value":"Pods and grounds"},{"label":"Design","value":"Compact single-serve"},{"label":"Capacity","value":"K-Cup compatible"},{"label":"Feature 4","value":"Budget price"}],
     description:
       "The PB051ST brings pod-and-grounds dual compatibility down to under $100, aimed at a single-serve buyer who wants the flexibility of either a K-Cup pod or their own grounds without paying DualBrew Pro pricing. It skips the full carafe mode entirely.\n\nAs the lowest-priced dual-compatible model here, it is a reasonable starting point, though buyers who need a full pot for multiple people should look at the DualBrew Pro or CM401 instead.",
     bestFor: "A budget single-serve buyer who wants both pod and grounds flexibility without a full carafe.",

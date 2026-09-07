@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Push-button start means different things depending on the mower. On a battery mower, push-button start is inherent to the design: there is no engine to prime or pull, just a safety key or bail lever and a start button. On a gas mower advertised with electric start, the button is powering a small starting battery that spins a normal gasoline engine, and that battery needs its own charging and maintenance separate from the fuel system.",
   "We grouped the current lineup by starting system and drive type, then compared deck size, included battery capacity, self-propel availability, and what a buyer needs to know about backup starting before choosing a model. Because the current push-button lineup we reviewed is entirely battery-powered, every model below starts the same simple way: a safety key, a bail lever, and a button, with no pull cord and no separate starting battery to maintain.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "ego-lm2114", rank: 1, badge: "Best Overall", name: "EGO POWER+ 21-Inch Cordless Electric Lawn Mower with Battery, Charger (LM2114)",
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch cutting deck", "56V battery platform", "Battery and charger included", "Push drive"],
+    specList: [{"label":"Size","value":"21-inch cutting deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
     description: "The EGO POWER+ LM2114 is a 21-inch cordless mower on EGO's 56V platform, sold with a battery and charger included so the push-button start works out of the box. Buyers rate it 4.5 stars across roughly 2,160 reviews, one of the stronger review counts in this lineup, which suggests the starting system and general reliability hold up over repeated seasons.\n\nBecause there is no gasoline engine, starting is simply inserting the safety key, holding the bail lever, and pressing the button, with no separate starting battery to keep charged. Confirm the deck width fits your gates and storage, and check current runtime specs against your lawn size before buying.",
     bestFor: "standard-size lawns where a proven push-button battery mower with strong review history matters",
     pros: ["56V battery and charger included so start-up needs no extra purchase", "4.5-star rating across about 2,160 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CVSG63DG?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41bI4lOM9KL._SL500_.jpg", price: "$699.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch cutting deck", "Self-propelled drive", "Cordless battery platform", "Push-button key start"],
+    specList: [{"label":"Size","value":"21-inch cutting deck"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Battery","value":"Cordless battery platform"},{"label":"Reviews","value":"Push-button key start"}],
     description: "The EGO LM2134SP-2 pairs the same 21-inch cordless push-button starting system with self-propelled drive, aimed at buyers who want less pushing effort on a full-size deck. It carries a 4.5-star rating from about 316 reviews, a smaller sample than the base LM2114 but consistent with it on the rating itself.\n\nSelf-propel draws from the same battery pack that powers the blade, so runtime on hills or thick grass should be checked against the current listing before buying. Starting still needs only the safety key and button, with no pull cord or separate starting battery involved.",
     bestFor: "buyers who want push-button starting plus self-propelled drive on a full-size deck",
     pros: ["Self-propelled drive reduces pushing effort on a 21-inch deck", "4.5-star rating from about 316 reviews"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch cutting deck", "80V 4.0Ah battery included", "Self-propelled drive", "Push-button key start"],
+    specList: [{"label":"Size","value":"21-inch cutting deck"},{"label":"Power Source","value":"80V 4.0Ah battery included"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Reviews","value":"Push-button key start"}],
     description: "Greenworks' 80V 21-inch self-propelled mower ships with a 4.0Ah battery and charger, so the push-button start and self-propel are both usable immediately. It shares the same 4.5-star rating as both EGO models above, from about 586 reviews, a reasonable middle ground in sample size for this lineup.\n\nAs with any battery self-propelled mower, drive use and blade use draw from the same pack, so plan around the harder sections of the lawn rather than the easiest pass. Starting requires only the included key and button, with no separate starting battery or pull cord to maintain.",
     bestFor: "buyers wanting self-propel and a higher-voltage included pack at a lower price than EGO's self-propelled model",
     pros: ["4.5-star rating from about 586 reviews", "80V 4.0Ah battery and charger included, ready to start immediately"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0C2ZPBHC7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41R0pwuOOQL._SL500_.jpg", price: "$389.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch cutting deck", "60V 5.0Ah battery included", "Push drive", "Push-button key start"],
+    specList: [{"label":"Size","value":"21-inch cutting deck"},{"label":"Power Source","value":"60V 5.0Ah battery included"},{"label":"Drive Type","value":"Push drive"},{"label":"Reviews","value":"Push-button key start"}],
     description: "This Greenworks 60V mower delivers a full 21-inch deck and a 5.0Ah included battery at a lower price than the self-propelled options above, without a drive motor. It holds a 4.4-star rating from about 494 reviews, close to the self-propelled Greenworks model but on a simpler, push-only machine.\n\nWithout self-propel, all of the battery's energy goes to the blade, which can help runtime on a per-charge basis if pushing is not a concern. Push-button starting works the same way as the rest of this lineup: key in, bail lever held, button pressed.",
     bestFor: "buyers who want a full-width push-button deck without paying for self-propel",
     pros: ["21-inch deck with a 60V 5.0Ah battery included", "4.4-star rating from about 494 reviews"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting deck", "40V 4.0Ah battery included", "Push drive", "Push-button key start"],
+    specList: [{"label":"Size","value":"16-inch cutting deck"},{"label":"Power Source","value":"40V 4.0Ah battery included"},{"label":"Drive Type","value":"Push drive"},{"label":"Reviews","value":"Push-button key start"}],
     description: "The Greenworks 40V 16-inch mower is the smallest deck in this lineup and by far the most reviewed, holding a 4.2-star rating across roughly 12,116 reviews. That review volume gives more confidence in how the push-button starting system holds up across a wide range of buyers and yards.\n\nThe narrower 16-inch deck and single 4.0Ah pack suit small lawns rather than larger properties where a wider deck would cut mowing time. Starting is the same simple key-and-button process used across the rest of this lineup, with no pull cord to fall back on or separate starting battery to charge.",
     bestFor: "small lawns where a compact, well-reviewed push-button mower is the priority",
     pros: ["4.2-star rating across about 12,116 reviews, the largest sample in this lineup", "Lower price and lighter deck for small or tight yards"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H8SHLHRP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41lv2YY91tL._SL500_.jpg", price: "$159.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting deck", "40V battery platform", "Brushless motor", "Push-button key start"],
+    specList: [{"label":"Size","value":"16-inch cutting deck"},{"label":"Power Source","value":"40V battery platform"},{"label":"Feature 3","value":"Brushless motor"},{"label":"Reviews","value":"Push-button key start"}],
     description: "The MZK 40V 16-inch mower undercuts the Greenworks 40V model on price while carrying the highest rating in this entire lineup, 4.6 stars, though from a much smaller sample of about 201 reviews. A brushless motor is listed, which typically points toward longer motor life than a brushed equivalent, though that claim should be confirmed against the current listing.\n\nAs a compact 16-inch push mower, it suits the same small-yard use case as the Greenworks 40V model above, just at a lower price point and with less review history to lean on. Push-button starting works the same way: key inserted, safety bail held, button pressed, with no pull cord involved.",
     bestFor: "budget-conscious buyers on small lawns who want the highest-rated option even with a smaller review sample",
     pros: ["4.6-star rating, the highest in this lineup", "Lower price than the comparable Greenworks 40V 16-inch model"],
@@ -78,6 +85,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H73N7V14?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Uu4MejzNL._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting deck", "40V battery platform", "Two 4.0Ah batteries and two chargers included", "Push-button key start"],
+    specList: [{"label":"Size","value":"16-inch cutting deck"},{"label":"Power Source","value":"40V battery platform"},{"label":"Battery","value":"Two 4.0Ah batteries and two chargers included"},{"label":"Reviews","value":"Push-button key start"}],
     description: "The KOMASTY 40V 16-inch mower is the least expensive model in this lineup and ships with two batteries and two chargers, which can offset its smaller deck by letting a depleted pack swap for a charged one mid-mow. It holds a 3.6-star rating from about 180 reviews, noticeably lower than every other model here, so buyers should weigh the price and dual-battery kit against that weaker review record.\n\nStarting still follows the same push-button pattern as the rest of this lineup, with no pull cord or separate starting battery to manage. Given the lower rating, it fits best as a low-cost backup mower or a starter mower for a very small yard rather than a primary machine for a demanding lawn.",
     bestFor: "buyers on a tight budget who want a spare battery included and can accept a lower average rating",
     pros: ["Two 4.0Ah batteries and two chargers included, useful for extending a single mowing session", "Lowest price in this lineup"],

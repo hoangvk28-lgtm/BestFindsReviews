@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,645 reviews",
     specs: ["Vacuum and mop combo", "App and Wi-Fi control", "Multiple cleaning modes", "Self-charging"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and Wi-Fi control"},{"label":"Feature 3","value":"Multiple cleaning modes"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The G8000 Max combines vacuuming and mopping in one robot with app-based scheduling, which lets you set cleaning to run only during hours when a quieter operating mode is less likely to disturb anyone. Reviewers commonly describe it as reasonably quiet for daily use compared to older single-purpose vacuum robots.\n\nIt carries the strongest verified rating and review volume of any model in this comparison, which is a meaningful signal at this price point. For buyers who want one machine that handles both floor types without a large self-empty dock adding its own noise event, this is the most well-rounded pick here.",
     bestFor: "Buyers who want a well-reviewed all-in-one vacuum and mop without a bulky, louder self-empty dock.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["Slim, low-profile design", "120-minute runtime", "Wi-Fi, app, and Alexa control", "Automatic self-charging"],
+    specList: [{"label":"Design","value":"Slim, low-profile design"},{"label":"Feature 2","value":"120-minute runtime"},{"label":"Connectivity","value":"Wi-Fi, app, and Alexa control"},{"label":"Feature 4","value":"Automatic self-charging"}],
     description:
       "The M210 is marketed specifically around low-noise operation and a slim profile that lets it get under furniture other robots skip. It has no self-empty dock, so the only noise event in this system is the robot's own motor during a cleaning cycle, which simplifies scheduling around a noise-sensitive household.\n\nAt under $90 it is the most affordable model in this comparison, and reviewers commonly point to its quiet standard mode as a reason to buy it over pricier competitors when a simple, budget-friendly robot is all that is needed.",
     bestFor: "Budget-conscious buyers who want a simple, low-noise robot without a self-empty dock to worry about.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["Super-slim body", "Strong suction for a compact robot", "App control", "No self-empty dock"],
+    specList: [{"label":"Feature 1","value":"Super-slim body"},{"label":"Design","value":"Strong suction for a compact robot"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"No self-empty dock"}],
     description:
       "The 11S MAX is built around a super-thin body designed for low clearance under couches and cabinets, and is marketed with quiet operation as one of its core selling points. Like the M210, it has no self-empty dock, so its cleaning cycle is the only sound event to plan around.\n\nThis is a long-running model in the eufy lineup, and reviewers commonly describe it as a dependable, quiet option for smaller apartments where a bulky dock would take up too much space.",
     bestFor: "Small apartments where a low-profile robot and a compact dock footprint both matter.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["5,200Pa suction", "Vacuum and mop combo", "App and Wi-Fi control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"5,200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and Wi-Fi control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The ROPVACNIC combo pairs 5,200Pa suction with mopping in a single robot at a mid-range price. It has no self-empty dock, so the household only deals with a single, predictable noise event during the cleaning cycle rather than a separate louder self-empty routine.\n\nFor buyers who want vacuum-and-mop convenience without stepping up to a premium self-empty system, this is a straightforward middle option between the budget-only vacuums and the full-featured docks later in this guide.",
     bestFor: "Buyers who want vacuum and mop in one robot without a self-empty dock adding another noise source.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Widely purchased",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "LiDAR-style navigation", "App and Wi-Fi control"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"LiDAR-style navigation"},{"label":"Connectivity","value":"App and Wi-Fi control"}],
     description:
       "The Q7 L5 steps up to 8,000Pa suction while staying at a similar price point to lower-suction combos, and roborock's app includes cleaning-mode selection that lets you trade some suction power for a quieter run when that matters more than speed. As with the other dockless models here, there is no separate self-empty noise event to plan for.\n\nReviewers commonly point to roborock's navigation as more consistent than budget alternatives, which indirectly reduces noise complaints since a robot that gets stuck or re-cleans the same area repeatedly runs longer than necessary.",
     bestFor: "Buyers who want stronger suction and more consistent navigation without a self-empty dock.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["LiDAR navigation", "Intense power-lifting suction", "Cleans in neat rows", "Self-charging"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"Intense power-lifting suction"},{"label":"Size","value":"Cleans in neat rows"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Roomba 105 is a vacuum-only model that cleans in structured, row-by-row passes rather than a more random bounce pattern, which tends to shorten total cleaning time and therefore total run noise per session. It has no self-empty dock, keeping the noise profile limited to the cleaning cycle itself.\n\nAs an entry point into the Roomba lineup, reviewers commonly note it is straightforward to set up and schedule, which makes it easy to run cleaning consistently during hours when household members are away or less noise-sensitive.",
     bestFor: "Buyers who want the Roomba name and structured cleaning pattern without a self-empty dock.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["30-day capacity self-empty base", "Home mapping and Matrix Clean", "HEPA bagless bin", "Wi-Fi and app control"],
+    specList: [{"label":"Capacity","value":"30-day capacity self-empty base"},{"label":"Connectivity","value":"Home mapping and Matrix Clean"},{"label":"Collection","value":"HEPA bagless bin"},{"label":"Feature 4","value":"Wi-Fi and app control"}],
     description:
       "The AV2501S adds a self-empty base rated for 30 days of bin capacity, which is a genuinely different noise event from the robot's own cleaning cycle, typically a short, louder burst when the robot docks and empties. Scheduling the robot to clean while the household is out sidesteps both noise events for anyone sensitive to either one.\n\nMatrix Clean home mapping helps the robot cover rooms methodically rather than re-passing the same area, which reduces total run time and therefore total cleaning noise per session. This is the first model in this comparison to add a self-empty dock, and that convenience comes with the tradeoff of an additional, distinct noise event to plan around.",
     bestFor: "Buyers who want hands-off bin emptying and are comfortable scheduling around a separate dock noise event.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["All-in-one self-empty, self-wash, self-dry station", "Vacuum and mop combo", "Hardwood and carpet cleaning modes", "App and Wi-Fi control"],
+    specList: [{"label":"Size","value":"All-in-one self-empty, self-wash, self-dry station"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet cleaning modes"},{"label":"Connectivity","value":"App and Wi-Fi control"}],
     description:
       "The Omni C20 is the most feature-complete model in this comparison, with a station that empties the bin, washes the mopping pads, and dries them, in addition to the robot's own vacuum and mop cleaning cycle. Each of those station functions is its own distinct noise event, separate from the robot's standard cleaning mode, so a household sensitive to noise should plan the full station cycle around times no one is nearby, not just the vacuuming itself.\n\nAt the top of this comparison's price range, it is aimed at buyers who want to minimize hands-on maintenance entirely rather than at buyers whose primary concern is a single quiet cleaning pass. Reviewers commonly describe the standard vacuuming mode as reasonably quiet, while noting the self-wash and self-dry station cycle is the louder part of the overall system.",
     bestFor: "Buyers who want the most hands-off maintenance and can schedule the multi-function station away from quiet hours.",

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "35,905 reviews",
     specs: ["Vacuum and mop combo", "Matrix Clean navigation", "Self-empty compatible", "App and voice control"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Feature 3","value":"Self-empty compatible"},{"label":"Connectivity","value":"App and voice control"}],
     description:
       "The Matrix Plus combines vacuuming and mopping in one pass using Shark's Matrix Clean navigation, which crisscrosses each room instead of following a single perimeter-first path. For pet households, the more relevant detail is the review volume behind it: with over 35,000 ratings and a 4.0 average, it has a large enough track record that hair-wrap and clog issues would likely show up clearly if they were widespread, and they have not.\n\nBuyers commonly report that it handles mixed hard floor and carpet transitions without getting stuck, which matters in homes where a dog bed or rug sits on top of hardwood. The mop function adds versatility for muddy paw prints, though it works best as a light daily pass rather than a deep scrub.",
     bestFor: "Pet owners who want one well-reviewed machine that handles both hair pickup and light mopping.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Widely purchased on Amazon",
     specs: ["30-day bagless self-empty base", "HEPA filtration", "Home mapping", "Marketed for pet hair"],
+    specList: [{"label":"Collection","value":"30-day bagless self-empty base"},{"label":"Suction Power","value":"HEPA filtration"},{"label":"Connectivity","value":"Home mapping"},{"label":"Feature 4","value":"Marketed for pet hair"}],
     description:
       "This AI Ultra model is built around its self-empty base, which Shark rates for up to 30 days of bagless capacity before it needs to be cleared out. That matters for shedding-heavy households, since a dustbin that fills every few days is one of the most common complaints buyers raise about entry-level robot vacuums.\n\nThe bagless design also avoids the recurring cost of empty bags, and the HEPA filtration is meant to trap dander along with hair, which pet owners with allergies tend to prioritize over raw suction numbers. Home mapping lets you set no-go zones around a litter box or food bowls.",
     bestFor: "Multi-pet households that want to go weeks between manually emptying the dock.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Strong sales volume on Amazon",
     specs: ["10,000Pa suction", "Self-empty dock", "Vacuum and mop combo", "App-based room mapping"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Feature 2","value":"Self-empty dock"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based room mapping"}],
     description:
       "At 10,000Pa, the Q10 S5+ has one of the higher suction ratings in this comparison, which is the spec that matters most for pulling deeply embedded hair out of carpet fibers rather than just picking it up off hard floors. Roborock's line has historically been well regarded for suction consistency as the dustbin fills, which buyers with heavy-shedding breeds tend to notice more than owners of shorthaired pets.\n\nThe self-empty dock reduces how often you need to deal with a hair-packed bin directly, and the combo mop function handles light daily touch-ups on sealed hard floors between deeper cleans.",
     bestFor: "Homes with heavy-shedding dogs or cats and mostly carpeted floors.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Well-regarded budget option",
     reviews: "Frequently bought on Amazon",
     specs: ["Tangle-free suction design", "Budget price point", "Compact entry-level unit", "No self-empty dock"],
+    specList: [{"label":"Design","value":"Tangle-free suction design"},{"label":"Feature 2","value":"Budget price point"},{"label":"Feature 3","value":"Compact entry-level unit"},{"label":"Feature 4","value":"No self-empty dock"}],
     description:
       "The V2 is built around a tangle-free suction design rather than a traditional spinning brush roll, which is the feature most directly aimed at the number one pet-hair complaint: long hair wrapping tightly enough around a brush to stall the motor or require scissors to clear. Buyers commonly report this design needing far less manual brush maintenance than cheaper units with exposed bristle brushes.\n\nAt under $80 it is the most affordable model here, and it is a reasonable entry point for a single cat or small dog household rather than a multi-pet home that needs a large self-empty dock.",
     bestFor: "Budget-conscious buyers with one pet who want to avoid hair-wrap maintenance without paying for a self-empty dock.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Highly rated by buyers",
     reviews: "Popular in the roborock lineup",
     specs: ["Up to 7-9 weeks self-empty capacity", "10,000Pa suction", "Vacuum and mop combo", "App-based mapping"],
+    specList: [{"label":"Capacity","value":"Up to 7-9 weeks self-empty capacity"},{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based mapping"}],
     description:
       "The Q7 M5+ pairs the same 10,000Pa suction tier as the Q10 S5+ with a larger-capacity self-empty base rated for up to 7 to 9 weeks before it needs to be emptied. For households with multiple shedding pets, that longer interval between dock maintenance is the main differentiator over other self-empty models in this comparison.\n\nIt is the highest-priced unit in this guide, which reflects the combination of strong suction and extended dock capacity rather than any single standout feature. Buyers weighing this against the Q10 S5+ are mainly trading a higher price for less frequent dock emptying.",
     bestFor: "Multi-pet homes that want the longest possible stretch between emptying the dock.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Solid mid-range option",
     reviews: "Consistently purchased on Amazon",
     specs: ["10,000Pa max suction", "Vacuum and mop combo", "Mid-range price point", "App control"],
+    specList: [{"label":"Suction Power","value":"10,000Pa max suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Mid-range price point"},{"label":"Connectivity","value":"App control"}],
     description:
       "The A30 Pro brings the same 10,000Pa suction ceiling as the pricier roborock models here in at a mid-range price, making it a reasonable middle ground for buyers who want strong pull on carpet without paying for an extended-capacity self-empty dock. It combines vacuuming and mopping in one chassis, which suits homes managing both hair and occasional muddy paw tracking.\n\nWithout a large-capacity self-empty base, this is better suited to single-pet homes or buyers willing to empty the bin more often in exchange for a lower price than the self-empty-focused models in this comparison.",
     bestFor: "Buyers who want high suction on a mid-range budget and do not need a long-cycle self-empty dock.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Well-reviewed on Amazon",
     reviews: "Growing buyer base",
     specs: ["Self-emptying base", "Vacuum and mop combo", "Mid-budget price point", "App and remote control"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Mid-budget price point"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "This Tikom model brings a self-emptying base into the sub-$220 range, which is notably cheaper than the Shark and roborock self-empty models in this comparison. For pet owners on a tighter budget who still want to avoid handling a hair-packed bin every few days, it fills a real gap between the fully manual budget picks and the premium self-empty tier.\n\nIt pairs the self-empty dock with combo mopping and both app and remote control, giving it a fuller feature set than its price tag would suggest, though buyers should expect the dock capacity to be smaller than the higher-priced 30-day and 7-9 week rated units here.",
     bestFor: "Budget-focused pet owners who still want a self-empty dock instead of a fully manual bin.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Trusted Shark lineup",
     reviews: "Backed by Shark's broader review history",
     specs: ["Self-empty base included", "Shark Navigator line", "Vacuum-only design", "App control"],
+    specList: [{"label":"Feature 1","value":"Self-empty base included"},{"label":"Feature 2","value":"Shark Navigator line"},{"label":"Design","value":"Vacuum-only design"},{"label":"Connectivity","value":"App control"}],
     description:
       "The Navigator is a vacuum-only entry in Shark's lineup, skipping mopping in favor of keeping the design focused on pickup and a bundled self-empty base. Buyers who specifically want a pet-hair vacuum without paying for a mopping mechanism they may not use tend to prefer this simpler, single-purpose approach.\n\nAs part of the broader Shark Navigator line, it benefits from a brand with an established track record in the vacuum category, even though this specific self-empty configuration does not yet have its own large public review count. It is priced in line with the premium self-empty models here rather than being a true low-cost option.",
     bestFor: "Buyers who want a Shark-brand vacuum-only robot with a self-empty base and do not need mopping.",

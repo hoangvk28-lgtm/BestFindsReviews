@@ -23,6 +23,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -41,6 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22,693 reviews",
     specs: ["1.5L / 51oz capacity", "900 watts", "Pause & Brew system", "Reusable filter, measuring spoon, no-drip carafe", "Dishwasher-safe glass carafe"],
+    specList: [{"label":"Capacity","value":"1.5L / 51oz capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Feature 3","value":"Pause & Brew system"},{"label":"Filtration","value":"Reusable filter, measuring spoon, no-drip carafe"},{"label":"Feature 5","value":"Dishwasher-safe glass carafe"}],
     description:
       "KRUPS states a 1.5L, or roughly 51oz, capacity directly on the listing, which lines up closely with the expected 50oz for a genuine 10-cup machine. The Pause & Brew system lets you pull the carafe mid-cycle for an early cup without spilling on the warming plate, and a 900-watt heater keeps brew times reasonable for the size.\n\nIt ships with a reusable filter, measuring spoon, and a no-drip carafe, and the glass carafe itself is dishwasher safe, which simplifies cleanup compared to a hand-wash-only thermal carafe.",
     bestFor: "Buyers who want confirmed genuine 10-cup capacity at the lowest price in this comparison.",
@@ -65,6 +67,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,557 reviews",
     specs: ["24-hour programmable brewing", "LCD touch screen", "2-hour keep-warm plate", "2 brew strength options", "Pause-and-serve mid-brew"],
+    specList: [{"label":"Feature 1","value":"24-hour programmable brewing"},{"label":"Feature 2","value":"LCD touch screen"},{"label":"Feature 3","value":"2-hour keep-warm plate"},{"label":"Feature 4","value":"2 brew strength options"},{"label":"Feature 5","value":"Pause-and-serve mid-brew"}],
     description:
       "The SHARDOR leans into full 24-hour programmability with an LCD touch screen interface, so you can set a wake-up brew time well in advance rather than fumbling with basic buttons. It offers two brew strength options, regular and strong, and a pause-and-serve function that lets you grab a cup mid-cycle.\n\nThe warming plate holds coffee for 2 hours before auto shut-off engages, a shorter window than some competitors but adequate for a household that finishes a pot within a couple hours of brewing.",
     bestFor: "Buyers who want the most straightforward touch-screen programming for a set-it-and-forget-it morning routine.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,212 reviews",
     specs: ["10 cups / 50oz total capacity", "Double-walled thermal carafe", "Brews 20% faster than prior model", "Strong brew selector", "Brew Later programmability"],
+    specList: [{"label":"Capacity","value":"10 cups / 50oz total capacity"},{"label":"Lighting","value":"Double-walled thermal carafe"},{"label":"Feature 3","value":"Brews 20% faster than prior model"},{"label":"Feature 4","value":"Strong brew selector"},{"label":"Feature 5","value":"Brew Later programmability"}],
     description:
       "Mr. Coffee spells out its capacity directly: 10 cups at 5oz each for 50oz total water capacity, confirming this is a genuine 10-cup machine rather than a relabeled larger model. Its double-walled stainless steel thermal carafe keeps coffee hot for hours without a warming plate, which is the main upgrade over the other three models here.\n\nOptimal Brew technology claims to brew about 20% faster than the brand's prior thermal model, and a freshness timer tracks how long coffee has been sitting so you know when it is past its best.",
     bestFor: "Buyers who want a genuine thermal carafe that holds heat without relying on a warming plate.",
@@ -113,6 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "89 reviews",
     specs: ["24-hour programmable", "Pause & Serve", "2-hour keep warm + auto shut off", "Adjustable brew strength", "Borosilicate glass carafe"],
+    specList: [{"label":"Feature 1","value":"24-hour programmable"},{"label":"Feature 2","value":"Pause & Serve"},{"label":"Feature 3","value":"2-hour keep warm + auto shut off"},{"label":"Adjustability","value":"Adjustable brew strength"},{"label":"Capacity","value":"Borosilicate glass carafe"}],
     description:
       "This compact 10-cup model covers the core feature set, 24-hour programmability, pause-and-serve mid-brew access, and adjustable regular or strong brewing, in a stainless steel housing sized for smaller kitchens. The high-borosilicate glass carafe is heat-resistant with a drip-free spout designed to reduce mess when pouring a full carafe.\n\nAt under $40 it competes closely with the SHARDOR on price and features, making it a reasonable alternative if you prefer its specific styling or have a slightly tighter counter footprint to work with.",
     bestFor: "Buyers who want a compact 10-cup machine with the core programmable features at a low price.",

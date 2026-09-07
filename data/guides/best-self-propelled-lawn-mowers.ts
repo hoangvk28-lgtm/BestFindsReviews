@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A self-propelled mower is not just a push mower with a motor helping the wheels along. Drive systems differ by which wheels pull (front-wheel drive, rear-wheel drive, or all-wheel drive), how the speed is controlled at the handle, and how much of that drive power is left over once a slope or a full bag adds resistance. Two mowers with the same headline speed can feel completely different once the ground tilts or the grass gets thick.",
   "Most buyers move up from a push mower once pushing itself becomes the tiring part, not the cutting. That usually happens on lawns with slopes, on lawns over roughly a quarter acre, or with anyone who mows regularly and wants the drive to do the walking work. We compare drive type, control feel at low speed, turning effort, and how traction holds up as the bag fills, so you can match the mower to the property instead of the spec sheet.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "greenworks-80v-21-sp", rank: 1, badge: "Best Overall", name: "Greenworks 80V 21-Inch Self-Propelled Mower",
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "80V 4Ah battery", "320Wh nominal energy", "Self-propelled drive"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4Ah battery"},{"label":"Feature 3","value":"320Wh nominal energy"},{"label":"Lighting","value":"Self-propelled drive"}],
     description: "The Greenworks 80V 21-Inch Self-Propelled Mower pairs a full 21-inch deck with an 80V 4Ah battery rated around 320Wh, which is enough nominal energy to run the drive system and the blade together without the drive immediately cutting into mowing time the way a smaller pack would. It currently holds a 4.5 rating across 586 reviews, a solid showing for a mower still relatively new to the lineup compared to older gas models.\n\nSelf-propel on a battery mower draws from the same pack that powers the blade, so pushing the drive speed higher on a slope or through thick grass will shorten the runtime you get per charge. It is still a push mower without an extension cord holding you back, and no oil changes or spark plugs to think about, which is the main appeal for someone moving up from a push electric model.",
     bestFor: "buyers moving up from a push mower who want battery convenience with real self-propel assistance",
     pros: ["21-inch deck covers a standard lawn efficiently", "320Wh nominal energy supports drive and blade together", "4.5 rating across 586 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H7WZV1X5?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/415GtVk9iTL._SL500_.jpg", price: "$299.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "170cc 4-cycle engine", "Self-propelled drive", "Gas powered"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"170cc 4-cycle engine"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Color/Finish","value":"Gas powered"}],
     description: "The Ezasin 21-Inch Self-Propelled Gas Lawn Mower runs a 170cc 4-cycle engine driving a 21-inch deck, with no battery pack limiting a mowing session and no charge time to plan around before starting. Gas self-propelled mowers in this class typically hold their drive traction better under a full bag or on a slope than a similarly priced battery mower, since engine output does not taper as a charge depletes.\n\nIt shows a rating and review count still building at this stage, so treat early feedback as a smaller sample than an established model with thousands of reviews. Gas mowers add their own tradeoffs versus battery: fuel storage, periodic oil changes, and starting effort are the cost of the steadier power delivery.",
     bestFor: "buyers who want gas-mower power delivery and are comfortable with fuel and basic engine maintenance",
     pros: ["170cc engine keeps drive power consistent through a mowing session", "No battery charge time between uses", "21-inch deck matches standard lawn widths"],

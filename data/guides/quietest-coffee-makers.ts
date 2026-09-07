@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "10,392 reviews",
     specs: ["8-cup thermal carafe", "1500W heater", "Audible ready signal", "SCA certified"],
+    specList: [{"label":"Capacity","value":"8-cup thermal carafe"},{"label":"Feature 2","value":"1500W heater"},{"label":"Feature 3","value":"Audible ready signal"},{"label":"Feature 4","value":"SCA certified"}],
     description:
       "The Bonavita is a gravity-drip machine with no internal pump and no grinder, which removes the two loudest components a coffee maker can have. Its main documented sound during brewing comes from the heating element working through the cycle and a gurgling sound near the end as the last of the water drains through the grounds, both typical of any drip machine in this category.\n\nIt does include an audible signal when brewing finishes, which is a beep rather than a continuous alarm and only sounds once. The thermal carafe also means no warming plate hum after brewing, since the double-wall steel carafe holds heat passively instead of using an electric plate.",
     bestFor: "Buyers who want a fast, well-reviewed brewer without a pump or grinder adding extra mechanical noise.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "4,810 reviews",
     specs: ["8-cup thermal carafe", "Single-serve accessory", "Built-in cleaning mode", "Vacuum-insulated carafe"],
+    specList: [{"label":"Capacity","value":"8-cup thermal carafe"},{"label":"Feature 2","value":"Single-serve accessory"},{"label":"Size","value":"Built-in cleaning mode"},{"label":"Feature 4","value":"Vacuum-insulated carafe"}],
     description:
       "Like the Bonavita, the OXO Brew is a gravity-fed drip machine without a pump or grinder, so its noise profile during brewing is limited to the heating element and normal drain-down gurgling near the end of the cycle. The double-wall vacuum-insulated carafe also means there is no electric warming plate running after the pot is done.\n\nOwners commonly note the machine has no loud beeping alarm at the end of brewing, just a quiet stop, which matters if repeated beeps or alarm tones are the specific noise source you want to avoid. It does include a built-in cleaning mode for mineral buildup, which runs the same drip mechanism rather than any separate louder pump cycle.",
     bestFor: "Buyers specifically trying to avoid loud end-of-brew beeping or alarm tones.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "11,061 reviews",
     specs: ["12-cup thermal carafe", "24-hour programmable", "Ready tone can be turned off", "Backlit LCD"],
+    specList: [{"label":"Capacity","value":"12-cup thermal carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"Ready tone can be turned off"},{"label":"Feature 4","value":"Backlit LCD"}],
     description:
       "The DCC-3400 is a larger 12-cup gravity-drip machine, and being a bigger brewer it runs its heating element longer per cycle than the smaller machines here, though it still has no pump or grinder. Its most notable quiet-relevant feature is a ready tone that Cuisinart explicitly documents as something you can turn on or off, giving direct control over one of the more common alarm-style noise sources on programmable machines.\n\nIt also includes an indicator light rather than an audible alert for descaling reminders, so routine maintenance nudges are visual rather than another beep to manage. The tradeoff of the larger 12-cup size is a longer overall brew cycle, which means more total time hearing the heating element and end-of-brew gurgle even if the sound level itself is not louder.",
     bestFor: "Households that want a full 12-cup pot and explicit control over turning off the ready alarm.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22,692 reviews",
     specs: ["5-cup capacity", "Reusable permanent filter", "Keep-warm plate, 30 min", "Simple on/off button"],
+    specList: [{"label":"Capacity","value":"5-cup capacity"},{"label":"Filtration","value":"Reusable permanent filter"},{"label":"Feature 3","value":"Keep-warm plate, 30 min"},{"label":"Feature 4","value":"Simple on/off button"}],
     description:
       "The KRUPS compact model is a small 5-cup gravity-drip brewer with a single on/off button and no digital alarm system at all, which removes beeping as a noise source entirely since there is no programmable ready tone to sound in the first place. Its brew cycle is shorter than the larger machines here simply because it heats less water, so total audible brew time is naturally reduced.\n\nIt does run a 30-minute keep-warm plate after brewing, which produces a low ongoing electrical hum rather than silence, a normal tradeoff for any machine without a thermal carafe. For a single person or couple who wants the simplest possible operation without alarms to manage, this is the most straightforward pick here.",
     bestFor: "A single person or couple who wants the simplest possible operation with no digital alarm to manage.",

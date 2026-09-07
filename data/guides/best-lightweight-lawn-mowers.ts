@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A published weight on the box rarely tells the whole story. Reel mowers list a bare frame weight, corded electrics list the mower without a cord, and cordless mowers often list the deck alone before the battery goes in. The number that actually matters when you lift, tilt, or maneuver the mower is the ready-to-mow weight, meaning battery, bag, and any attached accessory included.",
   "We compared how each mower real category (manual, corded, cordless, or combo tool) affects that ready-to-mow weight, how the weight is distributed for lifting and storage, and whether a light frame trades away push stability or bagging capacity. That is a more useful way to shortlist than sorting by the number printed in the title.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "american-lawn-mower-1204-14", rank: 1, badge: "Best Overall", name: "American Lawn Mower 1204-14 14-Inch 4-Blade Push Reel Mower",
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "4-blade reel design", "No battery, cord, or fuel", "Manual push operation"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Hose","value":"4-blade reel design"},{"label":"Battery","value":"No battery, cord, or fuel"},{"label":"Feature 4","value":"Manual push operation"}],
     description: "The American Lawn Mower 1204-14 has no motor, battery, or cord, so its ready-to-mow weight is the same as its bare weight, which is the main reason it sits at the top of this list. It holds a 4.3 rating across 15,053 reviews, the largest review count of any mower in this comparison, which suggests it holds up over years of regular use for the buyers it fits.\n\nA reel mower this light is easy to lift over a step, carry to a shed, or hang on a wall, but the 14-inch width and manual cutting action mean it is a poor match for thick, tall, or large lawns. Compare its true ready-to-mow weight and cutting width against your lawn size and grass thickness before buying.",
     bestFor: "small, flat, regularly mowed lawns where true minimum weight matters most",
     pros: ["No battery or cord adds any weight at the mower", "4.3 rating across 15,053 reviews shows long-term reliability", "Simple mechanism with little to maintain"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting width", "40V 4.0Ah battery included", "Push drive", "Battery and charger included"],
+    specList: [{"label":"Size","value":"16-inch cutting width"},{"label":"Power Source","value":"40V 4.0Ah battery included"},{"label":"Drive Type","value":"Push drive"},{"label":"Battery","value":"Battery and charger included"}],
     description: "The Greenworks 40V 16-Inch Push Mower holds a 4.2 rating across 12,116 reviews, a large sample for a cordless mower in this class, and it ships with the battery and charger needed to reach that ready-to-mow weight rather than selling the deck alone. The included 4.0Ah pack adds real weight at the deck, so the ready-to-mow figure is meaningfully higher than the bare frame.\n\nAt 16 inches it covers more ground per pass than a reel mower while staying light enough for most owners to lift into a trunk or over a threshold. Compare its ready-to-mow weight with battery installed, not a bare-frame number, against your storage and lifting needs.",
     bestFor: "small to mid-size lawns wanting cordless power without a heavy self-propelled deck",
     pros: ["4.2 rating across 12,116 reviews", "Battery and charger included in the ready-to-mow weight", "16-inch deck covers more per pass than a reel mower"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B078YYPWLY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31CdnGNWAvL._SL500_.jpg", price: "$65.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["12-inch cutting width", "6.5 amp corded motor", "3-in-1 mower, trimmer, and edger", "No battery weight"],
+    specList: [{"label":"Size","value":"12-inch cutting width"},{"label":"Motor","value":"6.5 amp corded motor"},{"label":"Feature 3","value":"3-in-1 mower, trimmer, and edger"},{"label":"Battery","value":"No battery weight"}],
     description: "The BLACK+DECKER BESTA512CM holds a 4.2 rating across 9,666 reviews and combines a compact push mower with a trimmer and edger head in one light corded body. Because it runs on a cord instead of a battery, its ready-to-mow weight stays close to the bare frame weight, with the outdoor extension cord as the main added consideration rather than added mass at the mower.\n\nThe 12-inch cutting width is narrow even for a lightweight mower, so this fits patios, tight side yards, and trim work better than a full lawn. Compare the combo tool's real footprint and cord routing against your yard's edges and obstacles before buying.",
     bestFor: "small patches, edges, and patio-adjacent grass where a full mower is overkill",
     pros: ["4.2 rating across 9,666 reviews", "No battery weight since it is corded", "Combines mowing, trimming, and edging in one light tool"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch cutting width", "11 amp corded motor", "No battery replacement", "Push drive"],
+    specList: [{"label":"Size","value":"15-inch cutting width"},{"label":"Motor","value":"11 amp corded motor"},{"label":"Battery","value":"No battery replacement"},{"label":"Drive Type","value":"Push drive"}],
     description: "The LawnMaster MEB1114K holds a 4.0 rating across 4,448 reviews and, like other corded mowers, carries no battery weight, keeping its ready-to-mow weight close to the frame weight printed in the listing. The 15-inch deck is a step up from the narrower push mowers on this list while still staying light enough to carry with one hand by the handle.\n\nBecause it is corded, the practical limitation is cord length and routing around trees, beds, and fences rather than mower weight itself. Compare its ready-to-mow weight and cutting width against how far your yard sits from an outlet, and confirm the correct outdoor extension cord before buying.",
     bestFor: "small unobstructed yards near an outlet that want more width than a reel mower",
     pros: ["4.0 rating across 4,448 reviews", "No battery weight to carry", "15-inch deck covers more per pass than compact combo tools"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch cutting width", "56V battery platform", "Battery and charger included", "Push drive"],
+    specList: [{"label":"Size","value":"21-inch cutting width"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
     description: "The EGO POWER+ LM2114 holds a 4.5 rating across 2,160 reviews, the highest rating in this comparison, though its review count is smaller than the reel and corded mowers above. At 21 inches it is the widest deck on this list, and its ready-to-mow weight with the 56V battery installed is meaningfully higher than any of the compact or corded mowers here, even though it is still light for a full-width mower.\n\nBuyers choosing this model are trading true minimum weight for full-lawn coverage and cordless convenience. Compare its ready-to-mow weight with battery installed, and confirm how far you need to carry or lift it, against a narrower or corded option before paying the higher price.",
     bestFor: "standard-size lawns wanting full 21-inch coverage in the lightest cordless full-width mower here",
     pros: ["4.5 rating across 2,160 reviews", "21-inch deck covers a full lawn faster than the compact mowers here", "Battery and charger included at purchase"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVD6ZLV?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51zw5LOnu7L._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "Brushless motor", "5.0Ah battery and charger included", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Feature 2","value":"Brushless motor"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "The Litheli 14-Inch holds a 3.9 rating across 48 reviews, a much smaller sample than the mowers above, so its long-term durability is less established even though its listed price and included 5.0Ah battery make it an inexpensive way into a cordless setup. The brushless motor is marketed as lighter and lower-maintenance than a brushed motor of similar output.\n\nAt 14 inches it fits small yards, and the 5-position height adjustment lets you match cutting height without added tools. Given the limited review history, compare it carefully against the higher-review-count options above if long-term reliability data matters to your decision.",
     bestFor: "small yards under about 3,000 square feet where a light, inexpensive cordless mower is the priority",
     pros: ["Brushless motor with 5.0Ah battery and charger included", "5-position height adjustment", "Lower price than the other cordless mowers here"],
@@ -78,6 +85,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVKDHT9?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51X3VnGs4cL._SL500_.jpg", price: "$125.33",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "Brushless motor", "5.0Ah battery and smart charger", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Feature 2","value":"Brushless motor"},{"label":"Battery","value":"5.0Ah battery and smart charger"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "This Litheli 14-Inch variant holds a 3.6 rating across 29 reviews, the smallest review sample among the cordless mowers on this list, so treat its rating as directional rather than settled. It shares the same 14-inch deck, battery capacity, and height-adjustment range as the other Litheli listing above, with a smart charger as the stated difference.\n\nBecause the review count is so limited, verify current listing details and buyer feedback before purchase rather than relying on this summary alone. Compare it against the higher-review-count Litheli and Greenworks options above if reliability history matters more to you than a slightly different charger.",
     bestFor: "small-yard buyers comparing Litheli's lineup who specifically want the smart-charger version",
     pros: ["5.0Ah battery and smart charger included", "5-position height adjustment", "Compact 14-inch deck stays light for small yards"],
@@ -88,6 +96,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H82DR75D?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Wu7LRPntL._SL500_.jpg", price: "$119.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["13-inch cutting width", "40V cordless motor", "Compact frame", "Push drive"],
+    specList: [{"label":"Size","value":"13-inch cutting width"},{"label":"Power Source","value":"40V cordless motor"},{"label":"Material","value":"Compact frame"},{"label":"Drive Type","value":"Push drive"}],
     description: "This 13-inch 40V cordless mower holds a 3.3 rating across just 19 reviews, the smallest and lowest-rated listing in this comparison, so it should be treated as an unproven budget option rather than a verified pick. Its 13-inch deck is the narrowest cutting width on this list, aimed at small patios and tight garden beds rather than a full lawn.\n\nGiven the limited review history and lower average rating, confirm current buyer feedback and return policy before relying on it for a larger job. Compare its ready-to-mow weight and narrow width against the better-reviewed mowers above before choosing it purely on price.",
     bestFor: "very small patio or garden areas where budget matters more than review history",
     pros: ["Lowest listed price among the cordless mowers here", "13-inch frame stays light and compact for storage"],

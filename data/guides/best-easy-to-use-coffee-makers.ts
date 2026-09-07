@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "8,274 reviews",
     specs: ["5-cup reservoir", "Reusable filter", "Simple on/off switch", "No programming, no clock"],
+    specList: [{"label":"Capacity","value":"5-cup reservoir"},{"label":"Filtration","value":"Reusable filter"},{"label":"Feature 3","value":"Simple on/off switch"},{"label":"Feature 4","value":"No programming, no clock"}],
     description:
       "This is the fewest-steps machine in this comparison: fill the reservoir, add grounds to the built-in reusable filter, flip the on/off switch, done. There is no clock to set, no delay timer, and no digital menu to navigate, which also means there is nothing to accidentally misconfigure.\n\nThe tradeoff for that simplicity is that it cannot brew on a schedule, so if you want coffee ready before you wake up, this is not the model for that. For anyone who just wants to press one control and get coffee, though, it removes every extra decision.",
     bestFor: "Anyone who wants the fewest possible steps and no programming to think about, ever.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["1-cup reservoir", "Single brew button", "6 to 12oz brew", "Auto off after 90 sec"],
+    specList: [{"label":"Capacity","value":"1-cup reservoir"},{"label":"Feature 2","value":"Single brew button"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"Auto off after 90 sec"}],
     description:
       "The daily routine here is add water, drop in a pod, close the lid, press the single brew button. That is four actions with no strength or temperature settings to choose between, which removes decision fatigue compared to models with multiple buttons for size, strength, and temperature.\n\nThere is genuinely nothing to program on this model, since it has no clock or delay function to begin with, so its simplicity is not split between daily use and setup the way a full-featured machine's is.",
     bestFor: "A single-cup routine with the fewest decisions per brew and nothing to configure ahead of time.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "44,650 reviews",
     specs: ["12-cup glass carafe", "Auto pause", "On/off indicator light", "Removable basket filter"],
+    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"Auto pause"},{"label":"Lighting","value":"On/off indicator light"},{"label":"Filtration","value":"Removable basket filter"}],
     description:
       "This model covers a full 12-cup pot with a routine that stays close to the single-serve machines above: fill the reservoir, add a filter and grounds, flip the switch, and the on/off indicator light confirms it is running. The auto-pause feature lets you pull the carafe mid-brew for an early cup without stopping to think about it.\n\nIt has no delay-brew programming, so like the EHC-5055 it trades scheduling for simplicity. For a full pot with no clock to set, this is the most straightforward option here.",
     bestFor: "A full pot of coffee for a household without any scheduling features to learn.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "7,588 reviews",
     specs: ["Internal hot tank", "10-cup carafe", "Single switch operation", "3-year warranty"],
+    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"Single switch operation"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "Once its internal tank is up to temperature, day-to-day use is a single switch: add water to the top, add grounds, flip the switch, and a pot brews in a few minutes. That daily routine is as simple as any machine here.\n\nThe catch is the first-time setup, which requires running the tank through several fill cycles before it reaches its always-hot operating temperature, a step that is easy to miss if you do not read the included instructions first. This is the clearest example in this guide of a machine that is easy to use daily but not easy to set up the first time.",
     bestFor: "Buyers who will use it daily and do not mind a one-time setup process before the simple routine kicks in.",

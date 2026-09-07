@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A higher voltage number is not automatically a stronger or longer-running mower. Voltage is electrical pressure, not stored energy, and a 60V pack with a larger amp-hour rating can hold more watt-hours than an 80V pack with a smaller one. Nominal volts multiplied by amp-hours gives the approximate watt-hours, and that number, not the voltage label, is what predicts runtime and cutting capacity under real grass load.",
   "We compared included battery capacity, deck width, self-propel drive load, operating weight, recharge workflow, and price across current 60V and 80V mowers so you can match the platform to your lawn instead of assuming the bigger number wins by default.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "greenworks-60v-21-push", rank: 1, badge: "Best 60V Overall", name: "Greenworks 60V 21-Inch Push Lawn Mower",
     amazonUrl: "https://www.amazon.com/dp/B0C2ZPBHC7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41R0pwuOOQL._SL500_.jpg", price: "$389.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "60V 5.0Ah battery", "Approximately 300Wh nominal energy", "Push drive"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V 5.0Ah battery"},{"label":"Connectivity","value":"Approximately 300Wh nominal energy"},{"label":"Drive Type","value":"Push drive"}],
     description: "Greenworks 60V 21-Inch Push Lawn Mower pairs a 21-inch deck with a 60V 5.0Ah battery and charger, which works out to roughly 300Wh of nominal included energy. Buyers rate it 4.4 out of 5 across 494 reviews, a sample size that supports the mower as a dependable full-width push option rather than a niche pick.\n\nAt 300Wh this pack sits ahead of some 80V mowers that ship with smaller amp-hour batteries, which is the core point of comparing watt-hours instead of voltage alone. It suits standard-size lawns where push drive is acceptable and a single charge should cover a normal mowing session.",
     bestFor: "standard lawns where push drive is fine and included watt-hours matter more than the voltage label",
     pros: ["21-inch deck", "Roughly 300Wh included energy from a single 5.0Ah pack", "4.4 rating across 494 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "80V 4.0Ah battery", "Approximately 320Wh nominal energy", "Self-propelled"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4.0Ah battery"},{"label":"Connectivity","value":"Approximately 320Wh nominal energy"},{"label":"Lighting","value":"Self-propelled"}],
     description: "Greenworks 80V 21-Inch Self-Propelled Lawn Mower combines a 21-inch deck with an 80V 4.0Ah battery and charger, close to 320Wh of nominal included energy, plus a self-propel drive. It holds a 4.5 rating from 586 reviews, indicating consistent buyer satisfaction with this pairing of deck size and drive assist.\n\nThe 320Wh figure is only slightly ahead of the 60V push mower above, which shows that matched watt-hours across voltage platforms is what should decide the comparison, not the 80V label by itself. Self-propel adds convenience on slopes but also draws energy that a push-only mower would put entirely into the blade.",
     bestFor: "medium lawns and slopes where self-propel assist is worth the added energy draw",
     pros: ["Self-propelled drive reduces pushing effort", "4.5 rating across 586 reviews", "21-inch deck matches most standard lawns"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H389SFNF?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/410Kmx0JdYL._SL500_.jpg", price: "$619.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "60V, 2 x 4.0Ah batteries", "Approximately 480Wh combined nominal energy", "Self-propelled with rapid charger"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V, 2 x 4.0Ah batteries"},{"label":"Connectivity","value":"Approximately 480Wh combined nominal energy"},{"label":"Lighting","value":"Self-propelled with rapid charger"}],
     description: "Greenworks 60V 21-Inch Self-Propelled Lawn Mower ships with two 4.0Ah batteries on a 60V platform, which is close to 480Wh of combined nominal energy, along with a rapid charger and an extra mower blade. Rating and review data were not listed for this configuration, so treat the ownership pattern of the platform, not a review score, as the deciding factor.\n\nThe dual-battery kit is built around covering roughly three-quarter-acre lawns without a mid-mow charging stop, which is a direct answer to the runtime limits that a single small pack can create on either voltage platform. Self-propel and hot-swappable batteries make this the stronger 60V option once lawn size grows past what a single-pack mower comfortably covers.",
     bestFor: "larger lawns up to about three-quarter acre needing self-propel and no mid-mow recharge stop",
     pros: ["Two included batteries for roughly 480Wh combined", "Self-propelled drive with rapid charger", "Extra blade included"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSBDL43?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41VCBvwT7BL._SL500_.jpg", price: "$456.90",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "80V 4.0Ah battery", "Approximately 320Wh nominal energy", "Push drive"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4.0Ah battery"},{"label":"Connectivity","value":"Approximately 320Wh nominal energy"},{"label":"Drive Type","value":"Push drive"}],
     description: "Greenworks 80V 21-Inch Push Lawn Mower keeps the 80V 4.0Ah battery and roughly 320Wh nominal energy of its self-propelled sibling but drops the drive motor, which puts more of that stored energy directly toward cutting. It carries a 4.6 rating across 200 reviews, the highest rating in this comparison.\n\nWithout a drive motor pulling from the same pack, buyers who do not need self-propel assist can expect the included watt-hours to stretch further per charge than on a self-propelled mower with the same battery. It is a reasonable case for choosing 80V specifically for the push-only variant rather than assuming self-propel is required at this voltage.",
     bestFor: "buyers who want the 80V platform without paying energy budget for self-propel drive",
     pros: ["4.6 rating across 200 reviews, the highest here", "Push-only drive leaves more watt-hours for the blade", "Same 320Wh pack as the self-propelled 80V option"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSBV8LJ?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41FbCSwEtJL._SL500_.jpg", price: "$717.27",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["25-inch deck", "80V 4.0Ah battery", "Approximately 320Wh nominal energy", "Self-propelled"],
+    specList: [{"label":"Size","value":"25-inch deck"},{"label":"Power Source","value":"80V 4.0Ah battery"},{"label":"Connectivity","value":"Approximately 320Wh nominal energy"},{"label":"Lighting","value":"Self-propelled"}],
     description: "Greenworks 80V 25-Inch Self-Propelled Lawn Mower uses the same 80V 4.0Ah battery and roughly 320Wh nominal energy as the 21-inch 80V models above but spreads that energy across a wider 25-inch deck. It holds a 4.0 rating from 142 reviews.\n\nA wider deck covers more lawn per pass, which can offset a fixed watt-hour budget by reducing total mowing time even though the energy available has not increased. This is the clearest example in this lineup of higher voltage enabling a wider, heavier deck at a given battery size rather than voltage itself adding runtime.",
     bestFor: "larger open lawns where a wider deck reduces total passes more than extra runtime would",
     pros: ["25-inch deck covers more area per pass", "Self-propelled drive", "Same 320Wh pack size as the 21-inch 80V models"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DLKLBRYP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41uRION5OkL._SL500_.jpg", price: "$2,499.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["30-inch deck, riding", "60V, four 8.0Ah batteries", "1,920Wh max listed energy", "Tow rated up to 200 lbs"],
+    specList: [{"label":"Size","value":"30-inch deck, riding"},{"label":"Power Source","value":"60V, four 8.0Ah batteries"},{"label":"Feature 3","value":"1,920Wh max listed energy"},{"label":"Weight Capacity","value":"Tow rated up to 200 lbs"}],
     description: "Greenworks 60V 30-Inch Riding Lawn Mower runs on four 8.0Ah batteries on a 60V platform, listed at up to 1,920Wh of maximum energy, rated for roughly 1.25 acres with a turbo wall charger included. It carries a 4.1 rating across 28 reviews. It shows that a 60V platform can scale to a riding mower and large-property watt-hour totals just as well as a higher voltage platform can, once enough battery capacity is stacked into the pack.\n\nThe 200-pound tow rating and riding format put this in a different ownership category than the walk-behind mowers in this list, with its own storage, transport, and charging-circuit needs. Anyone comparing it against 80V walk-behinds should weigh property size and format first, since voltage is not the reason this mower covers more ground.",
     bestFor: "properties around 1.25 acres where a riding format and high total watt-hours matter more than platform voltage",
     pros: ["1,920Wh max listed energy across four batteries", "30-inch deck rated for roughly 1.25 acres", "Tow rated up to 200 lbs"],
@@ -78,6 +85,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GWL8DPV6?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51URoz8Vl4L._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck, 3-in-1", "60V 8.0Ah battery", "Approximately 480Wh nominal energy", "Smart display, 7-level height adjustment"],
+    specList: [{"label":"Size","value":"21-inch deck, 3-in-1"},{"label":"Power Source","value":"60V 8.0Ah battery"},{"label":"Connectivity","value":"Approximately 480Wh nominal energy"},{"label":"Adjustability","value":"Smart display, 7-level height adjustment"}],
     description: "SENIX X6 60V 21-Inch Self-Propelled Mower pairs an 8.0Ah battery on a 60V platform, close to 480Wh nominal energy, with a smart display and 7-level height adjustment at a price close to some smaller-pack 80V mowers. It has a 3.8 rating from a small sample of 16 reviews.\n\nThe higher watt-hour figure at this price point is notable, but the small review count means less buyer history to lean on than the Greenworks and EGO-adjacent options above. It fits buyers prioritizing included energy per dollar who are comfortable with a newer, less reviewed brand entry.",
     bestFor: "buyers prioritizing watt-hours per dollar who are comfortable with a lightly reviewed newer brand",
     pros: ["Approximately 480Wh nominal energy from a single 8.0Ah pack", "Self-propelled with a smart display and 7-level height adjustment", "Competitive price for the included energy"],

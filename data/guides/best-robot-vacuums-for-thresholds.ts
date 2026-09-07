@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "920 reviews",
     specs: ["Self-emptying base", "Vacuum and mop combo", "App and voice control", "Auto-recharge and resume"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and voice control"},{"label":"Feature 4","value":"Auto-recharge and resume"}],
     description:
       "The Tikom is the clearest current listing in this category that pairs strong buyer ratings with the kind of hardware that tends to handle raised thresholds better than a bare-bones budget model, namely a self-emptying base setup that implies a sturdier drive system and larger wheels than entry-level units. At 920 reviews and a 4.4 average, it has a real track record rather than just marketing copy.\n\nBeing a combo vacuum and mop unit, it also means one machine handles both jobs, which matters if your thresholds separate hard flooring from carpet. That said, no listing we reviewed for this keyword made a specific measured claim about threshold height in inches, so treat obstacle clearance as a general strength rather than a guaranteed spec.",
     bestFor: "Buyers who want one well-reviewed vacuum and mop combo to handle mixed flooring with raised thresholds between rooms.",

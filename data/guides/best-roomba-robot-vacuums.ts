@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "8,964 reviews",
     specs: ["AutoWash Dock", "Extending spinning mop pads", "Self-empties", "LiDAR navigation"],
+    specList: [{"label":"Feature 1","value":"AutoWash Dock"},{"label":"Mopping","value":"Extending spinning mop pads"},{"label":"Feature 3","value":"Self-empties"},{"label":"Navigation","value":"LiDAR navigation"}],
     description:
       "The Roomba Plus 505 Combo pairs vacuuming with an extending, spinning mop system and an AutoWash Dock that washes and heat-dries the mop pads between runs, so you are not pulling out a dirty pad by hand after every mopping pass. LiDAR navigation handles mapping and room-by-room cleaning, and the dock also empties the bin automatically.\n\nAmong the models we researched, this is the one that comes closest to a fully hands-off routine: vacuum, mop, empty, and wash the pads, all without you touching the robot between cycles. It carries a higher price than the vacuum-only or basic combo models here, but it is the most complete package for buyers who want both floor types handled well.",
     bestFor: "Buyers who want vacuuming and mopping fully automated, including pad washing, without manual cleanup.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["Vacuum-only", "Intense power-lifting suction", "LiDAR navigation", "Self-charging"],
+    specList: [{"label":"Feature 1","value":"Vacuum-only"},{"label":"Suction Power","value":"Intense power-lifting suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Roomba 105 Vac is a vacuum-only model, meaning there is no mop pad, no water tank, and no combo dock to think about. It still gets LiDAR navigation and power-lifting suction, which is more mapping capability than budget robot vacuums typically include at this price.\n\nFor buyers who have hard floors that do not need mopping, or who already mop by hand and just want dirt and debris handled automatically, this is the simplest and least expensive way into the current Roomba lineup.",
     bestFor: "Buyers who only want vacuuming handled and do not need a mopping function.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Strong buyer feedback",
     specs: ["2in1 vacuum & mop", "AutoWash Dock", "Dual spinning mop pads", "Smart & fast mapping"],
+    specList: [{"label":"Mopping","value":"2in1 vacuum & mop"},{"label":"Feature 2","value":"AutoWash Dock"},{"label":"Feature 3","value":"Dual spinning mop pads"},{"label":"Connectivity","value":"Smart & fast mapping"}],
     description:
       "The Roomba Plus 405 brings the AutoWash Dock and dual spinning mop pads down to a noticeably lower price than the flagship 505 Combo, while keeping smart, fast mapping for room-by-room cleaning. It is a genuine 2-in-1, not a vacuum with a bolted-on water tank, so mopping performance is closer to the higher-tier models than to a basic combo unit.\n\nFor buyers who want mopping and an automatically washed dock but do not need every feature of the top-tier model, this is the middle ground worth comparing first.",
     bestFor: "Buyers who want real vacuum-and-mop combo functionality without paying flagship pricing.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["Compacts dirt internally", "No emptying for 60 days", "No dock needed", "Bagless"],
+    specList: [{"label":"Design","value":"Compacts dirt internally"},{"label":"Feature 2","value":"No emptying for 60 days"},{"label":"Feature 3","value":"No dock needed"},{"label":"Collection","value":"Bagless"}],
     description:
       "The Roomba 205 DustCompactor takes a different approach than every other model here: instead of relying on a self-emptying dock, it compacts collected dirt inside the robot itself, going up to 60 days between manual bin emptying. That means no bulky dock taking up floor or counter space, just a compact charging base.\n\nIt is bagless and vacuum-only, so buyers who want mopping should look elsewhere in this lineup, but for anyone who does not want a large dock in their living space, this is the most space-efficient option we researched.",
     bestFor: "Buyers who want long stretches between emptying but do not want a bulky AutoEmpty dock.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["AutoEmpty dock", "Powerful suction", "Dual rubber anti-tangle brushes", "LiDAR navigation"],
+    specList: [{"label":"Feature 1","value":"AutoEmpty dock"},{"label":"Suction Power","value":"Powerful suction"},{"label":"Feature 3","value":"Dual rubber anti-tangle brushes"},{"label":"Navigation","value":"LiDAR navigation"}],
     description:
       "The Roomba Max 705 is a vacuum-only model built around powerful suction and dual rubber anti-tangle brushes, an iRobot design choice that has been a long-standing difference from competitors that use bristle brushes. Rubber brushes are worth checking against bristle-brush alternatives specifically for households with pets, since hair is less likely to wrap tightly around them over repeated cleaning cycles.\n\nIt pairs that with an AutoEmpty dock and LiDAR navigation, so it is a strong pick for anyone who wants top-tier suction and hands-off emptying without needing mopping.",
     bestFor: "Pet owners who want strong suction and low-maintenance brushes without needing a mopping function.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Strong buyer feedback",
     specs: ["Vacuum & mop combo", "LiDAR navigation", "Avoids mopping carpets", "Self-charging"],
+    specList: [{"label":"Mopping","value":"Vacuum & mop combo"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"Avoids mopping carpets"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Roomba 105 Combo adds basic mopping to the entry-level 105 platform, with LiDAR navigation smart enough to detect carpet and avoid mopping it, so it will not drag a wet pad across rugs. It does not include an AutoWash Dock, so the mop pad needs to be rinsed and reattached by hand rather than washed automatically.\n\nIt is the least expensive combo model we researched, making it a reasonable entry point for buyers who want occasional light mopping on hard floors without paying for an automated washing dock.",
     bestFor: "Buyers who want basic mopping on hard floors at the lowest combo price, without an automated dock.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["Smart LiDAR mapping", "70X power-lifting suction", "Custom room cleaning", "App & voice control"],
+    specList: [{"label":"Connectivity","value":"Smart LiDAR mapping"},{"label":"Suction Power","value":"70X power-lifting suction"},{"label":"Feature 3","value":"Custom room cleaning"},{"label":"Feature 4","value":"App & voice control"}],
     description:
       "The Roomba 105X sits above the base 105 Vac with stronger power-lifting suction and custom room cleaning through the iRobot Home app, which handles maps, no-go zones, and scheduling. Some of these functions, like setting a no-go zone or a room-specific schedule, are only accessible through the app rather than buttons on the robot itself, which is worth confirming if you would rather not rely on a phone for daily control.\n\nIt supports app and voice control on top of that, making it a solid step-up pick for buyers who want more customization than the base 105 Vac offers but still do not need mopping.",
     bestFor: "Buyers who want custom room-by-room cleaning and app control without a mopping function.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["2.3X suction", "90-day self-emptying", "Self-cleaning & hot dry dock", "Smart obstacle avoidance"],
+    specList: [{"label":"Suction Power","value":"2.3X suction"},{"label":"Feature 2","value":"90-day self-emptying"},{"label":"Feature 3","value":"Self-cleaning & hot dry dock"},{"label":"Feature 4","value":"Smart obstacle avoidance"}],
     description:
       "The Roomba 415X is the most expensive model we researched and it is built to justify that with 2.3X suction, a multifunction dock that self-empties for up to 90 days, and self-cleaning plus hot drying for the mop pads. Smart obstacle avoidance adds another layer of navigation intelligence for homes with pet toys, cables, or other floor clutter.\n\nThis is the model for buyers who want the least hands-on ownership possible and are willing to pay a significant premium over the already well-equipped 505 Combo for longer stretches between manual maintenance.",
     bestFor: "Buyers who want the longest stretches between manual maintenance and are willing to pay a premium for it.",

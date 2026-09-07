@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,643 reviews",
     specs: ["Vacuum and mop combo", "Onboard start button", "Auto self-charging", "Suction control at unit"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Reviews","value":"Onboard start button"},{"label":"Feature 3","value":"Auto self-charging"},{"label":"Suction Power","value":"Suction control at unit"}],
     description:
       "The G8000 Max combines vacuuming and mopping in one chassis, and the core clean cycle can be started with a single press on the unit itself. Suction level and basic mode switching are handled at the robot, so a first-time user can get it running immediately without downloading anything.\n\nIt returns to its dock and self-charges automatically between runs, which matters for a no-app setup since there is no schedule reminder from a phone to prompt you. Among the models we researched for this guide, it carries the strongest combination of verified rating and review volume, which is why it leads this list.",
     bestFor: "Buyers who want the most proven, widely reviewed option that still runs fully from onboard controls.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "well regarded by owners",
     reviews: "a large base of buyer feedback",
     specs: ["120 min runtime", "Slim, low-noise design", "Automatic self-charging", "Onboard button controls"],
+    specList: [{"label":"Feature 1","value":"120 min runtime"},{"label":"Design","value":"Slim, low-noise design"},{"label":"Feature 3","value":"Automatic self-charging"},{"label":"Feature 4","value":"Onboard button controls"}],
     description:
       "The M210 is built as a slim, low-noise cleaner that can be run entirely from its top-mounted buttons, which cover starting a clean, sending it home, and spot cleaning without ever touching an app. Its low profile lets it get under furniture that taller models skip entirely.\n\nRated for roughly 120 minutes of runtime per charge, it is aimed at pet hair and daily hard-floor cleaning rather than heavy carpet work. At under $90, it is one of the more affordable entries here for a no-app daily driver.",
     bestFor: "Budget-focused buyers who mainly clean hard floors and want simple button operation.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "positively received among buyers",
     reviews: "a growing number of owner reviews",
     specs: ["Tangle-free suction", "Compact chassis", "Onboard start/dock buttons", "Auto-charging return"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction"},{"label":"Design","value":"Compact chassis"},{"label":"Reviews","value":"Onboard start/dock buttons"},{"label":"Feature 4","value":"Auto-charging return"}],
     description:
       "The V2 is one of the more compact and affordable models in this comparison, built with tangle-free suction intended to cut down on hair wrapping around the brush roll. Cleaning starts and stops from the buttons on top of the unit, no pairing step involved.\n\nIts smaller size and lower price make it a reasonable entry point for a studio or small apartment where a full-featured mapping robot would be overkill. It is a simpler machine than most others on this list, which is part of the appeal for buyers who just want it to run.",
     bestFor: "Small apartments or studios that need a compact, no-fuss cleaner without app setup.",
@@ -115,6 +119,7 @@ export const products: GuideProduct[] = [
     rating: "consistently praised by owners",
     reviews: "an established, long-running review history",
     specs: ["Super-thin profile", "Quiet operation", "Onboard controls", "Auto-charging dock"],
+    specList: [{"label":"Feature 1","value":"Super-thin profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Onboard controls"},{"label":"Feature 4","value":"Auto-charging dock"}],
     description:
       "The 11S MAX is built around an especially thin chassis designed to slide under beds, sofas, and low cabinets that stop bulkier robots. It is also tuned for quiet running, which matters if the unit is going to clean while someone is home working or resting.\n\nAll core functions, start, stop, and returning to base, are handled from the unit or its included remote rather than requiring an app. It has been on the market longer than several other entries here, giving it a more established track record among owners.",
     bestFor: "Homes with lots of low-clearance furniture where a thin profile matters most.",
@@ -139,6 +144,7 @@ export const products: GuideProduct[] = [
     rating: "well reviewed by current owners",
     reviews: "a substantial number of buyer ratings",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "Onboard/remote operation", "Self-charging dock"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Onboard/remote operation"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "The Q10 S5+ leads this list on raw suction power, rated at 10,000Pa, aimed at buyers dealing with thicker carpet or heavier pet shedding. Vacuuming and mopping run from the same chassis, and daily operation can be handled through onboard controls or an included remote without app setup.\n\nThis is the priciest model in this guide, which tracks with its higher-end suction spec and combo mopping function. Buyers who do not need that much suction may get better value from a lower-priced entry here.",
     bestFor: "Homes with thicker carpet or heavier pet hair that need stronger suction.",
@@ -163,6 +169,7 @@ export const products: GuideProduct[] = [
     rating: "generally positive among early buyers",
     reviews: "a growing set of owner reviews",
     specs: ["5000Pa suction", "180 min runtime", "Included remote control", "Self-charging, schedule clean"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Feature 2","value":"180 min runtime"},{"label":"Feature 3","value":"Included remote control"},{"label":"Scheduling","value":"Self-charging, schedule clean"}],
     description:
       "The UR1 ships with a physical remote alongside an optional app, so scheduling, spot cleaning, and mode switching can all be handled without ever pairing a phone. With 5000Pa suction and a rated 180-minute runtime, it covers a mid-size home on a single charge for most floor types.\n\nSelf-charging and remote-based scheduling mean it can run on a routine without any app-based automation. It sits in the middle of this list on price, which makes it a reasonable middle ground between the budget and premium entries here.",
     bestFor: "Buyers who specifically want a bundled physical remote rather than relying on onboard buttons alone.",
@@ -187,6 +194,7 @@ export const products: GuideProduct[] = [
     rating: "positively reviewed by owners",
     reviews: "a solid base of verified buyer feedback",
     specs: ["Self-empty base", "Onboard button controls", "Auto-charging return", "Compact bin design"],
+    specList: [{"label":"Feature 1","value":"Self-empty base"},{"label":"Feature 2","value":"Onboard button controls"},{"label":"Feature 3","value":"Auto-charging return"},{"label":"Design","value":"Compact bin design"}],
     description:
       "This Shark Navigator model pairs a self-emptying base with straightforward onboard button controls, so day-to-day operation does not require setting up an app at all. The self-empty base is the standout feature here, cutting down how often you need to interact with the robot in the first place.\n\nAs a recognized brand-name entry in this guide, it appeals to buyers who want a known manufacturer's support and parts availability alongside no-app operation. It is priced at the higher end of this list, largely reflecting the self-empty base hardware.",
     bestFor: "Buyers who want a known brand name and a self-empty base without needing an app to run it.",
@@ -211,6 +219,7 @@ export const products: GuideProduct[] = [
     rating: "well received by early owners",
     reviews: "a steadily growing number of ratings",
     specs: ["LiDAR navigation", "Multi-surface cleaning", "Onboard start button", "Self-charging"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 2","value":"Multi-surface cleaning"},{"label":"Reviews","value":"Onboard start button"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Roomba 105 uses LiDAR navigation to clean in structured rows rather than the more random bounce pattern of simpler robots, while still allowing a basic clean cycle to be started with one button on the unit. That gives it more methodical coverage than several other entries here without requiring app setup to get that benefit.\n\nAs a recognized name in robot vacuums, it brings brand trust and wide accessory availability. It handles multiple surface types in a single run and returns to self-charge automatically once finished.",
     bestFor: "Buyers who want LiDAR-guided, methodical cleaning from a known brand without needing an app.",

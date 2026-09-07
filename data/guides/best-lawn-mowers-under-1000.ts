@@ -11,13 +11,15 @@ export const introParagraphs = [
   "This guide is a price-ladder comparison, distinct from our other lawn mower guides that focus on a single power source or brand. Here every mower is compared strictly on what a buyer can get for under $1000, ranging from a $65 corded trimmer combo to a $699 self-propelled cordless model, so the tradeoffs between price tiers are visible in one place.",
   "Under $1000 the market spans nearly every mower format: manual reel mowers with no motor at all, budget corded electrics, battery push and self-propelled mowers with included packs, and small gas engines. What separates the tiers is mostly deck width, self-propulsion, included battery capacity, and how much cutting the machine can do before it needs a break or a refuel.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "ego-lm2134sp-2", rank: 1, badge: "Best Overall", name: "EGO Power+ 21-Inch Cordless Self-Propelled Mower LM2134SP-2",
     amazonUrl: "https://www.amazon.com/dp/B0CVSG63DG?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41bI4lOM9KL._SL500_.jpg", price: "$699.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "Cordless battery platform", "Self-propelled drive", "Rated 4.5 stars across 316 reviews"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Battery","value":"Cordless battery platform"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Durability","value":"Rated 4.5 stars across 316 reviews"}],
     description: "The EGO Power+ LM2134SP-2 pairs a full 21-inch deck with self-propelled drive, which is the combination most buyers reach for once they have committed to spending closer to the top of this price range. It carries a 4.5-star rating across 316 reviews, a solid mark for a self-propelled cordless mower at this price.\n\nSelf-propulsion draws from the same battery that powers the blade, so runtime on hilly or overgrown lawns will run shorter than the flat-lawn figure most listings lead with. For a buyer with a mid-size or larger lawn who wants to walk behind rather than push, this is the strongest all-around pick under $1000.",
     bestFor: "mid-size to larger lawns where self-propelled drive is worth the added cost",
     pros: ["Full-width 21-inch deck for fewer passes", "Self-propelled drive reduces pushing effort", "Strong 4.5-star rating across 316 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "80V 4Ah battery and charger included", "Self-propelled drive", "Rated 4.5 stars across 586 reviews"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4Ah battery and charger included"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Durability","value":"Rated 4.5 stars across 586 reviews"}],
     description: "The Greenworks 80V 21-Inch Self-Propelled Mower brings self-propulsion and a full-width deck in at roughly two-thirds the price of the EGO above, with a battery and charger included in the box. It shares the same 4.5-star rating as the pricier option, backed by 586 reviews, making it the better value pick if self-propel and a 21-inch deck are the priority but the budget needs to stay under $500.\n\nThe higher-energy included pack helps offset the runtime cost of the drive motor, but voltage alone does not establish runtime, and buyers should still expect shorter sessions than a push-only mower on the same battery. This is the mower to compare directly against the EGO LM2134SP-2 when deciding whether the extra $250 is worth it.",
     bestFor: "buyers who want self-propel and a 21-inch deck without spending near $700",
     pros: ["Self-propelled drive at a mid-range price", "Battery and charger included", "Matches the top pick's 4.5-star rating on 586 reviews"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "56V battery platform", "Battery and charger included", "Rated 4.5 stars across 2,160 reviews"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Durability","value":"Rated 4.5 stars across 2,160 reviews"}],
     description: "The EGO Power+ LM2114 keeps the full 21-inch deck but drops self-propulsion, landing at $399 with a 4.5-star rating backed by 2,160 reviews, the largest review count of any mower in this guide. That review volume gives it the most established track record here, even though it sits in the middle of the price range.\n\nWithout a drive motor, all the included battery capacity goes toward the blade rather than being split with propulsion, which can mean a longer mowing session per charge than the self-propelled models above despite a similar battery platform. It is the pick for a standard-size lawn where pushing is not a burden.",
     bestFor: "standard-size lawns where a full-width deck matters more than self-propel",
     pros: ["21-inch deck at a mid-range price", "Battery and charger included", "Largest review base in this guide at 2,160 reviews and 4.5 stars"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CB9XSR1S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/419ZsDeTwFL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "144cc 4-stroke OHV engine", "3-in-1 mulch, bag, side discharge", "Rated 4.3 stars across 932 reviews"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"144cc 4-stroke OHV engine"},{"label":"Collection","value":"3-in-1 mulch, bag, side discharge"},{"label":"Durability","value":"Rated 4.3 stars across 932 reviews"}],
     description: "The PowerSmart EasyGlide is the only gas mower in this guide, pairing a 144cc 4-stroke OHV engine with a full 21-inch steel deck and 3-in-1 mulch, bag, or side discharge capability. It holds a 4.3-star rating across 932 reviews, a solid showing for a budget gas mower.\n\nGas avoids battery charging and replacement entirely, but it adds fuel, oil changes, and engine maintenance that battery mowers do not need. For a buyer who wants the largest cutting capacity per session without watching a battery gauge, and who does not mind fuel and basic engine upkeep, this is the mower to consider instead of a battery push mower at a similar price.",
     bestFor: "buyers who want gas runtime and don't want to manage battery charging",
     pros: ["No battery to charge or eventually replace", "Full 21-inch deck with 3-in-1 discharge options", "Rated 4.3 stars across 932 reviews"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V 4Ah battery and charger included", "160Wh included energy", "Rated 4.2 stars across 12,116 reviews"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4Ah battery and charger included"},{"label":"Feature 3","value":"160Wh included energy"},{"label":"Durability","value":"Rated 4.2 stars across 12,116 reviews"}],
     description: "The Greenworks 40V 16-Inch Push Mower trades deck width for a much lower price and a smaller, lighter machine, matched by 12,116 reviews at a 4.2-star average, the second-largest review base in this guide behind only the corded combo unit below. That volume suggests wide adoption specifically among small-lawn buyers.\n\nThe narrower 16-inch deck means more passes to cover the same area compared to the 21-inch mowers above, and the single included pack is sized for smaller yards rather than long sessions. It is the mower to pick for a compact lawn or as a second mower for tight spaces, not for a full-size property.",
     bestFor: "small lawns and buyers who want a lighter, easier-to-store mower",
     pros: ["Lower price than the 21-inch battery mowers in this guide", "Battery and charger included", "Very large review base at 12,116 reviews and 4.2 stars"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch deck", "11-amp corded motor", "No battery to replace", "Rated 4.0 stars across 4,448 reviews"],
+    specList: [{"label":"Size","value":"15-inch deck"},{"label":"Motor","value":"11-amp corded motor"},{"label":"Battery","value":"No battery to replace"},{"label":"Durability","value":"Rated 4.0 stars across 4,448 reviews"}],
     description: "The LawnMaster MEB1114K is a corded electric mower with an 11-amp motor and a compact 15-inch deck, priced at $121 and rated 4.0 stars across 4,448 reviews. Because it plugs in, there is no battery to charge or eventually replace, and power never fades mid-mow the way a battery pack can.\n\nThe tradeoff is managing an extension cord around trees, beds, and the mowing path, plus staying within reach of an outlet, which limits it to smaller unobstructed yards. It is a reasonable low-cost option for a buyer with a small lawn close to the house who wants to avoid battery replacement cost entirely.",
     bestFor: "small unobstructed yards close to an outlet",
     pros: ["Lowest-cost dedicated mower in this guide with real spec detail", "No battery to charge or replace", "Rated 4.0 stars across 4,448 reviews"],
@@ -78,6 +85,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B078YYPWLY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31CdnGNWAvL._SL500_.jpg", price: "$65.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["12-inch corded push mower", "6.5-amp motor", "Converts to trimmer and edger", "Rated 4.2 stars across 9,666 reviews"],
+    specList: [{"label":"Size","value":"12-inch corded push mower"},{"label":"Motor","value":"6.5-amp motor"},{"label":"Feature 3","value":"Converts to trimmer and edger"},{"label":"Durability","value":"Rated 4.2 stars across 9,666 reviews"}],
     description: "The BLACK+DECKER BESTA512CM is a 3-in-1 corded tool that converts between a 12-inch push mower, a string trimmer, and an edger, at $65 it is the lowest total cost in this guide and holds a 4.2-star rating across 9,666 reviews. For a buyer with a very small patch of grass, a single cord-powered tool that also handles trimming and edging can replace three separate purchases.\n\nAt a 12-inch mowing width it is not a substitute for a full-size mower on anything beyond a small yard or as a supplement for edges and tight corners that a larger mower cannot reach. Treat it as a specialty or backup tool rather than a primary mower for a standard lawn.",
     bestFor: "very small yards, edging, and trimming rather than primary full-lawn mowing",
     pros: ["Lowest price in this guide and converts to three tools", "No battery to charge or replace", "Rated 4.2 stars across 9,666 reviews"],
@@ -88,6 +96,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "4-blade manual reel", "No motor, battery, or fuel", "Rated 4.3 stars across 15,053 reviews"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Hose","value":"4-blade manual reel"},{"label":"Battery","value":"No motor, battery, or fuel"},{"label":"Durability","value":"Rated 4.3 stars across 15,053 reviews"}],
     description: "The American Lawn Mower 1204-14 is a fully manual push reel mower with a 4-blade reel and a 14-inch cutting width, priced at $72 and rated 4.3 stars across 15,053 reviews, by far the most reviews of any product in this guide. It requires no motor, no battery, and no fuel, so there is nothing to charge, refuel, or eventually replace as a power source.\n\nManual reel mowers need more physical effort per pass and are best suited to small, flat, regularly maintained lawns rather than tall or thick grass. For a buyer with a small yard who wants the lowest possible ownership cost and no engine or battery to maintain, this is the mower with the strongest review record in the entire lineup.",
     bestFor: "small, flat, regularly mowed lawns where zero fuel or battery cost matters most",
     pros: ["No motor, battery, or fuel required, ever", "Lowest long-term ownership cost in this guide", "Highest review count in this guide at 15,053 reviews and 4.3 stars"],

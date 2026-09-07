@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["20,000 Pa suction", "HydroJet Roller Mop", "Vacuum and mop combo", "Auto-empty base"],
+    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"HydroJet Roller Mop"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Auto-empty base"}],
     description:
       "The E25 sits at the top of eufy's current lineup, pairing 20,000 Pa suction with a HydroJet roller mop that spins to lift wet debris instead of dragging a pad across it. The high suction ceiling matters for anti-tangle performance too, since stronger airflow through the main brush housing helps pull loose hair off the roller and into the dustbin rather than letting it wind tight around the ends.\n\nAt this price the E25 is a serious investment, and buyers considering it specifically for long hair or heavy shedding should still check recent buyer reviews for how the roller holds up over months of daily use rather than assuming the highest suction spec here automatically means the least manual cleanup.",
     bestFor: "Buyers who want the strongest suction and combined mop function in this lineup and are willing to pay for it.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["Vacuum and mop combo", "Hardwood and carpet rated", "Matches E25 rating", "Mid-range price"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet rated"},{"label":"Reviews","value":"Matches E25 rating"},{"label":"Feature 4","value":"Mid-range price"}],
     description:
       "The Omni C20 carries the same 4.4 rating as the flagship E25 at roughly $250 less, making it the clearest value pick in this comparison for anyone who does not need the top-tier suction figure. It is built for mixed hardwood and carpet homes, which is the more common real-world layout than either surface alone.\n\nBecause it shares a review pool size with the E25, the two likely draw from a similar customer base, so the practical difference for most households comes down to suction ceiling and mop mechanism rather than build quality. For long-hair households, check recent buyer reviews on this specific model rather than assuming it performs identically to the pricier E25.",
     bestFor: "Buyers who want eufy's rated reliability without paying flagship pricing for the top suction tier.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "53,856 reviews",
     specs: ["15,000 Pa suction", "HydroJet Roller Mop", "Vacuum and mop combo", "Mid-tier suction"],
+    specList: [{"label":"Suction Power","value":"15,000 Pa suction"},{"label":"Mopping","value":"HydroJet Roller Mop"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Mid-tier suction"}],
     description:
       "The C28 sits between the E25 and Omni C20 in price and suction, keeping the same HydroJet roller mop design as the flagship but at 15,000 Pa instead of 20,000 Pa. It is a middle-of-the-lineup option for buyers who want the roller mop feature without paying full flagship price.\n\nGiven the shared roller mop design across eufy's line, manual cleaning frequency for pet or long hair should be broadly similar to the E25, though buyers with heavy shedding pets should still check recent buyer reviews for this specific model rather than assuming spec sheets translate one-to-one to daily maintenance.",
     bestFor: "Households wanting eufy's HydroJet roller mop design at a mid-tier price point.",
@@ -115,6 +119,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "2,788 reviews",
     specs: ["18,500 Pa suction", "2026 model", "Vacuum and mop combo", "Newer roborock generation"],
+    specList: [{"label":"Suction Power","value":"18,500 Pa suction"},{"label":"Feature 2","value":"2026 model"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Newer roborock generation"}],
     description:
       "The Qrevo S Pro is roborock's newest listing in this comparison, with 18,500 Pa suction that lands just under the eufy E25's ceiling. As a newer release, its review count is far smaller than the eufy models here, which means less long-term feedback is available yet on how its brush design handles hair over months of use.\n\nBecause of the smaller review sample, buyers considering this model specifically for long hair or heavy shedding should read recent buyer reviews carefully for mentions of brush wrap before buying, since a 4.2 rating on under 3,000 reviews carries more uncertainty than the same rating on tens of thousands.",
     bestFor: "Buyers who want near-flagship suction from roborock's latest generation and do not mind a thinner review history.",
@@ -139,6 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,152 reviews",
     specs: ["10,000 Pa suction", "Vacuum and mop combo", "20,152 reviews", "Mid-budget price"],
+    specList: [{"label":"Suction Power","value":"10,000 Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Reviews","value":"20,152 reviews"},{"label":"Feature 4","value":"Mid-budget price"}],
     description:
       "The Q10 S5+ brings 10,000 Pa suction at under $300, positioning it as a mid-budget option with a substantial 20,152-review track record. That combination of suction and price makes it a reasonable pick for carpeted homes where consistent agitation matters more than chasing the highest Pa figure.\n\nCarpet agitation is worth weighing carefully here: anti-tangle brush designs that minimize wrap sometimes trade off some of the aggressive bristle agitation that works loose debris out of carpet fibers. Buyers with mostly carpeted floors and long-haired pets should check recent buyer reviews for how this specific model performs on carpet before assuming the suction number alone tells the full story.",
     bestFor: "Carpet-heavy homes on a mid-range budget that still want a large review base to lean on.",
@@ -163,6 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "509 reviews",
     specs: ["8,000 Pa suction", "90-day self-emptying base", "Vacuum and mop", "Budget price"],
+    specList: [{"label":"Suction Power","value":"8,000 Pa suction"},{"label":"Feature 2","value":"90-day self-emptying base"},{"label":"Mopping","value":"Vacuum and mop"},{"label":"Feature 4","value":"Budget price"}],
     description:
       "MONSGA's entry carries the highest rating in this whole comparison at 4.6, with a 90-day self-emptying base that reduces how often the bin needs manual attention, a real convenience factor for anyone managing hair and debris buildup. At under $270 it undercuts most of the other models here on price while still offering self-emptying, which is normally reserved for pricier machines.\n\nThe catch is review volume: 509 reviews is a small sample next to the tens of thousands backing the eufy models, so that 4.6 rating deserves a closer look at recent buyer reviews specifically mentioning long hair or heavy shedding before treating it as a proven anti-tangle performer at scale.",
     bestFor: "Budget-conscious buyers who want self-emptying convenience and are comfortable with a newer, less-reviewed brand.",
@@ -187,6 +194,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "7,587 reviews",
     specs: ["Self-empty base included", "Established Shark brand", "7,587 reviews", "Vacuum only, no mop"],
+    specList: [{"label":"Feature 1","value":"Self-empty base included"},{"label":"Brand","value":"Established Shark brand"},{"label":"Reviews","value":"7,587 reviews"},{"label":"Mopping","value":"Vacuum only, no mop"}],
     description:
       "The Navigator RV2120AE is a vacuum-only model, without the mop function most of the other models in this comparison include, but it comes from an established brand with a self-empty base built in at a sub-$300 price. That focus on vacuuming alone can be an advantage for hardwood-heavy homes that do not need a mop mechanism adding weight and complexity to the unit.\n\nShark's brush designs on this line are generally described by the brand as resistant to hair wrap, but as with every model here, buyers with long hair or shedding pets should check recent buyer reviews specifically for this model rather than relying on the general anti-tangle marketing language alone.",
     bestFor: "Hardwood-focused homes that want a self-emptying vacuum without paying for mop functionality they will not use.",
@@ -211,6 +219,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,152 reviews",
     specs: ["8,000 Pa suction", "Vacuum and mop combo", "20,152 reviews", "Lowest price in comparison"],
+    specList: [{"label":"Suction Power","value":"8,000 Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Reviews","value":"20,152 reviews"},{"label":"Size","value":"Lowest price in comparison"}],
     description:
       "The Q7 L5 is the least expensive model in this comparison by a wide margin, at under $140 for a full vacuum and mop combo. It shares its 20,152-review count with the pricier Q10 S5+, which suggests the two are likely sold together or reviewed as a close pairing, giving buyers a reasonably large sample to judge from despite the low price.\n\nAt 8,000 Pa it has the lowest suction figure among the mid-to-premium models here, which can mean more manual brush cleaning over time for long hair or heavy shedding. It is a reasonable starting point for a first robot vacuum or a secondary unit, but households with serious hair-wrap concerns should check recent buyer reviews before treating it as a long-term anti-tangle solution.",
     bestFor: "Buyers who want a cheap entry point into robot vacuums and can tolerate more manual brush maintenance.",

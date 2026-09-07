@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "19,690 reviews",
     specs: ["4 brew styles", "Rapid cold brew", "8 brew sizes", "Thermal flavor extraction"],
+    specList: [{"label":"Feature 1","value":"4 brew styles"},{"label":"Feature 2","value":"Rapid cold brew"},{"label":"Feature 3","value":"8 brew sizes"},{"label":"Feature 4","value":"Thermal flavor extraction"}],
     description:
       "The CM371 covers two distinct iced methods in one machine: an Over Ice setting that brews hot concentrate directly onto ice, and a separate Rapid Cold Brew mode that never uses heat and finishes in about 10 minutes. That is a genuine solution to the dilution problem, since the Over Ice mode is specifically formulated stronger to survive melting ice, and it is not the same recipe as its regular hot coffee setting.\n\nThe removable reservoir with auto-metering also means you are not eyeballing water levels for iced batches, which matters since iced recipes typically use less water per cup than a full hot brew to account for ice.",
     bestFor: "Buyers who want both true cold brew and a stronger hot-over-ice option in one machine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "9,232 reviews",
     specs: ["Auto temp adjust", "3 cup sizes for iced", "Fits tumblers up to 7in", "My K-Cup compatible"],
+    specList: [{"label":"Feature 1","value":"Auto temp adjust"},{"label":"Capacity","value":"3 cup sizes for iced"},{"label":"Feature 3","value":"Fits tumblers up to 7in"},{"label":"Feature 4","value":"My K-Cup compatible"}],
     description:
       "The K-Iced is genuinely designed around the dilution problem rather than just labeling a normal brew as iced: the listing describes the brew temperature starting hotter for full flavor extraction, then automatically cooling before it hits the ice, which is a real mechanical difference from simply brewing a regular pod over cubes. It also has a dedicated Strong Brew option to push extraction further for iced cups specifically.\n\nThe removable drip tray accommodates tumblers up to 7 inches tall, which covers most travel mugs, though very tall insulated tumblers may still be too tall to fit under the spout.",
     bestFor: "Single-serve pod users who want an iced setting that is mechanically different from marketing dressing on a hot brew.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,179 reviews",
     specs: ["Active extraction system", "10 to 25 minute settings", "47oz glass carafe", "Self-cleaning cycle"],
+    specList: [{"label":"Feature 1","value":"Active extraction system"},{"label":"Feature 2","value":"10 to 25 minute settings"},{"label":"Capacity","value":"47oz glass carafe"},{"label":"Feature 4","value":"Self-cleaning cycle"}],
     description:
       "This is true cold brew, not hot coffee poured over ice. Water never gets heated; instead a Circle Flow system actively circulates room-temperature water through grounds to extract flavor in 10 to 25 minutes instead of the traditional 18- to 24-hour steep. That distinction matters because cold brew has a genuinely different, less acidic flavor profile than hot-brewed coffee cooled with ice, and no dilution math applies since you are not adding ice during brewing.\n\nBecause it brews and stores in the same glass carafe, cleanup is closer to washing a pitcher than descaling a machine, though the internal brew path still needs the included cleaning cup run periodically.",
     bestFor: "Buyers who specifically want cold brew's flavor profile without an overnight wait.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "67,488 reviews",
     specs: ["2-quart Tritan pitcher", "Fine-mesh filter", "Airtight lid", "Dishwasher safe"],
+    specList: [{"label":"Feature 1","value":"2-quart Tritan pitcher"},{"label":"Material","value":"Fine-mesh filter"},{"label":"Feature 3","value":"Airtight lid"},{"label":"Feature 4","value":"Dishwasher safe"}],
     description:
       "The Takeya is a manual steep-in-the-fridge cold brew pitcher with no electronics, no cord, and no iced setting to evaluate for dilution since you control the ratio yourself with the built-in fine-mesh filter. Traditional cold brew steeping still takes roughly 12 to 24 hours in the refrigerator, which is the tradeoff for skipping any machine entirely.\n\nCleanup is simpler than any electric option here since there is no brew path or heating element, just a pitcher, filter, and lid that are all dishwasher safe. This is the cheapest way into genuine cold brew in this comparison.",
     bestFor: "Buyers who want true cold brew concentrate without buying any electric machine.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "74 reviews",
     specs: ["Bold and iced brew modes", "24-hour programmable", "Auto pause and pour", "Slim profile"],
+    specList: [{"label":"Feature 1","value":"Bold and iced brew modes"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"Auto pause and pour"},{"label":"Feature 4","value":"Slim profile"}],
     description:
       "This is a standard 12-cup drip machine with a Bold and an Iced brew mode added to the settings dial. The listing does not describe any temperature or strength adjustment specific to the iced mode the way the K-Iced or CM371 do, so the practical effect is closer to using the Bold setting and pouring over your own ice, which is worth knowing before assuming the iced button changes much mechanically.\n\nAt under $40 it is by far the cheapest machine here with any dedicated iced label, and the slim profile is genuinely useful for a small kitchen, but buyers wanting a verified anti-dilution mechanism should look at the K-Iced or CM371 instead.",
     bestFor: "Budget buyers who want a basic drip machine with a bold setting and don't need a verified anti-dilution mechanism.",

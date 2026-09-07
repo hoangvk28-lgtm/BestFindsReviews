@@ -11,13 +11,15 @@ export const introParagraphs = [
   "40V lawn mowers sit in the middle of the cordless lineup: more power than a compact 20V trimmer-class mower, less than the 56V and 80V decks built for larger properties. The voltage number on the box describes the battery platform, not the amount of energy stored inside a given pack.",
   "Watt-hours (volts multiplied by amp-hours) are the better way to compare included runtime, and two mowers labeled 40V can ship with very different pack sizes, deck widths, and drive systems. We compared current 40V models on included battery energy, deck width, drive type, and what ownership actually costs after the box is opened.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "greenworks-40v-16", rank: 1, badge: "Best Overall", name: "Greenworks 40V 16-Inch Push Mower",
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V 4.0Ah battery", "160Wh included energy", "Push drive"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4.0Ah battery"},{"label":"Feature 3","value":"160Wh included energy"},{"label":"Drive Type","value":"Push drive"}],
     description: "Greenworks 40V 16-Inch Push Mower combines a 16-inch deck with a 40V 4.0Ah included battery, which works out to roughly 160Wh of nominal energy on a single pack. It carries a 4.2 rating from more than 12,100 reviewers, the largest review base of the 40V models we compared, which is a reasonable signal of consistent real-world performance across many yards.\n\nThe narrow deck and single included pack are the main tradeoffs on larger or overgrown lawns, where you will make more passes and may want a spare battery on hand. Compare its deck width, included watt-hours, and charging workflow against the size of your actual mowable area before buying.",
     bestFor: "small to mid-size lawns where a proven, widely reviewed 40V platform matters more than deck width",
     pros: ["16-inch deck", "40V 4.0Ah battery included", "Largest review base among 40V options here, at a 4.2 average"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H8SHLHRP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41lv2YY91tL._SL500_.jpg", price: "$159.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V battery platform", "Brushless motor", "2-in-1 mulch and bag"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V battery platform"},{"label":"Feature 3","value":"Brushless motor"},{"label":"Collection","value":"2-in-1 mulch and bag"}],
     description: "MZK 40V 16-Inch 2-in-1 Brushless Cordless Push Mower pairs a 16-inch deck with a brushless motor and 2-in-1 mulch-or-bag capability on the 40V platform. It holds a 4.6 rating from a smaller pool of roughly 200 reviewers, which is a strong early signal but a much thinner sample than the category leader.\n\nA brushless motor generally means less friction loss and a longer motor lifespan than brushed alternatives, but the smaller review base makes long-term durability harder to confirm. Compare its included watt-hours and charging time against your yard before treating the rating alone as proof of long-term reliability.",
     bestFor: "buyers who want a brushless motor and mulch-or-bag flexibility on a smaller lawn",
     pros: ["16-inch deck with brushless motor", "2-in-1 mulching and bagging", "4.6 rating, though from a smaller review sample"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H73N7V14?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Uu4MejzNL._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "Two 40V 4.0Ah batteries", "Two chargers included", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"Two 40V 4.0Ah batteries"},{"label":"Feature 3","value":"Two chargers included"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "KOMASTY 40V Electric Lawn Mower ships with two 40V 4.0Ah batteries and two chargers, so the included pack count is higher than most mowers at this price, along with 5-position height adjustment and a 10.6-gallon bag. It carries a 3.6 rating from about 180 reviewers, the lowest average of the models in this guide, so temper expectations against that price and rating.\n\nTwo included packs and two chargers can offset a smaller per-battery capacity by letting you swap mid-mow instead of waiting out a cooling delay, but that convenience does not offset the lower average rating. Compare real charging time and build quality against the models above before buying based on price alone.",
     bestFor: "buyers who want two included battery packs and chargers at a low upfront price",
     pros: ["Two 40V batteries and two chargers included", "5-position height adjustment", "Lowest price of the models in this guide"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H82DR75D?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Wu7LRPntL._SL500_.jpg", price: "$119.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["13-inch deck", "40V battery platform", "Cordless push drive", "Compact size for small yards"],
+    specList: [{"label":"Size","value":"13-inch deck"},{"label":"Power Source","value":"40V battery platform"},{"label":"Drive Type","value":"Cordless push drive"},{"label":"Design","value":"Compact size for small yards"}],
     description: "This 13-Inch Cordless 40V Electric Lawn Mower has the narrowest deck of the models in this guide, aimed at small patio-adjacent yards or garden strips rather than a full-size lawn. It carries a 3.3 rating from only about 19 reviewers, by far the thinnest review base here, so treat the rating as an early signal rather than a settled track record.\n\nThe narrow deck means more passes on anything beyond a small area, and the limited review count leaves durability and included watt-hours largely unverified against buyer experience. Confirm included battery capacity and return policy directly on the listing before buying.",
     bestFor: "very small yards, patios, or garden strips where deck width matters less than compact storage",
     pros: ["13-inch deck fits tight storage spaces", "Lowest weight class of the mowers compared here", "Lower price point for occasional small-area use"],

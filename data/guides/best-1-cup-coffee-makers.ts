@@ -23,6 +23,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -41,6 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "6 to 12oz brew range", "Fill-per-brew reservoir", "K-Cup pod compatible", "Auto off after 90 seconds"],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Feature 2","value":"6 to 12oz brew range"},{"label":"Feature 3","value":"Fill-per-brew reservoir"},{"label":"Capacity","value":"K-Cup pod compatible"},{"label":"Feature 5","value":"Auto off after 90 seconds"}],
     description:
       "The K-Mini brews anywhere from 6 to 12oz per cup using K-Cup pods, with a one-cup reservoir that you fill fresh for every brew rather than keeping a tank topped off. At under 5 inches wide, it is the narrowest machine in this comparison, built specifically to fit tight counter space, dorms, or office desks.\n\nIt is also compatible with the My K-Cup reusable filter for brewing your own ground coffee instead of pods, and it has the largest review base of any model here by a wide margin, which tracks with how often it is bought as a first or secondary coffee maker.",
     bestFor: "Buyers who want the smallest possible footprint and are comfortable filling water for every single brew.",
@@ -65,6 +67,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "9,293 reviews",
     specs: ["Brews up to 12oz", "600-watt heater", "Includes stainless steel travel mug", "Brews in under 60 seconds", "Compact narrow design"],
+    specList: [{"label":"Feature 1","value":"Brews up to 12oz"},{"label":"Feature 2","value":"600-watt heater"},{"label":"Material","value":"Includes stainless steel travel mug"},{"label":"Size","value":"Brews in under 60 seconds"},{"label":"Design","value":"Compact narrow design"}],
     description:
       "The EHC111A brews up to 12oz directly from ground coffee, no pods required, using a single-touch button and a 600-watt heater that finishes a brew in under 60 seconds. It ships with a 12oz stainless steel insulated travel mug sized to fit directly under the dispenser, aimed at grab-and-go mornings.\n\nAt under $25 it is by far the least expensive machine in this comparison, and its compact narrow design fits easily into a dorm room, office, or small kitchen corner.",
     bestFor: "Buyers who want to brew ground coffee directly, without pods, at the lowest price in this comparison.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "9,293 reviews",
     specs: ["Brews up to 14oz", "Includes 14oz insulated travel mug", "600-watt heater", "Reusable filter for grounds or loose tea", "Brews in under 60 seconds"],
+    specList: [{"label":"Feature 1","value":"Brews up to 14oz"},{"label":"Feature 2","value":"Includes 14oz insulated travel mug"},{"label":"Feature 3","value":"600-watt heater"},{"label":"Filtration","value":"Reusable filter for grounds or loose tea"},{"label":"Size","value":"Brews in under 60 seconds"}],
     description:
       "The EHC113M is a related model to the EHC111A but brews up to 14oz instead of 12oz, and ships with a matching 14oz stainless steel travel mug rather than a 12oz one. It uses the same one-touch, under-60-second brewing and a removable reusable filter that also works for loose-leaf tea, not just coffee grounds.\n\nIf your travel mug or morning routine runs larger than a standard 12oz cup, this is the more useful of the two Elite Gourmet models here, at essentially the same price.",
     bestFor: "Buyers who want a slightly larger single brew, up to 14oz, for a bigger travel mug.",
@@ -113,6 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "3,682 reviews",
     specs: ["6 to 12oz brew range", "Works with K-Cup pods or grounds", "Built-in water tank with view window", "Brews in about 2 minutes", "Descale reminder light"],
+    specList: [{"label":"Feature 1","value":"6 to 12oz brew range"},{"label":"Capacity","value":"Works with K-Cup pods or grounds"},{"label":"Size","value":"Built-in water tank with view window"},{"label":"Feature 4","value":"Brews in about 2 minutes"},{"label":"Lighting","value":"Descale reminder light"}],
     description:
       "The Horavie is the only model here that natively accepts both K-Cup pods and loose grounds in the same machine without a separate reusable filter accessory, brewing 6 to 12oz in about 2 minutes with one-button operation. Its built-in tank has a view window so you can see the water level before brewing, closer to a small reservoir than a strict fill-per-brew design.\n\nIt also includes a descale reminder light, a feature none of the other three models in this comparison advertise, which matters since skipped descaling is a common cause of slow or weak single-serve brews over time.",
     bestFor: "Buyers who want the flexibility to switch between K-Cup pods and ground coffee without buying a separate filter.",

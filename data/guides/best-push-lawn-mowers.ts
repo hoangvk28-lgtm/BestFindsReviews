@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Push mower lists commonly mix reel, corded, battery, and gas machines without explaining how different their effort and maintenance demands are. We organized these picks by power source and highlighted ready-to-mow weight, turning, bag handling, and the point where self-propel becomes the better choice.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "american-1204-14", rank: 1, badge: "Best Overall", name: "American Lawn Mower 1204-14 Reel Mower",
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cut","Four-blade reel","No fuel or battery","Manual push"],
+    specList: [{"label":"Size","value":"14-inch cut"},{"label":"Hose","value":"Four-blade reel"},{"label":"Battery","value":"No fuel or battery"},{"label":"Feature 4","value":"Manual push"}],
     description: "American Lawn Mower 1204-14 Reel Mower combines 14-inch cut, Four-blade reel, No fuel or battery. That combination makes it a practical option for small, regularly maintained flat lawns.\n\nA narrow reel mower demands more passes and struggles when grass is allowed to grow tall. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small, regularly maintained flat lawns",
     pros: ["14-inch cut","Four-blade reel","No fuel or battery"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck","40V 4Ah battery","160Wh included energy","Push drive"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4Ah battery"},{"label":"Feature 3","value":"160Wh included energy"},{"label":"Drive Type","value":"Push drive"}],
     description: "Greenworks 40V 16-Inch Push Mower combines 16-inch deck, 40V 4Ah battery, 160Wh included energy. That combination makes it a practical option for small lawns and buyers already using Greenworks 40V tools.\n\nThe narrow deck and single included pack limit productivity on larger or overgrown lawns. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small lawns and buyers already using Greenworks 40V tools",
     pros: ["16-inch deck","40V 4Ah battery","160Wh included energy"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CB9XSR1S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/419ZsDeTwFL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch steel deck","144cc gas engine","3-in-1 cutting modes","Push drive"],
+    specList: [{"label":"Size","value":"21-inch steel deck"},{"label":"Feature 2","value":"144cc gas engine"},{"label":"Feature 3","value":"3-in-1 cutting modes"},{"label":"Drive Type","value":"Push drive"}],
     description: "PowerSmart EasyGlide 21-Inch Gas Push Mower combines 21-inch steel deck, 144cc gas engine, 3-in-1 cutting modes. That combination makes it a practical option for buyers wanting a full-width gas push mower without self-propel.\n\nFuel, oil, pull starting, and the full bag add ownership effort that the purchase price hides. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers wanting a full-width gas push mower without self-propel",
     pros: ["21-inch steel deck","144cc gas engine","3-in-1 cutting modes"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00004RA3E?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/4140PSdhBgL._SL500_.jpg", price: "$149.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch cut","Five-blade reel","Manual push","No ongoing fuel cost"],
+    specList: [{"label":"Size","value":"20-inch cut"},{"label":"Hose","value":"Five-blade reel"},{"label":"Feature 3","value":"Manual push"},{"label":"Feature 4","value":"No ongoing fuel cost"}],
     description: "Scotts 2000-20S Reel Mower combines 20-inch cut, Five-blade reel, Manual push. That combination makes it a practical option for flat lawns where a wider manual cut reduces passes.\n\nThe wide reel takes steady pushing force and works best when grass is cut frequently rather than allowed to grow tall. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "flat lawns where a wider manual cut reduces passes",
     pros: ["20-inch cut","Five-blade reel","Manual push"],

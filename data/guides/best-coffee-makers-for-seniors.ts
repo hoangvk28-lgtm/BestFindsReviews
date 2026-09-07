@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["Large rubberized buttons", "Digital display", "12-cup carafe", "2-hour auto shutoff"],
+    specList: [{"label":"Feature 1","value":"Large rubberized buttons"},{"label":"Feature 2","value":"Digital display"},{"label":"Capacity","value":"12-cup carafe"},{"label":"Feature 4","value":"2-hour auto shutoff"}],
     description:
       "This model's rubberized buttons are larger and offer more tactile feedback than a flush membrane button, which matters if arthritis or reduced grip strength makes small, flat controls harder to press accurately. The display shows the clock and brew status in large characters that are legible from a few feet away, not just up close.\n\nThe 12-cup Duralife glass carafe has an ergonomic handle designed for a comfortable one-hand pour, and the 2-hour auto shutoff is a genuine safety feature that does not require remembering to turn the machine off. The carafe is glass, so it does add some weight and breakage risk when full.",
     bestFor: "Anyone who wants larger, more forgiving buttons and a display readable from across the kitchen.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "44,650 reviews",
     specs: ["Simple on/off switch", "Bright indicator light", "12-cup carafe", "Auto pause"],
+    specList: [{"label":"Feature 1","value":"Simple on/off switch"},{"label":"Lighting","value":"Bright indicator light"},{"label":"Capacity","value":"12-cup carafe"},{"label":"Feature 4","value":"Auto pause"}],
     description:
       "Rather than a small digital display that can be hard to read at a glance, this model relies on a single physical switch and a bright on/off indicator light, which is easier to confirm from across a room than reading small text. There is no menu to navigate and no small icons to interpret.\n\nThe auto pause feature lets you pour a cup mid-brew without needing to stop and think about timing it correctly, and the removable filter basket lifts straight out, which keeps the cleaning motion simple and does not require twisting or deep reaching into the machine.",
     bestFor: "Buyers who prefer a simple indicator light over a small digital display and want an easy, obvious cleaning routine.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Single brew button", "1-cup reservoir", "Under 3 lbs empty", "Auto off after 90 sec"],
+    specList: [{"label":"Feature 1","value":"Single brew button"},{"label":"Capacity","value":"1-cup reservoir"},{"label":"Weight Capacity","value":"Under 3 lbs empty"},{"label":"Feature 4","value":"Auto off after 90 sec"}],
     description:
       "With a single brew button and no strength, size, or timer settings to remember, this is the most straightforward routine in this comparison: add water, drop in a pod, close the lid, press one button. There is nothing to configure and nothing to forget how to use between brews.\n\nBecause the reservoir holds only enough water for one cup, the filled weight barely changes from its roughly 3-pound empty weight, which removes lifting concerns that a full 12-cup glass carafe carries. The tradeoff is refilling water for every single cup rather than keeping a standing reservoir.",
     bestFor: "A single-button routine that is easy to remember and involves minimal lifted weight at any point.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "9,293 reviews",
     specs: ["Includes travel mug", "Single-touch operation", "Under 60-second brew", "Compact, lightweight body"],
+    specList: [{"label":"Feature 1","value":"Includes travel mug"},{"label":"Feature 2","value":"Single-touch operation"},{"label":"Feature 3","value":"Under 60-second brew"},{"label":"Weight Capacity","value":"Compact, lightweight body"}],
     description:
       "This is the lightest machine in this comparison and includes a matching travel mug, which removes the need to lift a full carafe at all since coffee brews directly into a mug that stays in place. Single-touch operation means one press starts the brew with no size or strength decisions.\n\nBecause it holds no standing reservoir, water is added fresh for each cup, keeping filled weight minimal throughout use. The narrow body also means less reaching required to access the water fill point or the mug itself.",
     bestFor: "Anyone who wants the lightest possible unit and never has to lift a full pot to pour.",

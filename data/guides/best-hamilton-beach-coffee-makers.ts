@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53,550 reviews",
     specs: ["Single-serve and 12-cup", "Stainless accents", "K-Cup compatible", "Highest review count"],
+    specList: [{"label":"Capacity","value":"Single-serve and 12-cup"},{"label":"Feature 2","value":"Stainless accents"},{"label":"Feature 3","value":"K-Cup compatible"},{"label":"Reviews","value":"Highest review count"}],
     description:
       "The 2-Way Brewer combines single-serve pod brewing with a full 12-cup carafe in one machine, and it has by far the highest review count of the four models here, suggesting a long, well-established track record. At under $90, it undercuts many single-purpose machines while covering both use cases.\n\nAs with any dual-mode machine, expect more components than a single-purpose brewer, including a separate reservoir and brew basket for each side. Regular cleaning of both systems keeps performance consistent over time.",
     bestFor: "Buyers who want both single-cup and full-pot brewing without paying for Ninja or Keurig dual-mode pricing.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "20,051 reviews",
     specs: ["12-cup carafe", "Front-fill reservoir", "Programmable", "Grounds only"],
+    specList: [{"label":"Capacity","value":"12-cup carafe"},{"label":"Feature 2","value":"Front-fill reservoir"},{"label":"Feature 3","value":"Programmable"},{"label":"Feature 4","value":"Grounds only"}],
     description:
       "The FrontFill is a straightforward programmable 12-cup drip machine with a reservoir you can fill from the front without pulling the machine away from the wall, a small but genuinely useful design detail for tight counter placement. It skips single-serve and pod compatibility entirely.\n\nAt just under $50, it is the lowest-priced model in this comparison and focuses on doing one thing, full-carafe grounds brewing, without added complexity.",
     bestFor: "A no-frills full-carafe brewer for buyers who do not need single-serve or pod compatibility.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "12,595 reviews",
     specs: ["K-Cup pods or grounds", "Single-serve and 12-cup", "Fast brewing", "Dual reservoir"],
+    specList: [{"label":"Capacity","value":"K-Cup pods or grounds"},{"label":"Feature 2","value":"Single-serve and 12-cup"},{"label":"Feature 3","value":"Fast brewing"},{"label":"Feature 4","value":"Dual reservoir"}],
     description:
       "The FlexBrew Trio adds genuine grounds compatibility to the single-serve side, so you can brew a single cup from either a K-Cup pod or your own grounds, in addition to a full 12-cup pot. That is more single-serve flexibility than the standard 2-Way Brewer offers.\n\nIt carries the lowest rating of the four models here, which is consistent with more complex dual-mechanism machines generally having more that can go wrong. Buyers who specifically want grounds compatibility on the single-serve side may still find it worth the tradeoff.",
     bestFor: "Buyers who want single-serve grounds compatibility in addition to pods and a full carafe.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "17,600 reviews",
     specs: ["Internal coffee pot", "Dispensing design", "60oz reservoir", "Stays warm for hours"],
+    specList: [{"label":"Feature 1","value":"Internal coffee pot"},{"label":"Design","value":"Dispensing design"},{"label":"Feature 3","value":"60oz reservoir"},{"label":"Feature 4","value":"Stays warm for hours"}],
     description:
       "The One Press uses an internal coffee pot with a dispensing mechanism instead of a traditional exposed carafe, which Hamilton Beach markets as keeping coffee fresher and warmer for hours without a separate warming plate cooking it. This is a genuinely different mechanism than the other three models here.\n\nThe 60oz reservoir is on the larger side for a household machine, and the dispensing design means no glass carafe to accidentally crack, though replacement parts for the internal pot mechanism may be less universally available than a standard glass carafe.",
     bestFor: "Buyers who want coffee to stay fresh and warm for hours without a warming-plate taste.",

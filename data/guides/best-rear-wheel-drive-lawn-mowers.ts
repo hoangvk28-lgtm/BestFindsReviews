@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Rear-wheel drive is a specific mechanical choice, not a marketing synonym for self-propelled. Putting the drive wheels behind the deck shifts weight toward the rear axle, which changes how a mower climbs a slope, holds a line on uneven ground, and reacts when the drive is released partway across a hill.",
   "We limited this list to mowers whose own product titles confirm rear-wheel drive, since front-wheel and all-wheel drive models are frequently mixed into the same shopping results. We compare hill traction, turning effort, reverse drag, low-speed control, and how the rear weight bias affects lifting and transport.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "powersmart-21-hills", rank: 1, badge: "Best Overall", name: "PowerSmart 21-Inch Gas Self-Propelled Lawn Mower for Hills and Medium Yards",
     amazonUrl: "https://www.amazon.com/dp/B0H4QT361L?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41ZbkBDwx+L._SL500_.jpg", price: "$283.49",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch alloy steel deck", "170cc OHV engine", "Rear-wheel drive", "3-in-1 mulching, bagging, discharge"],
+    specList: [{"label":"Size","value":"21-inch alloy steel deck"},{"label":"Feature 2","value":"170cc OHV engine"},{"label":"Wheels","value":"Rear-wheel drive"},{"label":"Collection","value":"3-in-1 mulching, bagging, discharge"}],
     description: "This PowerSmart is built and marketed specifically for hills and medium yards, with rear-wheel drive as the stated reason it can hold traction while climbing rather than spinning the front casters. Owner ratings sit around 4.1 from roughly 1,046 reviews, which is a reasonable base for a mower positioned around slope work rather than flat, manicured lawns.\n\nThe 6-position height adjustment and 3-in-1 discharge options let it adapt to different grass conditions across a season. Rear-wheel drive shifts more of the mower's weight over the drive wheels, which is the mechanical reason it is recommended for uneven or inclined ground over front-wheel-drive alternatives.",
     bestFor: "hilly or uneven medium-size yards where front-wheel-drive traction is not enough",
     pros: ["Explicitly engineered and marketed for hill traction", "Alloy steel deck with 3-in-1 discharge options", "Rating near 4.1 across roughly 1,046 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GWPKFYCK?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41ExulmPynL._SL500_.jpg", price: "$275.49",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch durable steel deck", "170cc OHV engine", "Rear-wheel drive for slopes", "6 cutting heights"],
+    specList: [{"label":"Size","value":"21-inch durable steel deck"},{"label":"Feature 2","value":"170cc OHV engine"},{"label":"Wheels","value":"Rear-wheel drive for slopes"},{"label":"Adjustability","value":"6 cutting heights"}],
     description: "The listing title names rear-wheel drive twice and ties it directly to slope use, which lines up with the mechanical logic of putting drive traction behind the deck on a medium-size yard with grade changes. It carries a lower average rating, close to 3.6 across roughly 1,822 reviews, so it has a larger review base but more mixed feedback than the top pick.\n\nThe 6 cutting height positions and 3-in-1 bag, mulch, and discharge setup match the rest of this class. Buyers considering this model should weigh the lower price against the wider rating spread before choosing it over the higher-rated option above.",
     bestFor: "slope-heavy medium yards on a tighter budget",
     pros: ["Rear-wheel drive called out specifically for slope use", "6 cutting height positions with full 3-in-1 discharge", "Lower price point than most rear-wheel-drive alternatives here"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0C53MG5L6?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41rfkPV0N-L._SL500_.jpg", price: "$319.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch steel deck", "170cc OHV engine", "Rear-wheel drive", "3-in-1 walk-behind design"],
+    specList: [{"label":"Size","value":"21-inch steel deck"},{"label":"Feature 2","value":"170cc OHV engine"},{"label":"Wheels","value":"Rear-wheel drive"},{"label":"Design","value":"3-in-1 walk-behind design"}],
     description: "This model shares the same 170cc engine and 21-inch steel deck footprint as the other two, with rear-wheel drive as its stated walk-behind configuration. Its rating is close to 4.0 across roughly 449 reviews, a smaller review count than either model above but a solid midpoint rating.\n\nIt is priced higher than the other two despite the smaller review base, which likely reflects fewer promotional discounts rather than added features. It remains a reasonable rear-wheel-drive option for buyers who want the traction benefit without the mixed feedback carried by the lower-rated model in this group.",
     bestFor: "buyers who want rear-wheel-drive traction with a solid mid-range rating",
     pros: ["Rating near 4.0 across roughly 449 reviews", "Steel deck construction matched with rear-wheel drive", "Straightforward 3-in-1 walk-behind configuration"],

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "5,034 reviews",
     specs: ["22000Pa suction", "LiDAR navigation", "Edge cleaning arm", "Flagship Saros tier"],
+    specList: [{"label":"Suction Power","value":"22000Pa suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"Edge cleaning arm"},{"label":"Feature 4","value":"Flagship Saros tier"}],
     description:
       "The Saros 10R sits at the top of Roborock's current lineup, and the 22000Pa suction figure is the highest of any model in this comparison. What separates it from the Qrevo tier is not just raw suction but the extending edge-cleaning arm, which is designed to reach into corners that a round or even a standard square-edged chassis leaves behind. LiDAR handles the mapping itself, which is about navigation accuracy rather than the same thing as spotting small obstacles like cords or pet waste, so it is still worth checking recent owner reviews for how well obstacle avoidance performs in a specific home layout.\n\nAt over $1,000 this is a real investment, and the rating sits a bit lower than some cheaper models in this comparison, which is common for feature-dense flagship robots with more components that can need troubleshooting. For buyers who want the most complete edge-to-edge cleaning and are willing to pay for it, it is still the strongest all-around pick here.",
     bestFor: "Buyers who want the most complete corner and edge coverage and are not working with a tight budget.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Strong buyer feedback",
     specs: ["18,500Pa suction", "2026 Qrevo S Pro", "LiDAR navigation", "Premium dock features"],
+    specList: [{"label":"Suction Power","value":"18,500Pa suction"},{"label":"Feature 2","value":"2026 Qrevo S Pro"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 4","value":"Premium dock features"}],
     description:
       "The Qrevo S Pro is Roborock's newest Qrevo-tier release and lands well under half the price of the Saros 10R while still offering 18,500Pa of suction, close enough to the flagship number that most households will not notice the difference in daily pickup. It represents the practical middle ground between the budget Q-series and the flagship Saros series, with premium dock functions like hot water washing typically included at this tier.\n\nThat kind of premium dock reduces daily hands-on work, but it adds its own maintenance in the form of detergent refills and periodic tray cleaning, which is worth factoring into ongoing upkeep rather than treating the dock as fully maintenance-free. As a 2026 release it does not yet have the long review history of older models, so buyers who want a longer track record before deciding may prefer the Qrevo Series pick below.",
     bestFor: "Buyers who want near-flagship suction and dock features without paying Saros-tier prices.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["Upgraded Qrevo S platform", "LiDAR navigation", "Auto-empty dock", "Mop lifting"],
+    specList: [{"label":"Feature 1","value":"Upgraded Qrevo S platform"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"Auto-empty dock"},{"label":"Mopping","value":"Mop lifting"}],
     description:
       "This Qrevo Series model builds on the earlier Qrevo S platform with an upgraded dock and mop-lifting mechanism, so the mop pads lift automatically when the robot crosses onto carpet instead of dragging a wet pad across it. That single feature matters more than it sounds for households with mixed flooring, since a mop that does not lift can leave streaks or dampen rugs.\n\nIt costs more than the Qrevo S Pro above despite similar positioning, which reflects its longer time on the market and the more established self-emptying dock design. Buyers who specifically want a proven, well-reviewed auto-empty experience over the newest suction numbers will likely be better served here.",
     bestFor: "Households with mixed hard floors and carpet that want reliable mop lifting and a proven auto-empty dock.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["FlexiArm edge mopping", "Qrevo mid-tier", "LiDAR navigation", "Sub-$500 pricing"],
+    specList: [{"label":"Mopping","value":"FlexiArm edge mopping"},{"label":"Feature 2","value":"Qrevo mid-tier"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 4","value":"Sub-$500 pricing"}],
     description:
       "The Qrevo S5V is the entry point into Roborock's Qrevo tier, bringing the FlexiArm edge-mopping mechanism, a smaller-scale version of the extending arm seen on the flagship Saros models, down to under $500. That gives buyers who want better edge coverage than the Q-series without stepping up to the priciest Qrevo models a genuine mid-range option.\n\nIt still relies on LiDAR for mapping, which handles navigation accuracy well but is a separate question from obstacle avoidance around cords, cables, or pet waste, so that is worth checking in recent reviews if a household has pets or loose cables on the floor. Compared to the higher-priced Qrevo models here, expect a simpler dock feature set.",
     bestFor: "Buyers who want FlexiArm edge mopping without paying for the top Qrevo or Saros dock features.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Strong buyer feedback",
     specs: ["10000Pa suction", "Self-empty up to 7-9 weeks", "Q-series", "LiDAR navigation"],
+    specList: [{"label":"Suction Power","value":"10000Pa suction"},{"label":"Feature 2","value":"Self-empty up to 7-9 weeks"},{"label":"Feature 3","value":"Q-series"},{"label":"Navigation","value":"LiDAR navigation"}],
     description:
       "The Q7 M5+ is a Q-series model that still includes a self-emptying dock rated for up to 7 to 9 weeks between bag changes, which is a meaningful convenience jump over the Q10 S5+ below at a price difference of only about $20. 10000Pa suction is a solid mid-tier figure, well below the Qrevo and Saros models here but a real step up from entry-level robot vacuums outside this comparison.\n\nAs with every model in this guide, the Pa number alone does not determine real-world pickup on carpets and rugs as much as navigation consistency and brush design do, so buyers should weigh this alongside the self-empty convenience rather than shopping on suction figures in isolation.",
     bestFor: "Buyers who want long stretches between dock maintenance on a genuine budget.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["10,000Pa suction", "Q10 S5+ entry model", "Self-empty dock", "LiDAR navigation"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Feature 2","value":"Q10 S5+ entry model"},{"label":"Feature 3","value":"Self-empty dock"},{"label":"Navigation","value":"LiDAR navigation"}],
     description:
       "The Q10 S5+ is the least expensive model in this comparison and still delivers 10,000Pa of suction and a self-emptying dock, which used to be premium-only features on earlier Roborock generations. For buyers who mainly want a competent daily robot vacuum without stepping into Qrevo or Saros pricing, this is the clearest entry point into the current lineup.\n\nThe tradeoffs versus the Q7 M5+ above are modest, mainly a shorter self-empty interval and a slightly more basic dock, but the roughly $20 price gap is small enough that it comes down to whether the longer self-empty window is worth it for a given household.",
     bestFor: "First-time robot vacuum buyers who want core Roborock features at the lowest entry price.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "Lowest price in lineup", "Compact Q-series"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Size","value":"Lowest price in lineup"},{"label":"Design","value":"Compact Q-series"}],
     description:
       "The Q7 L5 is the most affordable model in this comparison by a wide margin, combining vacuuming and mopping in one pass at 8,000Pa of suction. It does not include a self-emptying dock, so it needs its bin emptied manually after each run, which is the main tradeoff for the low price.\n\nFor a smaller home, apartment, or as a secondary unit for a single level, that manual step is a reasonable compromise. Buyers who want to avoid emptying a bin by hand should budget for at least the Q10 S5+ instead, since self-empty docks start there in this lineup.",
     bestFor: "Small apartments, single-level homes, or a secondary unit where manual bin emptying is not a dealbreaker.",

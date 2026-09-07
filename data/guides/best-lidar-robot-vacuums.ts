@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "922 reviews",
     specs: ["LiDAR navigation", "Self-emptying base", "Vacuum and mop combo", "App-based room mapping"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 2","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based room mapping"}],
     description:
       "The Tikom combines LiDAR-based room mapping with a self-emptying base, a combination that is usually reserved for more expensive units. The LiDAR turret builds a floor plan quickly and lets you set no-go zones and cleaning schedules by room rather than cleaning the whole floor every time.\n\nIt holds the strongest rating-to-price balance of any model we researched in this comparison. Like every LiDAR-based robot, mapping accuracy is separate from obstacle avoidance, so buyers with cords, pet waste, or small objects on the floor should still check the specific sensor setup before relying on it in cluttered rooms.",
     bestFor: "Buyers who want self-emptying convenience and accurate room mapping without paying premium prices.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["LiDAR navigation", "FlexiArm edge mopping", "Vacuum and mop combo", "Multi-floor mapping"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Mopping","value":"FlexiArm edge mopping"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"Multi-floor mapping"}],
     description:
       "The Qrevo S5V pairs LiDAR mapping with an extending FlexiArm mop that reaches into edges and corners standard square mop pads miss, which is the main reason this model sits at the top of the roborock lineup we researched. Multi-floor mapping lets it store separate layouts for each level of a home.\n\nThis is the most expensive model in this comparison, and the premium is mostly about edge mopping and mapping refinement rather than raw suction power. Buyers who mainly want dry vacuuming and do not care about edge mopping will get more value from a lower-priced LiDAR model here.",
     bestFor: "Buyers who want the most refined edge-cleaning and multi-floor mapping and are willing to pay for it.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["LiDAR navigation", "10,000Pa suction", "Vacuum and mop combo", "Self-empty compatible"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Self-empty compatible"}],
     description:
       "The Q10 S5+ steps down from the Qrevo line in price while keeping 10,000Pa of suction, which is well above what most carpet-heavy homes actually need from a robot vacuum. LiDAR navigation handles the room mapping and path planning, letting it clean in efficient rows instead of the random bounce pattern of older bump-sensor robots.\n\nAs with every model here, strong suction and accurate mapping do not automatically mean strong obstacle avoidance. Homes with pets or young kids should confirm this specific model's sensor setup for detecting cords and small objects before buying rather than assuming LiDAR alone covers it.",
     bestFor: "Homes with mixed carpet and hard flooring that want strong suction with efficient LiDAR path planning.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Well-reviewed on Amazon",
     specs: ["Home mapping", "Matrix Clean pattern", "30-day HEPA self-empty base", "Bagless design"],
+    specList: [{"label":"Connectivity","value":"Home mapping"},{"label":"Feature 2","value":"Matrix Clean pattern"},{"label":"Suction Power","value":"30-day HEPA self-empty base"},{"label":"Collection","value":"Bagless design"}],
     description:
       "The Shark AV2501S uses home mapping combined with a Matrix Clean pattern designed to catch pet hair along edges and in corners, backed by a self-empty base rated for roughly 30 days of capacity with a HEPA filter and no bag to replace. That combination is aimed squarely at pet owners who do not want to empty a bin every few days.\n\nShark markets this model around AI-assisted cleaning decisions layered on top of its mapping, but as with any mapping-based robot, that is separate from dedicated small-object avoidance. Households with pet waste risk should still verify sensor-based obstacle detection rather than relying on the mapping system alone.",
     bestFor: "Pet owners who want a bagless, HEPA-filtered self-empty base and less frequent maintenance.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["LiDAR navigation", "10000Pa max suction", "App-based mapping", "Budget price point"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Connectivity","value":"App-based mapping"},{"label":"Feature 4","value":"Budget price point"}],
     description:
       "The ILIFE A30s brings LiDAR-based mapping and a 10,000Pa max suction rating in at under $150, undercutting most of the other LiDAR models we researched in this comparison by a wide margin. For buyers who mainly want accurate room mapping and solid suction without self-emptying or mopping extras, this is the most budget-friendly way to get there.\n\nAt this price point, expect fewer refinements around low-light navigation and obstacle handling compared to the premium models here. It is a reasonable starting point for a smaller home or apartment rather than a large, cluttered multi-room house.",
     bestFor: "Budget-focused buyers who want real LiDAR mapping without paying for self-emptying or mopping features.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["190° PSD obstacle avoidance", "450ml visible dustbin", "Multi-floor mapping", "150 min runtime"],
+    specList: [{"label":"Feature 1","value":"190° PSD obstacle avoidance"},{"label":"Feature 2","value":"450ml visible dustbin"},{"label":"Connectivity","value":"Multi-floor mapping"},{"label":"Feature 4","value":"150 min runtime"}],
     description:
       "The Lefant M330 Pro is built around a 190-degree PSD obstacle avoidance sensor as its headline feature, which is a meaningful distinction in this comparison since most listings emphasize mapping accuracy while leaving obstacle detection as an afterthought. This model puts that capability front and center, aimed at homes with pets, cords, and everyday clutter on the floor.\n\nIt pairs that sensor with multi-floor mapping and a visible 450ml dustbin, though it lacks a self-emptying base, so it is a better fit for smaller homes where manual emptying every few runs is not a hassle.",
     bestFor: "Homes with pets, cords, or regular floor clutter that want dedicated obstacle detection, not just mapping.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Well-reviewed on Amazon",
     specs: ["LiDAR navigation", "10000Pa suction", "Self-empty base up to 7-9 weeks", "Vacuum and mop combo"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"10000Pa suction"},{"label":"Feature 3","value":"Self-empty base up to 7-9 weeks"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "The Q7 M5+ pairs LiDAR mapping with a self-empty base rated for up to 7 to 9 weeks between bag changes, which is longer than most self-empty models we researched in this comparison. That makes it a lower-maintenance option than the Tikom or Shark picks above for buyers who do not want to think about the base often.\n\nSuction is rated at 10,000Pa, in line with other mid-range roborock models here, and mapping speed benefits from the same LiDAR turret used across the lineup. As always, treat mapping accuracy and obstacle avoidance as two separate specs worth checking individually.",
     bestFor: "Buyers who want self-emptying convenience with the longest stretch between bag changes in this comparison.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["LiDAR navigation", "7000Pa suction", "5 editable maps", "180 min runtime"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"7000Pa suction"},{"label":"Feature 3","value":"5 editable maps"},{"label":"Feature 4","value":"180 min runtime"}],
     description:
       "The MONSGA is the least expensive LiDAR-mapped model in this comparison by a wide margin, and it still offers 5 editable maps for multi-room or multi-floor use along with app, remote, and voice control. For buyers who mainly want basic LiDAR mapping without a self-empty base or premium mopping hardware, this is the entry point.\n\nAt this price, expect a simpler sensor package overall, so mapping accuracy in low light and small-object handling are both worth checking in current owner feedback before relying on it in a cluttered or dimly lit home.",
     bestFor: "Budget buyers who want basic LiDAR mapping and multi-map support without paying for extra hardware.",

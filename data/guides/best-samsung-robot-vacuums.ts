@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "474 reviews",
     specs: ["Clean Station self-empty base", "SmartThings app control", "Object recognition camera", "Multi-surface cleaning"],
+    specList: [{"label":"Feature 1","value":"Clean Station self-empty base"},{"label":"Connectivity","value":"SmartThings app control"},{"label":"Feature 3","value":"Object recognition camera"},{"label":"Feature 4","value":"Multi-surface cleaning"}],
     description:
       "The Jet Bot+ is Samsung's flagship robot vacuum, built around a Clean Station base that empties the onboard dustbin automatically so you are not opening the unit after every run. It connects through the SmartThings app, which is the main reason to pick Samsung over a competitor if you already have Samsung TVs, appliances, or other smart-home devices you want managed from one place.\n\nIts rating sits lower than flagship models from more established robot vacuum brands, and the review count is modest compared to competitors that have been iterating on self-empty designs for longer. Buyers considering this model should weigh the SmartThings convenience against a smaller track record and a price that lands in the same range as more established competitors with longer feature lists.",
     bestFor: "Buyers already invested in the Samsung SmartThings ecosystem who want one app for their whole smart home.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Not yet independently verified",
     reviews: "Rating and review data not confirmed at time of writing",
     specs: ["Intelligent Power Control suction", "Precise navigation mapping", "Anti-hair tangle design", "Multi-surface cleaning for hardwood, carpet, and rugs"],
+    specList: [{"label":"Suction Power","value":"Intelligent Power Control suction"},{"label":"Connectivity","value":"Precise navigation mapping"},{"label":"Design","value":"Anti-hair tangle design"},{"label":"Material","value":"Multi-surface cleaning for hardwood, carpet, and rugs"}],
     description:
       "The standard Jet Bot drops the self-emptying Clean Station and its higher price tag, leaving a more conventional robot vacuum that still runs on Samsung's Intelligent Power Control system to adjust suction based on floor type. It is built for anti-hair tangle performance across hardwood, carpet, and rugs, which covers most single-level homes without needing a dedicated docking station that empties itself.\n\nBecause this model has not accumulated a large, verifiable base of ratings and reviews at the time of writing, we cannot cite a specific star rating or review count with confidence the way we can for the Jet Bot+. Treat it as the budget-conscious entry point into Samsung's ecosystem rather than a flagship pick, and check current listing pages for up-to-date review data before buying.",
     bestFor: "Samsung ecosystem buyers who want a lower price and do not need a self-emptying base.",

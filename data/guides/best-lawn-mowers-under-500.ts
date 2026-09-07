@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A $500 ceiling still spans push electric mowers under $250, self-propelled electric mowers near $450, and gas self-propelled mowers in between, so the format you get for the money varies far more than the price alone suggests. Instead of ranking by price, we grouped these six current models by what a buyer actually gives up or gains as the price climbs from around $250 toward the $500 line.",
   "We compared deck width, propulsion, power source, and the complete price of what ships in the box (battery and charger included, or gas engine ready to start) against buyer ratings and review volume, so you can see where the extra spending actually buys capability rather than just a bigger number on the listing.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "ego-lm2114", rank: 1, badge: "Best Overall", name: "EGO Power+ LM2114 21-Inch Cordless Mower",
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "Battery and charger included", "Push drive", "No gas or cords"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"},{"label":"Feature 4","value":"No gas or cords"}],
     description: "The EGO Power+ LM2114 pairs a full 21-inch deck with a battery and charger included in the box, so there is no separate pack to buy before the first mow. Amazon shoppers rate it 4.5 out of 5 across roughly 2,160 reviews, one of the strongest ratings among the mowers here, though at $399.00 it sits well above the cheapest push electrics in this guide.\n\nBecause it has no self-propel drive, pushing effort on flat lawns is light but rises noticeably on slopes or thick grass compared to the self-propelled options below. It is the mower to choose when a full-width electric deck and a genuinely complete included battery kit matter more than drive assistance.",
     bestFor: "standard-size flat lawns where a full-width electric deck and complete included battery kit matter more than self-propel",
     pros: ["21-inch deck covers ground faster than the 16-inch models here", "Battery and charger included, no separate pack purchase", "Rated 4.5 out of 5 across roughly 2,160 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "4.0Ah battery and charger included", "Push drive", "Lightest mower in this guide"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Battery","value":"4.0Ah battery and charger included"},{"label":"Drive Type","value":"Push drive"},{"label":"Lighting","value":"Lightest mower in this guide"}],
     description: "At $249.99, the Greenworks 40V 16-Inch is the least expensive complete, ready-to-mow option in this comparison, and it is also the most reviewed, with roughly 12,116 ratings averaging 4.2 out of 5. The included 4.0Ah battery and charger mean there is nothing else to add before the first cut.\n\nThe narrower 16-inch deck means more passes on a medium or large lawn compared to the 21-inch electric and gas mowers ranked above and below it, and there is no self-propel assistance. It fits buyers with a small, flat lawn or anyone already using Greenworks 40V tools who wants to share a battery platform.",
     bestFor: "small flat lawns and buyers already invested in the Greenworks 40V battery platform",
     pros: ["Lowest complete price in this guide at $249.99", "Most-reviewed mower here, roughly 12,116 ratings at 4.2 out of 5", "Battery and charger included, nothing else to buy"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "80V 4.0Ah battery and charger included", "Self-propelled", "Highest price in this guide under $500"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4.0Ah battery and charger included"},{"label":"Lighting","value":"Self-propelled"},{"label":"Feature 4","value":"Highest price in this guide under $500"}],
     description: "The Greenworks 80V 21-Inch is the most expensive mower in this guide that still stays under the $500 line, at $449.99, and it is the only self-propelled electric mower here. It shares the 4.5 out of 5 rating of the top-ranked EGO, though with a smaller review base of roughly 586 ratings.\n\nSelf-propel reduces pushing effort on slopes and larger flat lawns, but the drive motor draws from the same 80V pack that powers the blade, so runtime on a single charge is worth checking against the size of the lawn before buying. This is the mower for buyers who want electric power and self-propel together without moving into gas.",
     bestFor: "medium to larger lawns where self-propel assistance matters and gas is not wanted",
     pros: ["Only self-propelled electric mower in this guide", "21-inch deck with battery and charger included", "Rated 4.5 out of 5 across roughly 586 reviews"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DX6X3X8N?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41kuicC5zCL._SL500_.jpg", price: "$299.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["22-inch deck", "170cc gas engine", "Self-propelled", "No battery or charging needed"],
+    specList: [{"label":"Size","value":"22-inch deck"},{"label":"Feature 2","value":"170cc gas engine"},{"label":"Lighting","value":"Self-propelled"},{"label":"Battery","value":"No battery or charging needed"}],
     description: "The PowerSmart 22-Inch is a gas self-propelled mower at $299.99, priced below every electric self-propelled mower in this guide while offering the widest deck here at 22 inches. It carries a 4.2 out of 5 rating across roughly 936 reviews.\n\nGas power avoids battery cost and charging time entirely, but it adds fuel, oil changes, spark plug and air filter service, and seasonal starting maintenance that electric mowers do not need. It suits buyers who want self-propel and a wide deck at a lower upfront price and are comfortable with routine small-engine maintenance.",
     bestFor: "buyers wanting self-propel and the widest deck in this guide at a lower price than electric self-propelled options",
     pros: ["Widest deck in this guide at 22 inches", "Self-propelled at a lower price than the electric self-propelled option here", "No battery to buy or charge"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H4QT361L?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41ZbkBDwx+L._SL500_.jpg", price: "$283.49",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "170cc OHV gas engine", "Rear-wheel drive self-propelled", "6-position cutting height"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"170cc OHV gas engine"},{"label":"Wheels","value":"Rear-wheel drive self-propelled"},{"label":"Adjustability","value":"6-position cutting height"}],
     description: "This PowerSmart 21-Inch is built around rear-wheel drive, which generally holds traction better on slopes and uneven terrain than front-wheel drive self-propelled mowers. At $283.49 it undercuts the wider 22-inch PowerSmart above it, and it holds a 4.1 out of 5 rating across roughly 1,046 reviews, the second-most-reviewed mower in this guide.\n\nThe 6-position height adjustment and 3-in-1 mulching, bagging, and discharge capability add flexibility that the push electric mowers in this guide do not offer. As with any gas mower, fuel and routine small-engine service are ongoing costs the electric options avoid.",
     bestFor: "hilly or uneven medium-size yards where rear-wheel drive traction matters",
     pros: ["Rear-wheel drive suited to slopes and uneven terrain", "6-position height and 3-in-1 mulching, bagging, discharge", "Rated 4.1 out of 5 across roughly 1,046 reviews"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0C53MG5L6?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41rfkPV0N-L._SL500_.jpg", price: "$319.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch steel deck", "170cc OHV gas engine", "Rear-wheel drive self-propelled", "3-in-1 mulching, bagging, discharge"],
+    specList: [{"label":"Size","value":"21-inch steel deck"},{"label":"Feature 2","value":"170cc OHV gas engine"},{"label":"Wheels","value":"Rear-wheel drive self-propelled"},{"label":"Collection","value":"3-in-1 mulching, bagging, discharge"}],
     description: "This PowerSmart 21-Inch shares the 170cc OHV engine and rear-wheel drive layout of the hills-focused model above it, but at $319.99 it costs more while carrying the lowest rating in this guide, 4.0 out of 5 across roughly 449 reviews, the smallest review base here as well.\n\nThe steel deck is durable but adds weight compared to the alloy deck used on the hills-focused PowerSmart, and the feature set otherwise overlaps closely with that mower. It is worth considering mainly if the steel deck construction or a specific retailer price makes it the better deal at the time of purchase.",
     bestFor: "buyers who specifically want a steel deck gas self-propelled mower and have compared it against the similarly equipped alloy-deck PowerSmart above",
     pros: ["Steel deck construction", "3-in-1 mulching, bagging, and discharge capability", "Rear-wheel drive self-propelled"],

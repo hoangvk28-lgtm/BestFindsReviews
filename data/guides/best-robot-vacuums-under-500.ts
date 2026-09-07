@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "Widely praised",
     reviews: "a large number of reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "Self-empty compatible dock", "App room mapping"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-empty compatible dock"},{"label":"Connectivity","value":"App room mapping"}],
     description:
       "The Q10 S5+ pairs 10,000Pa suction with a combined vacuum-and-mop head, which is the combination that defines this price tier: strong enough suction for daily pet hair and debris, plus a mop function that would have been a separate purchase at a lower price point. It comes bundled with a self-empty compatible dock, so the base station is not an added-cost accessory here.\n\nApp-based room mapping lets you set no-go zones and target specific rooms, a feature that is often missing or limited at sub-$150 price points. For buyers upgrading from an older bump-and-turn model, this is the kind of jump in capability that under-$500 money should buy.",
     bestFor: "Buyers who want a genuine vacuum-and-mop combo with a bundled dock and real room mapping without spending close to $500.",
@@ -65,6 +67,7 @@ export const products: GuideProduct[] = [
     rating: "Generally well regarded",
     reviews: "a substantial number of reviews",
     specs: ["Matrix Clean navigation", "30-day capacity self-empty base", "HEPA bagless bin", "Home mapping"],
+    specList: [{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Capacity","value":"30-day capacity self-empty base"},{"label":"Collection","value":"HEPA bagless bin"},{"label":"Connectivity","value":"Home mapping"}],
     description:
       "The AV2501S is built around a self-empty base with a 30-day capacity HEPA bagless bin, which matters a lot for pet-hair-heavy households since it means fewer manual bin emptyings and less allergen exposure than a bagged system. Matrix Clean navigation is Shark's grid-pattern coverage approach, aimed at consistent full-floor cleaning rather than random bouncing.\n\nHome mapping lets you review cleaning history by room. This model does not include mopping, so it is a stronger fit for households that want maximum vacuum performance and self-emptying convenience over an all-in-one mop combo.",
     bestFor: "Pet owners who want a bagless self-empty base and consistent grid-pattern coverage without paying for mopping they will not use.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "Strong reception",
     reviews: "a solid volume of reviews",
     specs: ["FlexiArm Edge mopping", "Vacuum and mop combo", "LiDAR-based navigation", "Auto-lift mop"],
+    specList: [{"label":"Mopping","value":"FlexiArm Edge mopping"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Navigation","value":"LiDAR-based navigation"},{"label":"Feature 4","value":"Auto-lift mop"}],
     description:
       "The Qrevo S5V sits right at the top of the under-$500 tier and it shows in the feature set: a FlexiArm that extends the mop pad out to reach along edges and into corners, a mechanism that vacuum-only or basic combo units simply do not have. LiDAR-based navigation gives it more reliable mapping in complex layouts than the vSLAM camera-based navigation found on cheaper models.\n\nThis is the closest model in this guide to what you would get by stepping up to a genuinely premium flagship, minus the auto-mop-washing dock that starts appearing well above $500. If your budget caps out near this price, it is the strongest capability-per-dollar pick here.",
     bestFor: "Buyers at the top of a $500 budget who want edge-reaching mopping and LiDAR navigation before stepping into flagship pricing.",
@@ -113,6 +117,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently favorable",
     reviews: "a very large number of reviews",
     specs: ["Super-slim profile", "Quiet operation", "Vacuum-only", "Basic auto-charge"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Feature 4","value":"Basic auto-charge"}],
     description:
       "The 11S MAX skips mopping and app-based mapping entirely, and its low profile is the tradeoff that buys: it slides under furniture that boxier combo units cannot reach, including low bed frames and cabinet toe-kicks. Quiet operation makes it a reasonable pick for daytime cleaning in homes with light sleepers or home offices.\n\nAt this price it does not have the navigation sophistication of the LiDAR or camera-mapped models higher in this list, relying on simpler sensor-based bump navigation instead. It is best understood as a specialist pick for furniture clearance rather than a direct competitor to the mapped combo units above it.",
     bestFor: "Homes with low furniture clearance where a slim profile matters more than mopping or advanced mapping.",
@@ -137,6 +142,7 @@ export const products: GuideProduct[] = [
     rating: "Well liked",
     reviews: "a healthy number of reviews",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "App control", "Auto-charge and resume"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"Auto-charge and resume"}],
     description:
       "The Q7 L5 brings 8,000Pa suction and a mop attachment into the sub-$150 range, undercutting the Q10 S5+ above it while still offering the core vacuum-and-mop combo that defines this guide's price tier. App control covers scheduling and basic zone selection, though it lacks the more advanced no-go-zone mapping of the pricier Roborock models here.\n\nFor buyers who want the combo functionality without paying near the top of the budget, this is the clearest value tradeoff: slightly less suction and mapping precision in exchange for a meaningfully lower price.",
     bestFor: "Buyers who want vacuum-and-mop combo functionality at the lower end of this price tier.",
@@ -160,6 +166,7 @@ export const products: GuideProduct[] = [
     rating: "Generally positive",
     reviews: "a large number of reviews",
     specs: ["120-minute runtime", "Slim profile", "Wi-Fi, app, and Alexa control", "Auto self-charging"],
+    specList: [{"label":"Feature 1","value":"120-minute runtime"},{"label":"Feature 2","value":"Slim profile"},{"label":"Connectivity","value":"Wi-Fi, app, and Alexa control"},{"label":"Feature 4","value":"Auto self-charging"}],
     description:
       "The M210 is a straightforward vacuum-only unit with a 120-minute runtime and Wi-Fi, app, and Alexa compatibility, giving it smart-home integration that undercuts most models near its price. Its slim profile also helps with furniture clearance, similar in spirit to the eufy 11S MAX above but at a noticeably lower cost.\n\nThis is the entry point of this guide's range rather than its centerpiece: it does not mop and its navigation is simpler than the mapped models here, but it covers the basics of daily vacuuming reliably for buyers who mainly want voice and app control on a tight budget.",
     bestFor: "Budget-focused buyers who mainly want reliable daily vacuuming with app and Alexa control.",
@@ -184,6 +191,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed",
     reviews: "a solid number of reviews",
     specs: ["Tangle-free suction design", "Vacuum-only", "Auto-charge", "Compact bin"],
+    specList: [{"label":"Design","value":"Tangle-free suction design"},{"label":"Feature 2","value":"Vacuum-only"},{"label":"Feature 3","value":"Auto-charge"},{"label":"Feature 4","value":"Compact bin"}],
     description:
       "The V2 is the least expensive model in this comparison and keeps things simple: tangle-free suction intake to reduce hair wrap on the brush roll, auto-charge return, and no mopping or app-based room mapping. It is a reasonable entry point for a first robot vacuum or a secondary unit for a smaller room.\n\nBuyers should set expectations accordingly: this is a basic bump-navigation vacuum, not a mapped combo unit, and its compact bin needs more frequent emptying than the larger-capacity models higher on this list.",
     bestFor: "First-time buyers or a low-cost secondary unit for a single room, where mopping and mapping are not priorities.",
@@ -207,6 +215,7 @@ export const products: GuideProduct[] = [
     rating: "Positively received",
     reviews: "a good number of reviews",
     specs: ["5,000Pa suction", "Vacuum and mop combo", "150-minute max runtime", "App and remote control"],
+    specList: [{"label":"Suction Power","value":"5,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"150-minute max runtime"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "The G8000 Max offers a vacuum-and-mop combo with a 150-minute max runtime, the longest single-charge runtime among the vacuum-only and combo budget picks in this guide, useful for larger open hard-floor layouts. Both app and physical remote control are included, which is a convenient fallback if you would rather not rely on a phone for basic runs.\n\nSuction sits lower at 5,000Pa compared to the Roborock combo units above it, so it is better suited to hard floors and light carpet than deep-pile rugs or heavy pet hair. It rounds out this list as the budget-combo option for buyers who specifically want mopping without paying Roborock or Shark combo pricing.",
     bestFor: "Hard-floor-heavy homes that want a budget vacuum-and-mop combo with a long single-charge runtime.",

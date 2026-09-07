@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,798 reviews",
     specs: ["20,000Pa suction", "Vacuum and mop combo", "App and voice control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"20,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and voice control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The D20 Air Plus leads this comparison with 20,000Pa of rated suction, which is well above most of the field here and gives it more margin for pulling fine dust and sand out of hardwood seams instead of pushing it around. It combines vacuuming and mopping in one pass, which suits an open hardwood floor plan where you want both jobs done without swapping attachments.\n\nIt carries the strongest verified rating and review base of any model in this guide, which matters on hardwood specifically since owner feedback tends to flag scratching or streaking issues quickly if they happen. Check recent reviews for how it handles mop water on your specific flooring before running it unattended on a full house.",
     bestFor: "Buyers who want the strongest all-around suction and mopping combo with the most established owner feedback.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Highly rated by owners",
     reviews: "Large base of customer reviews",
     specs: ["Matrix Clean home mapping", "30-day self-empty base", "HEPA bagless bin", "Wifi app control"],
+    specList: [{"label":"Connectivity","value":"Matrix Clean home mapping"},{"label":"Feature 2","value":"30-day self-empty base"},{"label":"Collection","value":"HEPA bagless bin"},{"label":"Feature 4","value":"Wifi app control"}],
     description:
       "The AV2501S uses Matrix Clean mapping to plan a systematic route across a floor plan rather than a random bounce pattern, which tends to mean fewer missed corners along baseboards on hardwood. The 30-day capacity self-empty base means less time spent handling a dust bin full of fine hardwood dust and pet hair.\n\nThis is the most expensive model in this comparison, and the self-empty base adds counter or floor footprint most competitors here do not need. It is worth the premium mainly for larger hardwood floor plans where mapping and long autonomy actually get used.",
     bestFor: "Larger hardwood floor plans where mapping accuracy and long self-empty autonomy justify a higher price.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Well-reviewed by buyers",
     reviews: "Strong customer feedback",
     specs: ["10,000Pa suction", "Combo vacuum and mop", "Roborock app support", "Self-charging dock"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Combo vacuum and mop"},{"label":"Connectivity","value":"Roborock app support"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "Roborock's Q10 S5+ pairs a respectable 10,000Pa suction rating with the brand's longer track record in mopping hardware, which tends to show up as more even mop pad pressure on hardwood rather than streaks left by uneven water release. That consistency matters more on hard floors than on carpet, where mopping is not a factor at all.\n\nAt the same price as the Shark AV2501S, it skips the self-empty base in favor of putting the budget into the cleaning mechanism itself. Check recent reviews for how the mop water shutoff behaves near rugs or transition strips if your hardwood connects to other flooring.",
     bestFor: "Hardwood-heavy homes where consistent mopping matters more than a self-empty base.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Positive reviews from buyers",
     reviews: "Consistent customer feedback",
     specs: ["10,000Pa suction", "Self-empty base, up to 7-9 weeks", "Vacuum and mop combo", "App control"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Feature 2","value":"Self-empty base, up to 7-9 weeks"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"}],
     description:
       "The Q7 M5+ matches the Q10 S5+ on suction but adds a self-empty base rated for up to 7 to 9 weeks between manual bin changes, which is a real convenience gain on hardwood where fine dust otherwise means frequent emptying. It sits at the top of the price range in this comparison, just above the Shark AV2501S.\n\nBecause the self-empty base handles more of the fine debris hardwood floors tend to produce, wheel and brush grit buildup gets less chance to accumulate between services. Check recent reviews for how the base handles pet hair specifically if that is a factor in your home.",
     bestFor: "Buyers who want self-emptying convenience alongside roborock's mopping consistency.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Solid ratings from owners",
     reviews: "Long-standing review history",
     specs: ["Super-slim profile", "Quiet operation", "Vacuum only, no mop", "Self-charging"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Mopping","value":"Vacuum only, no mop"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The 11S MAX is a vacuum-only model with a notably slim profile, which lets it reach under low furniture and baseboard heaters that block bulkier robots on a hardwood floor. It is also one of the quietest options here, which matters if it runs while the household is home.\n\nWithout a mop function, it will not address sticky spots or light film on hardwood, so it works best paired with occasional manual mopping rather than as a full replacement. It has one of the longer track records on the market among the models in this guide.",
     bestFor: "Homes with low-clearance furniture where a slim, quiet vacuum-only robot fits best.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed by customers",
     reviews: "Growing base of customer feedback",
     specs: ["Self-emptying base", "Vacuum and mop combo", "App control", "Self-charging dock"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "This Tikom model brings a self-empty base in under the price of both roborock self-empty options here, making it the more accessible route to that convenience feature on a hardwood floor. It combines vacuuming and mopping in one unit, similar to the higher-priced picks in this guide.\n\nAs a newer entrant relative to the eufy and roborock lines, its long-term reliability track record is shorter. Check recent reviews for wheel and brush grit buildup over extended use, since that is a common wear point that can affect hardwood finishes on any budget model.",
     bestFor: "Buyers who want self-empty convenience without paying roborock or Shark pricing.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Well received by customers",
     reviews: "Steady stream of customer reviews",
     specs: ["5200Pa suction", "Vacuum and mop combo", "App control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"5200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The ROPVACNIC combo offers both vacuuming and mopping at a price well under the mid-tier models in this guide, with a 5200Pa suction rating that is modest compared to the D20 Air Plus but workable for routine hardwood dust and debris rather than heavy embedded dirt.\n\nAt this price tier, listings tend to say less about hardwood-specific safeguards like grit-aware wheel design, so check recent reviews for scratching reports before running it unattended on a finish you care about.",
     bestFor: "Budget-focused buyers who want combined vacuum and mop coverage without premium pricing.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Positively rated by owners",
     reviews: "Established base of customer reviews",
     specs: ["120-minute runtime", "Slim profile", "Vacuum only, no mop", "Wifi, app, and Alexa control"],
+    specList: [{"label":"Feature 1","value":"120-minute runtime"},{"label":"Feature 2","value":"Slim profile"},{"label":"Mopping","value":"Vacuum only, no mop"},{"label":"Connectivity","value":"Wifi, app, and Alexa control"}],
     description:
       "The M210 is the least expensive model in this guide and a vacuum-only design, with a 120-minute runtime and a slim body suited to daily upkeep on hardwood rather than deep cleaning. It supports app and Alexa control, which is a feature not every budget model in this price range includes.\n\nWithout a mop function or a published suction figure, it is best treated as a maintenance-level pick for light daily dust and pet hair on hardwood, paired with periodic manual mopping rather than a single do-everything solution.",
     bestFor: "Buyers on a tight budget who want daily light-duty hardwood upkeep without a mop function.",

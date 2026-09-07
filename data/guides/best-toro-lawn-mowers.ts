@@ -11,13 +11,15 @@ export const introParagraphs = [
   "The Toro mower range covers compact walk-behinds, wide-deck models, and zero-turn machines. The two picks here solve very different jobs: the 21-inch Recycler is easier around beds and gates, while the 30-inch eTimeMaster reduces passes on larger open lawns.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "toro-60v-recycler", rank: 1, badge: "Best Overall", name: "Toro 60V 21-Inch Recycler Push Mower",
     amazonUrl: "https://www.amazon.com/dp/B0CPH8G8DY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31l8LBDrn1L._SL500_.jpg", price: "$297.33",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch Recycler deck","60V platform","Push drive","Battery and charger sold separately"],
+    specList: [{"label":"Size","value":"21-inch Recycler deck"},{"label":"Power Source","value":"60V platform"},{"label":"Drive Type","value":"Push drive"},{"label":"Battery","value":"Battery and charger sold separately"}],
     description: "Toro 60V 21-Inch Recycler Push Mower combines 21-inch Recycler deck, 60V platform, Push drive. That combination makes it a practical option for Toro owners who already have compatible 60V batteries.\n\nThe battery and charger are sold separately, so first-time platform cost is higher than the mower-only price. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "Toro owners who already have compatible 60V batteries",
     pros: ["21-inch Recycler deck","60V platform","Push drive"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DQRM42BB?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Qaa8K32DL._SL500_.jpg", price: "$1,499.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["30-inch deck","60V platform","Personal Pace drive","Battery and charger sold separately"],
+    specList: [{"label":"Size","value":"30-inch deck"},{"label":"Power Source","value":"60V platform"},{"label":"Drive Type","value":"Personal Pace drive"},{"label":"Battery","value":"Battery and charger sold separately"}],
     description: "Toro 60V 30-Inch eTimeMaster combines 30-inch deck, 60V platform, Personal Pace drive. That combination makes it a practical option for larger walk-behind lawns where fewer passes justify the width.\n\nThe wide deck is heavier, and batteries add substantially to the mower-only price. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "larger walk-behind lawns where fewer passes justify the width",
     pros: ["30-inch deck","60V platform","Personal Pace drive"],

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "31,448 reviews",
     specs: ["Vacuum-only cleaning", "Self-charging dock", "Wi-Fi and app control", "iRobot Roomba lineup"],
+    specList: [{"label":"Feature 1","value":"Vacuum-only cleaning"},{"label":"Feature 2","value":"Self-charging dock"},{"label":"Connectivity","value":"Wi-Fi and app control"},{"label":"Feature 4","value":"iRobot Roomba lineup"}],
     description:
       "The Roomba 105 Vac is the entry point into iRobot's current lineup, carrying the brand's long track record into a vacuum-only design that skips mopping entirely to keep the price under $200. It brings app and Wi-Fi control along with a self-charging dock, so daily scheduling and monitoring work the same way they do on pricier Roomba models.\n\nWith the highest review count and rating of any product in this comparison, it is the safest pick for buyers who want proven reliability over a longer feature list. It does not include LiDAR mapping or a self-empty dock, both of which are typically reserved for models well above $200.",
     bestFor: "Buyers who want the most trusted brand name and a straightforward vacuum-only routine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Positively rated by owners",
     reviews: "A well-reviewed budget pick",
     specs: ["Tangle-free suction", "Compact low-profile body", "Gyroscope-based navigation", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction"},{"label":"Design","value":"Compact low-profile body"},{"label":"Navigation","value":"Gyroscope-based navigation"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The ILIFE V2 is the least expensive product in this comparison by a wide margin, and it keeps things simple: no mopping, no LiDAR mapping, just basic tangle-free suction and a compact body that fits under most low furniture. ILIFE has built a reputation on stripped-down budget vacuums, and the V2 continues that approach.\n\nAt this price, navigation is gyroscope-based rather than mapped, so cleaning paths are less systematic than on pricier models. For buyers who mainly want automated daily suction on hard floors and low-pile carpet without paying for extras, it is the clearest entry point in this guide.",
     bestFor: "Buyers on the tightest end of this budget who just want basic automated suction.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently well-rated by owners",
     reviews: "A frequently purchased budget option",
     specs: ["120 min max runtime", "Slim, low-noise design", "Wi-Fi, app, and Alexa control", "Automatic self-charging"],
+    specList: [{"label":"Feature 1","value":"120 min max runtime"},{"label":"Design","value":"Slim, low-noise design"},{"label":"Connectivity","value":"Wi-Fi, app, and Alexa control"},{"label":"Feature 4","value":"Automatic self-charging"}],
     description:
       "The Lefant M210 pairs strong suction with a slim profile built to slide under couches and low cabinets where pet hair tends to collect. It supports Wi-Fi, app, and Alexa voice control, which is a notable feature set to find under $100 in this category.\n\nRuntime is rated up to 120 minutes per charge, and the unit returns to its dock automatically once battery runs low. Like the other budget entries here, it relies on gyroscope-style navigation rather than a mapped LiDAR system, so expect a less systematic cleaning pattern than on higher-tier models.",
     bestFor: "Pet owners who want low-noise operation and voice control without spending near $200.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Well received by owners",
     reviews: "A popular combo pick in this price range",
     specs: ["5000Pa suction", "150 min max runtime", "App and remote control", "Vacuum and mop combo"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Feature 2","value":"150 min max runtime"},{"label":"Connectivity","value":"App and remote control"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "The Tikom G8000 Max is one of the few products in this comparison that combines vacuuming and mopping in one unit while still staying comfortably under $200. Rated at 5000Pa suction and up to 150 minutes of runtime, it targets hard floors, carpet, and pet hair in a single pass.\n\nBoth app and physical remote control are included, which adds flexibility for households that do not always want to reach for a phone. As with the other combo units here, expect basic gyroscope navigation rather than a full room map, and the mopping function is a light pass rather than a scrubbing mop.",
     bestFor: "Buyers who want vacuum and mop in one machine without moving into the $300-plus tier.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Positively rated by early owners",
     reviews: "A newer entrant gaining reviews",
     specs: ["5200Pa suction", "Vacuum and mop combo", "Self-charging dock", "App-based scheduling"],
+    specList: [{"label":"Suction Power","value":"5200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Connectivity","value":"App-based scheduling"}],
     description:
       "The ROPVACNIC combo leads this comparison on rated suction power at 5200Pa, which is a meaningful jump over the lower-suction budget options here for buyers dealing with thicker carpet or heavier pet hair. It also mops in the same pass, using a shared water and dust setup common to combo units in this price band.\n\nAs a newer entrant to the category, it has a smaller review history than the more established names in this guide, so buyers weighing brand track record against raw suction numbers will want to factor that in.",
     bestFor: "Buyers prioritizing raw suction power on carpet who are comfortable with a newer brand.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Strongly rated by owners",
     reviews: "A trusted name in this price range",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "roborock app ecosystem", "Self-charging dock"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"roborock app ecosystem"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "Roborock is one of the more established names in robot vacuums, and the Q7 L5 brings that brand recognition down under $140 with a rated 8,000Pa of suction, the highest figure in this entire comparison. It combines vacuuming and mopping and connects to roborock's broader app ecosystem, which tends to be more polished than lesser-known budget brands.\n\nEven with the recognizable name, this model still sits below the LiDAR-mapping, self-empty-dock tier that roborock's pricier lines offer, so treat it as an entry point into the brand rather than a flagship experience.",
     bestFor: "Buyers who want a recognized robot vacuum brand without paying flagship pricing.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Reliably rated by long-term owners",
     reviews: "A long-running, widely purchased model",
     specs: ["Super-slim profile", "Quiet operation", "Vacuum-only cleaning", "Self-charging"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Vacuum-only cleaning"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The eufy 11S MAX is built around a super-thin body designed to slide under sofas, beds, and cabinets that block bulkier robot vacuums. eufy has kept this model in its lineup for years, which gives it one of the longer real-world track records among current sub-$200 options.\n\nIt is vacuum-only with no mopping function, and like the rest of this list it uses gyroscope-based navigation rather than LiDAR mapping. At the top of this guide's price range, it trades some suction headroom for its slim design and quiet operation, which matters more in bedrooms or offices than in heavily trafficked living rooms.",
     bestFor: "Tight spaces under low furniture where a standard-height robot vacuum will not fit.",

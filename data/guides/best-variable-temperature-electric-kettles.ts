@@ -22,6 +22,7 @@ export interface GuideProduct {
   imageUrl: string;
   price: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -38,6 +39,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41IzXCLbWnL._SL500_.jpg",
     price: "$108.80",
     specs: ["1.7L capacity", "Six presets", "30-minute keep warm", "Two-minute lift-off memory", "Three-year limited warranty"],
+    specList: [{"label":"Capacity","value":"1.7L capacity"},{"label":"Presets","value":"Six presets"},{"label":"Feature 3","value":"30-minute keep warm"},{"label":"Feature 4","value":"Two-minute lift-off memory"},{"label":"Warranty","value":"Three-year limited warranty"}],
     description:
       "The Cuisinart combines six clearly labeled beverage presets with a 1.7-liter capacity, 1500-watt heater, and a dedicated 30-minute keep-warm mode. Official documentation also confirms a two-minute memory window after lifting it from the base, so a quick pour does not immediately cancel the heating process or selected setting.\n\nIt is our most balanced choice for a mixed tea and coffee household because the controls are direct and the removable scale filter has an official replacement part. The limitation is preset-only control rather than one-degree adjustment, and WorthRated has not independently verified how closely each preset tracks its target after shutoff.",
     bestFor: "Households that want simple labeled presets, a large capacity, and strong parts and warranty support.",
@@ -60,6 +62,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31I-qHoZFtL._SL500_.jpg",
     price: "$112.52",
     specs: ["104°F to 212°F range", "One-dial control", "30-minute hold", "1.75L borosilicate glass body", "Removable stainless filter"],
+    specList: [{"label":"Feature 1","value":"104°F to 212°F range"},{"label":"Feature 2","value":"One-dial control"},{"label":"Feature 3","value":"30-minute hold"},{"label":"Feature 4","value":"1.75L borosilicate glass body"},{"label":"Filtration","value":"Removable stainless filter"}],
     description:
       "The OXO replaces preset buttons with a single dial and a broad 104°F to 212°F selection range, making it easier to choose a temperature between the common tea presets. Its 1.75-liter glass body is the largest in this group and gives you a direct view of water level and scale buildup.\n\nThe soft-opening lid, non-slip handle, and removable filter make it a practical full-size kettle rather than a specialist coffee tool. Glass adds visibility but also more filled weight and breakage risk than a stainless body, and the listing does not establish independent accuracy at every selectable temperature.",
     bestFor: "Buyers who want broad temperature adjustment and full-size capacity without a gooseneck spout.",
@@ -82,6 +85,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31PAjKjTdSL._SL500_.jpg",
     price: "$179.95",
     specs: ["0.9L capacity", "To-the-degree control", "15 to 60-minute adjustable hold", "Gooseneck spout", "Two-year standard warranty"],
+    specList: [{"label":"Capacity","value":"0.9L capacity"},{"label":"Feature 2","value":"To-the-degree control"},{"label":"Adjustability","value":"15 to 60-minute adjustable hold"},{"label":"Feature 4","value":"Gooseneck spout"},{"label":"Warranty","value":"Two-year standard warranty"}],
     description:
       "The Stagg EKG Pro is the most configurable kettle here, with to-the-degree selection, a gooseneck spout, brew timer, scheduling, altitude settings, and hold periods of 15, 30, 45, or 60 minutes. Fellow documentation confirms that Guide Mode can display beverage suggestions while you select a temperature.\n\nThose features make sense for careful pour-over routines, but the narrow spout is slower for filling a teapot, saucepan, or large mug. It also costs substantially more than the Cosori gooseneck and holds only 0.9 liter, while its precise temperature-performance claim has not been independently measured by WorthRated.",
     bestFor: "Pour-over users who want fine control, a built-in timer, and configurable hold behavior.",
@@ -104,6 +108,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31uIZeBbrUL._SL500_.jpg",
     price: "$62.99",
     specs: ["0.8L capacity", "Five presets", "One-hour hold", "304 stainless water-contact surfaces", "Gooseneck spout"],
+    specList: [{"label":"Capacity","value":"0.8L capacity"},{"label":"Presets","value":"Five presets"},{"label":"Feature 3","value":"One-hour hold"},{"label":"Feature 4","value":"304 stainless water-contact surfaces"},{"label":"Feature 5","value":"Gooseneck spout"}],
     description:
       "The Cosori offers five one-touch presets and a one-hour hold in a compact 0.8-liter gooseneck design. Its Amazon listing states that hold control stays within 5°F of the selected temperature and that the interior, lid, and spout use food-grade 304 stainless steel.\n\nIt is the stronger value for someone who wants controlled pour-over flow without paying Fellow prices. The tradeoff is preset-only selection, the smallest capacity in this comparison, and a temperature-stability figure that remains manufacturer-claimed rather than WorthRated-measured.",
     bestFor: "Coffee drinkers who prioritize controlled pouring and value over maximum temperature flexibility.",
@@ -126,6 +131,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51Qlj1vnoxL._SL500_.jpg",
     price: "$27.99",
     specs: ["1.8L capacity", "160°F to 212°F presets", "Removable tea infuser", "Glass body", "cETL listed"],
+    specList: [{"label":"Capacity","value":"1.8L capacity"},{"label":"Presets","value":"160°F to 212°F presets"},{"label":"Feature 3","value":"Removable tea infuser"},{"label":"Feature 4","value":"Glass body"},{"label":"Feature 5","value":"cETL listed"}],
     description:
       "The Chefman is the lowest-cost eligible kettle returned by the Creators API search while still offering multiple temperatures, a large 1.8-liter body, and a removable loose-leaf infuser. The removable lid creates a wide opening for filling and cleaning, and colored LEDs distinguish standby, heating, and keep-warm states.\n\nIt is a practical entry point for tea drinkers who want presets without spending more than $100. The listing is inconsistent about whether there are five or seven presets, which is a reason to verify the current control panel before buying, and WorthRated found no evidence that it offers one-degree adjustment or persistent settings after a power loss.",
     bestFor: "Budget tea drinkers who want a large glass kettle and a removable infuser.",

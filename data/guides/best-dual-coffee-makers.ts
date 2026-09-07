@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "6,399 reviews",
     specs: ["72oz shared reservoir", "12-cup carafe side", "Single-cup pod side", "Brew over ice"],
+    specList: [{"label":"Color/Finish","value":"72oz shared reservoir"},{"label":"Capacity","value":"12-cup carafe side"},{"label":"Feature 3","value":"Single-cup pod side"},{"label":"Feature 4","value":"Brew over ice"}],
     description:
       "The K-Duo is a single-cup-plus-carafe dual machine, not a pods-plus-grounds one. The pod side brews K-Cups only, and the 12-cup carafe side brews from a basket of ground coffee, each using its own mechanism but sharing one 72oz reservoir. Both sides are genuinely capable rather than one being an afterthought, which is not true of every dual machine in this category.\n\nBecause it packs two separate brewing mechanisms into one housing, it takes up roughly the same counter footprint as a mid-size single-serve machine alone, which is smaller than buying a separate pod machine and a separate carafe brewer. The tradeoff is that a carafe-side failure, such as a stuck valve or a clog in the ground-coffee funnel, can take out that half of the machine while the pod side keeps working, or vice versa.",
     bestFor: "Households that regularly need both a quick single cup and a full pot from the same machine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "12,595 reviews",
     specs: ["Single-serve side", "12-cup carafe side", "K-Cup pod or grounds compatible", "Fast brewing"],
+    specList: [{"label":"Feature 1","value":"Single-serve side"},{"label":"Capacity","value":"12-cup carafe side"},{"label":"Feature 3","value":"K-Cup pod or grounds compatible"},{"label":"Feature 4","value":"Fast brewing"}],
     description:
       "The FlexBrew Trio is also a single-cup-plus-carafe design, and its single-serve side additionally accepts either K-Cup pods or a reusable filter of ground coffee, so it covers more combinations than a simple two-mode machine at a lower price than the K-Duo. That flexibility on the single-cup side is the main reason to pick this over a pricier competitor.\n\nThe carafe side is a standard drip mechanism rather than a premium feature, so buyers expecting carafe performance on par with a dedicated 12-cup drip machine may find it adequate but unremarkable. Per-cup cost on the pod side runs roughly 45 to 65 cents depending on the pod brand, while the carafe side costs closer to 15 to 20 cents per cup using bulk grounds.",
     bestFor: "Buyers who want single-cup and carafe brewing plus the option to skip pods entirely, at a lower price than premium dual models.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "8,046 reviews",
     specs: ["Single-serve pod or ground brewing", "Full carafe brewing", "Rich/over ice brew styles", "Thermal flavor extraction"],
+    specList: [{"label":"Feature 1","value":"Single-serve pod or ground brewing"},{"label":"Capacity","value":"Full carafe brewing"},{"label":"Feature 3","value":"Rich/over ice brew styles"},{"label":"Feature 4","value":"Thermal flavor extraction"}],
     description:
       "The DualBrew Pro is the most expensive machine in this comparison and combines single-serve pod-or-ground brewing with full carafe brewing in one unit, plus specialty brew styles like rich and over-ice that neither of the cheaper dual models offers. This is the closest thing here to a machine where neither mode feels like a compromise on the other.\n\nAt roughly $240, it costs more than buying a basic single-serve machine and a basic 12-cup drip machine separately, so the premium here is genuinely for the combined footprint and shared control panel rather than for saving money. If you already have counter space for two appliances, two simpler dedicated machines will likely each perform their one job as well or better for less combined cost.",
     bestFor: "Buyers who want the best version of both single-serve and carafe brewing in one unit and are willing to pay for it.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,502 reviews",
     specs: ["K-Cup pod compatible", "Ground coffee compatible", "Single reservoir", "Compact single-serve footprint"],
+    specList: [{"label":"Capacity","value":"K-Cup pod compatible"},{"label":"Feature 2","value":"Ground coffee compatible"},{"label":"Feature 3","value":"Single reservoir"},{"label":"Design","value":"Compact single-serve footprint"}],
     description:
       "This is the other type of dual machine entirely: it brews one cup at a time from either a K-Cup pod or ground coffee through a single brew head, with no carafe side at all. If what you actually want is the option to use pods on busy mornings and grounds the rest of the time, this is a more direct match than a single-plus-carafe hybrid, and it keeps a compact single-serve footprint since there is only one mechanism to house.\n\nBecause both modes run through the same brew head rather than separate mechanisms, there is only one moving system that can fail rather than two, which is a real reliability advantage over the carafe-hybrid models here. The tradeoff is obvious: no carafe option, so it is not a fit for households that regularly need a full pot.",
     bestFor: "Single-serve drinkers who want to switch between pods and ground coffee without needing a carafe.",

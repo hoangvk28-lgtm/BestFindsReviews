@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "2,311 reviews",
     specs: ["3.19in ultra-slim body", "Omni self-empty and wash station", "Vacuum and mop combo", "App mapping and control"],
+    specList: [{"label":"Feature 1","value":"3.19in ultra-slim body"},{"label":"Feature 2","value":"Omni self-empty and wash station"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App mapping and control"}],
     description:
       "The DEEBOT T50 PRO Omni pairs a genuine self-empty, self-wash station with a body slim enough to get under most low-clearance furniture, which is a combination that is not always available at this price. That slim profile means it reaches areas taller robots skip entirely, while the omni station handles both dirt disposal and mop pad washing without owner intervention.\n\nAt $299, it undercuts several less-equipped models in this comparison while still including the full docking station most buyers associate with a higher tier. Reviewers who buy it are generally doing so specifically for the low-profile design paired with hands-off maintenance.",
     bestFor: "Buyers who want a full self-empty and self-wash station without paying near the $400 ceiling for it.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "In line with other current roborock models",
     reviews: "A growing number of owner reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "App and voice control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and voice control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Q10 S5+ leads this comparison on rated suction power at 10,000Pa, which is a meaningful jump over the 5,000 to 8,000Pa range most competitors here list. That extra suction pull matters most on carpet and for pet hair, where lower-suction models tend to need more passes to fully clear debris.\n\nIt pairs that suction with combined vacuum and mop functionality and standard app-based scheduling, positioning it as the pick for households that prioritize raw cleaning power over extra dock features.",
     bestFor: "Carpeted homes or pet owners who want the strongest rated suction in this price range.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently well regarded among Shark's robot lineup",
     reviews: "A large, established base of owner reviews",
     specs: ["30-day capacity HEPA self-empty base", "Home mapping", "Matrix Clean navigation", "Bagless base"],
+    specList: [{"label":"Capacity","value":"30-day capacity HEPA self-empty base"},{"label":"Connectivity","value":"Home mapping"},{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Collection","value":"Bagless base"}],
     description:
       "The AV2501S is one of the more established self-empty models in this comparison, with a base rated to hold roughly a month of debris and a HEPA filter for households sensitive to dust. Home mapping and Matrix Clean navigation aim to reduce missed spots and repeated passes over the same area.\n\nAs a longer-running model in the Shark lineup, it benefits from a deeper track record than some of the newer entrants here, which is worth weighing against its slightly higher price relative to bare-bones combo units.",
     bestFor: "Buyers who specifically want a proven, bagless self-empty base with HEPA filtration.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Positive early feedback",
     reviews: "A smaller but growing review count",
     specs: ["Self-emptying base", "Vacuum and mop combo", "App control", "Auto self-charge"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"Auto self-charge"}],
     description:
       "This Tikom model brings a self-emptying base down to just over $200, which is the lowest price for that feature in this comparison. It pairs the base with combined vacuum and mop cleaning, covering the two features buyers most commonly want at this tier without pushing toward the $400 ceiling.\n\nAs a newer entrant from a budget-focused brand, it has a smaller review history than the Shark or eufy models here, so buyers prioritizing a long track record may want to weigh that against the price savings.",
     bestFor: "Buyers who want a self-emptying base and mopping but do not want to spend near $300 for it.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Long-standing, generally favorable owner feedback",
     reviews: "One of the more established review counts in this comparison",
     specs: ["Super-slim profile", "Quiet operation", "Self-charging", "No mopping function"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Self-charging"},{"label":"Mopping","value":"No mopping function"}],
     description:
       "The 11S MAX is built around a slim, quiet design rather than a feature checklist, which makes it a fit for apartments or homes where low noise and getting under furniture matter more than a self-empty dock or mopping. It skips mopping and advanced mapping entirely to keep both price and noise down.\n\nAs one of the longer-running models in eufy's lineup, it carries a deeper base of owner feedback than most of the newer combo units in this comparison, which is useful for buyers who weigh review history heavily.",
     bestFor: "Small apartments or noise-sensitive households that do not need mopping or a self-empty base.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Solidly rated within roborock's current lineup",
     reviews: "A steadily growing review count",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "App and voice control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and voice control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Q7 L5 sits below its Q10 S5+ sibling on rated suction, at 8,000Pa instead of 10,000Pa, but comes in at roughly half the price. For households without heavy carpet or major pet hair, that suction level is generally sufficient for daily hard-floor and light-carpet cleaning.\n\nIt keeps the vacuum and mop combo functionality and standard app scheduling of the pricier Q10 S5+, making it the value pick within the roborock lineup in this comparison.",
     bestFor: "Buyers who want a roborock combo unit without paying for the highest suction tier.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Newer to the market with early positive signals",
     reviews: "A smaller current review base",
     specs: ["5,200Pa suction", "Vacuum and mop combo", "App control", "Auto self-charge"],
+    specList: [{"label":"Suction Power","value":"5,200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"Auto self-charge"}],
     description:
       "The ROPVACNIC combo brings vacuum and mop functionality to a lower price point than most of the branded options in this comparison, with 5,200Pa of rated suction aimed at everyday hard-floor and light-carpet upkeep rather than deep-carpet or heavy pet hair situations.\n\nAs a newer, less established brand, it has a smaller current review base than eufy, Shark, or roborock, so buyers who weigh brand track record heavily should factor that into the lower price.",
     bestFor: "Budget-focused buyers who want basic vacuum and mop combo functionality without a name-brand premium.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Generally favorable for its price tier",
     reviews: "A solid number of current owner reviews",
     specs: ["Tangle-free suction inlet", "Vacuum-only", "Self-charging", "App control"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction inlet"},{"label":"Feature 2","value":"Vacuum-only"},{"label":"Feature 3","value":"Self-charging"},{"label":"Connectivity","value":"App control"}],
     description:
       "The ILIFE V2 skips mopping, mapping, and any self-empty base to focus purely on vacuum-only cleaning at the lowest price in this comparison. Its tangle-free suction inlet is aimed specifically at long hair and pet fur that tend to wrap around the brush roll on cheaper units.\n\nFor buyers who only need a basic daily vacuum pass and do not care about mopping or advanced navigation, it covers the core function at well under half the price of the self-empty models in this guide.",
     bestFor: "Buyers who want a straightforward daily vacuum-only robot at the lowest price in this comparison.",

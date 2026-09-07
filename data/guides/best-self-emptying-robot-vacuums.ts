@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "19,088 reviews",
     specs: ["AutoEmpty dock", "iRobot brand reliability", "Vacuum-only, no mopping", "App and voice control"],
+    specList: [{"label":"Feature 1","value":"AutoEmpty dock"},{"label":"Brand","value":"iRobot brand reliability"},{"label":"Mopping","value":"Vacuum-only, no mopping"},{"label":"Connectivity","value":"App and voice control"}],
     description:
       "The Roomba 105 pairs a straightforward vacuum-only robot with iRobot's AutoEmpty dock, which pulls debris out of the robot's onboard bin after each cleaning run. As the current top pick in this comparison, it carries the strongest combination of rating and review volume of any model we researched here, which matters for a dock-based product where long-term reliability is the real question.\n\nBecause it skips mopping entirely, the mechanism inside stays simpler than combo vacuum-and-mop docks, which tends to mean fewer points of failure at the dock itself. Buyers who specifically want mopping in the same device will need to look at one of the combo models below instead.",
     bestFor: "Buyers who want a proven, widely reviewed self-emptying vacuum without needing mopping in the same unit.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["10000Pa max suction", "Vacuum and mop combo", "Self-emptying dock", "Budget price point"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-emptying dock"},{"label":"Feature 4","value":"Budget price point"}],
     description:
       "The A30 Pro combines vacuuming and mopping in one robot with 10000Pa of claimed max suction, positioning it as a budget-friendly entry into the self-emptying category. Combo vacuum-and-mop robots generally carry more moving parts at the dock than vacuum-only models, since the mop pad and water system add another maintenance step alongside debris emptying.\n\nAt under $180 it undercuts most of the other combo units in this comparison, making it a reasonable starting point for buyers who want both cleaning modes without paying premium pricing.",
     bestFor: "Budget-conscious buyers who want vacuum and mop in one self-emptying robot.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["Self-emptying base", "Vacuum and mop combo", "App control", "Mid-range price"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App control"},{"label":"Feature 4","value":"Mid-range price"}],
     description:
       "Tikom's entry pairs a vacuum-and-mop robot with a self-emptying base at a mid-range price point between the cheaper ILIFE model and the pricier Shark and roborock options in this comparison. It targets buyers who want a straightforward first self-emptying robot without stepping up to a premium brand.\n\nAs with any newer entrant in this category, buyers should read current owner reviews on the listing itself for real-world dock reliability, since we do not have verified long-term rating data to report here.",
     bestFor: "First-time robot vacuum buyers who want an accessible entry point into self-emptying docks.",
@@ -112,6 +116,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["30-Day capacity HEPA bagless base", "Matrix Clean home mapping", "Bagless self-empty design", "Built for pet hair"],
+    specList: [{"label":"Capacity","value":"30-Day capacity HEPA bagless base"},{"label":"Connectivity","value":"Matrix Clean home mapping"},{"label":"Collection","value":"Bagless self-empty design"},{"label":"Feature 4","value":"Built for pet hair"}],
     description:
       "The AI Ultra uses a bagless HEPA base claimed to hold up to 30 days of debris, which puts it on the higher end of dock capacity in this comparison. Bagless designs like this trade the convenience of a sealed bag for lower ongoing cost, since there is no bag to repurchase, but emptying the bin directly does carry more dust exposure risk than a sealed-bag system.\n\nShark markets this model specifically around pet hair pickup and Matrix Clean home mapping, making it a strong candidate for multi-pet households that want a long stretch between manual bin emptying.",
     bestFor: "Pet owners who want a long claimed run between manual bin emptying and do not mind a bagless base.",
@@ -136,6 +141,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["Self-empty base", "Shark Navigator line", "White finish", "Vacuum-focused design"],
+    specList: [{"label":"Feature 1","value":"Self-empty base"},{"label":"Feature 2","value":"Shark Navigator line"},{"label":"Color/Finish","value":"White finish"},{"label":"Design","value":"Vacuum-focused design"}],
     description:
       "The Navigator AV2110S brings Shark's self-empty base to their Navigator line at a more compact footprint than the AI Ultra above, without the 30-day capacity claim or Matrix Clean mapping. It is a simpler, more affordable route into the Shark ecosystem for buyers who do not need the top-tier feature set.\n\nAs a newer listing, we do not have verified long-term rating data for this specific model here, so buyers should check current reviews on the product page for real-world dock performance and noise levels before deciding.",
     bestFor: "Buyers who want a Shark self-emptying dock without paying for the top-tier AI Ultra feature set.",
@@ -159,6 +165,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["75-Day self-emptying claim", "6000Pa suction", "140 min runtime", "Roller brush for carpet"],
+    specList: [{"label":"Feature 1","value":"75-Day self-emptying claim"},{"label":"Suction Power","value":"6000Pa suction"},{"label":"Feature 3","value":"140 min runtime"},{"label":"Feature 4","value":"Roller brush for carpet"}],
     description:
       "Lefant markets the M2 Plus around a 75-day claimed interval between dock emptyings, the longest stated figure of any model in this comparison, alongside 6000Pa suction and a roller brush tuned for carpet. If that claim holds up in real use, it would mean the least frequent dock maintenance of any option here.\n\nIt is also the lowest-priced model in this comparison, which makes the 75-day claim worth verifying against current owner reviews rather than taking at face value, since dock capacity claims can vary from real-world results depending on home size and debris volume.",
     bestFor: "Budget buyers prioritizing the longest claimed stretch between dock emptyings.",
@@ -183,6 +190,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["Omni all-in-one dock", "Vacuum and mop combo", "Built for hardwood and carpet", "Premium price tier"],
+    specList: [{"label":"Size","value":"Omni all-in-one dock"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Built for hardwood and carpet"},{"label":"Feature 4","value":"Premium price tier"}],
     description:
       "The Omni C20 is eufy's all-in-one dock system, combining self-emptying with mopping designed to handle both hardwood and carpet in the same home. As the highest-priced model in this comparison, it targets buyers who want the full combo feature set, including mop pad handling at the dock, rather than a simpler vacuum-only setup.\n\nOmni-style docks generally add more components than a vacuum-only base, such as water tanks and mop washing, which means more that can eventually need service, but also more capability out of one machine for mixed-flooring homes.",
     bestFor: "Mixed hardwood and carpet homes wanting a full all-in-one combo dock and are willing to pay for it.",
@@ -206,6 +214,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["Up to 7-9 weeks self-empty claim", "10000Pa suction", "Vacuum and mop combo", "roborock Q-series"],
+    specList: [{"label":"Feature 1","value":"Up to 7-9 weeks self-empty claim"},{"label":"Suction Power","value":"10000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"roborock Q-series"}],
     description:
       "The Q7 M5+ claims up to 7 to 9 weeks between dock emptyings, a stretch beaten only by the Lefant's 75-day claim in this comparison, paired with 10000Pa suction and combined vacuum-and-mop cleaning. roborock's Q-series generally positions itself as a mid-to-premium option, and the price here reflects that tier.\n\nA multi-week claimed interval like this depends heavily on debris volume and how many rooms the robot covers per cycle, so buyers in larger or pet-heavy homes should treat the upper end of that range as optimistic rather than guaranteed.",
     bestFor: "Buyers who want a long claimed dock interval from an established robot vacuum brand.",

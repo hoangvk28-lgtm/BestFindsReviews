@@ -11,13 +11,15 @@ export const introParagraphs = [
   "This page is not the broader site accessibility checklist for senior lawn care. That guide covers overall mower selection for older adults, including weight, storage, and general handling. This page narrows in on one specific question: how well does each mower self-propel drive actually control at a slow, comfortable walking pace, and how easily can that drive be engaged, adjusted, and stopped with one hand.",
   "We compared variable-speed drive control fineness, minimum walking speed comfort, one-handed drive-bail operation, stopping response, and how the mower weight is distributed while the drive is engaged. These are the details that determine whether a self-propelled mower feels controllable at a careful pace rather than pulling ahead of the operator.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "ego-lm2134sp-2", rank: 1, badge: "Best Overall", name: "EGO Power+ 21-Inch Cordless Self-Propelled Mower LM2134SP-2",
     amazonUrl: "https://www.amazon.com/dp/B0CVSG63DG?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41bI4lOM9KL._SL500_.jpg", price: "$699.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","Cordless electric power","Self-propelled drive","Push-button start"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"Cordless electric power"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Reviews","value":"Push-button start"}],
     description: "EGO Power+ 21-Inch Cordless Self-Propelled Mower LM2134SP-2 pairs a battery drivetrain with self-propel, which removes the pull-cord step that can be difficult for some older shoulders and wrists. Buyers rate it 4.5 out of 5 across 316 reviews, and the electric drive motor tends to respond more predictably at low speed than a belt-driven gas transmission.\n\nA cordless self-propel system still needs to be tested at the walking pace the owner actually intends to use, since some drive units default to a higher minimum speed than a slow, careful walk. Confirm the drive-bail location and how far it must be squeezed before propulsion engages, along with how quickly the mower stops moving once it is released.",
     bestFor: "buyers who want predictable, cord-free drive control without a pull-start engine",
     pros: ["Cordless electric drive with no pull-start engine","4.5 rating across 316 reviews","Push-button start reduces starting effort"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","80V 4Ah battery","Self-propelled drive","320Wh nominal energy"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4Ah battery"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Feature 4","value":"320Wh nominal energy"}],
     description: "Greenworks 80V 21-Inch Self-Propelled Mower holds a 4.5 rating across 586 reviews, the largest review base of the self-propelled models here, which gives a wider base of real-world feedback on how its drive control feels day to day. Like the EGO model, it uses an electric self-propel motor rather than a belt-driven gas transmission.\n\nSelf-propel draws from the same battery pack that powers the blade, so a lower drive speed setting, if the mower offers one, can help stretch runtime while also keeping walking pace slower and more manageable. Weight is carried mostly over the rear drive wheels during propulsion, which is worth feeling in person or checking against the manufacturer's stated operating weight.",
     bestFor: "buyers wanting the most reviewed cordless self-propel option in this comparison",
     pros: ["4.5 rating across 586 reviews, the largest sample here","Electric self-propel drive with no pull-start engine","320Wh nominal battery energy"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H7WZV1X5?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/415GtVk9iTL._SL500_.jpg", price: "$299.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","170cc 4-cycle gas engine","Self-propelled rear-wheel drive","Pull-start ignition"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"170cc 4-cycle gas engine"},{"label":"Wheels","value":"Self-propelled rear-wheel drive"},{"label":"Reviews","value":"Pull-start ignition"}],
     description: "Ezasin 21-Inch Self-Propelled Gas Mower carries a 5.0 rating, though that comes from only 17 reviews, so treat it as an early signal rather than a settled track record. Its rear-wheel self-propel drive is common on gas mowers in this size class, and rear-wheel drive generally holds traction and stopping control better on uneven ground than front-wheel drive.\n\nThe gas engine requires pull-start ignition, which is a real physical step this drive-focused comparison flags directly: a pull cord asks more of the shoulder and grip than a push-button electric start. Buyers should weigh that starting step against the mower's rear-wheel drive control before choosing it over a cordless option.",
     bestFor: "buyers who prefer gas power and can manage pull-start ignition",
     pros: ["Rear-wheel self-propelled drive for steadier control on uneven ground","5.0 rating, though based on a small review count","170cc engine sized for a full 21-inch deck"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GKFSJ7WR?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41MuYPVbecL._SL500_.jpg", price: "$129.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["131cc gas engine","Self-propelled rear-wheel system","Foldable frame for storage","3-in-1 mulch, bag, and side discharge"],
+    specList: [{"label":"Feature 1","value":"131cc gas engine"},{"label":"Wheels","value":"Self-propelled rear-wheel system"},{"label":"Material","value":"Foldable frame for storage"},{"label":"Size","value":"3-in-1 mulch, bag, and side discharge"}],
     description: "131cc Gas Powered Self-Propelled Foldable Mower is the lowest-priced self-propelled option here at $129.98, and it folds down for smaller storage spaces. It holds a 3.3 rating across 19 reviews, which is lower than every other mower in this comparison and worth reading closely before buying.\n\nA lower rating on a small review count does not confirm a specific defect rate, but it does mean less confirmed feedback on drive-bail feel, minimum walking speed, and stopping response than the higher-reviewed models above. Anyone prioritizing drive control specifically should weigh the price savings against that thinner feedback base.",
     bestFor: "budget-focused buyers willing to verify drive control feel firsthand given the limited review base",
     pros: ["Lowest price of the self-propelled options compared here","Foldable frame for compact storage","Self-propelled rear-wheel system with 3-in-1 discharge options"],

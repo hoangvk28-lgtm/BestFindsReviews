@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "59,218 reviews",
     specs: ["Super thin body", "Quiet operation", "Self-charging", "No turret sensors"],
+    specList: [{"label":"Feature 1","value":"Super thin body"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Self-charging"},{"label":"Feature 4","value":"No turret sensors"}],
     description:
       "The 11S MAX is built around a single idea: keep the body as flat as possible so it can reach under furniture that stops taller robots cold. Because it relies on bumper and drop sensors instead of a raised LiDAR turret, there is no temporary height spike to worry about while it navigates, which is one less variable when you are measuring clearance under a couch or bed frame.\n\nWith by far the largest review base of any model in this comparison, it has the most real-world usage data behind its rating. It is a vacuum-only model with no mopping function, which keeps the mechanism simpler and generally more reliable for the low-profile use case specifically.",
     bestFor: "Buyers who want the most proven low-profile option and do not need mopping.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["Vacuum and mop combo", "Hardwood and carpet rated", "High review volume", "Self-charging"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet rated"},{"label":"Reviews","value":"High review volume"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The Omni C20 pairs vacuuming with mopping in one chassis and carries the highest rating in this comparison alongside a very large review base, which is a strong signal for reliability at scale. Combo units generally carry a taller body and a larger all-in-one dock than vacuum-only models, so it is worth confirming your specific furniture clearance and dock footprint before buying if tight spaces are the priority.\n\nFor buyers who want both cleaning modes from a single machine and have the dock space to support it, the Omni C20 currently has the best combination of rating and review volume of any model here.",
     bestFor: "Buyers who want vacuum and mop in one unit and have room for a full-service dock.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "15,862 reviews",
     specs: ["Slim profile", "120 min runtime", "Wi-Fi/App/Alexa control", "Low noise operation"],
+    specList: [{"label":"Feature 1","value":"Slim profile"},{"label":"Feature 2","value":"120 min runtime"},{"label":"Connectivity","value":"Wi-Fi/App/Alexa control"},{"label":"Feature 4","value":"Low noise operation"}],
     description:
       "The M210 is built as a slim, budget-focused unit with a 120 minute runtime and full Wi-Fi, app, and Alexa control, features that are often reserved for pricier models. Its low noise operation and automatic self-charging make it easy to run daily without it being disruptive.\n\nWith over 15,000 reviews behind a 4.1 rating, it has a solid track record for the price, making it a reasonable entry point for anyone testing whether a low-profile robot vacuum fits their space before spending more.",
     bestFor: "Buyers who want a slim vacuum with app and voice control at a low price point.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,643 reviews",
     specs: ["5000Pa suction", "Vacuum and mop combo", "150 min max runtime", "App and remote control"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"150 min max runtime"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "The G8000 Max matches the eufy Omni C20's 4.4 rating at roughly a quarter of the price, making it a strong value pick if you want mopping alongside vacuuming without a premium price tag. Its 5000Pa suction and 150 minute max runtime are solid for the price bracket, and it supports both app and remote control.\n\nIts review count is smaller than the top two picks, so its track record is less established, but the rating it does have is one of the highest of any model in this comparison.",
     bestFor: "Buyers who want a vacuum and mop combo without paying premium prices.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,578 reviews",
     specs: ["5200Pa suction", "Vacuum and mop combo", "Self-charging", "App control"],
+    specList: [{"label":"Suction Power","value":"5200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-charging"},{"label":"Connectivity","value":"App control"}],
     description:
       "The ROPVACNIC combo leads this comparison on raw suction power at 5200Pa, which helps it pull debris out from under low furniture in a single pass rather than needing repeated runs. Combining that with mopping means it can handle hard floor touch-ups right after vacuuming under the same furniture gaps.\n\nIts review count is on the smaller side, so treat its 4.3 rating as an early but positive signal rather than a fully established track record.",
     bestFor: "Buyers who want strong suction specifically for pulling debris from under furniture.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "296 reviews",
     specs: ["10000Pa max suction", "Self-charging", "App control", "Vacuum-only design"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Feature 2","value":"Self-charging"},{"label":"Connectivity","value":"App control"},{"label":"Design","value":"Vacuum-only design"}],
     description:
       "The A30s advertises 10000Pa max suction, nearly double the other high-suction pick in this comparison, aimed at buyers dealing with heavier debris or pet hair under low furniture. It keeps a vacuum-only design, which simplifies the mechanism compared to the combo units here.\n\nIts review count is the smallest in this comparison at under 300, so while its 4.3 rating matches several higher-volume models, it is worth watching for more reviews to accumulate before treating that rating as fully settled.",
     bestFor: "Buyers prioritizing maximum suction power for pet hair or heavier debris under furniture.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "5,169 reviews",
     specs: ["Tangle-free suction", "Budget price", "Self-charging", "Vacuum-only design"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction"},{"label":"Feature 2","value":"Budget price"},{"label":"Feature 3","value":"Self-charging"},{"label":"Design","value":"Vacuum-only design"}],
     description:
       "The V2 is the lowest-priced model in this comparison, aimed at buyers who want a simple, low-profile vacuum for a smaller apartment or a single room rather than a whole-home setup. Its tangle-free suction design is a practical detail for households with pets or long hair, reducing how often the brush roll needs to be cleared by hand.\n\nWith over 5,000 reviews behind a 4.1 rating, it has a reasonable track record for its price point, though it lacks the mopping and higher suction figures of the pricier picks here.",
     bestFor: "Small apartments or single-room use where a simple, inexpensive vacuum is enough.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "3.6",
     reviews: "1,530 reviews",
     specs: ["2.85-inch slim body", "Self-emptying base", "8 weeks hands-free", "Self-charging"],
+    specList: [{"label":"Size","value":"2.85-inch slim body"},{"label":"Feature 2","value":"Self-emptying base"},{"label":"Feature 3","value":"8 weeks hands-free"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The C10 is the slimmest model in this comparison at a stated 2.85 inches, and pairs that with a self-emptying base rated for up to 8 weeks of hands-free operation, meaning less manual bin dumping over time. That combination targets buyers who specifically need the lowest possible body height to clear tight furniture gaps.\n\nIt carries the lowest rating of any model in this comparison, so weigh its slim-body advantage against that rating and its comparatively small review base before choosing it over a higher-rated, less slim alternative.",
     bestFor: "Buyers whose furniture clearance is tight enough that the slimmest possible body is the deciding factor.",

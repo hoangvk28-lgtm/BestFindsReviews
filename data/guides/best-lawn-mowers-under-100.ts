@@ -13,7 +13,8 @@ export const introParagraphs = [
   "We looked at what is actually available under $100 right now rather than padding the list with items priced just over the line. That means fewer entries than a typical roundup, a reel mower at the top for anyone with a small, flat, obstacle-light lawn, and clear notes on where a slightly higher budget buys real capability.",
 ];
 
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 
 export const products: GuideProduct[] = [
   {
@@ -27,6 +28,7 @@ export const products: GuideProduct[] = [
     ctaLabel: "Check price on Amazon",
     shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "4-blade reel", "No motor, no battery, no fuel", "Push-powered"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Hose","value":"4-blade reel"},{"label":"Battery","value":"No motor, no battery, no fuel"},{"label":"Color/Finish","value":"Push-powered"}],
     description: "The American Lawn Mower 1204-14 is a manual push reel mower with a 14-inch cutting width and a 4-blade reel, and it is rated 4.3 stars across more than 15,000 reviews, which is a large review base for this price tier. There is no motor, battery, or fuel involved, so there is nothing to charge, no cord to manage, and no oil or spark plug to maintain.\n\nThe tradeoff of a reel mower is scope. A 14-inch width and manual power work well on a small, flat, regularly mowed lawn, but they are not a fit for tall grass, thick weeds, or a large property where a powered mower would finish in a fraction of the time. Blade adjustment and periodic sharpening are the main upkeep tasks.",
     bestFor: "small, flat, regularly mowed lawns where buyers want zero fuel or battery upkeep",
     pros: ["Rated 4.3 stars across over 15,000 reviews, a large track record for this price", "No battery, cord, or fuel to manage", "Simple mechanical design with minimal upkeep"],
@@ -43,6 +45,7 @@ export const products: GuideProduct[] = [
     ctaLabel: "Check price on Amazon",
     shortCtaLabel: "Check price",
     specs: ["12-inch cutting width", "6.5A corded motor", "Converts to trimmer and edger", "No battery replacement"],
+    specList: [{"label":"Size","value":"12-inch cutting width"},{"label":"Feature 2","value":"6.5A corded motor"},{"label":"Feature 3","value":"Converts to trimmer and edger"},{"label":"Battery","value":"No battery replacement"}],
     description: "The BLACK+DECKER BESTA512CM is a corded electric 3-in-1 tool that mows a 12-inch path and converts to a string trimmer and edger, and it holds a 4.2-star rating across roughly 9,600 reviews. Because it runs on a 6.5A corded motor rather than a battery, there is no pack to replace or recharge over the life of the tool.\n\nThe compact 12-inch mowing width and reliance on an extension cord make this best suited to a small yard, tight side strips, or trim work rather than a primary mower for a full-size lawn. Managing the cord around the mowing path is the main day-to-day tradeoff, and the multi-tool design means the mower deck is intentionally narrow.",
     bestFor: "small yards and edge or trim work where one compact corded tool needs to cover multiple jobs",
     pros: ["Rated 4.2 stars across about 9,600 reviews", "No battery to buy or replace", "Converts between mower, trimmer, and edger"],
@@ -59,6 +62,7 @@ export const products: GuideProduct[] = [
     ctaLabel: "Check price on Amazon",
     shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "5.0Ah battery and charger included", "Brushless motor", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Feature 3","value":"Brushless motor"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "The Litheli 14-Inch is a cordless battery mower that lands right at the $100 line, with a brushless motor, an included 5.0Ah battery and charger, and 5-position height adjustment. It is the only battery-powered walk-behind on this list under $100, which matters for buyers who want the convenience of a powered mower without an extension cord.\n\nIts review base is small at 48 ratings averaging 3.9 stars, so there is much less track record here than the reel mower or the corded electric above it. The 14-inch deck and single included battery also point to a compact lawn rather than a full-size yard, and buyers should weigh the limited review history against the convenience of cordless operation before choosing it over the more established options on this list.",
     bestFor: "buyers who specifically want a cordless powered mower and are comfortable with a limited review history",
     pros: ["Only cordless battery walk-behind under $100 on this list", "Battery and charger included, no separate purchase needed", "5-position height adjustment"],

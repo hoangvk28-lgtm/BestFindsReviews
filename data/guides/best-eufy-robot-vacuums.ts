@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,857 reviews",
     specs: ["20,000 Pa suction", "HydroJet roller mop", "Self-washing dock", "Vacuum + mop combo"],
+    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-washing dock"},{"label":"Feature 4","value":"Vacuum + mop combo"}],
     description:
       "The E25 pairs 20,000 Pa of suction with eufy's HydroJet roller mop, which spins and self-washes at the dock instead of dragging a static pad across your floors. That combination puts it at the top of the current lineup for buyers who want strong carpet suction and genuine wet mopping from a single machine.\n\nWith over 50,000 reviews and a 4.4 rating, it also has the deepest track record of any model in this comparison, which matters more than a spec sheet when you are trusting a machine to run unattended. The dock does take real counter or floor footprint, which is the tradeoff for the washing and drying functions built into it.",
     bestFor: "Buyers who want top-tier suction and real roller-mop washing with the largest review history in this lineup.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Strong buyer feedback on Amazon",
     specs: ["20,000 Pa suction", "Matic mop system", "Portable carpet cleaning", "Self-maintaining dock"],
+    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"Matic mop system"},{"label":"Feature 3","value":"Portable carpet cleaning"},{"label":"Feature 4","value":"Self-maintaining dock"}],
     description:
       "The E28 Matic matches the E25's 20,000 Pa suction and adds a portable carpet-cleaning accessory that detaches from the dock for spot-cleaning stairs, upholstery, or car interiors, something none of the other models here offer. It is the most expensive model in this guide and leans into being a full home-cleaning system rather than just a floor robot.\n\nBecause it is one of eufy's newest releases, it does not yet have the deep review history of the E25, so buyers should weigh the added carpet-cleaning capability against a shorter public track record.",
     bestFor: "Buyers who want a robot vacuum plus a detachable spot-cleaning tool for stairs or upholstery.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["15,000 Pa suction", "HydroJet roller mop", "Self-washing dock", "Vacuum + mop combo"],
+    specList: [{"label":"Suction Power","value":"15,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-washing dock"},{"label":"Feature 4","value":"Vacuum + mop combo"}],
     description:
       "The C28 carries the same HydroJet self-washing roller mop technology as the flagship E25 but steps suction down to 15,000 Pa and trims the price by around $130. For homes without heavy carpet, that suction difference is often not noticeable in daily use, which makes the C28 a reasonable middle ground.\n\nIt still requires the same dock footprint as the pricier roller-mop models, since the washing and drying mechanism is what takes up space, not the suction motor. Buyers tight on room near their charging spot should measure before choosing this over a slimmer, dock-free model.",
     bestFor: "Buyers who want roller-mop washing without paying flagship price for the top suction tier.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["Dual rotating mops", "12mm auto-lift", "Omni all-in-one dock", "Vacuum + mop combo"],
+    specList: [{"label":"Mopping","value":"Dual rotating mops"},{"label":"Feature 2","value":"12mm auto-lift"},{"label":"Size","value":"Omni all-in-one dock"},{"label":"Feature 4","value":"Vacuum + mop combo"}],
     description:
       "The X10 Pro Omni uses dual rotating mop pads that auto-lift 12mm when the robot detects carpet, so it can move between hard floors and rugs in one cleaning run without soaking the carpet. That auto-lift height is worth checking against recent buyer reviews if your home has thick pet hair, since eufy's anti-tangle brush claims and real-world performance can vary by model generation.\n\nAs an Omni-tier system, it includes an all-in-one dock that empties, washes, and dries, which adds convenience for pet households running frequent cleaning cycles but also adds the counter or floor footprint that comes standard with every Omni-class model in this lineup.",
     bestFor: "Pet owners who need reliable carpet-to-hardwood transitions and frequent automated dock maintenance.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["Omni all-in-one dock", "Hardwood and carpet mode", "Vacuum + mop combo", "Self-emptying"],
+    specList: [{"label":"Size","value":"Omni all-in-one dock"},{"label":"Material","value":"Hardwood and carpet mode"},{"label":"Mopping","value":"Vacuum + mop combo"},{"label":"Feature 4","value":"Self-emptying"}],
     description:
       "The Omni C20 is the most affordable Omni-class model in this lineup, bringing self-emptying and dock-based maintenance down to under $400. It is positioned specifically for homes that mix hardwood and carpet, which is the scenario where a mop-combo robot's carpet-avoidance logic matters most.\n\nSince it sits below the HydroJet models on price, it does not include the self-washing roller mop found on the E25, C28, or E28 Matic. Buyers who want the lowest-maintenance mopping experience should budget for one of those instead.",
     bestFor: "Mixed-flooring homes that want Omni-tier self-emptying convenience at a lower price point.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["2.85-inch slim profile", "Self-emptying, 8 weeks hands free", "Vacuum-only", "Fits under low furniture"],
+    specList: [{"label":"Size","value":"2.85-inch slim profile"},{"label":"Feature 2","value":"Self-emptying, 8 weeks hands free"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Feature 4","value":"Fits under low furniture"}],
     description:
       "The C10 is a vacuum-only model, meaning it skips mopping entirely, but it pairs a slim 2.85-inch profile with a self-emptying dock that can go up to eight weeks between manual bin empties. That combination is unusual, since self-emptying docks are typically reserved for bulkier Omni-class mop combos.\n\nThis is the model to consider first if you decided, per the vacuum-only versus mop-combo question above, that you do not need mopping at all. It fits under furniture the taller Omni docks cannot reach and avoids the roller-mop washing maintenance entirely.",
     bestFor: "Buyers who have decided they don't need mopping and want a slim profile with hands-off self-emptying.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["Super-slim profile", "Quiet operation", "Vacuum-only", "No dock maintenance"],
+    specList: [{"label":"Feature 1","value":"Super-slim profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"Vacuum-only"},{"label":"Feature 4","value":"No dock maintenance"}],
     description:
       "The 11S MAX is the entry point into the eufy lineup and represents the original slim, vacuum-only design philosophy that the Omni and Matic lines have since built on top of. There is no self-emptying dock and no mopping, just a thin, quiet vacuum that returns to a basic charging base.\n\nThat simplicity is the appeal. There is no roller-mop to wash, no auto-empty bin to manage, and no dock footprint beyond a small charging plate, which makes it the lowest-commitment way to try a eufy robot vacuum before considering a pricier mop-combo system.",
     bestFor: "First-time robot vacuum buyers or anyone who wants the lowest price and simplest maintenance.",

@@ -12,7 +12,8 @@ export const introParagraphs = [
   "Below we compare deck width, active mowing time against refuel and recharge interruptions, cut and bagging quality, three-year running cost, and scenario-based picks so you can match a mower to the yard you actually have, not an average one.",
 ];
 
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 
 export const products: GuideProduct[] = [
   {
@@ -20,6 +21,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "56V battery platform", "Battery and charger included", "Push drive"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
     description: "The EGO Power+ LM2114 pairs a full 21-inch deck with a 56V battery platform and an included battery and charger, and it has built a strong track record with buyers, holding a 4.5-star rating across more than 2,160 reviews. That combination makes it the electric pick most comparable in cutting width to a standard gas push mower, without the fuel, oil, or pull-start routine.\n\nAgainst a gas equivalent, the tradeoff is charge time rather than refuel time: a spent battery needs to recharge before the mower can finish a large lawn in one pass, while a gas mower only needs a fuel top-off. For yards that fit inside one battery charge, the EGO removes engine maintenance entirely.",
     bestFor: "standard-size lawns wanting gas-equivalent deck width without engine maintenance",
     pros: ["21-inch deck matches typical gas mower cutting width", "56V battery and charger included, no separate fuel purchase", "Rated 4.5 stars across 2,160+ reviews"],
@@ -30,6 +32,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CB9XSR1S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/419ZsDeTwFL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "144cc 4-stroke OHV engine", "3-in-1 mulch, bag, or side discharge", "6-position height adjustment"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Feature 2","value":"144cc 4-stroke OHV engine"},{"label":"Collection","value":"3-in-1 mulch, bag, or side discharge"},{"label":"Adjustability","value":"6-position height adjustment"}],
     description: "The PowerSmart EasyGlide runs a 144cc 4-stroke OHV engine on a 21-inch steel deck with 3-in-1 mulch, bag, or side discharge, and it has held a 4.3-star rating across more than 930 reviews. As long as the fuel tank is full, active mowing time is not capped the way a single battery charge caps a cordless mower, which matters most on larger or overgrown lawns mowed in one continuous session.\n\nThe tradeoff moves from charge time to upkeep: oil changes, air filter checks, spark plug replacement, and pull-start reliability become the owner's responsibility, along with storing and handling gasoline safely between seasons. For a lawn too large to finish on one electric charge, that upkeep buys uninterrupted runtime.",
     bestFor: "larger lawns mowed in one session where uninterrupted engine runtime matters more than avoiding maintenance",
     pros: ["Refueling is faster than a full battery recharge", "3-in-1 mulch, bag, or side discharge on a steel deck", "Rated 4.3 stars across 930+ reviews"],
@@ -40,6 +43,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CVSG63DG?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41bI4lOM9KL._SL500_.jpg", price: "$699.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "Self-propelled drive", "Cordless battery platform", "Rated 4.5 stars, 316+ reviews"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Battery","value":"Cordless battery platform"},{"label":"Durability","value":"Rated 4.5 stars, 316+ reviews"}],
     description: "The EGO Power+ LM2134SP-2 adds self-propelled drive to a 21-inch cordless deck, and it has earned a 4.5-star rating from its early review base of more than 316 buyers. Self-propel closes one of the biggest practical gaps between electric and gas mowers on sloped or larger properties, where pushing a battery mower without drive assist gets tiring well before the battery runs low.\n\nSelf-propel draws from the same battery that powers the blade, so drive use on hills or at higher speed can shorten the mowing time available before a recharge is needed. It is the closest electric match to a self-propelled gas mower's ease of use, at a price closer to premium gas self-propelled models.",
     bestFor: "sloped or larger yards where self-propel matters as much as going cordless",
     pros: ["Self-propelled drive on a full 21-inch cordless deck", "Rated 4.5 stars from its review base", "No engine maintenance or fuel handling"],
@@ -50,6 +54,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0C2ZPBHC7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41R0pwuOOQL._SL500_.jpg", price: "$389.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "60V 5.0Ah battery and charger included", "Push drive", "Rated 4.4 stars, 494+ reviews"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V 5.0Ah battery and charger included"},{"label":"Drive Type","value":"Push drive"},{"label":"Durability","value":"Rated 4.4 stars, 494+ reviews"}],
     description: "The Greenworks 60V 21-Inch pairs a full-width deck with a 5.0Ah included battery and charger, and reviewers have rated it 4.4 stars across nearly 500 reviews. It sits close to the EGO LM2114 on deck size and price, giving buyers a second cordless option at a similar comparison point against gas mowers of the same width.\n\nLike other single-battery push mowers, active mowing time is limited by one charge, and a second battery is the practical way to extend a session without waiting for a recharge mid-lawn. For buyers already invested in Greenworks 60V tools, it also shares a battery platform across the yard.",
     bestFor: "buyers wanting a second cordless option near gas-equivalent deck width and price",
     pros: ["21-inch deck with 5.0Ah battery and charger included", "Rated 4.4 stars across 494+ reviews", "Shares a battery platform with other Greenworks 60V tools"],
@@ -60,6 +65,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V 4.0Ah battery and charger included", "Push drive", "Rated 4.2 stars, 12,000+ reviews"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4.0Ah battery and charger included"},{"label":"Drive Type","value":"Push drive"},{"label":"Durability","value":"Rated 4.2 stars, 12,000+ reviews"}],
     description: "The Greenworks 40V 16-Inch trades deck width for a lighter, more compact mower, and it is the most reviewed product in this comparison, holding a 4.2-star rating across more than 12,100 reviews. At $249.99 it lands at the same price as the PowerSmart gas mower above, making it a direct budget comparison point for buyers deciding between a small gas mower and a small electric one.\n\nThe narrower 16-inch deck means more passes on a mid-size lawn compared with a 21-inch mower of either power type, and the single included battery limits a session on anything beyond a small yard. For a genuinely small or trim-focused lawn, the lighter weight and lack of fuel handling are the bigger factors.",
     bestFor: "small lawns where light weight matters more than deck width",
     pros: ["Lightest mower in this comparison with battery and charger included", "Rated 4.2 stars across 12,000+ reviews, the largest review base here", "Same price as the entry gas option, useful for a direct budget comparison"],
@@ -70,6 +76,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch deck", "11A corded motor", "No battery to charge or replace", "Rated 4.0 stars, 4,400+ reviews"],
+    specList: [{"label":"Size","value":"15-inch deck"},{"label":"Feature 2","value":"11A corded motor"},{"label":"Battery","value":"No battery to charge or replace"},{"label":"Durability","value":"Rated 4.0 stars, 4,400+ reviews"}],
     description: "The LawnMaster MEB1114K runs on a corded 11A motor instead of a battery or an engine, and it holds a 4.0-star rating across more than 4,440 reviews at the lowest price in this comparison. Because it plugs into an outlet, it never needs a recharge or a refuel, but it also never runs untethered, which rules it out for larger or obstacle-heavy yards regardless of how it compares to gas on power.\n\nFor a small, unobstructed lawn near an outlet, it avoids both sides of the electric-vs-gas tradeoff: no engine upkeep and no battery capacity to manage, at the cost of managing an extension cord around the mowing path.",
     bestFor: "small unobstructed lawns near an outlet where cord management is acceptable",
     pros: ["Lowest price in this comparison with no battery or fuel cost", "Never needs a recharge, refuel, or engine service", "Rated 4.0 stars across 4,440+ reviews"],

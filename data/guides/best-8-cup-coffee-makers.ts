@@ -23,6 +23,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -41,6 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "4,810 reviews",
     specs: ["Gold Cup Certified", "Double-wall thermal carafe", "Optional single-serve brew basket", "Rainmaker showerhead", "Built-in cleaning mode"],
+    specList: [{"label":"Capacity","value":"Gold Cup Certified"},{"label":"Feature 2","value":"Double-wall thermal carafe"},{"label":"Feature 3","value":"Optional single-serve brew basket"},{"label":"Brand","value":"Rainmaker showerhead"},{"label":"Size","value":"Built-in cleaning mode"}],
     description:
       "The OXO Brew is Gold Cup Certified by the Specialty Coffee Association, meaning its BetterBrew precision technology holds water temperature between 194 and 205 degrees Fahrenheit to meet a recognized brewing standard rather than a marketing claim. Its double-wall vacuum-insulated thermal carafe holds heat for hours with no warming plate, and an optional single-serve brew basket lets the same machine handle one cup when you do not need the full 8.\n\nA rainmaker showerhead evenly saturates grounds for more consistent extraction, and a built-in cleaning mode helps manage mineral buildup. This is the more premium of the two genuine 8-cup machines we found, reflected clearly in its price.",
     bestFor: "Buyers who want SCA-certified brewing quality and a genuine thermal carafe at true 8-cup capacity.",
@@ -65,6 +67,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "10,392 reviews",
     specs: ["Brews full 8 cups in 6 minutes", "1500-watt heater", "SCA certified", "Optional bloom pre-infusion", "Dishwasher-safe carafe lid and basket"],
+    specList: [{"label":"Size","value":"Brews full 8 cups in 6 minutes"},{"label":"Feature 2","value":"1500-watt heater"},{"label":"Feature 3","value":"SCA certified"},{"label":"Feature 4","value":"Optional bloom pre-infusion"},{"label":"Capacity","value":"Dishwasher-safe carafe lid and basket"}],
     description:
       "Bonavita's BV1901TS brews a full 8-cup carafe in about 6 minutes using a 1500-watt heater that maintains the 194 to 205 degree range associated with SCA-certified brewing. A specially designed showerhead evenly saturates grounds for consistent extraction, and an optional bloom pre-infusion mode gently pre-wets grounds before the main brew for a fuller-tasting cup.\n\nLike the OXO, it uses a stainless steel double-wall thermal carafe with strong heat retention, and the carafe lid, filter basket, and showerhead are all dishwasher safe, which simplifies routine cleaning.",
     bestFor: "Buyers who want the fastest full 8-cup brew time along with an optional bloom step for richer flavor.",

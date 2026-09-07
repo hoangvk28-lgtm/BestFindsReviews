@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "72,567 reviews",
     specs: ["75oz reservoir", "4 cup sizes", "Iced setting", "Strength control"],
+    specList: [{"label":"Feature 1","value":"75oz reservoir"},{"label":"Capacity","value":"4 cup sizes"},{"label":"Feature 3","value":"Iced setting"},{"label":"Feature 4","value":"Strength control"}],
     description:
       "The K-Elite is the most fully featured single-serve model in the current lineup, with strength control, a dedicated iced-coffee setting, and a hot-water-on-demand button for tea or oatmeal. The 75oz reservoir is the largest of any model here, so it can go several days between refills for a single user.\n\nA built-in maintenance reminder flags when it is time to descale, which matters more than it sounds since skipped descaling is the most common cause of slow or weak brews over time. The tradeoff is footprint. This is the largest machine in this guide, so it needs real counter space.",
     bestFor: "Buyers who want the most control over strength and temperature and have counter space to spare.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "50,271 reviews",
     specs: ["42oz reservoir", "3 cup sizes", "Strong button", "Reusable filter compatible"],
+    specList: [{"label":"Feature 1","value":"42oz reservoir"},{"label":"Capacity","value":"3 cup sizes"},{"label":"Feature 3","value":"Strong button"},{"label":"Filtration","value":"Reusable filter compatible"}],
     description:
       "The K-Express drops the iced-coffee and hot-water-on-demand functions from the K-Elite but keeps the strong-brew button and a 42oz reservoir that holds roughly four 8oz cups before refilling. It also supports the My K-Cup reusable filter for buyers who want to brew their own ground coffee instead of pods.\n\nAt under $70, it is the clearest value pick here for a single user who wants a straightforward daily machine without paying for features they will not use.",
     bestFor: "A daily single-cup machine for one or two people who do not need iced brewing or a large reservoir.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "6,399 reviews",
     specs: ["72oz shared reservoir", "12-cup carafe", "Pods or grounds", "Programmable auto brew"],
+    specList: [{"label":"Color/Finish","value":"72oz shared reservoir"},{"label":"Capacity","value":"12-cup carafe"},{"label":"Feature 3","value":"Pods or grounds"},{"label":"Feature 4","value":"Programmable auto brew"}],
     description:
       "The K-Duo is the only model here that brews a full 12-cup carafe in addition to single K-Cup pods, using one 72oz reservoir shared between both brew modes. That makes it the practical choice for a household where some people want a single cup and others want a full pot.\n\nIt has the lowest rating and review count of the four models, which tracks with dual-mechanism coffee makers generally having more moving parts that can go wrong. Buyers who only ever need single cups will get more reliability for the same price from the K-Elite.",
     bestFor: "Households that regularly need both single cups and a full carafe from one machine.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "1-cup reservoir", "6 to 12oz brew", "Cord storage"],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Capacity","value":"1-cup reservoir"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"Cord storage"}],
     description:
       "The K-Mini is under five inches wide and uses a one-cup reservoir, meaning you add water fresh for every brew instead of keeping a tank filled. That makes it the easiest of the four to fit into a dorm room, small apartment kitchen, or office desk, at the cost of needing to refill it every single time.\n\nIt has by far the most reviews of any model in this comparison, which reflects how often it is bought as a first coffee maker or a secondary unit for a bedroom or office.",
     bestFor: "Tight counter space, dorms, offices, or a secondary machine where a full reservoir is not needed.",

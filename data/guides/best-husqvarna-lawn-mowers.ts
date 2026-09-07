@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Husqvarna is not one mower category. Its current range spans battery walk-behinds, lawn tractors, residential and commercial zero-turns, and robotic systems with physical or virtual boundaries, so the right comparison begins by selecting the format.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "husqvarna-le322r", rank: 1, badge: "Best Overall", name: "Husqvarna Lawn Xpert LE-322R",
     amazonUrl: "https://www.amazon.com/dp/B0C2Z9P315?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31IAAEL+hkL._SL500_.jpg", price: "$949.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["Battery self-propelled","40V platform","Battery and charger included","Walk-behind class"],
+    specList: [{"label":"Battery","value":"Battery self-propelled"},{"label":"Power Source","value":"40V platform"},{"label":"Feature 3","value":"Battery and charger included"},{"label":"Feature 4","value":"Walk-behind class"}],
     description: "Husqvarna Lawn Xpert LE-322R combines Battery self-propelled, 40V platform, Battery and charger included. That combination makes it a practical option for small to medium lawns needing a premium battery walk-behind.\n\nConfirm included battery watt-hours and charger time rather than judging the platform by 40V alone. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small to medium lawns needing a premium battery walk-behind",
     pros: ["Battery self-propelled","40V platform","Battery and charger included"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0F5BY8XGP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31JS0DH8mlL._SL500_.jpg", price: "$3,299.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["46-inch deck","22HP Briggs engine","Lawn tractor layout","Dealer-serviceable platform"],
+    specList: [{"label":"Size","value":"46-inch deck"},{"label":"Feature 2","value":"22HP Briggs engine"},{"label":"Feature 3","value":"Lawn tractor layout"},{"label":"Feature 4","value":"Dealer-serviceable platform"}],
     description: "Husqvarna TS 146 Lawn Tractor combines 46-inch deck, 22HP Briggs engine, Lawn tractor layout. That combination makes it a practical option for buyers who want a conventional tractor and attachment path.\n\nDelivery width, storage space, and local dealer support need checking before purchase. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers who want a conventional tractor and attachment path",
     pros: ["46-inch deck","22HP Briggs engine","Lawn tractor layout"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B07NF3V21T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41CMAS3TEVL._SL500_.jpg", price: "$3,899.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive","Residential class"],
+    specList: [{"label":"Size","value":"54-inch deck"},{"label":"Feature 2","value":"23HP Kawasaki engine"},{"label":"Drive Type","value":"Hydrostatic zero-turn drive"},{"label":"Feature 4","value":"Residential class"}],
     description: "Husqvarna Z254F 54-Inch Zero-Turn Mower combines 54-inch deck, 23HP Kawasaki engine, Hydrostatic zero-turn drive. That combination makes it a practical option for larger open lawns where maneuvering speed matters.\n\nA 54-inch zero-turn needs substantial storage and is not the default choice for slopes. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "larger open lawns where maneuvering speed matters",
     pros: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DTV7TR6W?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31mkZl7iGEL._SL500_.jpg", price: "$2,499.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["0.5-acre systematic capacity","EPOS virtual boundary","45% internal slope claim","Four-year mower warranty"],
+    specList: [{"label":"Capacity","value":"0.5-acre systematic capacity"},{"label":"Feature 2","value":"EPOS virtual boundary"},{"label":"Feature 3","value":"45% internal slope claim"},{"label":"Warranty","value":"Four-year mower warranty"}],
     description: "Husqvarna Automower 410iQ combines 0.5-acre systematic capacity, EPOS virtual boundary, 45% internal slope claim. That combination makes it a practical option for wire-free robot buyers wanting dealer-backed support.\n\nSatellite visibility, 15% boundary slope limit, and remaining edge trimming must be assessed on the actual property. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "wire-free robot buyers wanting dealer-backed support",
     pros: ["0.5-acre systematic capacity","EPOS virtual boundary","45% internal slope claim"],

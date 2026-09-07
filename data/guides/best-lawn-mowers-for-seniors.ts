@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Most mower buying guides rank by horsepower or deck size and treat every shopper the same. For an older adult, or an adult child buying a mower for a parent, the details that matter most are different: how much force it takes to push and turn the mower, how heavy it is to lift, wheel, or load, how the handle height fits the user, and whether starting and stopping are simple and safe.",
   "We compared self-propelled, lightweight push, corded, and manual reel options across those exact factors so you can match a mower to the person who will actually be using it, not just the size of the lawn.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "ego-lm2114", rank: 1, badge: "Best Overall for Seniors", name: "EGO Power+ 21-Inch Cordless Self-Propelled Mower (LM2114)",
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "56V battery, no pull cord", "Push-button start", "Included charger"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery, no pull cord"},{"label":"Reviews","value":"Push-button start"},{"label":"Feature 4","value":"Included charger"}],
     description: "The EGO Power+ LM2114 pairs a full 21-inch deck with push-button electric start, which removes the pull cord that makes gas mowers hard on the shoulders and back. It holds a 4.5 out of 5 rating across more than 2,100 reviews, which is a strong result for a full-size cordless mower at this price.\n\nBecause it runs on battery power, there is no gas to mix, no pull-starting, and no engine exhaust to breathe while working close to the machine. The battery and charger are included, so there is no separate purchase needed before first use. The main thing to plan for is charging time between uses on larger lawns.",
     bestFor: "a senior or caregiver who wants a full-size mower without pull-starting or gas handling",
     pros: ["Push-button start instead of a pull cord", "Strong 4.5-star rating across a large review base", "No gas mixing or fumes"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "80V 4Ah battery included", "Self-propelled drive", "Push-button electric start"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4Ah battery included"},{"label":"Lighting","value":"Self-propelled drive"},{"label":"Reviews","value":"Push-button electric start"}],
     description: "For a larger or gently sloped lawn, self-propel does most of the walking work so the user is mainly guiding and steering rather than pushing the full weight of the mower forward. This model carries a 4.5-star rating, matching the EGO above, though with a smaller review count of around 586 so far.\n\nThe higher-capacity 80V, 4Ah battery is built for longer sessions before a recharge is needed, which suits properties too large for a lightweight push mower to cover comfortably in one pass. It is still worth confirming the mower's turning behavior on any slopes on the property before relying on the drive system there.",
     bestFor: "a larger lawn where self-propel reduces walking effort over a full mowing session",
     pros: ["Self-propelled drive reduces pushing effort", "Higher-capacity included battery for longer sessions", "4.5-star rating from verified buyers"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVD6ZLV?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51zw5LOnu7L._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch deck", "Brushless motor, low maintenance", "5-position height adjustment", "Lightweight build"],
+    specList: [{"label":"Size","value":"14-inch deck"},{"label":"Feature 2","value":"Brushless motor, low maintenance"},{"label":"Adjustability","value":"5-position height adjustment"},{"label":"Weight Capacity","value":"Lightweight build"}],
     description: "This compact 14-inch mower is built around low weight and a small footprint rather than raw power, which makes it far easier to lift, carry, or wheel in and out of a shed than a full-size mower. The brushless motor needs no belts, spark plugs, or oil changes, cutting the ongoing maintenance a senior owner would otherwise have to manage.\n\nAt this size it is best suited to a smaller lawn under about 3,000 square feet rather than a large property. It is a newer listing with a limited review history so far, so it is worth reading current buyer feedback before purchase rather than relying on brand reputation alone.",
     bestFor: "a small lawn where light weight and simple upkeep matter more than deck width",
     pros: ["Notably lighter than the full-size mowers in this guide", "Brushless motor needs no belts or oil changes", "5-position height adjustment for easy setup"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVKDHT9?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51X3VnGs4cL._SL500_.jpg", price: "$125.33",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch deck", "5.0Ah battery with smart charger", "5-position height adjustment", "Brushless, lightweight design"],
+    specList: [{"label":"Size","value":"14-inch deck"},{"label":"Battery","value":"5.0Ah battery with smart charger"},{"label":"Adjustability","value":"5-position height adjustment"},{"label":"Weight Capacity","value":"Brushless, lightweight design"}],
     description: "This is a close sibling to the Litheli model above, same 14-inch deck and 5.0Ah battery, but paired with a smart charger and sold at a slightly different price point. Like the other Litheli listing, it is a newer product with a small review base so far, so treat both as budget-friendly lightweight options worth comparing on current price and availability rather than picking by name alone.\n\nThe appeal for a senior buyer is the same: a light mower that is easy to maneuver and store, with no gas or belts to maintain. It suits a small, mostly flat yard rather than a property with thick or overgrown grass.",
     bestFor: "buyers comparing lightweight Litheli options and choosing on price or charger features",
     pros: ["Same low weight and brushless motor benefits as the model above", "Smart charger included", "Simple 5-position height adjustment"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V 4Ah battery included", "Push-button start", "Cordless, no gas"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4Ah battery included"},{"label":"Reviews","value":"Push-button start"},{"label":"Feature 4","value":"Cordless, no gas"}],
     description: "This 16-inch mower splits the difference between the compact Litheli models and the full-size self-propelled options above. It has earned a 4.2-star rating across more than 12,000 reviews, a large enough sample to give real confidence in day-to-day reliability.\n\nIt uses push-button electric start with an included battery and charger, so there is no pull cord and no separate battery purchase needed. It is a push mower rather than self-propelled, so the user still supplies the forward effort, which is worth weighing against the self-propelled picks above for anyone who tires easily on a longer lawn.",
     bestFor: "a small to mid-size flat lawn where a push mower is still manageable",
     pros: ["Large review base with a solid 4.2-star rating", "Push-button start, no pull cord", "Lighter and narrower than the 21-inch models here"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch deck", "11-amp corded motor", "Push-button start", "No battery to charge or replace"],
+    specList: [{"label":"Size","value":"15-inch deck"},{"label":"Motor","value":"11-amp corded motor"},{"label":"Reviews","value":"Push-button start"},{"label":"Battery","value":"No battery to charge or replace"}],
     description: "Because this mower plugs into a standard outdoor outlet, there is no battery to charge overnight or replace after a few seasons, and it holds a 4.0-star rating across roughly 4,400 reviews. That makes it one of the more budget-friendly ways to get push-button starting without any gas handling at all.\n\nThe tradeoff is the cord itself. It needs to be managed around trees, flower beds, and the mowing path, and the mower's range is limited by an outdoor extension cord and the nearest outlet. It works best for a small, unobstructed yard close to the house.",
     bestFor: "a small yard near an outlet where a battery is not wanted",
     pros: ["No battery to buy, charge, or eventually replace", "Solid 4.0-star rating from a meaningful review base", "Lower upfront price than most battery models here"],
@@ -78,6 +85,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B078YYPWLY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31CdnGNWAvL._SL500_.jpg", price: "$65.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["12-inch corded mowing width", "Converts to weed eater and edger", "6.5-amp motor", "Compact, lightweight body"],
+    specList: [{"label":"Size","value":"12-inch corded mowing width"},{"label":"Feature 2","value":"Converts to weed eater and edger"},{"label":"Motor","value":"6.5-amp motor"},{"label":"Weight Capacity","value":"Compact, lightweight body"}],
     description: "This is a different kind of tool than the others in this guide. Rather than a full-size mower, it is a compact corded unit that converts between a small push mower, a weed eater, and an edger, and it holds a 4.2-star rating across nearly 9,700 reviews. Its low weight and one-tool-does-three-jobs design can reduce the number of separate yard tools someone needs to store, lift, and maintain.\n\nThe narrow 12-inch mowing width means it is not a practical primary mower for a full-size lawn, and like any corded tool it needs the extension cord managed during use. It fits best as a light-duty tool for a very small patch of grass, trimming, and edging rather than as a stand-alone lawn mower.",
     bestFor: "a very small yard or a secondary trimming and edging tool alongside a primary mower",
     pros: ["Strong 4.2-star rating across a large review base", "Combines mowing, trimming, and edging in one lightweight tool", "Low price point"],
@@ -88,6 +96,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch, 4-blade reel", "No motor, no battery, no cord", "No starting mechanism needed", "Very lightweight"],
+    specList: [{"label":"Size","value":"14-inch, 4-blade reel"},{"label":"Battery","value":"No motor, no battery, no cord"},{"label":"Reviews","value":"No starting mechanism needed"},{"label":"Weight Capacity","value":"Very lightweight"}],
     description: "This manual reel mower has no motor, no battery, no cord, and nothing to start, which removes an entire category of concern around pull cords, batteries, and fumes. It has built a large and consistent following, with a 4.3-star rating across more than 15,000 reviews. There is also nothing to charge or refuel, and very little to maintain beyond keeping the blades clean and sharp.\n\nBecause it relies entirely on the user pushing it forward to turn the blades, it takes more sustained physical effort than a motorized mower, and it works best on a small, flat, well-maintained lawn rather than thick, tall, or uneven grass. It is worth considering only when the intended user is comfortable with that steady push effort, or as a light-duty option for touch-ups between mowings with a motorized machine.",
     bestFor: "a small, flat, well-kept lawn and a user comfortable with steady manual push effort",
     pros: ["No motor, battery, cord, or starting mechanism to manage", "Very high 4.3-star rating across a large review base", "Minimal ongoing maintenance"],

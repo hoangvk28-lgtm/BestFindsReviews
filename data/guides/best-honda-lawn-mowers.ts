@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A current Honda mower guide should not rank discontinued U.S. gas models as if they were the active lineup. The current Honda lineup is a four-model battery family: HRN-BV, HRX-BV, HRX-BE, and the commercial HRC-BE, each with a different battery-bay and drive workflow.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "honda-hrn-bv", rank: 1, badge: "Best Overall", name: "Honda HRN-BV 21-Inch Battery Mower",
     amazonUrl: "https://www.amazon.com/dp/B0G8XZ8R49?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41TWe75N1ML._SL500_.jpg", price: "$499.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch steel deck","8Ah battery configuration","Variable-speed self-propel","Current battery generation"],
+    specList: [{"label":"Size","value":"21-inch steel deck"},{"label":"Battery","value":"8Ah battery configuration"},{"label":"Speed","value":"Variable-speed self-propel"},{"label":"Feature 4","value":"Current battery generation"}],
     description: "Honda HRN-BV 21-Inch Battery Mower combines 21-inch steel deck, 8Ah battery configuration, Variable-speed self-propel. That combination makes it a practical option for residential buyers wanting Honda's least expensive current battery mower.\n\nCheck the package contents carefully because battery and charger bundles can vary by seller. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "residential buyers wanting Honda's least expensive current battery mower",
     pros: ["21-inch steel deck","8Ah battery configuration","Variable-speed self-propel"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0G3CZMVT9?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41KGr4vq+3L._SL500_.jpg", price: "$749.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch NeXite deck","Single battery bay","Select Drive","4-in-1 Versamow"],
+    specList: [{"label":"Size","value":"21-inch NeXite deck"},{"label":"Battery","value":"Single battery bay"},{"label":"Drive Type","value":"Select Drive"},{"label":"Feature 4","value":"4-in-1 Versamow"}],
     description: "Honda HRX-BV 21-Inch Battery Mower combines 21-inch NeXite deck, Single battery bay, Select Drive. That combination makes it a practical option for homeowners prioritizing deck warranty and mowing-mode flexibility.\n\nThe single-bay configuration limits continuous runtime unless batteries are swapped manually. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "homeowners prioritizing deck warranty and mowing-mode flexibility",
     pros: ["21-inch NeXite deck","Single battery bay","Select Drive"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0G8Y6WZ9B?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41e3xsau+aL._SL500_.jpg", price: "$999.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","Dual battery bays","eSelect Drive","Roto-Stop blade control"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Battery","value":"Dual battery bays"},{"label":"Drive Type","value":"eSelect Drive"},{"label":"Blades","value":"Roto-Stop blade control"}],
     description: "Honda HRX-BE 21-Inch Battery Mower combines 21-inch deck, Dual battery bays, eSelect Drive. That combination makes it a practical option for larger residential lawns needing dual-bay flexibility.\n\nA second bay improves workflow only if the buyer budgets for enough battery capacity. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "larger residential lawns needing dual-bay flexibility",
     pros: ["21-inch deck","Dual battery bays","eSelect Drive"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0G3D2QYY1?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41YLXB7DlzL._SL500_.jpg", price: "$1,699.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch commercial deck","Dual battery bays","Electronic cruise control","Commercial positioning"],
+    specList: [{"label":"Size","value":"21-inch commercial deck"},{"label":"Battery","value":"Dual battery bays"},{"label":"Feature 3","value":"Electronic cruise control"},{"label":"Feature 4","value":"Commercial positioning"}],
     description: "Honda HRC-BE Commercial Battery Mower combines 21-inch commercial deck, Dual battery bays, Electronic cruise control. That combination makes it a practical option for professional or high-frequency mowing.\n\nIts price and commercial weight are difficult to justify for a typical weekly residential lawn. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "professional or high-frequency mowing",
     pros: ["21-inch commercial deck","Dual battery bays","Electronic cruise control"],

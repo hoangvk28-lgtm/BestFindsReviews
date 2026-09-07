@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "5,012 reviews",
     specs: ["Glass carafe, 40oz", "Half or full batch switch", "4 to 6 minute brew time", "Auto shutoff after 100 minutes"],
+    specList: [{"label":"Capacity","value":"Glass carafe, 40oz"},{"label":"Feature 2","value":"Half or full batch switch"},{"label":"Feature 3","value":"4 to 6 minute brew time"},{"label":"Feature 4","value":"Auto shutoff after 100 minutes"}],
     description:
       "The KBGV Select is the standard glass-carafe Moccamaster and the model most people mean when they say Moccamaster. A brew-volume selector switch lets you brew a half batch instead of a full 40oz pot, which most competitors in this price range do not offer as a simple physical switch.\n\nBrewing is entirely manual: there is no built-in timer or programmable start, you fill the reservoir and flip the switch. The pump-free design heats water to a target temperature for extraction and finishes a full pot in 4 to 6 minutes, then shuts off automatically after 100 minutes so it is not left running indefinitely.",
     bestFor: "Buyers who want the classic Moccamaster brewing experience and do not need a programmable timer.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,285 reviews",
     specs: ["Stainless thermal carafe, 40oz", "Manual adjustable brew basket", "4 to 6 minute brew time", "5-year warranty"],
+    specList: [{"label":"Capacity","value":"Stainless thermal carafe, 40oz"},{"label":"Adjustability","value":"Manual adjustable brew basket"},{"label":"Feature 3","value":"4 to 6 minute brew time"},{"label":"Warranty","value":"5-year warranty"}],
     description:
       "The KBT swaps the glass carafe for a stainless steel thermal carafe, which holds heat for hours instead of relying on a warming plate that can slowly cook coffee sitting on it. If you do not drink the full pot within 30 to 45 minutes of brewing, this is the more practical choice of the two carafe styles.\n\nIt also adds a manually adjustable brew basket, letting you fine tune contact time between water and grounds. The tradeoff is a thermal carafe lid with more parts than a simple glass lid, so it needs a bit more attention when cleaning.",
     bestFor: "Buyers who brew a full pot but drink it over an hour or more rather than right away.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,251 reviews",
     specs: ["Glass carafe, 40oz", "Brushed silver finish", "Manual operation", "5-year warranty"],
+    specList: [{"label":"Capacity","value":"Glass carafe, 40oz"},{"label":"Color/Finish","value":"Brushed silver finish"},{"label":"Feature 3","value":"Manual operation"},{"label":"Warranty","value":"5-year warranty"}],
     description:
       "The KB is Moccamaster's other core glass-carafe line, distinguished mainly by its brushed silver finish and specific basket hardware rather than the half-batch switch found on the Select. Grind size and grounds amount matter more here since under-extraction from too coarse a grind or too little coffee can leave the brew under-pressured.\n\nLike the rest of the lineup, there is no digital display or programmable start, and reprogramming your grind and dose is a matter of trial and adjustment rather than app-based settings. It suits buyers who already know their preferred grind and want a manual, mechanical brewing process without added electronics.",
     bestFor: "Buyers who want manual control over grind and dose and prefer a brushed finish over polished silver.",

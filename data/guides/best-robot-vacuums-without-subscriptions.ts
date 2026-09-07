@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "18,587 reviews",
     specs: ["10000Pa suction", "Vacuum and mop combo", "Up to 7-9 weeks self-empty", "App scheduling and mapping"],
+    specList: [{"label":"Suction Power","value":"10000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Up to 7-9 weeks self-empty"},{"label":"Connectivity","value":"App scheduling and mapping"}],
     description:
       "The Q7 M5+ pairs strong 10000Pa suction with a mop function and a self-empty base rated for up to 7 to 9 weeks between bag changes. Mapping, room-by-room scheduling, and no-go zones all run through the free app with no paid tier required to use them.\n\nWith the highest review count and strongest rating of the models in this comparison, it is the safest default pick for buyers who want a full-featured vacuum-and-mop combo without hunting through settings to confirm nothing is gated behind a fee.",
     bestFor: "Buyers who want a full vacuum-and-mop combo with long self-empty intervals and proven reliability at scale.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "widely reviewed with generally positive feedback",
     reviews: "a large number of customer reviews",
     specs: ["Matrix Clean navigation", "Home mapping", "30-day capacity self-empty base", "Bagless HEPA base"],
+    specList: [{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Connectivity","value":"Home mapping"},{"label":"Capacity","value":"30-day capacity self-empty base"},{"label":"Collection","value":"Bagless HEPA base"}],
     description:
       "The AV2501S uses Shark's Matrix Clean navigation with home mapping, and its self-empty base is bagless with a HEPA-filtered bin rated for about 30 days of capacity, which sidesteps the recurring cost of replacement bags entirely. Mapping and scheduling run through the app with no subscription needed for daily cleaning.\n\nIt is marketed specifically toward pet hair pickup, and the bagless base design means the main ongoing cost is periodic HEPA filter replacement rather than bags. Check the current listing for exact filter replacement intervals and whether any optional cloud features are offered.",
     bestFor: "Pet owners who want strong hair pickup and a bagless self-empty base to skip the cost of replacement bags.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "consistently well rated among current roborock combo models",
     reviews: "thousands of customer reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "Self-empty base", "App-based mapping and scheduling"],
+    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-empty base"},{"label":"Connectivity","value":"App-based mapping and scheduling"}],
     description:
       "The Q10 S5+ shares the same 10,000Pa suction tier as our top pick, in a slightly different combo configuration with its own self-empty base. Core cleaning, mapping, and scheduling all run without any subscription, matching the rest of the current roborock Q-series lineup.\n\nFor buyers comparing it directly against the Q7 M5+, the practical difference usually comes down to self-empty bag capacity and included accessories, both of which are worth confirming on the current listing before choosing between the two.",
     bestFor: "Buyers who want top-tier suction in a self-empty combo and are comparing directly against the Q7 M5+.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "a long-running model with generally favorable feedback",
     reviews: "a substantial number of customer reviews",
     specs: ["Super-thin profile", "Quiet operation", "No self-empty base", "App and remote control"],
+    specList: [{"label":"Feature 1","value":"Super-thin profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Feature 3","value":"No self-empty base"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "The 11S MAX is built thin enough to fit under low furniture that stops taller robots, and it runs quietly compared to higher-suction combo models. It has no self-empty base, so there is no bag consumable at all, just a dust bin to empty by hand.\n\nIt skips mopping and advanced room mapping in favor of a simpler, lower-cost design, which also means fewer moving parts and fewer potential recurring costs beyond an occasional filter or brush replacement. Check the current listing to confirm current app functionality.",
     bestFor: "Buyers with low-clearance furniture who want a quiet, no-frills vacuum with essentially no bag costs.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "no verified independent rating available at review time",
     reviews: "review count not independently verified at review time",
     specs: ["10000Pa max suction", "App control", "Self-charging", "Budget price tier"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Connectivity","value":"App control"},{"label":"Feature 3","value":"Self-charging"},{"label":"Feature 4","value":"Budget price tier"}],
     description:
       "The A30s advertises the same 10000Pa max suction figure as pricier combo units here, at roughly half the price. It handles basic scheduling and self-charging through the app with no subscription required for core use.\n\nAt this price tier, expect fewer premium touches like a self-empty base or true room mapping. For a buyer whose main goal is strong suction on a tight budget without any recurring fees, it is worth checking the current listing for exact navigation and mapping capability before buying.",
     bestFor: "Budget-focused buyers who want strong advertised suction without paying for a self-empty base or mopping.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "no verified independent rating available at review time",
     reviews: "review count not independently verified at review time",
     specs: ["Self-empty base included", "App scheduling", "Standard navigation", "No mop function"],
+    specList: [{"label":"Feature 1","value":"Self-empty base included"},{"label":"Connectivity","value":"App scheduling"},{"label":"Navigation","value":"Standard navigation"},{"label":"Mopping","value":"No mop function"}],
     description:
       "The Navigator brings a self-empty base into the Shark lineup at a lower feature tier than the AI Ultra model above, focused on vacuum-only cleaning with app scheduling. There is no mopping and no subscription requirement for the features it does include.\n\nBecause it skips the AI Ultra's Matrix Clean navigation, mapping accuracy and coverage may be less consistent room to room. Confirm current navigation specs and self-empty bag replacement cost on the listing before buying.",
     bestFor: "Buyers who want the convenience of a self-empty base without paying for Shark's top navigation tier.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "generally favorable feedback for its price tier",
     reviews: "a sizable number of customer reviews",
     specs: ["120-minute runtime", "Slim, low-noise design", "Wi-Fi, app, and Alexa control", "Automatic self-charging"],
+    specList: [{"label":"Feature 1","value":"120-minute runtime"},{"label":"Design","value":"Slim, low-noise design"},{"label":"Connectivity","value":"Wi-Fi, app, and Alexa control"},{"label":"Feature 4","value":"Automatic self-charging"}],
     description:
       "The M210 is a compact, budget-tier vacuum with a 120-minute runtime, Wi-Fi and Alexa control, and automatic self-charging, all with no account fee required for daily scheduling. There is no self-empty base, so upkeep is limited to emptying the bin and periodic brush and filter cleaning.\n\nIt is aimed at pet hair and daily hard-floor cleaning rather than mopping or advanced mapping, making it a reasonable entry point for a smaller home or apartment on a tight budget.",
     bestFor: "Small apartments or a first robot vacuum where budget and simplicity matter more than mapping precision.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "no verified independent rating available at review time",
     reviews: "review count not independently verified at review time",
     specs: ["5000Pa suction", "Vacuum and mop combo", "150-minute max runtime", "App and remote control"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"150-minute max runtime"},{"label":"Connectivity","value":"App and remote control"}],
     description:
       "The G8000 Max combines vacuuming and mopping in a budget combo unit with a 150-minute max runtime and both app and physical remote control, useful for buyers who do not want to rely on a phone for every setting change. No subscription is needed for scheduling or the mop function.\n\nSuction sits lower than the premium picks in this guide, so it suits mixed hard floor and low-pile carpet more than deep carpet cleaning. As with any mop-combo unit, factor in the ongoing cost of mop pads and cleaning solution alongside the vacuum's own consumables.",
     bestFor: "Buyers who want vacuum-and-mop in one budget unit and prefer having a physical remote as a backup to the app.",

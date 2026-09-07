@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53,550 reviews",
     specs: ["12-cup carafe + single-serve", "Pod or ground compatible", "Dual reservoirs", "Auto shut-off"],
+    specList: [{"label":"Capacity","value":"12-cup carafe + single-serve"},{"label":"Feature 2","value":"Pod or ground compatible"},{"label":"Feature 3","value":"Dual reservoirs"},{"label":"Feature 4","value":"Auto shut-off"}],
     description:
       "The 2-Way Brewer covers both a full 12-cup carafe and single-serve pod brewing from one machine, which is the kind of flexibility that only becomes realistic once you move past the sub-$50 tier. It uses separate reservoirs for each mode, so switching between a full pot and a single cup does not require refilling or reconfiguring anything.\n\nIt supports both K-Cup-style pods and ground coffee in the single-serve side, giving buyers a real choice on ongoing cost rather than locking them into pods. That flexibility, plus its large review base, is why it tops this list.",
     bestFor: "Households that want both a full carafe and single-serve pod brewing without buying two machines.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "28,849 reviews",
     specs: ["12-cup capacity", "Stainless steel accents", "Fresh Brew technology", "Programmable"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Material","value":"Stainless steel accents"},{"label":"Feature 3","value":"Fresh Brew technology"},{"label":"Feature 4","value":"Programmable"}],
     description:
       "The Fresh Brew is a straightforward but well-built 12-cup drip machine without the added complexity of a single-serve mode, which keeps it simpler to use and clean than the dual-mode Hamilton Beach. Ninja's Fresh Brew technology is designed to pulse water over the grounds rather than a constant stream, aiming for more even extraction.\n\nFor a household that only ever needs a full pot and never a single cup, this avoids paying for pod compatibility you would not use.",
     bestFor: "Buyers who only need full-carafe brewing and want a simpler, single-purpose machine.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,498 reviews",
     specs: ["Single-serve only", "Pod or ground compatible", "Compact footprint", "Multiple cup sizes"],
+    specList: [{"label":"Feature 1","value":"Single-serve only"},{"label":"Feature 2","value":"Pod or ground compatible"},{"label":"Design","value":"Compact footprint"},{"label":"Capacity","value":"Multiple cup sizes"}],
     description:
       "This Ninja is a single-serve-only machine that, like the Hamilton Beach, accepts either K-Cup-style pods or ground coffee, giving buyers the ability to skip pods entirely if they prefer. It sits at the top of this budget tier price-wise but stays compact since it never has to accommodate a full carafe.\n\nFor a single user who never brews a full pot, the flexibility to switch between pods and grounds without needing carafe storage makes this the more space-efficient pick over the dual-mode Hamilton Beach.",
     bestFor: "A single user who wants pod flexibility without the footprint of a carafe machine.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22,693 reviews",
     specs: ["10-cup capacity", "900 watts", "Drip-free design", "Dishwasher-safe carafe"],
+    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Design","value":"Drip-free design"},{"label":"Feature 4","value":"Dishwasher-safe carafe"}],
     description:
       "The Simply Brew is the lowest-priced machine in this comparison by a wide margin and still delivers a respectable 10-cup capacity with a dishwasher-safe carafe, a small but genuinely convenient detail that neither of the pricier machines here specifically call out. At 900 watts it is a straightforward, no-frills drip machine.\n\nIt lacks the single-serve or dual-mode flexibility of the other three picks, but for a buyer who just wants a reliable full pot without paying for features they will not use, it leaves real budget headroom under the $100 ceiling.",
     bestFor: "Buyers who want a reliable full-pot drip machine and to spend well under the $100 ceiling.",

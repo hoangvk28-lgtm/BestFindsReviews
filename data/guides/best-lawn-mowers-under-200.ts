@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Under $200 covers three very different power sources, small gas mowers, corded or battery electrics, and manual reel mowers, and each one asks for a different tradeoff between price, effort, and yard size. We compared complete ready-to-mow price, deck width, cut quality, and safety and warranty basics rather than ranking by price alone.",
   "This site also publishes a separate Best Lawn Mowers Under $100 guide for the tightest budgets and a Best Lawn Mowers Under $300 guide for buyers who can stretch past this tier for self-propel, larger decks, or more battery capacity. Use this guide if a complete, ready-to-mow setup under $200 is the goal.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "powersmart-easycut-18", rank: 1, badge: "Best Overall", name: "PowerSmart EasyCut 18-Inch Gas Lawn Mower",
     amazonUrl: "https://www.amazon.com/dp/B0D69LY9F9?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/410itr4mKuL._SL500_.jpg", price: "$189.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["18-inch deck", "144cc 4-cycle engine", "Side discharge", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"18-inch deck"},{"label":"Feature 2","value":"144cc 4-cycle engine"},{"label":"Feature 3","value":"Side discharge"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "PowerSmart EasyCut 18-Inch Gas Lawn Mower combines an 18-inch deck, a 144cc 4-cycle engine, and side discharge, and it carries a 4.4 rating from 367 reviews, the strongest rating of any pick in this guide. That combination makes it a practical option for small to mid-size yards where a wider deck and gas power cut mowing time compared to a manual or narrow electric mower.\n\nAt $189.99 it sits close to the top of this price tier, so it leaves little room before crossing into the next bracket, and gas power adds fuel, oil changes, and seasonal engine maintenance that electric and reel mowers do not need. Compare its deck width, fuel workflow, and storage needs with your property before buying.",
     bestFor: "small to mid-size yards where a wider gas-powered deck is worth the added maintenance",
     pros: ["18-inch deck covers ground faster than the narrower electrics in this guide", "144cc 4-cycle engine with side discharge", "Highest rating in this guide at 4.4 from 367 reviews"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "4-blade reel design", "No fuel or battery required", "Push-powered operation"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Hose","value":"4-blade reel design"},{"label":"Battery","value":"No fuel or battery required"},{"label":"Color/Finish","value":"Push-powered operation"}],
     description: "American Lawn Mower 1204-14 14-Inch Push Reel Mower combines a 14-inch cutting width, a 4-blade reel design, and push-powered operation with no fuel or battery to manage, and it has the largest review base in this guide at 15,053 reviews with a 4.3 rating. That combination makes it a practical option for small, flat, well-maintained lawns where the buyer wants the lowest ongoing cost and no charging or fueling routine.\n\nThe narrow 14-inch deck and manual push effort limit how much lawn it can realistically cover in one session, and reel mowers struggle with taller or thicker grass compared to powered options. Compare its cutting width and your yard size and terrain before buying.",
     bestFor: "small, flat lawns where the lowest ongoing cost and no fueling or charging matter most",
     pros: ["Largest review base in this guide, 15,053 reviews at a 4.3 rating", "No fuel, battery, or charging required", "Lowest price in this guide at $72.00"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch deck", "11-amp corded motor", "No battery to replace", "Cord-limited workflow"],
+    specList: [{"label":"Size","value":"15-inch deck"},{"label":"Motor","value":"11-amp corded motor"},{"label":"Battery","value":"No battery to replace"},{"label":"Feature 4","value":"Cord-limited workflow"}],
     description: "LawnMaster MEB1114K 15-Inch Corded Electric Mower combines a 15-inch deck with an 11-amp corded motor and needs no battery to buy or replace, and it holds a 4.0 rating from 4,448 reviews. That combination makes it a practical option for small, unobstructed yards near an outlet where consistent power without charging or fueling matters.\n\nManaging an outdoor extension cord around trees, beds, and the mowing path is the core tradeoff of any corded mower, and the 15-inch deck means more passes on a larger lawn. Compare its cord workflow and yard layout before buying.",
     bestFor: "small unobstructed yards near an outlet that want consistent power without batteries",
     pros: ["11-amp corded motor with no battery to buy or replace", "4.0 rating from 4,448 reviews", "Consistent power output with no charge time between sessions"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B078YYPWLY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31CdnGNWAvL._SL500_.jpg", price: "$65.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["12-inch cutting width", "6.5-amp corded motor", "3-in-1 mower, trimmer, and edger", "Compact push design"],
+    specList: [{"label":"Size","value":"12-inch cutting width"},{"label":"Motor","value":"6.5-amp corded motor"},{"label":"Feature 3","value":"3-in-1 mower, trimmer, and edger"},{"label":"Design","value":"Compact push design"}],
     description: "BLACK+DECKER BESTA512CM 3-in-1 Mower, Weed Eater and Edger combines a compact 12-inch cutting width with a 6.5-amp corded motor that converts between mowing, trimming, and edging, and it holds a 4.2 rating from 9,666 reviews. That combination makes it a practical option for very small yards, patios, or tight side strips where one tool replacing three saves storage space and money.\n\nThe 12-inch cutting width is the narrowest in this guide, so it is not a fit for a full-size lawn, and switching between mowing, trimming, and edging modes takes setup time compared to a dedicated mower. Compare its cutting width against your actual mowable area before buying.",
     bestFor: "very small yards, patios, or edge strips that also want a trimmer and edger in one purchase",
     pros: ["Converts between mower, weed eater, and edger, replacing three tools", "4.2 rating from 9,666 reviews", "Lowest price in this guide at $65.00"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVD6ZLV?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51zw5LOnu7L._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch deck", "Brushless motor", "5.0Ah battery and charger included", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"14-inch deck"},{"label":"Feature 2","value":"Brushless motor"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "Litheli 14-Inch Cordless Lawn Mower, 5.0Ah Battery combines a 14-inch deck with a brushless motor and an included 5.0Ah battery and charger, and it currently holds a 3.9 rating from a smaller review base of 48 reviews. That combination makes it a practical option for buyers who want cordless freedom without a corded mower's cable management, rated to cut up to 3,000 square feet on a charge.\n\nThe review base is still small compared to the corded and reel options in this guide, so buyer feedback on long-term battery life is limited so far, and the 14-inch deck suits small lawns rather than larger properties. Compare its rated coverage area with your lawn size before buying.",
     bestFor: "small lawns up to about 3,000 square feet where cordless convenience is worth more than a corded mower's lower price",
     pros: ["Brushless motor with battery and charger included in the price", "Cordless operation with no extension cord to manage", "5-position height adjustment"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H82DR75D?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Wu7LRPntL._SL500_.jpg", price: "$119.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["13-inch deck", "40V battery platform", "Lightweight cordless design", "Compact for small spaces"],
+    specList: [{"label":"Size","value":"13-inch deck"},{"label":"Power Source","value":"40V battery platform"},{"label":"Weight Capacity","value":"Lightweight cordless design"},{"label":"Design","value":"Compact for small spaces"}],
     description: "13-Inch Cordless Lawn Mower, 40V combines a compact 13-inch deck with a 40V battery platform in a lightweight cordless build, and it currently holds a 3.3 rating from a small review base of 19 reviews. That combination makes it a practical option for very small patches of lawn, courtyards, or backup mowing duty where light weight matters more than deck width.\n\nWith only 19 reviews and a 3.3 rating, buyer feedback is limited and lower than the other picks in this guide, so treat this as a secondary option rather than a primary lawn mower for a full-size yard. Compare its 13-inch deck and review base against the other picks here before buying.",
     bestFor: "very small patches of lawn or backup mowing duty where light weight matters most",
     pros: ["Lightweight and compact for small or tight spaces", "Cordless 40V battery platform with no extension cord"],

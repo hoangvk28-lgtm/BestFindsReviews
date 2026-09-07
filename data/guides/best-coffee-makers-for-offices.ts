@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,353 reviews",
     specs: ["Dual 12-cup decanters", "Upper and lower warmers", "Commercial pourover design", "Continuous brew capable"],
+    specList: [{"label":"Capacity","value":"Dual 12-cup decanters"},{"label":"Feature 2","value":"Upper and lower warmers"},{"label":"Design","value":"Commercial pourover design"},{"label":"Feature 4","value":"Continuous brew capable"}],
     description:
       "The VPR-2GD is built for offices where a single 12-cup pot cannot keep up, since it brews into two separate decanters that sit on independently switched warmers. That lets one decanter refill while the other is actively being poured, which matters during a real 9am rush when a dozen people want coffee inside 15 minutes.\n\nThis is a genuine commercial appliance rather than a home brewer pressed into office duty, so it needs a dedicated 120V outlet and enough counter depth for two warming plates side by side. It costs several times more than a home-style pod or drip machine, and that premium only pays off once daily cup volume is high enough to justify it.",
     bestFor: "Offices of roughly 20 or more daily coffee drinkers with a real morning rush and a dedicated breakroom outlet.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal always-hot tank", "Full pot in about 3 minutes", "Drip-free carafe", "3-year warranty"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Size","value":"Full pot in about 3 minutes"},{"label":"Capacity","value":"Drip-free carafe"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "The GRB keeps an internal tank hot at all times, so a full pot brews in about 3 minutes instead of the 8 to 10 minutes a standard drip machine needs to heat water from cold. For a team of 8 to 20 people cycling through two or three pots a day, that turnaround keeps a queue from forming at the machine the way a slower brewer would.\n\nA single unit like this still means one person is refilling grounds and water and rinsing the carafe throughout the day, so factor in a few minutes of staff time per pot. It draws standby power continuously to keep the tank hot, which is a real but modest addition to the office electricity bill compared to a pod machine that only powers on when brewing.",
     bestFor: "A shared breakroom for roughly 8 to 20 people that goes through multiple pots on a typical workday.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53,550 reviews",
     specs: ["Single-serve and 12-cup carafe modes", "2 separate reservoirs", "AutoPause & Pour", "Ground coffee only, no pods"],
+    specList: [{"label":"Capacity","value":"Single-serve and 12-cup carafe modes"},{"label":"Feature 2","value":"2 separate reservoirs"},{"label":"Feature 3","value":"AutoPause & Pour"},{"label":"Feature 4","value":"Ground coffee only, no pods"}],
     description:
       "This model solves a common small-office problem: some employees want a single cup right now and others want to start a shared pot for the team. It runs both brewing paths off two separate reservoirs, so someone brewing a single cup does not interrupt a carafe already in progress on the other side.\n\nBecause it uses scooped ground coffee rather than pods on both sides, there is no per-cup pod cost to track, only bulk coffee and filters, which is meaningfully cheaper per cup at office volume. The tradeoff is more manual cleaning than a pod machine, since both the single-serve basket and the 12-cup basket need regular grounds disposal and rinsing.",
     bestFor: "A small office of roughly 4 to 10 people with a mix of single-cup and full-pot preferences.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "One-cup reservoir", "6 to 12oz brew sizes", "90-second auto-off"],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Capacity","value":"One-cup reservoir"},{"label":"Feature 3","value":"6 to 12oz brew sizes"},{"label":"Feature 4","value":"90-second auto-off"}],
     description:
       "For a small office of two to six people, a pod machine like the K-Mini avoids the cleaning and staffing questions that come with any carafe-based brewer entirely. There is no shared grounds basket to empty and no pot sitting on a warming plate going stale between cups.\n\nThe real cost of this convenience is per-pod pricing, which typically runs 40 to 75 cents a cup and adds up faster than bulk ground coffee once more than a handful of people are drinking daily. It also only brews one cup at a time with no queue-easing second unit, so it starts to bottleneck once a team grows past roughly six regular coffee drinkers.",
     bestFor: "A very small office or shared desk area where two to six people want individual cups with zero shared cleaning.",

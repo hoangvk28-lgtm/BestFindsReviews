@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,645 reviews",
     specs: ["Vacuum and mop combo", "Self-charging dock", "App and Alexa control", "Multi-surface navigation"],
+    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 2","value":"Self-charging dock"},{"label":"Connectivity","value":"App and Alexa control"},{"label":"Navigation","value":"Multi-surface navigation"}],
     description:
       "The G8000 Max combines vacuuming and mopping in one pass, which matters in a small apartment where running two separate cleaning tools is rarely practical. Its self-charging dock returns it to a fixed spot automatically, so there is no cord to manage or remember to plug back in after each session.\n\nWith a 4.4 rating across thousands of reviews, it has the strongest track record of any model in this comparison, and app and Alexa control let you start or pause a cycle without walking over to press a button, which is useful when the dock sits close to a workspace or a bed.",
     bestFor: "Buyers who want a single proven vacuum-and-mop unit with a reliable, well-reviewed track record.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "Strong buyer ratings",
     reviews: "Widely reviewed on Amazon",
     specs: ["Slim, low-profile body", "120-minute runtime", "Wi-Fi/App/Alexa control", "Automatic self-charging"],
+    specList: [{"label":"Feature 1","value":"Slim, low-profile body"},{"label":"Feature 2","value":"120-minute runtime"},{"label":"Connectivity","value":"Wi-Fi/App/Alexa control"},{"label":"Feature 4","value":"Automatic self-charging"}],
     description:
       "The M210's low-noise design is a real advantage in a studio or one-bedroom apartment where the vacuum and the person working from home occupy the same open room. A slim body also helps it slide under low furniture like bed frames and sofas that trap bulkier robots.\n\nA 120-minute runtime is enough to cover a full small-apartment floor plan in one cycle without needing a mid-clean recharge, and Wi-Fi and Alexa control mean you can schedule cleanings for while you are out rather than running it during a call.",
     bestFor: "Apartments where a quiet cycle and a slim profile matter more than mopping.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "Well reviewed by early buyers",
     reviews: "Growing review base",
     specs: ["5,200Pa suction", "Vacuum and mop combo", "Self-charging dock", "Robotic navigation"],
+    specList: [{"label":"Suction Power","value":"5,200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Navigation","value":"Robotic navigation"}],
     description:
       "5,200Pa of suction is on the stronger end for a machine at this price, which helps on the mixed hard floor and low-pile rug combinations common in small apartments. Pairing that suction with a mop function means one dock and one charging routine instead of managing two separate cleaning devices in limited storage.\n\nThe self-charging dock returns to a fixed base after each cycle, and because the unit handles both dry and wet cleaning, it suits renters who want thorough floor care without dedicating a closet shelf to a separate mop.",
     bestFor: "Apartments with a mix of hard floors and light rugs that want strong suction without a premium price tag.",
@@ -115,6 +119,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently praised in buyer feedback",
     reviews: "Actively reviewed on Amazon",
     specs: ["8,000Pa suction", "Vacuum and mop combo", "roborock navigation mapping", "Self-charging dock"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"roborock navigation mapping"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "roborock's mapping and navigation are generally a step above budget-tier robots, and 8,000Pa of suction is the strongest figure in this comparison, useful for apartments with pet hair or higher-traffic rugs near an entryway. The tradeoff for that performance is a dock that tends to be bulkier than simple self-charging bases, so it is worth measuring the spot you plan to use before buying.\n\nIf you want the option to upgrade to an auto-empty base later, roborock's ecosystem generally supports that path, which is worth knowing even if you start with the simpler dock that ships in the box.",
     bestFor: "Buyers who want the strongest suction here and don't mind a slightly larger dock footprint.",
@@ -139,6 +144,7 @@ export const products: GuideProduct[] = [
     rating: "Generally positive buyer feedback",
     reviews: "Steady stream of reviews",
     specs: ["Tangle-free suction inlet", "Compact round body", "Self-charging dock", "Vacuum only"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction inlet"},{"label":"Design","value":"Compact round body"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Feature 4","value":"Vacuum only"}],
     description:
       "The V2's tangle-free suction inlet is aimed squarely at apartments with pets or long hair, where a standard roller brush needs frequent manual cleaning. It skips mopping and app-heavy features entirely, keeping the price low and the dock small enough for a corner of a studio.\n\nAs a vacuum-only, no-frills machine, it is a reasonable starting point for a renter who wants basic automated cleaning without committing to a larger combo system or a bulky auto-empty tower.",
     bestFor: "Renters who want simple, affordable automated vacuuming without mopping or a large dock.",
@@ -163,6 +169,7 @@ export const products: GuideProduct[] = [
     rating: "Long-standing buyer approval",
     reviews: "Large established review history",
     specs: ["Super-thin profile", "Quiet operation", "BoostIQ suction adjustment", "Self-charging dock"],
+    specList: [{"label":"Feature 1","value":"Super-thin profile"},{"label":"Feature 2","value":"Quiet operation"},{"label":"Suction Power","value":"BoostIQ suction adjustment"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "eufy's 11S MAX has been on the market long enough to build a large base of owner feedback, and its super-thin profile is built specifically to slide under low couches, bed frames, and cabinet toe-kicks that trap thicker robots. That combination of low height and quiet running makes it well suited to a compact apartment where the vacuum shares the room with a desk or a couch.\n\nIt is vacuum only, and it sits at a higher price than some newer combo units here, but the tradeoff is a mature, well-tested design rather than a newer entrant still building its track record.",
     bestFor: "Apartments with very low furniture clearance where a thin profile matters more than mopping.",
@@ -187,6 +194,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed by early adopters",
     reviews: "Building a solid review count",
     specs: ["5,000Pa suction", "3-in-1 vacuum, mop, and self-charge", "App and Alexa control", "Pet hair and carpet mode"],
+    specList: [{"label":"Suction Power","value":"5,000Pa suction"},{"label":"Size","value":"3-in-1 vacuum, mop, and self-charge"},{"label":"Connectivity","value":"App and Alexa control"},{"label":"Feature 4","value":"Pet hair and carpet mode"}],
     description:
       "This 3-in-1 combo is built with pet hair and mixed carpet and floor cleaning in mind, pairing 5,000Pa of suction with a mopping pass so fur that gets ground into low-pile rugs is picked up rather than just pushed around. App and Alexa control let you run it while you're out, which matters if pet dander cleanup is a daily rather than weekly task.\n\nAt under $100 it undercuts most of the other combo units in this comparison, making it a reasonable middle ground between the budget-only ILIFE V2 and the pricier roborock and eufy models.",
     bestFor: "Pet owners in small apartments who want combo cleaning without paying premium combo pricing.",
@@ -211,6 +219,7 @@ export const products: GuideProduct[] = [
     rating: "Backed by iRobot's established reputation",
     reviews: "Recently launched, reviews still accumulating",
     specs: ["No dock needed", "Compacts dirt internally, up to 60 days", "Bagless design", "LiDAR navigation"],
+    specList: [{"label":"Feature 1","value":"No dock needed"},{"label":"Design","value":"Compacts dirt internally, up to 60 days"},{"label":"Collection","value":"Bagless design"},{"label":"Navigation","value":"LiDAR navigation"}],
     description:
       "The DustCompactor's headline feature is skipping the charging dock entirely in favor of an onboard bin that compacts dirt internally for up to 60 days between emptying. That is a genuine space saver in a studio where even a slim auto-empty tower is one appliance too many, though the unit still needs a spot to park and charge.\n\nLiDAR navigation carries over iRobot's longstanding mapping strengths, and bagless, space-saving design keeps ongoing costs and clutter low, though as a newer release it has a shorter review history than the brand's older Roomba lines.",
     bestFor: "Apartments where avoiding a bulky auto-empty dock is the top priority.",

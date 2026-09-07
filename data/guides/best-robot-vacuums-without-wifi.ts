@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "5,172 reviews",
     specs: ["Tangle-free suction", "Onboard button start", "Self-charging dock", "No app required"],
+    specList: [{"label":"Suction Power","value":"Tangle-free suction"},{"label":"Reviews","value":"Onboard button start"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Connectivity","value":"No app required"}],
     description:
       "The V2 is built as a genuinely simple machine rather than a scaled-down smart model. There is no app to install and no account to create. You press start on the unit itself or set a basic schedule using the onboard controls, and it cleans and returns to its dock on its own.\n\nThat simplicity is exactly why it tops this list. Every function a typical buyer needs, daily runs, tangle-free brush operation, self-charging, works without ever touching a phone. It will not build a room map or let you draw no-go zones, but for buyers whose main goal is avoiding Wi-Fi setup entirely, it delivers on that with no compromises hiding in the fine print.",
     bestFor: "Buyers who want zero Wi-Fi or app involvement at any point, from setup through daily use.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Highly rated",
     reviews: "by a large base of verified buyers",
     specs: ["Super-slim under-furniture profile", "Included remote control", "Quiet operation mode", "Self-charging"],
+    specList: [{"label":"Feature 1","value":"Super-slim under-furniture profile"},{"label":"Feature 2","value":"Included remote control"},{"label":"Feature 3","value":"Quiet operation mode"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The 11S MAX comes from eufy's long-running non-connected lineup, and it ships with a physical remote that handles scheduling, spot cleaning, and mode selection without ever pairing to Wi-Fi. Its slim profile is also a practical advantage since it can get under couches and low furniture that trap taller robots.\n\nBecause there is no app layer at all on this model, setup is limited to charging the dock and placing the remote's batteries, then you are running. It trades away smart mapping for a genuinely lower price point and a proven, widely reviewed design.",
     bestFor: "Buyers who want a physical remote for daily control and value low-profile design for furniture clearance.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Well reviewed",
     reviews: "among current owners",
     specs: ["10000Pa max suction", "Onboard controls plus optional app", "Self-charging dock", "Wi-Fi optional, not required"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Connectivity","value":"Onboard controls plus optional app"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Color/Finish","value":"Wi-Fi optional, not required"}],
     description:
       "The A30s pairs strong suction with the option, not the requirement, to connect over Wi-Fi. Out of the box, the onboard buttons let you start a clean, set basic schedules, and send it home to dock, all without opening an app or creating an account.\n\nIf you later decide you want app-based scheduling or usage reports, that option exists, but nothing about daily operation depends on it. That makes it a good fit for buyers who want stronger suction than the base ILIFE V2 without accepting a mandatory cloud connection.",
     bestFor: "Buyers who want higher suction power and the flexibility to add Wi-Fi later, without it being required.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Positively rated",
     reviews: "by Amazon shoppers",
     specs: ["5000Pa suction", "Vacuum and mop combo", "App and remote control included", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"5000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and remote control included"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "Tikom builds this model with both an app and a physical remote in the box, which is a meaningfully different setup than models where the remote is an afterthought. The remote covers starting a clean, choosing suction level, running the mop function, and sending the robot home, all without connecting to Wi-Fi.\n\nThe app adds room-by-room scheduling and cleaning history if you want it, but every core function listed above works from the remote alone. That makes it a solid pick for someone who wants the mop combo feature but is not ready to commit to the app-only experience most mop-combo models push you toward.",
     bestFor: "Buyers who want vacuum and mop in one machine while keeping day-to-day control on a physical remote.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Solidly rated",
     reviews: "in current owner feedback",
     specs: ["10000Pa max suction", "Vacuum and mop in one pass", "Onboard button controls", "Self-charging dock"],
+    specList: [{"label":"Suction Power","value":"10000Pa max suction"},{"label":"Size","value":"Vacuum and mop in one pass"},{"label":"Feature 3","value":"Onboard button controls"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "The A30 Pro takes the same suction rating as the A30s and adds mopping, while keeping the same design philosophy: onboard buttons handle starting, scheduling, and docking without requiring Wi-Fi to function on day one. It is a step up for households that want both cleaning modes from a single machine.\n\nAs with the A30s, an app connection is available for buyers who want it, but it sits on top of a fully working button-controlled base rather than gating basic operation behind a required setup step.",
     bestFor: "Buyers who want vacuum and mop combined in one unit without a mandatory app setup.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably rated",
     reviews: "among recent purchasers",
     specs: ["Self-emptying base", "Vacuum and mop functions", "Physical button start", "Self-charging dock"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop functions"},{"label":"Reviews","value":"Physical button start"},{"label":"Feature 4","value":"Self-charging dock"}],
     description:
       "Self-emptying bases usually come bundled with a heavier app dependency, since manufacturers like to pair them with usage dashboards and bin-status alerts. This model keeps the self-emptying convenience while still allowing you to start, schedule, and dock the robot using its onboard buttons.\n\nThe tradeoff for skipping Wi-Fi is that you lose remote bin-status notifications and app-based scheduling flexibility, but the physical emptying and docking cycle itself runs independently of any connection.",
     bestFor: "Buyers who want the convenience of a self-emptying base without needing an app to operate it day to day.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Strongly rated",
     reviews: "across recent buyers",
     specs: ["8,000Pa suction", "Lidar-based navigation", "Included physical remote", "Vacuum and mop combo"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Navigation","value":"Lidar-based navigation"},{"label":"Feature 3","value":"Included physical remote"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "Roborock's lineup leans heavily on its app for most models, so it is worth being direct here: the Q7 L5 still ships with a physical remote that covers starting a clean, choosing a suction level, and sending it home to dock, all without connecting to Wi-Fi. That said, its lidar navigation and room-mapping strengths are largely wasted without the app, since mapping data and no-go zones are managed there.\n\nWe include it because the remote genuinely does cover daily operation on its own, but buyers should go in expecting this to be the most app-oriented product on this list, with Wi-Fi being optional for basic use but necessary to unlock what the hardware is actually capable of.",
     bestFor: "Buyers who want the option to add smart mapping later but need remote-only operation to work today.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Consistently rated well",
     reviews: "in owner feedback",
     specs: ["7000Pa suction", "LiDAR navigation", "Self-empty station", "Onboard button controls"],
+    specList: [{"label":"Suction Power","value":"7000Pa suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"Self-empty station"},{"label":"Feature 4","value":"Onboard button controls"}],
     description:
       "This is the most feature-dense model on this list, combining lidar navigation with a self-empty station, and it still allows starting, scheduling, and docking from the robot's own buttons rather than requiring an app to function at all. For buyers who want higher-end hardware but still refuse to hand over Wi-Fi access, it is one of the few options that does not force that choice.\n\nAs with the Roborock model above, connecting to Wi-Fi unlocks room mapping and zone-based cleaning, features that lidar hardware is specifically built for. Skipping the app means you are paying for navigation capability you will only partially use, so this pick fits a specific buyer: someone who wants premium hardware today and is leaving the door open to connect later.",
     bestFor: "Buyers who want premium self-emptying and lidar hardware while keeping Wi-Fi optional at setup.",

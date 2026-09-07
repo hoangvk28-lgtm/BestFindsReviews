@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Single brew button", "No milk system", "6 to 12oz brew", "Auto off after 90 sec"],
+    specList: [{"label":"Feature 1","value":"Single brew button"},{"label":"Feature 2","value":"No milk system"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"Auto off after 90 sec"}],
     description:
       "Once water is in the reservoir and a pod is loaded, this machine genuinely needs one press to brew, with no size or strength menu to work through first. There is no milk system to add extra actions, so the core brew action is the entire interaction.\n\nIts simplicity is also its limit: it cannot make espresso drinks or milk-based coffee, so the one-touch claim only has to cover a single black coffee, which is a much easier bar to clear than a machine offering lattes and cappuccinos.",
     bestFor: "Buyers who want a literal one-press brew and only ever drink black coffee.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,075 reviews",
     specs: ["12-cup glass carafe", "One-touch operation", "Pause and serve", "Keep warm plate"],
+    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"One-touch operation"},{"label":"Feature 3","value":"Pause and serve"},{"label":"Feature 4","value":"Keep warm plate"}],
     description:
       "This model brings the same core one-action brew to a full 12-cup pot: fill the reservoir, add grounds to the filter basket, press the single button. The pause-and-serve function is a genuinely separate action if you use it, since pouring mid-brew means removing the carafe rather than pressing anything.\n\nThe keep-warm plate runs automatically once brewing finishes and needs no extra action to activate, but it does need to be manually turned off, which is a small additional step beyond the core one-touch brew claim.",
     bestFor: "A full pot with a genuine single-button start, at the lowest price in this comparison.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "10,392 reviews",
     specs: ["8-cup thermal carafe", "One-touch brew", "SCA certified", "Audible complete signal"],
+    specList: [{"label":"Capacity","value":"8-cup thermal carafe"},{"label":"Feature 2","value":"One-touch brew"},{"label":"Feature 3","value":"SCA certified"},{"label":"Feature 4","value":"Audible complete signal"}],
     description:
       "The core brew action here is a single press once water and grounds are loaded, brewing a full 8-cup pot in about 6 minutes with an audible signal when it finishes, which is a genuine convenience since you do not need to watch the machine to know it is done. An optional bloom pre-infusion mode is available but is not required for the base one-touch brew.\n\nThe thermal carafe avoids a separate keep-warm plate and its associated on/off action, since it holds heat passively. At close to $190, this is a meaningful price premium over the Gourmia for a faster, SCA-certified brew and no warming plate step to manage.",
     bestFor: "Buyers who want fast, SCA-certified brewing with a genuine one-touch start and no separate warming step.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "3,225 reviews",
     specs: ["19-bar pump", "Automatic milk frother", "One-touch drink selection", "18oz milk reservoir"],
+    specList: [{"label":"Feature 1","value":"19-bar pump"},{"label":"Feature 2","value":"Automatic milk frother"},{"label":"Feature 3","value":"One-touch drink selection"},{"label":"Feature 4","value":"18oz milk reservoir"}],
     description:
       "This is the clearest example in this comparison of a one-touch label applied to a machine that needs more than one action for a full milk drink. Selecting an espresso shot is genuinely one touch once grounds or an ESE pod are loaded, but a cappuccino or latte also requires filling and placing the separate milk reservoir, choosing a froth level, and running the milk cycle, which are additional actions beyond the core espresso button.\n\nThe automatic frother is a real convenience once set up, and the progress bar gives useful feedback during the shot. Judged only on pulling a straight espresso shot from already-loaded grounds, the one-touch claim holds; judged on a full milk-based drink, it does not.",
     bestFor: "Buyers who want espresso-machine capability and understand that milk drinks require more than a single button press.",

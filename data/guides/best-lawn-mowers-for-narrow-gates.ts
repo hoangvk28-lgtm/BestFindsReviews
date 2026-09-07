@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Deck width is the number printed on the box, but it is rarely the widest point of the mower. Rear wheels, side discharge chutes, and folding handles can all sit outside the deck line, so a mower rated for a 14-inch or 16-inch cut can still be too wide to clear a narrow side gate without turning it sideways or removing a part.",
   "We compared listed deck width alongside handle folding, chute placement, and overall footprint so you can shortlist mowers by actual gate clearance rather than by the deck number alone, and we noted where a listing does not specify overall width so you can confirm it before buying.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "litheli-cordless-14in", rank: 1, badge: "Best Overall", name: "Litheli Cordless Lawn Mower 14 Inch",
     amazonUrl: "https://www.amazon.com/dp/B0GXVD6ZLV?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51zw5LOnu7L._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "5.0Ah battery and charger included", "5-position height adjustment (1 to 2.5 in)", "Lightweight push design"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Adjustability","value":"5-position height adjustment (1 to 2.5 in)"},{"label":"Weight Capacity","value":"Lightweight push design"}],
     description: "The Litheli Cordless Lawn Mower 14 Inch pairs a 14-inch deck with a lightweight push frame and an included 5.0Ah battery, which keeps the machine easy to angle through a tight gate opening without wrestling extra bulk around the frame. Buyers rate it 3.9 out of 5 across 48 reviews, a small sample worth weighing alongside the specs.\n\nA 14-inch deck rating covers only the cutting swath, not the wheels, handle, or any protruding hardware, so measure the mower's actual overall width against your narrowest gate point before ordering. It is best suited to small yards, around 3,000 square feet by the listing, where a compact machine and easy storage matter more than raw cutting speed.",
     bestFor: "small lawns and buyers who need the narrowest practical deck with a light frame",
     pros: ["Narrow 14-inch deck suited to tight access points", "Lightweight and easy to angle through gates", "5.0Ah battery and charger included in the box"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H8SH465J?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41bn6ghaLLL._SL500_.jpg", price: "$129.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["13-inch cutting width", "Brushless motor", "Compact cordless design", "20V battery platform"],
+    specList: [{"label":"Size","value":"13-inch cutting width"},{"label":"Feature 2","value":"Brushless motor"},{"label":"Design","value":"Compact cordless design"},{"label":"Power Source","value":"20V battery platform"}],
     description: "The MZK 20V 13-Inch Electric Lawn Mower has the narrowest deck in this comparison at 13 inches, and its compact cordless build is aimed at small patios and side strips where a full-size mower will not clear the opening at all. It holds a strong 4.8 rating, though that figure comes from only 66 reviews, so treat it as an early signal rather than a settled track record.\n\nA brushless motor should mean less maintenance over time, but with such a limited review count, long-run reliability data is still thin. As with any narrow-deck mower, confirm wheel width and handle fold dimensions separately, since those can extend beyond the 13-inch cutting line.",
     bestFor: "very small yards or side strips where even a 14-inch deck will not fit",
     pros: ["Narrowest deck in this lineup at 13 inches", "Brushless motor for lower expected maintenance", "Strong 4.8 rating from early buyers"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch cutting width", "11A corded motor", "No battery to replace", "Rated 4.0 stars from 4,448 reviews"],
+    specList: [{"label":"Size","value":"15-inch cutting width"},{"label":"Feature 2","value":"11A corded motor"},{"label":"Battery","value":"No battery to replace"},{"label":"Durability","value":"Rated 4.0 stars from 4,448 reviews"}],
     description: "The LawnMaster MEB1114K Electric Corded Lawn Mower cuts a 15-inch swath with an 11-amp corded motor, and its 4.0-star rating across 4,448 reviews gives it the largest and most established feedback base in this guide. A corded design also means no battery pack adding width or weight to the housing.\n\nManaging the extension cord through a narrow gate is a separate consideration from the mower's physical width, since the cord needs to pass alongside the machine without snagging on gate posts or hinges. The 15-inch deck is still narrower than most standard push mowers, but confirm wheel spacing against your gate opening before buying.",
     bestFor: "small unobstructed yards near an outlet where a proven, well-reviewed corded mower fits the gate",
     pros: ["Largest review base in this guide at 4,448 reviews and a solid 4.0 rating", "No battery pack to add bulk or replace over time", "15-inch deck narrower than most standard walk-behinds"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting width", "40V 4.0Ah battery and charger included", "Rated 4.2 stars from 12,116 reviews", "Push drive"],
+    specList: [{"label":"Size","value":"16-inch cutting width"},{"label":"Power Source","value":"40V 4.0Ah battery and charger included"},{"label":"Durability","value":"Rated 4.2 stars from 12,116 reviews"},{"label":"Drive Type","value":"Push drive"}],
     description: "The Greenworks 40V 16-Inch Push Lawn Mower steps up to a 16-inch deck with a 4.0Ah battery included, and its 4.2-star rating across 12,116 reviews makes it the most heavily reviewed mower in this lineup, a useful signal if you want a track record before committing.\n\nAt 16 inches the deck is at the wider end of what typically clears a narrow residential side gate, so this is a pick for gates with a bit more room to spare rather than the tightest openings. Check the folding handle dimensions and wheel width against your specific gate before ordering, since Greenworks does not list a separate overall-width figure.",
     bestFor: "buyers with slightly wider gate access who still want a compact deck and an established review history",
     pros: ["Largest, most established review base among the wider-deck options at 12,116 reviews", "40V 4.0Ah battery and charger included in the box", "Push drive keeps the frame simple and light"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B078YYPWLY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31CdnGNWAvL._SL500_.jpg", price: "$65.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["12-inch cutting width", "Corded, 6.5 amp motor", "3-in-1 mower, trimmer, and edger", "Rated 4.2 stars from 9,666 reviews"],
+    specList: [{"label":"Size","value":"12-inch cutting width"},{"label":"Motor","value":"Corded, 6.5 amp motor"},{"label":"Feature 3","value":"3-in-1 mower, trimmer, and edger"},{"label":"Durability","value":"Rated 4.2 stars from 9,666 reviews"}],
     description: "The BLACK+DECKER 3-in-1 Combo has the narrowest mowing width in this guide at 12 inches, built as a corded push mower that converts into a string trimmer and edger. It carries a 4.2-star rating from 9,666 reviews, a substantial feedback base for a budget-priced combo tool.\n\nThis is not a full-lawn mower for anything beyond a small patch, but its narrow deck and light corded frame make it one of the easiest machines in this guide to carry through a tight gate rather than push through it. As with the other corded option here, plan the extension cord path separately from the mower's own width.",
     bestFor: "very small yards or patches where a light, narrow, budget-priced combo tool covers the whole job",
     pros: ["Narrowest cutting width in this guide at 12 inches", "Converts to a trimmer and edger, useful for tight borders near the gate", "Low price with a solid 4.2 rating from 9,666 reviews"],

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "5,012 reviews",
     specs: ["Copper heating element", "4 to 6 minute brew for 40oz", "Brew-volume selector switch", "5-year warranty"],
+    specList: [{"label":"Feature 1","value":"Copper heating element"},{"label":"Feature 2","value":"4 to 6 minute brew for 40oz"},{"label":"Feature 3","value":"Brew-volume selector switch"},{"label":"Warranty","value":"5-year warranty"}],
     description:
       "The Moccamaster is built specifically around hitting a consistent contact temperature in the SCA-referenced 195 to 205 degree range, using a copper heating element designed to reach that window quickly rather than gradually creeping up to it. That consistency is the main reason this style of brewer commands a premium price over a standard programmable machine.\n\nIt has no digital display, timer, or app, just a single brew-volume switch, which is a deliberate simplicity tradeoff for reliability. The 5-year warranty is unusually long for a home coffee maker and reflects a build quality intended to be repaired rather than replaced when something wears out.",
     bestFor: "Buyers who care most about consistent extraction temperature and are willing to pay a premium for it.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal always-hot tank", "Full pot in about 3 minutes", "Multi-stream sprayhead", "3-year warranty"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Size","value":"Full pot in about 3 minutes"},{"label":"Nozzles","value":"Multi-stream sprayhead"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "The GRB's internal tank stays hot around the clock, so it can hit brewing temperature almost immediately once you flip the lid, rather than heating water from a cold start like most drip machines. That is the single biggest functional difference between Bunn's home lineup and everything else in this comparison.\n\nThe tradeoff is standby power draw and a required multi-fill setup before first use to bring the tank to temperature. Once running, the multi-stream sprayhead is designed to saturate grounds evenly, which is the same extraction principle premium machines chase, just achieved with a different mechanism.",
     bestFor: "Buyers who brew multiple pots daily and want the fastest pot-to-pot turnaround in this comparison.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["24-hour programmability", "Adjustable heater plate temperature", "Permanent gold-tone filter", "Charcoal water filter included"],
+    specList: [{"label":"Feature 1","value":"24-hour programmability"},{"label":"Adjustability","value":"Adjustable heater plate temperature"},{"label":"Filtration","value":"Permanent gold-tone filter"},{"label":"Feature 4","value":"Charcoal water filter included"}],
     description:
       "The DCC-1200P1 is the mainstream programmable drip machine most people picture when they think of a coffee maker, with a 24-hour delay-brew timer and an adjustable heater plate that lets you nudge brew temperature toward the higher end of typical drip range. Unlike the Moccamaster, it does not target a certified temperature spec, so buyers who care about that specifically should check current owner feedback on brew heat rather than assuming it.\n\nA permanent gold-tone filter and built-in charcoal water filter are included, which cuts ongoing paper filter cost and helps with tap water taste. Cleaning is straightforward with a removable filter basket and a standard glass carafe on a warming plate.",
     bestFor: "Buyers who want a familiar programmable drip machine with reusable filters at a mid-range price.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup DuraLife glass carafe", "Sneak-a-Cup pause", "Digital 24-hour programmability", "Standard paper filter required"],
+    specList: [{"label":"Capacity","value":"12-cup DuraLife glass carafe"},{"label":"Feature 2","value":"Sneak-a-Cup pause"},{"label":"Feature 3","value":"Digital 24-hour programmability"},{"label":"Color/Finish","value":"Standard paper filter required"}],
     description:
       "At around $31, this is the clear budget pick here, and it still includes a 24-hour programmable timer and a Sneak-a-Cup pause feature that most buyers would expect only on pricier machines. It requires a standard paper coffee filter rather than a reusable one, which adds a small recurring cost but keeps the brew basket easy to clean.\n\nOwnership at this price generally means a shorter expected lifespan and a more basic 1-year warranty than the premium options here, which is the realistic tradeoff for the low upfront cost. Small-batch brewing works but, like most budget drip machines, extraction can taste weaker on a 2 to 4 cup brew than a full pot unless you adjust grind or coffee amount.",
     bestFor: "Budget-conscious buyers who want core programmable drip features without paying for a premium build.",

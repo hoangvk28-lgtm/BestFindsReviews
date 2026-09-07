@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A brushless motor claim tells you the motor design, not how the whole mower performs. Some listings put the word in the title to stand out, so we checked each product title directly for a brushless claim before including it here, and left out mowers that only imply the feature without stating it.",
   "Brushless alone is not automatic proof of overall mower quality. Deck width, battery capacity, controller protection, and how the machine holds up under tall or damp grass matter just as much as the motor label, so we compare the complete mower rather than ranking by motor type alone.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "mzk-40v-16-brushless", rank: 1, badge: "Best Overall", name: "MZK 40V 16-Inch 2-in-1 Brushless Cordless Push Mower",
     amazonUrl: "https://www.amazon.com/dp/B0H8SHLHRP?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41lv2YY91tL._SL500_.jpg", price: "$159.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V battery platform", "Brushless motor (per title)", "2-in-1 mulch and bag"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V battery platform"},{"label":"Feature 3","value":"Brushless motor (per title)"},{"label":"Collection","value":"2-in-1 mulch and bag"}],
     description: "MZK 40V 16-Inch 2-in-1 Brushless Cordless Push Mower states a brushless motor directly in its listing title, and combines that with a 16-inch deck and 40V battery platform, making it a practical option for small to mid-size lawns where deck width and included battery capacity both matter. Buyers rate it 4.6 out of 5 across 201 reviews, which is a reasonably sized sample for this class.\n\nA brushless motor claim on the label does not by itself confirm runtime under tall or damp grass, controller heat handling, or long-term repairability. Compare its deck width, included battery capacity, and warranty terms against your yard before buying.",
     bestFor: "small to mid-size lawns wanting a stated brushless motor and a wider deck",
     pros: ["16-inch deck", "40V battery platform", "Brushless motor stated in the listing title"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0H8SH465J?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41bn6ghaLLL._SL500_.jpg", price: "$129.98",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["13-inch deck", "20V battery platform", "Brushless motor (per title)", "Compact push design"],
+    specList: [{"label":"Size","value":"13-inch deck"},{"label":"Power Source","value":"20V battery platform"},{"label":"Feature 3","value":"Brushless motor (per title)"},{"label":"Design","value":"Compact push design"}],
     description: "MZK 20V 13-Inch Compact Brushless Electric Lawn Mower also states a brushless motor in its title, paired with a smaller 13-inch deck and 20V battery platform suited to tight or small lawns rather than larger properties. It carries a 4.8 out of 5 rating, though that score is drawn from only 66 reviews, a small sample worth weighing against the higher-review options in this class.\n\nThe narrow deck limits productivity on anything beyond a small yard, and the small review count means less field history to judge long-term durability. Compare its cut width, controller build, and warranty coverage against how much lawn you actually need to cover.",
     bestFor: "small or tight lawns where a compact stated-brushless mower is enough",
     pros: ["13-inch compact deck", "20V battery platform", "Brushless motor stated in the listing title"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXVD6ZLV?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51zw5LOnu7L._SL500_.jpg", price: "$99.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch deck", "5.0Ah battery and charger included", "Brushless motor (per title)", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"14-inch deck"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Feature 3","value":"Brushless motor (per title)"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "Litheli Cordless Lawn Mower 14 Inch, Brushless Motor Push Mower is the lowest-priced option here at $99.99 and states its brushless motor directly in the title, with a 5.0Ah battery and charger included and a 14-inch deck rated for up to about 3,000 square feet. Its rating sits at 3.9 out of 5 from 48 reviews, the lowest score and smallest sample of the three mowers on this list.\n\nThe lower rating and small review count suggest more variability in real-world experience than the other picks, even with the brushless claim and included battery. Weigh the low price against that mixed feedback and the small deck before buying for anything beyond a compact yard.",
     bestFor: "very small lawns and buyers prioritizing price over review confidence",
     pros: ["Lowest price in this comparison", "Battery and charger included", "Brushless motor stated in the listing title"],

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["Genuine 12-cup (60oz) carafe", "24-hour programmability", "Adjustable heater plate", "Permanent gold-tone filter"],
+    specList: [{"label":"Capacity","value":"Genuine 12-cup (60oz) carafe"},{"label":"Feature 2","value":"24-hour programmability"},{"label":"Adjustability","value":"Adjustable heater plate"},{"label":"Filtration","value":"Permanent gold-tone filter"}],
     description:
       "The DCC-1200P1's 12-cup glass carafe holds the standard 60oz, meaning it fills at the manufacturer's 5oz-per-cup measurement rather than 12 full 8oz mugs, which would actually require a 96oz carafe. This is the industry-standard cup measurement across nearly every automatic drip machine, not a Cuisinart-specific quirk.\n\nIt handles a full 12-cup batch well and includes a 1-4 cup setting for smaller pours, so it does not force you into brewing a full pot every time. The carafe has a comfort-grip handle rated for the full 60oz of hot coffee, and the reservoir sits at the back rather than lifting out, so refilling means pouring water in from a kettle or measuring cup rather than carrying the reservoir to the sink.",
     bestFor: "Buyers who want a genuine full-size 12-cup carafe with reliable small-batch handling built in.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "28,849 reviews",
     specs: ["12-cup (60oz) carafe", "Dedicated small batch function", "Removable 60oz reservoir", "Clean/descale button"],
+    specList: [{"label":"Capacity","value":"12-cup (60oz) carafe"},{"label":"Feature 2","value":"Dedicated small batch function"},{"label":"Feature 3","value":"Removable 60oz reservoir"},{"label":"Feature 4","value":"Clean/descale button"}],
     description:
       "Ninja specifically calls out a dedicated small batch function for 1-4 cup brews, which is designed to avoid the diluted taste that plain drip machines often produce when brewing well under their full 12-cup capacity. If you frequently brew for one or two people but still want the option of a full pot for guests, this distinction matters more than the headline capacity number.\n\nThe 60oz reservoir is fully removable, so you can carry it to the sink to fill rather than pouring water in at the machine, which is a genuine convenience difference from the Cuisinart. A dedicated clean setting simplifies descaling, which is worth using regularly since mineral buildup is what most commonly causes small-batch brews to taste off on any drip machine over time.",
     bestFor: "Buyers who regularly brew fewer than a full 12 cups but still want full-pot capacity available.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "44,650 reviews",
     specs: ["12-cup (60oz) carafe", "Grab-A-Cup Auto Pause", "Removable basket filter", "Cord storage"],
+    specList: [{"label":"Capacity","value":"12-cup (60oz) carafe"},{"label":"Feature 2","value":"Grab-A-Cup Auto Pause"},{"label":"Filtration","value":"Removable basket filter"},{"label":"Feature 4","value":"Cord storage"}],
     description:
       "Mr. Coffee's listing explicitly states its cup measurement, one cup equals 5 fluid ounces for a 60oz total capacity, which is the clearest confirmation of the industry-standard measurement among the machines in this comparison. At $40, it delivers that same genuine 12-cup capacity as pricier competitors without a small-batch mode or programmable timer.\n\nIt keeps things simple with a single brew button and a Grab-A-Cup Auto Pause feature that lets you pour a cup mid-brew. The carafe, basket, and overall build are noticeably lighter-duty than the Cuisinart or Ninja, which tracks with its lower price and shorter expected lifespan under heavy daily use.",
     bestFor: "Budget buyers who want a genuine 12-cup carafe without paying for programmability or small-batch tuning.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup DuraLife glass carafe", "Easy-view water window", "Sneak-a-Cup pause", "Digital 24-hour programmability"],
+    specList: [{"label":"Capacity","value":"12-cup DuraLife glass carafe"},{"label":"Feature 2","value":"Easy-view water window"},{"label":"Feature 3","value":"Sneak-a-Cup pause"},{"label":"Feature 4","value":"Digital 24-hour programmability"}],
     description:
       "This model's listing also explicitly notes the standard cup equals approximately 5 ounces, and its DuraLife carafe has measurement markings printed directly on the glass so you can see exactly how much water you are adding rather than guessing. That front-facing water window is a genuinely useful detail for a budget machine, since inaccurate fills are a common cause of weak or over-strong coffee on any drip machine.\n\nAt roughly $31 it includes a 24-hour programmable timer and Sneak-a-Cup pause, features that undercut competitors twice its price. It uses a standard paper filter rather than a permanent one, which adds a small recurring cost but keeps the basket simple to clean between brews.",
     bestFor: "Budget buyers who want precise fill visibility and programmability in a genuine 12-cup machine.",

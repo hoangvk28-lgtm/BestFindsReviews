@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "929 reviews",
     specs: ["25,000Pa suction", "Robot vacuum and mop combo", "AI obstacle detection", "Self-cleaning dock"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Robot vacuum and mop combo"},{"label":"Feature 3","value":"AI obstacle detection"},{"label":"Feature 4","value":"Self-cleaning dock"}],
     description:
       "The L40 Ultra Gen 2 leads this comparison on suction power alone at 25,000Pa, but the more relevant detail for obstacle avoidance is that it pairs that suction with an AI-driven detection system built to identify and route around common floor clutter rather than plowing through it. That combination matters most in homes with pets or kids, where cords and small objects are a daily fact of life.\n\nAs a combo mop and vacuum, it also has to make real-time decisions about when to lift the mop pad near rugs or obstacles, which is a harder problem than avoidance alone. Check recent buyer reviews for how consistently the mop-lift timing lines up with the vacuum's obstacle calls, since that is where combo units most often lose points.",
     bestFor: "Buyers who want the strongest current combination of suction and AI-based obstacle detection in one machine.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Well reviewed by early Shark AI Ultra buyers",
     reviews: "Review volume growing steadily since release",
     specs: ["Matrix Clean navigation", "Home mapping", "30-day self-empty base", "HEPA bagless system"],
+    specList: [{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Connectivity","value":"Home mapping"},{"label":"Feature 3","value":"30-day self-empty base"},{"label":"Collection","value":"HEPA bagless system"}],
     description:
       "Shark's AI Ultra line uses camera-based Matrix Clean navigation, which is a step up from the bump-sensor approach still common at this price point. The system is designed to map a room and plan cleaning paths that account for furniture and clutter rather than reacting to contact after the fact.\n\nThe 30-day self-empty HEPA base is a genuine convenience feature for pet owners, since it means fewer manual bin trips between full cleanings. Check recent buyer reviews specifically for how the AI camera handles low-light rooms and evening cleaning schedules, since camera-based systems generally need more ambient light than sensor or laser-based alternatives to work as advertised.",
     bestFor: "Pet owners who want camera-based mapping and a long self-empty interval without paying flagship pricing.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Strong early reception from Roomba buyers",
     reviews: "Reviews accumulating quickly after launch",
     specs: ["AI obstacle avoidance", "75-day self-emptying dock", "Lifting spinning mop pads", "Hot dry self-cleaning"],
+    specList: [{"label":"Feature 1","value":"AI obstacle avoidance"},{"label":"Feature 2","value":"75-day self-emptying dock"},{"label":"Mopping","value":"Lifting spinning mop pads"},{"label":"Feature 4","value":"Hot dry self-cleaning"}],
     description:
       "iRobot markets AI obstacle avoidance directly in this model's title, and the 505X pairs it with a multifunction dock that self-empties for up to 75 days and self-cleans the mop pads with a hot-dry cycle. That is one of the longer stretches between manual maintenance of any model in this comparison.\n\nThe lifting spinning mop pads are meant to raise automatically near carpets or detected obstacles rather than dragging a wet pad across them, which is a common complaint on older combo units. Check recent buyer reviews for how the AI avoidance specifically handles pet waste and cords, since iRobot's obstacle detection has changed meaningfully across firmware updates in past generations.",
     bestFor: "Pet owners who want a long self-emptying interval plus a mop system built around detected obstacles.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Positive impressions from initial eufy E25 owners",
     reviews: "Newly listed, review count still building",
     specs: ["20,000Pa suction", "HydroJet roller mop", "Vacuum and mop combo", "Structured obstacle sensing"],
+    specList: [{"label":"Suction Power","value":"20,000Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Color/Finish","value":"Structured obstacle sensing"}],
     description:
       "The E25 leans on strong 20,000Pa suction and eufy's HydroJet roller mop system, which self-washes the roller rather than using a traditional pad. For obstacle avoidance specifically, eufy's recent flagship models have shifted toward structured-light and depth sensing rather than relying only on cameras, which can help in rooms with inconsistent lighting.\n\nAt this price it sits close to the top pick, so the deciding factor for most buyers will be the mop mechanism preference (roller versus pad) rather than avoidance capability alone. Check recent buyer reviews for how the roller mop interacts with detected obstacles like cords, since roller-style mops handle avoidance differently than pad-lift designs.",
     bestFor: "Buyers who prefer a self-washing roller mop over a pad system and want strong suction alongside it.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Encouraging feedback from early D30 Ultra adopters",
     reviews: "Review base still smaller than the established L40 line",
     specs: ["25,000Pa suction", "Vacuum and mop combo", "3D obstacle recognition", "Automated dock maintenance"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"3D obstacle recognition"},{"label":"Feature 4","value":"Automated dock maintenance"}],
     description:
       "The D30 Ultra CE matches the top pick's 25,000Pa suction rating but sits in a different product tier within dreame's lineup, at a lower price. dreame's Ultra series generally uses 3D structured-light or dual-light recognition to identify obstacles rather than a single camera, which tends to hold up better across varied lighting than camera-only systems.\n\nBecause it shares a platform with the L40 Ultra Gen 2, buyers who like this comparison's top pick but want to spend less should check whether the D30's avoidance hardware has been trimmed down in any way. Recent buyer reviews are the best source for confirming whether obstacle handling on cords and small clutter matches the flagship model or falls a step behind it.",
     bestFor: "Buyers who want dreame's obstacle-avoidance approach at a lower price than the flagship L40 Ultra Gen 2.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Favorable early word of mouth on the T90 Omni",
     reviews: "Reviews still ramping up post launch",
     specs: ["30,000Pa suction", "Vacuum and mop combo", "AIVI 3D obstacle recognition", "Omni multifunction dock"],
+    specList: [{"label":"Suction Power","value":"30,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"AIVI 3D obstacle recognition"},{"label":"Feature 4","value":"Omni multifunction dock"}],
     description:
       "ECOVACS' DEEBOT Omni line has been built around AIVI, the brand's camera and AI recognition system for identifying specific obstacle types rather than treating every object the same way. The T90 Omni carries the highest raw suction number in this entire comparison at 30,000Pa, though suction and obstacle avoidance are separate capabilities and a strong suction rating says nothing about how well the robot avoids clutter in the first place.\n\nThe Omni dock typically bundles self-emptying, mop washing, and drying in one station, which reduces day-to-day upkeep. Check recent buyer reviews for how AIVI performs specifically on pet waste and dark-colored cords, since object recognition systems can vary widely in how they classify low-contrast items.",
     bestFor: "Buyers who want maximum suction alongside camera-based AI obstacle recognition in one flagship unit.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Generally positive feedback from Yeedi M12 Pro buyers",
     reviews: "Moderate and growing review count",
     specs: ["25,000Pa suction", "Vacuum and mop combo", "AI-assisted navigation", "ECOVACS sub-brand engineering"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"AI-assisted navigation"},{"label":"Brand","value":"ECOVACS sub-brand engineering"}],
     description:
       "As an ECOVACS sub-brand, Yeedi's M12 Pro Gen2 inherits AI-assisted navigation technology from the parent company's more expensive DEEBOT line at a considerably lower price. The 25,000Pa suction rating matches several models here that cost twice as much, though the obstacle-avoidance hardware itself is typically a scaled-down version of what ships on the flagship DEEBOT units.\n\nThat tradeoff is reasonable for buyers who want AI-style avoidance without flagship pricing, but it also means avoidance accuracy on small or low-contrast objects can lag behind the true flagship models in this comparison. Check recent buyer reviews for how it handles cords and socks specifically before assuming it performs identically to its more expensive sibling.",
     bestFor: "Budget-conscious buyers who still want AI-assisted obstacle navigation rather than basic bump sensors.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Reasonably well received among budget shoppers",
     reviews: "Modest review count typical of a newer budget release",
     specs: ["6,000Pa suction", "75-day self-emptying", "Home mapping", "140-minute runtime"],
+    specList: [{"label":"Suction Power","value":"6,000Pa suction"},{"label":"Feature 2","value":"75-day self-emptying"},{"label":"Connectivity","value":"Home mapping"},{"label":"Feature 4","value":"140-minute runtime"}],
     description:
       "The M2 Plus is the clear budget option in this comparison at under $160, with a 6,000Pa suction rating well below the flagship models here. Its home mapping and 75-day self-empty dock are genuinely useful conveniences at this price, but the listing does not call out AI camera or 3D structured-light obstacle recognition the way several higher-priced models in this guide do.\n\nThat likely means it relies more heavily on basic infrared or bump-style sensing for avoidance, which tends to react to obstacles rather than identify and route around them in advance. Check recent buyer reviews closely for how it actually handles cords, socks, and pet waste before buying if avoidance accuracy is your top priority, since budget sensor arrays vary widely in real-world performance.",
     bestFor: "Budget shoppers who want home mapping and long self-empty intervals and can accept more basic obstacle sensing.",

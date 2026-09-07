@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,289 reviews",
     specs: ["AutoEmpty Dock, 75-day capacity", "LiDAR Navigation", "Intense Power-Lifting Suction", "Multiple Cleaning Modes"],
+    specList: [{"label":"Capacity","value":"AutoEmpty Dock, 75-day capacity"},{"label":"Navigation","value":"LiDAR Navigation"},{"label":"Suction Power","value":"Intense Power-Lifting Suction"},{"label":"Feature 4","value":"Multiple Cleaning Modes"}],
     description:
       "The Roomba 105 Combo pairs iRobot's long-standing vacuum navigation with an AutoEmpty dock rated to hold up to 75 days of debris before you have to touch the bin. LiDAR navigation gives it consistent room mapping, and the multiple cleaning modes let you set different suction and mop behavior for different rooms rather than one blanket setting for the whole home.\n\nWith close to 50,000 reviews and a 4.4 average, it has by far the largest track record of any model in this comparison, which is worth weighing heavily since combo units have more moving parts than a vacuum-only robot. As with any combo dock, the AutoEmpty bag still needs periodic replacement and the mop tank needs refilling, so it reduces maintenance rather than eliminating it entirely.",
     bestFor: "Buyers who want the most proven, widely reviewed combo on the market and are comfortable paying a mid-range price for that track record.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["10,000Pa Suction", "Self-Empty Dock", "Mop Function"],
+    specList: [{"label":"Suction Power","value":"10,000Pa Suction"},{"label":"Feature 2","value":"Self-Empty Dock"},{"label":"Mopping","value":"Mop Function"}],
     description:
       "The Q10 S5+ leads with 10,000Pa of rated suction, which puts it ahead of most models in this price range on paper vacuum performance. That number matters most on hard floors and low-pile carpet, since very high suction alone does not guarantee equally strong mopping, and we'd encourage buyers to judge the two systems somewhat separately rather than assuming a strong vacuum spec implies an equally strong mop.\n\nAs with most self-empty combo docks in this range, plan on periodically washing the mop pad and cleaning the dust tray by hand even with the automated bin emptying in place. That upkeep is standard across nearly every combo on the market, not a specific weakness of this model.",
     bestFor: "Homes with mostly hard flooring where high rated suction is the priority.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Frequently recommended",
     specs: ["5000Pa Suction", "150 Min Runtime", "App & Remote Control", "Self-Charge"],
+    specList: [{"label":"Suction Power","value":"5000Pa Suction"},{"label":"Feature 2","value":"150 Min Runtime"},{"label":"Connectivity","value":"App & Remote Control"},{"label":"Feature 4","value":"Self-Charge"}],
     description:
       "The G8000 Max is the least expensive combo in this comparison by a wide margin, and it still covers the basics buyers actually use day to day: app control, a remote for manual driving, and a rated 150-minute runtime that should clear a typical small to mid-size home on one charge. At 5000Pa, its suction is meaningfully lower than the premium options here, so it is best matched to lighter daily upkeep rather than heavy pet hair or thick carpet.\n\nThis model does not include a self-emptying dock, so expect to empty the dustbin by hand and rinse the mop pad yourself after each session. For a first robot combo or a secondary unit for a small apartment, that tradeoff is a reasonable way to keep the price down.",
     bestFor: "Budget-conscious buyers or a secondary unit for a small apartment who don't need a self-empty dock.",
@@ -112,6 +116,7 @@ export const products: GuideProduct[] = [
     rating: "Well-liked by buyers",
     reviews: "Strong buyer feedback",
     specs: ["5200Pa Suction", "Vacuum & Mop Combo", "Compact Robot Body"],
+    specList: [{"label":"Suction Power","value":"5200Pa Suction"},{"label":"Mopping","value":"Vacuum & Mop Combo"},{"label":"Design","value":"Compact Robot Body"}],
     description:
       "The ROPVACNIC combo sits in the same budget tier as the Tikom G8000 Max but comes from a lesser-known brand, which tends to mean a shorter review history to lean on. At 5200Pa it offers a slight suction bump over the G8000 Max at a similar price, making it worth cross-shopping if you want the extra suction headroom for pet hair.\n\nLike other lower-priced combos in this list, the dock here handles basic charging rather than automated emptying, so daily maintenance is more hands-on. Buyers with carpet should specifically check the current listing for whether the mop pad lifts automatically when the robot crosses onto carpet, since that detail is not always obvious from the marketing copy alone.",
     bestFor: "Buyers who want a slightly higher suction rating than the cheapest option without moving up to a mid-range price.",
@@ -135,6 +140,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Widely purchased",
     specs: ["Omni All-in-One Dock", "Hardwood & Carpet Rated", "Self-Empty & Self-Wash"],
+    specList: [{"label":"Size","value":"Omni All-in-One Dock"},{"label":"Material","value":"Hardwood & Carpet Rated"},{"label":"Feature 3","value":"Self-Empty & Self-Wash"}],
     description:
       "eufy's Omni line is built around an all-in-one dock designed to empty the dustbin, wash the mop pads, and refill the water tank without much hands-on involvement, which is the single biggest quality-of-life upgrade a combo dock can offer over a basic charging base. That said, even self-cleaning docks still need the clean water tank refilled, the dirty water tank emptied, and the detergent topped off periodically, so budget for that ongoing routine rather than expecting zero maintenance.\n\nThe listing specifically calls out hardwood and carpet coverage, which is worth noting since carpet performance is where cheaper combos most often fall short. If carpet is a significant part of your home, this is one of the stronger candidates here to research further on mop-lift behavior specifically.",
     bestFor: "Households that want the fullest self-cleaning dock experience and have a mix of hardwood and carpet.",
@@ -158,6 +164,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["FlexiArm Edge Mopping", "Premium Navigation", "Vacuum & Mop Combo"],
+    specList: [{"label":"Mopping","value":"FlexiArm Edge Mopping"},{"label":"Navigation","value":"Premium Navigation"},{"label":"Feature 3","value":"Vacuum & Mop Combo"}],
     description:
       "The Qrevo S5V's headline feature is FlexiArm edge mopping, an extending arm designed to reach mop pads into corners and along baseboards that a fixed, centered mop pad typically misses. That is one of the more useful mopping-specific upgrades in this comparison rather than a suction claim, and it addresses a real, commonly reported gap in robot mopping generally.\n\nAt just under $500, it is the most expensive model in this list, and buyers should weigh whether edge mopping specifically matters enough in their home to justify the premium over the eufy Omni C20 at a lower price. As with the other premium docks here, expect periodic mop pad washing and tray cleaning even with automated features in place.",
     bestFor: "Buyers who specifically want better edge and corner mopping and are willing to pay a premium for it.",
@@ -181,6 +188,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["8,000Pa Suction", "Vacuum & Mop Combo", "Budget-Tier Pricing"],
+    specList: [{"label":"Suction Power","value":"8,000Pa Suction"},{"label":"Mopping","value":"Vacuum & Mop Combo"},{"label":"Feature 3","value":"Budget-Tier Pricing"}],
     description:
       "The Q7 L5 brings a well-known brand and a rated 8,000Pa of suction down to the same roughly $140 price point as the ROPVACNIC and Tikom picks, which makes it one of the stronger suction-per-dollar options we found in this comparison. For buyers who trust the roborock ecosystem and app but don't want to spend $280 or more on the Q10 S5+, this is the natural step-down pick.\n\nLike the other budget entries here, it does not include a self-emptying dock, so factor in manual dustbin emptying and mop pad rinsing as part of the ongoing routine. The vacuum and mop performance should still be evaluated somewhat independently, since a solid suction rating doesn't automatically carry over to strong mopping results.",
     bestFor: "Buyers who want a recognized brand and strong suction rating without paying mid-range prices.",
@@ -204,6 +212,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Widely purchased",
     specs: ["15,000Pa Suction", "HydroJet Roller Mop", "Premium Combo"],
+    specList: [{"label":"Suction Power","value":"15,000Pa Suction"},{"label":"Mopping","value":"HydroJet Roller Mop"},{"label":"Feature 3","value":"Premium Combo"}],
     description:
       "The C28 posts the highest rated suction in this entire comparison at 15,000Pa, which is a meaningful advantage on thicker carpet where lower-suction combos tend to struggle the most. Its HydroJet roller mop is a different mopping mechanism than the flat pad used by most other models here, designed to scrub rather than just drag a damp pad across the floor.\n\nBecause carpet is where combo units vary the most, we'd specifically recommend confirming in the current listing whether the mop mechanism lifts clear of carpet automatically. Auto-lift on carpet is a distinct feature from simply having a mop attachment, and it matters a great deal if your home has carpet the robot needs to cross regularly rather than avoid.",
     bestFor: "Homes with significant carpet coverage who want the highest available suction rating in this comparison.",

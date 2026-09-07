@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "4,810 reviews",
     specs: ["Double-wall vacuum insulated", "Gold Cup certified", "Stainless steel carafe", "Single-serve accessory included"],
+    specList: [{"label":"Feature 1","value":"Double-wall vacuum insulated"},{"label":"Capacity","value":"Gold Cup certified"},{"label":"Material","value":"Stainless steel carafe"},{"label":"Feature 4","value":"Single-serve accessory included"}],
     description:
       "The OXO uses a double-wall vacuum-insulated stainless steel carafe, the same insulation principle behind a good thermos, which generally holds noticeably more heat at the 2-hour mark than a glass carafe sitting on a warming plate that is slowly cooling and continuing to cook the coffee. The tradeoff is price, at nearly $200 this is the most expensive model in this comparison.\n\nThe pour spout and lid are designed for one-handed pouring without needing to unscrew anything first, though as with most vacuum thermal lids, expect a small amount of coffee to remain trapped in the lid's internal channel after pouring, more than you would lose from a simple glass carafe lid.",
     bestFor: "Buyers who want the strongest heat retention in this comparison and are willing to pay for it.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "11,061 reviews",
     specs: ["Thermal carafe", "24-hour programmable", "Brew strength control", "1-4 cup setting"],
+    specList: [{"label":"Capacity","value":"Thermal carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"Brew strength control"},{"label":"Feature 4","value":"1-4 cup setting"}],
     description:
       "The DCC-3400NAS pairs a stainless steel thermal carafe with full 24-hour programming, so you get the heat retention benefit of a thermal design without giving up scheduled auto-brew, which some thermal-only carafes lack. The larger 12-cup capacity means it holds noticeably more heat than a glass carafe on a warming plate through the 2-hour mark, without the flavor degradation a hot plate causes.\n\nReplacement carafes for this model are sold separately through Cuisinart and third-party sellers, generally in the $25 to $40 range at the time of writing, worth checking availability on before you actually need one since a cracked or lost thermal carafe otherwise leaves the whole machine unusable.",
     bestFor: "Buyers who want programmable auto-brew alongside thermal carafe heat retention.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,212 reviews",
     specs: ["Double-walled stainless carafe", "Freshness timer", "Grab-a-cup auto pause", "Brew now or later"],
+    specList: [{"label":"Lighting","value":"Double-walled stainless carafe"},{"label":"Scheduling","value":"Freshness timer"},{"label":"Capacity","value":"Grab-a-cup auto pause"},{"label":"Feature 4","value":"Brew now or later"}],
     description:
       "This model's double-walled stainless steel thermal carafe holds heat noticeably longer than a glass-on-warming-plate setup, and a built-in freshness timer tracks how long the coffee has been sitting since brewing finished, a genuinely useful detail thermal carafes don't inherently solve on their own even with good insulation.\n\nGrab-A-Cup Auto Pause lets you pour before the cycle finishes without spilling, and the carafe's lid, like most thermal designs, needs to be removed and rinsed separately rather than just wiped, since coffee residue collects in the internal pour channel over repeated use.",
     bestFor: "Buyers who want a freshness timer alongside solid thermal heat retention at a lower price than the OXO.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "5,073 reviews",
     specs: ["4-layer vacuum thermal carafe", "Holds heat up to 2hrs", "No-drip perfect pour spout", "Brew strength selector"],
+    specList: [{"label":"Capacity","value":"4-layer vacuum thermal carafe"},{"label":"Feature 2","value":"Holds heat up to 2hrs"},{"label":"Feature 3","value":"No-drip perfect pour spout"},{"label":"Feature 4","value":"Brew strength selector"}],
     description:
       "The CM2046S's listing specifically states its 4-layer vacuum-sealed carafe keeps coffee hot for up to two hours with no warming plate needed, matching the practical heat-retention window most buyers actually care about, the first cup versus the last cup of a normal morning. The no-drip spout is designed for one-handed pouring without a separate lid-opening step.\n\nAt under $63 this is the least expensive thermal carafe model in this comparison, though the tradeoff shows up in smaller reservoir capacity and a carafe construction that, while functionally thermal, is less robust than the vacuum-insulated stainless steel used in the pricier OXO and Cuisinart models.",
     bestFor: "Budget buyers who want genuine thermal heat retention without paying premium prices.",

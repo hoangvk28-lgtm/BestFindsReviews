@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "33,641 reviews",
     specs: ["34oz stated capacity", "Glass carafe", "Stainless steel filter", "4-piece filter structure"],
+    specList: [{"label":"Capacity","value":"34oz stated capacity"},{"label":"Feature 2","value":"Glass carafe"},{"label":"Material","value":"Stainless steel filter"},{"label":"Filtration","value":"4-piece filter structure"}],
     description:
       "This press is stated at 34oz, but once you account for the volume that a standard dose of coarse grounds displaces, expect closer to 27 to 28oz of actual brewed coffee, roughly three to four 8oz cups rather than four full ones. That gap between stated and usable capacity applies to every glass press in this comparison, not just this one, so plan portions accordingly.\n\nThe glass carafe means you can watch the brew and see grounds settle, but it also means the plunge requires steady, even downward pressure since glass has no give if the plunger binds. A sudden hard push on an off-angle plunger is the most common way glass French press carafes crack, so plan to plunge slowly and hold the handle rather than pushing from the top.",
     bestFor: "Buyers who want a straightforward glass press and are comfortable adjusting portion expectations for real usable volume.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "35,245 reviews",
     specs: ["34oz stated capacity", "Double-walled stainless steel", "4-level filtration", "Dishwasher safe"],
+    specList: [{"label":"Capacity","value":"34oz stated capacity"},{"label":"Material","value":"Double-walled stainless steel"},{"label":"Feature 3","value":"4-level filtration"},{"label":"Feature 4","value":"Dishwasher safe"}],
     description:
       "The double-walled stainless steel body holds heat noticeably longer than a single-wall glass carafe, which matters for French press specifically since the brew sits in contact with the grounds the entire time you are drinking it unless you decant it to a separate container. A steel build also survives an accidental drop or an uneven plunge far better than glass.\n\nSame displacement math applies here as with any French press: the stated 34oz becomes closer to 27 to 28oz of drinkable coffee once grounds are accounted for. Because the body is opaque, you lose the ability to visually check grounds settling before you plunge, which glass presses allow.",
     bestFor: "Buyers who want the coffee to stay hot longer and prefer a build that will not crack if dropped or plunged unevenly.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "35,912 reviews",
     specs: ["34oz stated capacity", "304 stainless steel", "3-layer filter with 2 spare screens", "Cool-touch handle"],
+    specList: [{"label":"Capacity","value":"34oz stated capacity"},{"label":"Material","value":"304 stainless steel"},{"label":"Filtration","value":"3-layer filter with 2 spare screens"},{"label":"Feature 4","value":"Cool-touch handle"}],
     description:
       "At under $26, this is the lowest-priced press in this comparison and it still ships with two spare stainless filter screens, which addresses one of the real long-term costs of French press ownership: screens do eventually wear or bend, and having spares on hand from day one avoids a replacement-parts search later.\n\nIt is a single-wall stainless build, so it does not hold heat as long as the double-walled MuellerLiving, but it is more durable than glass. The same 34oz-stated, roughly 27 to 28oz-usable capacity math applies here too, and a standard mesh filter will not fully eliminate fine sediment; expect a small amount at the bottom of the cup regardless of filter quality.",
     bestFor: "Budget-conscious buyers who still want spare filter screens included rather than sourced separately later.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "28,722 reviews",
     specs: ["34oz stated capacity", "High-heat borosilicate glass", "Polished stainless steel frame", "Made in Portugal"],
+    specList: [{"label":"Capacity","value":"34oz stated capacity"},{"label":"Feature 2","value":"High-heat borosilicate glass"},{"label":"Material","value":"Polished stainless steel frame"},{"label":"Size","value":"Made in Portugal"}],
     description:
       "The Chambord is the classic French press silhouette, with a borosilicate glass carafe held inside a stainless steel frame that gives it more drop resistance than an unframed glass carafe while keeping the visual benefit of glass. The steel frame also gives the plunger more stable guide contact, which reduces the chance of the plunger binding sideways mid-press, a common cause of glass presses cracking under uneven force.\n\nAs with every model here, treat the 34oz label as the carafe's fluid capacity, not your yield. Once grounds are in and displaced, expect roughly 27 to 28oz of drinkable coffee. The glass carafe still loses heat faster than a double-walled steel design, so if you tend to drink slowly over 30 minutes, expect the last cup to be noticeably cooler than the first.",
     bestFor: "Buyers who want the classic glass French press look with more structural support than an unframed glass carafe.",

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "8,707 reviews",
     specs: ["8-cup glass carafe", "Thick proprietary paper filters", "No mesh filter option", "Wood collar handle"],
+    specList: [{"label":"Capacity","value":"8-cup glass carafe"},{"label":"Filtration","value":"Thick proprietary paper filters"},{"label":"Material","value":"No mesh filter option"},{"label":"Feature 4","value":"Wood collar handle"}],
     description:
       "The Chemex uses thick, proprietary paper filters that trap more fine sediment and oils than a standard cone filter, which produces a noticeably cleaner cup but also means the result depends heavily on maintaining a slow, even pour, since the thick filter already slows flow significantly on its own. Rush the pour and you risk channeling water around the grounds instead of through them.\n\nBeing an all-glass vessel with no insulation, water in the Chemex cools as you pour, so a slow, distracted pour lets the later stages of extraction happen at a meaningfully lower temperature than the start, which can leave the cup tasting flat or underextracted. Chemex-specific filters also cost more per filter than generic cone filters and are not always available at smaller grocery stores, which is a real ongoing cost and convenience factor.",
     bestFor: "Buyers who want the cleanest possible cup and are willing to master a slow, deliberate pour technique.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "6,683 reviews",
     specs: ["8-cup capacity", "Double-layer stainless steel filter", "Reusable, no paper needed", "Glass carafe"],
+    specList: [{"label":"Capacity","value":"8-cup capacity"},{"label":"Material","value":"Double-layer stainless steel filter"},{"label":"Feature 3","value":"Reusable, no paper needed"},{"label":"Feature 4","value":"Glass carafe"}],
     description:
       "This dripper uses a permanent double-layer stainless steel filter instead of paper, which eliminates the ongoing cost of buying filters entirely and lets more coffee oils through than a paper filter, producing a fuller-bodied cup. The tradeoff is more visible sediment in the final pour than a paper-filtered method, since metal mesh simply cannot catch particles as fine as paper does.\n\nLike any glass pour-over vessel, it has no insulation, so water cools throughout the pour, and a slow or interrupted pour will extract less evenly than a steady one. Because the metal filter is more forgiving of pour-rate variation than the Chemex's thick paper, this is a reasonable starting dripper for someone still developing consistent technique.",
     bestFor: "Buyers who want to skip ongoing filter costs and do not mind a fuller-bodied cup with some visible sediment.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "11,650 reviews",
     specs: ["34oz capacity", "Reusable stainless steel filter", "Borosilicate glass", "Cork grip handle"],
+    specList: [{"label":"Capacity","value":"34oz capacity"},{"label":"Material","value":"Reusable stainless steel filter"},{"label":"Feature 3","value":"Borosilicate glass"},{"label":"Feature 4","value":"Cork grip handle"}],
     description:
       "At 34oz, this is sized for brewing enough for two or three cups in one pour rather than a single serving, which means an even longer total pour time and more opportunity for the water to cool before the brew finishes. Technique matters more here than on a single-cup dripper simply because there is more volume to pour evenly.\n\nThe reusable stainless filter again means no ongoing filter cost and a fuller-bodied cup with some sediment, consistent with the Cosori. The borosilicate glass body resists thermal shock from hot water better than standard glass, but it still offers no insulation, so brewing in a cold kitchen will cool the water noticeably faster than in a warm one.",
     bestFor: "Buyers who want to pour-over brew for two or three people at once rather than a single cup.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "342 reviews",
     specs: ["42oz capacity", "Stainless steel carafe", "Standard cone paper filters", "Included starter filters"],
+    specList: [{"label":"Capacity","value":"42oz capacity"},{"label":"Material","value":"Stainless steel carafe"},{"label":"Filtration","value":"Standard cone paper filters"},{"label":"Reviews","value":"Included starter filters"}],
     description:
       "This set pairs a standard cone-shaped dripper, which uses widely available generic paper filters rather than a proprietary shape, with a stainless steel carafe instead of glass. Because Melitta cone filters are a common size sold at most grocery stores, ongoing filter cost and availability are less of an issue here than with the Chemex's proprietary filters.\n\nThe stainless carafe is the one model in this comparison that meaningfully reduces thermal loss after brewing, since it holds heat better than glass once the coffee is in the carafe, even though the pour itself still happens through an unheated dripper cone. Standard cone filters are also somewhat more forgiving of pour-rate variation than the Chemex's thick paper, making this a reasonable pick for someone new to pour-over technique who still wants a clean, paper-filtered cup.",
     bestFor: "Beginners who want a clean paper-filtered cup using widely available generic filters, with better post-brew heat retention.",

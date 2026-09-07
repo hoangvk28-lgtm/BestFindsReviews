@@ -23,6 +23,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -41,6 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,989 reviews",
     specs: ["14-cup glass carafe", "1-4 cup small batch setting", "PerfecTemp brewing", "Brew strength control", "24-hour programmable"],
+    specList: [{"label":"Capacity","value":"14-cup glass carafe"},{"label":"Feature 2","value":"1-4 cup small batch setting"},{"label":"Feature 3","value":"PerfecTemp brewing"},{"label":"Feature 4","value":"Brew strength control"},{"label":"Feature 5","value":"24-hour programmable"}],
     description:
       "The DCC-3200 pairs a genuine 14-cup glass carafe with a dedicated 1-4 cup small batch setting, so it does not just dilute a smaller brew across the full carafe when you only want two mugs. PerfecTemp technology aims to keep brew temperature more consistent than a basic warming-plate machine, and the brew strength control lets you switch between regular and bold without buying different beans.\n\nThe stainless steel housing and glass carafe are straightforward to clean, and the reservoir is easy to see and fill from the top. It is the most fully featured 14-cup model in this comparison and a reasonable default pick for most households that regularly brew a full pot.",
     bestFor: "Households that want a genuine full-size pot along with a real small-batch mode for lighter days.",
@@ -65,6 +67,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "21 reviews",
     specs: ["70oz removable reservoir", "14-cup glass carafe", "Classic and Rich brew styles", "1-4 cup small batch", "24-hour delay brew"],
+    specList: [{"label":"Feature 1","value":"70oz removable reservoir"},{"label":"Capacity","value":"14-cup glass carafe"},{"label":"Feature 3","value":"Classic and Rich brew styles"},{"label":"Feature 4","value":"1-4 cup small batch"},{"label":"Feature 5","value":"24-hour delay brew"}],
     description:
       "The Fresh Brew uses a 70oz removable water reservoir sized to match its 14-cup carafe almost exactly, so you are not guessing at fill lines. It offers two full brew styles, Classic and Rich, plus a small batch function that keeps a lighter brew from tasting watered down, and a mid-brew pause for grabbing a cup before the cycle finishes.\n\nAt 8.9 inches deep and 10.4 inches wide with the carafe attached, it takes real counter space, which is the tradeoff for genuine full-pot capacity. The adjustable warming plate holds coffee for up to 4 hours, useful when entertaining a group over an extended morning.",
     bestFor: "Entertaining or larger households that want two distinct brew strength styles at full 14-cup capacity.",
@@ -89,6 +92,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "1,949 reviews",
     specs: ["70oz total water capacity", "1-4 cup small batch selector", "Strong brew selector", "Reusable filter included", "Grab-a-Cup auto pause"],
+    specList: [{"label":"Capacity","value":"70oz total water capacity"},{"label":"Feature 2","value":"1-4 cup small batch selector"},{"label":"Feature 3","value":"Strong brew selector"},{"label":"Filtration","value":"Reusable filter included"},{"label":"Feature 5","value":"Grab-a-Cup auto pause"}],
     description:
       "Mr. Coffee states its capacity plainly on the listing itself: 14 cups at 5oz each for 70oz total water capacity, which is the clearest labeling of any model in this comparison. It includes a 1-4 cup small batch selector with auto pause so you can pour a cup mid-brew, plus a dishwasher-safe reusable nylon filter that cuts the ongoing cost of paper filters.\n\nAt under $75 it undercuts the Cuisinart and Ninja on price while still covering the core features most buyers actually use: programmability, a strong brew option, and an adjustable keep-warm setting for up to 4 hours.",
     bestFor: "Buyers who want genuine 14-cup capacity and small-batch brewing without paying for extra features.",
@@ -113,6 +117,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "1,476 reviews",
     specs: ["14-cup FlavorCarafe", "Brew Over Ice setting", "Fast Brew, up to 20% faster", "SteadyTemp warming plate", "Touch display with 24hr timer"],
+    specList: [{"label":"Capacity","value":"14-cup FlavorCarafe"},{"label":"Feature 2","value":"Brew Over Ice setting"},{"label":"Feature 3","value":"Fast Brew, up to 20% faster"},{"label":"Feature 4","value":"SteadyTemp warming plate"},{"label":"Scheduling","value":"Touch display with 24hr timer"}],
     description:
       "The PureFlavor is the only model here with a dedicated Brew Over Ice setting, an adjusted brewing process meant to keep flavor from tasting diluted once poured over ice, alongside its BrewChoice Plus selector for fast, regular, or bold brews. Braun also claims its Fast Brew technology cuts full 14-cup brew time by up to 20% compared to its prior model.\n\nA front level water indicator and touch display with a 24-hour timer round out the feature set, though this model has the smallest review base of the four here, worth weighing against its more established competitors.",
     bestFor: "Buyers who regularly drink iced coffee and want a full 14-cup carafe that handles both hot and cold brewing well.",

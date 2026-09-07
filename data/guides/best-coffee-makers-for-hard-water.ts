@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,989 reviews",
     specs: ["14-cup capacity", "Charcoal water filter compatible", "Programmable", "Removable filter basket"],
+    specList: [{"label":"Capacity","value":"14-cup capacity"},{"label":"Filtration","value":"Charcoal water filter compatible"},{"label":"Feature 3","value":"Programmable"},{"label":"Feature 4","value":"Removable filter basket"}],
     description:
       "Cuisinart's home lineup is widely compatible with third-party charcoal water filter cartridges, which reduce some of the dissolved minerals in the water before it ever reaches the heating element, a real advantage in a hard-water household over a machine with no filtration option at all. The removable filter basket also makes routine cleaning and inspection for scale straightforward.\n\nCuisinart's official guidance for descaling recommends a manufacturer-approved descaling solution or diluted white vinegar for most models, but always check the specific manual for your unit since guidance can vary by model year. Charcoal filters need periodic replacement, commonly every two months, which is a small ongoing cost worth planning for.",
     bestFor: "Hard-water households that want built-in filter compatibility and easy access for cleaning.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal always-hot tank", "10-cup carafe", "Warming plate", "Consumer descale kit available"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"Warming plate"},{"label":"Feature 4","value":"Consumer descale kit available"}],
     description:
       "Bunn's always-hot internal tank is more exposed to continuous mineral buildup than a machine that only heats water on demand, since the tank stays full and hot around the clock rather than draining between uses. Bunn sells a consumer descaling kit specifically for home units and publishes model-specific descaling instructions rather than leaving buyers to guess.\n\nScale buildup in an always-hot tank can gradually affect both brew temperature and flow rate if descaling is skipped, which is a more noticeable performance drop on this design than on a machine that only briefly contacts hot water during a heat-on-demand cycle. Bunn's official guidance should be followed over generic vinegar advice, since not every internal component tolerates vinegar equally well.",
     bestFor: "Buyers who want manufacturer-published descaling instructions and a dedicated descale kit.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "7,731 reviews",
     specs: ["Internal always-hot tank", "Thermal stainless carafe", "10-cup capacity", "No warming plate"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"Thermal stainless carafe"},{"label":"Feature 3","value":"10-cup capacity"},{"label":"Feature 4","value":"No warming plate"}],
     description:
       "The Platinum shares the same always-hot internal tank as the GRB and needs the same descaling discipline, but pairs it with a thermal stainless carafe rather than a warming plate. That does not change descaling frequency, but it does mean fewer additional mineral deposits from a warming plate slowly reducing water down to residue over a long sit.\n\nFollow Bunn's published descaling guidance for this model specifically rather than assuming the same interval as the GRB, since internal components can differ slightly between models.",
     bestFor: "Hard-water households that also want a thermal carafe instead of a warming plate.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "3,512 reviews",
     specs: ["Internal always-hot tank", "Glass carafe", "Sneak-a-cup feature", "10-cup capacity"],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"Glass carafe"},{"label":"Feature 3","value":"Sneak-a-cup feature"},{"label":"Feature 4","value":"10-cup capacity"}],
     description:
       "The Speed Brew Elite runs the same always-hot tank design as the rest of the Bunn lineup here, with the same descaling considerations and manufacturer-provided guidance. The sneak-a-cup pause feature is unrelated to hard-water performance but is a genuine daily convenience.\n\nAs with the other Bunn models, follow the specific descaling interval and method in the current manual for this unit rather than generic advice, since Bunn's guidance can differ from the vinegar-based approach some other brands recommend.",
     bestFor: "Buyers who want Bunn's descaling support with a mid-tier price and the sneak-a-cup feature.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "28,849 reviews",
     specs: ["12-cup capacity", "Heats on demand", "Stainless steel accents", "Programmable"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 2","value":"Heats on demand"},{"label":"Material","value":"Stainless steel accents"},{"label":"Feature 4","value":"Programmable"}],
     description:
       "Because the Ninja Fresh Brew heats water on demand rather than keeping a tank hot continuously, water spends less total time in contact with the heating element compared to an always-hot Bunn tank, which can mean somewhat slower scale accumulation for the same water hardness. It still needs regular descaling, and Ninja's manual should be consulted for the specific recommended solution rather than assuming vinegar is safe for every internal seal.\n\nIt has no built-in water filtration option, so in genuinely hard water it still benefits from a pitcher-filtered water supply even though the on-demand design is gentler on internal components than an always-hot tank.",
     bestFor: "Hard-water buyers who prefer a heat-on-demand design over an always-hot tank.",

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup glass carafe", "24-hour programmable", "Sneak-a-cup pause", "Auto shutoff"],
+    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"Sneak-a-cup pause"},{"label":"Feature 4","value":"Auto shutoff"}],
     description:
       "This is a straightforward 12-cup programmable drip machine with a standard paper-filter basket and a 24-hour auto-brew timer, the entry point for the hands-off drip approach. Set it up the night before and it brews on its own with no attention needed the next morning.\n\nAt under $35 it is the cheapest way into automatic drip brewing here, and the sneak-a-cup pause feature lets you pour a cup mid-cycle without a mess. Ongoing cost is paper filters and electricity, both modest but recurring.",
     bestFor: "Anyone who wants a full pot ready automatically with zero hands-on brewing effort.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "28,849 reviews",
     specs: ["12-cup carafe", "Permanent filter included", "Small batch function", "24-hour delay brew"],
+    specList: [{"label":"Capacity","value":"12-cup carafe"},{"label":"Filtration","value":"Permanent filter included"},{"label":"Feature 3","value":"Small batch function"},{"label":"Feature 4","value":"24-hour delay brew"}],
     description:
       "The Ninja Fresh Brew adds a permanent filter, so you can skip paper filters entirely if you prefer, plus a small-batch setting that avoids diluting a partial pot. It still runs fully automatically once programmed, keeping the core hands-off appeal of drip brewing.\n\nA clean-setting descale button and an adjustable warming plate round out the feature set. It costs more upfront than the basic BLACK+DECKER model but the permanent filter can reduce ongoing filter costs over time.",
     bestFor: "Buyers who want automatic drip brewing but prefer a reusable filter over paper.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "33,641 reviews",
     specs: ["34oz capacity", "4-level steel filtration", "No electricity needed", "4-5 minute brew"],
+    specList: [{"label":"Capacity","value":"34oz capacity"},{"label":"Material","value":"4-level steel filtration"},{"label":"Feature 3","value":"No electricity needed"},{"label":"Feature 4","value":"4-5 minute brew"}],
     description:
       "This French press uses a 4-level stainless steel filtration system and a 34oz borosilicate glass carafe, brewing in about 4 to 5 minutes with no cord, pod, or electricity required. You control the grounds-to-water ratio and steep time directly, which gives more control over strength than a drip machine's fixed cycle.\n\nCleanup means hand-washing the mesh filter and disposing of the wet grounds, since the filter mechanism does not go in a standard dishwasher basket the way a drip machine's paper filter basket does. It is fully portable with no power source needed, which also makes it usable while camping or traveling.",
     bestFor: "Buyers who want direct control over brew strength and no reliance on electricity or filters.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "35,912 reviews",
     specs: ["34oz (1L) capacity", "3-layer steel filter", "2 extra screens included", "All-steel construction"],
+    specList: [{"label":"Capacity","value":"34oz (1L) capacity"},{"label":"Material","value":"3-layer steel filter"},{"label":"Feature 3","value":"2 extra screens included"},{"label":"Feature 4","value":"All-steel construction"}],
     description:
       "The Secura is an all-stainless-steel French press rather than glass, which makes it more durable for daily use or travel and removes the risk of a dropped glass carafe shattering. It includes two extra filter screens, useful since screens are the one part that can wear out with heavy use.\n\nAt under $30 it is the lowest-cost product in this entire comparison, drip or French press, and like the Cafe Du Chateau it needs no electricity, filters, or pods, just hot water and ground coffee. Cleanup is the same manual mesh-rinsing process as any French press.",
     bestFor: "Budget-focused buyers who want a durable, all-steel French press with no electricity or filters.",

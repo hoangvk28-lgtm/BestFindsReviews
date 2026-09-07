@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal hot tank", "10-cup carafe", "3-minute brew claim", "Warming plate"],
+    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"3-minute brew claim"},{"label":"Feature 4","value":"Warming plate"}],
     description:
       "The GRB is Bunn's straightforward entry point into always-hot brewing. Once the internal tank is up to temperature after the initial setup, a full pot brews in a few minutes because the machine is not waiting to heat water on demand.\n\nThe tradeoff for that speed is the tank stays hot around the clock, which draws standby power even when you are not brewing. For a household that makes coffee daily, the convenience generally outweighs the standby cost, but it is a real ongoing expense worth knowing about upfront.",
     bestFor: "Daily coffee drinkers who want a fast pot without paying for glass carafe or thermal upgrades.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "7,588 reviews",
     specs: ["Internal hot tank", "10-cup carafe", "Stay-hot warmer", "Compact footprint"],
+    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"Stay-hot warmer"},{"label":"Design","value":"Compact footprint"}],
     description:
       "The BX Speed Brew Classic covers the same always-hot brewing approach as the GRB with a slightly different housing and a compact footprint that fits tighter kitchen counters. Functionally the two are close, so the choice mostly comes down to available counter space and finish preference.\n\nLike every Bunn home brewer here, it needs a full water fill before first use to bring the internal tank to temperature, and that initial setup is the one step this category handles differently from a normal drip machine.",
     bestFor: "Buyers who want Bunn's fast-brew workflow in a smaller physical footprint.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "7,731 reviews",
     specs: ["Internal hot tank", "Thermal stainless carafe", "10-cup capacity", "No warming plate needed"],
+    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Capacity","value":"Thermal stainless carafe"},{"label":"Feature 3","value":"10-cup capacity"},{"label":"Feature 4","value":"No warming plate needed"}],
     description:
       "The Platinum swaps Bunn's usual glass carafe and warming plate for a stainless thermal carafe, which holds heat without a hot plate slowly cooking the coffee over the following hour. That is a genuine quality improvement for anyone who does not drink the full pot right after brewing.\n\nIt costs meaningfully more than the GRB or Classic for that upgrade, and the thermal carafe adds a pour-spout lid that needs its own occasional cleaning attention beyond wiping down a glass carafe.",
     bestFor: "Buyers who want hot coffee over hours, not just the first cup off the brew cycle.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "3,512 reviews",
     specs: ["Internal hot tank", "Glass carafe", "Sneak-a-cup feature", "10-cup capacity"],
+    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Capacity","value":"Glass carafe"},{"label":"Feature 3","value":"Sneak-a-cup feature"},{"label":"Feature 4","value":"10-cup capacity"}],
     description:
       "The Speed Brew Elite sits between the entry-level Classic and the thermal Platinum, keeping the glass carafe and warming plate but adding a sneak-a-cup pause feature that lets you pull a cup mid-brew without dripping onto the warmer. It is a small but genuinely useful convenience if you regularly grab coffee before the full pot finishes.\n\nWith the lowest review count of the four models here, it has less long-term track record than the Classic or GRB, though its rating is in line with the rest of the lineup.",
     bestFor: "Households that want to pour a cup mid-brew without waiting for the full pot.",

@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "35,912 reviews",
     specs: ["304 stainless steel", "Interior and exterior steel", "34oz capacity", "3-layer steel filter"],
+    specList: [{"label":"Material","value":"304 stainless steel"},{"label":"Feature 2","value":"Interior and exterior steel"},{"label":"Capacity","value":"34oz capacity"},{"label":"Filtration","value":"3-layer steel filter"}],
     description:
       "The Secura is genuinely solid stainless steel, not a plastic shell with a metallic finish. The listing specifies 18/8, 304 grade steel for both the interior and exterior body, and the filter screens are steel as well rather than plastic mesh. Since there is no electric heating element or reservoir to worry about, nearly every part that touches water is the real material.\n\nThe cool-touch handle and knob are the exception, made from a heat-resistant plastic rather than steel, which is the correct design choice since bare steel there would get too hot to hold safely after brewing with near-boiling water.",
     bestFor: "Buyers who want a carafe that is actually solid steel throughout, not just steel-colored.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "11,061 reviews",
     specs: ["Stainless steel housing", "Thermal carafe", "24-hour programmable", "1-4 cup setting"],
+    specList: [{"label":"Material","value":"Stainless steel housing"},{"label":"Capacity","value":"Thermal carafe"},{"label":"Feature 3","value":"24-hour programmable"},{"label":"Feature 4","value":"1-4 cup setting"}],
     description:
       "The DCC-3400NAS pairs a stainless steel exterior housing with a genuinely metal thermal carafe, which is a meaningful upgrade over a glass carafe on a warming plate since the steel carafe holds heat without slowly cooking the coffee. The listing does not specify the exact steel grade for the housing, so treat the finish as accurate but unverified beyond stainless steel labeling.\n\nBecause this is an electric machine with a heating element inside, the base and area around the brew basket can get warm to the touch during brewing even though the housing itself is metal, so keep hands away from that zone while it runs.",
     bestFor: "Buyers who want a steel carafe plus programmable brewing, not just a steel-look exterior.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "19,761 reviews",
     specs: ["Stainless steel construction", "12-cup capacity", "Automatic keep-warm", "Easy-pour spout"],
+    specList: [{"label":"Material","value":"Stainless steel construction"},{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 3","value":"Automatic keep-warm"},{"label":"Feature 4","value":"Easy-pour spout"}],
     description:
       "The Presto 02811 lists stainless steel construction for the body, which covers both the pot and the interior brewing chamber that direct-contacts water and grounds. That is a genuine durability advantage over a percolator with a plastic outer shell, since steel resists dents and does not discolor from heat the way some plastics do over years of use.\n\nThe stay-cool handle is specifically called out as a separate cooler material, which matters because the exterior steel body itself does get noticeably warm near the base during the percolating cycle. Treat the handle area as the only guaranteed cool-touch zone.",
     bestFor: "Buyers who specifically want a steel percolator rather than a drip machine.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "5,073 reviews",
     specs: ["Black/Steel finish", "4-layer thermal carafe", "Programmable auto-shutoff", "Strength selector"],
+    specList: [{"label":"Material","value":"Black/Steel finish"},{"label":"Capacity","value":"4-layer thermal carafe"},{"label":"Feature 3","value":"Programmable auto-shutoff"},{"label":"Feature 4","value":"Strength selector"}],
     description:
       "The CM2046S is labeled Black/Steel, which describes the color scheme rather than confirming a solid steel exterior housing across the whole unit. The listing does confirm the carafe itself is a double-walled, 4-layer vacuum-sealed design, which is the part that actually determines heat retention regardless of the outer housing material.\n\nThis is the pick to be most cautious about if solid steel construction is the priority: the carafe performs like genuine insulated steel, but buyers should not assume the entire housing matches that same material just because of the product name and finish.",
     bestFor: "Budget buyers who want thermal carafe performance and accept the exterior housing may be partly plastic with a steel-toned finish.",

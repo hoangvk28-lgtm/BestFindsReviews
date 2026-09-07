@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "224 reviews",
     specs: ["18500Pa suction", "Omni self-empty dock", "Auto mop wash and dry", "App zone mapping"],
+    specList: [{"label":"Suction Power","value":"18500Pa suction"},{"label":"Feature 2","value":"Omni self-empty dock"},{"label":"Mopping","value":"Auto mop wash and dry"},{"label":"Zones","value":"App zone mapping"}],
     description:
       "The T50 MAX PRO pairs strong 18500Pa suction with an all-in-one Omni dock that empties the dustbin, washes the mop pads, and dries them between runs, which matters in a space that gets cleaned daily rather than once a week. That combination of suction and hands-off dock maintenance is why it comes out ahead of the rest of this comparison for mixed office or high-traffic home use.\n\nApp-based zone scheduling lets you set different rooms or areas to clean on separate schedules, which suits a shared office or a rental property where certain zones need more frequent passes than others. It is the newest model in this lineup, so its rating is based on a smaller review base than some of the longer-established competitors here.",
     bestFor: "Small offices, Airbnbs, or high-traffic homes that want strong suction and a fully self-maintaining dock.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["AutoEmpty dock", "Dual rubber anti-tangle brushes", "LiDAR navigation", "Obstacle and anti-fall detection"],
+    specList: [{"label":"Feature 1","value":"AutoEmpty dock"},{"label":"Feature 2","value":"Dual rubber anti-tangle brushes"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 4","value":"Obstacle and anti-fall detection"}],
     description:
       "The Roomba Max 705 uses LiDAR navigation for consistent room mapping rather than camera-based guessing, which tends to matter more in busy spaces with shifting furniture or frequent foot traffic. Dual rubber brushes with anti-tangle design are aimed at hair and debris buildup, a common failure point on cheaper robot vacuums running daily in a high-traffic setting.\n\niRobot has one of the longest track records of any brand in this space, and the Roomba line's obstacle and anti-fall detection is built for repeated daily runs without supervision, which is exactly the use case for an office or rental that gets cleaned every day rather than occasionally.",
     bestFor: "Buyers who want a well-established brand with LiDAR mapping for daily, unsupervised runs.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["18,500Pa suction", "Vibrating mop", "Auto dock maintenance", "App-based no-mop and no-go zones"],
+    specList: [{"label":"Suction Power","value":"18,500Pa suction"},{"label":"Reviews","value":"Vibrating mop"},{"label":"Feature 3","value":"Auto dock maintenance"},{"label":"Zones","value":"App-based no-mop and no-go zones"}],
     description:
       "The Qrevo S Pro leads this comparison on rated suction power, matching the top pick's 18,500Pa while adding a vibrating mop function for ground-in dirt that a static mop pad tends to just push around. That makes it a reasonable fit for a small office kitchen or entryway that sees more than typical residential wear.\n\nApp-based no-mop and no-go zones let you exclude rugs or sensitive areas without physically moving furniture, which is useful in a shared space where the layout is not always predictable day to day.",
     bestFor: "High-traffic entryways or office kitchens that need strong suction plus active mop scrubbing.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["20,000 Pa suction", "HydroJet roller mop", "Self-empty dock", "App scheduling"],
+    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-empty dock"},{"label":"Connectivity","value":"App scheduling"}],
     description:
       "The E25 posts the highest rated suction in this entire lineup at 20,000 Pa, paired with a HydroJet roller mop that self-cleans as it works rather than dragging a dirty pad across the floor. In a space with heavy daily foot traffic, that combination of raw suction and a self-rinsing roller helps it keep up between deeper cleanings.\n\nIt carries the highest price of the eufy models here, which reflects the roller mop hardware rather than just marketing. For a space that genuinely gets dirty every day, such as an Airbnb turning over guests or a busy home office, the added capability is more likely to be worth it than in a lighter-use setting.",
     bestFor: "Spaces with heavy daily foot traffic that need maximum suction and self-rinsing mop capability.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["FlexiArm edge mopping", "Auto dock maintenance", "App zone mapping", "Carpet detection"],
+    specList: [{"label":"Mopping","value":"FlexiArm edge mopping"},{"label":"Feature 2","value":"Auto dock maintenance"},{"label":"Zones","value":"App zone mapping"},{"label":"Feature 4","value":"Carpet detection"}],
     description:
       "The Qrevo S5V's standout feature is its FlexiArm, which extends the mop pad out toward baseboards and corners that a fixed mop typically misses. In an office or rental with hard flooring along walls and tight corners, that extra reach cuts down on the manual edge-mopping that robot vacuums usually still require.\n\nCarpet detection automatically lifts the mop when it crosses onto rugs, which matters in mixed-flooring spaces like a small office with an entry rug and hard floors beyond it.",
     bestFor: "Mixed hard-floor and rug spaces that need better edge and corner mopping coverage.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Strong buyer feedback",
     specs: ["15,000 Pa suction", "HydroJet roller mop", "Self-empty dock", "App scheduling"],
+    specList: [{"label":"Suction Power","value":"15,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-empty dock"},{"label":"Connectivity","value":"App scheduling"}],
     description:
       "The C28 carries the same HydroJet self-rinsing roller mop design as its pricier eufy sibling, the E25, but at a lower suction rating of 15,000 Pa and a lower price. For a moderately busy office or home that still wants self-cleaning mop hardware without paying for the top suction tier, this is the more budget-conscious option in the eufy lineup here.\n\nIt still includes a self-empty dock and app-based scheduling, so day-to-day maintenance stays low even though the raw suction number sits behind the E25 and the two roborock Qrevo models in this comparison.",
     bestFor: "Moderately busy spaces that want self-rinsing mop hardware without paying for the top suction tier.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Widely purchased",
     specs: ["30-day capacity self-empty base", "Matrix Clean navigation", "HEPA bagless dock", "Home mapping"],
+    specList: [{"label":"Capacity","value":"30-day capacity self-empty base"},{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Collection","value":"HEPA bagless dock"},{"label":"Connectivity","value":"Home mapping"}],
     description:
       "The AV2501S is built around a bagless self-empty base rated for up to 30 days of debris before it needs emptying, which is a meaningfully longer stretch than most bagged self-empty docks. In a shared office or high-shed household, that extended capacity means less staff or household time spent on bin duty.\n\nMatrix Clean navigation runs a grid-style cleaning pattern intended for more thorough coverage than a purely random path, and the HEPA filtration in the dock is aimed at keeping fine dust and allergens from recirculating during the empty cycle.",
     bestFor: "High-shed households or offices that want to go longer between manually emptying the dock.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Well-reviewed on Amazon",
     specs: ["Self-empty base", "App scheduling", "Multi-surface brush roll", "Compact dock footprint"],
+    specList: [{"label":"Feature 1","value":"Self-empty base"},{"label":"Connectivity","value":"App scheduling"},{"label":"Feature 3","value":"Multi-surface brush roll"},{"label":"Design","value":"Compact dock footprint"}],
     description:
       "The Navigator is the simplest self-empty model in this comparison, skipping mop functionality and the highest-end suction ratings in favor of a straightforward vacuum-only design at a lower price. For a small office or secondary space that mainly needs consistent daily vacuuming rather than mopping, that simplicity can mean fewer parts to maintain.\n\nIts self-empty base has a smaller footprint than most of the other docks here, which is worth factoring in if the space it will sit in is tight.",
     bestFor: "Budget-conscious buyers who want self-empty convenience without mopping features.",

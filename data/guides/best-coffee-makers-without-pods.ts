@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Always-hot internal tank", "Brews 10 cups in ~3-4 minutes", "Paper filter drip", "3-year warranty"],
+    specList: [{"label":"Feature 1","value":"Always-hot internal tank"},{"label":"Size","value":"Brews 10 cups in ~3-4 minutes"},{"label":"Filtration","value":"Paper filter drip"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "The BUNN is a standard drip machine that uses ground coffee and paper filters exclusively, no pods anywhere in the design. Its always-hot internal tank means a full 10-cup pot brews in about 3 to 4 minutes, faster than most pod-free drip machines, at the cost of a small ongoing standby electricity draw.\n\nHands-on time is minimal once set up, just scoop grounds and add a filter, and cleanup is a paper filter and grounds straight into the trash. The full carafe format is well suited to a household drinking coffee together rather than single mugs at different times.",
     bestFor: "A household that wants a fast full pot from ground coffee with minimal hands-on effort.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,989 reviews",
     specs: ["14-cup glass carafe", "Permanent gold-tone filter", "Brew strength control", "Adjustable keep-warm"],
+    specList: [{"label":"Capacity","value":"14-cup glass carafe"},{"label":"Filtration","value":"Permanent gold-tone filter"},{"label":"Feature 3","value":"Brew strength control"},{"label":"Adjustability","value":"Adjustable keep-warm"}],
     description:
       "This Cuisinart uses a permanent gold-tone filter instead of paper, so ongoing per-cup cost is limited to ground coffee and a small amount of electricity, no recurring filter purchases at all. It brews the largest capacity in this comparison at 14 cups, suited to a bigger household or when hosting.\n\nCleanup means rinsing the permanent filter after each use rather than throwing anything away, a small extra step compared to a paper-filter drip machine but no ongoing filter cost. Brew strength control lets you adjust extraction without changing your grind or dose.",
     bestFor: "A larger household that wants the biggest pod-free capacity here with no recurring filter cost.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "19,690 reviews",
     specs: ["6 brew sizes", "4 brew styles", "Permanent filter included", "Built-in frother"],
+    specList: [{"label":"Feature 1","value":"6 brew sizes"},{"label":"Feature 2","value":"4 brew styles"},{"label":"Filtration","value":"Permanent filter included"},{"label":"Size","value":"Built-in frother"}],
     description:
       "The Ninja Specialty brews everything from a single cup to a full carafe from the same permanent filter, plus a concentrated specialty-brew mode for lattes and iced coffee using a built-in frother. All of this runs on ground coffee with no pod compatibility at all, giving one-mug flexibility that a basic full-pot-only drip machine cannot match.\n\nCleanup involves the permanent filter, frother whisk, and carafe, all listed as dishwasher safe, so the extra features do not add much hands-on cleanup time. The tradeoff is a higher price than a simpler drip machine for the added brew-size and style flexibility.",
     bestFor: "Buyers who want single-mug flexibility plus iced and specialty drink modes without pods.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,285 reviews",
     specs: ["40oz thermal carafe", "4-6 minute brew time", "Manual-adjust brew basket", "5-year warranty"],
+    specList: [{"label":"Capacity","value":"40oz thermal carafe"},{"label":"Feature 2","value":"4-6 minute brew time"},{"label":"Feature 3","value":"Manual-adjust brew basket"},{"label":"Warranty","value":"5-year warranty"}],
     description:
       "The Moccamaster is an automatic drip machine built around the same manual pour-over-style showerhead saturation that specialty pour-over brewers use, rather than the flat spray plate common on basic drip machines. It uses paper filters and a manually adjustable brew basket that lets you fine-tune flow rate similar to how you would control a manual pour-over.\n\nAt over $300 it costs far more upfront than any other product here, justified by a 5-year warranty and a reputation among coffee enthusiasts for extraction quality closer to manual brewing methods. It is the slowest simple choice for someone who just wants a fast pot with no fuss, and the most deliberate choice for someone who cares about extraction technique without brewing fully by hand.",
     bestFor: "Coffee enthusiasts who want pour-over-style extraction quality without a fully manual process.",

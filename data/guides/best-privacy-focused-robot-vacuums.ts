@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["LiDAR Navigation, No Camera", "Vacuum and mop combo", "Hardwood and carpet capable", "Self-empty base"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet capable"},{"label":"Feature 4","value":"Self-empty base"}],
     description:
       "The Omni C20 pairs the highest rating in this comparison with a large review base, which is a rare combination for a vacuum-and-mop combo unit. It navigates entirely with LiDAR, so there is no camera on the robot itself for room mapping or obstacle detection.\n\neufy has also built part of its brand around local, on-device processing for some product lines, which is worth checking directly against the Omni C20's current privacy policy since feature sets and data handling can differ between models in the same lineup. As with every robot here, confirm the app's account requirements before setup if that matters to you.",
     bestFor: "Buyers who want the strongest overall rating and reviews plus mopping, without a camera-based robot.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "59,218 reviews",
     specs: ["LiDAR Navigation, No Camera", "Super-thin profile", "Quiet operation", "Vacuum only, no mop"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Feature 2","value":"Super-thin profile"},{"label":"Feature 3","value":"Quiet operation"},{"label":"Mopping","value":"Vacuum only, no mop"}],
     description:
       "The 11S MAX has the largest review count of any model in this guide, and it does the job with the simplest hardware here: a thin, quiet, vacuum-only unit with no mop tank and no camera. Fewer onboard sensors and features generally means a smaller surface area for data collection in the first place, though it still connects to an app for scheduling and mapping.\n\nIts slim profile also lets it reach under furniture that taller combo units cannot, which is a practical advantage independent of the privacy angle.",
     bestFor: "Buyers who want a simple, well-reviewed vacuum-only robot without mopping features to manage.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "53,856 reviews",
     specs: ["LiDAR Navigation, No Camera", "15,000 Pa suction", "HydroJet roller mop", "Self-empty base"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Suction Power","value":"15,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 4","value":"Self-empty base"}],
     description:
       "The C28 is the most premium and highest-suction unit in this comparison, built around a HydroJet roller mop rather than a simple pad, along with 15,000 Pa of suction for pet hair and embedded debris. It relies on LiDAR for navigation, keeping the no-camera framing intact even at this feature tier.\n\nThe higher price reflects the added mopping hardware and suction power rather than a fundamentally different app or account experience from eufy's other LiDAR models, so check the current privacy policy for this specific SKU since combo units sometimes ship with additional app permissions for mop-related features.",
     bestFor: "Buyers who want top-tier suction and a real mop system and are willing to pay for it.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,643 reviews",
     specs: ["LiDAR Navigation, No Camera", "5000Pa suction", "App and remote control", "150-minute max runtime"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Suction Power","value":"5000Pa suction"},{"label":"Connectivity","value":"App and remote control"},{"label":"Feature 4","value":"150-minute max runtime"}],
     description:
       "The G8000 Max ties for the highest rating in this guide at a fraction of the price of the premium combo units, backed by app and remote control plus a 150-minute max runtime for larger homes on a single charge. It uses LiDAR rather than a camera, matching the no-camera scope of every model here.\n\nIts review count is smaller than the established eufy and roborock lines, so treat the 4.4 rating as an encouraging early signal rather than a guarantee at scale, and check the current privacy policy for a newer brand's app before granting account permissions.",
     bestFor: "Budget-conscious buyers who still want a high rating and solid runtime without a big brand price tag.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,152 reviews",
     specs: ["LiDAR Navigation, No Camera", "8,000Pa suction", "Vacuum and mop combo", "App-based mapping"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based mapping"}],
     description:
       "The Q7 L5 brings roborock's LiDAR mapping system and combo vacuum-and-mop function down to under $140, undercutting the brand's higher-suction Q10 model by well over $100. Suction is lower at 8,000Pa, which is still workable for everyday debris but a step down from the premium units here.\n\nroborock's app has historically offered account-level controls for map and history data, but the specifics change over time and by region, so check the current policy for this model rather than relying on general brand reputation.",
     bestFor: "Buyers who want combo vacuum-and-mop functionality at the lowest price in the roborock lineup here.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,152 reviews",
     specs: ["LiDAR Navigation, No Camera", "10,000Pa suction", "Self-empty base", "Vacuum and mop combo"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Feature 3","value":"Self-empty base"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "The Q10 S5+ steps up suction to 10,000Pa and adds a self-empty base, sitting between the entry-level Q7 L5 and the flagship Q7 M5+ in roborock's current lineup. It shares the same LiDAR-only navigation as the rest of the roborock models here, with no onboard camera.\n\nThe self-empty base is itself a small connected device with its own bag and, on some models, its own data logging for emptying schedules, so it is worth checking whether the base introduces any additional account requirements beyond the robot itself.",
     bestFor: "Buyers who want stronger suction and a self-empty base without paying flagship pricing.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "18,586 reviews",
     specs: ["LiDAR Navigation, No Camera", "10,000Pa suction", "Up to 7-9 weeks self-empty", "Vacuum and mop combo"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Feature 3","value":"Up to 7-9 weeks self-empty"},{"label":"Mopping","value":"Vacuum and mop combo"}],
     description:
       "The Q7 M5+ matches the Q10 S5+ on suction but extends the self-empty base capacity to up to 7 to 9 weeks between bag changes, making it the lowest-maintenance option in the roborock lineup here. Navigation is the same LiDAR-only system used across every model in this guide.\n\nIt carries the smallest review count of the three roborock models here, so weigh that against the longer self-empty interval when deciding if the added convenience justifies the price over the Q10 S5+.",
     bestFor: "Buyers who want the longest stretch between emptying the base and don't mind a slightly higher price.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,578 reviews",
     specs: ["LiDAR Navigation, No Camera", "5200Pa suction", "Vacuum and mop combo", "App-based control"],
+    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Suction Power","value":"5200Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based control"}],
     description:
       "ROPVACNIC is the newest and least-reviewed brand in this comparison, with a 4.3 rating on a still-small review base of under 2,000. It uses LiDAR navigation like every other model here, with 5,200Pa of suction and combo mopping in a compact unit suited to smaller apartments.\n\nBecause it is a newer, smaller brand, its app account requirements and data retention practices may be documented less thoroughly than the established eufy and roborock lines, so check the manufacturer's current privacy policy directly before setup rather than assuming parity with bigger brands.",
     bestFor: "Buyers with a smaller home who are comfortable trying a newer, less-reviewed brand for a lower price.",

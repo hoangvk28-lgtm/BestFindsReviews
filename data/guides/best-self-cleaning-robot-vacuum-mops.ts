@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "23,547 reviews",
     specs: ["2-in-1 vacuum and mop", "Self-cleaning dock", "Matrix cleaning navigation", "Auto dirt disposal"],
+    specList: [{"label":"Size","value":"2-in-1 vacuum and mop"},{"label":"Feature 2","value":"Self-cleaning dock"},{"label":"Navigation","value":"Matrix cleaning navigation"},{"label":"Feature 4","value":"Auto dirt disposal"}],
     description:
       "The Matrix Plus combines vacuuming and mopping in a single pass and returns to its dock to empty its bin and rinse its mop pad without you touching either. Shark's Matrix navigation pattern is designed to catch corners and edges that a simple back-and-forth route tends to skip, which matters most in rooms with a lot of furniture legs.\n\nAt this price and with over 23,000 reviews behind it, it lands in the middle of the pack on cost while covering the core self-cleaning features most households actually want: dock-based pad rinsing and hands-off dirt disposal. It is a sensible default pick if you are not chasing the highest suction number or the most premium dock available.",
     bestFor: "Households that want a genuinely hands-off vacuum-and-mop combo without paying premium-tier prices.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["15,000Pa suction", "HydroJet roller mop", "Self-washing dock", "High-power vacuum motor"],
+    specList: [{"label":"Suction Power","value":"15,000Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-washing dock"},{"label":"Feature 4","value":"High-power vacuum motor"}],
     description:
       "The C28 uses a roller-style mop rather than a spinning or vibrating pad, and eufy's HydroJet system pairs it with pressurized water jets at the dock to flush debris out of the roller between cleaning cycles. Roller mops generally shed grime more thoroughly during self-cleaning than flat pads, since the water and scraper can work around the full cylinder instead of just the pad's flat face.\n\nWith 15,000Pa of suction, it sits near the top of this comparison for raw pickup power, which pairs well with a roller mop that can also assist in agitating debris on hard floors. This is the pick for buyers who want the most thorough self-cleaning mechanism and are willing to pay for it.",
     bestFor: "Buyers who want the most thorough pad-washing mechanism and strong suction, and don't mind the premium price.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["8,000Pa suction", "Combo vacuum and mop", "roborock navigation", "Budget-tier pricing"],
+    specList: [{"label":"Suction Power","value":"8,000Pa suction"},{"label":"Mopping","value":"Combo vacuum and mop"},{"label":"Navigation","value":"roborock navigation"},{"label":"Feature 4","value":"Budget-tier pricing"}],
     description:
       "The Q7 L5 brings roborock's navigation and mapping software down to a budget price point without a full self-emptying and self-washing dock setup found on the brand's higher tier models. It still handles combined vacuuming and mopping in one pass, which is the main feature most buyers are actually looking for.\n\nAt under $140, it is the most affordable way to get a recognized robot vacuum brand with reliable mapping, though buyers should check the specific dock included with this model since self-cleaning features tend to scale with price even within the same brand.",
     bestFor: "Budget-conscious buyers who want a trusted navigation brand without paying for a full premium dock.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["25,000Pa suction", "Gen2 platform", "Combo vacuum and mop", "ECOVACS-backed brand"],
+    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Feature 2","value":"Gen2 platform"},{"label":"Mopping","value":"Combo vacuum and mop"},{"label":"Brand","value":"ECOVACS-backed brand"}],
     description:
       "The M12 Pro Gen2 lists 25,000Pa of suction, the highest rated figure among every model in this comparison, aimed at buyers with heavier pet hair or ground-in debris on hard floors and low-pile carpet. Yeedi is ECOVACS's value-oriented sub-brand, so it typically inherits mapping and obstacle avoidance technology from the parent company at a lower price.\n\nHigh suction numbers do not by themselves guarantee a cleaner mop pad after self-washing, so buyers focused specifically on mop hygiene should weigh this alongside the dock's wash water temperature and cycle length rather than suction alone.",
     bestFor: "Homes with pets or heavier hard-floor debris that want maximum rated suction at a mid-range price.",
@@ -138,6 +143,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["Multifunction dock", "75-day self-emptying", "Self-cleaning & hot dry", "Lifting spinning mop pads"],
+    specList: [{"label":"Feature 1","value":"Multifunction dock"},{"label":"Feature 2","value":"75-day self-emptying"},{"label":"Feature 3","value":"Self-cleaning & hot dry"},{"label":"Mopping","value":"Lifting spinning mop pads"}],
     description:
       "The Roomba 505X pairs spinning mop pads with a dock that both rinses them and finishes with a hot-dry cycle, which is the feature that most directly addresses the musty odor that damp mop pads can develop if left wet between uses. The pads also lift automatically when the robot detects carpet, so it does not drag a wet pad across rugs.\n\nWith a 75-day self-emptying bin and AI obstacle avoidance on top of the mop system, this is built for buyers who want to interact with the robot as little as possible between deeper manual cleanings of the dock's water tanks.",
     bestFor: "Buyers most concerned about musty mop odor and who want long stretches between manual dock maintenance.",
@@ -162,6 +168,7 @@ export const products: GuideProduct[] = [
     rating: "Popular pick",
     reviews: "Widely purchased",
     specs: ["5,200Pa suction", "Combo vacuum and mop", "Entry-level pricing", "Compact robotic cleaner"],
+    specList: [{"label":"Suction Power","value":"5,200Pa suction"},{"label":"Mopping","value":"Combo vacuum and mop"},{"label":"Feature 3","value":"Entry-level pricing"},{"label":"Design","value":"Compact robotic cleaner"}],
     description:
       "The ROPVACNIC combo covers the basics of combined vacuuming and mopping at a price close to the lowest in this comparison, with 5,200Pa of suction aimed at everyday dust and light debris rather than heavy pet hair or ground-in dirt. It is a straightforward option for buyers who want to try a robot vacuum and mop combo without a large upfront commitment.\n\nBuyers should expect a more basic dock than the premium picks here, and should plan on more frequent manual tray cleaning since lower-tier docks generally do less of the pad-washing work automatically.",
     bestFor: "First-time buyers who want to try a vacuum-and-mop combo at the lowest possible entry price.",
@@ -186,6 +193,7 @@ export const products: GuideProduct[] = [
     rating: "Frequently recommended",
     reviews: "Strong buyer feedback",
     specs: ["Self-emptying base", "Combo vacuum and mop", "Mid-range pricing", "App control"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Combo vacuum and mop"},{"label":"Feature 3","value":"Mid-range pricing"},{"label":"Connectivity","value":"App control"}],
     description:
       "This Tikom model adds a self-emptying base to the vacuum-and-mop combo formula at a price well under the premium picks in this comparison, making automatic dirt disposal accessible without also paying for a full mop-washing dock. It is a reasonable middle step for buyers who specifically want to stop manually emptying a dustbin but are less concerned about automated mop pad washing.\n\nSince the mop side of this model relies more on manual maintenance than the dock-washing systems on pricier picks, buyers should plan to rinse or swap the mop pad by hand more often to keep floors from being wiped with a dirty pad.",
     bestFor: "Buyers who want self-emptying dirt disposal without paying for a full mop-washing dock.",
@@ -210,6 +218,7 @@ export const products: GuideProduct[] = [
     rating: "Customer favorite",
     reviews: "Well-reviewed on Amazon",
     specs: ["FlexiArm edge mopping", "Premium roborock platform", "Combo vacuum and mop", "Self-cleaning dock"],
+    specList: [{"label":"Mopping","value":"FlexiArm edge mopping"},{"label":"Feature 2","value":"Premium roborock platform"},{"label":"Feature 3","value":"Combo vacuum and mop"},{"label":"Feature 4","value":"Self-cleaning dock"}],
     description:
       "The Qrevo S5V's standout feature is its FlexiArm, a mop pad that extends out to the side to reach baseboards and room edges that a fixed-position pad typically misses entirely. Edge coverage is one of the most commonly cited gaps for robot mops in general, so this addresses a real limitation rather than a marginal one.\n\nIt carries premium pricing in line with roborock's top platform and pairs the extending arm with the brand's usual self-cleaning dock, making it a strong pick specifically for homes with a lot of baseboard trim or furniture edges where standard mopping patterns leave streaks.",
     bestFor: "Homes with a lot of baseboards or furniture edges where standard robot mops tend to leave streaks.",

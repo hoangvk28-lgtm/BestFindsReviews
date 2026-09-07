@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Electric mower lists often rank by voltage, even though voltage is not battery capacity and says little about runtime by itself. We separated corded and cordless workflows and compared included watt-hours, drive load, charging, replacement cost, and deck size.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "ego-lm2114", rank: 1, badge: "Best Overall", name: "EGO Power+ LM2114 21-Inch Cordless Mower",
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","56V battery platform","Battery and charger included","Push drive"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
     description: "EGO Power+ LM2114 21-Inch Cordless Mower combines 21-inch deck, 56V battery platform, Battery and charger included. That combination makes it a practical option for standard-size lawns needing a full-width battery mower.\n\nIncluded watt-hours and runtime under tall or damp grass should be verified against the current kit. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "standard-size lawns needing a full-width battery mower",
     pros: ["21-inch deck","56V battery platform","Battery and charger included"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CLSC6B2T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41XlO0UuWrL._SL500_.jpg", price: "$449.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","80V 4Ah battery","320Wh nominal energy","Self-propelled"],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"80V 4Ah battery"},{"label":"Feature 3","value":"320Wh nominal energy"},{"label":"Lighting","value":"Self-propelled"}],
     description: "Greenworks 80V 21-Inch Self-Propelled Mower combines 21-inch deck, 80V 4Ah battery, 320Wh nominal energy. That combination makes it a practical option for buyers wanting self-propel and a higher-energy included pack.\n\nVoltage alone does not predict runtime, and drive use consumes energy that could otherwise power the blade. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers wanting self-propel and a higher-energy included pack",
     pros: ["21-inch deck","80V 4Ah battery","320Wh nominal energy"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck","40V 4Ah battery","160Wh included energy","Push drive"],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4Ah battery"},{"label":"Feature 3","value":"160Wh included energy"},{"label":"Drive Type","value":"Push drive"}],
     description: "Greenworks 40V 16-Inch Push Mower combines 16-inch deck, 40V 4Ah battery, 160Wh included energy. That combination makes it a practical option for small lawns and buyers already using Greenworks 40V tools.\n\nThe narrow deck and single included pack limit productivity on larger or overgrown lawns. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small lawns and buyers already using Greenworks 40V tools",
     pros: ["16-inch deck","40V 4Ah battery","160Wh included energy"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B092CMM5XM?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41tLNlfosEL._SL500_.jpg", price: "$121.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["15-inch deck","11A corded motor","No battery replacement","Cord-limited workflow"],
+    specList: [{"label":"Size","value":"15-inch deck"},{"label":"Feature 2","value":"11A corded motor"},{"label":"Battery","value":"No battery replacement"},{"label":"Feature 4","value":"Cord-limited workflow"}],
     description: "LawnMaster MEB1114K Corded Mower combines 15-inch deck, 11A corded motor, No battery replacement. That combination makes it a practical option for small unobstructed yards near an outlet.\n\nManaging an extension cord around trees, beds, and the mowing path is the core tradeoff. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small unobstructed yards near an outlet",
     pros: ["15-inch deck","11A corded motor","No battery replacement"],

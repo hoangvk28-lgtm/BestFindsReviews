@@ -25,6 +25,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -43,6 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "23,547 reviews",
     specs: ["AI-powered obstacle avoidance", "Self-cleaning brush roll", "Carpet detection", "App and voice control"],
+    specList: [{"label":"Color/Finish","value":"AI-powered obstacle avoidance"},{"label":"Feature 2","value":"Self-cleaning brush roll"},{"label":"Feature 3","value":"Carpet detection"},{"label":"Connectivity","value":"App and voice control"}],
     description:
       "The AV2501S AI Ultra pairs Shark's self-cleaning brush roll with AI-based obstacle avoidance, which matters on high-pile carpet where toys, cords, and rug fringe are more likely to catch a lower-end brush roll and force a stall. Automatic carpet detection lets it ramp up suction when it senses a transition from hard floor to carpet without requiring a manual mode switch.\n\nWith the largest review base and a solid overall rating among the models we researched for this guide, it is the pick we would default to for a household with mixed flooring and at least one room of thick carpet. It does not include a mop, so buyers who want a combo unit will need to look further down this list.",
     bestFor: "Buyers who want the most established, well-reviewed option for mixed hard floor and thick carpet.",
@@ -67,6 +69,7 @@ export const products: GuideProduct[] = [
     rating: "Well-rated by owners",
     reviews: "Strong review volume",
     specs: ["10,000Pa stated suction", "Up to 7-9 weeks self-empty", "Vacuum and mop combo", "Auto-empty base"],
+    specList: [{"label":"Suction Power","value":"10,000Pa stated suction"},{"label":"Feature 2","value":"Up to 7-9 weeks self-empty"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Auto-empty base"}],
     description:
       "The Q7 M5+ leads this list on stated suction at 10,000Pa, which is the spec that matters most for pushing air through thick pile rather than skating across the top of it. The self-empty base holds up to 7 to 9 weeks of debris, which is a real convenience if the unit is running frequently to keep up with a high-traffic carpeted room.\n\nAs a combo vacuum and mop, buyers should confirm the mop pad lifts clear before crossing onto carpet, since running a damp pad over thick pile risks trapping moisture deep in the fibers. Used mainly for vacuuming with mopping reserved for hard floors, it is a strong high-suction option.",
     bestFor: "Buyers who want the highest stated suction on this list along with self-emptying convenience.",
@@ -91,6 +94,7 @@ export const products: GuideProduct[] = [
     rating: "Favorably reviewed",
     reviews: "Solid owner feedback",
     specs: ["FlexiArm Edge mopping", "Automatic mop lift", "Premium navigation", "Vacuum and mop combo"],
+    specList: [{"label":"Mopping","value":"FlexiArm Edge mopping"},{"label":"Feature 2","value":"Automatic mop lift"},{"label":"Navigation","value":"Premium navigation"},{"label":"Feature 4","value":"Vacuum and mop combo"}],
     description:
       "The Qrevo S5V's FlexiArm Edge design is built around precise mop control, including lifting the pad away from surfaces it should not touch. For a household set on a combo unit that will also cross high-pile carpet, that lift mechanism is the single most important feature on this list, since a mop pad that fails to retract on thick pile can leave carpet damp for hours.\n\nIt is the most expensive model we researched for this guide, and that premium buys more sophisticated navigation and edge cleaning as well as the mop safety feature. Buyers who do not need mopping at all will get better value from a vacuum-only pick like the Shark AI Ultra.",
     bestFor: "Combo-unit buyers who specifically want a reliable automatic mop lift before crossing onto thick carpet.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "Positive owner ratings",
     reviews: "Growing review base",
     specs: ["10,000Pa max suction", "Vacuum-only", "Budget price point", "Compact design"],
+    specList: [{"label":"Suction Power","value":"10,000Pa max suction"},{"label":"Feature 2","value":"Vacuum-only"},{"label":"Feature 3","value":"Budget price point"},{"label":"Design","value":"Compact design"}],
     description:
       "The A30s matches the top suction spec on this list at a stated 10,000Pa, but at roughly half the price of the self-emptying combo units above it. As a vacuum-only unit it sidesteps the mop-on-carpet risk entirely, which simplifies the decision for anyone who only wants suction on thick pile and plans to mop hard floors by hand.\n\nBuyers should not expect the same navigation sophistication or app polish as the premium roborock models, but for a budget-focused household with mostly high-pile carpet and no interest in mopping, the suction-to-price ratio here is hard to match on this list.",
     bestFor: "Budget buyers who want high stated suction for thick carpet without paying for mopping features.",
@@ -137,6 +142,7 @@ export const products: GuideProduct[] = [
     rating: "Well-reviewed by owners",
     reviews: "Backed by a recognized brand track record",
     specs: ["LiDAR navigation", "Intense power-lifting suction", "Multi-surface cleaning", "Cleans in neat rows"],
+    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Suction Power","value":"Intense power-lifting suction"},{"label":"Feature 3","value":"Multi-surface cleaning"},{"label":"Size","value":"Cleans in neat rows"}],
     description:
       "The Roomba 105 Vac uses LiDAR navigation to clean in structured rows rather than a random bounce pattern, which tends to produce more even, predictable coverage across a large carpeted room over multiple passes. iRobot markets this as power-lifting suction specifically tuned for multi-surface transitions, which is the kind of feature worth researching further if your home mixes hard floors with thick carpet.\n\nAs a vacuum-only unit at a mid-range price, it is a reasonable middle ground between the ultra-budget combo units and the premium roborock models, backed by one of the more established names in the category.",
     bestFor: "Buyers who value consistent, methodical coverage and an established brand over combo features.",
@@ -160,6 +166,7 @@ export const products: GuideProduct[] = [
     rating: "Generally favorable ratings",
     reviews: "Building a solid review count",
     specs: ["Self-emptying base", "Vacuum and mop combo", "App and remote control", "Mid-range price"],
+    specList: [{"label":"Feature 1","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and remote control"},{"label":"Feature 4","value":"Mid-range price"}],
     description:
       "This Tikom model brings a self-emptying base down to a mid-range price, which is normally a feature reserved for pricier models on this list. That convenience matters on high-pile carpet specifically because deep pile tends to load a vacuum's bin faster than hard floors, so more frequent auto-empty cycles help maintain consistent suction between manual emptying.\n\nAs a combo unit, the same mop-lift caution applies here as with the roborock combo picks: confirm the pad retracts before crossing thick carpet rather than assuming it behaves the same as it does on hard floors.",
     bestFor: "Buyers who want self-emptying convenience without paying premium-brand prices.",
@@ -183,6 +190,7 @@ export const products: GuideProduct[] = [
     rating: "Decent early ratings",
     reviews: "Modest but growing review count",
     specs: ["5,200Pa stated suction", "Vacuum and mop combo", "Self-charging", "Budget price point"],
+    specList: [{"label":"Suction Power","value":"5,200Pa stated suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-charging"},{"label":"Feature 4","value":"Budget price point"}],
     description:
       "The ROPVACNIC combo sits at a lower stated suction of 5,200Pa than the higher-end picks on this list, which is worth factoring in if your carpet is genuinely thick or plush rather than a shorter high-traffic weave. At this price it is a reasonable entry point for testing whether a robot vacuum fits your routine before committing to a premium model.\n\nAs with the other combo units here, we would recommend keeping mopping to hard floors and confirming pad-lift behavior before trusting it near thick carpet.",
     bestFor: "Budget-conscious buyers who want to try a combo unit without a large upfront investment.",
@@ -206,6 +214,7 @@ export const products: GuideProduct[] = [
     rating: "Mixed to positive ratings",
     reviews: "Moderate review count",
     specs: ["5,000Pa stated suction", "150 min max runtime", "App and remote control", "Self-charging"],
+    specList: [{"label":"Suction Power","value":"5,000Pa stated suction"},{"label":"Feature 2","value":"150 min max runtime"},{"label":"Connectivity","value":"App and remote control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The G8000 Max is the least expensive model we researched for this guide, with a stated 5,000Pa suction and up to 150 minutes of runtime per charge. That combination of lower suction and longer runtime suggests it is built more for covering larger hard-floor areas than for pushing through genuinely thick pile, so treat it as an entry-level option rather than a primary solution for demanding carpet.\n\nIt is a reasonable pick for a household with only a small amount of high-pile carpet, such as one area rug, where the rest of the floor plan is hard surface or low-pile carpet better suited to this unit's suction level.",
     bestFor: "Buyers on a tight budget with only a small amount of thick carpet to cover.",

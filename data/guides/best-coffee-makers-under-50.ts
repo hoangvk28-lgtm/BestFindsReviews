@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,557 reviews",
     specs: ["10-cup capacity", "Regular/Strong brew", "Auto shut-off", "Permanent filter included"],
+    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"Regular/Strong brew"},{"label":"Feature 3","value":"Auto shut-off"},{"label":"Filtration","value":"Permanent filter included"}],
     description:
       "The SHARDOR is the most fully featured machine under $50 in this comparison, with programmable brew start, a regular-or-strong brew selector, and a permanent filter that skips paper filters entirely. That combination of features is normally reserved for machines closer to $75, which is what earns it the top spot here.\n\nThe included permanent filter is the standout detail for ownership cost, since it removes the ongoing expense of paper filters that the cheaper machines in this list still require. Auto shut-off also reduces the risk of a warming plate being left on for hours.",
     bestFor: "Buyers who want programmable brewing and a reusable filter without spending above $50.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup capacity", "Vortex brewing technology", "Sneak-a-cup", "Removable filter basket"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Feature 2","value":"Vortex brewing technology"},{"label":"Feature 3","value":"Sneak-a-cup"},{"label":"Filtration","value":"Removable filter basket"}],
     description:
       "This BLACK+DECKER model has the largest carafe of any machine in this comparison at 12 cups, and its Vortex brewing technology is designed to circulate water more evenly through the grounds than a basic drip stream. For a household making a full pot at once, that capacity-to-price ratio is hard to match under $50.\n\nIt uses standard paper filters rather than a permanent filter, which is a small recurring cost worth factoring in over a year of daily use, but the machine itself has one of the largest review bases of any budget coffee maker on Amazon.",
     bestFor: "Households that regularly brew a full pot and want the most capacity for the money.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "823 reviews",
     specs: ["12-cup capacity", "Stainless steel body", "Keep-warm function", "No paper filter needed"],
+    specList: [{"label":"Capacity","value":"12-cup capacity"},{"label":"Material","value":"Stainless steel body"},{"label":"Feature 3","value":"Keep-warm function"},{"label":"Filtration","value":"No paper filter needed"}],
     description:
       "The VEVOR is the one non-drip machine in this comparison, using an old-style percolator mechanism instead of a drip filter. It needs no paper filter or permanent filter basket at all, which some buyers prefer for a stronger, more traditional brew, and others avoid because percolated coffee tends to run bolder and can taste over-extracted if left percolating too long.\n\nThe stainless steel body and built-in keep-warm function are genuinely useful for gatherings or offices where the pot sits out for a while, which is a different use case than the single-serve-leaning drip machines elsewhere in this guide.",
     bestFor: "Buyers who want a traditional percolated brew and a keep-warm function for entertaining or office use.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "3,405 reviews",
     specs: ["4-cup capacity", "Compact footprint", "On/off switch", "Basic warming plate"],
+    specList: [{"label":"Capacity","value":"4-cup capacity"},{"label":"Design","value":"Compact footprint"},{"label":"Feature 3","value":"On/off switch"},{"label":"Feature 4","value":"Basic warming plate"}],
     description:
       "At under $16, the EHC4128 is the cheapest way into this comparison, and its small 4-cup carafe suits a single person who does not want a large machine taking up counter space. It strips out every extra feature, programmable timers, strength selectors, keep-warm beyond a basic plate, to hit that price.\n\nFor the money, it is a genuinely functional machine, but buyers should expect the bare minimum warranty and build quality that comes with a sub-$20 appliance. This is closer to a starter or backup machine than a long-term daily driver for a household of more than one or two people.",
     bestFor: "A single person who wants the lowest possible entry price and a small footprint.",

@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Zero-turn speed is useful only when the property is open enough to use it safely. We prioritized mower class, total width, slope restrictions, ride and deck behavior, storage, and service instead of assuming every acreage buyer needs the widest deck.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "husqvarna-z254f", rank: 1, badge: "Best Overall", name: "Husqvarna Z254F 54-Inch Zero-Turn Mower",
     amazonUrl: "https://www.amazon.com/dp/B07NF3V21T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41CMAS3TEVL._SL500_.jpg", price: "$3,899.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive","Residential class"],
+    specList: [{"label":"Size","value":"54-inch deck"},{"label":"Feature 2","value":"23HP Kawasaki engine"},{"label":"Drive Type","value":"Hydrostatic zero-turn drive"},{"label":"Feature 4","value":"Residential class"}],
     description: "Husqvarna Z254F 54-Inch Zero-Turn Mower combines 54-inch deck, 23HP Kawasaki engine, Hydrostatic zero-turn drive. That combination makes it a practical option for larger open lawns where maneuvering speed matters.\n\nA 54-inch zero-turn needs substantial storage and is not the default choice for slopes. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "larger open lawns where maneuvering speed matters",
     pros: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BBY28YXJ?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/318pSsZTVRL._SL500_.jpg", price: "$3,899.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["48-inch deck","23HP Kawasaki engine","Zero-turn controls","Residential class"],
+    specList: [{"label":"Size","value":"48-inch deck"},{"label":"Feature 2","value":"23HP Kawasaki engine"},{"label":"Feature 3","value":"Zero-turn controls"},{"label":"Feature 4","value":"Residential class"}],
     description: "Husqvarna Z248F 48-Inch Zero-Turn Mower combines 48-inch deck, 23HP Kawasaki engine, Zero-turn controls. That combination makes it a practical option for buyers needing a narrower zero-turn than a 54-inch model.\n\nNarrower does not mean compact; verify total width, trailer fit, and service access. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers needing a narrower zero-turn than a 54-inch model",
     pros: ["48-inch deck","23HP Kawasaki engine","Zero-turn controls"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0FVJXFRK3?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/51WoIdJxSCL._SL500_.jpg", price: "$5,299.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["42-inch deck","Battery zero-turn","Six 56V battery ports","Residential platform"],
+    specList: [{"label":"Size","value":"42-inch deck"},{"label":"Battery","value":"Battery zero-turn"},{"label":"Power Source","value":"Six 56V battery ports"},{"label":"Feature 4","value":"Residential platform"}],
     description: "EGO Power+ Z6 42-Inch Zero-Turn Mower combines 42-inch deck, Battery zero-turn, Six 56V battery ports. That combination makes it a practical option for buyers seeking a battery zero-turn with a smaller deck.\n\nBattery replacement cost and runtime under maximum blade load are major unresolved ownership variables. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers seeking a battery zero-turn with a smaller deck",
     pros: ["42-inch deck","Battery zero-turn","Six 56V battery ports"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GT8KHW9S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41iYPyQAn-L._SL500_.jpg", price: "$4,999.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["54-inch deck","60V battery platform","Multiple batteries included","Fast charger included"],
+    specList: [{"label":"Size","value":"54-inch deck"},{"label":"Power Source","value":"60V battery platform"},{"label":"Battery","value":"Multiple batteries included"},{"label":"Feature 4","value":"Fast charger included"}],
     description: "Greenworks 60V 54-Inch MaximusZ combines 54-inch deck, 60V battery platform, Multiple batteries included. That combination makes it a practical option for large open lawns where a complete battery kit matters.\n\nConfirm total included watt-hours, charging circuit needs, and local support before delivery. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "large open lawns where a complete battery kit matters",
     pros: ["54-inch deck","60V battery platform","Multiple batteries included"],

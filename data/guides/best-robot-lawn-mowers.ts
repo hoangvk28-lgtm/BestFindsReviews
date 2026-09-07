@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Robot mower recommendations need to start with navigation, not acreage marketing. RTK, LiDAR, vision, and perimeter-wire systems fail in different places, and every installation still leaves some edge trimming, blade replacement, cleaning, and winter storage for the owner.",
   "We compare mower format, yard fit, handling, power workflow, maintenance, storage, and long-term ownership needs so you can narrow the shortlist without paying for capacity you will not use.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "navimow-x430", rank: 1, badge: "Best Overall", name: "Segway Navimow X430 Robot Mower",
     amazonUrl: "https://www.amazon.com/dp/B0G8Y8CNH7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31PCfqtO+CL._SL500_.jpg", price: "$2,499.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["Up to 1-acre capacity","Wire-free navigation","Four-wheel drive","Designed for steep terrain"],
+    specList: [{"label":"Capacity","value":"Up to 1-acre capacity"},{"label":"Navigation","value":"Wire-free navigation"},{"label":"Wheels","value":"Four-wheel drive"},{"label":"Design","value":"Designed for steep terrain"}],
     description: "Segway Navimow X430 Robot Mower combines Up to 1-acre capacity, Wire-free navigation, Four-wheel drive. That combination makes it a practical option for large or steep lawns needing a wire-free robot.\n\nTrees, buildings, narrow corridors, and hard boundaries can still affect navigation and leave edge trimming for the owner. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "large or steep lawns needing a wire-free robot",
     pros: ["Up to 1-acre capacity","Wire-free navigation","Four-wheel drive"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GGZQTY2N?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41-I+gdU+YL._SL500_.jpg", price: "$1,362.24",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["Up to 0.5-acre claim","Dual-LiDAR mapping","Built-in edge trimmer","App control"],
+    specList: [{"label":"Feature 1","value":"Up to 0.5-acre claim"},{"label":"Connectivity","value":"Dual-LiDAR mapping"},{"label":"Size","value":"Built-in edge trimmer"},{"label":"Feature 4","value":"App control"}],
     description: "ECOVACS Goat A2000 LiDAR PRO combines Up to 0.5-acre claim, Dual-LiDAR mapping, Built-in edge trimmer. That combination makes it a practical option for buyers whose yards have weak satellite visibility.\n\nLiDAR mapping still needs real-yard checks around narrow corridors, reflective surfaces, and moving obstacles. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "buyers whose yards have weak satellite visibility",
     pros: ["Up to 0.5-acre claim","Dual-LiDAR mapping","Built-in edge trimmer"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CX7T6BR3?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41TLieZtDFL._SL500_.jpg", price: "$1,099.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["Up to 0.25-acre claim","RTK plus vision","Virtual boundaries","58dB(A) claim"],
+    specList: [{"label":"Feature 1","value":"Up to 0.25-acre claim"},{"label":"Feature 2","value":"RTK plus vision"},{"label":"Feature 3","value":"Virtual boundaries"},{"label":"Feature 4","value":"58dB(A) claim"}],
     description: "Segway Navimow i110N Robot Mower combines Up to 0.25-acre claim, RTK plus vision, Virtual boundaries. That combination makes it a practical option for small multi-zone lawns with a usable RTK view.\n\nBuyers should map satellite shadows and measure the remaining uncut border before committing. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "small multi-zone lawns with a usable RTK view",
     pros: ["Up to 0.25-acre claim","RTK plus vision","Virtual boundaries"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GN8KK8XW?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Ti+DWd55L._SL500_.jpg", price: "$1,022.54",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["Up to 0.5-acre capacity","No perimeter wire","Charging station included","App-managed mowing"],
+    specList: [{"label":"Capacity","value":"Up to 0.5-acre capacity"},{"label":"Feature 2","value":"No perimeter wire"},{"label":"Feature 3","value":"Charging station included"},{"label":"Connectivity","value":"App-managed mowing"}],
     description: "WORX WR320 Wire-Free Robot Mower combines Up to 0.5-acre capacity, No perimeter wire, Charging station included. That combination makes it a practical option for medium lawns where wire-free setup is the priority.\n\nComplex yards with narrow passages and many obstacles may need extra mapping adjustments and manual edge work. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "medium lawns where wire-free setup is the priority",
     pros: ["Up to 0.5-acre capacity","No perimeter wire","Charging station included"],

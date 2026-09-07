@@ -11,13 +11,15 @@ export const introParagraphs = [
   "A $300 ceiling still spans four different mowing categories: gas push mowers, cordless battery mowers, and manual push reel mowers all show up under that number, and each trades off differently on power, maintenance, and physical effort. Ranking them by price alone hides which tradeoff you are actually accepting.",
   "We compared complete ready-to-mow price, cut width, power source, starting effort, and upkeep across six current models that stay under $300, so you can pick the mower that matches your yard size and tolerance for maintenance rather than the one that happens to be cheapest on the page.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "powersmart-easycut-18-gas", rank: 1, badge: "Best Overall", name: "PowerSmart EasyCut 18-Inch Gas Lawn Mower",
     amazonUrl: "https://www.amazon.com/dp/B0D69LY9F9?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/410itr4mKuL._SL500_.jpg", price: "$189.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["18-inch cutting width", "144cc 4-cycle gas engine", "Side discharge", "5-position height adjustment"],
+    specList: [{"label":"Size","value":"18-inch cutting width"},{"label":"Feature 2","value":"144cc 4-cycle gas engine"},{"label":"Feature 3","value":"Side discharge"},{"label":"Adjustability","value":"5-position height adjustment"}],
     description: "The PowerSmart EasyCut pairs an 18-inch deck with a 144cc 4-cycle gas engine, side discharge, and 5-position height adjustment, and it holds a 4.4 rating across 367 reviews, the strongest combination of score and volume among the gas models here. That width and engine size put it closer to what a full-size gas mower offers than most sub-$300 options manage.\n\nGas power means no battery to charge or replace, but it also means fuel, oil changes, spark plug checks, and off-season storage prep. Confirm you have a place to store fuel safely and are willing to keep up with basic small-engine maintenance before choosing it over a battery mower.",
     bestFor: "small to medium yards where buyers want full gas-mower cutting width without battery replacement cost",
     pros: ["18-inch deck covers ground faster than most mowers at this price", "144cc engine has enough power for uneven or slightly overgrown grass", "5-position height adjustment fits different lawn conditions"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GXZDWCR2?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418aH+tiswL._SL500_.jpg", price: "$189.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["18-inch cutting width", "144cc gas engine", "Side discharge", "Push drive"],
+    specList: [{"label":"Size","value":"18-inch cutting width"},{"label":"Feature 2","value":"144cc gas engine"},{"label":"Feature 3","value":"Side discharge"},{"label":"Drive Type","value":"Push drive"}],
     description: "This PowerSmart 18-inch model shares the same 144cc engine class and side discharge as the EasyCut above, and carries a 4.3 rating from 414 reviews. It is effectively a sibling model rather than a distinct step down, and either one is a reasonable pick if only one is in stock or on sale at the moment you buy.\n\nBecause the two PowerSmart mowers are so close in spec and price, the deciding factor is usually availability and current price rather than a meaningful capability gap. Compare the listed price on both before ordering.",
     bestFor: "buyers who want the same 18-inch gas mower class as the top pick but need a specific model in stock",
     pros: ["Same 18-inch deck and 144cc engine class as the top pick", "Side discharge handles clippings without a bag", "Strong review volume backs up the rating"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CCVGST3S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/315PnHDtNwL._SL500_.jpg", price: "$167.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["18-inch cutting width", "40V brushless motor", "Battery-powered, no cord", "4.1 rating from 842 reviews"],
+    specList: [{"label":"Size","value":"18-inch cutting width"},{"label":"Power Source","value":"40V brushless motor"},{"label":"Battery","value":"Battery-powered, no cord"},{"label":"Reviews","value":"4.1 rating from 842 reviews"}],
     description: "The Wild Badger Power 40V mower pairs an 18-inch deck with a brushless motor, and its 4.1 rating across 842 reviews is the largest review base among the cordless options in this price band. A brushless motor typically means less motor wear and quieter running than a brushed equivalent at a similar price.\n\nAs with any single-battery cordless mower, runtime on one charge is the practical limit rather than raw power, and it will be shorter in tall or damp grass than in short, dry grass. Check the included battery capacity against your lawn size before assuming one charge covers the whole yard.",
     bestFor: "buyers who want gas-mower deck width without fuel, cords, or engine maintenance",
     pros: ["18-inch deck is wide for a sub-$300 cordless mower", "Brushless motor reduces noise and motor wear versus brushed alternatives", "No fuel, oil, or pull-starting required"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting width", "40V 4Ah battery and charger included", "Push drive", "4.2 rating from 12,116 reviews"],
+    specList: [{"label":"Size","value":"16-inch cutting width"},{"label":"Power Source","value":"40V 4Ah battery and charger included"},{"label":"Drive Type","value":"Push drive"},{"label":"Reviews","value":"4.2 rating from 12,116 reviews"}],
     description: "The Greenworks 40V 16-inch push mower includes a 4Ah battery and charger, and its 4.2 rating across 12,116 reviews is by far the largest review base of any mower in this roundup, reflecting how widely adopted the Greenworks 40V platform is. That popularity also means batteries, chargers, and other 40V tools are easy to find if you already own or plan to buy other Greenworks 40V equipment.\n\nAt $249.99 it is the most expensive mower on this list while still staying under the $300 ceiling, and its 16-inch deck is narrower than the gas and Wild Badger options above, so it fits smaller or more detailed lawns better than large open ones.",
     bestFor: "small lawns and buyers already invested in or planning to build out the Greenworks 40V tool platform",
     pros: ["Battery and charger included in the box", "Very large review base backs up real-world reliability", "Shares batteries with other Greenworks 40V tools"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00004RA3F?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31f0r+Tws+L._SL500_.jpg", price: "$72.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "4-blade manual reel design", "No fuel, cord, or battery", "4.3 rating from 15,053 reviews"],
+    specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Hose","value":"4-blade manual reel design"},{"label":"Battery","value":"No fuel, cord, or battery"},{"label":"Reviews","value":"4.3 rating from 15,053 reviews"}],
     description: "The American Lawn Mower 1204-14 is a fully manual push reel mower with a 4.3 rating across 15,053 reviews, the highest review count of any mower on this list. It needs no fuel, battery, or cord, which also makes it the lowest price and lowest maintenance option here by a wide margin.\n\nA manual reel mower depends entirely on the person pushing it, so it works best on small, flat, regularly mowed lawns rather than large or overgrown ones. It also will not handle thick or tall grass as cleanly as a motorized mower.",
     bestFor: "small flat lawns mowed on a regular schedule, and buyers who want the lowest cost and simplest maintenance",
     pros: ["Lowest price on this list by a wide margin", "No fuel, battery, cord, or engine maintenance ever needed", "Very large, strongly positive review base"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CSYNFMB7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31samEj-3EL._SL500_.jpg", price: "$81.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch cutting width", "5-blade manual reel design", "No fuel, cord, or battery", "4.1 rating from 1,837 reviews"],
+    specList: [{"label":"Size","value":"16-inch cutting width"},{"label":"Hose","value":"5-blade manual reel design"},{"label":"Battery","value":"No fuel, cord, or battery"},{"label":"Reviews","value":"4.1 rating from 1,837 reviews"}],
     description: "The LawnMaster LMRM1602 is a manual push reel mower with a wider 16-inch deck and an extra blade compared to the American Lawn Mower pick above, and it holds a 4.1 rating from 1,837 reviews. The wider cut and additional blade can mean fewer passes and a slightly cleaner cut on a well-kept lawn.\n\nIt shares the same tradeoffs as any reel mower: no motor to maintain, but performance depends on the operator and it is not suited to tall or overgrown grass. Choose it over the American Lawn Mower model if the extra deck width matters more to you than the lower price and larger review base of that pick.",
     bestFor: "buyers who want a slightly wider manual reel mower and are comfortable with a smaller but still solid review base",
     pros: ["16-inch deck is wider than most reel mowers at this price", "5-blade design can leave a cleaner cut on regularly maintained grass", "No fuel, battery, or cord required"],

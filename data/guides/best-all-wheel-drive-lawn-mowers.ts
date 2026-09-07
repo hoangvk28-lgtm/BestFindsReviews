@@ -11,13 +11,15 @@ export const introParagraphs = [
   "Genuine all-wheel-drive lawn mowers are rare in the walk-behind gas and battery market, most self-propelled mowers on Amazon are actually front-wheel or rear-wheel drive even when marketing copy implies otherwise. The current products with a real, stated all-wheel or four-wheel-drive claim are almost entirely wire-free robot mowers built for slopes, since four independently driven wheels is how these robots keep traction while climbing and turning on uneven terrain.",
   "We compared eight current robot mowers whose listings specifically state a four-wheel-drive design, focusing on the stated slope percentage, real mowable area, navigation type, and what ongoing setup and maintenance each one requires. If you were looking for a traditional walk-behind AWD mower, the honest answer is that verified AWD walk-behinds are not currently a meaningful in-stock category on Amazon, a strong RWD self-propelled mower is the closer real alternative for hilly yards.",
 ];
-export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
+export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[];
+  specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [
   {
     id: "segway-navimow-x430", rank: 1, badge: "Best Overall", name: "Segway Navimow X430 Robot Lawn Mower",
     amazonUrl: "https://www.amazon.com/dp/B0G8Y8CNH7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31PCfqtO+CL._SL500_.jpg", price: "$2,499.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD, stated for 84% slopes", "Wire-free, up to 1 acre", "Zero-turn chassis", "Dual 180W motors"],
+    specList: [{"label":"Feature 1","value":"4WD, stated for 84% slopes"},{"label":"Feature 2","value":"Wire-free, up to 1 acre"},{"label":"Feature 3","value":"Zero-turn chassis"},{"label":"Feature 4","value":"Dual 180W motors"}],
     description: "The X430 states four-wheel drive rated for 84% slope grades, backed by two 180W drive motors and a zero-turn chassis meant to avoid tearing turf on tight turns. It targets lawns up to about an acre and skips a boundary wire entirely.\n\nAn 84% grade is a steep claim worth testing carefully on your own property before trusting it fully, and like any wire-free robot it still needs a base station, periodic blade changes, and winter storage. Cross-check the actual slope of your yard against the manufacturer's real installation guidance rather than the headline number alone.",
     bestFor: "sloped yards up to about an acre where a wire-free robot with real 4WD traction is worth the price",
     pros: ["Stated 4WD across dual motors, not marketing language alone", "Zero-turn design reduces turf scuffing on tight turns", "Wire-free setup for up to 1 acre"],
@@ -28,6 +30,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0G8XZMMR5?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41V8v6qxLDL._SL500_.jpg", price: "$2,999.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD, stated for 84% slopes", "Wire-free, up to 1.5 acres", "Zero-turn chassis", "Larger coverage than the X430"],
+    specList: [{"label":"Feature 1","value":"4WD, stated for 84% slopes"},{"label":"Feature 2","value":"Wire-free, up to 1.5 acres"},{"label":"Feature 3","value":"Zero-turn chassis"},{"label":"Feature 4","value":"Larger coverage than the X430"}],
     description: "The X450 shares the X430's stated 4WD design and 84% slope claim but extends coverage to roughly 1.5 acres, making it the pick for a bigger sloped property rather than a small one.\n\nThe added coverage and price mostly matter if your actual mowable area approaches that upper limit. For a smaller yard, the X430 covers the same terrain challenges for less money.",
     bestFor: "larger sloped properties, up to about 1.5 acres, that need the same 4WD traction as the X430 with more coverage",
     pros: ["Stated 4WD with the same 84% slope claim as the X430", "Covers up to about 1.5 acres wire-free", "Zero-turn chassis for tight-turn areas"],
@@ -38,6 +41,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GQBHL7Y2?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Ti+DWd55L._SL500_.jpg", price: "$2,299.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD, stated in the listing title", "Wire-free, up to 1/2 acre", "No perimeter wire install", "App-managed mowing"],
+    specList: [{"label":"Size","value":"4WD, stated in the listing title"},{"label":"Feature 2","value":"Wire-free, up to 1/2 acre"},{"label":"Feature 3","value":"No perimeter wire install"},{"label":"Connectivity","value":"App-managed mowing"}],
     description: "WORX markets the WR342 explicitly as a 4WD robot mower for lawns up to about half an acre, priced below the two Segway models here. It targets mid-size properties rather than large acreage.\n\nHalf an acre is a meaningfully smaller coverage claim than the Segway pair, so measure your actual mowable area before choosing this over the larger WR344 or a Segway model.",
     bestFor: "mid-size sloped lawns around half an acre where a lower-priced 4WD option is preferred over the Segway lineup",
     pros: ["Explicitly labeled 4WD by WORX, not an inferred spec", "Lower price than the Segway 4WD models", "Wire-free setup"],
@@ -48,6 +52,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GQ9XK7FK?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41Ti+DWd55L._SL500_.jpg", price: "$2,646.18",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD, stated in the listing title", "Wire-free, up to 1 acre", "No perimeter wire install", "App-managed mowing"],
+    specList: [{"label":"Size","value":"4WD, stated in the listing title"},{"label":"Feature 2","value":"Wire-free, up to 1 acre"},{"label":"Feature 3","value":"No perimeter wire install"},{"label":"Connectivity","value":"App-managed mowing"}],
     description: "The WR344 is the larger-coverage sibling to the WR342, stepping up to roughly one acre while keeping the same stated 4WD drivetrain and wire-free setup.\n\nAt this price it sits close to the Segway X430, so compare stated slope handling and app/mapping details for your specific yard rather than choosing on coverage acreage alone.",
     bestFor: "roughly one-acre sloped lawns where a WORX ecosystem is preferred over Segway",
     pros: ["Explicitly labeled 4WD", "Covers up to about 1 acre wire-free", "Comparable coverage to the Segway X430 at a similar price"],
@@ -58,6 +63,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DL5P7GTH?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41V8v6qxLDL._SL500_.jpg", price: "$3,499.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD, stated in the listing title", "Remote-controlled, not autonomous", "37-degree slope rating", "21-inch cutting width"],
+    specList: [{"label":"Size","value":"4WD, stated in the listing title"},{"label":"Lighting","value":"Remote-controlled, not autonomous"},{"label":"Reviews","value":"37-degree slope rating"},{"label":"Width","value":"21-inch cutting width"}],
     description: "The Mowrator S1 is a different category from the app-mapped robots above, it is a remote-controlled 4WD mower you drive by hand-held controller rather than one that runs on a schedule by itself. Its 37-degree slope rating is stated as an actual degree figure rather than a percentage grade.\n\nThat remote-control design suits very steep or irregular terrain where autonomous mapping struggles, but it requires you to actively operate it each session rather than letting it run unattended, closer to a powered tool than a set-and-forget robot.",
     bestFor: "very steep or irregular terrain where you want to actively drive a powerful 4WD mower by remote rather than rely on autonomous mapping",
     pros: ["Explicit 4WD with a stated 37-degree slope rating", "Remote control suits terrain too irregular for autonomous mapping", "21-inch cutting width, wider than most robot mowers"],
@@ -68,6 +74,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DM99GH2S?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41V8v6qxLDL._SL500_.jpg", price: "$3,999.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD, stated in the listing title", "Larger 18Ah battery than the 12Ah S1", "37-degree slope rating", "Remote-controlled"],
+    specList: [{"label":"Size","value":"4WD, stated in the listing title"},{"label":"Battery","value":"Larger 18Ah battery than the 12Ah S1"},{"label":"Reviews","value":"37-degree slope rating"},{"label":"Lighting","value":"Remote-controlled"}],
     description: "This is the same Mowrator S1 platform with a larger 18Ah battery pack for longer runtime per charge, at a higher price than the 12Ah version.\n\nThe extra capacity mostly matters for larger properties that would otherwise need mid-session recharging. For a smaller yard, the 12Ah version covers the same terrain for less money.",
     bestFor: "larger properties needing more runtime per charge from the same remote-controlled 4WD platform",
     pros: ["Same stated 4WD and 37-degree slope rating as the 12Ah model", "Larger battery for longer sessions between charges"],
@@ -78,6 +85,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0FLDVCZHW?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41V8v6qxLDL._SL500_.jpg", price: "$4,299.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD with wide wheel option", "40-degree slope rating", "Remote-controlled", "18Ah battery"],
+    specList: [{"label":"Wheels","value":"4WD with wide wheel option"},{"label":"Reviews","value":"40-degree slope rating"},{"label":"Lighting","value":"Remote-controlled"},{"label":"Battery","value":"18Ah battery"}],
     description: "This Mowrator S1 variant adds wider wheels, stated to support a 40-degree slope rating, slightly steeper than the standard-wheel versions, at the highest price of the three Mowrator listings here.\n\nWider wheels generally trade some maneuverability in tight spaces for extra stability on rough or steep ground, worth it mainly if your terrain is genuinely at the edge of what the standard-wheel version handles.",
     bestFor: "the steepest or roughest terrain in this comparison, where the wider wheel stance justifies the added cost",
     pros: ["Highest stated slope rating of the Mowrator variants here (40 degrees)", "Wide wheels add stability on rough ground"],
@@ -88,6 +96,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GFW1LRDN?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41V8v6qxLDL._SL500_.jpg", price: "$4,399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["4WD with grip-tread tires", "Highest stated slope rating here at 50 degrees", "Remote-controlled", "18Ah battery"],
+    specList: [{"label":"Feature 1","value":"4WD with grip-tread tires"},{"label":"Reviews","value":"Highest stated slope rating here at 50 degrees"},{"label":"Lighting","value":"Remote-controlled"},{"label":"Battery","value":"18Ah battery"}],
     description: "This Mowrator S1 variant adds grip-tread tires and carries the steepest stated slope rating in this comparison at 50 degrees, aimed at the most demanding terrain a remote-controlled 4WD mower is likely to face.\n\nAt the top of this list's price range, it only makes sense if your property genuinely has terrain at or near that limit, most residential slopes will be well served by a less extreme, less expensive option above.",
     bestFor: "the most extreme slope terrain, where the maximum stated slope rating in this lineup is actually needed",
     pros: ["Highest stated slope rating in this comparison", "Grip-tread tires add traction on the steepest ground"],

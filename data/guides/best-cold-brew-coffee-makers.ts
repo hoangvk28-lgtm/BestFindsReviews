@@ -24,6 +24,7 @@ export interface GuideProduct {
   rating: string;
   reviews: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -42,6 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "67,488 reviews",
     specs: ["2 quart (64oz) capacity", "Fine-mesh filter", "Airtight leak-proof lid", "Shatter-proof Tritan"],
+    specList: [{"label":"Capacity","value":"2 quart (64oz) capacity"},{"label":"Material","value":"Fine-mesh filter"},{"label":"Feature 3","value":"Airtight leak-proof lid"},{"label":"Feature 4","value":"Shatter-proof Tritan"}],
     description:
       "The 2 quart capacity brews concentrate, not ready-to-drink coffee, and most people dilute this roughly 1:1 with water or milk, so a full pitcher realistically stretches to 8 to 10 finished 8oz servings rather than the 8 servings a straight fluid-capacity reading would suggest. After accounting for grounds absorbing some liquid and sediment left behind when pouring, expect slightly less concentrate than the full 64oz to actually strain out cleanly.\n\nThe patented airtight lid is a genuine advantage for fridge storage since it both seals in aroma and reduces spill risk if the pitcher gets bumped on a crowded shelf. The fine-mesh filter built into the lid handles grounds removal without a separate filter bag, but it still needs a thorough rinse after each batch since fine grounds can lodge in the mesh.",
     bestFor: "Buyers who want a reliable daily concentrate pitcher with a genuinely leak-proof lid for fridge storage.",
@@ -66,6 +68,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "24,785 reviews",
     specs: ["64oz capacity", "Leak-proof lid", "Manual steep-and-strain", "Fridge-door sized"],
+    specList: [{"label":"Capacity","value":"64oz capacity"},{"label":"Feature 2","value":"Leak-proof lid"},{"label":"Feature 3","value":"Manual steep-and-strain"},{"label":"Feature 4","value":"Fridge-door sized"}],
     description:
       "This is a manual steep-and-strain pitcher: you combine coarse grounds and water, let it steep in the fridge for roughly 12 to 24 hours, then strain. That long steep time is the tradeoff for needing no electricity and no extraction equipment, just a pitcher and patience, which is the core difference between manual systems like this one and electric rapid-brew machines.\n\nAt 64oz it is sized to fit most standard fridge doors, and the leak-proof lid matters more here than on a countertop pitcher since it is meant to sit undisturbed in the fridge for most of a day. As with any cold brew concentrate, expect meaningful sediment at the bottom after straining unless you filter twice, and dilute before drinking since this is concentrate, not finished coffee.",
     bestFor: "Buyers who want the lowest-cost entry into cold brew and do not mind a 12 to 24 hour steep time.",
@@ -90,6 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,179 reviews",
     specs: ["47oz glass carafe", "Electric circulation extraction", "10 to 25 minute brew settings", "Built-in cleaning cycle"],
+    specList: [{"label":"Capacity","value":"47oz glass carafe"},{"label":"Feature 2","value":"Electric circulation extraction"},{"label":"Feature 3","value":"10 to 25 minute brew settings"},{"label":"Size","value":"Built-in cleaning cycle"}],
     description:
       "This is the electric alternative to steep-and-strain systems: instead of waiting 12 to 24 hours, it actively circulates water through the grounds and produces concentrate in as little as 10 minutes, with a 25-minute setting for a bolder brew. That speed is the entire value proposition, and it comes at a real equipment cost, roughly 3 to 4 times the price of a manual pitcher.\n\nThe 47oz capacity is smaller than the 64oz manual pitchers here, so it yields fewer diluted servings per batch even before accounting for concentrate-to-water ratios. It includes a dedicated cleaning cycle, which addresses grounds and residue in the internal brew path that a simple pitcher does not have to deal with, but it also means more internal components that could eventually need maintenance than a pitcher with no moving parts.",
     bestFor: "Buyers who want cold brew today rather than tomorrow and are willing to pay for electric equipment.",
@@ -114,6 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "4,365 reviews",
     specs: ["64oz glass mason pitcher", "Stainless steel filter", "Manual steep-and-strain", "Wide-mouth opening"],
+    specList: [{"label":"Feature 1","value":"64oz glass mason pitcher"},{"label":"Material","value":"Stainless steel filter"},{"label":"Feature 3","value":"Manual steep-and-strain"},{"label":"Feature 4","value":"Wide-mouth opening"}],
     description:
       "This is another manual steep-and-strain pitcher, glass rather than plastic, with a wide-mouth mason-jar-style opening that makes both filling with grounds and cleaning afterward easier than pitchers with a narrower neck. Grounds removal is one of the more tedious parts of manual cold brew, and a wide mouth genuinely helps.\n\nGlass takes up roughly the same fridge footprint as the plastic County Line Kitchen pitcher but is heavier and, unlike shatter-proof Tritan, can break if dropped on a hard fridge shelf or floor. The same steep time and dilution math applies as any manual system: budget 12 to 24 hours to steep and dilute the concentrate before drinking.",
     bestFor: "Buyers who prefer a glass pitcher and want an easier-to-clean wide mouth over a narrower-necked design.",
