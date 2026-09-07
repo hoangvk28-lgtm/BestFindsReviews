@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     shortCtaLabel: "Check price",
     specs: ["14-inch cutting width", "5.0Ah battery and charger included", "Brushless motor", "5-position height adjustment"],
     specList: [{"label":"Size","value":"14-inch cutting width"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Feature 3","value":"Brushless motor"},{"label":"Adjustability","value":"5-position height adjustment"}],
-    description: "The Litheli 14-Inch is a cordless battery mower that lands right at the $100 line, with a brushless motor, an included 5.0Ah battery and charger, and 5-position height adjustment. It is the only battery-powered walk-behind on this list under $100, which matters for buyers who want the convenience of a powered mower without an extension cord.\n\nIts review base is small at 48 ratings averaging 3.9 stars, so there is much less track record here than the reel mower or the corded electric above it. The 14-inch deck and single included battery also point to a compact lawn rather than a full-size yard, and buyers should weigh the limited review history against the convenience of cordless operation before choosing it over the more established options on this list.",
+    description: "The Litheli 14-Inch is a cordless battery mower that lands right at the $100 line, with a brushless motor, an included 5.0Ah battery and charger, and 5-position height adjustment. It is the only battery-powered walk-behind on this list under that which matters for buyers who want the convenience of a powered mower without an extension cord.\n\nIts review base is small at 48 ratings averaging 3.9 stars, so there is much less track record here than the reel mower or the corded electric above it. The 14-inch deck and single included battery also point to a compact lawn rather than a full-size yard, and buyers should weigh the limited review history against the convenience of cordless operation before choosing it over the more established options on this list.",
     bestFor: "buyers who specifically want a cordless powered mower and are comfortable with a limited review history",
     pros: ["Only cordless battery walk-behind under $100 on this list", "Battery and charger included, no separate purchase needed", "5-position height adjustment"],
     cons: ["Only 48 reviews at 3.9 stars, a much smaller track record than the other picks", "14-inch deck and single battery limit it to smaller lawns"],
@@ -79,7 +79,7 @@ export const buyingCriteria = [
 ];
 
 export const howWeEvaluated = [
-  { title: "Price discipline", description: "We excluded every product priced at or above $100 rather than rounding up, which limited the list to a reel mower and two compact electrics." },
+  { title: "Price discipline", description: "We excluded every product priced at or above that rather than rounding up, which limited the list to a reel mower and two compact electrics." },
   { title: "Yard fit at this budget", description: "We matched cutting width and power source to the small, flat, regularly maintained lawns this price tier realistically serves." },
   { title: "Review history where available", description: "We weighed real rating and review counts where Amazon provided them, and called out when a listing had too few reviews to draw a strong conclusion." },
   { title: "Power source tradeoffs", description: "We compared manual, corded, and battery power directly so buyers understand what changes about daily use at each option, not just the price tag." },
