@@ -25,6 +25,7 @@ function serializeProduct(p) {
     `ctaLabel: "Check price on Amazon"`,
     `shortCtaLabel: "Check price"`,
     `specs: [${p.specs.map((s) => `"${esc(s)}"`).join(", ")}]`,
+    `specList: ${JSON.stringify(p.specList || [])}`,
     `description: "${esc(p.description)}"`,
     `bestFor: "${esc(p.bestFor)}"`,
     `pros: [${p.pros.map((s) => `"${esc(s)}"`).join(", ")}]`,
@@ -44,7 +45,7 @@ lines.push(`export const lastUpdated = "${esc(spec.lastUpdated)}";`);
 lines.push(`export const readTime = "${esc(spec.readTime)}";`);
 lines.push(`export const heroImage = "${esc(spec.heroImage)}";`);
 lines.push(`export const introParagraphs = [\n${spec.introParagraphs.map((p) => `  "${esc(p)}"`).join(",\n")}\n];`);
-lines.push(`export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; description: string; bestFor: string; pros: string[]; cons: string[]; }`);
+lines.push(`export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }`);
 lines.push(`export const products: GuideProduct[] = [\n${spec.products.map(serializeProduct).join(",\n")}\n];`);
 lines.push(`export const buyingCriteria = ${JSON.stringify(spec.buyingCriteria)};`);
 lines.push(`export const howWeEvaluated = ${JSON.stringify(spec.howWeEvaluated)};`);

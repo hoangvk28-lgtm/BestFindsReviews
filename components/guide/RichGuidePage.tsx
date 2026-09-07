@@ -19,6 +19,7 @@ export interface RichGuideProduct {
   ctaLabel?: string;
   shortCtaLabel?: string;
   specs: string[];
+  specList?: { label: string; value: string }[];
   description: string;
   bestFor: string;
   pros: string[];
@@ -131,7 +132,23 @@ function ProductSection({ product }: { product: RichGuideProduct }) {
             </a>
           </div>
         </div>
-        <div className="border-t border-border grid sm:grid-cols-2 divide-y sm:divide-y-0 sm:divide-x divide-border">
+        <div
+          className={`border-t border-border grid divide-y sm:divide-y-0 sm:divide-x divide-border ${
+            product.specList && product.specList.length > 0 ? "sm:grid-cols-3" : "sm:grid-cols-2"
+          }`}
+        >
+          {product.specList && product.specList.length > 0 && (
+            <div className="p-4">
+              <p className="text-xs font-bold uppercase tracking-widest text-ink mb-3">Specs</p>
+              <ul className="space-y-1.5">
+                {product.specList.map((spec, i) => (
+                  <li key={i} className="text-xs text-ink-secondary">
+                    <span className="font-semibold text-ink">{spec.label}:</span> {spec.value}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
           <div className="p-4">
             <p className="text-[10px] font-bold uppercase tracking-widest text-cta mb-3">Pros</p>
             <ul className="space-y-1.5">
