@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Live pricing at this tier",
-    explanation:
-      "Under-$100 listings can shift with promotional pricing, sometimes moving a model above or below the threshold within weeks. Confirm the current price on the product page before assuming a listed model still qualifies.",
-  },
-  {
-    criterion: "Product class flexibility",
-    explanation:
-      "Unlike the sub-$50 tier, drip, single-serve, and dual-mode machines are all realistically available under $100. Decide which mode you actually need, full carafe, single cup, or both, before comparing prices.",
-  },
-  {
-    criterion: "Pod vs ground coffee compatibility",
-    explanation:
-      "Machines that accept both K-Cup-style pods and ground coffee, like the Hamilton Beach and the Ninja single-serve model here, give you the option to avoid pod costs entirely. Confirm this compatibility before assuming a single-serve machine is pod-only.",
-  },
-  {
-    criterion: "First-year cost including filters, pods, and descaling",
-    explanation:
-      "A dual-mode or single-serve machine used daily with pods can add $150 to $275 per year in pod costs alone, while a paper-filter drip machine adds a more modest $20 to $30 per year. Factor this into the total cost comparison, not just the machine price.",
-  },
-  {
-    criterion: "What the $150 to $200 tier adds",
-    explanation:
-      "Moving up from under $100 typically buys sturdier build quality, thermal carafes, and more precise temperature or strength control. If those matter more than staying under $100, it is worth comparing against pricier options separately.",
-  },
+  { criterion: "Live pricing at this tier", explanation: "Under-$100 listings can shift with promotional pricing, sometimes moving a model above or below the threshold within weeks. Confirm the current price on the product page before assuming a listed model still qualifies.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since live pricing at this tier affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on live pricing at this tier rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Product class flexibility", explanation: "Unlike the sub-$50 tier, drip, single-serve, and dual-mode machines are all realistically available under $100. Decide which mode you actually need, full carafe, single cup, or both, before comparing prices.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since product class flexibility plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of product class flexibility, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Pod vs ground coffee compatibility", explanation: "Machines that accept both K-Cup-style pods and ground coffee, like the Hamilton Beach and the Ninja single-serve model here, give you the option to avoid pod costs entirely. Confirm this compatibility before assuming a single-serve machine is pod-only.\n\nBuyers who skip past pod vs ground coffee compatibility tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles pod vs ground coffee compatibility rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "First-year cost including filters, pods, and descaling", explanation: "A dual-mode or single-serve machine used daily with pods can add $150 to $275 per year in pod costs alone, while a paper-filter drip machine adds a more modest $20 to $30 per year. Factor this into the total cost comparison, not just the machine price.\n\nFirst-year cost including filters, pods, and descaling is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on first-year cost including filters, pods, and descaling directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "What the $150 to $200 tier adds", explanation: "Moving up from under $100 typically buys sturdier build quality, thermal carafes, and more precise temperature or strength control. If those matter more than staying under $100, it is worth comparing against pricier options separately.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since what the $150 to $200 tier adds affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what the $150 to $200 tier adds rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

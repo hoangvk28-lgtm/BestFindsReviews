@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Live pricing at this tier",
-    explanation:
-      "The $50 to $75 range shifts with promotional pricing more than higher tiers do, sometimes dropping a machine below $50 or pushing it above $75 within weeks. Confirm the current price on the product page before assuming a listed model still fits this budget.",
-  },
-  {
-    criterion: "Where this tier sits between $50 and $100",
-    explanation:
-      "This tier generally buys sturdier build quality and more genuine programmability than the sub-$50 tier, without yet reaching the dual-mode or single-serve flexibility common in the Under $100 tier. Decide whether those specific gains matter before paying more than the cheapest option.",
-  },
-  {
-    criterion: "Filter type and ongoing cost",
-    explanation:
-      "A permanent filter, like the one included with the SHARDOR here, avoids the recurring cost of paper filters, which run roughly $15 to $30 per year for daily use. Factor this into total cost, not just the machine price.",
-  },
-  {
-    criterion: "First-year cost including filters and descaling",
-    explanation:
-      "Add roughly $20 to $30 per year for paper filters and descaling solution to any machine's sticker price for a realistic first-year total. A $30 machine with paper filters can approach $55 to $60 in true first-year cost.",
-  },
-  {
-    criterion: "Minimum performance and warranty expectations",
-    explanation:
-      "At this tier, expect at least a basic one-year warranty and either programmable start or a meaningfully sturdier build than sub-$50 options, since $50 to $75 buys real, if modest, improvement over the cheapest tier.",
-  },
+  { criterion: "Live pricing at this tier", explanation: "The $50 to $75 range shifts with promotional pricing more than higher tiers do, sometimes dropping a machine below $50 or pushing it above $75 within weeks. Confirm the current price on the product page before assuming a listed model still fits this budget.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since live pricing at this tier affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on live pricing at this tier rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Where this tier sits between $50 and $100", explanation: "This tier generally buys sturdier build quality and more genuine programmability than the sub-$50 tier, without yet reaching the dual-mode or single-serve flexibility common in the Under $100 tier. Decide whether those specific gains matter before paying more than the cheapest option.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since where this tier sits between $50 and $100 plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of where this tier sits between $50 and $100, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Filter type and ongoing cost", explanation: "A permanent filter, like the one included with the SHARDOR here, avoids the recurring cost of paper filters, which run roughly $15 to $30 per year for daily use. Factor this into total cost, not just the machine price.\n\nBuyers who skip past filter type and ongoing cost tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles filter type and ongoing cost rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "First-year cost including filters and descaling", explanation: "Add roughly $20 to $30 per year for paper filters and descaling solution to any machine's sticker price for a realistic first-year total. A $30 machine with paper filters can approach $55 to $60 in true first-year cost.\n\nFirst-year cost including filters and descaling is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on first-year cost including filters and descaling directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Minimum performance and warranty expectations", explanation: "At this tier, expect at least a basic one-year warranty and either programmable start or a meaningfully sturdier build than sub-$50 options, since $50 to $75 buys real, if modest, improvement over the cheapest tier.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since minimum performance and warranty expectations affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on minimum performance and warranty expectations rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

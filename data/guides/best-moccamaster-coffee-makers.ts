@@ -110,36 +110,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Model number differences",
-    explanation:
-      "KBGV models add a half-batch brew switch, KBT models use a stainless thermal carafe instead of glass, and KB models are a simpler glass-carafe line without the half-batch switch. Match the letters to the specific feature you want rather than assuming all Moccamasters are interchangeable.",
-  },
-  {
-    criterion: "Glass vs thermal carafe",
-    explanation:
-      "A glass carafe on a warming plate starts to degrade coffee flavor after roughly 30 to 45 minutes. If you regularly nurse a pot for an hour or more, the thermal KBT carafe is worth its higher price over a glass model.",
-  },
-  {
-    criterion: "No built-in timer on base models",
-    explanation:
-      "None of the models here have a programmable auto-start timer, unlike many mainstream drip machines under $150. If waking up to a pot already brewed is important to you, Moccamaster is not the right fit without buying a separate smart plug workaround.",
-  },
-  {
-    criterion: "Long-term value via warranty and parts",
-    explanation:
-      "Moccamaster backs its home brewers with a 5-year warranty, longer than most drip machines in this price range, and the company is known for supplying replacement parts rather than requiring a full machine replacement. Factor this into cost per year of ownership, not just the upfront price.",
-  },
-  {
-    criterion: "Half-batch brewing accuracy",
-    explanation:
-      "The half-batch switch on KBGV models changes the brew cycle to suit a smaller water volume rather than just diluting a full-strength brew. If you often make less than a full pot, confirm the model you are buying actually includes this switch.",
-  },
-  {
-    criterion: "Finish and fingerprint visibility",
-    explanation:
-      "Polished silver shows fingerprints more readily than a brushed or matte finish. If the machine sits in a high-traffic kitchen, a brushed finish will generally look cleaner between wipe-downs.",
-  },
+  { criterion: "Model number differences", explanation: "KBGV models add a half-batch brew switch, KBT models use a stainless thermal carafe instead of glass, and KB models are a simpler glass-carafe line without the half-batch switch. Match the letters to the specific feature you want rather than assuming all Moccamasters are interchangeable.\n\nGetting this wrong is one of the more common reasons a moccamaster coffee makers purchase disappoints once it actually arrives, since model number differences affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on model number differences rather than assuming every moccamaster coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Glass vs thermal carafe", explanation: "A glass carafe on a warming plate starts to degrade coffee flavor after roughly 30 to 45 minutes. If you regularly nurse a pot for an hour or more, the thermal KBT carafe is worth its higher price over a glass model.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a moccamaster coffee makers weeks after buying, since glass vs thermal carafe plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of glass vs thermal carafe, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the moccamaster coffee makers for a while." },
+  { criterion: "No built-in timer on base models", explanation: "None of the models here have a programmable auto-start timer, unlike many mainstream drip machines under $150. If waking up to a pot already brewed is important to you, Moccamaster is not the right fit without buying a separate smart plug workaround.\n\nBuyers who skip past no built-in timer on base models tend to be the ones leaving disappointed reviews later, not because the moccamaster coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each moccamaster coffee makers in this roundup actually handles no built-in timer on base models rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Long-term value via warranty and parts", explanation: "Moccamaster backs its home brewers with a 5-year warranty, longer than most drip machines in this price range, and the company is known for supplying replacement parts rather than requiring a full machine replacement. Factor this into cost per year of ownership, not just the upfront price.\n\nLong-term value via warranty and parts is easy to overlook next to flashier specs, but it's frequently the difference between a moccamaster coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on long-term value via warranty and parts directly from the current listing before ordering, since this is one of the more common places where two similarly priced moccamaster coffee makers options genuinely diverge." },
+  { criterion: "Half-batch brewing accuracy", explanation: "The half-batch switch on KBGV models changes the brew cycle to suit a smaller water volume rather than just diluting a full-strength brew. If you often make less than a full pot, confirm the model you are buying actually includes this switch.\n\nGetting this wrong is one of the more common reasons a moccamaster coffee makers purchase disappoints once it actually arrives, since half-batch brewing accuracy affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on half-batch brewing accuracy rather than assuming every moccamaster coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Finish and fingerprint visibility", explanation: "Polished silver shows fingerprints more readily than a brushed or matte finish. If the machine sits in a high-traffic kitchen, a brushed finish will generally look cleaner between wipe-downs.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a moccamaster coffee makers weeks after buying, since finish and fingerprint visibility plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of finish and fingerprint visibility, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the moccamaster coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Brew temperature vs the SCA-referenced benchmark",
-    explanation:
-      "The Specialty Coffee Association generally references roughly 195 to 205 degrees Fahrenheit contact temperature as the benchmark for balanced extraction. This is industry guidance to check a given machine against, not something we measured directly, so treat certified machines like the Moccamaster differently from ones with no stated temperature target.",
-  },
-  {
-    criterion: "Small-batch vs full-batch performance",
-    explanation:
-      "Many drip machines are tuned for a full pot and taste noticeably weaker on a 2 to 4 cup brew unless they have a dedicated small-batch setting. If you usually brew less than half a pot, check specifically for that feature rather than assuming any 12-cup machine handles it well.",
-  },
-  {
-    criterion: "Carafe, reservoir, and basket cleaning",
-    explanation:
-      "A removable, dishwasher-safe filter basket and a wide-mouth reservoir make weekly cleaning meaningfully faster than a narrow reservoir or a basket with hard-to-reach corners. This adds up over months of daily use even if it seems minor at purchase.",
-  },
-  {
-    criterion: "Carafe heat retention over the hold period",
-    explanation:
-      "A glass carafe on a warming plate typically starts tasting noticeably degraded after 30 to 45 minutes as the plate slowly cooks the coffee rather than gently warming it. If you regularly drink coffee over a longer window, a thermal carafe or a machine like the always-hot Bunn avoids this issue better.",
-  },
-  {
-    criterion: "Warranty and repairability",
-    explanation:
-      "Warranty length is a reasonable proxy for how long a manufacturer expects the machine to last, ranging from about 1 year on budget models to 5 years on the Moccamaster in this comparison. Factor total ownership value, not just the upfront price, into which model is actually cheaper over several years.",
-  },
+  { criterion: "Brew temperature vs the SCA-referenced benchmark", explanation: "The Specialty Coffee Association generally references roughly 195 to 205 degrees Fahrenheit contact temperature as the benchmark for balanced extraction. This is industry guidance to check a given machine against, not something we measured directly, so treat certified machines like the Moccamaster differently from ones with no stated temperature target.\n\nGetting this wrong is one of the more common reasons a coffee makers drip purchase disappoints once it actually arrives, since brew temperature vs the sca-referenced benchmark affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on brew temperature vs the sca-referenced benchmark rather than assuming every coffee makers drip in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Small-batch vs full-batch performance", explanation: "Many drip machines are tuned for a full pot and taste noticeably weaker on a 2 to 4 cup brew unless they have a dedicated small-batch setting. If you usually brew less than half a pot, check specifically for that feature rather than assuming any 12-cup machine handles it well.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers drip weeks after buying, since small-batch vs full-batch performance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of small-batch vs full-batch performance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers drip for a while." },
+  { criterion: "Carafe, reservoir, and basket cleaning", explanation: "A removable, dishwasher-safe filter basket and a wide-mouth reservoir make weekly cleaning meaningfully faster than a narrow reservoir or a basket with hard-to-reach corners. This adds up over months of daily use even if it seems minor at purchase.\n\nBuyers who skip past carafe, reservoir, and basket cleaning tend to be the ones leaving disappointed reviews later, not because the coffee makers drip was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers drip in this roundup actually handles carafe, reservoir, and basket cleaning rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Carafe heat retention over the hold period", explanation: "A glass carafe on a warming plate typically starts tasting noticeably degraded after 30 to 45 minutes as the plate slowly cooks the coffee rather than gently warming it. If you regularly drink coffee over a longer window, a thermal carafe or a machine like the always-hot Bunn avoids this issue better.\n\nCarafe heat retention over the hold period is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers drip that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on carafe heat retention over the hold period directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers drip options genuinely diverge." },
+  { criterion: "Warranty and repairability", explanation: "Warranty length is a reasonable proxy for how long a manufacturer expects the machine to last, ranging from about 1 year on budget models to 5 years on the Moccamaster in this comparison. Factor total ownership value, not just the upfront price, into which model is actually cheaper over several years.\n\nGetting this wrong is one of the more common reasons a coffee makers drip purchase disappoints once it actually arrives, since warranty and repairability affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on warranty and repairability rather than assuming every coffee makers drip in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

@@ -236,36 +236,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Carpet-boost suction response and battery tradeoff",
-    explanation:
-      "Most current robot vacuums automatically increase suction power when they sense carpet underneath, but that boost draws more battery, which shortens runtime on larger carpeted floor plans. A higher rated Pa ceiling matters less than how quickly and reliably the unit actually triggers the boost when it crosses from hard floor onto carpet.",
-  },
-  {
-    criterion: "Brush design and stall resistance on carpet",
-    explanation:
-      "Carpet fibers put more resistance on a spinning brush than hard floor does, and cheaper brush designs can bog down or stall under thicker pile, especially once hair or fiber starts winding around the brush core. Look for anti-tangle brush designs in current owner feedback if your carpet is on the thicker end of low-to-medium pile.",
-  },
-  {
-    criterion: "Wheel mobility across pile transitions",
-    explanation:
-      "The transition from hard floor to carpet, or between a low-pile rug edge and the surrounding carpet, is where wheels can get hung up or lose traction. Models with taller wheel clearance and stronger climb-over ability handle these transitions more smoothly than low-clearance designs.",
-  },
-  {
-    criterion: "Mop lifting or avoidance on carpet-combo units",
-    explanation:
-      "On combo vacuum-and-mop units, the mop pad needs to lift clear of carpet automatically, or the unit needs to detect carpet and skip mopping it entirely. A mop that drags wet across carpet can leave damp patches that take a long time to dry and may encourage odor over repeated passes.",
-  },
-  {
-    criterion: "Embedded debris vs surface debris pickup",
-    explanation:
-      "Carpet traps dust, pet dander, and fine debris down at the base of the fibers, not just on top, which is a different cleaning job than sweeping a hard floor. Suction rating and brush agitation both factor into how much of that embedded debris actually gets pulled out versus just disturbed and left behind.",
-  },
-  {
-    criterion: "Navigation consistency across mixed flooring",
-    explanation:
-      "A robot that loses track of its map or restarts coverage patterns every time it crosses onto carpet will leave gaps over multiple cleaning cycles. Consistent mapping across surface changes matters more in homes with a mix of hard floor and carpeted rooms than in an all-carpet space.",
-  },
+  { criterion: "Carpet-boost suction response and battery tradeoff", explanation: "Most current robot vacuums automatically increase suction power when they sense carpet underneath, but that boost draws more battery, which shortens runtime on larger carpeted floor plans. A higher rated Pa ceiling matters less than how quickly and reliably the unit actually triggers the boost when it crosses from hard floor onto carpet.\n\nGetting this wrong is one of the more common reasons a for carpets purchase disappoints once it actually arrives, since carpet-boost suction response and battery tradeoff affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on carpet-boost suction response and battery tradeoff rather than assuming every for carpets in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Brush design and stall resistance on carpet", explanation: "Carpet fibers put more resistance on a spinning brush than hard floor does, and cheaper brush designs can bog down or stall under thicker pile, especially once hair or fiber starts winding around the brush core. Look for anti-tangle brush designs in current owner feedback if your carpet is on the thicker end of low-to-medium pile.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for carpets weeks after buying, since brush design and stall resistance on carpet plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of brush design and stall resistance on carpet, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for carpets for a while." },
+  { criterion: "Wheel mobility across pile transitions", explanation: "The transition from hard floor to carpet, or between a low-pile rug edge and the surrounding carpet, is where wheels can get hung up or lose traction. Models with taller wheel clearance and stronger climb-over ability handle these transitions more smoothly than low-clearance designs.\n\nBuyers who skip past wheel mobility across pile transitions tend to be the ones leaving disappointed reviews later, not because the for carpets was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each for carpets in this roundup actually handles wheel mobility across pile transitions rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Mop lifting or avoidance on carpet-combo units", explanation: "On combo vacuum-and-mop units, the mop pad needs to lift clear of carpet automatically, or the unit needs to detect carpet and skip mopping it entirely. A mop that drags wet across carpet can leave damp patches that take a long time to dry and may encourage odor over repeated passes.\n\nMop lifting or avoidance on carpet-combo units is easy to overlook next to flashier specs, but it's frequently the difference between a for carpets that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on mop lifting or avoidance on carpet-combo units directly from the current listing before ordering, since this is one of the more common places where two similarly priced for carpets options genuinely diverge." },
+  { criterion: "Embedded debris vs surface debris pickup", explanation: "Carpet traps dust, pet dander, and fine debris down at the base of the fibers, not just on top, which is a different cleaning job than sweeping a hard floor. Suction rating and brush agitation both factor into how much of that embedded debris actually gets pulled out versus just disturbed and left behind.\n\nGetting this wrong is one of the more common reasons a for carpets purchase disappoints once it actually arrives, since embedded debris vs surface debris pickup affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on embedded debris vs surface debris pickup rather than assuming every for carpets in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Navigation consistency across mixed flooring", explanation: "A robot that loses track of its map or restarts coverage patterns every time it crosses onto carpet will leave gaps over multiple cleaning cycles. Consistent mapping across surface changes matters more in homes with a mix of hard floor and carpeted rooms than in an all-carpet space.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for carpets weeks after buying, since navigation consistency across mixed flooring plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of navigation consistency across mixed flooring, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for carpets for a while." },
 ];
 
 export const howWeEvaluated = [

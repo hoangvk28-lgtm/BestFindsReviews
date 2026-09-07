@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Real step count from empty to finished coffee",
-    explanation:
-      "Count the actual actions: fill water, add grounds or a pod, close any lid, and start the brew. The simplest models here need four steps with no decisions between them, while models with strength, size, or temperature settings add choices to every single brew.",
-  },
-  {
-    criterion: "Button and label clarity",
-    explanation:
-      "A single labeled on/off switch, as on the Elite Gourmet EHC-5055 and Mr. Coffee 12-Cup, is easier to use correctly on the first try than a multi-function button that changes meaning depending on how long you hold it.",
-  },
-  {
-    criterion: "Daily brewing ease vs programming ease",
-    explanation:
-      "A machine can be simple every morning but have a genuinely confusing setup process, as with the Bunn Classic's required initial tank fill cycles. Judge these as two separate questions, not one.",
-  },
-  {
-    criterion: "Hidden menus and maintenance alerts",
-    explanation:
-      "Some machines bury descale reminders or clock settings behind multi-button combinations that are not obvious without the manual. A model with no clock or menu at all, like the K-Mini or EHC-5055, avoids this entirely by not having those features to begin with.",
-  },
-  {
-    criterion: "Error recovery",
-    explanation:
-      "Check whether a mis-added filter, an overfilled reservoir, or a paused mid-brew pour requires restarting the whole cycle or can be corrected in place. Auto-pause features, present on the Mr. Coffee 12-Cup, let you recover from a mid-brew interruption without extra steps.",
-  },
+  { criterion: "Real step count from empty to finished coffee", explanation: "Count the actual actions: fill water, add grounds or a pod, close any lid, and start the brew. The simplest models here need four steps with no decisions between them, while models with strength, size, or temperature settings add choices to every single brew.\n\nGetting this wrong is one of the more common reasons a easy coffee makers purchase disappoints once it actually arrives, since real step count from empty to finished coffee affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on real step count from empty to finished coffee rather than assuming every easy coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Button and label clarity", explanation: "A single labeled on/off switch, as on the Elite Gourmet EHC-5055 and Mr. Coffee 12-Cup, is easier to use correctly on the first try than a multi-function button that changes meaning depending on how long you hold it.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a easy coffee makers weeks after buying, since button and label clarity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of button and label clarity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the easy coffee makers for a while." },
+  { criterion: "Daily brewing ease vs programming ease", explanation: "A machine can be simple every morning but have a genuinely confusing setup process, as with the Bunn Classic's required initial tank fill cycles. Judge these as two separate questions, not one.\n\nBuyers who skip past daily brewing ease vs programming ease tend to be the ones leaving disappointed reviews later, not because the easy coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each easy coffee makers in this roundup actually handles daily brewing ease vs programming ease rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Hidden menus and maintenance alerts", explanation: "Some machines bury descale reminders or clock settings behind multi-button combinations that are not obvious without the manual. A model with no clock or menu at all, like the K-Mini or EHC-5055, avoids this entirely by not having those features to begin with.\n\nHidden menus and maintenance alerts is easy to overlook next to flashier specs, but it's frequently the difference between a easy coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on hidden menus and maintenance alerts directly from the current listing before ordering, since this is one of the more common places where two similarly priced easy coffee makers options genuinely diverge." },
+  { criterion: "Error recovery", explanation: "Check whether a mis-added filter, an overfilled reservoir, or a paused mid-brew pour requires restarting the whole cycle or can be corrected in place. Auto-pause features, present on the Mr. Coffee 12-Cup, let you recover from a mid-brew interruption without extra steps.\n\nGetting this wrong is one of the more common reasons a easy coffee makers purchase disappoints once it actually arrives, since error recovery affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on error recovery rather than assuming every easy coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

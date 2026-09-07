@@ -204,31 +204,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "What a premium dock actually adds",
-    explanation:
-      "Above the sub-$500 tier, docks start adding features like hot-water mop pad washing and longer self-empty intervals measured in weeks rather than days. These features reduce hands-on maintenance meaningfully, but confirm which specific dock features a model includes rather than assuming every self-empty base works the same way.",
-  },
-  {
-    criterion: "Diminishing returns above a certain suction figure",
-    explanation:
-      "Suction figures climb quickly across this price range, from around 5,000Pa on the most affordable combo here to 25,000Pa on the top pick, but real-world cleaning gains tend to flatten out well before the highest number. For most carpet and hard floor combinations, a mid-range suction figure paired with good brush design will outperform a high suction figure with poor navigation.",
-  },
-  {
-    criterion: "Navigation and obstacle avoidance quality at this tier",
-    explanation:
-      "Models in the $200 to $600 range increasingly include camera or laser-based mapping meant to avoid cords, pet waste, and furniture legs rather than just bump into them and reroute. Read recent owner reviews specifically about obstacle avoidance, since marketing descriptions of mapping technology do not always match how consistently a unit performs in a cluttered real home.",
-  },
-  {
-    criterion: "Real ownership cost including detergent and filters",
-    explanation:
-      "A mopping robot with an auto-wash dock needs ongoing mop detergent, and any HEPA self-empty base needs periodic filter and dust bag replacement. Factor these recurring costs into your budget, since they can add a noticeable amount per year on top of the upfront price, especially on higher-suction models that clean more aggressively.",
-  },
-  {
-    criterion: "Whether a sale-only price under $1000 is a red flag",
-    explanation:
-      "Some models only dip under $1000 during limited-time sales and can list well above that outside of promotional periods. That is not necessarily a problem, but it does mean the price you see at checkout should be verified against the price used when this guide was researched, since a model can move out of this budget tier entirely between sales.",
-  },
+  { criterion: "What a premium dock actually adds", explanation: "Above the sub-$500 tier, docks start adding features like hot-water mop pad washing and longer self-empty intervals measured in weeks rather than days. These features reduce hands-on maintenance meaningfully, but confirm which specific dock features a model includes rather than assuming every self-empty base works the same way.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since what a premium dock actually adds affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what a premium dock actually adds rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Diminishing returns above a certain suction figure", explanation: "Suction figures climb quickly across this price range, from around 5,000Pa on the most affordable combo here to 25,000Pa on the top pick, but real-world cleaning gains tend to flatten out well before the highest number. For most carpet and hard floor combinations, a mid-range suction figure paired with good brush design will outperform a high suction figure with poor navigation.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since diminishing returns above a certain suction figure plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of diminishing returns above a certain suction figure, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
+  { criterion: "Navigation and obstacle avoidance quality at this tier", explanation: "Models in the $200 to $600 range increasingly include camera or laser-based mapping meant to avoid cords, pet waste, and furniture legs rather than just bump into them and reroute. Read recent owner reviews specifically about obstacle avoidance, since marketing descriptions of mapping technology do not always match how consistently a unit performs in a cluttered real home.\n\nBuyers who skip past navigation and obstacle avoidance quality at this tier tend to be the ones leaving disappointed reviews later, not because the robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot vacuums in this roundup actually handles navigation and obstacle avoidance quality at this tier rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Real ownership cost including detergent and filters", explanation: "A mopping robot with an auto-wash dock needs ongoing mop detergent, and any HEPA self-empty base needs periodic filter and dust bag replacement. Factor these recurring costs into your budget, since they can add a noticeable amount per year on top of the upfront price, especially on higher-suction models that clean more aggressively.\n\nReal ownership cost including detergent and filters is easy to overlook next to flashier specs, but it's frequently the difference between a robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on real ownership cost including detergent and filters directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot vacuums options genuinely diverge." },
+  { criterion: "Whether a sale-only price under $1000 is a red flag", explanation: "Some models only dip under $1000 during limited-time sales and can list well above that outside of promotional periods. That is not necessarily a problem, but it does mean the price you see at checkout should be verified against the price used when this guide was researched, since a model can move out of this budget tier entirely between sales.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since whether a sale-only price under $1000 is a red flag affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on whether a sale-only price under $1000 is a red flag rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

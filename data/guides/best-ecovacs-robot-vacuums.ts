@@ -229,36 +229,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "ZeroTangle brush generation",
-    explanation:
-      "Newer models like the T30C use ZeroTangle 2.0, an updated version of the hair-tangle-resistant brush found on older models like the N20. If pet hair or long hair tangling around the brush roll has been a problem with a previous robot vacuum, prioritize a model with the newer brush generation.",
-  },
-  {
-    criterion: "Auto-empty-only dock vs hot-water Omni dock",
-    explanation:
-      "Some models only empty the dustbin automatically, while Omni-tier docks also wash the mop pad with hot water and dry it to prevent mildew smell. That difference changes weekly maintenance significantly since a wash-and-dry dock needs its own water tanks refilled and drained periodically, unlike a simple auto-empty base.",
-  },
-  {
-    criterion: "TruEdge edge-cleaning claims",
-    explanation:
-      "TruEdge adaptive mopping extends an arm toward baseboards to scrub edges that a fixed round mop pad cannot reach flush against a wall. This matters most in kitchens and bathrooms with grout lines or baseboard buildup, less so in open rooms without much furniture-adjacent flooring.",
-  },
-  {
-    criterion: "AIVI and 3D obstacle avoidance vs mapping accuracy",
-    explanation:
-      "Camera-based obstacle avoidance on newer models is generally better at reacting to small objects like cords or shoes in real time, while laser mapping on older models like the T8 is accurate for room layout but slower to react to unexpected items on the floor. Homes with kids or pets that leave objects on the floor benefit more from camera-based avoidance.",
-  },
-  {
-    criterion: "App map editing and account requirements",
-    explanation:
-      "Every current DEEBOT model requires the Ecovacs app and an account to edit room maps, set no-go zones, or schedule cleaning by room. If you are not comfortable managing a connected-home app account, factor that into the purchase regardless of which model you choose.",
-  },
-  {
-    criterion: "Suction figures vs real floor type",
-    explanation:
-      "Listed suction in Pascals varies widely across this lineup, from 8000Pa on the N20 up to 30000Pa on the T90 PRO Omni, but suction matters most on carpet and for embedded pet hair. On bare floors, even the lower-suction models in this comparison generally perform adequately.",
-  },
+  { criterion: "ZeroTangle brush generation", explanation: "Newer models like the T30C use ZeroTangle 2.0, an updated version of the hair-tangle-resistant brush found on older models like the N20. If pet hair or long hair tangling around the brush roll has been a problem with a previous robot vacuum, prioritize a model with the newer brush generation.\n\nGetting this wrong is one of the more common reasons a ecovacs robot vacuums purchase disappoints once it actually arrives, since zerotangle brush generation affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on zerotangle brush generation rather than assuming every ecovacs robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Auto-empty-only dock vs hot-water Omni dock", explanation: "Some models only empty the dustbin automatically, while Omni-tier docks also wash the mop pad with hot water and dry it to prevent mildew smell. That difference changes weekly maintenance significantly since a wash-and-dry dock needs its own water tanks refilled and drained periodically, unlike a simple auto-empty base.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a ecovacs robot vacuums weeks after buying, since auto-empty-only dock vs hot-water omni dock plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of auto-empty-only dock vs hot-water omni dock, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the ecovacs robot vacuums for a while." },
+  { criterion: "TruEdge edge-cleaning claims", explanation: "TruEdge adaptive mopping extends an arm toward baseboards to scrub edges that a fixed round mop pad cannot reach flush against a wall. This matters most in kitchens and bathrooms with grout lines or baseboard buildup, less so in open rooms without much furniture-adjacent flooring.\n\nBuyers who skip past truedge edge-cleaning claims tend to be the ones leaving disappointed reviews later, not because the ecovacs robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each ecovacs robot vacuums in this roundup actually handles truedge edge-cleaning claims rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "AIVI and 3D obstacle avoidance vs mapping accuracy", explanation: "Camera-based obstacle avoidance on newer models is generally better at reacting to small objects like cords or shoes in real time, while laser mapping on older models like the T8 is accurate for room layout but slower to react to unexpected items on the floor. Homes with kids or pets that leave objects on the floor benefit more from camera-based avoidance.\n\nAivi and 3d obstacle avoidance vs mapping accuracy is easy to overlook next to flashier specs, but it's frequently the difference between a ecovacs robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on aivi and 3d obstacle avoidance vs mapping accuracy directly from the current listing before ordering, since this is one of the more common places where two similarly priced ecovacs robot vacuums options genuinely diverge." },
+  { criterion: "App map editing and account requirements", explanation: "Every current DEEBOT model requires the Ecovacs app and an account to edit room maps, set no-go zones, or schedule cleaning by room. If you are not comfortable managing a connected-home app account, factor that into the purchase regardless of which model you choose.\n\nGetting this wrong is one of the more common reasons a ecovacs robot vacuums purchase disappoints once it actually arrives, since app map editing and account requirements affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on app map editing and account requirements rather than assuming every ecovacs robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction figures vs real floor type", explanation: "Listed suction in Pascals varies widely across this lineup, from 8000Pa on the N20 up to 30000Pa on the T90 PRO Omni, but suction matters most on carpet and for embedded pet hair. On bare floors, even the lower-suction models in this comparison generally perform adequately.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a ecovacs robot vacuums weeks after buying, since suction figures vs real floor type plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction figures vs real floor type, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the ecovacs robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

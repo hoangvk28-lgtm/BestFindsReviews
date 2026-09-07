@@ -232,36 +232,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "What suction tier actually gets you at this price",
-    explanation:
-      "Under $500, suction generally ranges from around 5,000Pa on budget combo units up to 10,000Pa or more on models like the Q10 S5+. That range is enough for daily debris and moderate pet hair on most floor types, but it is not the 18,000Pa-plus territory of flagship models above this budget.",
-  },
-  {
-    criterion: "Whether the dock is bundled or sold separately",
-    explanation:
-      "Some models in this tier include a self-empty or auto-charging dock in the base price, like the Shark AV2501S, while cheaper vacuum-only units may only include a basic charging dock. Confirm what dock type is actually included before comparing sticker prices across models.",
-  },
-  {
-    criterion: "Minimum acceptable navigation at this tier",
-    explanation:
-      "At $500 and under, LiDAR or vSLAM camera-based mapping is realistic and worth prioritizing over simple bump-and-turn navigation, since it enables room selection and no-go zones. Vacuum-only budget picks in this range often still use basic sensor navigation, which is a fair tradeoff only if the lower price matters more than mapping precision.",
-  },
-  {
-    criterion: "Minimum acceptable runtime at this tier",
-    explanation:
-      "Look for at least roughly 120 minutes of runtime per charge for a mid-size home, with auto-resume after recharging for larger spaces. Models with shorter runtimes and no resume function will need more manual intervention on bigger cleaning runs.",
-  },
-  {
-    criterion: "Realistic first-year consumable costs",
-    explanation:
-      "Expect to budget for replacement mop pads, side brushes, and filters, typically in the range of $30 to $60 per year depending on the model and how often it is used. Self-empty models also need replacement dust bags periodically, which adds a modest recurring cost.",
-  },
-  {
-    criterion: "What you gain by stepping up past $500",
-    explanation:
-      "Above this tier, the main upgrades are auto-mop-pad-washing and drying docks, higher suction ceilings, and more refined obstacle avoidance using onboard cameras or AI object recognition. If none of those specifically matter to you, a well-chosen model under $500 covers the core cleaning job just as reliably.",
-  },
+  { criterion: "What suction tier actually gets you at this price", explanation: "Under $500, suction generally ranges from around 5,000Pa on budget combo units up to 10,000Pa or more on models like the Q10 S5+. That range is enough for daily debris and moderate pet hair on most floor types, but it is not the 18,000Pa-plus territory of flagship models above this budget.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since what suction tier actually gets you at this price affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what suction tier actually gets you at this price rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether the dock is bundled or sold separately", explanation: "Some models in this tier include a self-empty or auto-charging dock in the base price, like the Shark AV2501S, while cheaper vacuum-only units may only include a basic charging dock. Confirm what dock type is actually included before comparing sticker prices across models.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since whether the dock is bundled or sold separately plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether the dock is bundled or sold separately, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
+  { criterion: "Minimum acceptable navigation at this tier", explanation: "At $500 and under, LiDAR or vSLAM camera-based mapping is realistic and worth prioritizing over simple bump-and-turn navigation, since it enables room selection and no-go zones. Vacuum-only budget picks in this range often still use basic sensor navigation, which is a fair tradeoff only if the lower price matters more than mapping precision.\n\nBuyers who skip past minimum acceptable navigation at this tier tend to be the ones leaving disappointed reviews later, not because the robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot vacuums in this roundup actually handles minimum acceptable navigation at this tier rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Minimum acceptable runtime at this tier", explanation: "Look for at least roughly 120 minutes of runtime per charge for a mid-size home, with auto-resume after recharging for larger spaces. Models with shorter runtimes and no resume function will need more manual intervention on bigger cleaning runs.\n\nMinimum acceptable runtime at this tier is easy to overlook next to flashier specs, but it's frequently the difference between a robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on minimum acceptable runtime at this tier directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot vacuums options genuinely diverge." },
+  { criterion: "Realistic first-year consumable costs", explanation: "Expect to budget for replacement mop pads, side brushes, and filters, typically in the range of $30 to $60 per year depending on the model and how often it is used. Self-empty models also need replacement dust bags periodically, which adds a modest recurring cost.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since realistic first-year consumable costs affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on realistic first-year consumable costs rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "What you gain by stepping up past $500", explanation: "Above this tier, the main upgrades are auto-mop-pad-washing and drying docks, higher suction ceilings, and more refined obstacle avoidance using onboard cameras or AI object recognition. If none of those specifically matter to you, a well-chosen model under $500 covers the core cleaning job just as reliably.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since what you gain by stepping up past $500 plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of what you gain by stepping up past $500, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

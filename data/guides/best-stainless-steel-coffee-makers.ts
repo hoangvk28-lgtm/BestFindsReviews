@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Solid steel vs plastic with a steel-toned finish",
-    explanation:
-      "Check the listing for a specific steel grade like 304 or 18/8 stainless on the parts that matter most, the carafe and any water-contact chamber. A generic Black/Steel color name does not confirm the housing itself is metal.",
-  },
-  {
-    criterion: "Which parts are actually steel",
-    explanation:
-      "A carafe can be genuine stainless steel while the base, buttons, and handle are heat-resistant plastic by design. That mix is normal and often safer than all-steel, since plastic handles stay cooler to hold.",
-  },
-  {
-    criterion: "Exterior heat near handles and spouts",
-    explanation:
-      "Steel conducts heat more readily than plastic, so a genuinely steel exterior can get noticeably warm near the base or spout during and after brewing, even when the designated handle stays cool. Keep this in mind around kids or a tight counter.",
-  },
-  {
-    criterion: "Dishwasher-safe claims vs glass or plastic alternatives",
-    explanation:
-      "Steel carafes and filters are commonly dishwasher safe and more dent- and stain-resistant than glass or plastic over years of daily use, though electric bases with steel housings should never go in the dishwasher.",
-  },
-  {
-    criterion: "Durability against dents and discoloration",
-    explanation:
-      "Genuine steel resists the yellowing and cracking that plastic exteriors can develop after prolonged heat exposure, which is one of the real, lasting advantages of confirmed steel construction over steel-look plastic.",
-  },
+  { criterion: "Solid steel vs plastic with a steel-toned finish", explanation: "Check the listing for a specific steel grade like 304 or 18/8 stainless on the parts that matter most, the carafe and any water-contact chamber. A generic Black/Steel color name does not confirm the housing itself is metal.\n\nGetting this wrong is one of the more common reasons a stainless steel purchase disappoints once it actually arrives, since solid steel vs plastic with a steel-toned finish affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on solid steel vs plastic with a steel-toned finish rather than assuming every stainless steel in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Which parts are actually steel", explanation: "A carafe can be genuine stainless steel while the base, buttons, and handle are heat-resistant plastic by design. That mix is normal and often safer than all-steel, since plastic handles stay cooler to hold.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a stainless steel weeks after buying, since which parts are actually steel plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of which parts are actually steel, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the stainless steel for a while." },
+  { criterion: "Exterior heat near handles and spouts", explanation: "Steel conducts heat more readily than plastic, so a genuinely steel exterior can get noticeably warm near the base or spout during and after brewing, even when the designated handle stays cool. Keep this in mind around kids or a tight counter.\n\nBuyers who skip past exterior heat near handles and spouts tend to be the ones leaving disappointed reviews later, not because the stainless steel was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each stainless steel in this roundup actually handles exterior heat near handles and spouts rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Dishwasher-safe claims vs glass or plastic alternatives", explanation: "Steel carafes and filters are commonly dishwasher safe and more dent- and stain-resistant than glass or plastic over years of daily use, though electric bases with steel housings should never go in the dishwasher.\n\nDishwasher-safe claims vs glass or plastic alternatives is easy to overlook next to flashier specs, but it's frequently the difference between a stainless steel that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on dishwasher-safe claims vs glass or plastic alternatives directly from the current listing before ordering, since this is one of the more common places where two similarly priced stainless steel options genuinely diverge." },
+  { criterion: "Durability against dents and discoloration", explanation: "Genuine steel resists the yellowing and cracking that plastic exteriors can develop after prolonged heat exposure, which is one of the real, lasting advantages of confirmed steel construction over steel-look plastic.\n\nGetting this wrong is one of the more common reasons a stainless steel purchase disappoints once it actually arrives, since durability against dents and discoloration affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on durability against dents and discoloration rather than assuming every stainless steel in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

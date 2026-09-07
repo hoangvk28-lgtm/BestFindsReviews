@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "What's typically included at this tier vs cheaper models",
-    explanation:
-      "Below $200, vacuum-only models with basic navigation are common, as seen with the ILIFE V2 here. Between $200 and $400, combined vacuum-and-mop functionality becomes standard, and self-empty bases start appearing on a meaningful share of models rather than being rare.",
-  },
-  {
-    criterion: "Self-empty dock prevalence at this price point",
-    explanation:
-      "Three of the eight models in this comparison include a self-empty base, up from being nearly absent under $200. Full wash-and-empty omni stations, like the DEEBOT T50 PRO Omni here, are still the exception rather than the rule at this tier and tend to sit near the top of the price range.",
-  },
-  {
-    criterion: "Suction tier expectations",
-    explanation:
-      "Rated suction in this comparison ranges from roughly 5,200Pa to 10,000Pa. Models in the 8,000 to 10,000Pa range generally handle carpet and pet hair with fewer passes, while models under 6,000Pa are usually adequate for hard floors and light carpet but may need repeat passes on thicker rugs.",
-  },
-  {
-    criterion: "Realistic first-year consumable costs",
-    explanation:
-      "Beyond the machine price, expect replacement mop pads, side brushes, and filters, along with dust bags for self-empty models. A reasonable estimate for typical use is $40 to $80 per year in consumables, more if the model uses proprietary parts rather than universal-fit accessories.",
-  },
-  {
-    criterion: "Tradeoffs vs the next tier up",
-    explanation:
-      "Models above $400 typically add multi-floor map storage, obstacle avoidance cameras, and more consistent app reliability across firmware updates. Buyers who need precise no-go zones around cables or pet bowls may find the mapping in this under-$400 tier serviceable but less refined.",
-  },
-  {
-    criterion: "Rating and review volume as a reliability signal",
-    explanation:
-      "Established models with a longer market history, like the eufy 11S MAX or Shark AV2501S in this comparison, tend to carry a deeper base of owner feedback than newer entrants. That does not make a newer model worse, but it does mean less accumulated data on long-term reliability.",
-  },
+  { criterion: "What's typically included at this tier vs cheaper models", explanation: "Below $200, vacuum-only models with basic navigation are common, as seen with the ILIFE V2 here. Between $200 and $400, combined vacuum-and-mop functionality becomes standard, and self-empty bases start appearing on a meaningful share of models rather than being rare.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since what's typically included at this tier vs cheaper models affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what's typically included at this tier vs cheaper models rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty dock prevalence at this price point", explanation: "Three of the eight models in this comparison include a self-empty base, up from being nearly absent under $200. Full wash-and-empty omni stations, like the DEEBOT T50 PRO Omni here, are still the exception rather than the rule at this tier and tend to sit near the top of the price range.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since self-empty dock prevalence at this price point plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty dock prevalence at this price point, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
+  { criterion: "Suction tier expectations", explanation: "Rated suction in this comparison ranges from roughly 5,200Pa to 10,000Pa. Models in the 8,000 to 10,000Pa range generally handle carpet and pet hair with fewer passes, while models under 6,000Pa are usually adequate for hard floors and light carpet but may need repeat passes on thicker rugs.\n\nBuyers who skip past suction tier expectations tend to be the ones leaving disappointed reviews later, not because the robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot vacuums in this roundup actually handles suction tier expectations rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Realistic first-year consumable costs", explanation: "Beyond the machine price, expect replacement mop pads, side brushes, and filters, along with dust bags for self-empty models. A reasonable estimate for typical use is $40 to $80 per year in consumables, more if the model uses proprietary parts rather than universal-fit accessories.\n\nRealistic first-year consumable costs is easy to overlook next to flashier specs, but it's frequently the difference between a robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on realistic first-year consumable costs directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot vacuums options genuinely diverge." },
+  { criterion: "Tradeoffs vs the next tier up", explanation: "Models above $400 typically add multi-floor map storage, obstacle avoidance cameras, and more consistent app reliability across firmware updates. Buyers who need precise no-go zones around cables or pet bowls may find the mapping in this under-$400 tier serviceable but less refined.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since tradeoffs vs the next tier up affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on tradeoffs vs the next tier up rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Rating and review volume as a reliability signal", explanation: "Established models with a longer market history, like the eufy 11S MAX or Shark AV2501S in this comparison, tend to carry a deeper base of owner feedback than newer entrants. That does not make a newer model worse, but it does mean less accumulated data on long-term reliability.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since rating and review volume as a reliability signal plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of rating and review volume as a reliability signal, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

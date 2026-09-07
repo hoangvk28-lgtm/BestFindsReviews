@@ -148,41 +148,13 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Accuracy is not preset count",
-    explanation:
-      "A kettle can offer six buttons and still overshoot each target. Treat preset labels as control options, not proof of accuracy, unless the maker publishes a tolerance or an independent test checks the same water volume at shutoff and again after 30, 60, and 120 seconds.",
-  },
-  {
-    criterion: "Preset spacing vs fine adjustment",
-    explanation:
-      "Preset-only models are simpler when you repeatedly make the same drinks. Choose a dial model such as the OXO or Fellow when you need temperatures between common presets, but do not pay extra for fine adjustment unless your brewing routine uses it.",
-  },
-  {
-    criterion: "Hold duration and stability",
-    explanation:
-      "Published hold times range from 20 to 60 minutes in this group, but duration alone does not show stability or energy use. A longer hold is useful for repeat cups; otherwise, reheating only the water you need may be simpler and use less energy.",
-  },
-  {
-    criterion: "Lift-off and power memory",
-    explanation:
-      "Check whether lifting the kettle, allowing it to time out, or briefly losing power erases the selected temperature. Cuisinart explicitly confirms a two-minute lift-off memory; no equivalent persistence claim was verified for every other model here.",
-  },
-  {
-    criterion: "Spout matched to the task",
-    explanation:
-      "A gooseneck gives slower, controlled flow for pour-over coffee but is inconvenient when you need to fill a teapot or pan quickly. Choose Fellow or Cosori for controlled coffee pours and a standard spout for broader kitchen use.",
-  },
-  {
-    criterion: "Filled weight and grip",
-    explanation:
-      "One liter of water weighs about 2.2 pounds before adding the kettle itself. A 1.7 to 1.8L glass kettle is useful for groups but can be demanding to lift, so buyers with limited grip strength should prioritize a comfortable handle and fill only what they need.",
-  },
-  {
-    criterion: "Cleaning and parts support",
-    explanation:
-      "Hard-water scale affects heating and can interfere with the temperature sensor. Favor a wide lid, visible interior, removable filter, and available replacement parts; Cuisinart is the clearest option here for an officially listed replacement filter and base.",
-  },
+  { criterion: "Accuracy is not preset count", explanation: "A kettle can offer six buttons and still overshoot each target. Treat preset labels as control options, not proof of accuracy, unless the maker publishes a tolerance or an independent test checks the same water volume at shutoff and again after 30, 60, and 120 seconds.\n\nGetting this wrong is one of the more common reasons a electric kettle purchase disappoints once it actually arrives, since accuracy is not preset count affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on accuracy is not preset count rather than assuming every electric kettle in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Preset spacing vs fine adjustment", explanation: "Preset-only models are simpler when you repeatedly make the same drinks. Choose a dial model such as the OXO or Fellow when you need temperatures between common presets, but do not pay extra for fine adjustment unless your brewing routine uses it.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a electric kettle weeks after buying, since preset spacing vs fine adjustment plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of preset spacing vs fine adjustment, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the electric kettle for a while." },
+  { criterion: "Hold duration and stability", explanation: "Published hold times range from 20 to 60 minutes in this group, but duration alone does not show stability or energy use. A longer hold is useful for repeat cups; otherwise, reheating only the water you need may be simpler and use less energy.\n\nBuyers who skip past hold duration and stability tend to be the ones leaving disappointed reviews later, not because the electric kettle was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each electric kettle in this roundup actually handles hold duration and stability rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Lift-off and power memory", explanation: "Check whether lifting the kettle, allowing it to time out, or briefly losing power erases the selected temperature. Cuisinart explicitly confirms a two-minute lift-off memory; no equivalent persistence claim was verified for every other model here.\n\nLift-off and power memory is easy to overlook next to flashier specs, but it's frequently the difference between a electric kettle that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on lift-off and power memory directly from the current listing before ordering, since this is one of the more common places where two similarly priced electric kettle options genuinely diverge." },
+  { criterion: "Spout matched to the task", explanation: "A gooseneck gives slower, controlled flow for pour-over coffee but is inconvenient when you need to fill a teapot or pan quickly. Choose Fellow or Cosori for controlled coffee pours and a standard spout for broader kitchen use.\n\nGetting this wrong is one of the more common reasons a electric kettle purchase disappoints once it actually arrives, since spout matched to the task affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on spout matched to the task rather than assuming every electric kettle in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Filled weight and grip", explanation: "One liter of water weighs about 2.2 pounds before adding the kettle itself. A 1.7 to 1.8L glass kettle is useful for groups but can be demanding to lift, so buyers with limited grip strength should prioritize a comfortable handle and fill only what they need.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a electric kettle weeks after buying, since filled weight and grip plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of filled weight and grip, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the electric kettle for a while." },
+  { criterion: "Cleaning and parts support", explanation: "Hard-water scale affects heating and can interfere with the temperature sensor. Favor a wide lid, visible interior, removable filter, and available replacement parts; Cuisinart is the clearest option here for an officially listed replacement filter and base.\n\nBuyers who skip past cleaning and parts support tend to be the ones leaving disappointed reviews later, not because the electric kettle was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each electric kettle in this roundup actually handles cleaning and parts support rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
 ];
 
 export const howWeEvaluated = [

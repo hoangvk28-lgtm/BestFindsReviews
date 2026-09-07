@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "LiDAR mapping accuracy vs obstacle avoidance",
-    explanation:
-      "LiDAR is a mapping and navigation technology that helps a robot build an accurate floor plan and clean in efficient rows. It is not the same as obstacle avoidance for small objects like cords, socks, or pet waste, which usually depends on a separate camera or sensor system. Check both specs independently rather than assuming strong mapping means strong obstacle detection.",
-  },
-  {
-    criterion: "LiDAR turret height and furniture clearance",
-    explanation:
-      "The spinning LiDAR turret sits on top of the robot and adds height compared to camera-only or bump-sensor models. If you have low-clearance furniture like sofas or bed frames, check the model's total height including the turret before buying, not just the base unit height.",
-  },
-  {
-    criterion: "Dark-room and low-light navigation",
-    explanation:
-      "LiDAR uses laser measurement rather than a camera, so it generally continues to map and navigate in dark rooms where camera-based systems can struggle. This is a meaningful advantage for basements, closets, or rooms cleaned at night.",
-  },
-  {
-    criterion: "LiDAR-only vs LiDAR-plus-camera designs",
-    explanation:
-      "Some models rely on LiDAR alone for both mapping and object detection, while others pair LiDAR mapping with a separate camera or AI sensor for object recognition. The combined designs tend to handle clutter and small objects more reliably, at a higher price.",
-  },
-  {
-    criterion: "Self-emptying base and maintenance interval",
-    explanation:
-      "Self-emptying bases range widely in how long they run before needing a bag change, from a few weeks to over two months in this comparison. Factor in bag cost and change frequency, not just the upfront price of the base.",
-  },
-  {
-    criterion: "Multi-floor and multi-room mapping",
-    explanation:
-      "If you plan to use one robot across multiple floors, confirm it can store and switch between separate saved maps rather than remapping every time you carry it to a different level.",
-  },
+  { criterion: "LiDAR mapping accuracy vs obstacle avoidance", explanation: "LiDAR is a mapping and navigation technology that helps a robot build an accurate floor plan and clean in efficient rows. It is not the same as obstacle avoidance for small objects like cords, socks, or pet waste, which usually depends on a separate camera or sensor system. Check both specs independently rather than assuming strong mapping means strong obstacle detection.\n\nGetting this wrong is one of the more common reasons a lidar robot vacuums purchase disappoints once it actually arrives, since lidar mapping accuracy vs obstacle avoidance affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on lidar mapping accuracy vs obstacle avoidance rather than assuming every lidar robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "LiDAR turret height and furniture clearance", explanation: "The spinning LiDAR turret sits on top of the robot and adds height compared to camera-only or bump-sensor models. If you have low-clearance furniture like sofas or bed frames, check the model's total height including the turret before buying, not just the base unit height.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a lidar robot vacuums weeks after buying, since lidar turret height and furniture clearance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of lidar turret height and furniture clearance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the lidar robot vacuums for a while." },
+  { criterion: "Dark-room and low-light navigation", explanation: "LiDAR uses laser measurement rather than a camera, so it generally continues to map and navigate in dark rooms where camera-based systems can struggle. This is a meaningful advantage for basements, closets, or rooms cleaned at night.\n\nBuyers who skip past dark-room and low-light navigation tend to be the ones leaving disappointed reviews later, not because the lidar robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each lidar robot vacuums in this roundup actually handles dark-room and low-light navigation rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "LiDAR-only vs LiDAR-plus-camera designs", explanation: "Some models rely on LiDAR alone for both mapping and object detection, while others pair LiDAR mapping with a separate camera or AI sensor for object recognition. The combined designs tend to handle clutter and small objects more reliably, at a higher price.\n\nLidar-only vs lidar-plus-camera designs is easy to overlook next to flashier specs, but it's frequently the difference between a lidar robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on lidar-only vs lidar-plus-camera designs directly from the current listing before ordering, since this is one of the more common places where two similarly priced lidar robot vacuums options genuinely diverge." },
+  { criterion: "Self-emptying base and maintenance interval", explanation: "Self-emptying bases range widely in how long they run before needing a bag change, from a few weeks to over two months in this comparison. Factor in bag cost and change frequency, not just the upfront price of the base.\n\nGetting this wrong is one of the more common reasons a lidar robot vacuums purchase disappoints once it actually arrives, since self-emptying base and maintenance interval affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on self-emptying base and maintenance interval rather than assuming every lidar robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Multi-floor and multi-room mapping", explanation: "If you plan to use one robot across multiple floors, confirm it can store and switch between separate saved maps rather than remapping every time you carry it to a different level.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a lidar robot vacuums weeks after buying, since multi-floor and multi-room mapping plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of multi-floor and multi-room mapping, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the lidar robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

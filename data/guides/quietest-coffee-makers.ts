@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Pump vs gravity-drip mechanism",
-    explanation:
-      "A pump, used in some higher-end and espresso-adjacent machines, is one of the most common added noise sources in a coffee maker. All four machines here are gravity-fed drip designs with no internal pump, which removes that noise source before considering anything else.",
-  },
-  {
-    criterion: "Built-in grinder or not",
-    explanation:
-      "Grind-and-brew machines with an integrated burr or blade grinder are meaningfully louder than a plain drip machine for the 20 to 60 seconds the grinder runs. None of the four picks here include a grinder; if you want whole-bean convenience, expect that feature to add real noise regardless of brand.",
-  },
-  {
-    criterion: "Whether the ready alarm can be muted",
-    explanation:
-      "Not every drip machine lets you turn off its end-of-brew beep. The Cuisinart DCC-3400 explicitly documents a ready tone you can switch off, while the OXO and KRUPS models are commonly described as not using a loud alarm tone at all. Check this specifically if beeping bothers you more than the brew cycle itself.",
-  },
-  {
-    criterion: "Warming plate hum vs thermal carafe",
-    explanation:
-      "A glass carafe on a warming plate runs a low continuous electrical hum for as long as the plate stays on, sometimes an hour or more. A thermal steel carafe, like the Bonavita and OXO use, holds heat passively with no ongoing electrical noise after the brew finishes.",
-  },
-  {
-    criterion: "End-of-brew gurgling is normal, not a defect",
-    explanation:
-      "Every gravity-drip machine makes a gurgling or sputtering sound as the last of the water drains through the grounds and the brew basket clears air. This is a mechanical characteristic of the drip method itself, not something any of these four models avoids or that indicates a problem.",
-  },
-  {
-    criterion: "Don't trade brew quality for quiet",
-    explanation:
-      "Choosing an underpowered or unusually slow brewer purely to minimize noise is a poor tradeoff, since weak heating elements can under-extract coffee and slow brew cycles simply extend the total time you hear the machine running. A well-built machine that brews efficiently for a shorter total cycle is usually the quieter real-world choice.",
-  },
+  { criterion: "Pump vs gravity-drip mechanism", explanation: "A pump, used in some higher-end and espresso-adjacent machines, is one of the most common added noise sources in a coffee maker. All four machines here are gravity-fed drip designs with no internal pump, which removes that noise source before considering anything else.\n\nGetting this wrong is one of the more common reasons a quiet coffee makers purchase disappoints once it actually arrives, since pump vs gravity-drip mechanism affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on pump vs gravity-drip mechanism rather than assuming every quiet coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Built-in grinder or not", explanation: "Grind-and-brew machines with an integrated burr or blade grinder are meaningfully louder than a plain drip machine for the 20 to 60 seconds the grinder runs. None of the four picks here include a grinder; if you want whole-bean convenience, expect that feature to add real noise regardless of brand.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a quiet coffee makers weeks after buying, since built-in grinder or not plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of built-in grinder or not, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the quiet coffee makers for a while." },
+  { criterion: "Whether the ready alarm can be muted", explanation: "Not every drip machine lets you turn off its end-of-brew beep. The Cuisinart DCC-3400 explicitly documents a ready tone you can switch off, while the OXO and KRUPS models are commonly described as not using a loud alarm tone at all. Check this specifically if beeping bothers you more than the brew cycle itself.\n\nBuyers who skip past whether the ready alarm can be muted tend to be the ones leaving disappointed reviews later, not because the quiet coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each quiet coffee makers in this roundup actually handles whether the ready alarm can be muted rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Warming plate hum vs thermal carafe", explanation: "A glass carafe on a warming plate runs a low continuous electrical hum for as long as the plate stays on, sometimes an hour or more. A thermal steel carafe, like the Bonavita and OXO use, holds heat passively with no ongoing electrical noise after the brew finishes.\n\nWarming plate hum vs thermal carafe is easy to overlook next to flashier specs, but it's frequently the difference between a quiet coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on warming plate hum vs thermal carafe directly from the current listing before ordering, since this is one of the more common places where two similarly priced quiet coffee makers options genuinely diverge." },
+  { criterion: "End-of-brew gurgling is normal, not a defect", explanation: "Every gravity-drip machine makes a gurgling or sputtering sound as the last of the water drains through the grounds and the brew basket clears air. This is a mechanical characteristic of the drip method itself, not something any of these four models avoids or that indicates a problem.\n\nGetting this wrong is one of the more common reasons a quiet coffee makers purchase disappoints once it actually arrives, since end-of-brew gurgling is normal, not a defect affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on end-of-brew gurgling is normal, not a defect rather than assuming every quiet coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Don't trade brew quality for quiet", explanation: "Choosing an underpowered or unusually slow brewer purely to minimize noise is a poor tradeoff, since weak heating elements can under-extract coffee and slow brew cycles simply extend the total time you hear the machine running. A well-built machine that brews efficiently for a shorter total cycle is usually the quieter real-world choice.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a quiet coffee makers weeks after buying, since don't trade brew quality for quiet plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of don't trade brew quality for quiet, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the quiet coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

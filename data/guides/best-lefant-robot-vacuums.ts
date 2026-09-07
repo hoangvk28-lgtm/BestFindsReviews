@@ -235,31 +235,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Budget-tier positioning vs pricier competitors",
-    explanation:
-      "Lefant competes primarily on price against bigger robot vacuum brands, and even its most expensive model here, the M210 Pro OMNI, costs less than many flagship competitors with similar LiDAR and self-cleaning dock features. Decide whether you want Lefant's budget-friendly approach or are willing to pay more elsewhere for a more established brand track record.",
-  },
-  {
-    criterion: "Navigation type varies by model",
-    explanation:
-      "Not every Lefant model navigates the same way. Entry models like the M210 use simpler sensor-based navigation, while the M310 Ultra and M210 Pro OMNI use ToF LiDAR for more accurate room mapping. If precise mapping and no-go zones matter to you, confirm the navigation type on the specific model page before buying.",
-  },
-  {
-    criterion: "Generation differences in Lefant's lineup",
-    explanation:
-      "Model names like M210, M210 Pro, and M210P look similar but are different generations with different suction ratings and features. Read the full model name carefully rather than assuming any 'M210' variant is the same product.",
-  },
-  {
-    criterion: "App pairing and reconnection reliability",
-    explanation:
-      "Budget robot vacuums in general, and connected home devices broadly, can vary in how reliably they reconnect to WiFi after a router restart or power outage. Check recent owner feedback on app stability for the specific model you are considering, since this is not always reflected in the spec sheet.",
-  },
-  {
-    criterion: "Self-emptying vs basic models",
-    explanation:
-      "Self-emptying docks on models like the M2 Plus and M3 reduce hands-on maintenance significantly but add cost and another mechanical part that can need troubleshooting. Basic models like the M210 are simpler and cheaper but require emptying the dustbin by hand after every run or two.",
-  },
+  { criterion: "Budget-tier positioning vs pricier competitors", explanation: "Lefant competes primarily on price against bigger robot vacuum brands, and even its most expensive model here, the M210 Pro OMNI, costs less than many flagship competitors with similar LiDAR and self-cleaning dock features. Decide whether you want Lefant's budget-friendly approach or are willing to pay more elsewhere for a more established brand track record.\n\nGetting this wrong is one of the more common reasons a lefant robot vacuums purchase disappoints once it actually arrives, since budget-tier positioning vs pricier competitors affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on budget-tier positioning vs pricier competitors rather than assuming every lefant robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Navigation type varies by model", explanation: "Not every Lefant model navigates the same way. Entry models like the M210 use simpler sensor-based navigation, while the M310 Ultra and M210 Pro OMNI use ToF LiDAR for more accurate room mapping. If precise mapping and no-go zones matter to you, confirm the navigation type on the specific model page before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a lefant robot vacuums weeks after buying, since navigation type varies by model plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of navigation type varies by model, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the lefant robot vacuums for a while." },
+  { criterion: "Generation differences in Lefant's lineup", explanation: "Model names like M210, M210 Pro, and M210P look similar but are different generations with different suction ratings and features. Read the full model name carefully rather than assuming any 'M210' variant is the same product.\n\nBuyers who skip past generation differences in lefant's lineup tend to be the ones leaving disappointed reviews later, not because the lefant robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each lefant robot vacuums in this roundup actually handles generation differences in lefant's lineup rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "App pairing and reconnection reliability", explanation: "Budget robot vacuums in general, and connected home devices broadly, can vary in how reliably they reconnect to WiFi after a router restart or power outage. Check recent owner feedback on app stability for the specific model you are considering, since this is not always reflected in the spec sheet.\n\nApp pairing and reconnection reliability is easy to overlook next to flashier specs, but it's frequently the difference between a lefant robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on app pairing and reconnection reliability directly from the current listing before ordering, since this is one of the more common places where two similarly priced lefant robot vacuums options genuinely diverge." },
+  { criterion: "Self-emptying vs basic models", explanation: "Self-emptying docks on models like the M2 Plus and M3 reduce hands-on maintenance significantly but add cost and another mechanical part that can need troubleshooting. Basic models like the M210 are simpler and cheaper but require emptying the dustbin by hand after every run or two.\n\nGetting this wrong is one of the more common reasons a lefant robot vacuums purchase disappoints once it actually arrives, since self-emptying vs basic models affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on self-emptying vs basic models rather than assuming every lefant robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

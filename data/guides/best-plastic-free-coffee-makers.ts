@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Trace the full hot-water path, not just the main material",
-    explanation:
-      "A product marketed as 'stainless steel' can still have plastic seals, tubing, or a switch housing that sits in the water path. Check the manufacturer's stated materials for the reservoir, any internal tubing, the heater or filter basket, and the carafe or lid specifically, not just the headline material.",
-  },
-  {
-    criterion: "Use honest evidence labels, not blanket claims",
-    explanation:
-      "This guide labels each pick as fully plastic-free (verified from the listing), no plastic touching hot water or brewed coffee (some exterior plastic, but not in the water path), or unverified. Apply the same skepticism to any other plastic-free claim you encounter rather than taking marketing copy at face value.",
-  },
-  {
-    criterion: "Automatic vs manual plastic-free workflow",
-    explanation:
-      "Manual brewers like a French press or pour-over have no motor or electrical housing, so there is inherently less plastic to worry about anywhere in the product. Automatic electric brewers usually have some plastic in the exterior housing or switch assembly, which is normal but worth distinguishing from plastic in the actual water path.",
-  },
-  {
-    criterion: "Filters, seals, and replacement parts material",
-    explanation:
-      "A steel mesh filter avoids the paper-filter question entirely, but seals and gaskets are commonly silicone rather than plastic on food-grade products, which is a meaningfully different and generally safer material for heat exposure. Check what the specific seals and any replacement filters are made from before assuming.",
-  },
-  {
-    criterion: "Glass vs steel carafe tradeoffs",
-    explanation:
-      "Glass carafes let you see brew progress and grounds level but can break, while steel carafes are more durable and often better insulated but fully opaque. Neither material choice alone determines plastic-free status; check the seals and lid separately from the main body material.",
-  },
+  { criterion: "Trace the full hot-water path, not just the main material", explanation: "A product marketed as 'stainless steel' can still have plastic seals, tubing, or a switch housing that sits in the water path. Check the manufacturer's stated materials for the reservoir, any internal tubing, the heater or filter basket, and the carafe or lid specifically, not just the headline material.\n\nGetting this wrong is one of the more common reasons a plastic free purchase disappoints once it actually arrives, since trace the full hot-water path, not just the main material affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on trace the full hot-water path, not just the main material rather than assuming every plastic free in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Use honest evidence labels, not blanket claims", explanation: "This guide labels each pick as fully plastic-free (verified from the listing), no plastic touching hot water or brewed coffee (some exterior plastic, but not in the water path), or unverified. Apply the same skepticism to any other plastic-free claim you encounter rather than taking marketing copy at face value.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a plastic free weeks after buying, since use honest evidence labels, not blanket claims plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of use honest evidence labels, not blanket claims, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the plastic free for a while." },
+  { criterion: "Automatic vs manual plastic-free workflow", explanation: "Manual brewers like a French press or pour-over have no motor or electrical housing, so there is inherently less plastic to worry about anywhere in the product. Automatic electric brewers usually have some plastic in the exterior housing or switch assembly, which is normal but worth distinguishing from plastic in the actual water path.\n\nBuyers who skip past automatic vs manual plastic-free workflow tend to be the ones leaving disappointed reviews later, not because the plastic free was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each plastic free in this roundup actually handles automatic vs manual plastic-free workflow rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Filters, seals, and replacement parts material", explanation: "A steel mesh filter avoids the paper-filter question entirely, but seals and gaskets are commonly silicone rather than plastic on food-grade products, which is a meaningfully different and generally safer material for heat exposure. Check what the specific seals and any replacement filters are made from before assuming.\n\nFilters, seals, and replacement parts material is easy to overlook next to flashier specs, but it's frequently the difference between a plastic free that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on filters, seals, and replacement parts material directly from the current listing before ordering, since this is one of the more common places where two similarly priced plastic free options genuinely diverge." },
+  { criterion: "Glass vs steel carafe tradeoffs", explanation: "Glass carafes let you see brew progress and grounds level but can break, while steel carafes are more durable and often better insulated but fully opaque. Neither material choice alone determines plastic-free status; check the seals and lid separately from the main body material.\n\nGetting this wrong is one of the more common reasons a plastic free purchase disappoints once it actually arrives, since glass vs steel carafe tradeoffs affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on glass vs steel carafe tradeoffs rather than assuming every plastic free in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Drip vs permanent-filter vs pour-over-style mechanism",
-    explanation:
-      "Basic drip machines like the BUNN use disposable paper filters. Permanent-filter machines like the Cuisinart and Ninja skip paper entirely. Pour-over-style automatic brewers like the Moccamaster use a showerhead and manually adjustable basket closer to hand pour-over technique. Each changes both cost and cleanup routine.",
-  },
-  {
-    criterion: "Cost per cup",
-    explanation:
-      "Ground coffee runs roughly 15 to 25 cents per cup regardless of machine, plus a fraction of a cent in paper filters if used and a small electricity cost. Permanent-filter machines like the Cuisinart and Ninja eliminate the filter cost entirely, the only recurring saving among these four options.",
-  },
-  {
-    criterion: "Hands-on time and cleanup",
-    explanation:
-      "A paper-filter machine like the BUNN means tossing a filter and grounds in the trash, the least hands-on cleanup. Permanent-filter machines require rinsing the filter after each use, a small extra step but no purchase needed. All four are meaningfully less hands-on than a French press or manual pour-over.",
-  },
-  {
-    criterion: "One-mug vs full-carafe flexibility",
-    explanation:
-      "A basic full-pot drip machine brews the same size every time. The Ninja Specialty's six brew sizes, from single cup to full carafe, give real flexibility for a household where cup counts vary day to day, without ever needing a pod.",
-  },
-  {
-    criterion: "Grounds and filter waste",
-    explanation:
-      "Paper filters and used grounds are compostable in many municipal programs but still add up over daily use. Permanent-filter machines reduce that waste stream to grounds alone, a genuine consideration for buyers trying to minimize what they throw away, separate from the cost savings.",
-  },
-  {
-    criterion: "Upfront price range",
-    explanation:
-      "Pod-free options span a wide range, from roughly $114 for the Cuisinart to over $300 for the Moccamaster. Higher price here generally buys either larger capacity, more brew-size flexibility, or closer-to-manual extraction quality, not a fundamentally different pod-free mechanism.",
-  },
+  { criterion: "Drip vs permanent-filter vs pour-over-style mechanism", explanation: "Basic drip machines like the BUNN use disposable paper filters. Permanent-filter machines like the Cuisinart and Ninja skip paper entirely. Pour-over-style automatic brewers like the Moccamaster use a showerhead and manually adjustable basket closer to hand pour-over technique. Each changes both cost and cleanup routine.\n\nGetting this wrong is one of the more common reasons a without pods purchase disappoints once it actually arrives, since drip vs permanent-filter vs pour-over-style mechanism affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on drip vs permanent-filter vs pour-over-style mechanism rather than assuming every without pods in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Cost per cup", explanation: "Ground coffee runs roughly 15 to 25 cents per cup regardless of machine, plus a fraction of a cent in paper filters if used and a small electricity cost. Permanent-filter machines like the Cuisinart and Ninja eliminate the filter cost entirely, the only recurring saving among these four options.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without pods weeks after buying, since cost per cup plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of cost per cup, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without pods for a while." },
+  { criterion: "Hands-on time and cleanup", explanation: "A paper-filter machine like the BUNN means tossing a filter and grounds in the trash, the least hands-on cleanup. Permanent-filter machines require rinsing the filter after each use, a small extra step but no purchase needed. All four are meaningfully less hands-on than a French press or manual pour-over.\n\nBuyers who skip past hands-on time and cleanup tend to be the ones leaving disappointed reviews later, not because the without pods was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each without pods in this roundup actually handles hands-on time and cleanup rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "One-mug vs full-carafe flexibility", explanation: "A basic full-pot drip machine brews the same size every time. The Ninja Specialty's six brew sizes, from single cup to full carafe, give real flexibility for a household where cup counts vary day to day, without ever needing a pod.\n\nOne-mug vs full-carafe flexibility is easy to overlook next to flashier specs, but it's frequently the difference between a without pods that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on one-mug vs full-carafe flexibility directly from the current listing before ordering, since this is one of the more common places where two similarly priced without pods options genuinely diverge." },
+  { criterion: "Grounds and filter waste", explanation: "Paper filters and used grounds are compostable in many municipal programs but still add up over daily use. Permanent-filter machines reduce that waste stream to grounds alone, a genuine consideration for buyers trying to minimize what they throw away, separate from the cost savings.\n\nGetting this wrong is one of the more common reasons a without pods purchase disappoints once it actually arrives, since grounds and filter waste affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on grounds and filter waste rather than assuming every without pods in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Upfront price range", explanation: "Pod-free options span a wide range, from roughly $114 for the Cuisinart to over $300 for the Moccamaster. Higher price here generally buys either larger capacity, more brew-size flexibility, or closer-to-manual extraction quality, not a fundamentally different pod-free mechanism.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without pods weeks after buying, since upfront price range plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of upfront price range, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without pods for a while." },
 ];
 
 export const howWeEvaluated = [

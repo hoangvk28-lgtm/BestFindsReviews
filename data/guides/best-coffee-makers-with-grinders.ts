@@ -110,36 +110,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Grind retention between brews",
-    explanation:
-      "Any built-in grinder chamber can trap a small amount of ground coffee after each cycle, which then goes stale and can affect the flavor of the next brew. Burr grinders with weight-based dosing, like the Ninja Luxe Café Premier's, are designed to minimize this more than a basic blade grinder.",
-  },
-  {
-    criterion: "Static cling and grounds mess",
-    explanation:
-      "Freshly ground coffee builds up static charge that can scatter grounds around the grinder chamber and countertop rather than falling cleanly into the filter. This is a real daily annoyance that spec sheets do not mention, and it is generally worse in enclosed hoppers than in small, visible grind baskets like the Horavie's.",
-  },
-  {
-    criterion: "Bean-change contamination",
-    explanation:
-      "Switching bean types without running the grinder empty first can let leftover grounds from the previous bean mix into your next batch. Build an empty-grind cycle into your routine when changing beans on any of these models.",
-  },
-  {
-    criterion: "Bypass mode for pre-ground coffee",
-    explanation:
-      "Not every grind-and-brew machine lets you skip the grinder entirely. The Horavie explicitly supports pre-ground coffee and K-Cup pods; confirm this directly for any model where you might want that flexibility on busy mornings.",
-  },
-  {
-    criterion: "Combined-unit failure risk",
-    explanation:
-      "A grind-and-brew machine shares its grinder and brewer in one unit, so a grinder mechanism failure, like a jammed burr or dead motor, can take your ability to brew fresh coffee down with it, not just the grinding function alone.",
-  },
-  {
-    criterion: "Standalone grinder plus simple brewer as an alternative",
-    explanation:
-      "A separate burr grinder and a basic drip brewer purchased individually can land at a similar combined price to a mid-range integrated model, while keeping each component independently replaceable if one fails.",
-  },
+  { criterion: "Grind retention between brews", explanation: "Any built-in grinder chamber can trap a small amount of ground coffee after each cycle, which then goes stale and can affect the flavor of the next brew. Burr grinders with weight-based dosing, like the Ninja Luxe Café Premier's, are designed to minimize this more than a basic blade grinder.\n\nGetting this wrong is one of the more common reasons a with grinder purchase disappoints once it actually arrives, since grind retention between brews affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on grind retention between brews rather than assuming every with grinder in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Static cling and grounds mess", explanation: "Freshly ground coffee builds up static charge that can scatter grounds around the grinder chamber and countertop rather than falling cleanly into the filter. This is a real daily annoyance that spec sheets do not mention, and it is generally worse in enclosed hoppers than in small, visible grind baskets like the Horavie's.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a with grinder weeks after buying, since static cling and grounds mess plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of static cling and grounds mess, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the with grinder for a while." },
+  { criterion: "Bean-change contamination", explanation: "Switching bean types without running the grinder empty first can let leftover grounds from the previous bean mix into your next batch. Build an empty-grind cycle into your routine when changing beans on any of these models.\n\nBuyers who skip past bean-change contamination tend to be the ones leaving disappointed reviews later, not because the with grinder was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each with grinder in this roundup actually handles bean-change contamination rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Bypass mode for pre-ground coffee", explanation: "Not every grind-and-brew machine lets you skip the grinder entirely. The Horavie explicitly supports pre-ground coffee and K-Cup pods; confirm this directly for any model where you might want that flexibility on busy mornings.\n\nBypass mode for pre-ground coffee is easy to overlook next to flashier specs, but it's frequently the difference between a with grinder that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on bypass mode for pre-ground coffee directly from the current listing before ordering, since this is one of the more common places where two similarly priced with grinder options genuinely diverge." },
+  { criterion: "Combined-unit failure risk", explanation: "A grind-and-brew machine shares its grinder and brewer in one unit, so a grinder mechanism failure, like a jammed burr or dead motor, can take your ability to brew fresh coffee down with it, not just the grinding function alone.\n\nGetting this wrong is one of the more common reasons a with grinder purchase disappoints once it actually arrives, since combined-unit failure risk affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on combined-unit failure risk rather than assuming every with grinder in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Standalone grinder plus simple brewer as an alternative", explanation: "A separate burr grinder and a basic drip brewer purchased individually can land at a similar combined price to a mid-range integrated model, while keeping each component independently replaceable if one fails.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a with grinder weeks after buying, since standalone grinder plus simple brewer as an alternative plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of standalone grinder plus simple brewer as an alternative, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the with grinder for a while." },
 ];
 
 export const howWeEvaluated = [

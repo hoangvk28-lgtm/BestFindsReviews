@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Realistic cleaned area per charge before recharge-and-resume",
-    explanation:
-      "Every model here eventually needs to recharge mid-clean in a large home, the real question is how much floor it covers before that happens and how seamlessly it picks back up. Runtime figures like the 150-minute rating on one model in this comparison give a rough sense of this, but check current owner reviews for how it performs on your actual floor plan.",
-  },
-  {
-    criterion: "Recharge-and-resume reliability across multiple sessions",
-    explanation:
-      "A robot that restarts its cleaning pattern from scratch after every recharge effectively wastes battery re-covering already-clean rooms. Look for models with a documented resume feature and confirm in reviews that it holds up consistently, not just in the first few weeks of ownership.",
-  },
-  {
-    criterion: "Maximum map size, room count, or zone limits",
-    explanation:
-      "Some mapping systems cap out at a handful of saved rooms or a maximum square footage per map, which can be a hard limit in a genuinely large home. Confirm the stated room or zone limit before buying rather than assuming any current model can map an unlimited floor plan.",
-  },
-  {
-    criterion: "Dock water and dust capacity matched to weekly cleaning load",
-    explanation:
-      "A larger home generates more dust and, if the model mops, uses more clean water and generates more dirty water per session. Self-empty intervals ranging from 90 days to 7-9 weeks in this comparison reflect real differences in dock capacity, match that capacity to how much floor you are actually covering each week.",
-  },
-  {
-    criterion: "Navigation stability after furniture or door layout changes",
-    explanation:
-      "Large homes tend to have more doors, more furniture rearrangement, and more temporary obstacles than a small apartment. A navigation system that re-maps cleanly after these changes, rather than getting stuck or skipping rooms, matters more as the number of rooms increases.",
-  },
-  {
-    criterion: "Suction consistency across mixed flooring",
-    explanation:
-      "A large home is more likely to mix hardwood, tile, and carpet than a single-room space. Models with dedicated per-surface modes, rather than one fixed suction setting, tend to keep pickup consistent as the vacuum moves between flooring types.",
-  },
+  { criterion: "Realistic cleaned area per charge before recharge-and-resume", explanation: "Every model here eventually needs to recharge mid-clean in a large home, the real question is how much floor it covers before that happens and how seamlessly it picks back up. Runtime figures like the 150-minute rating on one model in this comparison give a rough sense of this, but check current owner reviews for how it performs on your actual floor plan.\n\nGetting this wrong is one of the more common reasons a large homes purchase disappoints once it actually arrives, since realistic cleaned area per charge before recharge-and-resume affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on realistic cleaned area per charge before recharge-and-resume rather than assuming every large homes in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Recharge-and-resume reliability across multiple sessions", explanation: "A robot that restarts its cleaning pattern from scratch after every recharge effectively wastes battery re-covering already-clean rooms. Look for models with a documented resume feature and confirm in reviews that it holds up consistently, not just in the first few weeks of ownership.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a large homes weeks after buying, since recharge-and-resume reliability across multiple sessions plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of recharge-and-resume reliability across multiple sessions, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the large homes for a while." },
+  { criterion: "Maximum map size, room count, or zone limits", explanation: "Some mapping systems cap out at a handful of saved rooms or a maximum square footage per map, which can be a hard limit in a genuinely large home. Confirm the stated room or zone limit before buying rather than assuming any current model can map an unlimited floor plan.\n\nBuyers who skip past maximum map size, room count, or zone limits tend to be the ones leaving disappointed reviews later, not because the large homes was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each large homes in this roundup actually handles maximum map size, room count, or zone limits rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Dock water and dust capacity matched to weekly cleaning load", explanation: "A larger home generates more dust and, if the model mops, uses more clean water and generates more dirty water per session. Self-empty intervals ranging from 90 days to 7-9 weeks in this comparison reflect real differences in dock capacity, match that capacity to how much floor you are actually covering each week.\n\nDock water and dust capacity matched to weekly cleaning load is easy to overlook next to flashier specs, but it's frequently the difference between a large homes that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on dock water and dust capacity matched to weekly cleaning load directly from the current listing before ordering, since this is one of the more common places where two similarly priced large homes options genuinely diverge." },
+  { criterion: "Navigation stability after furniture or door layout changes", explanation: "Large homes tend to have more doors, more furniture rearrangement, and more temporary obstacles than a small apartment. A navigation system that re-maps cleanly after these changes, rather than getting stuck or skipping rooms, matters more as the number of rooms increases.\n\nGetting this wrong is one of the more common reasons a large homes purchase disappoints once it actually arrives, since navigation stability after furniture or door layout changes affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on navigation stability after furniture or door layout changes rather than assuming every large homes in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction consistency across mixed flooring", explanation: "A large home is more likely to mix hardwood, tile, and carpet than a single-room space. Models with dedicated per-surface modes, rather than one fixed suction setting, tend to keep pickup consistent as the vacuum moves between flooring types.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a large homes weeks after buying, since suction consistency across mixed flooring plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction consistency across mixed flooring, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the large homes for a while." },
 ];
 
 export const howWeEvaluated = [

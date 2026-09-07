@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "What a manufacturer 'cup' actually measures",
-    explanation:
-      "Nearly every automatic drip machine, including all four compared here, measures one cup as roughly 5 fluid ounces, not a standard 8oz mug. That means a genuine 12-cup carafe holds about 60oz total, or roughly 7.5 standard mugs, a detail worth knowing before you assume a 12-cup pot will fill 12 full mugs.",
-  },
-  {
-    criterion: "Minimum-batch performance, not just maximum capacity",
-    explanation:
-      "A machine's headline number describes its maximum, but daily use often means brewing well under that. Look specifically for a dedicated small-batch or 1-4 cup setting, like the Ninja Fresh Brew or Cuisinart DCC-1200P1 include, if you rarely brew a full pot.",
-  },
-  {
-    criterion: "Carafe weight when full",
-    explanation:
-      "A full 60oz glass carafe weighs close to 4 pounds once you add the weight of the coffee itself, which is noticeably heavy to pour one-handed, especially for anyone with limited grip strength. Check the handle design and consider a lighter partial pour if this matters to you.",
-  },
-  {
-    criterion: "Reservoir access for filling",
-    explanation:
-      "Some 12-cup machines have a removable reservoir you can carry to the sink, like the Ninja Fresh Brew, while others require pouring water in at a fixed reservoir on the machine, like the Cuisinart DCC-1200P1. This is a real daily convenience difference that specs alone do not always make obvious.",
-  },
-  {
-    criterion: "When a 10-cup or 14-cup alternative fits better",
-    explanation:
-      "If you almost always brew for one or two people, a smaller 10-cup machine with better small-batch tuning may serve you better than a 12-cup machine you rarely fill. Conversely, if you regularly entertain or have a larger household, a 14-cup machine avoids brewing back-to-back pots on busy mornings.",
-  },
+  { criterion: "What a manufacturer 'cup' actually measures", explanation: "Nearly every automatic drip machine, including all four compared here, measures one cup as roughly 5 fluid ounces, not a standard 8oz mug. That means a genuine 12-cup carafe holds about 60oz total, or roughly 7.5 standard mugs, a detail worth knowing before you assume a 12-cup pot will fill 12 full mugs.\n\nGetting this wrong is one of the more common reasons a coffee pot cup purchase disappoints once it actually arrives, since what a manufacturer 'cup' actually measures affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what a manufacturer 'cup' actually measures rather than assuming every coffee pot cup in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Minimum-batch performance, not just maximum capacity", explanation: "A machine's headline number describes its maximum, but daily use often means brewing well under that. Look specifically for a dedicated small-batch or 1-4 cup setting, like the Ninja Fresh Brew or Cuisinart DCC-1200P1 include, if you rarely brew a full pot.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee pot cup weeks after buying, since minimum-batch performance, not just maximum capacity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of minimum-batch performance, not just maximum capacity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee pot cup for a while." },
+  { criterion: "Carafe weight when full", explanation: "A full 60oz glass carafe weighs close to 4 pounds once you add the weight of the coffee itself, which is noticeably heavy to pour one-handed, especially for anyone with limited grip strength. Check the handle design and consider a lighter partial pour if this matters to you.\n\nBuyers who skip past carafe weight when full tend to be the ones leaving disappointed reviews later, not because the coffee pot cup was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee pot cup in this roundup actually handles carafe weight when full rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Reservoir access for filling", explanation: "Some 12-cup machines have a removable reservoir you can carry to the sink, like the Ninja Fresh Brew, while others require pouring water in at a fixed reservoir on the machine, like the Cuisinart DCC-1200P1. This is a real daily convenience difference that specs alone do not always make obvious.\n\nReservoir access for filling is easy to overlook next to flashier specs, but it's frequently the difference between a coffee pot cup that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on reservoir access for filling directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee pot cup options genuinely diverge." },
+  { criterion: "When a 10-cup or 14-cup alternative fits better", explanation: "If you almost always brew for one or two people, a smaller 10-cup machine with better small-batch tuning may serve you better than a 12-cup machine you rarely fill. Conversely, if you regularly entertain or have a larger household, a 14-cup machine avoids brewing back-to-back pots on busy mornings.\n\nGetting this wrong is one of the more common reasons a coffee pot cup purchase disappoints once it actually arrives, since when a 10-cup or 14-cup alternative fits better affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on when a 10-cup or 14-cup alternative fits better rather than assuming every coffee pot cup in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

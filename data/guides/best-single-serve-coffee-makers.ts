@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Pod-only vs grounds-only vs dual compatibility",
-    explanation:
-      "This is the single biggest fork in this category. Pod-only machines are simplest to clean but cost more per cup, grounds-only machines are cheapest per cup but need scooping and basket cleaning, and dual machines like the Ninja Combo offer both at the cost of slightly more complexity.",
-  },
-  {
-    criterion: "Temperature consistency across cup-size settings",
-    explanation:
-      "The smallest cup-size setting on a wide-range machine can brew noticeably cooler than a mid-range size, since less water passes over the heating element in a shorter cycle. If you consistently brew the smallest size available, check current owner feedback for that specific setting.",
-  },
-  {
-    criterion: "Reservoir, pod-insertion, and needle-cleaning usability",
-    explanation:
-      "A reservoir that lifts out for sink filling and a pod chamber that opens fully for cleaning save real time over weeks of daily use. Needle clogs from pod residue are a common cause of slow or sputtering brews if the chamber is hard to access and clean.",
-  },
-  {
-    criterion: "Annual per-cup cost",
-    explanation:
-      "K-Cup pods typically run 40 to 75 cents each, so a daily single-cup habit costs roughly $150 to $275 per year in pods alone. Ground coffee brewed at home typically costs 15 to 25 cents per cup, meaning a grounds-only or dual-compatible machine can save $100 or more per year for the same daily habit.",
-  },
-  {
-    criterion: "Reusable-filter compatibility and overflow risk",
-    explanation:
-      "Many pod machines accept a separately sold reusable filter for ground coffee, but overfilling it beyond the fill line is a common cause of grounds overflowing into your cup. If you plan to use a reusable filter regularly, a dedicated dual-compatible machine tends to handle grounds more cleanly than a pod machine retrofitted with one.",
-  },
+  { criterion: "Pod-only vs grounds-only vs dual compatibility", explanation: "This is the single biggest fork in this category. Pod-only machines are simplest to clean but cost more per cup, grounds-only machines are cheapest per cup but need scooping and basket cleaning, and dual machines like the Ninja Combo offer both at the cost of slightly more complexity.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since pod-only vs grounds-only vs dual compatibility affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on pod-only vs grounds-only vs dual compatibility rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Temperature consistency across cup-size settings", explanation: "The smallest cup-size setting on a wide-range machine can brew noticeably cooler than a mid-range size, since less water passes over the heating element in a shorter cycle. If you consistently brew the smallest size available, check current owner feedback for that specific setting.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since temperature consistency across cup-size settings plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of temperature consistency across cup-size settings, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Reservoir, pod-insertion, and needle-cleaning usability", explanation: "A reservoir that lifts out for sink filling and a pod chamber that opens fully for cleaning save real time over weeks of daily use. Needle clogs from pod residue are a common cause of slow or sputtering brews if the chamber is hard to access and clean.\n\nBuyers who skip past reservoir, pod-insertion, and needle-cleaning usability tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles reservoir, pod-insertion, and needle-cleaning usability rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Annual per-cup cost", explanation: "K-Cup pods typically run 40 to 75 cents each, so a daily single-cup habit costs roughly $150 to $275 per year in pods alone. Ground coffee brewed at home typically costs 15 to 25 cents per cup, meaning a grounds-only or dual-compatible machine can save $100 or more per year for the same daily habit.\n\nAnnual per-cup cost is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on annual per-cup cost directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Reusable-filter compatibility and overflow risk", explanation: "Many pod machines accept a separately sold reusable filter for ground coffee, but overfilling it beyond the fill line is a common cause of grounds overflowing into your cup. If you plan to use a reusable filter regularly, a dedicated dual-compatible machine tends to handle grounds more cleanly than a pod machine retrofitted with one.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since reusable-filter compatibility and overflow risk affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on reusable-filter compatibility and overflow risk rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

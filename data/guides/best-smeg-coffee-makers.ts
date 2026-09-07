@@ -110,36 +110,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Design premium vs brew performance",
-    explanation:
-      "A Smeg drip machine at $200 to $260 competes on spec with plain programmable drip machines that cost well under $100. Decide upfront how much of that difference you are paying for the retro housing versus features you will actually use daily, like strength control or auto-start.",
-  },
-  {
-    criterion: "Control panel and display readability",
-    explanation:
-      "Smeg's LED panels use small icon-based indicators rather than a full text display. If you have not seen the control layout in person, check owner photos of the panel before buying so the programming steps are not a surprise on day one.",
-  },
-  {
-    criterion: "Keep-warm plate duration",
-    explanation:
-      "The drip models here hold coffee at temperature for about 60 minutes before it is left to cool on its own. If you regularly nurse a pot for two or three hours, plan to transfer coffee to a separate thermal carafe rather than relying on the built-in warmer.",
-  },
-  {
-    criterion: "Deep-clean and descaling access",
-    explanation:
-      "Like any drip machine, the reservoir and brew basket need periodic descaling, typically every 2 to 3 months with average water hardness. Confirm the reservoir is removable or at least fully accessible for cleaning before buying, since Smeg's retro housing wraps the mechanism tighter than some plain plastic machines.",
-  },
-  {
-    criterion: "Finish durability and fingerprints",
-    explanation:
-      "Glossy painted finishes, especially in cream or pastel colors, show fingerprints and light scuffs more readily than a matte black or stainless housing. If the machine sits in a high-traffic kitchen, a darker finish will generally look cleaner between wipe-downs.",
-  },
-  {
-    criterion: "Warranty and parts availability",
-    explanation:
-      "Smeg's small-appliance warranty terms and replacement parts network are smaller than a mainstream drip brand's. Confirm current warranty length and whether replacement carafes or filters are readily available before treating this as a long-term daily machine.",
-  },
+  { criterion: "Design premium vs brew performance", explanation: "A Smeg drip machine at $200 to $260 competes on spec with plain programmable drip machines that cost well under $100. Decide upfront how much of that difference you are paying for the retro housing versus features you will actually use daily, like strength control or auto-start.\n\nGetting this wrong is one of the more common reasons a smeg coffee makers purchase disappoints once it actually arrives, since design premium vs brew performance affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on design premium vs brew performance rather than assuming every smeg coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Control panel and display readability", explanation: "Smeg's LED panels use small icon-based indicators rather than a full text display. If you have not seen the control layout in person, check owner photos of the panel before buying so the programming steps are not a surprise on day one.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a smeg coffee makers weeks after buying, since control panel and display readability plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of control panel and display readability, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the smeg coffee makers for a while." },
+  { criterion: "Keep-warm plate duration", explanation: "The drip models here hold coffee at temperature for about 60 minutes before it is left to cool on its own. If you regularly nurse a pot for two or three hours, plan to transfer coffee to a separate thermal carafe rather than relying on the built-in warmer.\n\nBuyers who skip past keep-warm plate duration tend to be the ones leaving disappointed reviews later, not because the smeg coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each smeg coffee makers in this roundup actually handles keep-warm plate duration rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Deep-clean and descaling access", explanation: "Like any drip machine, the reservoir and brew basket need periodic descaling, typically every 2 to 3 months with average water hardness. Confirm the reservoir is removable or at least fully accessible for cleaning before buying, since Smeg's retro housing wraps the mechanism tighter than some plain plastic machines.\n\nDeep-clean and descaling access is easy to overlook next to flashier specs, but it's frequently the difference between a smeg coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on deep-clean and descaling access directly from the current listing before ordering, since this is one of the more common places where two similarly priced smeg coffee makers options genuinely diverge." },
+  { criterion: "Finish durability and fingerprints", explanation: "Glossy painted finishes, especially in cream or pastel colors, show fingerprints and light scuffs more readily than a matte black or stainless housing. If the machine sits in a high-traffic kitchen, a darker finish will generally look cleaner between wipe-downs.\n\nGetting this wrong is one of the more common reasons a smeg coffee makers purchase disappoints once it actually arrives, since finish durability and fingerprints affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on finish durability and fingerprints rather than assuming every smeg coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Warranty and parts availability", explanation: "Smeg's small-appliance warranty terms and replacement parts network are smaller than a mainstream drip brand's. Confirm current warranty length and whether replacement carafes or filters are readily available before treating this as a long-term daily machine.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a smeg coffee makers weeks after buying, since warranty and parts availability plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of warranty and parts availability, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the smeg coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

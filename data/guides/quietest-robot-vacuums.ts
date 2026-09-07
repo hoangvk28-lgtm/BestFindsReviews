@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Robot noise vs dock noise are different events",
-    explanation:
-      "A robot's own cleaning cycle and a self-empty, self-wash, or self-dry dock cycle are separate noise events that happen at different times. A model with a quiet cleaning mode can still have a noticeably louder dock cycle, so evaluate both separately rather than assuming one number covers the whole system.",
-  },
-  {
-    criterion: "Quiet mode vs standard mode cleaning tradeoff",
-    explanation:
-      "Many current models offer a lower-power, quieter cleaning mode alongside a standard or max-suction mode. Quiet mode typically means less suction power and sometimes a longer cleaning time to cover the same area, so decide whether reduced noise or faster, stronger cleaning matters more for your routine.",
-  },
-  {
-    criterion: "Night-cycle scheduling around noise-sensitive households",
-    explanation:
-      "App-based scheduling lets you run cleaning, and any self-empty or self-wash cycle, during hours when household members are away or less likely to be disturbed. If anyone in the home works nights or naps during the day, confirm the app allows flexible, recurring schedules rather than a single fixed daily time.",
-  },
-  {
-    criterion: "Voice prompt and alert volume",
-    explanation:
-      "Many robots announce status changes, low battery, or errors with a voice prompt or chime, separate from motor and brush noise. Check whether the app allows muting or lowering these alerts if a fully silent operation matters, since motor noise alone does not capture the full sound profile.",
-  },
-  {
-    criterion: "Motor and brush design as noise factors",
-    explanation:
-      "Brush type (bristle vs rubber) and motor design affect noise independently of suction power, and a robot with strong suction is not automatically the loudest option. Reviewer descriptions of day-to-day noise are a more useful signal than suction specs alone when comparing models without published lab measurements.",
-  },
-  {
-    criterion: "Dockless vs docked system complexity",
-    explanation:
-      "A dockless model has only one noise event to plan around, the cleaning cycle itself. A model with a self-empty or self-wash station adds a second, often louder event on its own schedule, which is a real tradeoff for the hands-off convenience it provides.",
-  },
+  { criterion: "Robot noise vs dock noise are different events", explanation: "A robot's own cleaning cycle and a self-empty, self-wash, or self-dry dock cycle are separate noise events that happen at different times. A model with a quiet cleaning mode can still have a noticeably louder dock cycle, so evaluate both separately rather than assuming one number covers the whole system.\n\nGetting this wrong is one of the more common reasons a quietest robot vacuums purchase disappoints once it actually arrives, since robot noise vs dock noise are different events affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on robot noise vs dock noise are different events rather than assuming every quietest robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Quiet mode vs standard mode cleaning tradeoff", explanation: "Many current models offer a lower-power, quieter cleaning mode alongside a standard or max-suction mode. Quiet mode typically means less suction power and sometimes a longer cleaning time to cover the same area, so decide whether reduced noise or faster, stronger cleaning matters more for your routine.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a quietest robot vacuums weeks after buying, since quiet mode vs standard mode cleaning tradeoff plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of quiet mode vs standard mode cleaning tradeoff, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the quietest robot vacuums for a while." },
+  { criterion: "Night-cycle scheduling around noise-sensitive households", explanation: "App-based scheduling lets you run cleaning, and any self-empty or self-wash cycle, during hours when household members are away or less likely to be disturbed. If anyone in the home works nights or naps during the day, confirm the app allows flexible, recurring schedules rather than a single fixed daily time.\n\nBuyers who skip past night-cycle scheduling around noise-sensitive households tend to be the ones leaving disappointed reviews later, not because the quietest robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each quietest robot vacuums in this roundup actually handles night-cycle scheduling around noise-sensitive households rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Voice prompt and alert volume", explanation: "Many robots announce status changes, low battery, or errors with a voice prompt or chime, separate from motor and brush noise. Check whether the app allows muting or lowering these alerts if a fully silent operation matters, since motor noise alone does not capture the full sound profile.\n\nVoice prompt and alert volume is easy to overlook next to flashier specs, but it's frequently the difference between a quietest robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on voice prompt and alert volume directly from the current listing before ordering, since this is one of the more common places where two similarly priced quietest robot vacuums options genuinely diverge." },
+  { criterion: "Motor and brush design as noise factors", explanation: "Brush type (bristle vs rubber) and motor design affect noise independently of suction power, and a robot with strong suction is not automatically the loudest option. Reviewer descriptions of day-to-day noise are a more useful signal than suction specs alone when comparing models without published lab measurements.\n\nGetting this wrong is one of the more common reasons a quietest robot vacuums purchase disappoints once it actually arrives, since motor and brush design as noise factors affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on motor and brush design as noise factors rather than assuming every quietest robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Dockless vs docked system complexity", explanation: "A dockless model has only one noise event to plan around, the cleaning cycle itself. A model with a self-empty or self-wash station adds a second, often louder event on its own schedule, which is a real tradeoff for the hands-off convenience it provides.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a quietest robot vacuums weeks after buying, since dockless vs docked system complexity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of dockless vs docked system complexity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the quietest robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

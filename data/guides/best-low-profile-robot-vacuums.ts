@@ -234,36 +234,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Maximum fixed body height vs temporarily raised LiDAR turret height",
-    explanation:
-      "Some low-profile vacuums rely on bumper and drop sensors with a flat, fixed body, while others use a LiDAR turret that can raise briefly during navigation. Check whether a model's stated height already accounts for any turret movement, since a temporarily taller profile can catch on furniture that a fixed-height body would clear.",
-  },
-  {
-    criterion: "Furniture clearance margins",
-    explanation:
-      "Measure the actual clearance under your specific furniture and leave a margin beyond the vacuum's stated body height, since flooring, rugs, or slight furniture sag can reduce real clearance compared to a flat-floor spec sheet number.",
-  },
-  {
-    criterion: "Navigation while retractable sensors are lowered",
-    explanation:
-      "Models with retractable or lowering sensors may navigate less precisely while squeezed under low furniture. Check owner reviews for how well a specific model avoids obstacles and finds its way back out from tight spaces, not just its advertised mapping technology.",
-  },
-  {
-    criterion: "Recovery if stuck under sagging furniture",
-    explanation:
-      "Furniture with sagging upholstery or low center supports can trap a robot vacuum that fit going in. Look for reviews mentioning how a model behaves if it gets stuck, including whether it alerts you through an app rather than running down its battery silently.",
-  },
-  {
-    criterion: "Dock height and footprint",
-    explanation:
-      "A slim robot body does not guarantee a slim dock. Self-emptying and combo mop docks in particular tend to be taller and wider than a simple charging base, so confirm the dock will fit your intended spot in addition to the vacuum itself.",
-  },
-  {
-    criterion: "Vacuum-only vs mop combo mechanism complexity",
-    explanation:
-      "Combo units add a mopping mechanism on top of vacuuming, which can mean more moving parts and, in some cases, a taller body to house the water tank. If low-profile clearance is your top priority, weigh whether mopping is worth any added height or complexity.",
-  },
+  { criterion: "Maximum fixed body height vs temporarily raised LiDAR turret height", explanation: "Some low-profile vacuums rely on bumper and drop sensors with a flat, fixed body, while others use a LiDAR turret that can raise briefly during navigation. Check whether a model's stated height already accounts for any turret movement, since a temporarily taller profile can catch on furniture that a fixed-height body would clear.\n\nGetting this wrong is one of the more common reasons a low-profile robot vacuums purchase disappoints once it actually arrives, since maximum fixed body height vs temporarily raised lidar turret height affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on maximum fixed body height vs temporarily raised lidar turret height rather than assuming every low-profile robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Furniture clearance margins", explanation: "Measure the actual clearance under your specific furniture and leave a margin beyond the vacuum's stated body height, since flooring, rugs, or slight furniture sag can reduce real clearance compared to a flat-floor spec sheet number.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a low-profile robot vacuums weeks after buying, since furniture clearance margins plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of furniture clearance margins, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the low-profile robot vacuums for a while." },
+  { criterion: "Navigation while retractable sensors are lowered", explanation: "Models with retractable or lowering sensors may navigate less precisely while squeezed under low furniture. Check owner reviews for how well a specific model avoids obstacles and finds its way back out from tight spaces, not just its advertised mapping technology.\n\nBuyers who skip past navigation while retractable sensors are lowered tend to be the ones leaving disappointed reviews later, not because the low-profile robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each low-profile robot vacuums in this roundup actually handles navigation while retractable sensors are lowered rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Recovery if stuck under sagging furniture", explanation: "Furniture with sagging upholstery or low center supports can trap a robot vacuum that fit going in. Look for reviews mentioning how a model behaves if it gets stuck, including whether it alerts you through an app rather than running down its battery silently.\n\nRecovery if stuck under sagging furniture is easy to overlook next to flashier specs, but it's frequently the difference between a low-profile robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on recovery if stuck under sagging furniture directly from the current listing before ordering, since this is one of the more common places where two similarly priced low-profile robot vacuums options genuinely diverge." },
+  { criterion: "Dock height and footprint", explanation: "A slim robot body does not guarantee a slim dock. Self-emptying and combo mop docks in particular tend to be taller and wider than a simple charging base, so confirm the dock will fit your intended spot in addition to the vacuum itself.\n\nGetting this wrong is one of the more common reasons a low-profile robot vacuums purchase disappoints once it actually arrives, since dock height and footprint affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on dock height and footprint rather than assuming every low-profile robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Vacuum-only vs mop combo mechanism complexity", explanation: "Combo units add a mopping mechanism on top of vacuuming, which can mean more moving parts and, in some cases, a taller body to house the water tank. If low-profile clearance is your top priority, weigh whether mopping is worth any added height or complexity.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a low-profile robot vacuums weeks after buying, since vacuum-only vs mop combo mechanism complexity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of vacuum-only vs mop combo mechanism complexity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the low-profile robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

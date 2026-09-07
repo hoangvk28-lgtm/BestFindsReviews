@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Filled weight and lifting",
-    explanation:
-      "A full 12-cup glass carafe, as on the Black+Decker or Mr. Coffee models, adds real weight to lift and pour compared to a single-serve mug or the Keurig K-Mini's one-cup design, which barely changes weight from empty to full.",
-  },
-  {
-    criterion: "Button and grip force",
-    explanation:
-      "Larger, rubberized buttons like the Black+Decker's need less precise pressure than small flush buttons, which matters if grip strength or fine motor control has become less reliable. Test button feel in person if possible before buying.",
-  },
-  {
-    criterion: "Display and indicator legibility",
-    explanation:
-      "A digital display with large characters, or a simple bright indicator light like the Mr. Coffee's, should be readable from a normal standing distance across a kitchen, not just from a few inches away.",
-  },
-  {
-    criterion: "Cleaning access",
-    explanation:
-      "A filter basket that lifts straight out, as on the Mr. Coffee and Black+Decker models, is easier to clean than a design that requires twisting or deep reaching inside the machine.",
-  },
-  {
-    criterion: "Auto shutoff and stable base",
-    explanation:
-      "Auto shutoff after 2 hours, present on the Black+Decker model, reduces burn and fire risk from a forgotten warming plate. Check for a wide, stable base on any carafe-style machine to reduce tipping risk during pouring.",
-  },
-  {
-    criterion: "Cord safety",
-    explanation:
-      "A short, direct cord path with no excess slack reduces trip risk on a kitchen counter. None of the models compared here include a coiled or extra-long cord, which is worth confirming on any model you consider.",
-  },
+  { criterion: "Filled weight and lifting", explanation: "A full 12-cup glass carafe, as on the Black+Decker or Mr. Coffee models, adds real weight to lift and pour compared to a single-serve mug or the Keurig K-Mini's one-cup design, which barely changes weight from empty to full.\n\nGetting this wrong is one of the more common reasons a for seniors purchase disappoints once it actually arrives, since filled weight and lifting affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on filled weight and lifting rather than assuming every for seniors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Button and grip force", explanation: "Larger, rubberized buttons like the Black+Decker's need less precise pressure than small flush buttons, which matters if grip strength or fine motor control has become less reliable. Test button feel in person if possible before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for seniors weeks after buying, since button and grip force plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of button and grip force, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for seniors for a while." },
+  { criterion: "Display and indicator legibility", explanation: "A digital display with large characters, or a simple bright indicator light like the Mr. Coffee's, should be readable from a normal standing distance across a kitchen, not just from a few inches away.\n\nBuyers who skip past display and indicator legibility tend to be the ones leaving disappointed reviews later, not because the for seniors was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each for seniors in this roundup actually handles display and indicator legibility rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Cleaning access", explanation: "A filter basket that lifts straight out, as on the Mr. Coffee and Black+Decker models, is easier to clean than a design that requires twisting or deep reaching inside the machine.\n\nCleaning access is easy to overlook next to flashier specs, but it's frequently the difference between a for seniors that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on cleaning access directly from the current listing before ordering, since this is one of the more common places where two similarly priced for seniors options genuinely diverge." },
+  { criterion: "Auto shutoff and stable base", explanation: "Auto shutoff after 2 hours, present on the Black+Decker model, reduces burn and fire risk from a forgotten warming plate. Check for a wide, stable base on any carafe-style machine to reduce tipping risk during pouring.\n\nGetting this wrong is one of the more common reasons a for seniors purchase disappoints once it actually arrives, since auto shutoff and stable base affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on auto shutoff and stable base rather than assuming every for seniors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Cord safety", explanation: "A short, direct cord path with no excess slack reduces trip risk on a kitchen counter. None of the models compared here include a coiled or extra-long cord, which is worth confirming on any model you consider.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for seniors weeks after buying, since cord safety plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of cord safety, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for seniors for a while." },
 ];
 
 export const howWeEvaluated = [

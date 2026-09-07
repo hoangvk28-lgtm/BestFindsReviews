@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Operational footprint, not just closed width",
-    explanation:
-      "A published width like the K-Mini's under-5-inch spec only describes the machine sitting idle. Check how much clearance the lid needs to open fully and whether a reservoir has to lift straight up, since that open-and-loading space is what actually determines if it fits under a cabinet or on a narrow shelf.",
-  },
-  {
-    criterion: "Mug and lid clearance",
-    explanation:
-      "A travel mug taller than about 7 inches will not clear the drip tray on several compact models unless you remove the tray first. Measure your actual mug or check whether the model ships with one sized to fit, like the Elite Gourmet EHC111A.",
-  },
-  {
-    criterion: "One-cup vs max-capacity performance",
-    explanation:
-      "Carafe-style compact machines like the Amazon Basics 5-cup are tuned around their maximum batch size, and a single cup brewed alone can come out weaker. Single-serve pod machines avoid this since each pod is dosed for its cup size regardless of how many cups you brew that day.",
-  },
-  {
-    criterion: "Reservoir type and refill frequency",
-    explanation:
-      "A fixed one-cup fill point like the K-Mini's needs no lifting or clearance for a tank, but requires a refill every single brew. A removable reservoir like the K-Express's 42oz tank needs vertical clearance to lift out, but covers roughly four cups before refilling.",
-  },
-  {
-    criterion: "Cord storage and stored footprint",
-    explanation:
-      "If you plan to store the machine between uses, such as in an RV cabinet or dorm closet, built-in cord storage keeps the stored footprint close to the machine's own dimensions instead of adding a trailing cord that needs its own space.",
-  },
-  {
-    criterion: "Spill risk on a small counter",
-    explanation:
-      "A removable drip tray that holds a full accidental brew, as on the K-Mini and K-Express, limits spill damage on a counter with little room to absorb an overflow. Confirm this feature specifically if your counter space is genuinely tight.",
-  },
+  { criterion: "Operational footprint, not just closed width", explanation: "A published width like the K-Mini's under-5-inch spec only describes the machine sitting idle. Check how much clearance the lid needs to open fully and whether a reservoir has to lift straight up, since that open-and-loading space is what actually determines if it fits under a cabinet or on a narrow shelf.\n\nGetting this wrong is one of the more common reasons a mini coffee makers purchase disappoints once it actually arrives, since operational footprint, not just closed width affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on operational footprint, not just closed width rather than assuming every mini coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Mug and lid clearance", explanation: "A travel mug taller than about 7 inches will not clear the drip tray on several compact models unless you remove the tray first. Measure your actual mug or check whether the model ships with one sized to fit, like the Elite Gourmet EHC111A.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a mini coffee makers weeks after buying, since mug and lid clearance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of mug and lid clearance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the mini coffee makers for a while." },
+  { criterion: "One-cup vs max-capacity performance", explanation: "Carafe-style compact machines like the Amazon Basics 5-cup are tuned around their maximum batch size, and a single cup brewed alone can come out weaker. Single-serve pod machines avoid this since each pod is dosed for its cup size regardless of how many cups you brew that day.\n\nBuyers who skip past one-cup vs max-capacity performance tend to be the ones leaving disappointed reviews later, not because the mini coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each mini coffee makers in this roundup actually handles one-cup vs max-capacity performance rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Reservoir type and refill frequency", explanation: "A fixed one-cup fill point like the K-Mini's needs no lifting or clearance for a tank, but requires a refill every single brew. A removable reservoir like the K-Express's 42oz tank needs vertical clearance to lift out, but covers roughly four cups before refilling.\n\nReservoir type and refill frequency is easy to overlook next to flashier specs, but it's frequently the difference between a mini coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on reservoir type and refill frequency directly from the current listing before ordering, since this is one of the more common places where two similarly priced mini coffee makers options genuinely diverge." },
+  { criterion: "Cord storage and stored footprint", explanation: "If you plan to store the machine between uses, such as in an RV cabinet or dorm closet, built-in cord storage keeps the stored footprint close to the machine's own dimensions instead of adding a trailing cord that needs its own space.\n\nGetting this wrong is one of the more common reasons a mini coffee makers purchase disappoints once it actually arrives, since cord storage and stored footprint affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on cord storage and stored footprint rather than assuming every mini coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Spill risk on a small counter", explanation: "A removable drip tray that holds a full accidental brew, as on the K-Mini and K-Express, limits spill damage on a counter with little room to absorb an overflow. Confirm this feature specifically if your counter space is genuinely tight.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a mini coffee makers weeks after buying, since spill risk on a small counter plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of spill risk on a small counter, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the mini coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

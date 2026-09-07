@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Actual small-batch performance",
-    explanation:
-      "Only the 14-cup model here has a dedicated small-batch setting that slows the brew cycle for less water. On models without it, brewing a partial pot on the full-size cycle tends to under-extract and taste weaker than the same grounds in a full pot.",
-  },
-  {
-    criterion: "Pause-and-serve drip risk",
-    explanation:
-      "Grab-a-Cup auto pause stops flow briefly when you remove the carafe, but the brew basket keeps filling. Leaving the carafe out for more than a few seconds, or doing it repeatedly during one cycle, risks the basket overflowing onto the warming plate and counter.",
-  },
-  {
-    criterion: "Warming plate scorching risk",
-    explanation:
-      "Coffee left on a fixed warming plate for over an hour typically starts tasting bitter and scorched as it slowly reduces and overheats. Models with an adjustable keep-warm duration give you more control, but even those benefit from transferring coffee to a thermal carafe if you will not finish it soon.",
-  },
-  {
-    criterion: "Replacement carafe and filter cost",
-    explanation:
-      "Glass carafes eventually crack or break, and replacements for a specific Mr Coffee model can cost close to a third of the original machine price. Check current replacement carafe availability for the exact model number before buying if longevity matters to you.",
-  },
-  {
-    criterion: "True cup size vs marketed capacity",
-    explanation:
-      "Mr Coffee counts one cup as 5 fluid ounces, not a full 8oz mug, so a 12-cup machine brews about 60oz total, roughly seven and a half standard mugs. Factor this in when comparing capacity to your household's actual mug size.",
-  },
-  {
-    criterion: "When to spend beyond Mr Coffee's price tier",
-    explanation:
-      "If you want thermal carafe retention, SCA-certified brew temperature, or a longer warranty than a typical one-year term, Mr Coffee's lineup will not deliver that regardless of which model you pick. Those needs point toward a higher price tier brand instead.",
-  },
+  { criterion: "Actual small-batch performance", explanation: "Only the 14-cup model here has a dedicated small-batch setting that slows the brew cycle for less water. On models without it, brewing a partial pot on the full-size cycle tends to under-extract and taste weaker than the same grounds in a full pot.\n\nGetting this wrong is one of the more common reasons a mr coffee purchase disappoints once it actually arrives, since actual small-batch performance affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on actual small-batch performance rather than assuming every mr coffee in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Pause-and-serve drip risk", explanation: "Grab-a-Cup auto pause stops flow briefly when you remove the carafe, but the brew basket keeps filling. Leaving the carafe out for more than a few seconds, or doing it repeatedly during one cycle, risks the basket overflowing onto the warming plate and counter.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a mr coffee weeks after buying, since pause-and-serve drip risk plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of pause-and-serve drip risk, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the mr coffee for a while." },
+  { criterion: "Warming plate scorching risk", explanation: "Coffee left on a fixed warming plate for over an hour typically starts tasting bitter and scorched as it slowly reduces and overheats. Models with an adjustable keep-warm duration give you more control, but even those benefit from transferring coffee to a thermal carafe if you will not finish it soon.\n\nBuyers who skip past warming plate scorching risk tend to be the ones leaving disappointed reviews later, not because the mr coffee was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each mr coffee in this roundup actually handles warming plate scorching risk rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Replacement carafe and filter cost", explanation: "Glass carafes eventually crack or break, and replacements for a specific Mr Coffee model can cost close to a third of the original machine price. Check current replacement carafe availability for the exact model number before buying if longevity matters to you.\n\nReplacement carafe and filter cost is easy to overlook next to flashier specs, but it's frequently the difference between a mr coffee that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on replacement carafe and filter cost directly from the current listing before ordering, since this is one of the more common places where two similarly priced mr coffee options genuinely diverge." },
+  { criterion: "True cup size vs marketed capacity", explanation: "Mr Coffee counts one cup as 5 fluid ounces, not a full 8oz mug, so a 12-cup machine brews about 60oz total, roughly seven and a half standard mugs. Factor this in when comparing capacity to your household's actual mug size.\n\nGetting this wrong is one of the more common reasons a mr coffee purchase disappoints once it actually arrives, since true cup size vs marketed capacity affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on true cup size vs marketed capacity rather than assuming every mr coffee in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "When to spend beyond Mr Coffee's price tier", explanation: "If you want thermal carafe retention, SCA-certified brew temperature, or a longer warranty than a typical one-year term, Mr Coffee's lineup will not deliver that regardless of which model you pick. Those needs point toward a higher price tier brand instead.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a mr coffee weeks after buying, since when to spend beyond mr coffee's price tier plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of when to spend beyond mr coffee's price tier, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the mr coffee for a while." },
 ];
 
 export const howWeEvaluated = [

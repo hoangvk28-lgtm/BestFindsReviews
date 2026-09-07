@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Daily cup volume and peak-15-minute demand",
-    explanation:
-      "Count roughly how many cups your office drinks in a full day, then estimate how many of those happen in the same 15-minute morning window. A machine that comfortably handles 20 cups spread across 8 hours can still create a real line if 10 of those cups land between 8:50 and 9:05am.",
-  },
-  {
-    criterion: "Queue time at peak demand",
-    explanation:
-      "A single 10-cup pot brewing in 3 to 8 minutes can serve roughly one person a minute once it is hot, so a team of 15 hitting the machine at once means a genuine wait. Dual-decanter or multi-unit setups exist specifically to cut this queue, not just to hold more coffee.",
-  },
-  {
-    criterion: "Refill and cleaning labor",
-    explanation:
-      "Carafe-based brewers need someone to add grounds, add water, and rinse the basket several times a day, while pod machines only need occasional reservoir refills and periodic descaling. Assign this responsibility explicitly rather than assuming it happens on its own.",
-  },
-  {
-    criterion: "Monthly cost per employee",
-    explanation:
-      "Pod coffee typically runs 40 to 75 cents per cup versus roughly 15 to 25 cents per cup for bulk ground coffee and filters. For a 20-person office averaging one cup a day each, that is a difference of roughly $120 to $300 per month between a pod-based and a ground-coffee setup.",
-  },
-  {
-    criterion: "Power, plumbing, and counter needs",
-    explanation:
-      "Commercial dual-decanter units and always-hot tank brewers can draw enough current that they need a dedicated outlet rather than sharing a circuit with a microwave and fridge. Confirm outlet availability and counter depth before ordering a commercial-style unit.",
-  },
-  {
-    criterion: "Downtime risk and service availability",
-    explanation:
-      "A single machine serving an entire office has no backup if it breaks, so consider whether a replacement part or loaner is realistically available locally, or whether a second smaller unit as backup is worth the extra cost.",
-  },
+  { criterion: "Daily cup volume and peak-15-minute demand", explanation: "Count roughly how many cups your office drinks in a full day, then estimate how many of those happen in the same 15-minute morning window. A machine that comfortably handles 20 cups spread across 8 hours can still create a real line if 10 of those cups land between 8:50 and 9:05am.\n\nGetting this wrong is one of the more common reasons a office coffee makers purchase disappoints once it actually arrives, since daily cup volume and peak-15-minute demand affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on daily cup volume and peak-15-minute demand rather than assuming every office coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Queue time at peak demand", explanation: "A single 10-cup pot brewing in 3 to 8 minutes can serve roughly one person a minute once it is hot, so a team of 15 hitting the machine at once means a genuine wait. Dual-decanter or multi-unit setups exist specifically to cut this queue, not just to hold more coffee.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a office coffee makers weeks after buying, since queue time at peak demand plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of queue time at peak demand, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the office coffee makers for a while." },
+  { criterion: "Refill and cleaning labor", explanation: "Carafe-based brewers need someone to add grounds, add water, and rinse the basket several times a day, while pod machines only need occasional reservoir refills and periodic descaling. Assign this responsibility explicitly rather than assuming it happens on its own.\n\nBuyers who skip past refill and cleaning labor tend to be the ones leaving disappointed reviews later, not because the office coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each office coffee makers in this roundup actually handles refill and cleaning labor rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Monthly cost per employee", explanation: "Pod coffee typically runs 40 to 75 cents per cup versus roughly 15 to 25 cents per cup for bulk ground coffee and filters. For a 20-person office averaging one cup a day each, that is a difference of roughly $120 to $300 per month between a pod-based and a ground-coffee setup.\n\nMonthly cost per employee is easy to overlook next to flashier specs, but it's frequently the difference between a office coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on monthly cost per employee directly from the current listing before ordering, since this is one of the more common places where two similarly priced office coffee makers options genuinely diverge." },
+  { criterion: "Power, plumbing, and counter needs", explanation: "Commercial dual-decanter units and always-hot tank brewers can draw enough current that they need a dedicated outlet rather than sharing a circuit with a microwave and fridge. Confirm outlet availability and counter depth before ordering a commercial-style unit.\n\nGetting this wrong is one of the more common reasons a office coffee makers purchase disappoints once it actually arrives, since power, plumbing, and counter needs affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on power, plumbing, and counter needs rather than assuming every office coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Downtime risk and service availability", explanation: "A single machine serving an entire office has no backup if it breaks, so consider whether a replacement part or loaner is realistically available locally, or whether a second smaller unit as backup is worth the extra cost.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a office coffee makers weeks after buying, since downtime risk and service availability plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of downtime risk and service availability, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the office coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

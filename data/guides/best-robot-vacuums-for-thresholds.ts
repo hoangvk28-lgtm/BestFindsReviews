@@ -60,31 +60,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Claimed threshold or obstacle-climbing height in the spec sheet",
-    explanation:
-      "Very few current listings state an exact threshold height the vacuum can cross. Where a spec sheet does mention obstacle clearance, treat it as a maximum under ideal conditions, not a guarantee for every threshold in your home.",
-  },
-  {
-    criterion: "Approach angle considerations",
-    explanation:
-      "A vacuum can technically clear a given threshold height and still get stuck if it approaches at a shallow angle rather than straight on. Door thresholds near tight turns or furniture are harder to cross even for a capable machine.",
-  },
-  {
-    criterion: "Wheel size and design as a factor",
-    explanation:
-      "Larger front wheels and a higher ground clearance generally correlate with better threshold performance, even when a listing does not spell out an exact number. Self-emptying and combo units often have sturdier drive systems than the cheapest entry-level models.",
-  },
-  {
-    criterion: "Whether a universal ramp accessory could solve the problem more cheaply",
-    explanation:
-      "A $15 to $25 rubber or plastic ramp designed for robot vacuums can turn almost any existing machine into one that crosses a raised threshold reliably. Before spending $200 or more on a new vacuum, consider whether a ramp accessory solves the actual problem for a fraction of the cost.",
-  },
-  {
-    criterion: "Mop-water spill risk when crossing raised thresholds",
-    explanation:
-      "Combo vacuum and mop units carry a water reservoir, and jostling over a raised threshold can occasionally cause minor drips near the transition point. If your thresholds separate carpet from hard flooring, keep this in mind when deciding where mopping mode should be active.",
-  },
+  { criterion: "Claimed threshold or obstacle-climbing height in the spec sheet", explanation: "Very few current listings state an exact threshold height the vacuum can cross. Where a spec sheet does mention obstacle clearance, treat it as a maximum under ideal conditions, not a guarantee for every threshold in your home.\n\nGetting this wrong is one of the more common reasons a for thresholds purchase disappoints once it actually arrives, since claimed threshold or obstacle-climbing height in the spec sheet affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on claimed threshold or obstacle-climbing height in the spec sheet rather than assuming every for thresholds in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Approach angle considerations", explanation: "A vacuum can technically clear a given threshold height and still get stuck if it approaches at a shallow angle rather than straight on. Door thresholds near tight turns or furniture are harder to cross even for a capable machine.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for thresholds weeks after buying, since approach angle considerations plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of approach angle considerations, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for thresholds for a while." },
+  { criterion: "Wheel size and design as a factor", explanation: "Larger front wheels and a higher ground clearance generally correlate with better threshold performance, even when a listing does not spell out an exact number. Self-emptying and combo units often have sturdier drive systems than the cheapest entry-level models.\n\nBuyers who skip past wheel size and design as a factor tend to be the ones leaving disappointed reviews later, not because the for thresholds was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each for thresholds in this roundup actually handles wheel size and design as a factor rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Whether a universal ramp accessory could solve the problem more cheaply", explanation: "A $15 to $25 rubber or plastic ramp designed for robot vacuums can turn almost any existing machine into one that crosses a raised threshold reliably. Before spending $200 or more on a new vacuum, consider whether a ramp accessory solves the actual problem for a fraction of the cost.\n\nWhether a universal ramp accessory could solve the problem more cheaply is easy to overlook next to flashier specs, but it's frequently the difference between a for thresholds that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on whether a universal ramp accessory could solve the problem more cheaply directly from the current listing before ordering, since this is one of the more common places where two similarly priced for thresholds options genuinely diverge." },
+  { criterion: "Mop-water spill risk when crossing raised thresholds", explanation: "Combo vacuum and mop units carry a water reservoir, and jostling over a raised threshold can occasionally cause minor drips near the transition point. If your thresholds separate carpet from hard flooring, keep this in mind when deciding where mopping mode should be active.\n\nGetting this wrong is one of the more common reasons a for thresholds purchase disappoints once it actually arrives, since mop-water spill risk when crossing raised thresholds affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on mop-water spill risk when crossing raised thresholds rather than assuming every for thresholds in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

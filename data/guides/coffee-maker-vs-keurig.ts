@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Per-cup cost",
-    explanation:
-      "K-Cup pods typically run 40 to 75 cents each, while a cup of drip coffee from ground beans runs roughly 15 to 25 cents in grounds alone. For a daily single-cup habit, pods can cost two to three times more per cup over a year.",
-  },
-  {
-    criterion: "Batch brewing vs single cups",
-    explanation:
-      "A drip machine makes a full pot in one cycle, ideal for a household drinking coffee around the same time. A pod machine excels when household members want coffee at different times or prefer different roasts, since each pod is brewed independently.",
-  },
-  {
-    criterion: "Temperature and speed across repeat cups",
-    explanation:
-      "Pod machines like the K-Express and K-Mini brew each cup fresh in 1 to 2 minutes with consistent per-cup temperature, since each brew is a discrete cycle. A drip machine brews its full batch at once and then relies on a warming plate or thermal carafe to hold temperature for cups poured later.",
-  },
-  {
-    criterion: "Descaling and maintenance",
-    explanation:
-      "Both approaches need periodic descaling to clear mineral buildup, typically every 3 months with average water hardness. Keurig machines commonly include a descale reminder; drip machines like the BUNN and Hamilton Beach require manually tracking a descaling schedule.",
-  },
-  {
-    criterion: "Annual cost including the machine",
-    explanation:
-      "A daily single-cup pod habit runs roughly $150 to $275 per year in pods alone, on top of a $70 to $90 machine. A daily drip habit from ground coffee runs closer to $55 to $90 per year in grounds and filters, on top of a $90 to $125 machine, making drip the lower-cost approach over time for most usage patterns.",
-  },
-  {
-    criterion: "Pod waste as a real tradeoff",
-    explanation:
-      "Single-use K-Cup pods generate more packaging waste per cup than ground coffee and a paper filter. This is a genuine factor some buyers weigh when choosing between the two approaches, worth stating plainly rather than ignoring, without it being a deciding factor for everyone.",
-  },
+  { criterion: "Per-cup cost", explanation: "K-Cup pods typically run 40 to 75 cents each, while a cup of drip coffee from ground beans runs roughly 15 to 25 cents in grounds alone. For a daily single-cup habit, pods can cost two to three times more per cup over a year.\n\nGetting this wrong is one of the more common reasons a coffee maker or Keurig purchase disappoints once it actually arrives, since per-cup cost affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on per-cup cost rather than assuming every coffee maker or Keurig in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Batch brewing vs single cups", explanation: "A drip machine makes a full pot in one cycle, ideal for a household drinking coffee around the same time. A pod machine excels when household members want coffee at different times or prefer different roasts, since each pod is brewed independently.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee maker or Keurig weeks after buying, since batch brewing vs single cups plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of batch brewing vs single cups, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee maker or Keurig for a while." },
+  { criterion: "Temperature and speed across repeat cups", explanation: "Pod machines like the K-Express and K-Mini brew each cup fresh in 1 to 2 minutes with consistent per-cup temperature, since each brew is a discrete cycle. A drip machine brews its full batch at once and then relies on a warming plate or thermal carafe to hold temperature for cups poured later.\n\nBuyers who skip past temperature and speed across repeat cups tend to be the ones leaving disappointed reviews later, not because the coffee maker or Keurig was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each vs keurig in this roundup actually handles temperature and speed across repeat cups rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Descaling and maintenance", explanation: "Both approaches need periodic descaling to clear mineral buildup, typically every 3 months with average water hardness. Keurig machines commonly include a descale reminder; drip machines like the BUNN and Hamilton Beach require manually tracking a descaling schedule.\n\nDescaling and maintenance is easy to overlook next to flashier specs, but it's frequently the difference between a coffee maker or Keurig that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on descaling and maintenance directly from the current listing before ordering, since this is one of the more common places where two similarly priced vs keurig options genuinely diverge." },
+  { criterion: "Annual cost including the machine", explanation: "A daily single-cup pod habit runs roughly $150 to $275 per year in pods alone, on top of a $70 to $90 machine. A daily drip habit from ground coffee runs closer to $55 to $90 per year in grounds and filters, on top of a $90 to $125 machine, making drip the lower-cost approach over time for most usage patterns.\n\nGetting this wrong is one of the more common reasons a coffee maker or Keurig purchase disappoints once it actually arrives, since annual cost including the machine affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on annual cost including the machine rather than assuming every coffee maker or Keurig in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Pod waste as a real tradeoff", explanation: "Single-use K-Cup pods generate more packaging waste per cup than ground coffee and a paper filter. This is a genuine factor some buyers weigh when choosing between the two approaches, worth stating plainly rather than ignoring, without it being a deciding factor for everyone.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee maker or Keurig weeks after buying, since pod waste as a real tradeoff plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of pod waste as a real tradeoff, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee maker or Keurig for a while." },
 ];
 
 export const howWeEvaluated = [

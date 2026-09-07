@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Camera and 3D sensor avoidance vs basic bump sensors",
-    explanation:
-      "Camera-based AI systems and 3D structured-light sensors are built to identify an object and plan a path around it before contact. Basic bump or infrared sensors mostly react after touching or nearly touching an obstacle. Read the product title and listing closely, since both approaches are often described with similar marketing language like 'smart avoidance.'",
-  },
-  {
-    criterion: "Real-world performance on cords, socks, and pet waste",
-    explanation:
-      "These three items behave very differently for a vacuum's sensors: thin cords can be hard for some cameras to register, dark socks can blend into dark flooring, and pet waste avoidance depends heavily on how well the object-recognition model has been trained. Check recent buyer reviews for how the AI avoidance handles each of these specifically rather than assuming general avoidance claims cover all three equally.",
-  },
-  {
-    criterion: "Low-light avoidance performance",
-    explanation:
-      "Camera-based systems generally need more ambient light to work reliably than laser or structured-light sensors. If you run cleaning schedules in the evening or in rooms with limited natural light, check recent buyer reviews for how that specific model performs after dark before assuming daytime performance carries over.",
-  },
-  {
-    criterion: "Obstacle avoidance is separate from LiDAR mapping",
-    explanation:
-      "LiDAR and laser mapping build a map of the room's layout for navigation, but that is a different function from obstacle avoidance, which detects and reacts to items not on the fixed map, like a dropped sock or a pet's toy. A model can have excellent mapping and still handle everyday clutter poorly, so do not assume one capability implies the other.",
-  },
-  {
-    criterion: "Firmware updates that change avoidance behavior",
-    explanation:
-      "Manufacturers regularly push firmware updates that retrain or adjust obstacle-recognition models, which means avoidance behavior on a given model can improve or occasionally regress over time. Check recent buyer reviews rather than reviews from a model's launch window, since early reviews may not reflect current firmware.",
-  },
-  {
-    criterion: "Suction power is not an avoidance metric",
-    explanation:
-      "A high suction rating, like the 30,000Pa figure on some models here, describes cleaning power, not how well the robot detects or avoids obstacles. Do not use suction numbers as a proxy for avoidance quality when comparing models.",
-  },
+  { criterion: "Camera and 3D sensor avoidance vs basic bump sensors", explanation: "Camera-based AI systems and 3D structured-light sensors are built to identify an object and plan a path around it before contact. Basic bump or infrared sensors mostly react after touching or nearly touching an obstacle. Read the product title and listing closely, since both approaches are often described with similar marketing language like 'smart avoidance.'\n\nGetting this wrong is one of the more common reasons a obstacle avoidance purchase disappoints once it actually arrives, since camera and 3d sensor avoidance vs basic bump sensors affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on camera and 3d sensor avoidance vs basic bump sensors rather than assuming every obstacle avoidance in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Real-world performance on cords, socks, and pet waste", explanation: "These three items behave very differently for a vacuum's sensors: thin cords can be hard for some cameras to register, dark socks can blend into dark flooring, and pet waste avoidance depends heavily on how well the object-recognition model has been trained. Check recent buyer reviews for how the AI avoidance handles each of these specifically rather than assuming general avoidance claims cover all three equally.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a obstacle avoidance weeks after buying, since real-world performance on cords, socks, and pet waste plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of real-world performance on cords, socks, and pet waste, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the obstacle avoidance for a while." },
+  { criterion: "Low-light avoidance performance", explanation: "Camera-based systems generally need more ambient light to work reliably than laser or structured-light sensors. If you run cleaning schedules in the evening or in rooms with limited natural light, check recent buyer reviews for how that specific model performs after dark before assuming daytime performance carries over.\n\nBuyers who skip past low-light avoidance performance tend to be the ones leaving disappointed reviews later, not because the obstacle avoidance was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each obstacle avoidance in this roundup actually handles low-light avoidance performance rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Obstacle avoidance is separate from LiDAR mapping", explanation: "LiDAR and laser mapping build a map of the room's layout for navigation, but that is a different function from obstacle avoidance, which detects and reacts to items not on the fixed map, like a dropped sock or a pet's toy. A model can have excellent mapping and still handle everyday clutter poorly, so do not assume one capability implies the other.\n\nObstacle avoidance is separate from lidar mapping is easy to overlook next to flashier specs, but it's frequently the difference between a obstacle avoidance that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on obstacle avoidance is separate from lidar mapping directly from the current listing before ordering, since this is one of the more common places where two similarly priced obstacle avoidance options genuinely diverge." },
+  { criterion: "Firmware updates that change avoidance behavior", explanation: "Manufacturers regularly push firmware updates that retrain or adjust obstacle-recognition models, which means avoidance behavior on a given model can improve or occasionally regress over time. Check recent buyer reviews rather than reviews from a model's launch window, since early reviews may not reflect current firmware.\n\nGetting this wrong is one of the more common reasons a obstacle avoidance purchase disappoints once it actually arrives, since firmware updates that change avoidance behavior affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on firmware updates that change avoidance behavior rather than assuming every obstacle avoidance in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction power is not an avoidance metric", explanation: "A high suction rating, like the 30,000Pa figure on some models here, describes cleaning power, not how well the robot detects or avoids obstacles. Do not use suction numbers as a proxy for avoidance quality when comparing models.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a obstacle avoidance weeks after buying, since suction power is not an avoidance metric plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction power is not an avoidance metric, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the obstacle avoidance for a while." },
 ];
 
 export const howWeEvaluated = [

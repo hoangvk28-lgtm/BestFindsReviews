@@ -134,36 +134,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Real fluid-ounce capacity, not just the cup number",
-    explanation:
-      "Manufacturer cups are typically 5 fluid ounces, so a 14-cup machine brews about 70oz total, roughly 8.75 standard 8oz mugs. Check the reservoir capacity in ounces on the listing itself, as we did here, rather than assuming '14 cups' means 14 full mugs.",
-  },
-  {
-    criterion: "Minimum batch brewing quality",
-    explanation:
-      "Brewing only 2 to 4 cups on a machine sized for 14 can produce a weaker, over-extracted result unless the machine has a dedicated small-batch mode, like the 1-4 cup settings on the Cuisinart, Ninja, and Mr. Coffee here. Confirm a small-batch setting exists if you will not brew a full pot daily.",
-  },
-  {
-    criterion: "Reservoir access and fill accuracy",
-    explanation:
-      "A removable reservoir, like the Ninja's 70oz tank, is easier to fill accurately at the sink than a fixed top-fill design. Check whether the reservoir has clear fill-line markings matched to its actual carafe size.",
-  },
-  {
-    criterion: "Carafe weight and pour control when full",
-    explanation:
-      "A full 70oz glass carafe is heavier and more prone to drips than a half-full one. Look for a no-drip spout design and a comfortable handle angle if you will regularly pour from a completely full 14-cup carafe.",
-  },
-  {
-    criterion: "Countertop footprint at full size",
-    explanation:
-      "14-cup machines with the carafe attached commonly run 9 to 11 inches wide and deep, noticeably larger than an 8 or 10-cup unit. Measure your counter space before buying, especially under low cabinets.",
-  },
-  {
-    criterion: "Whether you actually need 14 cups daily",
-    explanation:
-      "If your household rarely brews more than 4 to 6 cups at a time, a 10-cup or 12-cup machine with a good small-batch mode may serve you better and take up less space, while a 14-cup unit pays off mainly for larger households or regular guests.",
-  },
+  { criterion: "Real fluid-ounce capacity, not just the cup number", explanation: "Manufacturer cups are typically 5 fluid ounces, so a 14-cup machine brews about 70oz total, roughly 8.75 standard 8oz mugs. Check the reservoir capacity in ounces on the listing itself, as we did here, rather than assuming '14 cups' means 14 full mugs.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since real fluid-ounce capacity, not just the cup number affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on real fluid-ounce capacity, not just the cup number rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Minimum batch brewing quality", explanation: "Brewing only 2 to 4 cups on a machine sized for 14 can produce a weaker, over-extracted result unless the machine has a dedicated small-batch mode, like the 1-4 cup settings on the Cuisinart, Ninja, and Mr. Coffee here. Confirm a small-batch setting exists if you will not brew a full pot daily.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since minimum batch brewing quality plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of minimum batch brewing quality, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
+  { criterion: "Reservoir access and fill accuracy", explanation: "A removable reservoir, like the Ninja's 70oz tank, is easier to fill accurately at the sink than a fixed top-fill design. Check whether the reservoir has clear fill-line markings matched to its actual carafe size.\n\nBuyers who skip past reservoir access and fill accuracy tend to be the ones leaving disappointed reviews later, not because the cup coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each cup coffee makers in this roundup actually handles reservoir access and fill accuracy rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Carafe weight and pour control when full", explanation: "A full 70oz glass carafe is heavier and more prone to drips than a half-full one. Look for a no-drip spout design and a comfortable handle angle if you will regularly pour from a completely full 14-cup carafe.\n\nCarafe weight and pour control when full is easy to overlook next to flashier specs, but it's frequently the difference between a cup coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on carafe weight and pour control when full directly from the current listing before ordering, since this is one of the more common places where two similarly priced cup coffee makers options genuinely diverge." },
+  { criterion: "Countertop footprint at full size", explanation: "14-cup machines with the carafe attached commonly run 9 to 11 inches wide and deep, noticeably larger than an 8 or 10-cup unit. Measure your counter space before buying, especially under low cabinets.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since countertop footprint at full size affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on countertop footprint at full size rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether you actually need 14 cups daily", explanation: "If your household rarely brews more than 4 to 6 cups at a time, a 10-cup or 12-cup machine with a good small-batch mode may serve you better and take up less space, while a 14-cup unit pays off mainly for larger households or regular guests.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since whether you actually need 14 cups daily plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether you actually need 14 cups daily, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

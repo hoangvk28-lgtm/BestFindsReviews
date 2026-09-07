@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Heat retention at the 2-hour mark",
-    explanation:
-      "Thermal carafes generally hold noticeably more heat at 2 hours than a glass carafe sitting on a warming plate, which is actively cooling and re-cooking the coffee the whole time. The Black+Decker CM2046S and OXO both make specific claims around this window worth comparing against your actual coffee-drinking pace.",
-  },
-  {
-    criterion: "One-handed pouring and drip control",
-    explanation:
-      "Look for a spout specifically described as no-drip or designed for single-handed use, like the Black+Decker's or OXO's. Some thermal lids require a twist or button press to open the pour channel, which is harder to manage one-handed while holding a mug.",
-  },
-  {
-    criterion: "Coffee trapped in the lid",
-    explanation:
-      "Thermal carafe lids commonly trap a small amount of coffee in the internal pour channel that a simple glass carafe lid would not. This is a normal tradeoff of the insulated design, not a defect, but it means slightly more coffee left behind at the end of a pot.",
-  },
-  {
-    criterion: "Lid disassembly for cleaning",
-    explanation:
-      "Thermal lids generally have more parts, gaskets, and internal channels than a simple glass carafe lid, so budget more time for cleaning. Check whether the lid is described as dishwasher safe or requires hand washing before buying.",
-  },
-  {
-    criterion: "Replacement carafe cost and availability",
-    explanation:
-      "A cracked or lost thermal carafe can make an otherwise working machine unusable if a replacement is expensive or hard to find. Check whether replacement carafes are sold directly by the manufacturer or third parties, generally in the $25 to $40 range for the models here, before you actually need one.",
-  },
+  { criterion: "Heat retention at the 2-hour mark", explanation: "Thermal carafes generally hold noticeably more heat at 2 hours than a glass carafe sitting on a warming plate, which is actively cooling and re-cooking the coffee the whole time. The Black+Decker CM2046S and OXO both make specific claims around this window worth comparing against your actual coffee-drinking pace.\n\nGetting this wrong is one of the more common reasons a thermal carafe purchase disappoints once it actually arrives, since heat retention at the 2-hour mark affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on heat retention at the 2-hour mark rather than assuming every thermal carafe in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "One-handed pouring and drip control", explanation: "Look for a spout specifically described as no-drip or designed for single-handed use, like the Black+Decker's or OXO's. Some thermal lids require a twist or button press to open the pour channel, which is harder to manage one-handed while holding a mug.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a thermal carafe weeks after buying, since one-handed pouring and drip control plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of one-handed pouring and drip control, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the thermal carafe for a while." },
+  { criterion: "Coffee trapped in the lid", explanation: "Thermal carafe lids commonly trap a small amount of coffee in the internal pour channel that a simple glass carafe lid would not. This is a normal tradeoff of the insulated design, not a defect, but it means slightly more coffee left behind at the end of a pot.\n\nBuyers who skip past coffee trapped in the lid tend to be the ones leaving disappointed reviews later, not because the thermal carafe was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each thermal carafe in this roundup actually handles coffee trapped in the lid rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Lid disassembly for cleaning", explanation: "Thermal lids generally have more parts, gaskets, and internal channels than a simple glass carafe lid, so budget more time for cleaning. Check whether the lid is described as dishwasher safe or requires hand washing before buying.\n\nLid disassembly for cleaning is easy to overlook next to flashier specs, but it's frequently the difference between a thermal carafe that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on lid disassembly for cleaning directly from the current listing before ordering, since this is one of the more common places where two similarly priced thermal carafe options genuinely diverge." },
+  { criterion: "Replacement carafe cost and availability", explanation: "A cracked or lost thermal carafe can make an otherwise working machine unusable if a replacement is expensive or hard to find. Check whether replacement carafes are sold directly by the manufacturer or third parties, generally in the $25 to $40 range for the models here, before you actually need one.\n\nGetting this wrong is one of the more common reasons a thermal carafe purchase disappoints once it actually arrives, since replacement carafe cost and availability affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on replacement carafe cost and availability rather than assuming every thermal carafe in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

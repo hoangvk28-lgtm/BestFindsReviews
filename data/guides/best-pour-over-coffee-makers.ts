@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Results depend on your technique, not just the dripper",
-    explanation:
-      "Pour rate and grind consistency affect extraction more on a pour-over than on an automatic drip machine. Two people using the same Chemex can get noticeably different cups; budget time to practice a slow, steady pour before judging any dripper's quality.",
-  },
-  {
-    criterion: "Thermal loss during the pour",
-    explanation:
-      "None of these vessels are insulated, so water cools throughout the pour. A slow or interrupted pour lets later extraction happen at a meaningfully lower temperature, which can leave the cup underextracted. Pour steadily and avoid long pauses mid-brew.",
-  },
-  {
-    criterion: "Paper vs reusable metal filters",
-    explanation:
-      "Paper filters, whether Chemex-proprietary or standard cone-shaped like Melitta's, produce a cleaner cup but cost money on an ongoing basis. Reusable stainless filters like Cosori's and Bodum's eliminate that cost but let more sediment and oil through.",
-  },
-  {
-    criterion: "Filter availability and cost",
-    explanation:
-      "Standard cone filters are sold at most grocery stores; Chemex's proprietary filters cost more per filter and are less widely stocked. Factor this into total ownership cost if you plan to brew paper-filtered coffee daily.",
-  },
-  {
-    criterion: "Hands-on attention vs automatic brewing",
-    explanation:
-      "Pour-over demands active attention for the full brew time, typically 3 to 4 minutes of steady pouring, unlike an automatic drip machine you can walk away from. This is a real tradeoff for buyers who want simplicity over control.",
-  },
+  { criterion: "Results depend on your technique, not just the dripper", explanation: "Pour rate and grind consistency affect extraction more on a pour-over than on an automatic drip machine. Two people using the same Chemex can get noticeably different cups; budget time to practice a slow, steady pour before judging any dripper's quality.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since results depend on your technique, not just the dripper affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on results depend on your technique, not just the dripper rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Thermal loss during the pour", explanation: "None of these vessels are insulated, so water cools throughout the pour. A slow or interrupted pour lets later extraction happen at a meaningfully lower temperature, which can leave the cup underextracted. Pour steadily and avoid long pauses mid-brew.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since thermal loss during the pour plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of thermal loss during the pour, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Paper vs reusable metal filters", explanation: "Paper filters, whether Chemex-proprietary or standard cone-shaped like Melitta's, produce a cleaner cup but cost money on an ongoing basis. Reusable stainless filters like Cosori's and Bodum's eliminate that cost but let more sediment and oil through.\n\nBuyers who skip past paper vs reusable metal filters tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles paper vs reusable metal filters rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Filter availability and cost", explanation: "Standard cone filters are sold at most grocery stores; Chemex's proprietary filters cost more per filter and are less widely stocked. Factor this into total ownership cost if you plan to brew paper-filtered coffee daily.\n\nFilter availability and cost is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on filter availability and cost directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Hands-on attention vs automatic brewing", explanation: "Pour-over demands active attention for the full brew time, typically 3 to 4 minutes of steady pouring, unlike an automatic drip machine you can walk away from. This is a real tradeoff for buyers who want simplicity over control.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since hands-on attention vs automatic brewing affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on hands-on attention vs automatic brewing rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

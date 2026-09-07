@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Multiple saved maps and automatic floor recognition",
-    explanation:
-      "A robot that only stores one map will treat every new floor as unfamiliar territory and remap from scratch. Look for models that explicitly support multiple saved maps and, ideally, automatic recognition of which floor it is currently on.",
-  },
-  {
-    criterion: "Whether each floor needs its own dock or the robot needs to be carried",
-    explanation:
-      "Most robot vacuums ship with a single dock. Some buyers purchase a second dock for each additional floor, while others simply carry the robot up and down and let it start from wherever it is placed. Decide which approach fits your household before buying.",
-  },
-  {
-    criterion: "Carrying weight of the robot and removable water tanks",
-    explanation:
-      "A combo vacuum and mop unit with a full water tank is meaningfully heavier than a vacuum-only model, which matters if someone will be lifting it between floors regularly. Check whether the water tank is removable so it can be carried separately and refilled on arrival.",
-  },
-  {
-    criterion: "Recharge-and-resume limits on floors without a dock",
-    explanation:
-      "Without its dock nearby, a robot that runs low on battery mid-clean may simply stop rather than resume later. Check how each model behaves when it cannot reach a charging base on the floor it is working.",
-  },
-  {
-    criterion: "Per-floor zone and no-go settings",
-    explanation:
-      "Room layouts differ by floor, so zone restrictions and no-go lines set for one level should not carry over incorrectly to another. Confirm that zone settings are tied to each saved map rather than applied globally.",
-  },
-  {
-    criterion: "Self-empty base placement and capacity",
-    explanation:
-      "A self-empty base is only useful on the floor where it lives. On other floors, factor in how often the bin will need manual emptying, and whether a longer-capacity base reduces that burden if you only have room for one.",
-  },
+  { criterion: "Multiple saved maps and automatic floor recognition", explanation: "A robot that only stores one map will treat every new floor as unfamiliar territory and remap from scratch. Look for models that explicitly support multiple saved maps and, ideally, automatic recognition of which floor it is currently on.\n\nGetting this wrong is one of the more common reasons a multiple floors purchase disappoints once it actually arrives, since multiple saved maps and automatic floor recognition affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on multiple saved maps and automatic floor recognition rather than assuming every multiple floors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether each floor needs its own dock or the robot needs to be carried", explanation: "Most robot vacuums ship with a single dock. Some buyers purchase a second dock for each additional floor, while others simply carry the robot up and down and let it start from wherever it is placed. Decide which approach fits your household before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a multiple floors weeks after buying, since whether each floor needs its own dock or the robot needs to be carried plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether each floor needs its own dock or the robot needs to be carried, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the multiple floors for a while." },
+  { criterion: "Carrying weight of the robot and removable water tanks", explanation: "A combo vacuum and mop unit with a full water tank is meaningfully heavier than a vacuum-only model, which matters if someone will be lifting it between floors regularly. Check whether the water tank is removable so it can be carried separately and refilled on arrival.\n\nBuyers who skip past carrying weight of the robot and removable water tanks tend to be the ones leaving disappointed reviews later, not because the multiple floors was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each multiple floors in this roundup actually handles carrying weight of the robot and removable water tanks rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Recharge-and-resume limits on floors without a dock", explanation: "Without its dock nearby, a robot that runs low on battery mid-clean may simply stop rather than resume later. Check how each model behaves when it cannot reach a charging base on the floor it is working.\n\nRecharge-and-resume limits on floors without a dock is easy to overlook next to flashier specs, but it's frequently the difference between a multiple floors that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on recharge-and-resume limits on floors without a dock directly from the current listing before ordering, since this is one of the more common places where two similarly priced multiple floors options genuinely diverge." },
+  { criterion: "Per-floor zone and no-go settings", explanation: "Room layouts differ by floor, so zone restrictions and no-go lines set for one level should not carry over incorrectly to another. Confirm that zone settings are tied to each saved map rather than applied globally.\n\nGetting this wrong is one of the more common reasons a multiple floors purchase disappoints once it actually arrives, since per-floor zone and no-go settings affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on per-floor zone and no-go settings rather than assuming every multiple floors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty base placement and capacity", explanation: "A self-empty base is only useful on the floor where it lives. On other floors, factor in how often the bin will need manual emptying, and whether a longer-capacity base reduces that burden if you only have room for one.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a multiple floors weeks after buying, since self-empty base placement and capacity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty base placement and capacity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the multiple floors for a while." },
 ];
 
 export const howWeEvaluated = [

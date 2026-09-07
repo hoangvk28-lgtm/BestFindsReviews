@@ -230,36 +230,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Dock bag or bin capacity and claimed days between emptying",
-    explanation:
-      "Claimed intervals in this comparison range from no stated figure up to Lefant's 75-day and roborock's 7-to-9-week claims. These figures depend heavily on home size, floor area covered per cycle, and how much debris and pet hair your household actually generates, so treat manufacturer claims as a ceiling, not a guarantee.",
-  },
-  {
-    criterion: "Dust leakage risk during bag replacement or bin emptying",
-    explanation:
-      "Sealed-bag docks generally trap dust more effectively when you remove and replace the bag, while bagless bins like the Shark AI Ultra's HEPA base require you to empty the bin directly, which carries more exposure to fine dust. If you have allergies, this difference matters more than the capacity number.",
-  },
-  {
-    criterion: "Dock noise during evacuation",
-    explanation:
-      "The evacuation cycle, when the robot's onboard bin gets suctioned into the dock, is often the loudest moment in a robot vacuum's routine. Check current owner reviews for noise complaints specific to each model before placing a dock near a bedroom or open living space.",
-  },
-  {
-    criterion: "Clog recovery",
-    explanation:
-      "Debris can jam the tube between the robot and the dock, especially with pet hair or larger debris. Look for owner feedback on how easy each model's clog-clearing process is, since some docks require more disassembly than others to clear a stuck line.",
-  },
-  {
-    criterion: "Annual bag or filter replacement cost",
-    explanation:
-      "Sealed-bag docks require repurchasing bags over time, while bagless bins avoid that recurring cost but may need filter replacement instead. Factor this ongoing cost into the total price of ownership rather than judging models on sticker price alone.",
-  },
-  {
-    criterion: "Vacuum-only vs vacuum-and-mop mechanism complexity",
-    explanation:
-      "Combo vacuum-and-mop robots add water tanks and mop pad handling at the dock, which means more components that can eventually need service compared to a vacuum-only design like the Roomba 105 in this comparison.",
-  },
+  { criterion: "Dock bag or bin capacity and claimed days between emptying", explanation: "Claimed intervals in this comparison range from no stated figure up to Lefant's 75-day and roborock's 7-to-9-week claims. These figures depend heavily on home size, floor area covered per cycle, and how much debris and pet hair your household actually generates, so treat manufacturer claims as a ceiling, not a guarantee.\n\nGetting this wrong is one of the more common reasons a self-emptying robot vacuums purchase disappoints once it actually arrives, since dock bag or bin capacity and claimed days between emptying affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on dock bag or bin capacity and claimed days between emptying rather than assuming every self-emptying robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Dust leakage risk during bag replacement or bin emptying", explanation: "Sealed-bag docks generally trap dust more effectively when you remove and replace the bag, while bagless bins like the Shark AI Ultra's HEPA base require you to empty the bin directly, which carries more exposure to fine dust. If you have allergies, this difference matters more than the capacity number.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a self-emptying robot vacuums weeks after buying, since dust leakage risk during bag replacement or bin emptying plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of dust leakage risk during bag replacement or bin emptying, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the self-emptying robot vacuums for a while." },
+  { criterion: "Dock noise during evacuation", explanation: "The evacuation cycle, when the robot's onboard bin gets suctioned into the dock, is often the loudest moment in a robot vacuum's routine. Check current owner reviews for noise complaints specific to each model before placing a dock near a bedroom or open living space.\n\nBuyers who skip past dock noise during evacuation tend to be the ones leaving disappointed reviews later, not because the self-emptying robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each self-emptying robot vacuums in this roundup actually handles dock noise during evacuation rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Clog recovery", explanation: "Debris can jam the tube between the robot and the dock, especially with pet hair or larger debris. Look for owner feedback on how easy each model's clog-clearing process is, since some docks require more disassembly than others to clear a stuck line.\n\nClog recovery is easy to overlook next to flashier specs, but it's frequently the difference between a self-emptying robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on clog recovery directly from the current listing before ordering, since this is one of the more common places where two similarly priced self-emptying robot vacuums options genuinely diverge." },
+  { criterion: "Annual bag or filter replacement cost", explanation: "Sealed-bag docks require repurchasing bags over time, while bagless bins avoid that recurring cost but may need filter replacement instead. Factor this ongoing cost into the total price of ownership rather than judging models on sticker price alone.\n\nGetting this wrong is one of the more common reasons a self-emptying robot vacuums purchase disappoints once it actually arrives, since annual bag or filter replacement cost affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on annual bag or filter replacement cost rather than assuming every self-emptying robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Vacuum-only vs vacuum-and-mop mechanism complexity", explanation: "Combo vacuum-and-mop robots add water tanks and mop pad handling at the dock, which means more components that can eventually need service compared to a vacuum-only design like the Roomba 105 in this comparison.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a self-emptying robot vacuums weeks after buying, since vacuum-only vs vacuum-and-mop mechanism complexity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of vacuum-only vs vacuum-and-mop mechanism complexity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the self-emptying robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

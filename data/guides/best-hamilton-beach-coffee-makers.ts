@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Single-serve compatibility: pods, grounds, or neither",
-    explanation:
-      "The FrontFill and One Press are full-carafe only with no single-serve option. The 2-Way Brewer adds K-Cup pod compatibility, and the FlexBrew Trio adds both pods and grounds on the single-serve side. Match this to how you actually drink coffee day to day.",
-  },
-  {
-    criterion: "Reservoir fill access",
-    explanation:
-      "The FrontFill's front-loading reservoir is a genuine convenience if your machine sits against a wall or under a cabinet. Check whether a model requires pulling it out to refill from the back or top before placing it in a tight spot.",
-  },
-  {
-    criterion: "Dual-mode reliability tradeoff",
-    explanation:
-      "The FlexBrew Trio's added grounds compatibility on the single-serve side comes with the lowest rating of the four models here, consistent with more complex mechanisms having more that can go wrong. Weigh the added flexibility against this real reliability tradeoff.",
-  },
-  {
-    criterion: "Carafe style: glass, dispensing, or none",
-    explanation:
-      "The One Press's internal dispensing pot avoids a warming-plate taste but uses less universally available replacement parts than a standard glass carafe. Consider replacement part availability if you tend to keep machines for many years.",
-  },
-  {
-    criterion: "Price versus feature count",
-    explanation:
-      "At roughly $50 to $110 across these four models, Hamilton Beach sits at a genuinely budget-friendly tier compared to Ninja or Keurig dual-mode machines. Confirm which specific features justify moving up from the base FrontFill model for your household.",
-  },
+  { criterion: "Single-serve compatibility: pods, grounds, or neither", explanation: "The FrontFill and One Press are full-carafe only with no single-serve option. The 2-Way Brewer adds K-Cup pod compatibility, and the FlexBrew Trio adds both pods and grounds on the single-serve side. Match this to how you actually drink coffee day to day.\n\nGetting this wrong is one of the more common reasons a hamilton beach purchase disappoints once it actually arrives, since single-serve compatibility: pods, grounds, or neither affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on single-serve compatibility: pods, grounds, or neither rather than assuming every hamilton beach in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Reservoir fill access", explanation: "The FrontFill's front-loading reservoir is a genuine convenience if your machine sits against a wall or under a cabinet. Check whether a model requires pulling it out to refill from the back or top before placing it in a tight spot.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a hamilton beach weeks after buying, since reservoir fill access plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of reservoir fill access, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the hamilton beach for a while." },
+  { criterion: "Dual-mode reliability tradeoff", explanation: "The FlexBrew Trio's added grounds compatibility on the single-serve side comes with the lowest rating of the four models here, consistent with more complex mechanisms having more that can go wrong. Weigh the added flexibility against this real reliability tradeoff.\n\nBuyers who skip past dual-mode reliability tradeoff tend to be the ones leaving disappointed reviews later, not because the hamilton beach was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each hamilton beach in this roundup actually handles dual-mode reliability tradeoff rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Carafe style: glass, dispensing, or none", explanation: "The One Press's internal dispensing pot avoids a warming-plate taste but uses less universally available replacement parts than a standard glass carafe. Consider replacement part availability if you tend to keep machines for many years.\n\nCarafe style: glass, dispensing, or none is easy to overlook next to flashier specs, but it's frequently the difference between a hamilton beach that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on carafe style: glass, dispensing, or none directly from the current listing before ordering, since this is one of the more common places where two similarly priced hamilton beach options genuinely diverge." },
+  { criterion: "Price versus feature count", explanation: "At roughly $50 to $110 across these four models, Hamilton Beach sits at a genuinely budget-friendly tier compared to Ninja or Keurig dual-mode machines. Confirm which specific features justify moving up from the base FrontFill model for your household.\n\nGetting this wrong is one of the more common reasons a hamilton beach purchase disappoints once it actually arrives, since price versus feature count affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price versus feature count rather than assuming every hamilton beach in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

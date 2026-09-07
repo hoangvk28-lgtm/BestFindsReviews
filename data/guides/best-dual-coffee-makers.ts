@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Which two modes are actually being combined",
-    explanation:
-      "Confirm whether a dual model means pods-plus-grounds through one brew head, like the Ninja Pod and Grounds, or single-cup-plus-carafe through two separate mechanisms, like the K-Duo. These solve different problems, and the product page copy does not always make the distinction obvious at a glance.",
-  },
-  {
-    criterion: "Whether both modes are equally good or one is secondary",
-    explanation:
-      "On carafe-hybrid machines, check whether the carafe side is a full 12-cup drip system or a stripped-down add-on. The DualBrew Pro and K-Duo both treat the carafe side as a real feature; cheaper dual machines sometimes do not.",
-  },
-  {
-    criterion: "Combined footprint vs two separate appliances",
-    explanation:
-      "A dual machine usually takes up less total counter space than a dedicated single-serve machine plus a dedicated carafe machine, but not always less than a single well-chosen appliance if you only need one mode most of the time.",
-  },
-  {
-    criterion: "Cost per cup, by mode",
-    explanation:
-      "Pod-brewed cups typically run 45 to 75 cents each depending on the pod brand, while grounds-brewed cups from either the carafe side or a reusable filter run closer to 15 to 25 cents. If you mostly use one mode, price the machine against that mode's ongoing cost, not the machine's sticker price alone.",
-  },
-  {
-    criterion: "Failure-mode risk with two mechanisms",
-    explanation:
-      "Carafe-hybrid machines have two independent brewing systems sharing one housing, so a clogged ground-coffee funnel or a stuck carafe valve can take out one side while the other still works. Single-head pods-or-grounds machines like the Ninja Pod and Grounds have only one mechanism, which is a real reliability tradeoff worth weighing against the lack of a carafe option.",
-  },
-  {
-    criterion: "Reservoir setup",
-    explanation:
-      "Some dual machines share one reservoir between both modes, like the K-Duo's 72oz tank, while others use two separate reservoirs, like the FlexBrew Trio. A shared reservoir means fewer refills; separate reservoirs mean you can top off just the side you use most.",
-  },
+  { criterion: "Which two modes are actually being combined", explanation: "Confirm whether a dual model means pods-plus-grounds through one brew head, like the Ninja Pod and Grounds, or single-cup-plus-carafe through two separate mechanisms, like the K-Duo. These solve different problems, and the product page copy does not always make the distinction obvious at a glance.\n\nGetting this wrong is one of the more common reasons a dual coffee makers purchase disappoints once it actually arrives, since which two modes are actually being combined affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on which two modes are actually being combined rather than assuming every dual coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether both modes are equally good or one is secondary", explanation: "On carafe-hybrid machines, check whether the carafe side is a full 12-cup drip system or a stripped-down add-on. The DualBrew Pro and K-Duo both treat the carafe side as a real feature; cheaper dual machines sometimes do not.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a dual coffee makers weeks after buying, since whether both modes are equally good or one is secondary plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether both modes are equally good or one is secondary, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the dual coffee makers for a while." },
+  { criterion: "Combined footprint vs two separate appliances", explanation: "A dual machine usually takes up less total counter space than a dedicated single-serve machine plus a dedicated carafe machine, but not always less than a single well-chosen appliance if you only need one mode most of the time.\n\nBuyers who skip past combined footprint vs two separate appliances tend to be the ones leaving disappointed reviews later, not because the dual coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each dual coffee makers in this roundup actually handles combined footprint vs two separate appliances rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Cost per cup, by mode", explanation: "Pod-brewed cups typically run 45 to 75 cents each depending on the pod brand, while grounds-brewed cups from either the carafe side or a reusable filter run closer to 15 to 25 cents. If you mostly use one mode, price the machine against that mode's ongoing cost, not the machine's sticker price alone.\n\nCost per cup, by mode is easy to overlook next to flashier specs, but it's frequently the difference between a dual coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on cost per cup, by mode directly from the current listing before ordering, since this is one of the more common places where two similarly priced dual coffee makers options genuinely diverge." },
+  { criterion: "Failure-mode risk with two mechanisms", explanation: "Carafe-hybrid machines have two independent brewing systems sharing one housing, so a clogged ground-coffee funnel or a stuck carafe valve can take out one side while the other still works. Single-head pods-or-grounds machines like the Ninja Pod and Grounds have only one mechanism, which is a real reliability tradeoff worth weighing against the lack of a carafe option.\n\nGetting this wrong is one of the more common reasons a dual coffee makers purchase disappoints once it actually arrives, since failure-mode risk with two mechanisms affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on failure-mode risk with two mechanisms rather than assuming every dual coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Reservoir setup", explanation: "Some dual machines share one reservoir between both modes, like the K-Duo's 72oz tank, while others use two separate reservoirs, like the FlexBrew Trio. A shared reservoir means fewer refills; separate reservoirs mean you can top off just the side you use most.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a dual coffee makers weeks after buying, since reservoir setup plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of reservoir setup, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the dual coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "True first-pot time, including initial fill",
-    explanation:
-      "The advertised 3-minute brew time only applies once the internal tank is already hot. The very first use requires filling the tank through several cycles before it reaches temperature, so budget extra time on day one, not on every subsequent brew.",
-  },
-  {
-    criterion: "Standby electricity cost",
-    explanation:
-      "Keeping an internal tank hot around the clock draws continuous standby power, unlike a machine that only heats water when brewing. Over a year this adds a real, if modest, cost to your electricity bill that a non-Bunn drip machine would not have.",
-  },
-  {
-    criterion: "Glass carafe vs thermal carafe",
-    explanation:
-      "A glass carafe on a warming plate slowly degrades coffee flavor the longer it sits, typically noticeable after 30 to 45 minutes. A thermal carafe like the Platinum's avoids this but adds a pour-spout lid with more parts to clean.",
-  },
-  {
-    criterion: "Overflow risk with different filters",
-    explanation:
-      "Bunn's fast flow rate through the brew funnel can overflow with filters that fit loosely or grounds packed too fine. Stick to filters sized specifically for your model and avoid an ultra-fine grind if you notice slow drainage.",
-  },
-  {
-    criterion: "Warranty practicality for home use",
-    explanation:
-      "Bunn's home warranty terms are generally shorter than what you might expect from the brand's commercial reputation. Confirm the current warranty length for the specific model before assuming commercial-grade durability translates to a matching home warranty.",
-  },
+  { criterion: "True first-pot time, including initial fill", explanation: "The advertised 3-minute brew time only applies once the internal tank is already hot. The very first use requires filling the tank through several cycles before it reaches temperature, so budget extra time on day one, not on every subsequent brew.\n\nGetting this wrong is one of the more common reasons a bunn coffee makers purchase disappoints once it actually arrives, since true first-pot time, including initial fill affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on true first-pot time, including initial fill rather than assuming every bunn coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Standby electricity cost", explanation: "Keeping an internal tank hot around the clock draws continuous standby power, unlike a machine that only heats water when brewing. Over a year this adds a real, if modest, cost to your electricity bill that a non-Bunn drip machine would not have.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a bunn coffee makers weeks after buying, since standby electricity cost plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of standby electricity cost, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the bunn coffee makers for a while." },
+  { criterion: "Glass carafe vs thermal carafe", explanation: "A glass carafe on a warming plate slowly degrades coffee flavor the longer it sits, typically noticeable after 30 to 45 minutes. A thermal carafe like the Platinum's avoids this but adds a pour-spout lid with more parts to clean.\n\nBuyers who skip past glass carafe vs thermal carafe tend to be the ones leaving disappointed reviews later, not because the bunn coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each bunn coffee makers in this roundup actually handles glass carafe vs thermal carafe rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Overflow risk with different filters", explanation: "Bunn's fast flow rate through the brew funnel can overflow with filters that fit loosely or grounds packed too fine. Stick to filters sized specifically for your model and avoid an ultra-fine grind if you notice slow drainage.\n\nOverflow risk with different filters is easy to overlook next to flashier specs, but it's frequently the difference between a bunn coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on overflow risk with different filters directly from the current listing before ordering, since this is one of the more common places where two similarly priced bunn coffee makers options genuinely diverge." },
+  { criterion: "Warranty practicality for home use", explanation: "Bunn's home warranty terms are generally shorter than what you might expect from the brand's commercial reputation. Confirm the current warranty length for the specific model before assuming commercial-grade durability translates to a matching home warranty.\n\nGetting this wrong is one of the more common reasons a bunn coffee makers purchase disappoints once it actually arrives, since warranty practicality for home use affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on warranty practicality for home use rather than assuming every bunn coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

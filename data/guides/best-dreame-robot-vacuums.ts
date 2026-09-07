@@ -181,36 +181,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "High Pa suction figures do not settle pickup by themselves",
-    explanation:
-      "A 35,000Pa rating sounds decisively better than 20,000Pa, but suction numbers are measured in controlled conditions and do not always translate proportionally to real carpet and debris pickup. Check recent owner reviews for your specific flooring type rather than ranking models purely by the advertised figure.",
-  },
-  {
-    criterion: "Mop washing temperature claims",
-    explanation:
-      "Docks advertising near-boiling water for mop washing, like the L60 Ultra FE's 212°F claim, promise better hygiene, but actual water temperature at the pad can differ from the advertised figure depending on cycle length and how long water sits before use. Verify this against recent reviews rather than the spec sheet alone.",
-  },
-  {
-    criterion: "Extendable brush and mop reach into corners",
-    explanation:
-      "Several current models advertise side brushes or mop pads that extend into corners and along baseboards. This feature varies in real effectiveness by room layout, so it is worth checking whether owners with similar home layouts report genuinely cleaner corners, not just a marketing diagram.",
-  },
-  {
-    criterion: "Threshold-climbing and chassis claims",
-    explanation:
-      "Advertised climbing height for thresholds and rugs is another figure worth verifying against recent reviews, since chassis clearance claims do not always account for thicker rugs, cords, or uneven transitions between rooms.",
-  },
-  {
-    criterion: "Camera-based recognition and privacy considerations",
-    explanation:
-      "Higher-tier models like the X60 Max Ultra rely on camera-based obstacle recognition, which typically involves indoor mapping and sometimes image data tied to a companion app account. Review the privacy policy and data handling before choosing a camera-equipped model if this matters to you.",
-  },
-  {
-    criterion: "Rating and review maturity",
-    explanation:
-      "Some current listings are new enough that no verified rating or review count exists yet. Treat these listings' specs as manufacturer claims and weigh the added risk against models with an established review history, like the L40 Ultra Gen 2.",
-  },
+  { criterion: "High Pa suction figures do not settle pickup by themselves", explanation: "A 35,000Pa rating sounds decisively better than 20,000Pa, but suction numbers are measured in controlled conditions and do not always translate proportionally to real carpet and debris pickup. Check recent owner reviews for your specific flooring type rather than ranking models purely by the advertised figure.\n\nGetting this wrong is one of the more common reasons a dreame robot vacuums purchase disappoints once it actually arrives, since high pa suction figures do not settle pickup by themselves affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on high pa suction figures do not settle pickup by themselves rather than assuming every dreame robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Mop washing temperature claims", explanation: "Docks advertising near-boiling water for mop washing, like the L60 Ultra FE's 212°F claim, promise better hygiene, but actual water temperature at the pad can differ from the advertised figure depending on cycle length and how long water sits before use. Verify this against recent reviews rather than the spec sheet alone.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a dreame robot vacuums weeks after buying, since mop washing temperature claims plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of mop washing temperature claims, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the dreame robot vacuums for a while." },
+  { criterion: "Extendable brush and mop reach into corners", explanation: "Several current models advertise side brushes or mop pads that extend into corners and along baseboards. This feature varies in real effectiveness by room layout, so it is worth checking whether owners with similar home layouts report genuinely cleaner corners, not just a marketing diagram.\n\nBuyers who skip past extendable brush and mop reach into corners tend to be the ones leaving disappointed reviews later, not because the dreame robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each dreame robot vacuums in this roundup actually handles extendable brush and mop reach into corners rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Threshold-climbing and chassis claims", explanation: "Advertised climbing height for thresholds and rugs is another figure worth verifying against recent reviews, since chassis clearance claims do not always account for thicker rugs, cords, or uneven transitions between rooms.\n\nThreshold-climbing and chassis claims is easy to overlook next to flashier specs, but it's frequently the difference between a dreame robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on threshold-climbing and chassis claims directly from the current listing before ordering, since this is one of the more common places where two similarly priced dreame robot vacuums options genuinely diverge." },
+  { criterion: "Camera-based recognition and privacy considerations", explanation: "Higher-tier models like the X60 Max Ultra rely on camera-based obstacle recognition, which typically involves indoor mapping and sometimes image data tied to a companion app account. Review the privacy policy and data handling before choosing a camera-equipped model if this matters to you.\n\nGetting this wrong is one of the more common reasons a dreame robot vacuums purchase disappoints once it actually arrives, since camera-based recognition and privacy considerations affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on camera-based recognition and privacy considerations rather than assuming every dreame robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Rating and review maturity", explanation: "Some current listings are new enough that no verified rating or review count exists yet. Treat these listings' specs as manufacturer claims and weigh the added risk against models with an established review history, like the L40 Ultra Gen 2.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a dreame robot vacuums weeks after buying, since rating and review maturity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of rating and review maturity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the dreame robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

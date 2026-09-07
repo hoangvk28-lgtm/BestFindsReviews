@@ -236,36 +236,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Dock footprint and tank-access clearance",
-    explanation:
-      "In a small apartment the dock competes with furniture for wall space, and combo units with mop tanks need enough clearance in front to slide the tank out for refilling and rinsing. Measure the spot you have in mind, including the space needed to open the tank, before assuming a dock will fit.",
-  },
-  {
-    criterion: "Cord and clutter avoidance",
-    explanation:
-      "A self-charging dock that sits flush against a wall keeps a small living area looking tidy, while a loose charging cord across an open floor becomes a trip hazard in a compact layout. Favor models with a fixed, self-charging base over ones that rely on a visible cord.",
-  },
-  {
-    criterion: "Whole-cycle noise near sleeping or working areas",
-    explanation:
-      "In an open-plan apartment, the vacuum, the bed, and the desk are often the same room, so a full cleaning cycle's noise level matters more than it would in a house with separate rooms. Look for models specifically noted as quiet running rather than assuming all robot vacuums sound similar.",
-  },
-  {
-    criterion: "Low-furniture access without getting trapped",
-    explanation:
-      "Slim, low-profile bodies can slide under bed frames, sofas, and cabinet toe-kicks that trap taller robots, which matters in a small apartment where furniture is often close to the floor to save visual space. A robot that gets stuck under furniture defeats the purpose of automated cleaning.",
-  },
-  {
-    criterion: "Compact auto-empty docks vs simple docks",
-    explanation:
-      "An auto-empty dock reduces how often you empty the bin by hand, but it is almost always bulkier than a simple self-charging base. In a studio or one-bedroom, weigh that convenience against the extra floor space the larger dock will permanently occupy.",
-  },
-  {
-    criterion: "Vacuum-only vs vacuum-and-mop combo",
-    explanation:
-      "Combo units save storage space by replacing a separate mop, but they add a water tank that needs regular refilling and rinsing. If floor space for a second cleaning tool is genuinely tight, a combo unit is usually the more practical choice despite the added maintenance.",
-  },
+  { criterion: "Dock footprint and tank-access clearance", explanation: "In a small apartment the dock competes with furniture for wall space, and combo units with mop tanks need enough clearance in front to slide the tank out for refilling and rinsing. Measure the spot you have in mind, including the space needed to open the tank, before assuming a dock will fit.\n\nGetting this wrong is one of the more common reasons a small apartments purchase disappoints once it actually arrives, since dock footprint and tank-access clearance affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on dock footprint and tank-access clearance rather than assuming every small apartments in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Cord and clutter avoidance", explanation: "A self-charging dock that sits flush against a wall keeps a small living area looking tidy, while a loose charging cord across an open floor becomes a trip hazard in a compact layout. Favor models with a fixed, self-charging base over ones that rely on a visible cord.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a small apartments weeks after buying, since cord and clutter avoidance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of cord and clutter avoidance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the small apartments for a while." },
+  { criterion: "Whole-cycle noise near sleeping or working areas", explanation: "In an open-plan apartment, the vacuum, the bed, and the desk are often the same room, so a full cleaning cycle's noise level matters more than it would in a house with separate rooms. Look for models specifically noted as quiet running rather than assuming all robot vacuums sound similar.\n\nBuyers who skip past whole-cycle noise near sleeping or working areas tend to be the ones leaving disappointed reviews later, not because the small apartments was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each small apartments in this roundup actually handles whole-cycle noise near sleeping or working areas rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Low-furniture access without getting trapped", explanation: "Slim, low-profile bodies can slide under bed frames, sofas, and cabinet toe-kicks that trap taller robots, which matters in a small apartment where furniture is often close to the floor to save visual space. A robot that gets stuck under furniture defeats the purpose of automated cleaning.\n\nLow-furniture access without getting trapped is easy to overlook next to flashier specs, but it's frequently the difference between a small apartments that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on low-furniture access without getting trapped directly from the current listing before ordering, since this is one of the more common places where two similarly priced small apartments options genuinely diverge." },
+  { criterion: "Compact auto-empty docks vs simple docks", explanation: "An auto-empty dock reduces how often you empty the bin by hand, but it is almost always bulkier than a simple self-charging base. In a studio or one-bedroom, weigh that convenience against the extra floor space the larger dock will permanently occupy.\n\nGetting this wrong is one of the more common reasons a small apartments purchase disappoints once it actually arrives, since compact auto-empty docks vs simple docks affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on compact auto-empty docks vs simple docks rather than assuming every small apartments in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Vacuum-only vs vacuum-and-mop combo", explanation: "Combo units save storage space by replacing a separate mop, but they add a water tank that needs regular refilling and rinsing. If floor space for a second cleaning tool is genuinely tight, a combo unit is usually the more practical choice despite the added maintenance.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a small apartments weeks after buying, since vacuum-only vs vacuum-and-mop combo plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of vacuum-only vs vacuum-and-mop combo, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the small apartments for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Setup steps: Wi-Fi, QR codes, and account creation",
-    explanation:
-      "Some models run right out of the box with no more than a charge and a button press, while others require connecting to a home Wi-Fi network, scanning a QR code, and creating an account before they will run. If the buyer is not comfortable with that process alone, plan on a family member helping with setup the first time, or choose one of the simpler models in this guide.",
-  },
-  {
-    criterion: "Weight and force needed to lift bin or dock components",
-    explanation:
-      "Emptying a dustbin or lifting a full water tank sounds minor until grip strength or shoulder mobility becomes a factor. Self-empty docks reduce how often this task comes up at all, while lighter, smaller units are simply easier to lift regardless of how often they need attention.",
-  },
-  {
-    criterion: "Clarity of alerts and error indicators",
-    explanation:
-      "A vacuum that gets stuck under a chair or runs low on battery needs to communicate that clearly, whether through a simple light pattern, a sound, or an app notification. Models that rely only on a small app icon are harder for someone who does not check the app daily to notice in time.",
-  },
-  {
-    criterion: "How much manual maintenance remains after self-empty claims",
-    explanation:
-      "A self-empty dock handles the dustbin, but brush rolls still need occasional hair removal, filters still need periodic rinsing or replacement, and mop pads on combo units still need to be checked and washed by hand. Read past the headline feature to understand what upkeep is still required.",
-  },
-  {
-    criterion: "Caregiver remote-access options for adult children",
-    explanation:
-      "Several models can be added to a shared smart home or vacuum app, letting an adult child check cleaning history, battery status, or error alerts from another location. If remote peace of mind matters to your family, confirm the model supports multi-user or shared app access before buying.",
-  },
-  {
-    criterion: "Noise level during operation",
-    explanation:
-      "A loud vacuum running during a nap or a phone call can be more disruptive than helpful. Quieter models are worth prioritizing in a household where the vacuum will run while someone is home and resting.",
-  },
+  { criterion: "Setup steps: Wi-Fi, QR codes, and account creation", explanation: "Some models run right out of the box with no more than a charge and a button press, while others require connecting to a home Wi-Fi network, scanning a QR code, and creating an account before they will run. If the buyer is not comfortable with that process alone, plan on a family member helping with setup the first time, or choose one of the simpler models in this guide.\n\nGetting this wrong is one of the more common reasons a for seniors purchase disappoints once it actually arrives, since setup steps: wi-fi, qr codes, and account creation affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on setup steps: wi-fi, qr codes, and account creation rather than assuming every for seniors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Weight and force needed to lift bin or dock components", explanation: "Emptying a dustbin or lifting a full water tank sounds minor until grip strength or shoulder mobility becomes a factor. Self-empty docks reduce how often this task comes up at all, while lighter, smaller units are simply easier to lift regardless of how often they need attention.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for seniors weeks after buying, since weight and force needed to lift bin or dock components plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of weight and force needed to lift bin or dock components, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for seniors for a while." },
+  { criterion: "Clarity of alerts and error indicators", explanation: "A vacuum that gets stuck under a chair or runs low on battery needs to communicate that clearly, whether through a simple light pattern, a sound, or an app notification. Models that rely only on a small app icon are harder for someone who does not check the app daily to notice in time.\n\nBuyers who skip past clarity of alerts and error indicators tend to be the ones leaving disappointed reviews later, not because the for seniors was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each for seniors in this roundup actually handles clarity of alerts and error indicators rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "How much manual maintenance remains after self-empty claims", explanation: "A self-empty dock handles the dustbin, but brush rolls still need occasional hair removal, filters still need periodic rinsing or replacement, and mop pads on combo units still need to be checked and washed by hand. Read past the headline feature to understand what upkeep is still required.\n\nHow much manual maintenance remains after self-empty claims is easy to overlook next to flashier specs, but it's frequently the difference between a for seniors that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on how much manual maintenance remains after self-empty claims directly from the current listing before ordering, since this is one of the more common places where two similarly priced for seniors options genuinely diverge." },
+  { criterion: "Caregiver remote-access options for adult children", explanation: "Several models can be added to a shared smart home or vacuum app, letting an adult child check cleaning history, battery status, or error alerts from another location. If remote peace of mind matters to your family, confirm the model supports multi-user or shared app access before buying.\n\nGetting this wrong is one of the more common reasons a for seniors purchase disappoints once it actually arrives, since caregiver remote-access options for adult children affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on caregiver remote-access options for adult children rather than assuming every for seniors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Noise level during operation", explanation: "A loud vacuum running during a nap or a phone call can be more disruptive than helpful. Quieter models are worth prioritizing in a household where the vacuum will run while someone is home and resting.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for seniors weeks after buying, since noise level during operation plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of noise level during operation, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for seniors for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -236,36 +236,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Main-brush hair wrap resistance design",
-    explanation:
-      "Anti-tangle claims usually come down to roller design: comb-tooth guards that cut hair as it wraps, dual-brush setups that split debris between two rollers, or bristle-free rubber rollers that give hair less to grip onto in the first place. Check which design each listing actually describes rather than assuming every model marketed as anti-tangle uses the same mechanism.",
-  },
-  {
-    criterion: "Side-brush hair wrap resistance",
-    explanation:
-      "The side brush that sweeps debris toward the main roller is a common secondary wrap point that spec sheets rarely mention. Long hair can wind around a standard bristle side brush even on a unit with a strong anti-tangle main roller, so this is worth checking in reviews separately from the main brush claims.",
-  },
-  {
-    criterion: "Manual cleaning frequency implied by brush design",
-    explanation:
-      "No current brush design fully eliminates the need for occasional manual cleaning. Comb-tooth and bristle-free designs generally reduce how often you need to intervene compared to plain bristle rollers, but the difference is one of frequency, not elimination.",
-  },
-  {
-    criterion: "Replacement-brush cost and proprietary-comb dependence",
-    explanation:
-      "Some anti-tangle designs rely on a proprietary comb attachment or roller shape that only the original brand sells as a replacement part. Factor in what a replacement roller or comb costs and how easy it is to source before assuming the low upfront price is the full cost of ownership.",
-  },
-  {
-    criterion: "Whether anti-tangle claims hold up in recent long-hair reviews",
-    explanation:
-      "Marketing copy describes the intended design, not guaranteed real-world results. Check recent buyer reviews specifically for mentions of long hair or heavy shedding pets before buying, since that feedback is a better predictor of your actual experience than the product description alone.",
-  },
-  {
-    criterion: "Carpet agitation tradeoffs of anti-tangle brush designs",
-    explanation:
-      "Bristle-free rubber rollers and tight comb-tooth guards that resist hair wrap can sometimes agitate carpet fibers less aggressively than a traditional bristle brush. If your home is mostly carpeted, weigh this tradeoff against the hair-wrap benefit rather than assuming an anti-tangle design is strictly an upgrade for every floor type.",
-  },
+  { criterion: "Main-brush hair wrap resistance design", explanation: "Anti-tangle claims usually come down to roller design: comb-tooth guards that cut hair as it wraps, dual-brush setups that split debris between two rollers, or bristle-free rubber rollers that give hair less to grip onto in the first place. Check which design each listing actually describes rather than assuming every model marketed as anti-tangle uses the same mechanism.\n\nGetting this wrong is one of the more common reasons a anti-tangle robot vacuums purchase disappoints once it actually arrives, since main-brush hair wrap resistance design affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on main-brush hair wrap resistance design rather than assuming every anti-tangle robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Side-brush hair wrap resistance", explanation: "The side brush that sweeps debris toward the main roller is a common secondary wrap point that spec sheets rarely mention. Long hair can wind around a standard bristle side brush even on a unit with a strong anti-tangle main roller, so this is worth checking in reviews separately from the main brush claims.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a anti-tangle robot vacuums weeks after buying, since side-brush hair wrap resistance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of side-brush hair wrap resistance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the anti-tangle robot vacuums for a while." },
+  { criterion: "Manual cleaning frequency implied by brush design", explanation: "No current brush design fully eliminates the need for occasional manual cleaning. Comb-tooth and bristle-free designs generally reduce how often you need to intervene compared to plain bristle rollers, but the difference is one of frequency, not elimination.\n\nBuyers who skip past manual cleaning frequency implied by brush design tend to be the ones leaving disappointed reviews later, not because the anti-tangle robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each anti-tangle robot vacuums in this roundup actually handles manual cleaning frequency implied by brush design rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Replacement-brush cost and proprietary-comb dependence", explanation: "Some anti-tangle designs rely on a proprietary comb attachment or roller shape that only the original brand sells as a replacement part. Factor in what a replacement roller or comb costs and how easy it is to source before assuming the low upfront price is the full cost of ownership.\n\nReplacement-brush cost and proprietary-comb dependence is easy to overlook next to flashier specs, but it's frequently the difference between a anti-tangle robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on replacement-brush cost and proprietary-comb dependence directly from the current listing before ordering, since this is one of the more common places where two similarly priced anti-tangle robot vacuums options genuinely diverge." },
+  { criterion: "Whether anti-tangle claims hold up in recent long-hair reviews", explanation: "Marketing copy describes the intended design, not guaranteed real-world results. Check recent buyer reviews specifically for mentions of long hair or heavy shedding pets before buying, since that feedback is a better predictor of your actual experience than the product description alone.\n\nGetting this wrong is one of the more common reasons a anti-tangle robot vacuums purchase disappoints once it actually arrives, since whether anti-tangle claims hold up in recent long-hair reviews affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on whether anti-tangle claims hold up in recent long-hair reviews rather than assuming every anti-tangle robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Carpet agitation tradeoffs of anti-tangle brush designs", explanation: "Bristle-free rubber rollers and tight comb-tooth guards that resist hair wrap can sometimes agitate carpet fibers less aggressively than a traditional bristle brush. If your home is mostly carpeted, weigh this tradeoff against the hair-wrap benefit rather than assuming an anti-tangle design is strictly an upgrade for every floor type.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a anti-tangle robot vacuums weeks after buying, since carpet agitation tradeoffs of anti-tangle brush designs plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of carpet agitation tradeoffs of anti-tangle brush designs, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the anti-tangle robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

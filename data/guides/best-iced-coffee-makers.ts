@@ -160,31 +160,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Which iced category the machine actually belongs to",
-    explanation:
-      "Hot-over-ice, true cold brew, and pod-based iced settings produce genuinely different cups. Confirm which one you are buying rather than assuming iced means the same thing across every listing.",
-  },
-  {
-    criterion: "Whether the iced setting fights dilution",
-    explanation:
-      "A machine that brews at the same strength for hot and iced settings will taste watered down once ice melts into it. Look for listings that specifically describe a stronger brew, cooler pre-ice temperature, or reduced water ratio for the iced mode, like the K-Iced's auto temperature adjustment.",
-  },
-  {
-    criterion: "Tumbler and travel mug clearance",
-    explanation:
-      "Check the stated clearance under the spout or drip tray, commonly 6 to 7 inches on single-serve iced machines. A tall insulated tumbler may not fit even when the listing says iced-friendly.",
-  },
-  {
-    criterion: "True cold brew steep time vs rapid extraction",
-    explanation:
-      "Traditional cold brew pitchers need 12 to 24 hours in the fridge, while active extraction machines like the VINCI Express claim 10 to 25 minutes using continuous water circulation instead of passive steeping.",
-  },
-  {
-    criterion: "Cleanup versus just brewing hot and adding ice",
-    explanation:
-      "Dedicated iced machines add a drip tray, extra reservoir settings, or a separate cold brew basket to clean, on top of the machine's regular maintenance. Weigh that against simply brewing a stronger hot pot and pouring it over ice yourself.",
-  },
+  { criterion: "Which iced category the machine actually belongs to", explanation: "Hot-over-ice, true cold brew, and pod-based iced settings produce genuinely different cups. Confirm which one you are buying rather than assuming iced means the same thing across every listing.\n\nGetting this wrong is one of the more common reasons a iced coffee makers purchase disappoints once it actually arrives, since which iced category the machine actually belongs to affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on which iced category the machine actually belongs to rather than assuming every iced coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether the iced setting fights dilution", explanation: "A machine that brews at the same strength for hot and iced settings will taste watered down once ice melts into it. Look for listings that specifically describe a stronger brew, cooler pre-ice temperature, or reduced water ratio for the iced mode, like the K-Iced's auto temperature adjustment.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a iced coffee makers weeks after buying, since whether the iced setting fights dilution plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether the iced setting fights dilution, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the iced coffee makers for a while." },
+  { criterion: "Tumbler and travel mug clearance", explanation: "Check the stated clearance under the spout or drip tray, commonly 6 to 7 inches on single-serve iced machines. A tall insulated tumbler may not fit even when the listing says iced-friendly.\n\nBuyers who skip past tumbler and travel mug clearance tend to be the ones leaving disappointed reviews later, not because the iced coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each iced coffee makers in this roundup actually handles tumbler and travel mug clearance rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "True cold brew steep time vs rapid extraction", explanation: "Traditional cold brew pitchers need 12 to 24 hours in the fridge, while active extraction machines like the VINCI Express claim 10 to 25 minutes using continuous water circulation instead of passive steeping.\n\nTrue cold brew steep time vs rapid extraction is easy to overlook next to flashier specs, but it's frequently the difference between a iced coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on true cold brew steep time vs rapid extraction directly from the current listing before ordering, since this is one of the more common places where two similarly priced iced coffee makers options genuinely diverge." },
+  { criterion: "Cleanup versus just brewing hot and adding ice", explanation: "Dedicated iced machines add a drip tray, extra reservoir settings, or a separate cold brew basket to clean, on top of the machine's regular maintenance. Weigh that against simply brewing a stronger hot pot and pouring it over ice yourself.\n\nGetting this wrong is one of the more common reasons a iced coffee makers purchase disappoints once it actually arrives, since cleanup versus just brewing hot and adding ice affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on cleanup versus just brewing hot and adding ice rather than assuming every iced coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

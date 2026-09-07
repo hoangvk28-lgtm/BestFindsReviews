@@ -85,31 +85,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "SmartThings ecosystem integration value",
-    explanation:
-      "The main reason to choose Samsung over a competitor with a broader lineup is unifying control in the SmartThings app alongside other Samsung devices. If you do not already own Samsung appliances or smart-home gear, this advantage mostly disappears and a competitor's dedicated app may offer more mature scheduling and mapping features.",
-  },
-  {
-    criterion: "Account and cloud dependence",
-    explanation:
-      "Both models rely on a Samsung account and cloud connection for full app functionality, including remote start and cleaning history. If your home network or the manufacturer's servers go down, expect reduced functionality until connectivity is restored, similar to most connected robot vacuums on the market.",
-  },
-  {
-    criterion: "Camera and live-view privacy considerations",
-    explanation:
-      "The Jet Bot+ uses a camera for object recognition and navigation. As with any camera-equipped robot vacuum, consider where the unit will roam, what a compromised account could expose, and whether you are comfortable with a camera-based device moving through private rooms.",
-  },
-  {
-    criterion: "Steam or mop functionality claims",
-    explanation:
-      "Neither current Samsung model in this comparison advertises a steam mop or combo mopping function the way several competing 2026 models do. If mopping is a priority, confirm this directly on the current product listing rather than assuming feature parity with vacuum-and-mop combos from other brands.",
-  },
-  {
-    criterion: "Price vs broader competing lineups at the same tier",
-    explanation:
-      "At $399 to $530, Samsung's two models compete against a much wider field of options from Roborock, Shark, and eufy that often include self-empty bases, mopping, and more mature navigation software at similar or lower prices. Comparing Samsung to that broader field, not just to itself, gives a clearer sense of whether the SmartThings tie-in is worth the tradeoff.",
-  },
+  { criterion: "SmartThings ecosystem integration value", explanation: "The main reason to choose Samsung over a competitor with a broader lineup is unifying control in the SmartThings app alongside other Samsung devices. If you do not already own Samsung appliances or smart-home gear, this advantage mostly disappears and a competitor's dedicated app may offer more mature scheduling and mapping features.\n\nGetting this wrong is one of the more common reasons a samsung robot vacuums purchase disappoints once it actually arrives, since smartthings ecosystem integration value affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on smartthings ecosystem integration value rather than assuming every samsung robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Account and cloud dependence", explanation: "Both models rely on a Samsung account and cloud connection for full app functionality, including remote start and cleaning history. If your home network or the manufacturer's servers go down, expect reduced functionality until connectivity is restored, similar to most connected robot vacuums on the market.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a samsung robot vacuums weeks after buying, since account and cloud dependence plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of account and cloud dependence, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the samsung robot vacuums for a while." },
+  { criterion: "Camera and live-view privacy considerations", explanation: "The Jet Bot+ uses a camera for object recognition and navigation. As with any camera-equipped robot vacuum, consider where the unit will roam, what a compromised account could expose, and whether you are comfortable with a camera-based device moving through private rooms.\n\nBuyers who skip past camera and live-view privacy considerations tend to be the ones leaving disappointed reviews later, not because the samsung robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each samsung robot vacuums in this roundup actually handles camera and live-view privacy considerations rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Steam or mop functionality claims", explanation: "Neither current Samsung model in this comparison advertises a steam mop or combo mopping function the way several competing 2026 models do. If mopping is a priority, confirm this directly on the current product listing rather than assuming feature parity with vacuum-and-mop combos from other brands.\n\nSteam or mop functionality claims is easy to overlook next to flashier specs, but it's frequently the difference between a samsung robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on steam or mop functionality claims directly from the current listing before ordering, since this is one of the more common places where two similarly priced samsung robot vacuums options genuinely diverge." },
+  { criterion: "Price vs broader competing lineups at the same tier", explanation: "At $399 to $530, Samsung's two models compete against a much wider field of options from Roborock, Shark, and eufy that often include self-empty bases, mopping, and more mature navigation software at similar or lower prices. Comparing Samsung to that broader field, not just to itself, gives a clearer sense of whether the SmartThings tie-in is worth the tradeoff.\n\nGetting this wrong is one of the more common reasons a samsung robot vacuums purchase disappoints once it actually arrives, since price vs broader competing lineups at the same tier affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price vs broader competing lineups at the same tier rather than assuming every samsung robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

@@ -134,36 +134,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Confirmed real capacity, not a relabeled 12-cup unit",
-    explanation:
-      "Some listings marketed near the 10-cup range are actually 12-cup carafes with adjusted marketing copy. Check the stated ounce capacity, roughly 50oz for a genuine 10-cup machine, before assuming the cup number on the box is accurate.",
-  },
-  {
-    criterion: "Minimum batch brewing quality",
-    explanation:
-      "Brewing only 2 to 3 cups on a 10-cup machine without a small-batch setting can produce weaker coffee, since less water passes evenly over the grounds. Check whether the model has a dedicated small-batch mode if you rarely brew a full pot.",
-  },
-  {
-    criterion: "Glass vs thermal carafe",
-    explanation:
-      "A glass carafe needs an active warming plate to stay hot and cools once the machine shuts off, while a thermal carafe like the Mr. Coffee here holds heat for hours without power, at the cost of being heavier and pricier.",
-  },
-  {
-    criterion: "Reservoir access and fill accuracy",
-    explanation:
-      "Look for clear fill-line markings and easy top access, since a 50oz reservoir is large enough that inaccurate fills noticeably change brew strength and total output.",
-  },
-  {
-    criterion: "Keep-warm duration and auto shut-off",
-    explanation:
-      "Keep-warm windows in this comparison range from 2 hours on the SHARDOR and generic model to indefinite with the Mr. Coffee's thermal carafe. Match this to how long your household typically takes to finish a pot.",
-  },
-  {
-    criterion: "When an 8-cup or 12-cup alternative fits better",
-    explanation:
-      "If you consistently brew for just one or two people, an 8-cup machine uses less water and counter space; if you regularly host guests, a 12 or 14-cup machine avoids running two brew cycles back to back.",
-  },
+  { criterion: "Confirmed real capacity, not a relabeled 12-cup unit", explanation: "Some listings marketed near the 10-cup range are actually 12-cup carafes with adjusted marketing copy. Check the stated ounce capacity, roughly 50oz for a genuine 10-cup machine, before assuming the cup number on the box is accurate.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since confirmed real capacity, not a relabeled 12-cup unit affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on confirmed real capacity, not a relabeled 12-cup unit rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Minimum batch brewing quality", explanation: "Brewing only 2 to 3 cups on a 10-cup machine without a small-batch setting can produce weaker coffee, since less water passes evenly over the grounds. Check whether the model has a dedicated small-batch mode if you rarely brew a full pot.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since minimum batch brewing quality plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of minimum batch brewing quality, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
+  { criterion: "Glass vs thermal carafe", explanation: "A glass carafe needs an active warming plate to stay hot and cools once the machine shuts off, while a thermal carafe like the Mr. Coffee here holds heat for hours without power, at the cost of being heavier and pricier.\n\nBuyers who skip past glass vs thermal carafe tend to be the ones leaving disappointed reviews later, not because the cup coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each cup coffee makers in this roundup actually handles glass vs thermal carafe rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Reservoir access and fill accuracy", explanation: "Look for clear fill-line markings and easy top access, since a 50oz reservoir is large enough that inaccurate fills noticeably change brew strength and total output.\n\nReservoir access and fill accuracy is easy to overlook next to flashier specs, but it's frequently the difference between a cup coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on reservoir access and fill accuracy directly from the current listing before ordering, since this is one of the more common places where two similarly priced cup coffee makers options genuinely diverge." },
+  { criterion: "Keep-warm duration and auto shut-off", explanation: "Keep-warm windows in this comparison range from 2 hours on the SHARDOR and generic model to indefinite with the Mr. Coffee's thermal carafe. Match this to how long your household typically takes to finish a pot.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since keep-warm duration and auto shut-off affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on keep-warm duration and auto shut-off rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "When an 8-cup or 12-cup alternative fits better", explanation: "If you consistently brew for just one or two people, an 8-cup machine uses less water and counter space; if you regularly host guests, a 12 or 14-cup machine avoids running two brew cycles back to back.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since when an 8-cup or 12-cup alternative fits better plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of when an 8-cup or 12-cup alternative fits better, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Power source determines where it can actually be used",
-    explanation:
-      "Three of these four models need a standard wall outlet and simply will not work in a car, tent, or plane without an inverter. Only the self-heating battery model works fully off-grid. Confirm power source before assuming any portable coffee maker fits your specific trip.",
-  },
-  {
-    criterion: "Packed weight and kit size, including accessories",
-    explanation:
-      "A machine that includes a travel mug, like the Elite Gourmet, adds convenience but also packed volume compared to bringing your own cup. Factor in pods, filters, or capsules you need to pack alongside the machine, not just the machine's own weight.",
-  },
-  {
-    criterion: "Leak resistance in a packed bag",
-    explanation:
-      "Open-reservoir electric drip machines have more spill risk in transit than sealed-capsule or single-fill designs. If you are packing a machine in a bag rather than setting it up once in a hotel room, prioritize models with no standing water tank.",
-  },
-  {
-    criterion: "Cleanup without a sink",
-    explanation:
-      "Camping and car settings often mean no sink is available. Models with a simple puck or capsule to dispose of are easier to clean on the road than ones with a reusable filter basket that needs rinsing.",
-  },
-  {
-    criterion: "Manual, battery, or outlet-dependent, not interchangeable categories",
-    explanation:
-      "A wall-outlet drip machine, a battery-powered self-heating unit, and a fully manual device solve different portability problems. Match the category to your actual destination rather than assuming any compact machine will work anywhere.",
-  },
+  { criterion: "Power source determines where it can actually be used", explanation: "Three of these four models need a standard wall outlet and simply will not work in a car, tent, or plane without an inverter. Only the self-heating battery model works fully off-grid. Confirm power source before assuming any portable coffee maker fits your specific trip.\n\nGetting this wrong is one of the more common reasons a coffee makers portable purchase disappoints once it actually arrives, since power source determines where it can actually be used affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on power source determines where it can actually be used rather than assuming every coffee makers portable in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Packed weight and kit size, including accessories", explanation: "A machine that includes a travel mug, like the Elite Gourmet, adds convenience but also packed volume compared to bringing your own cup. Factor in pods, filters, or capsules you need to pack alongside the machine, not just the machine's own weight.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers portable weeks after buying, since packed weight and kit size, including accessories plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of packed weight and kit size, including accessories, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers portable for a while." },
+  { criterion: "Leak resistance in a packed bag", explanation: "Open-reservoir electric drip machines have more spill risk in transit than sealed-capsule or single-fill designs. If you are packing a machine in a bag rather than setting it up once in a hotel room, prioritize models with no standing water tank.\n\nBuyers who skip past leak resistance in a packed bag tend to be the ones leaving disappointed reviews later, not because the coffee makers portable was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers portable in this roundup actually handles leak resistance in a packed bag rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Cleanup without a sink", explanation: "Camping and car settings often mean no sink is available. Models with a simple puck or capsule to dispose of are easier to clean on the road than ones with a reusable filter basket that needs rinsing.\n\nCleanup without a sink is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers portable that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on cleanup without a sink directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers portable options genuinely diverge." },
+  { criterion: "Manual, battery, or outlet-dependent, not interchangeable categories", explanation: "A wall-outlet drip machine, a battery-powered self-heating unit, and a fully manual device solve different portability problems. Match the category to your actual destination rather than assuming any compact machine will work anywhere.\n\nGetting this wrong is one of the more common reasons a coffee makers portable purchase disappoints once it actually arrives, since manual, battery, or outlet-dependent, not interchangeable categories affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on manual, battery, or outlet-dependent, not interchangeable categories rather than assuming every coffee makers portable in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Mop pad or roller wash cleanliness",
-    explanation:
-      "Docks rinse mop pads or rollers differently. Roller-style systems like eufy's HydroJet tend to flush debris more thoroughly around the full cylinder, while flat spinning or vibrating pads rely on a tray scraper and rinse water hitting one face. Check owner reviews specifically for how clean the pad looks after a wash cycle, not just whether a wash cycle exists.",
-  },
-  {
-    criterion: "Wash water temperature claims",
-    explanation:
-      "Some docks list a hot-water wash for the mop pad, which manufacturers generally market as better at cutting through grease and grime than a cold rinse. Treat advertised temperatures as a starting point and look at what actual owners report about residue and smell after repeated cycles, since real-world results vary by water hardness and how often the tank is cleaned.",
-  },
-  {
-    criterion: "Drying moisture and odor risk",
-    explanation:
-      "A mop pad left damp between cleaning cycles is the most common source of musty odor in these systems. Models with a dedicated hot-dry cycle, like the Roomba 505X, are built specifically to address this, while models without one rely more on you removing and air-drying the pad yourself.",
-  },
-  {
-    criterion: "Tray and tank manual cleaning still required",
-    explanation:
-      "No dock fully eliminates manual maintenance. Clean water tanks, dirty water tanks, and dust bins still need periodic hand cleaning even on the most automated models, typically every one to two weeks depending on use. Budget models generally require more frequent manual attention than premium docks.",
-  },
-  {
-    criterion: "Roller vs spinning-pad vs vibrating-pad mechanism",
-    explanation:
-      "Roller mops (eufy C28) tend to self-clean most thoroughly but add mechanical complexity. Spinning pads (Roomba 505X) scrub in circular motion and often lift automatically off carpet. Vibrating or fixed pads found on many budget combos are simpler but generally rely more on downward pressure than active agitation to lift dried-on residue.",
-  },
-  {
-    criterion: "Suction rating vs actual pickup",
-    explanation:
-      "Suction figures in Pascals vary widely across this comparison, from 5,200Pa to 25,000Pa, but a higher number does not automatically mean better real-world pickup on every floor type. Weigh suction rating alongside brush design and reviewer feedback on pet hair or debris specific to your home.",
-  },
+  { criterion: "Mop pad or roller wash cleanliness", explanation: "Docks rinse mop pads or rollers differently. Roller-style systems like eufy's HydroJet tend to flush debris more thoroughly around the full cylinder, while flat spinning or vibrating pads rely on a tray scraper and rinse water hitting one face. Check owner reviews specifically for how clean the pad looks after a wash cycle, not just whether a wash cycle exists.\n\nGetting this wrong is one of the more common reasons a vacuum mops purchase disappoints once it actually arrives, since mop pad or roller wash cleanliness affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on mop pad or roller wash cleanliness rather than assuming every vacuum mops in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Wash water temperature claims", explanation: "Some docks list a hot-water wash for the mop pad, which manufacturers generally market as better at cutting through grease and grime than a cold rinse. Treat advertised temperatures as a starting point and look at what actual owners report about residue and smell after repeated cycles, since real-world results vary by water hardness and how often the tank is cleaned.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a vacuum mops weeks after buying, since wash water temperature claims plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of wash water temperature claims, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the vacuum mops for a while." },
+  { criterion: "Drying moisture and odor risk", explanation: "A mop pad left damp between cleaning cycles is the most common source of musty odor in these systems. Models with a dedicated hot-dry cycle, like the Roomba 505X, are built specifically to address this, while models without one rely more on you removing and air-drying the pad yourself.\n\nBuyers who skip past drying moisture and odor risk tend to be the ones leaving disappointed reviews later, not because the vacuum mops was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each vacuum mops in this roundup actually handles drying moisture and odor risk rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Tray and tank manual cleaning still required", explanation: "No dock fully eliminates manual maintenance. Clean water tanks, dirty water tanks, and dust bins still need periodic hand cleaning even on the most automated models, typically every one to two weeks depending on use. Budget models generally require more frequent manual attention than premium docks.\n\nTray and tank manual cleaning still required is easy to overlook next to flashier specs, but it's frequently the difference between a vacuum mops that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on tray and tank manual cleaning still required directly from the current listing before ordering, since this is one of the more common places where two similarly priced vacuum mops options genuinely diverge." },
+  { criterion: "Roller vs spinning-pad vs vibrating-pad mechanism", explanation: "Roller mops (eufy C28) tend to self-clean most thoroughly but add mechanical complexity. Spinning pads (Roomba 505X) scrub in circular motion and often lift automatically off carpet. Vibrating or fixed pads found on many budget combos are simpler but generally rely more on downward pressure than active agitation to lift dried-on residue.\n\nGetting this wrong is one of the more common reasons a vacuum mops purchase disappoints once it actually arrives, since roller vs spinning-pad vs vibrating-pad mechanism affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on roller vs spinning-pad vs vibrating-pad mechanism rather than assuming every vacuum mops in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction rating vs actual pickup", explanation: "Suction figures in Pascals vary widely across this comparison, from 5,200Pa to 25,000Pa, but a higher number does not automatically mean better real-world pickup on every floor type. Weigh suction rating alongside brush design and reviewer feedback on pet hair or debris specific to your home.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a vacuum mops weeks after buying, since suction rating vs actual pickup plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction rating vs actual pickup, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the vacuum mops for a while." },
 ];
 
 export const howWeEvaluated = [

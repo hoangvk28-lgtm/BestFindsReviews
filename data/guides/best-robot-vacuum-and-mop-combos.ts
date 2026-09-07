@@ -228,36 +228,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Judge vacuum and mop performance separately",
-    explanation:
-      "A high suction rating tells you about vacuuming, not mopping, and vice versa. A model that leads on suction, like the eufy C28 at 15,000Pa, is not automatically the best mopper, and a model built around a mopping feature, like the Qrevo S5V's FlexiArm edge mopping, is not automatically the strongest vacuum. Check both aspects independently rather than assuming one implies the other.",
-  },
-  {
-    criterion: "Mop lift on carpet is a distinct feature",
-    explanation:
-      "Having a mop attachment is not the same as the mop automatically lifting clear of carpet. If your home has carpet the robot will cross regularly, confirm auto-lift specifically in the current listing rather than assuming any combo handles the transition well.",
-  },
-  {
-    criterion: "Self-empty docks reduce, not eliminate, maintenance",
-    explanation:
-      "Even the more automated docks in this comparison, like the eufy Omni C20, still need the clean water tank refilled, the dirty water tank emptied, and detergent topped off on a regular basis. Budget for that ongoing routine rather than expecting a fully hands-off system.",
-  },
-  {
-    criterion: "Suction power vs price tier",
-    explanation:
-      "Suction ratings in this comparison range from 5000Pa on the least expensive models up to 15,000Pa on the eufy C28. Higher suction generally costs more, but the roborock Q7 L5's 8,000Pa at a budget-tier price shows the relationship isn't perfectly linear, so compare suction-per-dollar rather than assuming price alone tracks performance.",
-  },
-  {
-    criterion: "Water tank and detergent handling",
-    explanation:
-      "Combo docks vary in how they manage clean and dirty water, from simple manual tanks on budget models to automated fill-and-drain systems on premium docks. This affects how often you interact with the dock day to day, separate from how well the robot itself cleans.",
-  },
-  {
-    criterion: "App and navigation quality",
-    explanation:
-      "LiDAR-based navigation, like the Roomba 105 Combo uses, tends to produce more consistent room mapping than budget models relying on simpler navigation. Better mapping generally means more efficient cleaning paths and fewer missed or repeated areas.",
-  },
+  { criterion: "Judge vacuum and mop performance separately", explanation: "A high suction rating tells you about vacuuming, not mopping, and vice versa. A model that leads on suction, like the eufy C28 at 15,000Pa, is not automatically the best mopper, and a model built around a mopping feature, like the Qrevo S5V's FlexiArm edge mopping, is not automatically the strongest vacuum. Check both aspects independently rather than assuming one implies the other.\n\nGetting this wrong is one of the more common reasons a mop combos purchase disappoints once it actually arrives, since judge vacuum and mop performance separately affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on judge vacuum and mop performance separately rather than assuming every mop combos in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Mop lift on carpet is a distinct feature", explanation: "Having a mop attachment is not the same as the mop automatically lifting clear of carpet. If your home has carpet the robot will cross regularly, confirm auto-lift specifically in the current listing rather than assuming any combo handles the transition well.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a mop combos weeks after buying, since mop lift on carpet is a distinct feature plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of mop lift on carpet is a distinct feature, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the mop combos for a while." },
+  { criterion: "Self-empty docks reduce, not eliminate, maintenance", explanation: "Even the more automated docks in this comparison, like the eufy Omni C20, still need the clean water tank refilled, the dirty water tank emptied, and detergent topped off on a regular basis. Budget for that ongoing routine rather than expecting a fully hands-off system.\n\nBuyers who skip past self-empty docks reduce, not eliminate, maintenance tend to be the ones leaving disappointed reviews later, not because the mop combos was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each mop combos in this roundup actually handles self-empty docks reduce, not eliminate, maintenance rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Suction power vs price tier", explanation: "Suction ratings in this comparison range from 5000Pa on the least expensive models up to 15,000Pa on the eufy C28. Higher suction generally costs more, but the roborock Q7 L5's 8,000Pa at a budget-tier price shows the relationship isn't perfectly linear, so compare suction-per-dollar rather than assuming price alone tracks performance.\n\nSuction power vs price tier is easy to overlook next to flashier specs, but it's frequently the difference between a mop combos that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on suction power vs price tier directly from the current listing before ordering, since this is one of the more common places where two similarly priced mop combos options genuinely diverge." },
+  { criterion: "Water tank and detergent handling", explanation: "Combo docks vary in how they manage clean and dirty water, from simple manual tanks on budget models to automated fill-and-drain systems on premium docks. This affects how often you interact with the dock day to day, separate from how well the robot itself cleans.\n\nGetting this wrong is one of the more common reasons a mop combos purchase disappoints once it actually arrives, since water tank and detergent handling affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on water tank and detergent handling rather than assuming every mop combos in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "App and navigation quality", explanation: "LiDAR-based navigation, like the Roomba 105 Combo uses, tends to produce more consistent room mapping than budget models relying on simpler navigation. Better mapping generally means more efficient cleaning paths and fewer missed or repeated areas.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a mop combos weeks after buying, since app and navigation quality plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of app and navigation quality, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the mop combos for a while." },
 ];
 
 export const howWeEvaluated = [

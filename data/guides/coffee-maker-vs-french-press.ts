@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Coffee-to-water ratio as a baseline",
-    explanation:
-      "As a rough comparison point, both methods work well around 1 to 2 tablespoons of ground coffee per 6oz of water, roughly a 1:15 to 1:17 ratio. French press typically uses a coarser grind at the higher end of that ratio for full immersion brewing, while drip machines work well across a wider grind range since water passes through once rather than steeping.",
-  },
-  {
-    criterion: "Brew time",
-    explanation:
-      "A French press steeps for about 4 minutes plus a minute or two to plunge and pour, so figure 5 to 6 minutes hands-on. A programmable drip machine like the BLACK+DECKER can be set the night before and requires zero active minutes the next morning, even though the brew cycle itself takes 5 to 10 minutes.",
-  },
-  {
-    criterion: "Cleanup effort",
-    explanation:
-      "French press cleanup means hand-washing the mesh filter and disposing of wet grounds every time, since the filter mechanism is not dishwasher-safe on most models. A drip machine's paper filter and grounds go straight in the trash with the basket, and the carafe and basket are typically dishwasher safe.",
-  },
-  {
-    criterion: "First-year cost estimate",
-    explanation:
-      "A daily drip habit runs roughly $15 to $25 per year in paper filters plus a few dollars in electricity, on top of the $30 to $90 machine price for the two picks here. A French press has zero filter or electricity cost after purchase, so the $25 to $40 upfront price is close to the full first-year cost, offset only by slightly more grounds used per cup with full-immersion brewing.",
-  },
-  {
-    criterion: "Hands-off routine vs manual control",
-    explanation:
-      "A drip machine is the better fit for a household that wants coffee ready automatically with no attention, especially with a 24-hour programmable timer. A French press is the better fit for someone who wants direct control over strength and steep time and does not mind a few minutes of hands-on process each morning.",
-  },
-  {
-    criterion: "Plastic parts and materials",
-    explanation:
-      "Drip machines generally include plastic reservoirs, filter baskets, and housings. Both French presses in this comparison use glass or steel with metal filtration, which some buyers prefer for fewer plastic parts in contact with hot water.",
-  },
+  { criterion: "Coffee-to-water ratio as a baseline", explanation: "As a rough comparison point, both methods work well around 1 to 2 tablespoons of ground coffee per 6oz of water, roughly a 1:15 to 1:17 ratio. French press typically uses a coarser grind at the higher end of that ratio for full immersion brewing, while drip machines work well across a wider grind range since water passes through once rather than steeping.\n\nGetting this wrong is one of the more common reasons a french press purchase disappoints once it actually arrives, since coffee-to-water ratio as a baseline affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on coffee-to-water ratio as a baseline rather than assuming every french press in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Brew time", explanation: "A French press steeps for about 4 minutes plus a minute or two to plunge and pour, so figure 5 to 6 minutes hands-on. A programmable drip machine like the BLACK+DECKER can be set the night before and requires zero active minutes the next morning, even though the brew cycle itself takes 5 to 10 minutes.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a french press weeks after buying, since brew time plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of brew time, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the french press for a while." },
+  { criterion: "Cleanup effort", explanation: "French press cleanup means hand-washing the mesh filter and disposing of wet grounds every time, since the filter mechanism is not dishwasher-safe on most models. A drip machine's paper filter and grounds go straight in the trash with the basket, and the carafe and basket are typically dishwasher safe.\n\nBuyers who skip past cleanup effort tend to be the ones leaving disappointed reviews later, not because the french press was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each french press in this roundup actually handles cleanup effort rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "First-year cost estimate", explanation: "A daily drip habit runs roughly $15 to $25 per year in paper filters plus a few dollars in electricity, on top of the $30 to $90 machine price for the two picks here. A French press has zero filter or electricity cost after purchase, so the $25 to $40 upfront price is close to the full first-year cost, offset only by slightly more grounds used per cup with full-immersion brewing.\n\nFirst-year cost estimate is easy to overlook next to flashier specs, but it's frequently the difference between a french press that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on first-year cost estimate directly from the current listing before ordering, since this is one of the more common places where two similarly priced french press options genuinely diverge." },
+  { criterion: "Hands-off routine vs manual control", explanation: "A drip machine is the better fit for a household that wants coffee ready automatically with no attention, especially with a 24-hour programmable timer. A French press is the better fit for someone who wants direct control over strength and steep time and does not mind a few minutes of hands-on process each morning.\n\nGetting this wrong is one of the more common reasons a french press purchase disappoints once it actually arrives, since hands-off routine vs manual control affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on hands-off routine vs manual control rather than assuming every french press in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Plastic parts and materials", explanation: "Drip machines generally include plastic reservoirs, filter baskets, and housings. Both French presses in this comparison use glass or steel with metal filtration, which some buyers prefer for fewer plastic parts in contact with hot water.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a french press weeks after buying, since plastic parts and materials plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of plastic parts and materials, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the french press for a while." },
 ];
 
 export const howWeEvaluated = [

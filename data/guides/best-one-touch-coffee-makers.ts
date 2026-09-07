@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "A strict definition of one-touch",
-    explanation:
-      "Count one action after water and coffee or pods are already loaded. If getting your actual drink requires selecting a froth level, filling a separate milk reservoir, or choosing a size on top of that, the machine is not fully one-touch for that drink, even if the base brew button is.",
-  },
-  {
-    criterion: "Milk and size-change actions counted separately",
-    explanation:
-      "On the Mr. Coffee CoffeeHouse+, a straight espresso shot is genuinely one touch, but a latte requires filling the milk reservoir and selecting froth level as separate steps. Evaluate the specific drink you actually want, not the machine's best-case claim.",
-  },
-  {
-    criterion: "Cleaning and shutdown steps",
-    explanation:
-      "A keep-warm plate that must be manually switched off, as on the Gourmia, or a milk system that needs its own cleaning cycle, as on the Mr. Coffee, adds actions beyond the core one-touch brew that are easy to overlook when comparing specs.",
-  },
-  {
-    criterion: "Repeat-use consistency",
-    explanation:
-      "Check whether the machine returns to a ready state automatically between uses or requires resetting a mode each time. Simpler single-function machines like the Gourmia and Bonavita reset to ready automatically; multi-drink machines may require reselecting a mode.",
-  },
-  {
-    criterion: "Cost against added automation",
-    explanation:
-      "More automation, like an automatic milk frother, adds real convenience but also cost and more components that can fail. Weigh the roughly $170 price gap between the Gourmia and the Mr. Coffee CoffeeHouse+ against how often you actually want milk-based drinks.",
-  },
+  { criterion: "A strict definition of one-touch", explanation: "Count one action after water and coffee or pods are already loaded. If getting your actual drink requires selecting a froth level, filling a separate milk reservoir, or choosing a size on top of that, the machine is not fully one-touch for that drink, even if the base brew button is.\n\nGetting this wrong is one of the more common reasons a one-touch coffee makers purchase disappoints once it actually arrives, since a strict definition of one-touch affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on a strict definition of one-touch rather than assuming every one-touch coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Milk and size-change actions counted separately", explanation: "On the Mr. Coffee CoffeeHouse+, a straight espresso shot is genuinely one touch, but a latte requires filling the milk reservoir and selecting froth level as separate steps. Evaluate the specific drink you actually want, not the machine's best-case claim.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a one-touch coffee makers weeks after buying, since milk and size-change actions counted separately plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of milk and size-change actions counted separately, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the one-touch coffee makers for a while." },
+  { criterion: "Cleaning and shutdown steps", explanation: "A keep-warm plate that must be manually switched off, as on the Gourmia, or a milk system that needs its own cleaning cycle, as on the Mr. Coffee, adds actions beyond the core one-touch brew that are easy to overlook when comparing specs.\n\nBuyers who skip past cleaning and shutdown steps tend to be the ones leaving disappointed reviews later, not because the one-touch coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each one-touch coffee makers in this roundup actually handles cleaning and shutdown steps rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Repeat-use consistency", explanation: "Check whether the machine returns to a ready state automatically between uses or requires resetting a mode each time. Simpler single-function machines like the Gourmia and Bonavita reset to ready automatically; multi-drink machines may require reselecting a mode.\n\nRepeat-use consistency is easy to overlook next to flashier specs, but it's frequently the difference between a one-touch coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on repeat-use consistency directly from the current listing before ordering, since this is one of the more common places where two similarly priced one-touch coffee makers options genuinely diverge." },
+  { criterion: "Cost against added automation", explanation: "More automation, like an automatic milk frother, adds real convenience but also cost and more components that can fail. Weigh the roughly $170 price gap between the Gourmia and the Mr. Coffee CoffeeHouse+ against how often you actually want milk-based drinks.\n\nGetting this wrong is one of the more common reasons a one-touch coffee makers purchase disappoints once it actually arrives, since cost against added automation affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on cost against added automation rather than assuming every one-touch coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

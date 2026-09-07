@@ -235,31 +235,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Main and side brush hair-wrap resistance",
-    explanation:
-      "Long pet hair wrapping around a spinning brush roll is the single most common complaint in robot vacuum reviews from pet owners. Look for tangle-resistant brush designs, like ILIFE's tangle-free suction approach, if you have a long-haired cat or dog and want to avoid frequent manual brush cleaning.",
-  },
-  {
-    criterion: "Self-empty dock capacity for dense hair",
-    explanation:
-      "Pet hair packs more densely than household dust, so a dock rated for 30 days of general debris may fill faster with hair alone. Multi-pet households benefit most from the higher-capacity docks in this comparison, like the 7 to 9 week rated roborock Q7 M5+.",
-  },
-  {
-    criterion: "Pet-waste avoidance",
-    explanation:
-      "A robot vacuum that drives through a fresh accident and tracks it across every room is a real risk in pet households. Models with strong obstacle detection and app-based no-go zones let you block off litter boxes and known accident-prone areas in advance.",
-  },
-  {
-    criterion: "Allergen and dander filtration",
-    explanation:
-      "HEPA-rated filtration is aimed at capturing pet dander and fine allergens, not just visible hair, which matters more for households managing pet allergies than raw suction power alone.",
-  },
-  {
-    criterion: "Noise level around pets",
-    explanation:
-      "Some pets are startled by robot vacuums, especially ones running at high suction settings. Buyers commonly report that lower suction modes are noticeably quieter, so a model with adjustable suction can help ease a nervous pet into accepting the vacuum over time.",
-  },
+  { criterion: "Main and side brush hair-wrap resistance", explanation: "Long pet hair wrapping around a spinning brush roll is the single most common complaint in robot vacuum reviews from pet owners. Look for tangle-resistant brush designs, like ILIFE's tangle-free suction approach, if you have a long-haired cat or dog and want to avoid frequent manual brush cleaning.\n\nGetting this wrong is one of the more common reasons a pet hair purchase disappoints once it actually arrives, since main and side brush hair-wrap resistance affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on main and side brush hair-wrap resistance rather than assuming every pet hair in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty dock capacity for dense hair", explanation: "Pet hair packs more densely than household dust, so a dock rated for 30 days of general debris may fill faster with hair alone. Multi-pet households benefit most from the higher-capacity docks in this comparison, like the 7 to 9 week rated roborock Q7 M5+.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a pet hair weeks after buying, since self-empty dock capacity for dense hair plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty dock capacity for dense hair, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the pet hair for a while." },
+  { criterion: "Pet-waste avoidance", explanation: "A robot vacuum that drives through a fresh accident and tracks it across every room is a real risk in pet households. Models with strong obstacle detection and app-based no-go zones let you block off litter boxes and known accident-prone areas in advance.\n\nBuyers who skip past pet-waste avoidance tend to be the ones leaving disappointed reviews later, not because the pet hair was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each pet hair in this roundup actually handles pet-waste avoidance rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Allergen and dander filtration", explanation: "HEPA-rated filtration is aimed at capturing pet dander and fine allergens, not just visible hair, which matters more for households managing pet allergies than raw suction power alone.\n\nAllergen and dander filtration is easy to overlook next to flashier specs, but it's frequently the difference between a pet hair that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on allergen and dander filtration directly from the current listing before ordering, since this is one of the more common places where two similarly priced pet hair options genuinely diverge." },
+  { criterion: "Noise level around pets", explanation: "Some pets are startled by robot vacuums, especially ones running at high suction settings. Buyers commonly report that lower suction modes are noticeably quieter, so a model with adjustable suction can help ease a nervous pet into accepting the vacuum over time.\n\nGetting this wrong is one of the more common reasons a pet hair purchase disappoints once it actually arrives, since noise level around pets affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on noise level around pets rather than assuming every pet hair in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

@@ -210,36 +210,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Suction tier vs price jump",
-    explanation:
-      "Roborock's lineup spans the budget Q-series at 8,000 to 10,000Pa, the mid-to-upper Qrevo series around 18,500Pa, and the flagship Saros series at 22,000Pa. Pa figures alone don't determine real-world pickup, though, so weigh suction tier against navigation type and dock features rather than chasing the highest number available.",
-  },
-  {
-    criterion: "Navigation type vs obstacle avoidance",
-    explanation:
-      "Every model in this comparison uses LiDAR-based mapping, which is about navigation accuracy, not the same thing as obstacle avoidance for small objects like cords or pet waste. That distinction is worth checking separately in recent reviews if a household has pets or loose cables on the floor.",
-  },
-  {
-    criterion: "Self-empty dock interval",
-    explanation:
-      "Self-empty intervals range from none on the entry-level Q7 L5 to up to 7 to 9 weeks on the Q7 M5+. A longer interval means less frequent bag changes, but it is not available on the cheapest models in the lineup.",
-  },
-  {
-    criterion: "Mop lifting on mixed flooring",
-    explanation:
-      "Households with both hard floors and carpet should confirm whether a model automatically lifts its mop pad on carpet. Models without this can drag a wet pad across rugs, which is a real daily annoyance rather than a minor spec difference.",
-  },
-  {
-    criterion: "Premium dock maintenance tradeoff",
-    explanation:
-      "Premium docks with hot water wash or auto-refill functions reduce daily hands-on work, but they add real ongoing maintenance in detergent refills and periodic tray cleaning. Factor that upkeep into the decision rather than assuming a premium dock is maintenance-free.",
-  },
-  {
-    criterion: "Price tier jump between series",
-    explanation:
-      "The step from the Q-series to Qrevo roughly doubles the price, and the step from Qrevo to Saros roughly doubles it again. Decide which tier's features actually matter for your home before assuming the next tier up is worth the jump.",
-  },
+  { criterion: "Suction tier vs price jump", explanation: "Roborock's lineup spans the budget Q-series at 8,000 to 10,000Pa, the mid-to-upper Qrevo series around 18,500Pa, and the flagship Saros series at 22,000Pa. Pa figures alone don't determine real-world pickup, though, so weigh suction tier against navigation type and dock features rather than chasing the highest number available.\n\nGetting this wrong is one of the more common reasons a roborock robot vacuums purchase disappoints once it actually arrives, since suction tier vs price jump affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on suction tier vs price jump rather than assuming every roborock robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Navigation type vs obstacle avoidance", explanation: "Every model in this comparison uses LiDAR-based mapping, which is about navigation accuracy, not the same thing as obstacle avoidance for small objects like cords or pet waste. That distinction is worth checking separately in recent reviews if a household has pets or loose cables on the floor.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a roborock robot vacuums weeks after buying, since navigation type vs obstacle avoidance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of navigation type vs obstacle avoidance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the roborock robot vacuums for a while." },
+  { criterion: "Self-empty dock interval", explanation: "Self-empty intervals range from none on the entry-level Q7 L5 to up to 7 to 9 weeks on the Q7 M5+. A longer interval means less frequent bag changes, but it is not available on the cheapest models in the lineup.\n\nBuyers who skip past self-empty dock interval tend to be the ones leaving disappointed reviews later, not because the roborock robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each roborock robot vacuums in this roundup actually handles self-empty dock interval rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Mop lifting on mixed flooring", explanation: "Households with both hard floors and carpet should confirm whether a model automatically lifts its mop pad on carpet. Models without this can drag a wet pad across rugs, which is a real daily annoyance rather than a minor spec difference.\n\nMop lifting on mixed flooring is easy to overlook next to flashier specs, but it's frequently the difference between a roborock robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on mop lifting on mixed flooring directly from the current listing before ordering, since this is one of the more common places where two similarly priced roborock robot vacuums options genuinely diverge." },
+  { criterion: "Premium dock maintenance tradeoff", explanation: "Premium docks with hot water wash or auto-refill functions reduce daily hands-on work, but they add real ongoing maintenance in detergent refills and periodic tray cleaning. Factor that upkeep into the decision rather than assuming a premium dock is maintenance-free.\n\nGetting this wrong is one of the more common reasons a roborock robot vacuums purchase disappoints once it actually arrives, since premium dock maintenance tradeoff affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on premium dock maintenance tradeoff rather than assuming every roborock robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Price tier jump between series", explanation: "The step from the Q-series to Qrevo roughly doubles the price, and the step from Qrevo to Saros roughly doubles it again. Decide which tier's features actually matter for your home before assuming the next tier up is worth the jump.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a roborock robot vacuums weeks after buying, since price tier jump between series plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of price tier jump between series, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the roborock robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

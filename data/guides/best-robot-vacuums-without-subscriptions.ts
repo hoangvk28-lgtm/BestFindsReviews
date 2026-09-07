@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Confirm core cleaning needs no monthly fee",
-    explanation:
-      "Before buying, check the current listing or manufacturer page to confirm that basic vacuuming, room mapping, and scheduling work fully without a paid account tier. On nearly every current model this is true, but policies can change, so it is worth a quick check rather than an assumption.",
-  },
-  {
-    criterion: "Subscription fees vs ongoing consumables",
-    explanation:
-      "A model having no subscription does not mean it is free to run. Self-empty bags, mop pads, cleaning solution, replacement filters, and side brushes are all real recurring costs that show up regardless of subscription status. Budget for these separately from the sticker price.",
-  },
-  {
-    criterion: "Optional cloud or premium-service upsells",
-    explanation:
-      "Some brands offer optional paid tiers for extras like extended video history, advanced AI object recognition, or multi-floor cloud backups. These are add-ons, not requirements for daily cleaning, but check the current listing so you are not surprised by an upsell prompt in the app after purchase.",
-  },
-  {
-    criterion: "What happens if the cloud or account service is unavailable",
-    explanation:
-      "Most of these models rely on an app and cloud connection for scheduling and mapping even when no fee is charged. Check the manufacturer page for whether basic on-device cleaning still works during an outage or account issue, since full offline operation varies by brand.",
-  },
-  {
-    criterion: "Realistic annual cost from consumables alone",
-    explanation:
-      "Self-empty bags, mop pads, and filters can add somewhere in the range of $30 to $80 a year depending on the model and how much you clean. Factor this into your total cost of ownership rather than judging a model on upfront price alone.",
-  },
-  {
-    criterion: "Self-empty base bag capacity and cost",
-    explanation:
-      "Bag capacity ranges widely, from roughly 30 days to 9 weeks between changes on the models in this guide. Longer intervals reduce both the hassle and the annual bag spend, so check the current listing for capacity and replacement bag pricing before buying a self-empty model.",
-  },
+  { criterion: "Confirm core cleaning needs no monthly fee", explanation: "Before buying, check the current listing or manufacturer page to confirm that basic vacuuming, room mapping, and scheduling work fully without a paid account tier. On nearly every current model this is true, but policies can change, so it is worth a quick check rather than an assumption.\n\nGetting this wrong is one of the more common reasons a without subscriptions purchase disappoints once it actually arrives, since confirm core cleaning needs no monthly fee affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on confirm core cleaning needs no monthly fee rather than assuming every without subscriptions in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Subscription fees vs ongoing consumables", explanation: "A model having no subscription does not mean it is free to run. Self-empty bags, mop pads, cleaning solution, replacement filters, and side brushes are all real recurring costs that show up regardless of subscription status. Budget for these separately from the sticker price.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without subscriptions weeks after buying, since subscription fees vs ongoing consumables plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of subscription fees vs ongoing consumables, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without subscriptions for a while." },
+  { criterion: "Optional cloud or premium-service upsells", explanation: "Some brands offer optional paid tiers for extras like extended video history, advanced AI object recognition, or multi-floor cloud backups. These are add-ons, not requirements for daily cleaning, but check the current listing so you are not surprised by an upsell prompt in the app after purchase.\n\nBuyers who skip past optional cloud or premium-service upsells tend to be the ones leaving disappointed reviews later, not because the without subscriptions was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each without subscriptions in this roundup actually handles optional cloud or premium-service upsells rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "What happens if the cloud or account service is unavailable", explanation: "Most of these models rely on an app and cloud connection for scheduling and mapping even when no fee is charged. Check the manufacturer page for whether basic on-device cleaning still works during an outage or account issue, since full offline operation varies by brand.\n\nWhat happens if the cloud or account service is unavailable is easy to overlook next to flashier specs, but it's frequently the difference between a without subscriptions that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on what happens if the cloud or account service is unavailable directly from the current listing before ordering, since this is one of the more common places where two similarly priced without subscriptions options genuinely diverge." },
+  { criterion: "Realistic annual cost from consumables alone", explanation: "Self-empty bags, mop pads, and filters can add somewhere in the range of $30 to $80 a year depending on the model and how much you clean. Factor this into your total cost of ownership rather than judging a model on upfront price alone.\n\nGetting this wrong is one of the more common reasons a without subscriptions purchase disappoints once it actually arrives, since realistic annual cost from consumables alone affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on realistic annual cost from consumables alone rather than assuming every without subscriptions in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty base bag capacity and cost", explanation: "Bag capacity ranges widely, from roughly 30 days to 9 weeks between changes on the models in this guide. Longer intervals reduce both the hassle and the annual bag spend, so check the current listing for capacity and replacement bag pricing before buying a self-empty model.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without subscriptions weeks after buying, since self-empty base bag capacity and cost plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty base bag capacity and cost, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without subscriptions for a while." },
 ];
 
 export const howWeEvaluated = [

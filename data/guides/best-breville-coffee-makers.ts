@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Espresso vs drip, decide this first",
-    explanation:
-      "The Barista Express, Barista Touch, and Bambino are espresso machines built around a portafilter and steam wand. The Luxe Brewer is a drip machine with a thermal carafe. These solve different problems, so decide which category you actually need before comparing price or rating across the two.",
-  },
-  {
-    criterion: "Built-in grinder vs separate grinder",
-    explanation:
-      "The Barista Express and Barista Touch include a grinder; the Bambino does not. If you already own a quality burr grinder, the Bambino avoids paying for integration you will not use, while a first-time buyer generally benefits from the built-in grinder.",
-  },
-  {
-    criterion: "Manual vs automatic milk texturing",
-    explanation:
-      "The Barista Express requires manual steam wand technique that takes practice to master, while the Barista Touch and Bambino automate milk texturing. Decide whether hands-on control or convenience matters more for your daily routine.",
-  },
-  {
-    criterion: "Warranty length across the lineup",
-    explanation:
-      "The Barista Express and Bambino carry a 1-year limited warranty, the Barista Touch carries 2 years, and premium drip brewers in a similar price range, like Moccamaster, offer 5 years. Factor this gap into the total value calculation, not just the sticker price.",
-  },
-  {
-    criterion: "Cleaning burden regardless of category",
-    explanation:
-      "Espresso machines need portafilter rinsing after every shot plus periodic backflushing, and the Luxe Brewer needs reservoir, showerhead, and thermal carafe lid cleaning. Neither category is low-maintenance; budget for a real weekly cleaning routine either way.",
-  },
-  {
-    criterion: "Does espresso customization actually improve results for a casual drinker",
-    explanation:
-      "Adjustable grind, dose, and temperature give real control to someone willing to learn and dial in settings over time, but a casual drinker who just wants a consistent daily cup may get more reliable results from a simpler pod-based espresso maker or the Luxe Brewer's drip presets.",
-  },
+  { criterion: "Espresso vs drip, decide this first", explanation: "The Barista Express, Barista Touch, and Bambino are espresso machines built around a portafilter and steam wand. The Luxe Brewer is a drip machine with a thermal carafe. These solve different problems, so decide which category you actually need before comparing price or rating across the two.\n\nGetting this wrong is one of the more common reasons a breville coffee makers purchase disappoints once it actually arrives, since espresso vs drip, decide this first affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on espresso vs drip, decide this first rather than assuming every breville coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Built-in grinder vs separate grinder", explanation: "The Barista Express and Barista Touch include a grinder; the Bambino does not. If you already own a quality burr grinder, the Bambino avoids paying for integration you will not use, while a first-time buyer generally benefits from the built-in grinder.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a breville coffee makers weeks after buying, since built-in grinder vs separate grinder plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of built-in grinder vs separate grinder, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the breville coffee makers for a while." },
+  { criterion: "Manual vs automatic milk texturing", explanation: "The Barista Express requires manual steam wand technique that takes practice to master, while the Barista Touch and Bambino automate milk texturing. Decide whether hands-on control or convenience matters more for your daily routine.\n\nBuyers who skip past manual vs automatic milk texturing tend to be the ones leaving disappointed reviews later, not because the breville coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each breville coffee makers in this roundup actually handles manual vs automatic milk texturing rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Warranty length across the lineup", explanation: "The Barista Express and Bambino carry a 1-year limited warranty, the Barista Touch carries 2 years, and premium drip brewers in a similar price range, like Moccamaster, offer 5 years. Factor this gap into the total value calculation, not just the sticker price.\n\nWarranty length across the lineup is easy to overlook next to flashier specs, but it's frequently the difference between a breville coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on warranty length across the lineup directly from the current listing before ordering, since this is one of the more common places where two similarly priced breville coffee makers options genuinely diverge." },
+  { criterion: "Cleaning burden regardless of category", explanation: "Espresso machines need portafilter rinsing after every shot plus periodic backflushing, and the Luxe Brewer needs reservoir, showerhead, and thermal carafe lid cleaning. Neither category is low-maintenance; budget for a real weekly cleaning routine either way.\n\nGetting this wrong is one of the more common reasons a breville coffee makers purchase disappoints once it actually arrives, since cleaning burden regardless of category affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on cleaning burden regardless of category rather than assuming every breville coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Does espresso customization actually improve results for a casual drinker", explanation: "Adjustable grind, dose, and temperature give real control to someone willing to learn and dial in settings over time, but a casual drinker who just wants a consistent daily cup may get more reliable results from a simpler pod-based espresso maker or the Luxe Brewer's drip presets.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a breville coffee makers weeks after buying, since does espresso customization actually improve results for a casual drinker plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of does espresso customization actually improve results for a casual drinker, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the breville coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

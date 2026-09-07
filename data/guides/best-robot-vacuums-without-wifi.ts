@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Whether Wi-Fi is required at initial setup or genuinely optional",
-    explanation:
-      "Some models will not run at all until you complete an app pairing step, while others power on and clean the moment you press a button. Check whether Wi-Fi is a hard gate before first use or an optional add-on you can skip entirely.",
-  },
-  {
-    criterion: "What functions actually work from onboard buttons or a physical remote",
-    explanation:
-      "Starting a clean is table stakes. Confirm whether scheduling, suction level changes, spot cleaning, and docking all work from the robot itself or an included remote, not just the start button.",
-  },
-  {
-    criterion: "Local scheduling without an app",
-    explanation:
-      "A model that can only run when you manually press start is very different from one that lets you set a recurring daily or weekly schedule directly on the unit or remote. If a set-and-forget routine matters to you, confirm this specifically.",
-  },
-  {
-    criterion: "What features are lost without connecting",
-    explanation:
-      "Room mapping, no-go zones, cleaning history, and voice assistant integration almost always require the app. Decide upfront which of those you can live without, since several models in this comparison include hardware for these features that goes unused offline.",
-  },
-  {
-    criterion: "Continued operation if the account or cloud service is later removed",
-    explanation:
-      "Manufacturers occasionally sunset older apps or cloud services. Models that operate fully from onboard controls or a remote keep working regardless of what happens to the app, while app-dependent models can lose core functionality if support is discontinued.",
-  },
-  {
-    criterion: "Battery and runtime consistency without app-based monitoring",
-    explanation:
-      "Without an app dashboard, you will not get a phone notification when the battery is low or the bin is full. Onboard indicator lights become your main signal, so check how each model communicates status without a connected screen.",
-  },
+  { criterion: "Whether Wi-Fi is required at initial setup or genuinely optional", explanation: "Some models will not run at all until you complete an app pairing step, while others power on and clean the moment you press a button. Check whether Wi-Fi is a hard gate before first use or an optional add-on you can skip entirely.\n\nGetting this wrong is one of the more common reasons a without wi-fi purchase disappoints once it actually arrives, since whether wi-fi is required at initial setup or genuinely optional affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on whether wi-fi is required at initial setup or genuinely optional rather than assuming every without wi-fi in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "What functions actually work from onboard buttons or a physical remote", explanation: "Starting a clean is table stakes. Confirm whether scheduling, suction level changes, spot cleaning, and docking all work from the robot itself or an included remote, not just the start button.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without wi-fi weeks after buying, since what functions actually work from onboard buttons or a physical remote plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of what functions actually work from onboard buttons or a physical remote, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without wi-fi for a while." },
+  { criterion: "Local scheduling without an app", explanation: "A model that can only run when you manually press start is very different from one that lets you set a recurring daily or weekly schedule directly on the unit or remote. If a set-and-forget routine matters to you, confirm this specifically.\n\nBuyers who skip past local scheduling without an app tend to be the ones leaving disappointed reviews later, not because the without wi-fi was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each without wi-fi in this roundup actually handles local scheduling without an app rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "What features are lost without connecting", explanation: "Room mapping, no-go zones, cleaning history, and voice assistant integration almost always require the app. Decide upfront which of those you can live without, since several models in this comparison include hardware for these features that goes unused offline.\n\nWhat features are lost without connecting is easy to overlook next to flashier specs, but it's frequently the difference between a without wi-fi that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on what features are lost without connecting directly from the current listing before ordering, since this is one of the more common places where two similarly priced without wi-fi options genuinely diverge." },
+  { criterion: "Continued operation if the account or cloud service is later removed", explanation: "Manufacturers occasionally sunset older apps or cloud services. Models that operate fully from onboard controls or a remote keep working regardless of what happens to the app, while app-dependent models can lose core functionality if support is discontinued.\n\nGetting this wrong is one of the more common reasons a without wi-fi purchase disappoints once it actually arrives, since continued operation if the account or cloud service is later removed affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on continued operation if the account or cloud service is later removed rather than assuming every without wi-fi in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Battery and runtime consistency without app-based monitoring", explanation: "Without an app dashboard, you will not get a phone notification when the battery is low or the bin is full. Onboard indicator lights become your main signal, so check how each model communicates status without a connected screen.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without wi-fi weeks after buying, since battery and runtime consistency without app-based monitoring plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of battery and runtime consistency without app-based monitoring, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without wi-fi for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Live pricing at this tier",
-    explanation:
-      "Under-$50 listings shift often due to lightning deals and temporary discounts. A machine listed at $39 today can return to $55 within weeks, so confirm the current price on the product page before assuming it still qualifies for this budget.",
-  },
-  {
-    criterion: "Product class: drip and percolator only",
-    explanation:
-      "True espresso machines are not viable under $50, so every model here is a standard drip brewer or an electric percolator. If you specifically want espresso, plan to spend well above this tier.",
-  },
-  {
-    criterion: "Filter type and its ongoing cost",
-    explanation:
-      "Machines that ship with a permanent filter, like the SHARDOR, avoid the recurring cost of paper filters, which run roughly $4 to $8 for a 100-pack and add up to $15 to $30 per year for daily use. Factor this into the total cost, not just the machine price.",
-  },
-  {
-    criterion: "First-year cost including filters and descaling",
-    explanation:
-      "A $16 machine using paper filters plus periodic descaling solution can approach $40 to $50 in true first-year cost, closing much of the gap with a pricier permanent-filter model. Add roughly $20 to $30 per year for filters and descaling solution to the sticker price for a realistic total.",
-  },
-  {
-    criterion: "Minimum performance and warranty expectations",
-    explanation:
-      "At this price tier, expect a basic one-year warranty at most and no advanced features like strength control or precise temperature management. If a listing promises significantly more than that for under $50, read current reviews carefully before trusting the claim.",
-  },
-  {
-    criterion: "What the next tier up buys you",
-    explanation:
-      "Moving to the roughly $75 to $100 tier typically adds genuine programmability, sturdier housings, better warming plates, and sometimes single-serve or dual-brew flexibility. If any of those matter more than saving the last $20 to $30, it is worth looking at our Under $100 guide instead.",
-  },
+  { criterion: "Live pricing at this tier", explanation: "Under-$50 listings shift often due to lightning deals and temporary discounts. A machine listed at $39 today can return to $55 within weeks, so confirm the current price on the product page before assuming it still qualifies for this budget.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since live pricing at this tier affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on live pricing at this tier rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Product class: drip and percolator only", explanation: "True espresso machines are not viable under $50, so every model here is a standard drip brewer or an electric percolator. If you specifically want espresso, plan to spend well above this tier.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since product class: drip and percolator only plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of product class: drip and percolator only, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Filter type and its ongoing cost", explanation: "Machines that ship with a permanent filter, like the SHARDOR, avoid the recurring cost of paper filters, which run roughly $4 to $8 for a 100-pack and add up to $15 to $30 per year for daily use. Factor this into the total cost, not just the machine price.\n\nBuyers who skip past filter type and its ongoing cost tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles filter type and its ongoing cost rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "First-year cost including filters and descaling", explanation: "A $16 machine using paper filters plus periodic descaling solution can approach $40 to $50 in true first-year cost, closing much of the gap with a pricier permanent-filter model. Add roughly $20 to $30 per year for filters and descaling solution to the sticker price for a realistic total.\n\nFirst-year cost including filters and descaling is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on first-year cost including filters and descaling directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Minimum performance and warranty expectations", explanation: "At this price tier, expect a basic one-year warranty at most and no advanced features like strength control or precise temperature management. If a listing promises significantly more than that for under $50, read current reviews carefully before trusting the claim.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since minimum performance and warranty expectations affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on minimum performance and warranty expectations rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "What the next tier up buys you", explanation: "Moving to the roughly $75 to $100 tier typically adds genuine programmability, sturdier housings, better warming plates, and sometimes single-serve or dual-brew flexibility. If any of those matter more than saving the last $20 to $30, it is worth looking at our Under $100 guide instead.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since what the next tier up buys you plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of what the next tier up buys you, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

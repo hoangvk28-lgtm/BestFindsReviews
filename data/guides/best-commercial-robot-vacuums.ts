@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Dustbin and self-empty dock capacity",
-    explanation:
-      "A larger self-empty dock, like the 30-day capacity on the Shark AV2501S, means fewer trips to empty the bin manually. In a high-traffic office or Airbnb, dock capacity matters more than it does in a light-use single-person home.",
-  },
-  {
-    criterion: "Runtime and recharge-resume behavior",
-    explanation:
-      "Larger spaces need a robot that can return to its dock to recharge and then resume cleaning where it left off, rather than restarting the whole area. Check that recharge-resume is explicitly supported before assuming it on a given model.",
-  },
-  {
-    criterion: "Durability signals for frequent daily use",
-    explanation:
-      "Anti-tangle brush designs, sealed suction ratings, and established brand track records all matter more when a robot runs daily rather than a few times a week. Models built for lighter residential use may wear out faster under commercial-style daily cycles.",
-  },
-  {
-    criterion: "App-based zone scheduling for shared spaces",
-    explanation:
-      "A shared office or rental property benefits from zone-specific schedules, such as running an entryway more often than a back office. Confirm the app supports multiple saved zones and independent schedules, not just a single whole-space run.",
-  },
-  {
-    criterion: "Total cost including consumables",
-    explanation:
-      "Filters, mop pads, side brushes, and dock bags all need periodic replacement, and that cost adds up faster under daily commercial-style use than typical residential use. Factor consumable costs into the real annual price, not just the upfront machine cost.",
-  },
-  {
-    criterion: "Mopping capability vs vacuum-only design",
-    explanation:
-      "Mixed hard-floor and carpet spaces benefit from automatic mop lift or carpet detection, while carpet-only or vacuum-focused spaces may not need mopping hardware at all. Paying for mop features you will not use adds cost without adding value.",
-  },
+  { criterion: "Dustbin and self-empty dock capacity", explanation: "A larger self-empty dock, like the 30-day capacity on the Shark AV2501S, means fewer trips to empty the bin manually. In a high-traffic office or Airbnb, dock capacity matters more than it does in a light-use single-person home.\n\nGetting this wrong is one of the more common reasons a commercial robot vacuums purchase disappoints once it actually arrives, since dustbin and self-empty dock capacity affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on dustbin and self-empty dock capacity rather than assuming every commercial robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Runtime and recharge-resume behavior", explanation: "Larger spaces need a robot that can return to its dock to recharge and then resume cleaning where it left off, rather than restarting the whole area. Check that recharge-resume is explicitly supported before assuming it on a given model.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a commercial robot vacuums weeks after buying, since runtime and recharge-resume behavior plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of runtime and recharge-resume behavior, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the commercial robot vacuums for a while." },
+  { criterion: "Durability signals for frequent daily use", explanation: "Anti-tangle brush designs, sealed suction ratings, and established brand track records all matter more when a robot runs daily rather than a few times a week. Models built for lighter residential use may wear out faster under commercial-style daily cycles.\n\nBuyers who skip past durability signals for frequent daily use tend to be the ones leaving disappointed reviews later, not because the commercial robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each commercial robot vacuums in this roundup actually handles durability signals for frequent daily use rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "App-based zone scheduling for shared spaces", explanation: "A shared office or rental property benefits from zone-specific schedules, such as running an entryway more often than a back office. Confirm the app supports multiple saved zones and independent schedules, not just a single whole-space run.\n\nApp-based zone scheduling for shared spaces is easy to overlook next to flashier specs, but it's frequently the difference between a commercial robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on app-based zone scheduling for shared spaces directly from the current listing before ordering, since this is one of the more common places where two similarly priced commercial robot vacuums options genuinely diverge." },
+  { criterion: "Total cost including consumables", explanation: "Filters, mop pads, side brushes, and dock bags all need periodic replacement, and that cost adds up faster under daily commercial-style use than typical residential use. Factor consumable costs into the real annual price, not just the upfront machine cost.\n\nGetting this wrong is one of the more common reasons a commercial robot vacuums purchase disappoints once it actually arrives, since total cost including consumables affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on total cost including consumables rather than assuming every commercial robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Mopping capability vs vacuum-only design", explanation: "Mixed hard-floor and carpet spaces benefit from automatic mop lift or carpet detection, while carpet-only or vacuum-focused spaces may not need mopping hardware at all. Paying for mop features you will not use adds cost without adding value.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a commercial robot vacuums weeks after buying, since mopping capability vs vacuum-only design plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of mopping capability vs vacuum-only design, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the commercial robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

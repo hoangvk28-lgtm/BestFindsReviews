@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Reservoir size vs refill frequency",
-    explanation:
-      "A 75oz reservoir like the K-Elite's can go several days for one person, while the K-Mini's 1-cup reservoir needs a refill every single brew. Match reservoir size to how many cups your household actually drinks per day, not just to the biggest number available.",
-  },
-  {
-    criterion: "Temperature consistency across cup sizes",
-    explanation:
-      "Brew temperature commonly drops on the smallest cup setting because less water passes over the heating element. If you mostly brew 6 to 8oz cups, check owner reviews for that specific size rather than assuming the advertised temperature applies to every setting.",
-  },
-  {
-    criterion: "Pod vs reusable-filter compatibility",
-    explanation:
-      "Not every current model accepts the My K-Cup reusable filter for ground coffee. If you want the option to skip pods entirely, confirm reusable-filter compatibility before buying rather than after.",
-  },
-  {
-    criterion: "Descaling access and frequency",
-    explanation:
-      "All Keurig models need periodic descaling to clear mineral buildup, typically every 3 months with average water hardness. Models with a built-in descale reminder make this easier to stay on top of than ones that rely on you remembering.",
-  },
-  {
-    criterion: "Countertop footprint",
-    explanation:
-      "The difference between the K-Mini at under 5 inches wide and a dual carafe machine like the K-Duo is significant on a small counter. Measure your available space before choosing a feature-heavy model that may not physically fit where you need it.",
-  },
-  {
-    criterion: "Annual cost of pods and maintenance",
-    explanation:
-      "K-Cup pods typically run 40 to 75 cents each, so a daily single-cup habit adds up to $150 to $275 per year on pods alone, plus periodic descaling solution. Factor this into the total cost, not just the machine's sticker price.",
-  },
+  { criterion: "Reservoir size vs refill frequency", explanation: "A 75oz reservoir like the K-Elite's can go several days for one person, while the K-Mini's 1-cup reservoir needs a refill every single brew. Match reservoir size to how many cups your household actually drinks per day, not just to the biggest number available.\n\nGetting this wrong is one of the more common reasons a keurig coffee makers purchase disappoints once it actually arrives, since reservoir size vs refill frequency affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on reservoir size vs refill frequency rather than assuming every keurig coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Temperature consistency across cup sizes", explanation: "Brew temperature commonly drops on the smallest cup setting because less water passes over the heating element. If you mostly brew 6 to 8oz cups, check owner reviews for that specific size rather than assuming the advertised temperature applies to every setting.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a keurig coffee makers weeks after buying, since temperature consistency across cup sizes plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of temperature consistency across cup sizes, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the keurig coffee makers for a while." },
+  { criterion: "Pod vs reusable-filter compatibility", explanation: "Not every current model accepts the My K-Cup reusable filter for ground coffee. If you want the option to skip pods entirely, confirm reusable-filter compatibility before buying rather than after.\n\nBuyers who skip past pod vs reusable-filter compatibility tend to be the ones leaving disappointed reviews later, not because the keurig coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each keurig coffee makers in this roundup actually handles pod vs reusable-filter compatibility rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Descaling access and frequency", explanation: "All Keurig models need periodic descaling to clear mineral buildup, typically every 3 months with average water hardness. Models with a built-in descale reminder make this easier to stay on top of than ones that rely on you remembering.\n\nDescaling access and frequency is easy to overlook next to flashier specs, but it's frequently the difference between a keurig coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on descaling access and frequency directly from the current listing before ordering, since this is one of the more common places where two similarly priced keurig coffee makers options genuinely diverge." },
+  { criterion: "Countertop footprint", explanation: "The difference between the K-Mini at under 5 inches wide and a dual carafe machine like the K-Duo is significant on a small counter. Measure your available space before choosing a feature-heavy model that may not physically fit where you need it.\n\nGetting this wrong is one of the more common reasons a keurig coffee makers purchase disappoints once it actually arrives, since countertop footprint affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on countertop footprint rather than assuming every keurig coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Annual cost of pods and maintenance", explanation: "K-Cup pods typically run 40 to 75 cents each, so a daily single-cup habit adds up to $150 to $275 per year on pods alone, plus periodic descaling solution. Factor this into the total cost, not just the machine's sticker price.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a keurig coffee makers weeks after buying, since annual cost of pods and maintenance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of annual cost of pods and maintenance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the keurig coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Camera vs LiDAR-only sensor inventory",
-    explanation:
-      "Every model in this guide navigates with LiDAR instead of a camera, which removes the live-view and image-storage concerns that come with vision-based robots. Still confirm the exact sensor list on the product page, since some manufacturers add secondary cameras for obstacle avoidance on higher-end SKUs not covered here.",
-  },
-  {
-    criterion: "Cloud dependence and account requirements",
-    explanation:
-      "Most app-connected robot vacuums require a manufacturer account to unlock scheduling, mapping, and firmware updates, and that account can mean cloud storage of usage data even without a camera. Check whether the app requires an account for basic functions or only for optional features.",
-  },
-  {
-    criterion: "Map storage and deletion options per official privacy policy",
-    explanation:
-      "LiDAR maps of your home's layout are still sensitive data, even without images. Check the manufacturer's current privacy policy for whether maps are stored locally on the robot, in the cloud, or both, and whether you can delete stored maps and history from within the app.",
-  },
-  {
-    criterion: "Whether core cleaning functions work offline",
-    explanation:
-      "Some robots can vacuum on a fixed schedule using only onboard storage, while others require an active internet connection even for basic runs. If offline operation matters to you, check the specific model's manual or listing for confirmation rather than assuming.",
-  },
-  {
-    criterion: "Household sharing and secondhand-device reset considerations",
-    explanation:
-      "If multiple people in a household will use the app, check how account sharing works and whether maps and cleaning history are visible to every linked user. Before reselling or giving away any of these units, factory reset the robot and unlink it from the manufacturer account to remove your stored map data.",
-  },
-  {
-    criterion: "Firmware update transparency",
-    explanation:
-      "Robots that receive regular firmware updates over the app are generally better maintained from a security standpoint than ones that ship once and never get patched. Check recent user reviews for mentions of ongoing app support before buying.",
-  },
+  { criterion: "Camera vs LiDAR-only sensor inventory", explanation: "Every model in this guide navigates with LiDAR instead of a camera, which removes the live-view and image-storage concerns that come with vision-based robots. Still confirm the exact sensor list on the product page, since some manufacturers add secondary cameras for obstacle avoidance on higher-end SKUs not covered here.\n\nGetting this wrong is one of the more common reasons a privacy-focused robot vacuums purchase disappoints once it actually arrives, since camera vs lidar-only sensor inventory affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on camera vs lidar-only sensor inventory rather than assuming every privacy-focused robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Cloud dependence and account requirements", explanation: "Most app-connected robot vacuums require a manufacturer account to unlock scheduling, mapping, and firmware updates, and that account can mean cloud storage of usage data even without a camera. Check whether the app requires an account for basic functions or only for optional features.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a privacy-focused robot vacuums weeks after buying, since cloud dependence and account requirements plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of cloud dependence and account requirements, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the privacy-focused robot vacuums for a while." },
+  { criterion: "Map storage and deletion options per official privacy policy", explanation: "LiDAR maps of your home's layout are still sensitive data, even without images. Check the manufacturer's current privacy policy for whether maps are stored locally on the robot, in the cloud, or both, and whether you can delete stored maps and history from within the app.\n\nBuyers who skip past map storage and deletion options per official privacy policy tend to be the ones leaving disappointed reviews later, not because the privacy-focused robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each privacy-focused robot vacuums in this roundup actually handles map storage and deletion options per official privacy policy rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Whether core cleaning functions work offline", explanation: "Some robots can vacuum on a fixed schedule using only onboard storage, while others require an active internet connection even for basic runs. If offline operation matters to you, check the specific model's manual or listing for confirmation rather than assuming.\n\nWhether core cleaning functions work offline is easy to overlook next to flashier specs, but it's frequently the difference between a privacy-focused robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on whether core cleaning functions work offline directly from the current listing before ordering, since this is one of the more common places where two similarly priced privacy-focused robot vacuums options genuinely diverge." },
+  { criterion: "Household sharing and secondhand-device reset considerations", explanation: "If multiple people in a household will use the app, check how account sharing works and whether maps and cleaning history are visible to every linked user. Before reselling or giving away any of these units, factory reset the robot and unlink it from the manufacturer account to remove your stored map data.\n\nGetting this wrong is one of the more common reasons a privacy-focused robot vacuums purchase disappoints once it actually arrives, since household sharing and secondhand-device reset considerations affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on household sharing and secondhand-device reset considerations rather than assuming every privacy-focused robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Firmware update transparency", explanation: "Robots that receive regular firmware updates over the app are generally better maintained from a security standpoint than ones that ship once and never get patched. Check recent user reviews for mentions of ongoing app support before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a privacy-focused robot vacuums weeks after buying, since firmware update transparency plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of firmware update transparency, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the privacy-focused robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

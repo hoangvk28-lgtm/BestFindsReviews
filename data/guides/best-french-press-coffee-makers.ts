@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Usable volume after grounds displacement",
-    explanation:
-      "A press stated at 34oz yields closer to 27 to 28oz of drinkable coffee once a standard dose of coarse grounds is accounted for. Plan your cup count around usable volume, not the number printed on the box.",
-  },
-  {
-    criterion: "Plunge force, stability, and burn risk",
-    explanation:
-      "Plunging requires steady, even downward pressure, and an off-angle push is the most common way a glass carafe cracks. Framed glass designs like the Bodum Chambord add lateral stability during the plunge that unframed glass carafes lack.",
-  },
-  {
-    criterion: "Sediment is inherent, not a design flaw",
-    explanation:
-      "No mesh filter, however fine, fully eliminates sediment in a French press, since the brewing method itself keeps fine particles in contact with the water. Expect a small amount at the bottom of the cup regardless of which model or filter layer count you choose.",
-  },
-  {
-    criterion: "Heat retention: glass vs steel",
-    explanation:
-      "Double-walled stainless steel presses like the MuellerLiving hold heat noticeably longer than single-wall glass or single-wall steel. If you drink slowly over 20 to 30 minutes, this is a bigger practical difference than most spec sheets suggest.",
-  },
-  {
-    criterion: "Screen and replacement part availability",
-    explanation:
-      "Filter screens eventually bend or wear from repeated plunging. Models that ship with spare screens, like the Secura, or that use widely sold standard-size parts, like the Bodum Chambord, save you a replacement-parts search later.",
-  },
+  { criterion: "Usable volume after grounds displacement", explanation: "A press stated at 34oz yields closer to 27 to 28oz of drinkable coffee once a standard dose of coarse grounds is accounted for. Plan your cup count around usable volume, not the number printed on the box.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since usable volume after grounds displacement affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on usable volume after grounds displacement rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Plunge force, stability, and burn risk", explanation: "Plunging requires steady, even downward pressure, and an off-angle push is the most common way a glass carafe cracks. Framed glass designs like the Bodum Chambord add lateral stability during the plunge that unframed glass carafes lack.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since plunge force, stability, and burn risk plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of plunge force, stability, and burn risk, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Sediment is inherent, not a design flaw", explanation: "No mesh filter, however fine, fully eliminates sediment in a French press, since the brewing method itself keeps fine particles in contact with the water. Expect a small amount at the bottom of the cup regardless of which model or filter layer count you choose.\n\nBuyers who skip past sediment is inherent, not a design flaw tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles sediment is inherent, not a design flaw rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Heat retention: glass vs steel", explanation: "Double-walled stainless steel presses like the MuellerLiving hold heat noticeably longer than single-wall glass or single-wall steel. If you drink slowly over 20 to 30 minutes, this is a bigger practical difference than most spec sheets suggest.\n\nHeat retention: glass vs steel is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on heat retention: glass vs steel directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Screen and replacement part availability", explanation: "Filter screens eventually bend or wear from repeated plunging. Models that ship with spare screens, like the Secura, or that use widely sold standard-size parts, like the Bodum Chambord, save you a replacement-parts search later.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since screen and replacement part availability affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on screen and replacement part availability rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

@@ -230,31 +230,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Wheel clearance and sinking on thick pile",
-    explanation:
-      "Deep, plush fibers can swallow a low-clearance wheel and leave a robot vacuum spinning in place instead of moving forward. Look for models that specifically mention carpet traversal or all-terrain wheel design rather than assuming a standard wheel handles high-pile the same way it handles a hard floor.",
-  },
-  {
-    criterion: "Brush stall risk and reduced path efficiency",
-    explanation:
-      "Thick carpet fibers create more resistance against a spinning brush roll than hard floors or low-pile carpet do, which can slow the brush, shorten a single cleaning pass, or trigger a stall that needs a manual reset. A self-cleaning or tangle-resistant brush roll design is worth prioritizing if your carpet is genuinely plush.",
-  },
-  {
-    criterion: "Embedded debris and long-hair pickup on plush carpet",
-    explanation:
-      "Fine debris and long hair tend to work down into deep pile rather than sitting on the surface, so a vacuum needs meaningfully more suction and agitation to lift it out than it would need on a hard floor. Stated suction (measured in Pa) is a useful, if imperfect, proxy for this.",
-  },
-  {
-    criterion: "Carpet-boost battery drain tradeoff",
-    explanation:
-      "Many models automatically increase suction when they detect carpet, and that boost draws more battery per minute of runtime. A unit that boosts aggressively on thick pile may need to return to its dock mid-cleaning more often than the same model would on hard floors, so factor this into how large an area it can realistically finish in one charge.",
-  },
-  {
-    criterion: "Mop lift reliability on combo units",
-    explanation:
-      "If you are considering a vacuum and mop combo, confirm how reliably the mop pad lifts away from the floor before the robot crosses onto carpet. Wet mopping thick pile is a real risk since trapped moisture in deep fibers can lead to lingering dampness, odor, or even mold if it happens repeatedly.",
-  },
+  { criterion: "Wheel clearance and sinking on thick pile", explanation: "Deep, plush fibers can swallow a low-clearance wheel and leave a robot vacuum spinning in place instead of moving forward. Look for models that specifically mention carpet traversal or all-terrain wheel design rather than assuming a standard wheel handles high-pile the same way it handles a hard floor.\n\nGetting this wrong is one of the more common reasons a high-pile carpet purchase disappoints once it actually arrives, since wheel clearance and sinking on thick pile affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on wheel clearance and sinking on thick pile rather than assuming every high-pile carpet in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Brush stall risk and reduced path efficiency", explanation: "Thick carpet fibers create more resistance against a spinning brush roll than hard floors or low-pile carpet do, which can slow the brush, shorten a single cleaning pass, or trigger a stall that needs a manual reset. A self-cleaning or tangle-resistant brush roll design is worth prioritizing if your carpet is genuinely plush.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a high-pile carpet weeks after buying, since brush stall risk and reduced path efficiency plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of brush stall risk and reduced path efficiency, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the high-pile carpet for a while." },
+  { criterion: "Embedded debris and long-hair pickup on plush carpet", explanation: "Fine debris and long hair tend to work down into deep pile rather than sitting on the surface, so a vacuum needs meaningfully more suction and agitation to lift it out than it would need on a hard floor. Stated suction (measured in Pa) is a useful, if imperfect, proxy for this.\n\nBuyers who skip past embedded debris and long-hair pickup on plush carpet tend to be the ones leaving disappointed reviews later, not because the high-pile carpet was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each high-pile carpet in this roundup actually handles embedded debris and long-hair pickup on plush carpet rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Carpet-boost battery drain tradeoff", explanation: "Many models automatically increase suction when they detect carpet, and that boost draws more battery per minute of runtime. A unit that boosts aggressively on thick pile may need to return to its dock mid-cleaning more often than the same model would on hard floors, so factor this into how large an area it can realistically finish in one charge.\n\nCarpet-boost battery drain tradeoff is easy to overlook next to flashier specs, but it's frequently the difference between a high-pile carpet that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on carpet-boost battery drain tradeoff directly from the current listing before ordering, since this is one of the more common places where two similarly priced high-pile carpet options genuinely diverge." },
+  { criterion: "Mop lift reliability on combo units", explanation: "If you are considering a vacuum and mop combo, confirm how reliably the mop pad lifts away from the floor before the robot crosses onto carpet. Wet mopping thick pile is a real risk since trapped moisture in deep fibers can lead to lingering dampness, odor, or even mold if it happens repeatedly.\n\nGetting this wrong is one of the more common reasons a high-pile carpet purchase disappoints once it actually arrives, since mop lift reliability on combo units affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on mop lift reliability on combo units rather than assuming every high-pile carpet in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

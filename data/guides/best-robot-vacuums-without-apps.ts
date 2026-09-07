@@ -236,36 +236,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "What onboard buttons and remotes actually cover",
-    explanation:
-      "Most no-app models let you start a clean, send the robot home, and sometimes select a suction or cleaning mode directly from the unit or an included remote. Confirm exactly which functions are physical before buying, since coverage varies by model rather than being standardized across brands.",
-  },
-  {
-    criterion: "What you lose without an app",
-    explanation:
-      "App-based models typically add live floor maps, room-by-room no-go zones, and detailed scheduling by day and time. Button-only or remote-only operation usually means a simpler fixed schedule or manual starts instead of that level of customization.",
-  },
-  {
-    criterion: "Firmware updates and maintenance alerts",
-    explanation:
-      "On many models, firmware updates and detailed maintenance alerts (filter life, brush wear) are delivered through the app even if daily cleaning does not require it. If you skip the app entirely, you may also skip those updates and alerts, so check whether the unit still functions well long-term without them.",
-  },
-  {
-    criterion: "Error recovery without a phone",
-    explanation:
-      "When a robot gets stuck or throws an error, app-connected models often show a specific error code and instructions on the phone. Button-only models typically rely on onboard lights or beep patterns instead, so check the manual for what those signals mean before you need them.",
-  },
-  {
-    criterion: "Whether a remote is included or sold separately",
-    explanation:
-      "Some models bundle a physical remote as standard equipment, while others treat the remote as an accessory or expect you to use the app instead. If avoiding app setup matters to you, confirm a remote is actually included in the box rather than assumed.",
-  },
-  {
-    criterion: "Suction power and runtime for your floor type",
-    explanation:
-      "Suction ratings and runtime vary widely across these models, and higher suction generally matters more for carpet and pet hair than for hard floors. Match the spec to your actual flooring rather than defaulting to the highest number available.",
-  },
+  { criterion: "What onboard buttons and remotes actually cover", explanation: "Most no-app models let you start a clean, send the robot home, and sometimes select a suction or cleaning mode directly from the unit or an included remote. Confirm exactly which functions are physical before buying, since coverage varies by model rather than being standardized across brands.\n\nGetting this wrong is one of the more common reasons a without apps purchase disappoints once it actually arrives, since what onboard buttons and remotes actually cover affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what onboard buttons and remotes actually cover rather than assuming every without apps in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "What you lose without an app", explanation: "App-based models typically add live floor maps, room-by-room no-go zones, and detailed scheduling by day and time. Button-only or remote-only operation usually means a simpler fixed schedule or manual starts instead of that level of customization.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without apps weeks after buying, since what you lose without an app plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of what you lose without an app, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without apps for a while." },
+  { criterion: "Firmware updates and maintenance alerts", explanation: "On many models, firmware updates and detailed maintenance alerts (filter life, brush wear) are delivered through the app even if daily cleaning does not require it. If you skip the app entirely, you may also skip those updates and alerts, so check whether the unit still functions well long-term without them.\n\nBuyers who skip past firmware updates and maintenance alerts tend to be the ones leaving disappointed reviews later, not because the without apps was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each without apps in this roundup actually handles firmware updates and maintenance alerts rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Error recovery without a phone", explanation: "When a robot gets stuck or throws an error, app-connected models often show a specific error code and instructions on the phone. Button-only models typically rely on onboard lights or beep patterns instead, so check the manual for what those signals mean before you need them.\n\nError recovery without a phone is easy to overlook next to flashier specs, but it's frequently the difference between a without apps that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on error recovery without a phone directly from the current listing before ordering, since this is one of the more common places where two similarly priced without apps options genuinely diverge." },
+  { criterion: "Whether a remote is included or sold separately", explanation: "Some models bundle a physical remote as standard equipment, while others treat the remote as an accessory or expect you to use the app instead. If avoiding app setup matters to you, confirm a remote is actually included in the box rather than assumed.\n\nGetting this wrong is one of the more common reasons a without apps purchase disappoints once it actually arrives, since whether a remote is included or sold separately affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on whether a remote is included or sold separately rather than assuming every without apps in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction power and runtime for your floor type", explanation: "Suction ratings and runtime vary widely across these models, and higher suction generally matters more for carpet and pet hair than for hard floors. Match the spec to your actual flooring rather than defaulting to the highest number available.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a without apps weeks after buying, since suction power and runtime for your floor type plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction power and runtime for your floor type, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the without apps for a while." },
 ];
 
 export const howWeEvaluated = [

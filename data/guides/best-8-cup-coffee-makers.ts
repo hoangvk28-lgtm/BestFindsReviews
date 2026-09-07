@@ -84,36 +84,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Confirming genuine 8-cup capacity",
-    explanation:
-      "Most listings marketed around this size are actually 10 or 12-cup carafes. Check the stated ounce capacity directly, roughly 40oz for a genuine 8-cup machine, before trusting the cup number in the title alone.",
-  },
-  {
-    criterion: "SCA certification as a quality signal",
-    explanation:
-      "Both models we verified as genuinely 8-cup carry Specialty Coffee Association Gold Cup or SCA certification, meaning independent verification of brew temperature and extraction consistency, a stronger signal than uncertified marketing claims at this price point.",
-  },
-  {
-    criterion: "Minimum batch brewing",
-    explanation:
-      "The OXO includes an optional single-serve brew basket for days you do not need a full 8 cups; the Bonavita does not offer this, so factor that in if your household size varies day to day.",
-  },
-  {
-    criterion: "Thermal carafe heat retention",
-    explanation:
-      "Both models here use a double-wall thermal carafe rather than a glass carafe on a warming plate, meaning coffee stays hot for hours without power, at the cost of a heavier pour.",
-  },
-  {
-    criterion: "Price relative to a larger machine",
-    explanation:
-      "Both genuine 8-cup models here run close to $190 to $195, meaningfully more than many 10 or 12-cup machines. Decide whether the smaller footprint and SCA certification are worth that premium for your household.",
-  },
-  {
-    criterion: "Whether a 10-cup machine actually serves you better",
-    explanation:
-      "If price matters more than a compact true-8-cup footprint, a 10-cup machine brews only slightly more water and commonly costs less than either model reviewed here.",
-  },
+  { criterion: "Confirming genuine 8-cup capacity", explanation: "Most listings marketed around this size are actually 10 or 12-cup carafes. Check the stated ounce capacity directly, roughly 40oz for a genuine 8-cup machine, before trusting the cup number in the title alone.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since confirming genuine 8-cup capacity affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on confirming genuine 8-cup capacity rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "SCA certification as a quality signal", explanation: "Both models we verified as genuinely 8-cup carry Specialty Coffee Association Gold Cup or SCA certification, meaning independent verification of brew temperature and extraction consistency, a stronger signal than uncertified marketing claims at this price point.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since sca certification as a quality signal plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of sca certification as a quality signal, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
+  { criterion: "Minimum batch brewing", explanation: "The OXO includes an optional single-serve brew basket for days you do not need a full 8 cups; the Bonavita does not offer this, so factor that in if your household size varies day to day.\n\nBuyers who skip past minimum batch brewing tend to be the ones leaving disappointed reviews later, not because the cup coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each cup coffee makers in this roundup actually handles minimum batch brewing rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Thermal carafe heat retention", explanation: "Both models here use a double-wall thermal carafe rather than a glass carafe on a warming plate, meaning coffee stays hot for hours without power, at the cost of a heavier pour.\n\nThermal carafe heat retention is easy to overlook next to flashier specs, but it's frequently the difference between a cup coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on thermal carafe heat retention directly from the current listing before ordering, since this is one of the more common places where two similarly priced cup coffee makers options genuinely diverge." },
+  { criterion: "Price relative to a larger machine", explanation: "Both genuine 8-cup models here run close to $190 to $195, meaningfully more than many 10 or 12-cup machines. Decide whether the smaller footprint and SCA certification are worth that premium for your household.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since price relative to a larger machine affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price relative to a larger machine rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether a 10-cup machine actually serves you better", explanation: "If price matters more than a compact true-8-cup footprint, a 10-cup machine brews only slightly more water and commonly costs less than either model reviewed here.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since whether a 10-cup machine actually serves you better plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether a 10-cup machine actually serves you better, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

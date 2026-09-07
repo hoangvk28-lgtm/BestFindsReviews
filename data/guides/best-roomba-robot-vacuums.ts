@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Vacuum-only vs combo mopping",
-    explanation:
-      "The current lineup mixes vacuum-only models like the 105 Vac and 205 DustCompactor with 2-in-1 combo and mop-and-dry systems like the 105 Combo, Plus 405, Plus 505, and 415X. Decide whether you actually want mopping handled before comparing prices, since a vacuum-only model can cost far less for the same suction tier.",
-  },
-  {
-    criterion: "Dock type: AutoEmpty vs AutoWash vs no dock",
-    explanation:
-      "An AutoEmpty dock only empties the bin, an AutoWash Dock also washes and heat-dries mop pads, and models like the 205 DustCompactor skip a bulky dock entirely by compacting dirt internally. Match dock type to how much floor or counter space you can give up and how hands-off you want maintenance to be.",
-  },
-  {
-    criterion: "App dependence for scheduling and mapping",
-    explanation:
-      "The iRobot Home app handles maps, no-go zones, and scheduling, and some functions are only available through the app rather than buttons on the robot. If you would rather not rely on a phone for daily control, confirm which features are app-only before buying.",
-  },
-  {
-    criterion: "Pet hair handling and brush design",
-    explanation:
-      "Dual rubber anti-tangle brushes have long been a Roomba design difference worth checking against bristle-brush competitors, since hair is less likely to wrap tightly around rubber brushes over repeated use. This matters more for pet owners than the headline suction number alone.",
-  },
-  {
-    criterion: "Price tier jump between entry and premium models",
-    explanation:
-      "There is a wide gap between the roughly $150 entry-level vacuum-only models and the $500 to $760 combo and multifunction dock models in this lineup. Be clear on which specific features (mopping, AutoWash, longer self-emptying intervals) justify that jump for your household before paying for the top tier.",
-  },
-  {
-    criterion: "Carpet detection for mopping models",
-    explanation:
-      "Combo models need to reliably detect carpet and avoid mopping it, since dragging a wet pad across a rug is a real failure mode. Check that any mopping model you consider specifically advertises carpet avoidance rather than assuming all combo units handle mixed flooring the same way.",
-  },
+  { criterion: "Vacuum-only vs combo mopping", explanation: "The current lineup mixes vacuum-only models like the 105 Vac and 205 DustCompactor with 2-in-1 combo and mop-and-dry systems like the 105 Combo, Plus 405, Plus 505, and 415X. Decide whether you actually want mopping handled before comparing prices, since a vacuum-only model can cost far less for the same suction tier.\n\nGetting this wrong is one of the more common reasons a roomba robot vacuums purchase disappoints once it actually arrives, since vacuum-only vs combo mopping affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on vacuum-only vs combo mopping rather than assuming every roomba robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Dock type: AutoEmpty vs AutoWash vs no dock", explanation: "An AutoEmpty dock only empties the bin, an AutoWash Dock also washes and heat-dries mop pads, and models like the 205 DustCompactor skip a bulky dock entirely by compacting dirt internally. Match dock type to how much floor or counter space you can give up and how hands-off you want maintenance to be.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a roomba robot vacuums weeks after buying, since dock type: autoempty vs autowash vs no dock plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of dock type: autoempty vs autowash vs no dock, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the roomba robot vacuums for a while." },
+  { criterion: "App dependence for scheduling and mapping", explanation: "The iRobot Home app handles maps, no-go zones, and scheduling, and some functions are only available through the app rather than buttons on the robot. If you would rather not rely on a phone for daily control, confirm which features are app-only before buying.\n\nBuyers who skip past app dependence for scheduling and mapping tend to be the ones leaving disappointed reviews later, not because the roomba robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each roomba robot vacuums in this roundup actually handles app dependence for scheduling and mapping rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Pet hair handling and brush design", explanation: "Dual rubber anti-tangle brushes have long been a Roomba design difference worth checking against bristle-brush competitors, since hair is less likely to wrap tightly around rubber brushes over repeated use. This matters more for pet owners than the headline suction number alone.\n\nPet hair handling and brush design is easy to overlook next to flashier specs, but it's frequently the difference between a roomba robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on pet hair handling and brush design directly from the current listing before ordering, since this is one of the more common places where two similarly priced roomba robot vacuums options genuinely diverge." },
+  { criterion: "Price tier jump between entry and premium models", explanation: "There is a wide gap between the roughly $150 entry-level vacuum-only models and the $500 to $760 combo and multifunction dock models in this lineup. Be clear on which specific features (mopping, AutoWash, longer self-emptying intervals) justify that jump for your household before paying for the top tier.\n\nGetting this wrong is one of the more common reasons a roomba robot vacuums purchase disappoints once it actually arrives, since price tier jump between entry and premium models affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price tier jump between entry and premium models rather than assuming every roomba robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Carpet detection for mopping models", explanation: "Combo models need to reliably detect carpet and avoid mopping it, since dragging a wet pad across a rug is a real failure mode. Check that any mopping model you consider specifically advertises carpet avoidance rather than assuming all combo units handle mixed flooring the same way.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a roomba robot vacuums weeks after buying, since carpet detection for mopping models plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of carpet detection for mopping models, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the roomba robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

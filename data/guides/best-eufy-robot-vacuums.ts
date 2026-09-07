@@ -210,36 +210,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Vacuum-only vs mop-combo, decide this first",
-    explanation:
-      "eufy's lineup spans slim vacuum-only models like the 11S MAX and C10 up through Omni and Matic systems with roller-mop washing and drying docks. Decide whether you actually want automated mopping before comparing suction numbers, since that choice affects price, footprint, and maintenance far more than a few thousand Pa either way.",
-  },
-  {
-    criterion: "Suction power vs realistic flooring needs",
-    explanation:
-      "The models here range from 15,000 Pa to 20,000 Pa. That range matters more on thick carpet than on hardwood or low-pile rugs, so buyers with mostly hard flooring can often save money by choosing a lower suction tier without a noticeable difference in daily cleaning.",
-  },
-  {
-    criterion: "Anti-tangle brush reliability for hair and pet shedding",
-    explanation:
-      "eufy's anti-tangle brush claims are worth checking against recent buyer reviews specifically for long hair or heavy pet shedding, since brush design and effectiveness vary by model generation. A brush that works well on a newer Omni-tier model may not match an older or budget model's design.",
-  },
-  {
-    criterion: "Dock footprint and maintenance",
-    explanation:
-      "Higher-tier Omni and Matic docks add real counter or floor footprint that budget slim models don't have, in exchange for self-emptying, mop washing, and drying. Measure your available space near an outlet before committing to a full Omni-class dock.",
-  },
-  {
-    criterion: "Price tier jump from vacuum-only to mop-combo",
-    explanation:
-      "There is a significant price jump between vacuum-only models like the 11S MAX at under $200 and mop-combo systems that run $380 to $680. Make sure the added mopping and self-emptying functions are things you will actually use before paying for that tier.",
-  },
-  {
-    criterion: "Rating and review volume where available",
-    explanation:
-      "Only the top-ranked model in this guide has a large public rating and review history at time of writing. For newer releases, weigh the feature set and price against the more limited public track record rather than assuming equal reliability.",
-  },
+  { criterion: "Vacuum-only vs mop-combo, decide this first", explanation: "eufy's lineup spans slim vacuum-only models like the 11S MAX and C10 up through Omni and Matic systems with roller-mop washing and drying docks. Decide whether you actually want automated mopping before comparing suction numbers, since that choice affects price, footprint, and maintenance far more than a few thousand Pa either way.\n\nGetting this wrong is one of the more common reasons a eufy robot vacuums purchase disappoints once it actually arrives, since vacuum-only vs mop-combo, decide this first affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on vacuum-only vs mop-combo, decide this first rather than assuming every eufy robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction power vs realistic flooring needs", explanation: "The models here range from 15,000 Pa to 20,000 Pa. That range matters more on thick carpet than on hardwood or low-pile rugs, so buyers with mostly hard flooring can often save money by choosing a lower suction tier without a noticeable difference in daily cleaning.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a eufy robot vacuums weeks after buying, since suction power vs realistic flooring needs plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction power vs realistic flooring needs, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the eufy robot vacuums for a while." },
+  { criterion: "Anti-tangle brush reliability for hair and pet shedding", explanation: "eufy's anti-tangle brush claims are worth checking against recent buyer reviews specifically for long hair or heavy pet shedding, since brush design and effectiveness vary by model generation. A brush that works well on a newer Omni-tier model may not match an older or budget model's design.\n\nBuyers who skip past anti-tangle brush reliability for hair and pet shedding tend to be the ones leaving disappointed reviews later, not because the eufy robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each eufy robot vacuums in this roundup actually handles anti-tangle brush reliability for hair and pet shedding rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Dock footprint and maintenance", explanation: "Higher-tier Omni and Matic docks add real counter or floor footprint that budget slim models don't have, in exchange for self-emptying, mop washing, and drying. Measure your available space near an outlet before committing to a full Omni-class dock.\n\nDock footprint and maintenance is easy to overlook next to flashier specs, but it's frequently the difference between a eufy robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on dock footprint and maintenance directly from the current listing before ordering, since this is one of the more common places where two similarly priced eufy robot vacuums options genuinely diverge." },
+  { criterion: "Price tier jump from vacuum-only to mop-combo", explanation: "There is a significant price jump between vacuum-only models like the 11S MAX at under $200 and mop-combo systems that run $380 to $680. Make sure the added mopping and self-emptying functions are things you will actually use before paying for that tier.\n\nGetting this wrong is one of the more common reasons a eufy robot vacuums purchase disappoints once it actually arrives, since price tier jump from vacuum-only to mop-combo affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price tier jump from vacuum-only to mop-combo rather than assuming every eufy robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Rating and review volume where available", explanation: "Only the top-ranked model in this guide has a large public rating and review history at time of writing. For newer releases, weigh the feature set and price against the more limited public track record rather than assuming equal reliability.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a eufy robot vacuums weeks after buying, since rating and review volume where available plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of rating and review volume where available, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the eufy robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

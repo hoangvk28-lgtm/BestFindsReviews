@@ -160,31 +160,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Cold-start time vs steady-state time",
-    explanation:
-      "A Bunn's fast brew claim only applies once its internal tank is already hot; the very first use requires several fill-and-heat cycles that can take 15 to 30 minutes before the machine reaches its advertised speed. Budget for that once, not every day.",
-  },
-  {
-    criterion: "Always-hot standby power vs heat-on-demand",
-    explanation:
-      "Always-hot tank machines like the three Bunn models here trade continuous standby electricity for a faster pot once running. Heat-on-demand machines like the two Ninja models draw no power between brews but take longer per pot since they start cold every time.",
-  },
-  {
-    criterion: "Speed normalized to volume brewed",
-    explanation:
-      "A single-serve cup and a full 10-cup carafe are not directly comparable on brew time. Where possible, compare machines against the same volume, since a machine that brews a single cup fast may still take several minutes for a full pot.",
-  },
-  {
-    criterion: "Setup and cleanup time",
-    explanation:
-      "A fast brew cycle does not capture the total time cost of a coffee maker. Filling the reservoir, inserting a filter, and cleaning the carafe or brew basket afterward all add real minutes that a headline brew-time number ignores.",
-  },
-  {
-    criterion: "Brew strength, not just brew speed",
-    explanation:
-      "A genuinely fast but thin, weak brew is not a win. Check that a fast machine also offers a strength setting or produces a full-bodied cup at its default setting before optimizing for speed alone.",
-  },
+  { criterion: "Cold-start time vs steady-state time", explanation: "A Bunn's fast brew claim only applies once its internal tank is already hot; the very first use requires several fill-and-heat cycles that can take 15 to 30 minutes before the machine reaches its advertised speed. Budget for that once, not every day.\n\nGetting this wrong is one of the more common reasons a quick brew purchase disappoints once it actually arrives, since cold-start time vs steady-state time affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on cold-start time vs steady-state time rather than assuming every quick brew in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Always-hot standby power vs heat-on-demand", explanation: "Always-hot tank machines like the three Bunn models here trade continuous standby electricity for a faster pot once running. Heat-on-demand machines like the two Ninja models draw no power between brews but take longer per pot since they start cold every time.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a quick brew weeks after buying, since always-hot standby power vs heat-on-demand plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of always-hot standby power vs heat-on-demand, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the quick brew for a while." },
+  { criterion: "Speed normalized to volume brewed", explanation: "A single-serve cup and a full 10-cup carafe are not directly comparable on brew time. Where possible, compare machines against the same volume, since a machine that brews a single cup fast may still take several minutes for a full pot.\n\nBuyers who skip past speed normalized to volume brewed tend to be the ones leaving disappointed reviews later, not because the quick brew was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each quick brew in this roundup actually handles speed normalized to volume brewed rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Setup and cleanup time", explanation: "A fast brew cycle does not capture the total time cost of a coffee maker. Filling the reservoir, inserting a filter, and cleaning the carafe or brew basket afterward all add real minutes that a headline brew-time number ignores.\n\nSetup and cleanup time is easy to overlook next to flashier specs, but it's frequently the difference between a quick brew that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on setup and cleanup time directly from the current listing before ordering, since this is one of the more common places where two similarly priced quick brew options genuinely diverge." },
+  { criterion: "Brew strength, not just brew speed", explanation: "A genuinely fast but thin, weak brew is not a win. Check that a fast machine also offers a strength setting or produces a full-bodied cup at its default setting before optimizing for speed alone.\n\nGetting this wrong is one of the more common reasons a quick brew purchase disappoints once it actually arrives, since brew strength, not just brew speed affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on brew strength, not just brew speed rather than assuming every quick brew in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

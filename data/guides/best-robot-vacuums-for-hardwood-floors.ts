@@ -235,31 +235,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Fine dust and sand pickup vs scattering risk",
-    explanation:
-      "Hardwood shows fine dust and tracked-in sand more visibly than carpet, and a robot with weak suction can scatter it into corners instead of collecting it. Prioritize models with a clearly rated suction figure and check recent reviews for how well they handle fine debris specifically on hard floors.",
-  },
-  {
-    criterion: "Wheel and brush grit buildup that can scratch floors over time",
-    explanation:
-      "Grit trapped in wheels or a brush roller can act like sandpaper against a hardwood finish over repeated passes. Check recent reviews for reports of scratching, and plan on periodically inspecting and cleaning wheels and brushes regardless of which model you choose.",
-  },
-  {
-    criterion: "Mop water output and residual moisture control",
-    explanation:
-      "Too much mop water on hardwood risks warping or dulling a finish over time, especially at seams. Check recent reviews for how each model's mop water output behaves on hardwood specifically, and consider a vacuum-only model if you already mop manually.",
-  },
-  {
-    criterion: "Whether the listing specifies hardwood-safe cleaning solution guidance",
-    explanation:
-      "Not every mop-equipped listing states which cleaning solutions are safe for hardwood versus tile or laminate. If a listing is silent on this, check recent reviews or the manufacturer's support page before adding anything beyond plain water to the mop tank.",
-  },
-  {
-    criterion: "Wall-edge and corner pickup on hard floors",
-    explanation:
-      "Debris tends to collect along baseboards and in corners on hardwood more visibly than on carpet. Models with mapping or edge-sensing features, as noted in their listings, tend to handle these areas more consistently than ones that rely on a simple bounce pattern.",
-  },
+  { criterion: "Fine dust and sand pickup vs scattering risk", explanation: "Hardwood shows fine dust and tracked-in sand more visibly than carpet, and a robot with weak suction can scatter it into corners instead of collecting it. Prioritize models with a clearly rated suction figure and check recent reviews for how well they handle fine debris specifically on hard floors.\n\nGetting this wrong is one of the more common reasons a hardwood floors purchase disappoints once it actually arrives, since fine dust and sand pickup vs scattering risk affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on fine dust and sand pickup vs scattering risk rather than assuming every hardwood floors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Wheel and brush grit buildup that can scratch floors over time", explanation: "Grit trapped in wheels or a brush roller can act like sandpaper against a hardwood finish over repeated passes. Check recent reviews for reports of scratching, and plan on periodically inspecting and cleaning wheels and brushes regardless of which model you choose.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a hardwood floors weeks after buying, since wheel and brush grit buildup that can scratch floors over time plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of wheel and brush grit buildup that can scratch floors over time, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the hardwood floors for a while." },
+  { criterion: "Mop water output and residual moisture control", explanation: "Too much mop water on hardwood risks warping or dulling a finish over time, especially at seams. Check recent reviews for how each model's mop water output behaves on hardwood specifically, and consider a vacuum-only model if you already mop manually.\n\nBuyers who skip past mop water output and residual moisture control tend to be the ones leaving disappointed reviews later, not because the hardwood floors was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each hardwood floors in this roundup actually handles mop water output and residual moisture control rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Whether the listing specifies hardwood-safe cleaning solution guidance", explanation: "Not every mop-equipped listing states which cleaning solutions are safe for hardwood versus tile or laminate. If a listing is silent on this, check recent reviews or the manufacturer's support page before adding anything beyond plain water to the mop tank.\n\nWhether the listing specifies hardwood-safe cleaning solution guidance is easy to overlook next to flashier specs, but it's frequently the difference between a hardwood floors that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on whether the listing specifies hardwood-safe cleaning solution guidance directly from the current listing before ordering, since this is one of the more common places where two similarly priced hardwood floors options genuinely diverge." },
+  { criterion: "Wall-edge and corner pickup on hard floors", explanation: "Debris tends to collect along baseboards and in corners on hardwood more visibly than on carpet. Models with mapping or edge-sensing features, as noted in their listings, tend to handle these areas more consistently than ones that rely on a simple bounce pattern.\n\nGetting this wrong is one of the more common reasons a hardwood floors purchase disappoints once it actually arrives, since wall-edge and corner pickup on hard floors affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on wall-edge and corner pickup on hard floors rather than assuming every hardwood floors in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

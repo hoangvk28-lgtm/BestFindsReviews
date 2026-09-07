@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Pool type compatibility",
-    explanation:
-      "Above-ground, flat-bottom pools and larger in-ground pools with sloped floors and steps put different demands on a cleaner. Confirm the specific model is rated for your pool type before buying, since a unit built for flat above-ground pools may struggle with sloped in-ground floors.",
-  },
-  {
-    criterion: "Wall and waterline coverage",
-    explanation:
-      "Some models focus mainly on the pool floor, while others add dedicated wall-climbing and waterline scrubbing. If scum buildup at the tile line is your main frustration, prioritize a model that specifically advertises wall and waterline cleaning rather than floor coverage alone.",
-  },
-  {
-    criterion: "Runtime vs pool size",
-    explanation:
-      "Listed runtimes in this comparison range from 120 to 270 minutes. Match runtime to your actual pool size and shape, since a large or irregularly shaped pool can need the longer end of that range to complete a full cycle in one pass.",
-  },
-  {
-    criterion: "Retrieval weight and ease",
-    explanation:
-      "A pool cleaner has to be lifted out of the water after every cycle, and a heavier corded unit is meaningfully harder to retrieve than a lightweight cordless one. Auto-parking or auto-docking features that bring the unit to the pool edge make this routine easier regardless of weight.",
-  },
-  {
-    criterion: "Filter basket access",
-    explanation:
-      "Top-load filter baskets are generally quicker to empty than bottom-mounted compartments that require flipping the unit over. If you plan to run the cleaner frequently, easy basket access saves real time over a pool season.",
-  },
-  {
-    criterion: "Cordless vs corded design",
-    explanation:
-      "Cordless models avoid tangled or snagged cables but are limited by battery runtime, while corded models generally run longer per session but require managing a cable around ladders and steps. Neither is universally better; it depends on how much you value convenience versus runtime.",
-  },
+  { criterion: "Pool type compatibility", explanation: "Above-ground, flat-bottom pools and larger in-ground pools with sloped floors and steps put different demands on a cleaner. Confirm the specific model is rated for your pool type before buying, since a unit built for flat above-ground pools may struggle with sloped in-ground floors.\n\nGetting this wrong is one of the more common reasons a robot pool vacuums purchase disappoints once it actually arrives, since pool type compatibility affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on pool type compatibility rather than assuming every robot pool vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Wall and waterline coverage", explanation: "Some models focus mainly on the pool floor, while others add dedicated wall-climbing and waterline scrubbing. If scum buildup at the tile line is your main frustration, prioritize a model that specifically advertises wall and waterline cleaning rather than floor coverage alone.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot pool vacuums weeks after buying, since wall and waterline coverage plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of wall and waterline coverage, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot pool vacuums for a while." },
+  { criterion: "Runtime vs pool size", explanation: "Listed runtimes in this comparison range from 120 to 270 minutes. Match runtime to your actual pool size and shape, since a large or irregularly shaped pool can need the longer end of that range to complete a full cycle in one pass.\n\nBuyers who skip past runtime vs pool size tend to be the ones leaving disappointed reviews later, not because the robot pool vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot pool vacuums in this roundup actually handles runtime vs pool size rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Retrieval weight and ease", explanation: "A pool cleaner has to be lifted out of the water after every cycle, and a heavier corded unit is meaningfully harder to retrieve than a lightweight cordless one. Auto-parking or auto-docking features that bring the unit to the pool edge make this routine easier regardless of weight.\n\nRetrieval weight and ease is easy to overlook next to flashier specs, but it's frequently the difference between a robot pool vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on retrieval weight and ease directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot pool vacuums options genuinely diverge." },
+  { criterion: "Filter basket access", explanation: "Top-load filter baskets are generally quicker to empty than bottom-mounted compartments that require flipping the unit over. If you plan to run the cleaner frequently, easy basket access saves real time over a pool season.\n\nGetting this wrong is one of the more common reasons a robot pool vacuums purchase disappoints once it actually arrives, since filter basket access affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on filter basket access rather than assuming every robot pool vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Cordless vs corded design", explanation: "Cordless models avoid tangled or snagged cables but are limited by battery runtime, while corded models generally run longer per session but require managing a cable around ladders and steps. Neither is universally better; it depends on how much you value convenience versus runtime.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot pool vacuums weeks after buying, since cordless vs corded design plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of cordless vs corded design, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot pool vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

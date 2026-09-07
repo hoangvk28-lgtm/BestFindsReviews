@@ -160,31 +160,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Clock retention through a power outage",
-    explanation:
-      "Most programmable coffee makers lose their clock and programmed brew time after even a brief power interruption unless they have battery backup. None of the five models here state battery backup in their listings, so treat this as unverified and budget a few minutes to reset the clock after any outage.",
-  },
-  {
-    criterion: "Number of steps to program",
-    explanation:
-      "Machines with dedicated large buttons for time, strength, and warming plate, like the Black+Decker Vortex, tend to take fewer total presses than touch-screen models that require navigating menus, like the SHARDOR. Fewer steps matters most if you reprogram often.",
-  },
-  {
-    criterion: "Auto-off timing and whether it is adjustable",
-    explanation:
-      "Some models fix auto shutoff at 2 hours, like the Black+Decker and SHARDOR here, while the Cuisinart DCC-1200P1 allows 0 to 4 hours. If you like coffee to stay warm longer without restarting the machine, an adjustable auto-off is worth prioritizing.",
-  },
-  {
-    criterion: "Display clarity for early-morning use",
-    explanation:
-      "Large rubberized buttons with a backlit display, as on the Black+Decker and Cuisinart, are generally easier to read and operate half-awake than a touch screen interface, which can require more precise taps.",
-  },
-  {
-    criterion: "Smart plug as a lower-cost alternative",
-    explanation:
-      "A basic non-programmable coffee maker on a smart plug can achieve scheduled auto-start for less money than a built-in programmable machine, though it will not replicate auto-off, strength control, or small-batch adjustments that the machine itself handles.",
-  },
+  { criterion: "Clock retention through a power outage", explanation: "Most programmable coffee makers lose their clock and programmed brew time after even a brief power interruption unless they have battery backup. None of the five models here state battery backup in their listings, so treat this as unverified and budget a few minutes to reset the clock after any outage.\n\nGetting this wrong is one of the more common reasons a coffee makers programmable purchase disappoints once it actually arrives, since clock retention through a power outage affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on clock retention through a power outage rather than assuming every coffee makers programmable in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Number of steps to program", explanation: "Machines with dedicated large buttons for time, strength, and warming plate, like the Black+Decker Vortex, tend to take fewer total presses than touch-screen models that require navigating menus, like the SHARDOR. Fewer steps matters most if you reprogram often.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers programmable weeks after buying, since number of steps to program plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of number of steps to program, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers programmable for a while." },
+  { criterion: "Auto-off timing and whether it is adjustable", explanation: "Some models fix auto shutoff at 2 hours, like the Black+Decker and SHARDOR here, while the Cuisinart DCC-1200P1 allows 0 to 4 hours. If you like coffee to stay warm longer without restarting the machine, an adjustable auto-off is worth prioritizing.\n\nBuyers who skip past auto-off timing and whether it is adjustable tend to be the ones leaving disappointed reviews later, not because the coffee makers programmable was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers programmable in this roundup actually handles auto-off timing and whether it is adjustable rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Display clarity for early-morning use", explanation: "Large rubberized buttons with a backlit display, as on the Black+Decker and Cuisinart, are generally easier to read and operate half-awake than a touch screen interface, which can require more precise taps.\n\nDisplay clarity for early-morning use is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers programmable that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on display clarity for early-morning use directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers programmable options genuinely diverge." },
+  { criterion: "Smart plug as a lower-cost alternative", explanation: "A basic non-programmable coffee maker on a smart plug can achieve scheduled auto-start for less money than a built-in programmable machine, though it will not replicate auto-off, strength control, or small-batch adjustments that the machine itself handles.\n\nGetting this wrong is one of the more common reasons a coffee makers programmable purchase disappoints once it actually arrives, since smart plug as a lower-cost alternative affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on smart plug as a lower-cost alternative rather than assuming every coffee makers programmable in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

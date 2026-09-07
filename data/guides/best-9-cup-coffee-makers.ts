@@ -109,36 +109,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Confirming a true 9-cup capacity versus an adjacent size",
-    explanation:
-      "Only one model in this comparison, the OXO Brew, is actually labeled and engineered as 9-cup at roughly 45oz. The Moccamaster brews closer to 40oz (8 cups) and the KRUPS closer to 51oz (10 cups); check stated ounces directly rather than assuming a listing found under '9 cup' searches is truly that size.",
-  },
-  {
-    criterion: "Whether exact capacity matters to you",
-    explanation:
-      "If your household brews a variable amount day to day, the difference between 40oz, 45oz, and 51oz total capacity is a matter of half a mug or so and may not matter in practice. If you need a precise 9-cup match for a specific routine, only the OXO delivers that exactly.",
-  },
-  {
-    criterion: "Certification and brew temperature control",
-    explanation:
-      "The OXO carries SCA Gold Cup certification for verified brew temperature. Neither the Moccamaster nor the KRUPS in this comparison carry that specific certification, though the Moccamaster is independently well regarded for brewing consistency.",
-  },
-  {
-    criterion: "Carafe type",
-    explanation:
-      "The OXO and Moccamaster both use thermal carafes that hold heat for hours without power; the KRUPS uses a glass carafe that needs an active warming plate to stay hot.",
-  },
-  {
-    criterion: "Price spread across this category",
-    explanation:
-      "Prices in this comparison range from about $53 for the KRUPS to over $300 for the Moccamaster, a wider spread than most single-size categories, reflecting how differently positioned these three machines actually are.",
-  },
-  {
-    criterion: "Considering the 8-cup or 10-cup guides instead",
-    explanation:
-      "Because genuinely 9-cup machines are limited, most buyers researching this size will find more current options by also checking our 8-cup and 10-cup guides, which cover the sizes immediately adjacent to what you are likely looking for.",
-  },
+  { criterion: "Confirming a true 9-cup capacity versus an adjacent size", explanation: "Only one model in this comparison, the OXO Brew, is actually labeled and engineered as 9-cup at roughly 45oz. The Moccamaster brews closer to 40oz (8 cups) and the KRUPS closer to 51oz (10 cups); check stated ounces directly rather than assuming a listing found under '9 cup' searches is truly that size.\n\nGetting this wrong is one of the more common reasons a coffee maker cup purchase disappoints once it actually arrives, since confirming a true 9-cup capacity versus an adjacent size affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on confirming a true 9-cup capacity versus an adjacent size rather than assuming every coffee maker cup in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Whether exact capacity matters to you", explanation: "If your household brews a variable amount day to day, the difference between 40oz, 45oz, and 51oz total capacity is a matter of half a mug or so and may not matter in practice. If you need a precise 9-cup match for a specific routine, only the OXO delivers that exactly.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee maker cup weeks after buying, since whether exact capacity matters to you plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of whether exact capacity matters to you, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee maker cup for a while." },
+  { criterion: "Certification and brew temperature control", explanation: "The OXO carries SCA Gold Cup certification for verified brew temperature. Neither the Moccamaster nor the KRUPS in this comparison carry that specific certification, though the Moccamaster is independently well regarded for brewing consistency.\n\nBuyers who skip past certification and brew temperature control tend to be the ones leaving disappointed reviews later, not because the coffee maker cup was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee maker cup in this roundup actually handles certification and brew temperature control rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Carafe type", explanation: "The OXO and Moccamaster both use thermal carafes that hold heat for hours without power; the KRUPS uses a glass carafe that needs an active warming plate to stay hot.\n\nCarafe type is easy to overlook next to flashier specs, but it's frequently the difference between a coffee maker cup that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on carafe type directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee maker cup options genuinely diverge." },
+  { criterion: "Price spread across this category", explanation: "Prices in this comparison range from about $53 for the KRUPS to over $300 for the Moccamaster, a wider spread than most single-size categories, reflecting how differently positioned these three machines actually are.\n\nGetting this wrong is one of the more common reasons a coffee maker cup purchase disappoints once it actually arrives, since price spread across this category affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price spread across this category rather than assuming every coffee maker cup in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Considering the 8-cup or 10-cup guides instead", explanation: "Because genuinely 9-cup machines are limited, most buyers researching this size will find more current options by also checking our 8-cup and 10-cup guides, which cover the sizes immediately adjacent to what you are likely looking for.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee maker cup weeks after buying, since considering the 8-cup or 10-cup guides instead plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of considering the 8-cup or 10-cup guides instead, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee maker cup for a while." },
 ];
 
 export const howWeEvaluated = [

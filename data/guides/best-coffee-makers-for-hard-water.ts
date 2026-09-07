@@ -160,36 +160,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Water hardness reference point",
-    explanation:
-      "Water hardness is commonly measured in grains per gallon, with anything above roughly 7 gpg generally considered hard. Test your water or check your local utility's report before assuming you need aggressive descaling measures.",
-  },
-  {
-    criterion: "Descale access, not just descale alerts",
-    explanation:
-      "A descale reminder light does not tell you whether the process itself requires removable, visible parts or awkward internal disassembly. Check the specific model's manual or listing photos for how descaling actually works before buying.",
-  },
-  {
-    criterion: "Filter availability",
-    explanation:
-      "Machines compatible with charcoal water filter cartridges, like the Cuisinart here, reduce mineral load before it reaches the heating element. Confirm filter compatibility and typical replacement cost, commonly every two months, before assuming a machine supports filtration at all.",
-  },
-  {
-    criterion: "Typical descale interval for your hardness level",
-    explanation:
-      "A commonly cited baseline is descaling every 3 months for average water hardness, but genuinely hard water above roughly 10 to 15 gpg may need more frequent descaling. Adjust the interval to your actual water test results rather than a generic default.",
-  },
-  {
-    criterion: "Effect of ignored scale buildup",
-    explanation:
-      "Left unaddressed, scale buildup can gradually reduce brew temperature and slow flow rate through internal tubing, both of which degrade cup quality over time even before the machine fails outright. Treat descale reminders as a real performance issue, not just a maintenance nag.",
-  },
-  {
-    criterion: "Manufacturer guidance over generic vinegar folklore",
-    explanation:
-      "Some manufacturers explicitly warn against vinegar for descaling because it can degrade certain internal seals or gaskets over repeated use. Always check the current manual for your specific model's approved descaling solution rather than defaulting to vinegar.",
-  },
+  { criterion: "Water hardness reference point", explanation: "Water hardness is commonly measured in grains per gallon, with anything above roughly 7 gpg generally considered hard. Test your water or check your local utility's report before assuming you need aggressive descaling measures.\n\nGetting this wrong is one of the more common reasons a hard water purchase disappoints once it actually arrives, since water hardness reference point affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on water hardness reference point rather than assuming every hard water in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Descale access, not just descale alerts", explanation: "A descale reminder light does not tell you whether the process itself requires removable, visible parts or awkward internal disassembly. Check the specific model's manual or listing photos for how descaling actually works before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a hard water weeks after buying, since descale access, not just descale alerts plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of descale access, not just descale alerts, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the hard water for a while." },
+  { criterion: "Filter availability", explanation: "Machines compatible with charcoal water filter cartridges, like the Cuisinart here, reduce mineral load before it reaches the heating element. Confirm filter compatibility and typical replacement cost, commonly every two months, before assuming a machine supports filtration at all.\n\nBuyers who skip past filter availability tend to be the ones leaving disappointed reviews later, not because the hard water was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each hard water in this roundup actually handles filter availability rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Typical descale interval for your hardness level", explanation: "A commonly cited baseline is descaling every 3 months for average water hardness, but genuinely hard water above roughly 10 to 15 gpg may need more frequent descaling. Adjust the interval to your actual water test results rather than a generic default.\n\nTypical descale interval for your hardness level is easy to overlook next to flashier specs, but it's frequently the difference between a hard water that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on typical descale interval for your hardness level directly from the current listing before ordering, since this is one of the more common places where two similarly priced hard water options genuinely diverge." },
+  { criterion: "Effect of ignored scale buildup", explanation: "Left unaddressed, scale buildup can gradually reduce brew temperature and slow flow rate through internal tubing, both of which degrade cup quality over time even before the machine fails outright. Treat descale reminders as a real performance issue, not just a maintenance nag.\n\nGetting this wrong is one of the more common reasons a hard water purchase disappoints once it actually arrives, since effect of ignored scale buildup affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on effect of ignored scale buildup rather than assuming every hard water in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Manufacturer guidance over generic vinegar folklore", explanation: "Some manufacturers explicitly warn against vinegar for descaling because it can degrade certain internal seals or gaskets over repeated use. Always check the current manual for your specific model's approved descaling solution rather than defaulting to vinegar.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a hard water weeks after buying, since manufacturer guidance over generic vinegar folklore plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of manufacturer guidance over generic vinegar folklore, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the hard water for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Over-extraction risk from recirculation",
-    explanation:
-      "Percolators work by repeatedly cycling boiling water up through the grounds, which is what makes them fast but also means leaving one percolating too long, or on keep-warm for an extended period, commonly produces a bitter, over-extracted cup.",
-  },
-  {
-    criterion: "Brew time at minimum vs maximum capacity",
-    explanation:
-      "A 12-cup percolator brewing a 2-cup batch does not necessarily finish proportionally faster, since the stem still needs to establish a full cycling pattern. An 8-cup model like the Farberware brews its full capacity faster than a 12-cup model brewing a full pot.",
-  },
-  {
-    criterion: "Spout, lid, and exterior heat safety",
-    explanation:
-      "Percolators run hotter on the exterior than drip machines since the body itself holds near-boiling water throughout the cycle. Keep hands clear of the sides during active brewing and rely on the designated handle, and check cord placement since some models use a detachable cord specifically to reduce clutter near the hot base.",
-  },
-  {
-    criterion: "Stem and basket cleaning",
-    explanation:
-      "The percolator stem and grounds basket need to be disassembled and rinsed separately from the pot after each use to prevent stale coffee oil buildup, which affects flavor in future brews even if the pot itself looks clean.",
-  },
-  {
-    criterion: "Household unit vs event-style urn",
-    explanation:
-      "The models in this comparison are household percolators sized for 8 to 12 cups. Larger event-style coffee urns serve dozens of cups and have different heating and dispensing mechanisms; do not assume a household percolator scales the same way for a large gathering.",
-  },
+  { criterion: "Over-extraction risk from recirculation", explanation: "Percolators work by repeatedly cycling boiling water up through the grounds, which is what makes them fast but also means leaving one percolating too long, or on keep-warm for an extended period, commonly produces a bitter, over-extracted cup.\n\nGetting this wrong is one of the more common reasons a percolator coffee makers purchase disappoints once it actually arrives, since over-extraction risk from recirculation affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on over-extraction risk from recirculation rather than assuming every percolator coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Brew time at minimum vs maximum capacity", explanation: "A 12-cup percolator brewing a 2-cup batch does not necessarily finish proportionally faster, since the stem still needs to establish a full cycling pattern. An 8-cup model like the Farberware brews its full capacity faster than a 12-cup model brewing a full pot.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a percolator coffee makers weeks after buying, since brew time at minimum vs maximum capacity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of brew time at minimum vs maximum capacity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the percolator coffee makers for a while." },
+  { criterion: "Spout, lid, and exterior heat safety", explanation: "Percolators run hotter on the exterior than drip machines since the body itself holds near-boiling water throughout the cycle. Keep hands clear of the sides during active brewing and rely on the designated handle, and check cord placement since some models use a detachable cord specifically to reduce clutter near the hot base.\n\nBuyers who skip past spout, lid, and exterior heat safety tend to be the ones leaving disappointed reviews later, not because the percolator coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each percolator coffee makers in this roundup actually handles spout, lid, and exterior heat safety rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Stem and basket cleaning", explanation: "The percolator stem and grounds basket need to be disassembled and rinsed separately from the pot after each use to prevent stale coffee oil buildup, which affects flavor in future brews even if the pot itself looks clean.\n\nStem and basket cleaning is easy to overlook next to flashier specs, but it's frequently the difference between a percolator coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on stem and basket cleaning directly from the current listing before ordering, since this is one of the more common places where two similarly priced percolator coffee makers options genuinely diverge." },
+  { criterion: "Household unit vs event-style urn", explanation: "The models in this comparison are household percolators sized for 8 to 12 cups. Larger event-style coffee urns serve dozens of cups and have different heating and dispensing mechanisms; do not assume a household percolator scales the same way for a large gathering.\n\nGetting this wrong is one of the more common reasons a percolator coffee makers purchase disappoints once it actually arrives, since household unit vs event-style urn affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on household unit vs event-style urn rather than assuming every percolator coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

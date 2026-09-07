@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Single-pass vs recirculating extraction",
-    explanation:
-      "A drip machine passes water through the grounds once and stops. A percolator recirculates boiling water repeatedly through the same grounds until the cycle ends, which extracts more compounds and produces a bolder, sometimes more bitter cup if the cycle runs long or the grind is too fine.",
-  },
-  {
-    criterion: "Brew time and taste consistency",
-    explanation:
-      "Drip machines brew in a predictable 5 to 10 minute single cycle with consistent extraction cup to cup. Percolators brew at roughly a cup a minute but rely on the machine's automatic temperature control or your own judgment to stop recirculation at the right point, so taste consistency varies more between brews.",
-  },
-  {
-    criterion: "Upfront cost",
-    explanation:
-      "The percolators here run $69 to $77, cheaper than the BUNN drip machine at $165 but more than the basic BLACK+DECKER drip machine at $31.49. Percolators generally sit in a lower-to-middle price band than full-featured programmable drip machines.",
-  },
-  {
-    criterion: "Exposed metal and heat safety",
-    explanation:
-      "A percolator's boiling recirculation means more of the exterior gets hot to the touch during brewing than an enclosed drip machine's housing. This is a real safety consideration around kids or pets, and worth factoring in alongside flavor preference.",
-  },
-  {
-    criterion: "Capacity and group-size fit",
-    explanation:
-      "The Presto's 12-cup capacity and simple mechanical design, with no electronics to fail, make it a common choice for larger groups, camping trips, or off-grid situations where a programmable drip machine's electronics are less practical.",
-  },
-  {
-    criterion: "Electronics vs mechanical reliability",
-    explanation:
-      "Percolators here have no programmable timer or digital display, just a heating element and automatic temperature control, which means fewer components that can fail and no dependence on a stable power source for programming, useful for basic off-grid setups.",
-  },
+  { criterion: "Single-pass vs recirculating extraction", explanation: "A drip machine passes water through the grounds once and stops. A percolator recirculates boiling water repeatedly through the same grounds until the cycle ends, which extracts more compounds and produces a bolder, sometimes more bitter cup if the cycle runs long or the grind is too fine.\n\nGetting this wrong is one of the more common reasons a coffee maker or percolator purchase disappoints once it actually arrives, since single-pass vs recirculating extraction affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on single-pass vs recirculating extraction rather than assuming every coffee maker or percolator in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Brew time and taste consistency", explanation: "Drip machines brew in a predictable 5 to 10 minute single cycle with consistent extraction cup to cup. Percolators brew at roughly a cup a minute but rely on the machine's automatic temperature control or your own judgment to stop recirculation at the right point, so taste consistency varies more between brews.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee maker or percolator weeks after buying, since brew time and taste consistency plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of brew time and taste consistency, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee maker or percolator for a while." },
+  { criterion: "Upfront cost", explanation: "The percolators here run $69 to $77, cheaper than the BUNN drip machine at $165 but more than the basic BLACK+DECKER drip machine at $31.49. Percolators generally sit in a lower-to-middle price band than full-featured programmable drip machines.\n\nBuyers who skip past upfront cost tend to be the ones leaving disappointed reviews later, not because the coffee maker or percolator was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each vs percolator in this roundup actually handles upfront cost rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Exposed metal and heat safety", explanation: "A percolator's boiling recirculation means more of the exterior gets hot to the touch during brewing than an enclosed drip machine's housing. This is a real safety consideration around kids or pets, and worth factoring in alongside flavor preference.\n\nExposed metal and heat safety is easy to overlook next to flashier specs, but it's frequently the difference between a coffee maker or percolator that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on exposed metal and heat safety directly from the current listing before ordering, since this is one of the more common places where two similarly priced vs percolator options genuinely diverge." },
+  { criterion: "Capacity and group-size fit", explanation: "The Presto's 12-cup capacity and simple mechanical design, with no electronics to fail, make it a common choice for larger groups, camping trips, or off-grid situations where a programmable drip machine's electronics are less practical.\n\nGetting this wrong is one of the more common reasons a coffee maker or percolator purchase disappoints once it actually arrives, since capacity and group-size fit affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on capacity and group-size fit rather than assuming every coffee maker or percolator in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Electronics vs mechanical reliability", explanation: "Percolators here have no programmable timer or digital display, just a heating element and automatic temperature control, which means fewer components that can fail and no dependence on a stable power source for programming, useful for basic off-grid setups.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee maker or percolator weeks after buying, since electronics vs mechanical reliability plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of electronics vs mechanical reliability, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee maker or percolator for a while." },
 ];
 
 export const howWeEvaluated = [

@@ -210,36 +210,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Navigation type at this budget",
-    explanation:
-      "Below $200, most models use gyroscope or random-path navigation rather than LiDAR mapping. LiDAR-based room mapping is typically reserved for models priced well above $200, so expect less systematic cleaning patterns and no saved room maps at this tier.",
-  },
-  {
-    criterion: "Self-empty docks are largely absent",
-    explanation:
-      "None of the products in this comparison include a self-empty dock. That feature adds significant cost and is generally found starting in the $300-plus range, so budget-tier buyers should plan on manually emptying the dustbin after each run.",
-  },
-  {
-    criterion: "Battery runtime expectations",
-    explanation:
-      "Runtimes in this comparison range from roughly 120 to 150 minutes on models that list a figure, which is enough for a single-floor apartment or a mid-size home in one charge cycle. Larger homes may need the robot to dock, recharge, and resume before finishing a full cleaning pass.",
-  },
-  {
-    criterion: "Realistic first-year consumable costs",
-    explanation:
-      "Budget robot vacuums still need replacement filters, side brushes, and occasional mop pads. Expect to spend roughly $20 to $40 per year on consumables for most models here, which is worth factoring into the total cost alongside the purchase price.",
-  },
-  {
-    criterion: "What you give up compared to the $300-plus tier",
-    explanation:
-      "Moving up to $300 and beyond typically adds LiDAR mapping, no-go zones, self-empty docks, and more consistent suction across carpet and hard floors. Under $200, you are trading those conveniences for a lower upfront price and a simpler, less automated cleaning experience.",
-  },
-  {
-    criterion: "Vacuum-only vs vacuum-and-mop combo",
-    explanation:
-      "Several products here combine light mopping with vacuuming, but at this price the mopping function is generally a light wet pass rather than a scrubbing mop. If floor mopping is a priority, check whether the specific model includes it before assuming it does.",
-  },
+  { criterion: "Navigation type at this budget", explanation: "Below $200, most models use gyroscope or random-path navigation rather than LiDAR mapping. LiDAR-based room mapping is typically reserved for models priced well above $200, so expect less systematic cleaning patterns and no saved room maps at this tier.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since navigation type at this budget affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on navigation type at this budget rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty docks are largely absent", explanation: "None of the products in this comparison include a self-empty dock. That feature adds significant cost and is generally found starting in the $300-plus range, so budget-tier buyers should plan on manually emptying the dustbin after each run.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since self-empty docks are largely absent plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty docks are largely absent, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
+  { criterion: "Battery runtime expectations", explanation: "Runtimes in this comparison range from roughly 120 to 150 minutes on models that list a figure, which is enough for a single-floor apartment or a mid-size home in one charge cycle. Larger homes may need the robot to dock, recharge, and resume before finishing a full cleaning pass.\n\nBuyers who skip past battery runtime expectations tend to be the ones leaving disappointed reviews later, not because the robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot vacuums in this roundup actually handles battery runtime expectations rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Realistic first-year consumable costs", explanation: "Budget robot vacuums still need replacement filters, side brushes, and occasional mop pads. Expect to spend roughly $20 to $40 per year on consumables for most models here, which is worth factoring into the total cost alongside the purchase price.\n\nRealistic first-year consumable costs is easy to overlook next to flashier specs, but it's frequently the difference between a robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on realistic first-year consumable costs directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot vacuums options genuinely diverge." },
+  { criterion: "What you give up compared to the $300-plus tier", explanation: "Moving up to $300 and beyond typically adds LiDAR mapping, no-go zones, self-empty docks, and more consistent suction across carpet and hard floors. Under $200, you are trading those conveniences for a lower upfront price and a simpler, less automated cleaning experience.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since what you give up compared to the $300-plus tier affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what you give up compared to the $300-plus tier rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Vacuum-only vs vacuum-and-mop combo", explanation: "Several products here combine light mopping with vacuuming, but at this price the mopping function is generally a light wet pass rather than a scrubbing mop. If floor mopping is a priority, check whether the specific model includes it before assuming it does.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since vacuum-only vs vacuum-and-mop combo plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of vacuum-only vs vacuum-and-mop combo, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

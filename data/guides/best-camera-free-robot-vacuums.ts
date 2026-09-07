@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Confirming no onboard navigation or dock camera exists",
-    explanation:
-      "Some robot vacuums use a front-facing or top-mounted camera for object recognition, and some docks include a camera for self-portrait mapping or remote monitoring. Check the specific model's spec sheet for terms like camera, vision-based, or live view before assuming a model is camera-free just because it is not marketed that way.",
-  },
-  {
-    criterion: "Cord, sock, and pet-waste avoidance without vision-based detection",
-    explanation:
-      "Camera-equipped vacuums often use AI object recognition to steer around cords, socks, or pet waste before contact. Camera-free models rely on physical bump sensors or cliff sensors instead, which generally means more direct contact with small obstacles rather than avoidance before the fact. If you have pets or young kids and this matters, keep the floor clear before each run.",
-  },
-  {
-    criterion: "LiDAR-only vs bump-navigation tradeoffs",
-    explanation:
-      "LiDAR uses laser distance measurement to build a room map without any camera, and generally produces more methodical, row-by-row cleaning coverage. Bump-sensor models are simpler and often cheaper but clean in a more randomized pattern and may miss corners more often. Both approaches are camera-free; they differ in mapping precision, not in whether a lens is present.",
-  },
-  {
-    criterion: "Local operation and map deletion options",
-    explanation:
-      "Even without a camera, most connected models store a floor map and cleaning history somewhere, often synced to the manufacturer's cloud by default. Check the companion app for a local-only or map deletion option if you want to limit how long that data persists.",
-  },
-  {
-    criterion: "Account requirements even without a camera",
-    explanation:
-      "Many camera-free models still require an account sign-up and Wi-Fi connection to unlock scheduling, mapping, or self-empty features. That account can log usage history and network metadata independent of any camera. Check the manufacturer's current documentation for what is collected and whether offline-only operation is possible if that is a priority for you.",
-  },
-  {
-    criterion: "Self-empty interval and ongoing maintenance",
-    explanation:
-      "Self-empty intervals range from roughly 7 to 9 weeks on the longer end of this comparison down to models needing more frequent manual emptying. Factor bag or bin cost and swap frequency into the real cost of ownership, not just the upfront price.",
-  },
+  { criterion: "Confirming no onboard navigation or dock camera exists", explanation: "Some robot vacuums use a front-facing or top-mounted camera for object recognition, and some docks include a camera for self-portrait mapping or remote monitoring. Check the specific model's spec sheet for terms like camera, vision-based, or live view before assuming a model is camera-free just because it is not marketed that way.\n\nGetting this wrong is one of the more common reasons a camera-free robot vacuums purchase disappoints once it actually arrives, since confirming no onboard navigation or dock camera exists affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on confirming no onboard navigation or dock camera exists rather than assuming every camera-free robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Cord, sock, and pet-waste avoidance without vision-based detection", explanation: "Camera-equipped vacuums often use AI object recognition to steer around cords, socks, or pet waste before contact. Camera-free models rely on physical bump sensors or cliff sensors instead, which generally means more direct contact with small obstacles rather than avoidance before the fact. If you have pets or young kids and this matters, keep the floor clear before each run.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a camera-free robot vacuums weeks after buying, since cord, sock, and pet-waste avoidance without vision-based detection plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of cord, sock, and pet-waste avoidance without vision-based detection, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the camera-free robot vacuums for a while." },
+  { criterion: "LiDAR-only vs bump-navigation tradeoffs", explanation: "LiDAR uses laser distance measurement to build a room map without any camera, and generally produces more methodical, row-by-row cleaning coverage. Bump-sensor models are simpler and often cheaper but clean in a more randomized pattern and may miss corners more often. Both approaches are camera-free; they differ in mapping precision, not in whether a lens is present.\n\nBuyers who skip past lidar-only vs bump-navigation tradeoffs tend to be the ones leaving disappointed reviews later, not because the camera-free robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each camera-free robot vacuums in this roundup actually handles lidar-only vs bump-navigation tradeoffs rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Local operation and map deletion options", explanation: "Even without a camera, most connected models store a floor map and cleaning history somewhere, often synced to the manufacturer's cloud by default. Check the companion app for a local-only or map deletion option if you want to limit how long that data persists.\n\nLocal operation and map deletion options is easy to overlook next to flashier specs, but it's frequently the difference between a camera-free robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on local operation and map deletion options directly from the current listing before ordering, since this is one of the more common places where two similarly priced camera-free robot vacuums options genuinely diverge." },
+  { criterion: "Account requirements even without a camera", explanation: "Many camera-free models still require an account sign-up and Wi-Fi connection to unlock scheduling, mapping, or self-empty features. That account can log usage history and network metadata independent of any camera. Check the manufacturer's current documentation for what is collected and whether offline-only operation is possible if that is a priority for you.\n\nGetting this wrong is one of the more common reasons a camera-free robot vacuums purchase disappoints once it actually arrives, since account requirements even without a camera affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on account requirements even without a camera rather than assuming every camera-free robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty interval and ongoing maintenance", explanation: "Self-empty intervals range from roughly 7 to 9 weeks on the longer end of this comparison down to models needing more frequent manual emptying. Factor bag or bin cost and swap frequency into the real cost of ownership, not just the upfront price.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a camera-free robot vacuums weeks after buying, since self-empty interval and ongoing maintenance plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty interval and ongoing maintenance, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the camera-free robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

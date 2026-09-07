@@ -227,36 +227,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "What's realistically included at this price",
-    explanation:
-      "Under $300 typically buys real suction (5,000 to 10,000Pa on the models we compared), app or voice control, and often a basic attached mop pad. What it usually does not buy is precise room-by-room mapping with saved no-go zones, features that are more consistent on $500-plus models.",
-  },
-  {
-    criterion: "Dock type: basic vs self-empty",
-    explanation:
-      "Most models under $300 use a basic charging dock only, meaning you empty the dustbin by hand after each run. A genuine self-empty base, like the top pick's, is uncommon at this price and worth prioritizing if hands-off maintenance matters more than saving another $100.",
-  },
-  {
-    criterion: "Minimum acceptable navigation standard",
-    explanation:
-      "At minimum, look for a model with some form of structured navigation, grid patterns or gyroscopic path planning, rather than pure random bounce. Several models in this comparison skip full room mapping but still navigate in a structured way, which is an acceptable floor at this price.",
-  },
-  {
-    criterion: "Minimum acceptable battery standard",
-    explanation:
-      "Aim for at least 100 to 120 minutes of runtime, enough to cover a typical apartment or small house in one charge. Models below that threshold may need to pause and recharge mid-clean on larger floor plans.",
-  },
-  {
-    criterion: "Realistic first-year consumable costs",
-    explanation:
-      "Expect to budget for replacement filters, side brushes, and mop pads (where applicable), typically $20 to $40 per year depending on usage. Self-empty bases add the cost of replacement dust bags unless the base is bagless, as with the Shark model in this comparison.",
-  },
-  {
-    criterion: "Tradeoffs vs stepping up a tier",
-    explanation:
-      "A $500 model typically adds more capable self-empty bases with longer no-empty intervals, true mop-and-vacuum switching without a separate pad swap, and more reliable room mapping with saved multi-floor maps. If none of those specifically matter to your home, a sub-$300 model with strong suction and a basic dock is a reasonable stopping point.",
-  },
+  { criterion: "What's realistically included at this price", explanation: "Under $300 typically buys real suction (5,000 to 10,000Pa on the models we compared), app or voice control, and often a basic attached mop pad. What it usually does not buy is precise room-by-room mapping with saved no-go zones, features that are more consistent on $500-plus models.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since what's realistically included at this price affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on what's realistically included at this price rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Dock type: basic vs self-empty", explanation: "Most models under $300 use a basic charging dock only, meaning you empty the dustbin by hand after each run. A genuine self-empty base, like the top pick's, is uncommon at this price and worth prioritizing if hands-off maintenance matters more than saving another $100.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since dock type: basic vs self-empty plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of dock type: basic vs self-empty, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
+  { criterion: "Minimum acceptable navigation standard", explanation: "At minimum, look for a model with some form of structured navigation, grid patterns or gyroscopic path planning, rather than pure random bounce. Several models in this comparison skip full room mapping but still navigate in a structured way, which is an acceptable floor at this price.\n\nBuyers who skip past minimum acceptable navigation standard tend to be the ones leaving disappointed reviews later, not because the robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot vacuums in this roundup actually handles minimum acceptable navigation standard rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Minimum acceptable battery standard", explanation: "Aim for at least 100 to 120 minutes of runtime, enough to cover a typical apartment or small house in one charge. Models below that threshold may need to pause and recharge mid-clean on larger floor plans.\n\nMinimum acceptable battery standard is easy to overlook next to flashier specs, but it's frequently the difference between a robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on minimum acceptable battery standard directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot vacuums options genuinely diverge." },
+  { criterion: "Realistic first-year consumable costs", explanation: "Expect to budget for replacement filters, side brushes, and mop pads (where applicable), typically $20 to $40 per year depending on usage. Self-empty bases add the cost of replacement dust bags unless the base is bagless, as with the Shark model in this comparison.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since realistic first-year consumable costs affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on realistic first-year consumable costs rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Tradeoffs vs stepping up a tier", explanation: "A $500 model typically adds more capable self-empty bases with longer no-empty intervals, true mop-and-vacuum switching without a separate pad swap, and more reliable room mapping with saved multi-floor maps. If none of those specifically matter to your home, a sub-$300 model with strong suction and a basic dock is a reasonable stopping point.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since tradeoffs vs stepping up a tier plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of tradeoffs vs stepping up a tier, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

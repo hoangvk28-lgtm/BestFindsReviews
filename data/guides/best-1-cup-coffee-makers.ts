@@ -134,36 +134,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Actual brewed ounces, not the 'cup' label",
-    explanation:
-      "In this category 1 cup means a real single-mug brew, typically 6 to 14oz depending on the model, not the 5oz manufacturer cup used to size larger carafe machines. Check the stated ounce range on the listing before assuming '1 cup' matches your usual mug size.",
-  },
-  {
-    criterion: "Fill-per-brew vs small reservoir",
-    explanation:
-      "Models like the two Elite Gourmet units here have no reservoir at all, so you add water fresh at the machine every time, while the Horavie's small built-in tank and the Keurig's one-cup reservoir sit closer to a mini fill-once design. Fill-per-brew means fresher water each cup but an extra step every morning.",
-  },
-  {
-    criterion: "Pods, grounds, or both",
-    explanation:
-      "The Keurig K-Mini is pod-based by default (reusable filter sold separately), the two Elite Gourmet models brew grounds only, and the Horavie accepts either natively. Match this to whether you want the convenience of pods or the lower ongoing cost of grounds.",
-  },
-  {
-    criterion: "Brew time",
-    explanation:
-      "The Elite Gourmet models and Horavie all brew in under 2 minutes, faster than most larger drip machines, which matters if your morning routine is tight. Confirm brew time on the specific listing since it varies by model even within this compact category.",
-  },
-  {
-    criterion: "Footprint vs a 2-4 cup alternative",
-    explanation:
-      "A true 1-cup machine like the K-Mini is narrower than any 2-4 cup model, but if you occasionally need to brew for a second person, a compact 4-cup carafe machine may be worth the few extra inches of counter space instead of brewing twice.",
-  },
-  {
-    criterion: "Descale and maintenance reminders",
-    explanation:
-      "Only the Horavie in this comparison includes a built-in descale reminder. On models without one, set a manual reminder every 1 to 2 months of daily use, since single-serve machines' small internal tubing can clog faster than a large reservoir system.",
-  },
+  { criterion: "Actual brewed ounces, not the 'cup' label", explanation: "In this category 1 cup means a real single-mug brew, typically 6 to 14oz depending on the model, not the 5oz manufacturer cup used to size larger carafe machines. Check the stated ounce range on the listing before assuming '1 cup' matches your usual mug size.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since actual brewed ounces, not the 'cup' label affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on actual brewed ounces, not the 'cup' label rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Fill-per-brew vs small reservoir", explanation: "Models like the two Elite Gourmet units here have no reservoir at all, so you add water fresh at the machine every time, while the Horavie's small built-in tank and the Keurig's one-cup reservoir sit closer to a mini fill-once design. Fill-per-brew means fresher water each cup but an extra step every morning.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since fill-per-brew vs small reservoir plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of fill-per-brew vs small reservoir, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
+  { criterion: "Pods, grounds, or both", explanation: "The Keurig K-Mini is pod-based by default (reusable filter sold separately), the two Elite Gourmet models brew grounds only, and the Horavie accepts either natively. Match this to whether you want the convenience of pods or the lower ongoing cost of grounds.\n\nBuyers who skip past pods, grounds, or both tend to be the ones leaving disappointed reviews later, not because the cup coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each cup coffee makers in this roundup actually handles pods, grounds, or both rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Brew time", explanation: "The Elite Gourmet models and Horavie all brew in under 2 minutes, faster than most larger drip machines, which matters if your morning routine is tight. Confirm brew time on the specific listing since it varies by model even within this compact category.\n\nBrew time is easy to overlook next to flashier specs, but it's frequently the difference between a cup coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on brew time directly from the current listing before ordering, since this is one of the more common places where two similarly priced cup coffee makers options genuinely diverge." },
+  { criterion: "Footprint vs a 2-4 cup alternative", explanation: "A true 1-cup machine like the K-Mini is narrower than any 2-4 cup model, but if you occasionally need to brew for a second person, a compact 4-cup carafe machine may be worth the few extra inches of counter space instead of brewing twice.\n\nGetting this wrong is one of the more common reasons a cup coffee makers purchase disappoints once it actually arrives, since footprint vs a 2-4 cup alternative affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on footprint vs a 2-4 cup alternative rather than assuming every cup coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Descale and maintenance reminders", explanation: "Only the Horavie in this comparison includes a built-in descale reminder. On models without one, set a manual reminder every 1 to 2 months of daily use, since single-serve machines' small internal tubing can clog faster than a large reservoir system.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a cup coffee makers weeks after buying, since descale and maintenance reminders plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of descale and maintenance reminders, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the cup coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

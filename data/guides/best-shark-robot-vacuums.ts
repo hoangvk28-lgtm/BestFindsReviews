@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Vacuum-only vs 2-in-1 mop system",
-    explanation:
-      "Shark's lineup splits clearly into vacuum-only models (the Navigator and AI Ultra AV2511AE/AV2501S here) and 2-in-1 Matrix Plus models that vacuum and mop in the same pass. If you have significant hard flooring, a 2-in-1 model saves buying a separate mopping robot, but it also adds a water tank and mop pads to maintain.",
-  },
-  {
-    criterion: "Self-empty dock capacity",
-    explanation:
-      "Self-empty bases vary from none (RV2110, AV2120) to roughly 30-day capacity (AV2501S). A longer-interval dock means less hands-on emptying, but remember that a bagless self-empty dock still needs its own filter and dust-tray cleaning periodically, it is not maintenance-free just because the bin holds more.",
-  },
-  {
-    criterion: "Navigation type: SmartPath vs Matrix Clean",
-    explanation:
-      "Entry-level Navigator models use SmartPath navigation, while the AI Ultra and Matrix Plus lines use Matrix Clean with AI home mapping. Matrix Clean generally covers larger, more open floor plans more systematically, which matters more in bigger homes than small apartments.",
-  },
-  {
-    criterion: "Pet hair handling and filtration",
-    explanation:
-      "Look specifically for HEPA filtration and self-empty base capacity if pet hair and dander are a daily concern, since these details reduce how often you handle a full bin and how much fine debris gets recirculated into the air.",
-  },
-  {
-    criterion: "Exact model suffix and accessory bundle",
-    explanation:
-      "Shark reuses base model names across multiple suffixes (AV2511AE vs AV2501S, RV2110 vs RV2120AE), and these can differ in included accessories, dock type, or finish even when the core hardware looks similar. Always check the specific listing rather than assuming two similarly named models are identical.",
-  },
-  {
-    criterion: "Footprint and dock placement",
-    explanation:
-      "Self-empty bases need a wall outlet and enough clearance for the robot to dock reliably. Compact vacuum-only models without a dock (RV2110, AV2120) are easier to fit into small apartments where a full docking station isn't practical.",
-  },
+  { criterion: "Vacuum-only vs 2-in-1 mop system", explanation: "Shark's lineup splits clearly into vacuum-only models (the Navigator and AI Ultra AV2511AE/AV2501S here) and 2-in-1 Matrix Plus models that vacuum and mop in the same pass. If you have significant hard flooring, a 2-in-1 model saves buying a separate mopping robot, but it also adds a water tank and mop pads to maintain.\n\nGetting this wrong is one of the more common reasons a shark robot vacuums purchase disappoints once it actually arrives, since vacuum-only vs 2-in-1 mop system affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on vacuum-only vs 2-in-1 mop system rather than assuming every shark robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Self-empty dock capacity", explanation: "Self-empty bases vary from none (RV2110, AV2120) to roughly 30-day capacity (AV2501S). A longer-interval dock means less hands-on emptying, but remember that a bagless self-empty dock still needs its own filter and dust-tray cleaning periodically, it is not maintenance-free just because the bin holds more.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a shark robot vacuums weeks after buying, since self-empty dock capacity plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of self-empty dock capacity, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the shark robot vacuums for a while." },
+  { criterion: "Navigation type: SmartPath vs Matrix Clean", explanation: "Entry-level Navigator models use SmartPath navigation, while the AI Ultra and Matrix Plus lines use Matrix Clean with AI home mapping. Matrix Clean generally covers larger, more open floor plans more systematically, which matters more in bigger homes than small apartments.\n\nBuyers who skip past navigation type: smartpath vs matrix clean tend to be the ones leaving disappointed reviews later, not because the shark robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each shark robot vacuums in this roundup actually handles navigation type: smartpath vs matrix clean rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Pet hair handling and filtration", explanation: "Look specifically for HEPA filtration and self-empty base capacity if pet hair and dander are a daily concern, since these details reduce how often you handle a full bin and how much fine debris gets recirculated into the air.\n\nPet hair handling and filtration is easy to overlook next to flashier specs, but it's frequently the difference between a shark robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on pet hair handling and filtration directly from the current listing before ordering, since this is one of the more common places where two similarly priced shark robot vacuums options genuinely diverge." },
+  { criterion: "Exact model suffix and accessory bundle", explanation: "Shark reuses base model names across multiple suffixes (AV2511AE vs AV2501S, RV2110 vs RV2120AE), and these can differ in included accessories, dock type, or finish even when the core hardware looks similar. Always check the specific listing rather than assuming two similarly named models are identical.\n\nGetting this wrong is one of the more common reasons a shark robot vacuums purchase disappoints once it actually arrives, since exact model suffix and accessory bundle affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on exact model suffix and accessory bundle rather than assuming every shark robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Footprint and dock placement", explanation: "Self-empty bases need a wall outlet and enough clearance for the robot to dock reliably. Compact vacuum-only models without a dock (RV2110, AV2120) are easier to fit into small apartments where a full docking station isn't practical.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a shark robot vacuums weeks after buying, since footprint and dock placement plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of footprint and dock placement, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the shark robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

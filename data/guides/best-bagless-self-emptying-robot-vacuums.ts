@@ -235,36 +235,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Fine-dust exposure during bin removal and emptying",
-    explanation:
-      "Unlike a sealed bag you simply pull and discard, a bagless bin exposes you to whatever fine dust and hair it collected the moment you open it over the trash. Check whether a model's bin has a shroud or slide mechanism designed to limit that release before assuming all bagless docks handle this the same way.",
-  },
-  {
-    criterion: "Filter cleaning frequency and performance loss over time",
-    explanation:
-      "Bagless systems rely on a reusable filter that needs regular manual cleaning to keep suction from gradually dropping. Research how often the specific model's filter needs attention and how much suction owners report losing between cleanings before buying.",
-  },
-  {
-    criterion: "Dock seal and cyclone-path buildup",
-    explanation:
-      "The suction path between the robot and the bagless bin can accumulate hair and fine debris at seals and bends over months of use, which is a common source of reduced emptying performance. Look for owner feedback specifically about clogging at the dock rather than just the robot's floor performance.",
-  },
-  {
-    criterion: "Hygiene and effort compared to a sealed bagged dock",
-    explanation:
-      "A bagged self-empty dock lets you avoid touching collected dust entirely, while a bagless bin puts that task back on the owner every time it is emptied. If minimizing hands-on contact with dust and allergens is a priority, weigh that tradeoff carefully against the savings on bags.",
-  },
-  {
-    criterion: "Replacement-filter cost factored into total savings",
-    explanation:
-      "Skipping disposable bags does not mean zero ongoing cost. Reusable filters still wear out and need periodic replacement, so factor that cost into your comparison rather than assuming a bagless system has no consumable expenses at all.",
-  },
-  {
-    criterion: "Review volume as a reliability signal",
-    explanation:
-      "A high star rating on a model with only a few hundred reviews carries less weight than a similar rating backed by tens of thousands of reviews. Weigh both the rating and the sample size together when judging how proven a specific bagless dock design actually is.",
-  },
+  { criterion: "Fine-dust exposure during bin removal and emptying", explanation: "Unlike a sealed bag you simply pull and discard, a bagless bin exposes you to whatever fine dust and hair it collected the moment you open it over the trash. Check whether a model's bin has a shroud or slide mechanism designed to limit that release before assuming all bagless docks handle this the same way.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since fine-dust exposure during bin removal and emptying affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on fine-dust exposure during bin removal and emptying rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Filter cleaning frequency and performance loss over time", explanation: "Bagless systems rely on a reusable filter that needs regular manual cleaning to keep suction from gradually dropping. Research how often the specific model's filter needs attention and how much suction owners report losing between cleanings before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since filter cleaning frequency and performance loss over time plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of filter cleaning frequency and performance loss over time, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
+  { criterion: "Dock seal and cyclone-path buildup", explanation: "The suction path between the robot and the bagless bin can accumulate hair and fine debris at seals and bends over months of use, which is a common source of reduced emptying performance. Look for owner feedback specifically about clogging at the dock rather than just the robot's floor performance.\n\nBuyers who skip past dock seal and cyclone-path buildup tend to be the ones leaving disappointed reviews later, not because the robot vacuums was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each robot vacuums in this roundup actually handles dock seal and cyclone-path buildup rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Hygiene and effort compared to a sealed bagged dock", explanation: "A bagged self-empty dock lets you avoid touching collected dust entirely, while a bagless bin puts that task back on the owner every time it is emptied. If minimizing hands-on contact with dust and allergens is a priority, weigh that tradeoff carefully against the savings on bags.\n\nHygiene and effort compared to a sealed bagged dock is easy to overlook next to flashier specs, but it's frequently the difference between a robot vacuums that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on hygiene and effort compared to a sealed bagged dock directly from the current listing before ordering, since this is one of the more common places where two similarly priced robot vacuums options genuinely diverge." },
+  { criterion: "Replacement-filter cost factored into total savings", explanation: "Skipping disposable bags does not mean zero ongoing cost. Reusable filters still wear out and need periodic replacement, so factor that cost into your comparison rather than assuming a bagless system has no consumable expenses at all.\n\nGetting this wrong is one of the more common reasons a robot vacuums purchase disappoints once it actually arrives, since replacement-filter cost factored into total savings affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on replacement-filter cost factored into total savings rather than assuming every robot vacuums in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Review volume as a reliability signal", explanation: "A high star rating on a model with only a few hundred reviews carries less weight than a similar rating backed by tens of thousands of reviews. Weigh both the rating and the sample size together when judging how proven a specific bagless dock design actually is.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a robot vacuums weeks after buying, since review volume as a reliability signal plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of review volume as a reliability signal, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the robot vacuums for a while." },
 ];
 
 export const howWeEvaluated = [

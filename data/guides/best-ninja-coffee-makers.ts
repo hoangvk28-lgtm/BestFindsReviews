@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "How many brew modes you will actually use",
-    explanation:
-      "The Luxe Cafe's espresso, drip, and cold brew all being present does not mean you need all three. Count how many modes you would realistically use weekly before paying for capability that sits idle.",
-  },
-  {
-    criterion: "Pod compatibility versus grounds-only",
-    explanation:
-      "The CM401 brews grounds only, while the DualBrew Pro and PB051ST handle both pods and grounds. If you want the option to use K-Cup pods on busy mornings, confirm the specific model supports it before buying.",
-  },
-  {
-    criterion: "Cleaning burden scales with brewing modes",
-    explanation:
-      "A single-mode machine like the CM401 has fewer parts to clean than a dual-mode or 3-in-1 machine. Budget extra weekly cleaning time for any model that combines pods, grounds, and a frother in one unit.",
-  },
-  {
-    criterion: "Footprint versus feature count",
-    explanation:
-      "The Luxe Cafe's 3-in-1 design takes meaningfully more counter space than the compact PB051ST. Measure your available counter width against the specific model's footprint, not just its feature list.",
-  },
-  {
-    criterion: "Price jump between tiers",
-    explanation:
-      "The gap between the $99.97 PB051ST and the $599 Luxe Cafe is significant. Identify which specific features justify that jump for your household rather than defaulting to the most expensive option.",
-  },
+  { criterion: "How many brew modes you will actually use", explanation: "The Luxe Cafe's espresso, drip, and cold brew all being present does not mean you need all three. Count how many modes you would realistically use weekly before paying for capability that sits idle.\n\nGetting this wrong is one of the more common reasons a coffee makers ninja purchase disappoints once it actually arrives, since how many brew modes you will actually use affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on how many brew modes you will actually use rather than assuming every coffee makers ninja in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Pod compatibility versus grounds-only", explanation: "The CM401 brews grounds only, while the DualBrew Pro and PB051ST handle both pods and grounds. If you want the option to use K-Cup pods on busy mornings, confirm the specific model supports it before buying.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers ninja weeks after buying, since pod compatibility versus grounds-only plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of pod compatibility versus grounds-only, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers ninja for a while." },
+  { criterion: "Cleaning burden scales with brewing modes", explanation: "A single-mode machine like the CM401 has fewer parts to clean than a dual-mode or 3-in-1 machine. Budget extra weekly cleaning time for any model that combines pods, grounds, and a frother in one unit.\n\nBuyers who skip past cleaning burden scales with brewing modes tend to be the ones leaving disappointed reviews later, not because the coffee makers ninja was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers ninja in this roundup actually handles cleaning burden scales with brewing modes rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Footprint versus feature count", explanation: "The Luxe Cafe's 3-in-1 design takes meaningfully more counter space than the compact PB051ST. Measure your available counter width against the specific model's footprint, not just its feature list.\n\nFootprint versus feature count is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers ninja that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on footprint versus feature count directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers ninja options genuinely diverge." },
+  { criterion: "Price jump between tiers", explanation: "The gap between the $99.97 PB051ST and the $599 Luxe Cafe is significant. Identify which specific features justify that jump for your household rather than defaulting to the most expensive option.\n\nGetting this wrong is one of the more common reasons a coffee makers ninja purchase disappoints once it actually arrives, since price jump between tiers affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on price jump between tiers rather than assuming every coffee makers ninja in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

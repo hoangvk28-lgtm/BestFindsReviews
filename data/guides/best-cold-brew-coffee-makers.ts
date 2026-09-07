@@ -135,31 +135,11 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Servings are lower than pitcher capacity suggests",
-    explanation:
-      "Cold brew concentrate is typically diluted roughly 1:1 with water, milk, or ice before drinking, and grounds absorb some liquid during steeping. A 64oz pitcher of concentrate yields meaningfully fewer finished 8oz servings than 8, not more, once you account for both dilution and loss to the grounds.",
-  },
-  {
-    criterion: "Usable yield after sediment",
-    explanation:
-      "Straining always leaves some sediment behind or lets some through, depending on filter fineness. Built-in fine-mesh filters like Takeya's reduce this more than a basic mesh strainer, but no cold brew method eliminates sediment loss entirely.",
-  },
-  {
-    criterion: "Fridge footprint and lid seal quality",
-    explanation:
-      "A pitcher needs to actually fit your fridge door or shelf and stay sealed while jostled by other items. Leak-proof, airtight lids like Takeya's and County Line Kitchen's matter more here than they would for a countertop pitcher.",
-  },
-  {
-    criterion: "Grounds removal and cleaning difficulty",
-    explanation:
-      "Narrow-neck pitchers make grounds removal more tedious than wide-mouth mason-jar-style designs. Factor in how much daily cleanup friction you are willing to accept before committing to a narrower pitcher shape.",
-  },
-  {
-    criterion: "Manual steep-and-strain vs electric rapid brewing",
-    explanation:
-      "Manual systems need no equipment cost beyond the pitcher but require 12 to 24 hours of steep time. Electric systems like the VINCI Express cost 3 to 4 times more but produce concentrate in 10 to 25 minutes. Choose based on whether time or equipment cost matters more to your routine.",
-  },
+  { criterion: "Servings are lower than pitcher capacity suggests", explanation: "Cold brew concentrate is typically diluted roughly 1:1 with water, milk, or ice before drinking, and grounds absorb some liquid during steeping. A 64oz pitcher of concentrate yields meaningfully fewer finished 8oz servings than 8, not more, once you account for both dilution and loss to the grounds.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since servings are lower than pitcher capacity suggests affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on servings are lower than pitcher capacity suggests rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Usable yield after sediment", explanation: "Straining always leaves some sediment behind or lets some through, depending on filter fineness. Built-in fine-mesh filters like Takeya's reduce this more than a basic mesh strainer, but no cold brew method eliminates sediment loss entirely.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since usable yield after sediment plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of usable yield after sediment, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Fridge footprint and lid seal quality", explanation: "A pitcher needs to actually fit your fridge door or shelf and stay sealed while jostled by other items. Leak-proof, airtight lids like Takeya's and County Line Kitchen's matter more here than they would for a countertop pitcher.\n\nBuyers who skip past fridge footprint and lid seal quality tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles fridge footprint and lid seal quality rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Grounds removal and cleaning difficulty", explanation: "Narrow-neck pitchers make grounds removal more tedious than wide-mouth mason-jar-style designs. Factor in how much daily cleanup friction you are willing to accept before committing to a narrower pitcher shape.\n\nGrounds removal and cleaning difficulty is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on grounds removal and cleaning difficulty directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Manual steep-and-strain vs electric rapid brewing", explanation: "Manual systems need no equipment cost beyond the pitcher but require 12 to 24 hours of steep time. Electric systems like the VINCI Express cost 3 to 4 times more but produce concentrate in 10 to 25 minutes. Choose based on whether time or equipment cost matters more to your routine.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since manual steep-and-strain vs electric rapid brewing affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on manual steep-and-strain vs electric rapid brewing rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
 ];
 
 export const howWeEvaluated = [

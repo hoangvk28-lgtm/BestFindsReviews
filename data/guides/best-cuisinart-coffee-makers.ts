@@ -135,36 +135,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Real brewed ounces vs marketed cup count",
-    explanation:
-      "Cuisinart counts one cup as approximately 5 fluid ounces, not a full 8oz mug. A 12-cup rating brews about 60oz total, roughly seven and a half standard mugs, so compare capacity by ounces rather than the printed cup number if mug size matters to you.",
-  },
-  {
-    criterion: "Small-batch mode quality",
-    explanation:
-      "All four full-carafe models here include a 1 to 4 cup setting that adjusts the brew cycle for less water, which generally produces a stronger, more balanced small batch than running a full-size cycle on a partial fill. Confirm this setting exists on any Cuisinart model you are considering outside this list.",
-  },
-  {
-    criterion: "Glass carafe vs thermal carafe usability",
-    explanation:
-      "A glass carafe lets you see the fill level at a glance but loses heat once off the warming plate, while a thermal carafe like the DCC-3400's holds temperature longer but adds a lid with more parts to clean. Match this to how long coffee typically sits before the last cup in your household.",
-  },
-  {
-    criterion: "Model number differentiation",
-    explanation:
-      "DCC-1200 is the classic base model, DCC-3200 adds PerfecTemp and brew strength control at a lower price with a glass carafe, and DCC-3400 adds a thermal carafe and self-clean function. Match the model number to the specific features you actually want rather than assuming they are interchangeable.",
-  },
-  {
-    criterion: "Does the self-clean alert actually reduce scale buildup",
-    explanation:
-      "A decalcify indicator light signals when the machine detects buildup, but this is a convenience reminder, not a guarantee against mineral scale, which still depends on your water hardness and how often you actually run the self-clean cycle. Treat it as a nudge, not a replacement for a regular descaling schedule.",
-  },
-  {
-    criterion: "Carafe lid and pouring usability",
-    explanation:
-      "The dripless spout and knuckle guard on the DCC-1200 and DCC-3200 carafes reduce spills during pouring, a small but real daily convenience. Check whether a specific listing still includes this detail, since carafe designs can change between production runs.",
-  },
+  { criterion: "Real brewed ounces vs marketed cup count", explanation: "Cuisinart counts one cup as approximately 5 fluid ounces, not a full 8oz mug. A 12-cup rating brews about 60oz total, roughly seven and a half standard mugs, so compare capacity by ounces rather than the printed cup number if mug size matters to you.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since real brewed ounces vs marketed cup count affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on real brewed ounces vs marketed cup count rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Small-batch mode quality", explanation: "All four full-carafe models here include a 1 to 4 cup setting that adjusts the brew cycle for less water, which generally produces a stronger, more balanced small batch than running a full-size cycle on a partial fill. Confirm this setting exists on any Cuisinart model you are considering outside this list.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since small-batch mode quality plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of small-batch mode quality, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
+  { criterion: "Glass carafe vs thermal carafe usability", explanation: "A glass carafe lets you see the fill level at a glance but loses heat once off the warming plate, while a thermal carafe like the DCC-3400's holds temperature longer but adds a lid with more parts to clean. Match this to how long coffee typically sits before the last cup in your household.\n\nBuyers who skip past glass carafe vs thermal carafe usability tend to be the ones leaving disappointed reviews later, not because the coffee makers was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each coffee makers in this roundup actually handles glass carafe vs thermal carafe usability rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Model number differentiation", explanation: "DCC-1200 is the classic base model, DCC-3200 adds PerfecTemp and brew strength control at a lower price with a glass carafe, and DCC-3400 adds a thermal carafe and self-clean function. Match the model number to the specific features you actually want rather than assuming they are interchangeable.\n\nModel number differentiation is easy to overlook next to flashier specs, but it's frequently the difference between a coffee makers that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on model number differentiation directly from the current listing before ordering, since this is one of the more common places where two similarly priced coffee makers options genuinely diverge." },
+  { criterion: "Does the self-clean alert actually reduce scale buildup", explanation: "A decalcify indicator light signals when the machine detects buildup, but this is a convenience reminder, not a guarantee against mineral scale, which still depends on your water hardness and how often you actually run the self-clean cycle. Treat it as a nudge, not a replacement for a regular descaling schedule.\n\nGetting this wrong is one of the more common reasons a coffee makers purchase disappoints once it actually arrives, since does the self-clean alert actually reduce scale buildup affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on does the self-clean alert actually reduce scale buildup rather than assuming every coffee makers in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Carafe lid and pouring usability", explanation: "The dripless spout and knuckle guard on the DCC-1200 and DCC-3200 carafes reduce spills during pouring, a small but real daily convenience. Check whether a specific listing still includes this detail, since carafe designs can change between production runs.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a coffee makers weeks after buying, since carafe lid and pouring usability plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of carafe lid and pouring usability, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the coffee makers for a while." },
 ];
 
 export const howWeEvaluated = [

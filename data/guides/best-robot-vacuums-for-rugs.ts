@@ -236,36 +236,12 @@ export const products: GuideProduct[] = [
 ];
 
 export const buyingCriteria = [
-  {
-    criterion: "Fringe and tassel entanglement risk",
-    explanation:
-      "Loose fringe and tassels are the single most common way a rug damages or disables a robot vacuum's brush roll. Before buying for a fringed or tasseled rug, search current owner reviews for the words fringe or tassel specifically, since general anti-tangle marketing claims do not always hold up on long, loose fibers.",
-  },
-  {
-    criterion: "Lightweight-rug pushing and folding risk",
-    explanation:
-      "A robot that approaches a rug edge at an angle, rather than squarely, can shove a lightweight or unsecured rug forward or fold its corner under. Low-profile robots and models with grid-based or lidar-based navigation tend to handle this more predictably than taller robots with random-bounce navigation, but a rug pad or gripper backing under the rug also helps regardless of which robot you choose.",
-  },
-  {
-    criterion: "Dark and busy-pattern rugs vs cliff sensors",
-    explanation:
-      "Basic infrared cliff sensors can occasionally misread a dark-colored or heavily patterned rug as a drop-off and stop short or refuse to cross it. Lidar-based navigation is generally more reliable in this situation since it maps distance rather than relying on light reflection, so check whether a model uses lidar if your rugs are dark or visually busy.",
-  },
-  {
-    criterion: "Mop lifting or avoidance on combo units",
-    explanation:
-      "If you are considering a vacuum-and-mop combo unit, confirm whether it automatically lifts its mop pad before crossing a rug or simply routes around rugs entirely. A mop pad that drags across a rug can leave it damp or transfer dirty mop water, so this is worth verifying in the app settings and current owner reviews before buying.",
-  },
-  {
-    criterion: "Rug edge and thickness transition handling",
-    explanation:
-      "The height difference between a hard floor and a rug's edge, especially on a thicker or bound-edge rug, can cause a robot to stall, reverse repeatedly, or fail to climb on at all. Check the manufacturer's stated climbing threshold against your rugs' actual edge height, and look at owner reviews for real mentions of getting stuck at a rug's edge.",
-  },
-  {
-    criterion: "Suction strength vs rug security",
-    explanation:
-      "Higher suction can help pull embedded debris out of a low-pile rug, but very high intake suction at a rug's edge or corner can occasionally tug at an unsecured rug rather than gliding smoothly over it. This is worth weighing alongside whether your rugs are secured with a pad or gripper backing.",
-  },
+  { criterion: "Fringe and tassel entanglement risk", explanation: "Loose fringe and tassels are the single most common way a rug damages or disables a robot vacuum's brush roll. Before buying for a fringed or tasseled rug, search current owner reviews for the words fringe or tassel specifically, since general anti-tangle marketing claims do not always hold up on long, loose fibers.\n\nGetting this wrong is one of the more common reasons a for rugs purchase disappoints once it actually arrives, since fringe and tassel entanglement risk affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on fringe and tassel entanglement risk rather than assuming every for rugs in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Lightweight-rug pushing and folding risk", explanation: "A robot that approaches a rug edge at an angle, rather than squarely, can shove a lightweight or unsecured rug forward or fold its corner under. Low-profile robots and models with grid-based or lidar-based navigation tend to handle this more predictably than taller robots with random-bounce navigation, but a rug pad or gripper backing under the rug also helps regardless of which robot you choose.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for rugs weeks after buying, since lightweight-rug pushing and folding risk plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of lightweight-rug pushing and folding risk, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for rugs for a while." },
+  { criterion: "Dark and busy-pattern rugs vs cliff sensors", explanation: "Basic infrared cliff sensors can occasionally misread a dark-colored or heavily patterned rug as a drop-off and stop short or refuse to cross it. Lidar-based navigation is generally more reliable in this situation since it maps distance rather than relying on light reflection, so check whether a model uses lidar if your rugs are dark or visually busy.\n\nBuyers who skip past dark and busy-pattern rugs vs cliff sensors tend to be the ones leaving disappointed reviews later, not because the for rugs was defective, but because this specific detail didn't match what they actually needed.\n\nCompare how each for rugs in this roundup actually handles dark and busy-pattern rugs vs cliff sensors rather than assuming they're interchangeable on this point, since the listings here differ on it more than the headline specs suggest." },
+  { criterion: "Mop lifting or avoidance on combo units", explanation: "If you are considering a vacuum-and-mop combo unit, confirm whether it automatically lifts its mop pad before crossing a rug or simply routes around rugs entirely. A mop pad that drags across a rug can leave it damp or transfer dirty mop water, so this is worth verifying in the app settings and current owner reviews before buying.\n\nMop lifting or avoidance on combo units is easy to overlook next to flashier specs, but it's frequently the difference between a for rugs that fits your routine and one that quietly becomes a hassle.\n\nConfirm the exact detail on mop lifting or avoidance on combo units directly from the current listing before ordering, since this is one of the more common places where two similarly priced for rugs options genuinely diverge." },
+  { criterion: "Rug edge and thickness transition handling", explanation: "The height difference between a hard floor and a rug's edge, especially on a thicker or bound-edge rug, can cause a robot to stall, reverse repeatedly, or fail to climb on at all. Check the manufacturer's stated climbing threshold against your rugs' actual edge height, and look at owner reviews for real mentions of getting stuck at a rug's edge.\n\nGetting this wrong is one of the more common reasons a for rugs purchase disappoints once it actually arrives, since rug edge and thickness transition handling affects real day-to-day use in a way marketing photos and bullet points don't always make obvious.\n\nBefore buying, check the specific listing's stated details on rug edge and thickness transition handling rather than assuming every for rugs in this comparison handles it the same way, since this is exactly the kind of detail that varies more than buyers expect within the same price range." },
+  { criterion: "Suction strength vs rug security", explanation: "Higher suction can help pull embedded debris out of a low-pile rug, but very high intake suction at a rug's edge or corner can occasionally tug at an unsecured rug rather than gliding smoothly over it. This is worth weighing alongside whether your rugs are secured with a pad or gripper backing.\n\nThis is the kind of detail that looks minor in a spec list but shapes how satisfied you actually are with a for rugs weeks after buying, since suction strength vs rug security plays out differently in daily use than it does on paper.\n\nRead the product listing and recent reviews specifically for mentions of suction strength vs rug security, since this detail is often understated in the bullet points but shows up clearly once real buyers have used the for rugs for a while." },
 ];
 
 export const howWeEvaluated = [
