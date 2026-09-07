@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,989 reviews",
     specs: ["14-cup glass carafe", "1-4 cup small batch setting", "PerfecTemp brewing", "Brew strength control", "24-hour programmable"],
-    specList: [{"label":"Capacity","value":"14-cup glass carafe"},{"label":"Feature 2","value":"1-4 cup small batch setting"},{"label":"Feature 3","value":"PerfecTemp brewing"},{"label":"Feature 4","value":"Brew strength control"},{"label":"Feature 5","value":"24-hour programmable"}],
+    specList: [{"label":"Feature 1","value":"14-cup glass carafe"},{"label":"Feature 2","value":"1-4 cup small batch setting"},{"label":"Feature 3","value":"PerfecTemp brewing"},{"label":"Feature 4","value":"Brew strength control"},{"label":"Feature 5","value":"24-hour programmable"}],
     description:
       "The DCC-3200 pairs a genuine 14-cup glass carafe with a dedicated 1-4 cup small batch setting, so it does not just dilute a smaller brew across the full carafe when you only want two mugs. PerfecTemp technology aims to keep brew temperature more consistent than a basic warming-plate machine, and the brew strength control lets you switch between regular and bold without buying different beans.\n\nThe stainless steel housing and glass carafe are straightforward to clean, and the reservoir is easy to see and fill from the top. It is the most fully featured 14-cup model in this comparison and a reasonable default pick for most households that regularly brew a full pot.",
     bestFor: "Households that want a genuine full-size pot along with a real small-batch mode for lighter days.",

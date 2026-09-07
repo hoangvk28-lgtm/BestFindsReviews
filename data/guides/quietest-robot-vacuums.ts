@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,645 reviews",
     specs: ["Vacuum and mop combo", "App and Wi-Fi control", "Multiple cleaning modes", "Self-charging"],
-    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and Wi-Fi control"},{"label":"Feature 3","value":"Multiple cleaning modes"},{"label":"Feature 4","value":"Self-charging"}],
+    specList: [{"label":"Feature 1","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and Wi-Fi control"},{"label":"Feature 3","value":"Multiple cleaning modes"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The G8000 Max combines vacuuming and mopping in one robot with app-based scheduling, which lets you set cleaning to run only during hours when a quieter operating mode is less likely to disturb anyone. Reviewers commonly describe it as reasonably quiet for daily use compared to older single-purpose vacuum robots.\n\nIt carries the strongest verified rating and review volume of any model in this comparison, which is a meaningful signal at this price point. For buyers who want one machine that handles both floor types without a large self-empty dock adding its own noise event, this is the most well-rounded pick here.",
     bestFor: "Buyers who want a well-reviewed all-in-one vacuum and mop without a bulky, louder self-empty dock.",

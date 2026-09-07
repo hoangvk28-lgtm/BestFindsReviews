@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "5,012 reviews",
     specs: ["Glass carafe, 40oz", "Half or full batch switch", "4 to 6 minute brew time", "Auto shutoff after 100 minutes"],
-    specList: [{"label":"Capacity","value":"Glass carafe, 40oz"},{"label":"Feature 2","value":"Half or full batch switch"},{"label":"Feature 3","value":"4 to 6 minute brew time"},{"label":"Feature 4","value":"Auto shutoff after 100 minutes"}],
+    specList: [{"label":"Feature 1","value":"Glass carafe, 40oz"},{"label":"Feature 2","value":"Half or full batch switch"},{"label":"Feature 3","value":"4 to 6 minute brew time"},{"label":"Feature 4","value":"Auto shutoff after 100 minutes"}],
     description:
       "The KBGV Select is the standard glass-carafe Moccamaster and the model most people mean when they say Moccamaster. A brew-volume selector switch lets you brew a half batch instead of a full 40oz pot, which most competitors in this price range do not offer as a simple physical switch.\n\nBrewing is entirely manual: there is no built-in timer or programmable start, you fill the reservoir and flip the switch. The pump-free design heats water to a target temperature for extraction and finishes a full pot in 4 to 6 minutes, then shuts off automatically after 100 minutes so it is not left running indefinitely.",
     bestFor: "Buyers who want the classic Moccamaster brewing experience and do not need a programmable timer.",

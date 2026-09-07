@@ -44,7 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,857 reviews",
     specs: ["20,000 Pa suction", "Vacuum and mop combo", "Auto carpet detection", "Self-charging"],
-    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Auto carpet detection"},{"label":"Feature 4","value":"Self-charging"}],
+    specList: [{"label":"Feature 1","value":"20,000 Pa suction"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Auto carpet detection"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The E25 leads this comparison on rated suction, at 20,000 Pa, which gives it enough headroom to boost meaningfully once it senses carpet rather than just nudging power up slightly. That extra ceiling matters most on medium-pile carpet where embedded dust and pet hair sit below the surface fibers and need real pull to lift out.\n\nAs a combo unit, it also has to manage mop lifting so the pad does not drag wet across carpet, which we weighed heavily given how often combo units get this wrong. It carries the strongest review base of the eight models here, which is a reasonable signal of consistent real-world performance across different carpet types.",
     bestFor: "Buyers who want the strongest all-around carpet performance and are fine paying for a full-featured combo unit.",

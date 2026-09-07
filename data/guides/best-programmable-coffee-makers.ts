@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["24-hour programmable", "1-4 cup setting", "Adjustable heater plate", "0-4hr auto-off"],
-    specList: [{"label":"Feature 1","value":"24-hour programmable"},{"label":"Capacity","value":"1-4 cup setting"},{"label":"Adjustability","value":"Adjustable heater plate"},{"label":"Feature 4","value":"0-4hr auto-off"}],
+    specList: [{"label":"Feature 1","value":"24-hour programmable"},{"label":"Feature 2","value":"1-4 cup setting"},{"label":"Adjustability","value":"Adjustable heater plate"},{"label":"Feature 4","value":"0-4hr auto-off"}],
     description:
       "The DCC-1200P1 offers a variable heater plate with low, medium, and high settings in addition to the standard 24-hour programmability, which is a genuine step beyond the single default warming temperature most competitors use. Auto-off is adjustable from 0 to 4 hours rather than fixed, so you can match it to how long coffee actually sits in your household.\n\nThe listing does not mention battery backup for the clock, so treat clock retention through a power outage as unverified. As with most programmable machines in this price range, expect to re-set the time and any programmed brew after even a brief outage unless you confirm otherwise with the current manual.",
     bestFor: "Buyers who want adjustable warming temperature alongside standard 24-hour programming.",

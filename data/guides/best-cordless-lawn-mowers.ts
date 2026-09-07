@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "56V battery platform", "Battery and charger included", "Push drive"],
-    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Feature 4","value":"Push drive"}],
     description: "The LM2114 pairs a full 21-inch deck with EGO's 56V battery platform, and it ships complete with a battery and charger rather than requiring a separate purchase to get running. It is backed by a 4.5 rating across more than 2,100 reviews, which is a large enough sample to take seriously for a single-model mower at this price.\n\nFor a standard-size, mostly flat lawn, the deck width and included pack are enough to finish a typical mow in one charge for most yards. It is a push mower, not self-propelled, so hilly or larger lots will feel the difference compared to the self-propelled options below.",
     bestFor: "standard-size lawns that want a full-width cordless deck without buying the battery separately",
     pros: ["Full 21-inch deck for faster coverage", "Battery and charger included in the box", "Strong review volume backing the 4.5 rating"],

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "72,567 reviews",
     specs: ["75oz reservoir", "4 cup sizes", "Iced setting", "Strength control"],
-    specList: [{"label":"Feature 1","value":"75oz reservoir"},{"label":"Capacity","value":"4 cup sizes"},{"label":"Feature 3","value":"Iced setting"},{"label":"Feature 4","value":"Strength control"}],
+    specList: [{"label":"Feature 1","value":"75oz reservoir"},{"label":"Feature 2","value":"4 cup sizes"},{"label":"Feature 3","value":"Iced setting"},{"label":"Feature 4","value":"Strength control"}],
     description:
       "The K-Elite is the most fully featured single-serve model in the current lineup, with strength control, a dedicated iced-coffee setting, and a hot-water-on-demand button for tea or oatmeal. The 75oz reservoir is the largest of any model here, so it can go several days between refills for a single user.\n\nA built-in maintenance reminder flags when it is time to descale, which matters more than it sounds since skipped descaling is the most common cause of slow or weak brews over time. The tradeoff is footprint. This is the largest machine in this guide, so it needs real counter space.",
     bestFor: "Buyers who want the most control over strength and temperature and have counter space to spare.",

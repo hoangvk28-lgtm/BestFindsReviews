@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup glass carafe", "24-hour programmable", "Sneak-a-cup pause", "Auto shutoff"],
-    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"Sneak-a-cup pause"},{"label":"Feature 4","value":"Auto shutoff"}],
+    specList: [{"label":"Feature 1","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Feature 3","value":"Sneak-a-cup pause"},{"label":"Feature 4","value":"Auto shutoff"}],
     description:
       "This is a straightforward 12-cup programmable drip machine with a standard paper-filter basket and a 24-hour auto-brew timer, the entry point for the hands-off drip approach. Set it up the night before and it brews on its own with no attention needed the next morning.\n\nAt under $35 it is the cheapest way into automatic drip brewing here, and the sneak-a-cup pause feature lets you pour a cup mid-cycle without a mess. Ongoing cost is paper filters and electricity, both modest but recurring.",
     bestFor: "Anyone who wants a full pot ready automatically with zero hands-on brewing effort.",

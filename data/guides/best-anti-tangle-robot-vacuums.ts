@@ -44,7 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["20,000 Pa suction", "HydroJet Roller Mop", "Vacuum and mop combo", "Auto-empty base"],
-    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"HydroJet Roller Mop"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Auto-empty base"}],
+    specList: [{"label":"Feature 1","value":"20,000 Pa suction"},{"label":"Feature 2","value":"HydroJet Roller Mop"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Feature 4","value":"Auto-empty base"}],
     description:
       "The E25 sits at the top of eufy's current lineup, pairing 20,000 Pa suction with a HydroJet roller mop that spins to lift wet debris instead of dragging a pad across it. The high suction ceiling matters for anti-tangle performance too, since stronger airflow through the main brush housing helps pull loose hair off the roller and into the dustbin rather than letting it wind tight around the ends.\n\nAt this price the E25 is a serious investment, and buyers considering it specifically for long hair or heavy shedding should still check recent buyer reviews for how the roller holds up over months of daily use rather than assuming the highest suction spec here automatically means the least manual cleanup.",
     bestFor: "Buyers who want the strongest suction and combined mop function in this lineup and are willing to pay for it.",

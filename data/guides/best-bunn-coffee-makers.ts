@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal hot tank", "10-cup carafe", "3-minute brew claim", "Warming plate"],
-    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"3-minute brew claim"},{"label":"Feature 4","value":"Warming plate"}],
+    specList: [{"label":"Feature 1","value":"Internal hot tank"},{"label":"Feature 2","value":"10-cup carafe"},{"label":"Feature 3","value":"3-minute brew claim"},{"label":"Feature 4","value":"Warming plate"}],
     description:
       "The GRB is Bunn's straightforward entry point into always-hot brewing. Once the internal tank is up to temperature after the initial setup, a full pot brews in a few minutes because the machine is not waiting to heat water on demand.\n\nThe tradeoff for that speed is the tank stays hot around the clock, which draws standby power even when you are not brewing. For a household that makes coffee daily, the convenience generally outweighs the standby cost, but it is a real ongoing expense worth knowing about upfront.",
     bestFor: "Daily coffee drinkers who want a fast pot without paying for glass carafe or thermal upgrades.",

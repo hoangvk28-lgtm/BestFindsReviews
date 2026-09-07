@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "1,123 reviews",
     specs: ["2 to 12 cup range", "Cordless serving base", "Glass viewing cover", "Stainless steel construction"],
-    specList: [{"label":"Capacity","value":"2 to 12 cup range"},{"label":"Feature 2","value":"Cordless serving base"},{"label":"Feature 3","value":"Glass viewing cover"},{"label":"Material","value":"Stainless steel construction"}],
+    specList: [{"label":"Feature 1","value":"2 to 12 cup range"},{"label":"Feature 2","value":"Cordless serving base"},{"label":"Feature 3","value":"Glass viewing cover"},{"label":"Material","value":"Stainless steel construction"}],
     description:
       "The 02815 brews about a cup per minute according to the listing, and a glass cover lets you watch the percolation cycle so you can judge when to pull it off the power base rather than guessing. Because the pot detaches from a cordless power base, you can stop the active percolating cycle and move to serving immediately, which limits how long the grounds keep recirculating boiling water.\n\nThe 2 to 12 cup range means brew time varies meaningfully by batch size. Expect the low end of a stated brew estimate at 2 cups and closer to the high end at a full 12-cup batch, since more water needs to cycle through the stem regardless of capacity setting.",
     bestFor: "Buyers who want to visually monitor the percolation cycle and stop it at the right moment.",

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,806 reviews",
     specs: ["304 stainless steel plunger and filter", "Borosilicate glass carafe", "Food-grade silicone seals", "4-level filtration"],
-    specList: [{"label":"Material","value":"304 stainless steel plunger and filter"},{"label":"Capacity","value":"Borosilicate glass carafe"},{"label":"Feature 3","value":"Food-grade silicone seals"},{"label":"Feature 4","value":"4-level filtration"}],
+    specList: [{"label":"Material","value":"304 stainless steel plunger and filter"},{"label":"Feature 2","value":"Borosilicate glass carafe"},{"label":"Feature 3","value":"Food-grade silicone seals"},{"label":"Feature 4","value":"4-level filtration"}],
     description:
       "Evidence label: fully plastic-free, based on the manufacturer's own listing, which states the carafe, plunger, and 4-layer filter are made from high borosilicate glass and 304 stainless steel, with food-grade silicone used for seals rather than plastic gaskets. Silicone is a different material class from plastic and is commonly used in food-safe seals specifically because it tolerates heat without leaching the way some plastics can.\n\nBecause it is fully manual with no motor or electrical housing, there is no plastic enclosure to worry about at all, unlike an electric brewer. The tradeoff of any French press is more hands-on cleaning after every use, since the plunger and mesh filter need to be disassembled and rinsed rather than just wiped down.",
     bestFor: "Buyers who want a verified fully plastic-free brewing method and do not mind manual plunging and cleanup.",

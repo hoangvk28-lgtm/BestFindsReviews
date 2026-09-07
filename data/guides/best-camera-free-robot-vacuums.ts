@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["Vacuum and mop combo", "Hardwood and carpet", "No onboard camera", "Self-cleaning dock"],
-    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Feature 4","value":"Self-cleaning dock"}],
+    specList: [{"label":"Feature 1","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet"},{"label":"Feature 3","value":"No onboard camera"},{"label":"Feature 4","value":"Self-cleaning dock"}],
     description:
       "The Omni C20 combines vacuuming and mopping in a single unit and navigates using structural and cliff sensors rather than a camera, so there is no lens capturing images of your floor as it maps a room. It carries the highest rating and among the highest review counts in this comparison, which is a solid signal of day-to-day reliability across a range of homes.\n\nBecause it handles both hardwood and carpet with an automated dock, it suits buyers who want one machine to cover most of a home without swapping accessories. As with any connected vacuum, check the eufy app's account and map-sharing settings if you want to confirm exactly what is stored in the cloud versus kept on the device.",
     bestFor: "Buyers who want a full-featured vacuum and mop combo with no onboard camera and top-tier reliability.",

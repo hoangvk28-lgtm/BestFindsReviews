@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0C2ZPBHC7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41R0pwuOOQL._SL500_.jpg", price: "$389.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "60V 5.0Ah battery", "Approximately 300Wh nominal energy", "Push drive"],
-    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V 5.0Ah battery"},{"label":"Connectivity","value":"Approximately 300Wh nominal energy"},{"label":"Drive Type","value":"Push drive"}],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V 5.0Ah battery"},{"label":"Connectivity","value":"Approximately 300Wh nominal energy"},{"label":"Feature 4","value":"Push drive"}],
     description: "Greenworks 60V 21-Inch Push Lawn Mower pairs a 21-inch deck with a 60V 5.0Ah battery and charger, which works out to roughly 300Wh of nominal included energy. Buyers rate it 4.4 out of 5 across 494 reviews, a sample size that supports the mower as a dependable full-width push option rather than a niche pick.\n\nAt 300Wh this pack sits ahead of some 80V mowers that ship with smaller amp-hour batteries, which is the core point of comparing watt-hours instead of voltage alone. It suits standard-size lawns where push drive is acceptable and a single charge should cover a normal mowing session.",
     bestFor: "standard lawns where push drive is fine and included watt-hours matter more than the voltage label",
     pros: ["21-inch deck", "Roughly 300Wh included energy from a single 5.0Ah pack", "4.4 rating across 494 reviews"],

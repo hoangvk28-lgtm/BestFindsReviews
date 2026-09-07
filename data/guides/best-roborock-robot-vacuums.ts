@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "5,034 reviews",
     specs: ["22000Pa suction", "LiDAR navigation", "Edge cleaning arm", "Flagship Saros tier"],
-    specList: [{"label":"Suction Power","value":"22000Pa suction"},{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 3","value":"Edge cleaning arm"},{"label":"Feature 4","value":"Flagship Saros tier"}],
+    specList: [{"label":"Feature 1","value":"22000Pa suction"},{"label":"Feature 2","value":"LiDAR navigation"},{"label":"Feature 3","value":"Edge cleaning arm"},{"label":"Feature 4","value":"Flagship Saros tier"}],
     description:
       "The Saros 10R sits at the top of Roborock's current lineup, and the 22000Pa suction figure is the highest of any model in this comparison. What separates it from the Qrevo tier is not just raw suction but the extending edge-cleaning arm, which is designed to reach into corners that a round or even a standard square-edged chassis leaves behind. LiDAR handles the mapping itself, which is about navigation accuracy rather than the same thing as spotting small obstacles like cords or pet waste, so it is still worth checking recent owner reviews for how well obstacle avoidance performs in a specific home layout.\n\nAt over $1,000 this is a real investment, and the rating sits a bit lower than some cheaper models in this comparison, which is common for feature-dense flagship robots with more components that can need troubleshooting. For buyers who want the most complete edge-to-edge cleaning and are willing to pay for it, it is still the strongest all-around pick here.",
     bestFor: "Buyers who want the most complete corner and edge coverage and are not working with a tight budget.",

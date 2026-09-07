@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "4,810 reviews",
     specs: ["Double-wall vacuum insulated", "Gold Cup certified", "Stainless steel carafe", "Single-serve accessory included"],
-    specList: [{"label":"Feature 1","value":"Double-wall vacuum insulated"},{"label":"Capacity","value":"Gold Cup certified"},{"label":"Material","value":"Stainless steel carafe"},{"label":"Feature 4","value":"Single-serve accessory included"}],
+    specList: [{"label":"Feature 1","value":"Double-wall vacuum insulated"},{"label":"Feature 2","value":"Gold Cup certified"},{"label":"Material","value":"Stainless steel carafe"},{"label":"Feature 4","value":"Single-serve accessory included"}],
     description:
       "The OXO uses a double-wall vacuum-insulated stainless steel carafe, the same insulation principle behind a good thermos, which generally holds noticeably more heat at the 2-hour mark than a glass carafe sitting on a warming plate that is slowly cooling and continuing to cook the coffee. The tradeoff is price, at nearly $200 this is the most expensive model in this comparison.\n\nThe pour spout and lid are designed for one-handed pouring without needing to unscrew anything first, though as with most vacuum thermal lids, expect a small amount of coffee to remain trapped in the lid's internal channel after pouring, more than you would lose from a simple glass carafe lid.",
     bestFor: "Buyers who want the strongest heat retention in this comparison and are willing to pay for it.",

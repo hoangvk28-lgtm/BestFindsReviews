@@ -44,7 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "19,088 reviews",
     specs: ["AutoEmpty dock", "iRobot brand reliability", "Vacuum-only, no mopping", "App and voice control"],
-    specList: [{"label":"Feature 1","value":"AutoEmpty dock"},{"label":"Brand","value":"iRobot brand reliability"},{"label":"Mopping","value":"Vacuum-only, no mopping"},{"label":"Connectivity","value":"App and voice control"}],
+    specList: [{"label":"Feature 1","value":"AutoEmpty dock"},{"label":"Brand","value":"iRobot brand reliability"},{"label":"Feature 3","value":"Vacuum-only, no mopping"},{"label":"Connectivity","value":"App and voice control"}],
     description:
       "The Roomba 105 pairs a straightforward vacuum-only robot with iRobot's AutoEmpty dock, which pulls debris out of the robot's onboard bin after each cleaning run. As the current top pick in this comparison, it carries the strongest combination of rating and review volume of any model we researched here, which matters for a dock-based product where long-term reliability is the real question.\n\nBecause it skips mopping entirely, the mechanism inside stays simpler than combo vacuum-and-mop docks, which tends to mean fewer points of failure at the dock itself. Buyers who specifically want mopping in the same device will need to look at one of the combo models below instead.",
     bestFor: "Buyers who want a proven, widely reviewed self-emptying vacuum without needing mopping in the same unit.",

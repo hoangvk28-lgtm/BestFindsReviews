@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "20,160 reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "Multi-floor mapping", "Self-empty compatible dock"],
-    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"Multi-floor mapping"},{"label":"Feature 4","value":"Self-empty compatible dock"}],
+    specList: [{"label":"Feature 1","value":"10,000Pa suction"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"Multi-floor mapping"},{"label":"Feature 4","value":"Self-empty compatible dock"}],
     description:
       "The Q10 S5+ pairs strong 10,000Pa suction with a combo vacuum and mop head, and it holds multiple saved maps so it can switch between floor layouts instead of remapping every time it starts a new level. That is the feature that matters most once a home has more than one floor in regular rotation.\n\nWith a self-empty compatible dock and consistent real-world ratings across a large review base, it is the model in this comparison we would point most buyers toward first, particularly if one floor will have a dock and the other will need the robot carried up or down periodically.",
     bestFor: "Buyers who want one strong all-around robot to rotate between two or more floors with reliable mapping.",

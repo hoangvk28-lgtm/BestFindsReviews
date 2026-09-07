@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "929 reviews",
     specs: ["25,000Pa suction", "Auto mop washing", "Self-empty base", "Obstacle avoidance"],
-    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Auto mop washing"},{"label":"Feature 3","value":"Self-empty base"},{"label":"Feature 4","value":"Obstacle avoidance"}],
+    specList: [{"label":"Feature 1","value":"25,000Pa suction"},{"label":"Feature 2","value":"Auto mop washing"},{"label":"Feature 3","value":"Self-empty base"},{"label":"Feature 4","value":"Obstacle avoidance"}],
     description:
       "The L40 Ultra Gen 2 sits in the upper-middle of the current Dreame lineup, pairing a 25,000Pa suction rating with an all-in-one base that washes and dries the mop pads between passes. It is the most reviewed and highest-rated model we evaluated in this comparison, which matters more than the suction number by itself since a high figure does not guarantee better pickup on real carpet and debris.\n\nOwners generally point to consistent mapping and a dock that handles mop maintenance without much manual intervention as the strongest parts of the experience. As with any high-suction claim, we'd still recommend checking recent reviews for your specific flooring and pet situation before assuming the number alone settles the pickup question.",
     bestFor: "Buyers who want the best-reviewed all-around Dreame model without stepping up to the priciest tier.",

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "23,547 reviews",
     specs: ["AI home mapping", "Matrix Clean navigation", "Self-Empty compatible", "Vacuum-only"],
-    specList: [{"label":"Connectivity","value":"AI home mapping"},{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Feature 3","value":"Self-Empty compatible"},{"label":"Feature 4","value":"Vacuum-only"}],
+    specList: [{"label":"Connectivity","value":"AI home mapping"},{"label":"Feature 2","value":"Matrix Clean navigation"},{"label":"Feature 3","value":"Self-Empty compatible"},{"label":"Feature 4","value":"Vacuum-only"}],
     description:
       "The AI Ultra is Shark's flagship vacuum-only model, using AI-powered home mapping and Matrix Clean navigation to move in structured rows rather than bouncing randomly around a room. That systematic pattern generally means fewer missed spots on larger open floor plans compared to entry-level SmartPath models.\n\nThis is a vacuum-only unit, not a 2-in-1 mop system, so buyers who also want mopping should look at the Matrix Plus line instead. As with any AV-series model, double check the exact listing before buying since suffixes like AV2511AE can differ in included accessories (extra filters, dock type) from other AV2xxx variants.",
     bestFor: "Buyers who want the most capable navigation and mapping in a vacuum-only Shark model.",

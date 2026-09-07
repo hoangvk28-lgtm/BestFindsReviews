@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "224 reviews",
     specs: ["18500Pa suction", "Omni self-empty dock", "Auto mop wash and dry", "App zone mapping"],
-    specList: [{"label":"Suction Power","value":"18500Pa suction"},{"label":"Feature 2","value":"Omni self-empty dock"},{"label":"Mopping","value":"Auto mop wash and dry"},{"label":"Zones","value":"App zone mapping"}],
+    specList: [{"label":"Feature 1","value":"18500Pa suction"},{"label":"Feature 2","value":"Omni self-empty dock"},{"label":"Feature 3","value":"Auto mop wash and dry"},{"label":"Zones","value":"App zone mapping"}],
     description:
       "The T50 MAX PRO pairs strong 18500Pa suction with an all-in-one Omni dock that empties the dustbin, washes the mop pads, and dries them between runs, which matters in a space that gets cleaned daily rather than once a week. That combination of suction and hands-off dock maintenance is why it comes out ahead of the rest of this comparison for mixed office or high-traffic home use.\n\nApp-based zone scheduling lets you set different rooms or areas to clean on separate schedules, which suits a shared office or a rental property where certain zones need more frequent passes than others. It is the newest model in this lineup, so its rating is based on a smaller review base than some of the longer-established competitors here.",
     bestFor: "Small offices, Airbnbs, or high-traffic homes that want strong suction and a fully self-maintaining dock.",

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "33,641 reviews",
     specs: ["34oz stated capacity", "Glass carafe", "Stainless steel filter", "4-piece filter structure"],
-    specList: [{"label":"Capacity","value":"34oz stated capacity"},{"label":"Feature 2","value":"Glass carafe"},{"label":"Material","value":"Stainless steel filter"},{"label":"Filtration","value":"4-piece filter structure"}],
+    specList: [{"label":"Capacity","value":"34oz stated capacity"},{"label":"Feature 2","value":"Glass carafe"},{"label":"Material","value":"Stainless steel filter"},{"label":"Feature 4","value":"4-piece filter structure"}],
     description:
       "This press is stated at 34oz, but once you account for the volume that a standard dose of coarse grounds displaces, expect closer to 27 to 28oz of actual brewed coffee, roughly three to four 8oz cups rather than four full ones. That gap between stated and usable capacity applies to every glass press in this comparison, not just this one, so plan portions accordingly.\n\nThe glass carafe means you can watch the brew and see grounds settle, but it also means the plunge requires steady, even downward pressure since glass has no give if the plunger binds. A sudden hard push on an off-angle plunger is the most common way glass French press carafes crack, so plan to plunge slowly and hold the handle rather than pushing from the top.",
     bestFor: "Buyers who want a straightforward glass press and are comfortable adjusting portion expectations for real usable volume.",

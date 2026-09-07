@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "922 reviews",
     specs: ["LiDAR navigation", "Self-emptying base", "Vacuum and mop combo", "App-based room mapping"],
-    specList: [{"label":"Navigation","value":"LiDAR navigation"},{"label":"Feature 2","value":"Self-emptying base"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based room mapping"}],
+    specList: [{"label":"Feature 1","value":"LiDAR navigation"},{"label":"Feature 2","value":"Self-emptying base"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App-based room mapping"}],
     description:
       "The Tikom combines LiDAR-based room mapping with a self-emptying base, a combination that is usually reserved for more expensive units. The LiDAR turret builds a floor plan quickly and lets you set no-go zones and cleaning schedules by room rather than cleaning the whole floor every time.\n\nIt holds the strongest rating-to-price balance of any model we researched in this comparison. Like every LiDAR-based robot, mapping accuracy is separate from obstacle avoidance, so buyers with cords, pet waste, or small objects on the floor should still check the specific sensor setup before relying on it in cluttered rooms.",
     bestFor: "Buyers who want self-emptying convenience and accurate room mapping without paying premium prices.",

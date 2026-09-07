@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53,550 reviews",
     specs: ["Single-serve and 12-cup", "Stainless accents", "K-Cup compatible", "Highest review count"],
-    specList: [{"label":"Capacity","value":"Single-serve and 12-cup"},{"label":"Feature 2","value":"Stainless accents"},{"label":"Feature 3","value":"K-Cup compatible"},{"label":"Reviews","value":"Highest review count"}],
+    specList: [{"label":"Feature 1","value":"Single-serve and 12-cup"},{"label":"Feature 2","value":"Stainless accents"},{"label":"Feature 3","value":"K-Cup compatible"},{"label":"Reviews","value":"Highest review count"}],
     description:
       "The 2-Way Brewer combines single-serve pod brewing with a full 12-cup carafe in one machine, and it has by far the highest review count of the four models here, suggesting a long, well-established track record. At under $90, it undercuts many single-purpose machines while covering both use cases.\n\nAs with any dual-mode machine, expect more components than a single-purpose brewer, including a separate reservoir and brew basket for each side. Regular cleaning of both systems keeps performance consistent over time.",
     bestFor: "Buyers who want both single-cup and full-pot brewing without paying for Ninja or Keurig dual-mode pricing.",

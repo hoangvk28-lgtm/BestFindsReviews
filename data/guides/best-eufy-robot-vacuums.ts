@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,857 reviews",
     specs: ["20,000 Pa suction", "HydroJet roller mop", "Self-washing dock", "Vacuum + mop combo"],
-    specList: [{"label":"Suction Power","value":"20,000 Pa suction"},{"label":"Mopping","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-washing dock"},{"label":"Feature 4","value":"Vacuum + mop combo"}],
+    specList: [{"label":"Feature 1","value":"20,000 Pa suction"},{"label":"Feature 2","value":"HydroJet roller mop"},{"label":"Feature 3","value":"Self-washing dock"},{"label":"Feature 4","value":"Vacuum + mop combo"}],
     description:
       "The E25 pairs 20,000 Pa of suction with eufy's HydroJet roller mop, which spins and self-washes at the dock instead of dragging a static pad across your floors. That combination puts it at the top of the current lineup for buyers who want strong carpet suction and genuine wet mopping from a single machine.\n\nWith over 50,000 reviews and a 4.4 rating, it also has the deepest track record of any model in this comparison, which matters more than a spec sheet when you are trusting a machine to run unattended. The dock does take real counter or floor footprint, which is the tradeoff for the washing and drying functions built into it.",
     bestFor: "Buyers who want top-tier suction and real roller-mop washing with the largest review history in this lineup.",

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "1-cup reservoir", "6 to 12oz brew", "Cord storage"],
-    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Capacity","value":"1-cup reservoir"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"Cord storage"}],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Feature 2","value":"1-cup reservoir"},{"label":"Feature 3","value":"6 to 12oz brew"},{"label":"Feature 4","value":"Cord storage"}],
     description:
       "The K-Mini's closed width is under five inches, but the number that matters more is what happens when you use it. The lid opens straight up with a few inches of clearance needed above the machine, and because it uses a one-cup reservoir instead of a tank, there is no reservoir to remove or wrestle out from a tight corner. You add water fresh through the top opening for every single brew.\n\nThat one-cup design means no meaningful difference between one-cup and max-capacity performance since every brew is effectively a fresh fill. The tradeoff is you refill it every time, and the drip tray needs to be removed to accommodate anything taller than a standard mug.",
     bestFor: "The smallest available counter footprint, dorm shelves, and anywhere refilling per cup is not a hassle.",

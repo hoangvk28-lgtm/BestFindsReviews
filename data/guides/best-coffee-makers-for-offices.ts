@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,353 reviews",
     specs: ["Dual 12-cup decanters", "Upper and lower warmers", "Commercial pourover design", "Continuous brew capable"],
-    specList: [{"label":"Capacity","value":"Dual 12-cup decanters"},{"label":"Feature 2","value":"Upper and lower warmers"},{"label":"Design","value":"Commercial pourover design"},{"label":"Feature 4","value":"Continuous brew capable"}],
+    specList: [{"label":"Feature 1","value":"Dual 12-cup decanters"},{"label":"Feature 2","value":"Upper and lower warmers"},{"label":"Design","value":"Commercial pourover design"},{"label":"Feature 4","value":"Continuous brew capable"}],
     description:
       "The VPR-2GD is built for offices where a single 12-cup pot cannot keep up, since it brews into two separate decanters that sit on independently switched warmers. That lets one decanter refill while the other is actively being poured, which matters during a real 9am rush when a dozen people want coffee inside 15 minutes.\n\nThis is a genuine commercial appliance rather than a home brewer pressed into office duty, so it needs a dedicated 120V outlet and enough counter depth for two warming plates side by side. It costs several times more than a home-style pod or drip machine, and that premium only pays off once daily cup volume is high enough to justify it.",
     bestFor: "Offices of roughly 20 or more daily coffee drinkers with a real morning rush and a dedicated breakroom outlet.",

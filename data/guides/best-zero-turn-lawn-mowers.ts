@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B07NF3V21T?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41CMAS3TEVL._SL500_.jpg", price: "$3,899.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive","Residential class"],
-    specList: [{"label":"Size","value":"54-inch deck"},{"label":"Feature 2","value":"23HP Kawasaki engine"},{"label":"Drive Type","value":"Hydrostatic zero-turn drive"},{"label":"Feature 4","value":"Residential class"}],
+    specList: [{"label":"Size","value":"54-inch deck"},{"label":"Feature 2","value":"23HP Kawasaki engine"},{"label":"Feature 3","value":"Hydrostatic zero-turn drive"},{"label":"Feature 4","value":"Residential class"}],
     description: "Husqvarna Z254F 54-Inch Zero-Turn Mower combines 54-inch deck, 23HP Kawasaki engine, Hydrostatic zero-turn drive. That combination makes it a practical option for larger open lawns where maneuvering speed matters.\n\nA 54-inch zero-turn needs substantial storage and is not the default choice for slopes. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "larger open lawns where maneuvering speed matters",
     pros: ["54-inch deck","23HP Kawasaki engine","Hydrostatic zero-turn drive"],

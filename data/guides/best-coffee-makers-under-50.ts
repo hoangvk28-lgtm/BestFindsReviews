@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,557 reviews",
     specs: ["10-cup capacity", "Regular/Strong brew", "Auto shut-off", "Permanent filter included"],
-    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"Regular/Strong brew"},{"label":"Feature 3","value":"Auto shut-off"},{"label":"Filtration","value":"Permanent filter included"}],
+    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"Regular/Strong brew"},{"label":"Feature 3","value":"Auto shut-off"},{"label":"Feature 4","value":"Permanent filter included"}],
     description:
       "The SHARDOR is the most fully featured machine under $50 in this comparison, with programmable brew start, a regular-or-strong brew selector, and a permanent filter that skips paper filters entirely. That combination of features is normally reserved for machines closer to $75, which is what earns it the top spot here.\n\nThe included permanent filter is the standout detail for ownership cost, since it removes the ongoing expense of paper filters that the cheaper machines in this list still require. Auto shut-off also reduces the risk of a warming plate being left on for hours.",
     bestFor: "Buyers who want programmable brewing and a reusable filter without spending above $50.",

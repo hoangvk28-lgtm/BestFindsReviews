@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "5,172 reviews",
     specs: ["Tangle-free suction", "Onboard button start", "Self-charging dock", "No app required"],
-    specList: [{"label":"Suction Power","value":"Tangle-free suction"},{"label":"Reviews","value":"Onboard button start"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Connectivity","value":"No app required"}],
+    specList: [{"label":"Feature 1","value":"Tangle-free suction"},{"label":"Reviews","value":"Onboard button start"},{"label":"Feature 3","value":"Self-charging dock"},{"label":"Connectivity","value":"No app required"}],
     description:
       "The V2 is built as a genuinely simple machine rather than a scaled-down smart model. There is no app to install and no account to create. You press start on the unit itself or set a basic schedule using the onboard controls, and it cleans and returns to its dock on its own.\n\nThat simplicity is exactly why it tops this list. Every function a typical buyer needs, daily runs, tangle-free brush operation, self-charging, works without ever touching a phone. It will not build a room map or let you draw no-go zones, but for buyers whose main goal is avoiding Wi-Fi setup entirely, it delivers on that with no compromises hiding in the fine print.",
     bestFor: "Buyers who want zero Wi-Fi or app involvement at any point, from setup through daily use.",

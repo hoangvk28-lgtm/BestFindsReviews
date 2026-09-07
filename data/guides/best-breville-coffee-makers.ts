@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "27,741 reviews",
     specs: ["Integrated conical burr grinder", "58mm portafilter", "Digital temperature control", "67oz water tank"],
-    specList: [{"label":"Durability","value":"Integrated conical burr grinder"},{"label":"Filtration","value":"58mm portafilter"},{"label":"Feature 3","value":"Digital temperature control"},{"label":"Feature 4","value":"67oz water tank"}],
+    specList: [{"label":"Durability","value":"Integrated conical burr grinder"},{"label":"Feature 2","value":"58mm portafilter"},{"label":"Feature 3","value":"Digital temperature control"},{"label":"Feature 4","value":"67oz water tank"}],
     description:
       "The Barista Express is Breville's entry point into all-in-one espresso, combining a dose-control conical burr grinder with a 58mm commercial-style portafilter so you can go from whole bean to shot in one machine. Digital temperature control targets consistent extraction temperature shot to shot, which matters more for taste consistency than most marketing copy suggests.\n\nThe manual steam wand means milk texturing is a learned skill rather than a one-touch feature, and the reservoir, showerhead, and portafilter all need separate regular cleaning to avoid stale oil buildup affecting flavor. It carries a 1-year limited warranty, shorter than the multi-year terms on premium drip brewers like Moccamaster.",
     bestFor: "Buyers who want grinder integration at the lowest entry price into Breville's espresso lineup.",

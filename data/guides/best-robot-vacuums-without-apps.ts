@@ -44,7 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,643 reviews",
     specs: ["Vacuum and mop combo", "Onboard start button", "Auto self-charging", "Suction control at unit"],
-    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Reviews","value":"Onboard start button"},{"label":"Feature 3","value":"Auto self-charging"},{"label":"Suction Power","value":"Suction control at unit"}],
+    specList: [{"label":"Feature 1","value":"Vacuum and mop combo"},{"label":"Reviews","value":"Onboard start button"},{"label":"Feature 3","value":"Auto self-charging"},{"label":"Feature 4","value":"Suction control at unit"}],
     description:
       "The G8000 Max combines vacuuming and mopping in one chassis, and the core clean cycle can be started with a single press on the unit itself. Suction level and basic mode switching are handled at the robot, so a first-time user can get it running immediately without downloading anything.\n\nIt returns to its dock and self-charges automatically between runs, which matters for a no-app setup since there is no schedule reminder from a phone to prompt you. Among the models we researched for this guide, it carries the strongest combination of verified rating and review volume, which is why it leads this list.",
     bestFor: "Buyers who want the most proven, widely reviewed option that still runs fully from onboard controls.",

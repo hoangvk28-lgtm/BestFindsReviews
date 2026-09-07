@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00BBQVL5U?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41hGtP+Q5jL._SL500_.jpg", price: "$249.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["16-inch deck", "40V 4.0Ah battery", "160Wh included energy", "Push drive"],
-    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4.0Ah battery"},{"label":"Feature 3","value":"160Wh included energy"},{"label":"Drive Type","value":"Push drive"}],
+    specList: [{"label":"Size","value":"16-inch deck"},{"label":"Power Source","value":"40V 4.0Ah battery"},{"label":"Feature 3","value":"160Wh included energy"},{"label":"Feature 4","value":"Push drive"}],
     description: "Greenworks 40V 16-Inch Push Mower combines a 16-inch deck with a 40V 4.0Ah included battery, which works out to roughly 160Wh of nominal energy on a single pack. It carries a 4.2 rating from more than 12,100 reviewers, the largest review base of the 40V models we compared, which is a reasonable signal of consistent real-world performance across many yards.\n\nThe narrow deck and single included pack are the main tradeoffs on larger or overgrown lawns, where you will make more passes and may want a spare battery on hand. Compare its deck width, included watt-hours, and charging workflow against the size of your actual mowable area before buying.",
     bestFor: "small to mid-size lawns where a proven, widely reviewed 40V platform matters more than deck width",
     pros: ["16-inch deck", "40V 4.0Ah battery included", "Largest review base among 40V options here, at a 4.2 average"],

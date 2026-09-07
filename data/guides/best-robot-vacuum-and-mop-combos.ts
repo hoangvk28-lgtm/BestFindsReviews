@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,289 reviews",
     specs: ["AutoEmpty Dock, 75-day capacity", "LiDAR Navigation", "Intense Power-Lifting Suction", "Multiple Cleaning Modes"],
-    specList: [{"label":"Capacity","value":"AutoEmpty Dock, 75-day capacity"},{"label":"Navigation","value":"LiDAR Navigation"},{"label":"Suction Power","value":"Intense Power-Lifting Suction"},{"label":"Feature 4","value":"Multiple Cleaning Modes"}],
+    specList: [{"label":"Capacity","value":"AutoEmpty Dock, 75-day capacity"},{"label":"Feature 2","value":"LiDAR Navigation"},{"label":"Feature 3","value":"Intense Power-Lifting Suction"},{"label":"Feature 4","value":"Multiple Cleaning Modes"}],
     description:
       "The Roomba 105 Combo pairs iRobot's long-standing vacuum navigation with an AutoEmpty dock rated to hold up to 75 days of debris before you have to touch the bin. LiDAR navigation gives it consistent room mapping, and the multiple cleaning modes let you set different suction and mop behavior for different rooms rather than one blanket setting for the whole home.\n\nWith close to 50,000 reviews and a 4.4 average, it has by far the largest track record of any model in this comparison, which is worth weighing heavily since combo units have more moving parts than a vacuum-only robot. As with any combo dock, the AutoEmpty bag still needs periodic replacement and the mop tank needs refilling, so it reduces maintenance rather than eliminating it entirely.",
     bestFor: "Buyers who want the most proven, widely reviewed combo on the market and are comfortable paying a mid-range price for that track record.",

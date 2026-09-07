@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,411 reviews",
     specs: ["Built-in conical burr grinder", "25 grind settings", "Espresso, drip, and cold brew modes", "Weight-based dosing"],
-    specList: [{"label":"Size","value":"Built-in conical burr grinder"},{"label":"Grinder","value":"25 grind settings"},{"label":"Feature 3","value":"Espresso, drip, and cold brew modes"},{"label":"Weight Capacity","value":"Weight-based dosing"}],
+    specList: [{"label":"Size","value":"Built-in conical burr grinder"},{"label":"Feature 2","value":"25 grind settings"},{"label":"Feature 3","value":"Espresso, drip, and cold brew modes"},{"label":"Weight Capacity","value":"Weight-based dosing"}],
     description:
       "The conical burr grinder here offers 25 settings and weight-based dosing, aimed at minimizing the retention that plagues cheaper built-in grinders since precise dosing means less leftover ground coffee sitting in the chamber between brews. It also functions as three separate machines, espresso, drip, and cold brew, all sharing the same grinder.\n\nThat shared grinder is also the single point of failure risk this whole guide is about: if the grinder mechanism fails, all three brew modes lose fresh-grind capability at once, not just one function. At $599, it is by far the most expensive model here, and that price needs to be weighed against a standalone burr grinder plus separate brewer covering the same basic need for meaningfully less.",
     bestFor: "Buyers who want espresso, drip, and cold brew from one machine and are willing to pay a premium for precise dosing.",

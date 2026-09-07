@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Always-hot internal tank", "Brews 10 cups in ~3-4 minutes", "Paper filter drip", "3-year warranty"],
-    specList: [{"label":"Feature 1","value":"Always-hot internal tank"},{"label":"Size","value":"Brews 10 cups in ~3-4 minutes"},{"label":"Filtration","value":"Paper filter drip"},{"label":"Warranty","value":"3-year warranty"}],
+    specList: [{"label":"Feature 1","value":"Always-hot internal tank"},{"label":"Size","value":"Brews 10 cups in ~3-4 minutes"},{"label":"Feature 3","value":"Paper filter drip"},{"label":"Warranty","value":"3-year warranty"}],
     description:
       "The BUNN is a standard drip machine that uses ground coffee and paper filters exclusively, no pods anywhere in the design. Its always-hot internal tank means a full 10-cup pot brews in about 3 to 4 minutes, faster than most pod-free drip machines, at the cost of a small ongoing standby electricity draw.\n\nHands-on time is minimal once set up, just scoop grounds and add a filter, and cleanup is a paper filter and grounds straight into the trash. The full carafe format is well suited to a household drinking coffee together rather than single mugs at different times.",
     bestFor: "A household that wants a fast full pot from ground coffee with minimal hands-on effort.",

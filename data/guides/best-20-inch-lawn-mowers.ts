@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0GQBCT9LK?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/5150U1cYT7L._SL500_.jpg", price: "$189.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["20-inch cutting deck", "144cc 4-cycle engine", "3 cutting height settings", "Walk-behind push drive"],
-    specList: [{"label":"Size","value":"20-inch cutting deck"},{"label":"Feature 2","value":"144cc 4-cycle engine"},{"label":"Adjustability","value":"3 cutting height settings"},{"label":"Drive Type","value":"Walk-behind push drive"}],
+    specList: [{"label":"Size","value":"20-inch cutting deck"},{"label":"Feature 2","value":"144cc 4-cycle engine"},{"label":"Adjustability","value":"3 cutting height settings"},{"label":"Feature 4","value":"Walk-behind push drive"}],
     description: "This SENIX carries a rating around 4.0 stars from roughly 445 reviews, and the listing centers on a 144cc 4-cycle engine paired with a 20-inch deck and three cutting height settings. A 4-cycle engine means no gas-oil mixing, which keeps fueling simpler than older 2-cycle push mowers.\n\nAt this price point it is a straightforward gas push mower rather than a self-propelled or mulching-focused unit, so expect to supply the walking effort yourself. Check the current listing for included oil and confirm the fuel type before first startup.",
     bestFor: "small to mid-size lawns where a simple gas push mower beats charging a battery",
     pros: ["Full 20-inch cutting deck for fewer passes than 16 to 18-inch mowers", "4-cycle engine avoids gas-oil mixing", "Adjustable cutting height for different grass conditions"],

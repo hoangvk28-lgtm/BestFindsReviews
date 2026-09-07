@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "56V battery platform", "Battery and charger included", "Push drive"],
-    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Feature 4","value":"Push drive"}],
     description: "The EGO Power+ LM2114 pairs a 21-inch deck with the 56V battery platform, and it ships with a battery and charger rather than requiring a separate purchase to get running. It holds a 4.5 rating across roughly 2,160 reviews on Amazon, which is a large enough sample to trust for a battery mower in this class.\n\nIt is a push model, not self-propelled, so operator effort scales with lawn size and any slope. Confirm the included battery's watt-hours against your lawn size before buying, since runtime in tall or damp grass will be shorter than the rated figure.",
     bestFor: "standard-size lawns where a full-width battery mower with a strong review history matters",
     pros: ["21-inch deck with battery and charger included", "4.5 rating across roughly 2,160 reviews", "56V platform shared across other EGO tools"],

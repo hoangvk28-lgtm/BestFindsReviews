@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "348 reviews",
     specs: ["AI vision navigation", "Cordless design", "Floor, wall & waterline", "Top-load basket access"],
-    specList: [{"label":"Navigation","value":"AI vision navigation"},{"label":"Design","value":"Cordless design"},{"label":"Feature 3","value":"Floor, wall & waterline"},{"label":"Feature 4","value":"Top-load basket access"}],
+    specList: [{"label":"Feature 1","value":"AI vision navigation"},{"label":"Design","value":"Cordless design"},{"label":"Feature 3","value":"Floor, wall & waterline"},{"label":"Feature 4","value":"Top-load basket access"}],
     description:
       "The Scuba V3 uses AI-assisted vision to map the pool and adjust its cleaning path in real time, rather than relying on the random-bounce navigation older cordless cleaners use. That translates into more even coverage across the floor, walls, and waterline in a single cycle instead of needing separate passes.\n\nBeing fully cordless means no cable to untangle or accidentally snag on ladders and steps, which is the most common complaint with corded pool robots. The tradeoff is battery life and price, both of which sit at the upper end of this comparison, but the current rating and review base back up that it performs consistently across pool types.",
     bestFor: "Buyers who want the most capable current cleaner and are not trying to hit a budget ceiling.",

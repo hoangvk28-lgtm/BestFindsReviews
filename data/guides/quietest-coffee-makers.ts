@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "10,392 reviews",
     specs: ["8-cup thermal carafe", "1500W heater", "Audible ready signal", "SCA certified"],
-    specList: [{"label":"Capacity","value":"8-cup thermal carafe"},{"label":"Feature 2","value":"1500W heater"},{"label":"Feature 3","value":"Audible ready signal"},{"label":"Feature 4","value":"SCA certified"}],
+    specList: [{"label":"Feature 1","value":"8-cup thermal carafe"},{"label":"Feature 2","value":"1500W heater"},{"label":"Feature 3","value":"Audible ready signal"},{"label":"Feature 4","value":"SCA certified"}],
     description:
       "The Bonavita is a gravity-drip machine with no internal pump and no grinder, which removes the two loudest components a coffee maker can have. Its main documented sound during brewing comes from the heating element working through the cycle and a gurgling sound near the end as the last of the water drains through the grounds, both typical of any drip machine in this category.\n\nIt does include an audible signal when brewing finishes, which is a beep rather than a continuous alarm and only sounds once. The thermal carafe also means no warming plate hum after brewing, since the double-wall steel carafe holds heat passively instead of using an electric plate.",
     bestFor: "Buyers who want a fast, well-reviewed brewer without a pump or grinder adding extra mechanical noise.",

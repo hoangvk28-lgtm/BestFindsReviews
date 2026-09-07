@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["12-cup glass carafe", "24-hour programmability", "1 to 4 cup setting", "Adjustable auto-off, 0 to 4 hours"],
-    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmability"},{"label":"Feature 3","value":"1 to 4 cup setting"},{"label":"Adjustability","value":"Adjustable auto-off, 0 to 4 hours"}],
+    specList: [{"label":"Feature 1","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmability"},{"label":"Feature 3","value":"1 to 4 cup setting"},{"label":"Adjustability","value":"Adjustable auto-off, 0 to 4 hours"}],
     description:
       "The DCC-1200 is Cuisinart's longest-running current model, with 24-hour programmability, a 1 to 4 cup small-batch setting, and a variable heater plate with low, medium, and high temperature control. The included permanent gold-tone filter cuts down on paper filter costs, and a built-in charcoal water filter is meant to improve tap water taste going into the brew.\n\nLike every Cuisinart drip machine, its 12-cup rating is based on a 5oz cup, so the true yield is closer to 60oz total, roughly seven and a half standard 8oz mugs rather than a literal twelve. The dripless spout and knuckle guard on the carafe lid are genuinely useful pouring details that make less of a mess than a plain lid.",
     bestFor: "Buyers who want Cuisinart's most established model with full temperature control and a small-batch setting.",

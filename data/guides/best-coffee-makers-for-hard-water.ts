@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,989 reviews",
     specs: ["14-cup capacity", "Charcoal water filter compatible", "Programmable", "Removable filter basket"],
-    specList: [{"label":"Capacity","value":"14-cup capacity"},{"label":"Filtration","value":"Charcoal water filter compatible"},{"label":"Feature 3","value":"Programmable"},{"label":"Feature 4","value":"Removable filter basket"}],
+    specList: [{"label":"Capacity","value":"14-cup capacity"},{"label":"Feature 2","value":"Charcoal water filter compatible"},{"label":"Feature 3","value":"Programmable"},{"label":"Feature 4","value":"Removable filter basket"}],
     description:
       "Cuisinart's home lineup is widely compatible with third-party charcoal water filter cartridges, which reduce some of the dissolved minerals in the water before it ever reaches the heating element, a real advantage in a hard-water household over a machine with no filtration option at all. The removable filter basket also makes routine cleaning and inspection for scale straightforward.\n\nCuisinart's official guidance for descaling recommends a manufacturer-approved descaling solution or diluted white vinegar for most models, but always check the specific manual for your unit since guidance can vary by model year. Charcoal filters need periodic replacement, commonly every two months, which is a small ongoing cost worth planning for.",
     bestFor: "Hard-water households that want built-in filter compatibility and easy access for cleaning.",

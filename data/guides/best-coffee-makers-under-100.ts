@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53,550 reviews",
     specs: ["12-cup carafe + single-serve", "Pod or ground compatible", "Dual reservoirs", "Auto shut-off"],
-    specList: [{"label":"Capacity","value":"12-cup carafe + single-serve"},{"label":"Feature 2","value":"Pod or ground compatible"},{"label":"Feature 3","value":"Dual reservoirs"},{"label":"Feature 4","value":"Auto shut-off"}],
+    specList: [{"label":"Feature 1","value":"12-cup carafe + single-serve"},{"label":"Feature 2","value":"Pod or ground compatible"},{"label":"Feature 3","value":"Dual reservoirs"},{"label":"Feature 4","value":"Auto shut-off"}],
     description:
       "The 2-Way Brewer covers both a full 12-cup carafe and single-serve pod brewing from one machine, which is the kind of flexibility that only becomes realistic once you move past the sub-$50 tier. It uses separate reservoirs for each mode, so switching between a full pot and a single cup does not require refilling or reconfiguring anything.\n\nIt supports both K-Cup-style pods and ground coffee in the single-serve side, giving buyers a real choice on ongoing cost rather than locking them into pods. That flexibility, plus its large review base, is why it tops this list.",
     bestFor: "Households that want both a full carafe and single-serve pod brewing without buying two machines.",

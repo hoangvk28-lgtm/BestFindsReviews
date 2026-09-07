@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "35,912 reviews",
     specs: ["304 stainless steel", "Interior and exterior steel", "34oz capacity", "3-layer steel filter"],
-    specList: [{"label":"Material","value":"304 stainless steel"},{"label":"Feature 2","value":"Interior and exterior steel"},{"label":"Capacity","value":"34oz capacity"},{"label":"Filtration","value":"3-layer steel filter"}],
+    specList: [{"label":"Material","value":"304 stainless steel"},{"label":"Feature 2","value":"Interior and exterior steel"},{"label":"Capacity","value":"34oz capacity"},{"label":"Feature 4","value":"3-layer steel filter"}],
     description:
       "The Secura is genuinely solid stainless steel, not a plastic shell with a metallic finish. The listing specifies 18/8, 304 grade steel for both the interior and exterior body, and the filter screens are steel as well rather than plastic mesh. Since there is no electric heating element or reservoir to worry about, nearly every part that touches water is the real material.\n\nThe cool-touch handle and knob are the exception, made from a heat-resistant plastic rather than steel, which is the correct design choice since bare steel there would get too hot to hold safely after brewing with near-boiling water.",
     bestFor: "Buyers who want a carafe that is actually solid steel throughout, not just steel-colored.",

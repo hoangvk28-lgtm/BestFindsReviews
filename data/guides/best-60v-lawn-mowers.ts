@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0C2ZPBHC7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/41R0pwuOOQL._SL500_.jpg", price: "$389.99",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck", "60V platform", "5.0Ah battery and charger included", "Push drive"],
-    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V platform"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"60V platform"},{"label":"Battery","value":"5.0Ah battery and charger included"},{"label":"Feature 4","value":"Push drive"}],
     description: "The Greenworks 60V 21-Inch Push Lawn Mower pairs a full-width 21-inch deck with a 5.0Ah battery on the 60V platform, and it holds a 4.4 rating across 494 reviews, which is a solid sample size for a cordless push mower in this price range.\n\nA push mower without self-propel assist works best on flat to gently sloped lawns where the operator supplies all the forward motion. The included 5.0Ah pack gives a reasonable starting point, but actual runtime will still depend on grass height, moisture, and mowing speed, so it is worth confirming those details against the current listing before buying.",
     bestFor: "standard-size flat to gently sloped lawns where a well-reviewed push mower is enough",
     pros: ["Strong review history at 4.4 stars across 494 reviews", "21-inch deck covers standard lawns efficiently", "Battery and charger included in the box"],

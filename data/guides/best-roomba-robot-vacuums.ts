@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "8,964 reviews",
     specs: ["AutoWash Dock", "Extending spinning mop pads", "Self-empties", "LiDAR navigation"],
-    specList: [{"label":"Feature 1","value":"AutoWash Dock"},{"label":"Mopping","value":"Extending spinning mop pads"},{"label":"Feature 3","value":"Self-empties"},{"label":"Navigation","value":"LiDAR navigation"}],
+    specList: [{"label":"Feature 1","value":"AutoWash Dock"},{"label":"Feature 2","value":"Extending spinning mop pads"},{"label":"Feature 3","value":"Self-empties"},{"label":"Feature 4","value":"LiDAR navigation"}],
     description:
       "The Roomba Plus 505 Combo pairs vacuuming with an extending, spinning mop system and an AutoWash Dock that washes and heat-dries the mop pads between runs, so you are not pulling out a dirty pad by hand after every mopping pass. LiDAR navigation handles mapping and room-by-room cleaning, and the dock also empties the bin automatically.\n\nAmong the models we researched, this is the one that comes closest to a fully hands-off routine: vacuum, mop, empty, and wash the pads, all without you touching the robot between cycles. It carries a higher price than the vacuum-only or basic combo models here, but it is the most complete package for buyers who want both floor types handled well.",
     bestFor: "Buyers who want vacuuming and mopping fully automated, including pad washing, without manual cleanup.",

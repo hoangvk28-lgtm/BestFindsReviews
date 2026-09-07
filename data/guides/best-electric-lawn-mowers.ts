@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BLT8L937?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/418i3mcBfML._SL500_.jpg", price: "$399.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch deck","56V battery platform","Battery and charger included","Push drive"],
-    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Drive Type","value":"Push drive"}],
+    specList: [{"label":"Size","value":"21-inch deck"},{"label":"Power Source","value":"56V battery platform"},{"label":"Battery","value":"Battery and charger included"},{"label":"Feature 4","value":"Push drive"}],
     description: "EGO Power+ LM2114 21-Inch Cordless Mower combines 21-inch deck, 56V battery platform, Battery and charger included. That combination makes it a practical option for standard-size lawns needing a full-width battery mower.\n\nIncluded watt-hours and runtime under tall or damp grass should be verified against the current kit. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "standard-size lawns needing a full-width battery mower",
     pros: ["21-inch deck","56V battery platform","Battery and charger included"],

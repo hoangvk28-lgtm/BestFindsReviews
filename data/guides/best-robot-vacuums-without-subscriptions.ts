@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "18,587 reviews",
     specs: ["10000Pa suction", "Vacuum and mop combo", "Up to 7-9 weeks self-empty", "App scheduling and mapping"],
-    specList: [{"label":"Suction Power","value":"10000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Up to 7-9 weeks self-empty"},{"label":"Connectivity","value":"App scheduling and mapping"}],
+    specList: [{"label":"Feature 1","value":"10000Pa suction"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Up to 7-9 weeks self-empty"},{"label":"Connectivity","value":"App scheduling and mapping"}],
     description:
       "The Q7 M5+ pairs strong 10000Pa suction with a mop function and a self-empty base rated for up to 7 to 9 weeks between bag changes. Mapping, room-by-room scheduling, and no-go zones all run through the free app with no paid tier required to use them.\n\nWith the highest review count and strongest rating of the models in this comparison, it is the safest default pick for buyers who want a full-featured vacuum-and-mop combo without hunting through settings to confirm nothing is gated behind a fee.",
     bestFor: "Buyers who want a full vacuum-and-mop combo with long self-empty intervals and proven reliability at scale.",

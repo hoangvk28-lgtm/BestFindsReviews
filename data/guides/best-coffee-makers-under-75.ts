@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,557 reviews",
     specs: ["10-cup capacity", "Regular/Strong brew", "Auto shut-off", "Permanent filter included"],
-    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"Regular/Strong brew"},{"label":"Feature 3","value":"Auto shut-off"},{"label":"Filtration","value":"Permanent filter included"}],
+    specList: [{"label":"Capacity","value":"10-cup capacity"},{"label":"Feature 2","value":"Regular/Strong brew"},{"label":"Feature 3","value":"Auto shut-off"},{"label":"Feature 4","value":"Permanent filter included"}],
     description:
       "The SHARDOR sits comfortably under this tier's $75 ceiling while offering programmable brew start, a regular-or-strong selector, and a permanent filter that removes ongoing paper filter costs entirely. That combination is normally what separates this middle tier from the bare-bones sub-$50 machines.\n\nWith real budget headroom left under $75, buyers who want to spend a little more within this tier could pair it with a better burr grinder or a second reusable filter without ever approaching the Under $100 range.",
     bestFor: "Buyers who want programmable brewing and a permanent filter while leaving room in the $75 budget.",

@@ -43,9 +43,9 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "2,311 reviews",
     specs: ["3.19in ultra-slim body", "Omni self-empty and wash station", "Vacuum and mop combo", "App mapping and control"],
-    specList: [{"label":"Feature 1","value":"3.19in ultra-slim body"},{"label":"Feature 2","value":"Omni self-empty and wash station"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App mapping and control"}],
+    specList: [{"label":"Feature 1","value":"3.19in ultra-slim body"},{"label":"Feature 2","value":"Omni self-empty and wash station"},{"label":"Feature 3","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App mapping and control"}],
     description:
-      "The DEEBOT T50 PRO Omni pairs a genuine self-empty, self-wash station with a body slim enough to get under most low-clearance furniture, which is a combination that is not always available at this price. That slim profile means it reaches areas taller robots skip entirely, while the omni station handles both dirt disposal and mop pad washing without owner intervention.\n\nAt $299, it undercuts several less-equipped models in this comparison while still including the full docking station most buyers associate with a higher tier. Reviewers who buy it are generally doing so specifically for the low-profile design paired with hands-off maintenance.",
+      "The DEEBOT T50 PRO Omni pairs a genuine self-empty, self-wash station with a body slim enough to get under most low-clearance furniture, which is a combination that is not always available at this price. That slim profile means it reaches areas taller robots skip entirely, while the omni station handles both dirt disposal and mop pad washing without owner intervention.\n\nValue-wise, it undercuts several less-equipped models in this comparison while still including the full docking station most buyers associate with a higher tier. Reviewers who buy it are generally doing so specifically for the low-profile design paired with hands-off maintenance.",
     bestFor: "Buyers who want a full self-empty and self-wash station without paying near the $400 ceiling for it.",
     pros: [
       "Full self-empty and self-wash omni station included at this price",

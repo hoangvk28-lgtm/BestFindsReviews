@@ -44,7 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "31,448 reviews",
     specs: ["Vacuum only, no mop mode", "Self-charging base", "Multi-surface cleaning", "Simple start button"],
-    specList: [{"label":"Mopping","value":"Vacuum only, no mop mode"},{"label":"Feature 2","value":"Self-charging base"},{"label":"Feature 3","value":"Multi-surface cleaning"},{"label":"Reviews","value":"Simple start button"}],
+    specList: [{"label":"Feature 1","value":"Vacuum only, no mop mode"},{"label":"Feature 2","value":"Self-charging base"},{"label":"Feature 3","value":"Multi-surface cleaning"},{"label":"Reviews","value":"Simple start button"}],
     description:
       "The Roomba 105 Vac keeps things simple by doing one job, vacuuming, instead of also trying to mop. That single-purpose design means fewer settings to learn and fewer parts that can jam or need cleaning, which matters if the goal is a machine that just runs on its own. It self-charges and returns to its base without any manual intervention once a cleaning cycle finishes.",
     bestFor: "Buyers who want a well-reviewed, no-frills vacuum-only robot without mop mode complexity.",

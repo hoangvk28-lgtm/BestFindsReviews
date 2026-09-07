@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "4,810 reviews",
     specs: ["Gold Cup Certified", "Double-wall thermal carafe", "Optional single-serve brew basket", "Rainmaker showerhead", "Built-in cleaning mode"],
-    specList: [{"label":"Capacity","value":"Gold Cup Certified"},{"label":"Feature 2","value":"Double-wall thermal carafe"},{"label":"Feature 3","value":"Optional single-serve brew basket"},{"label":"Brand","value":"Rainmaker showerhead"},{"label":"Size","value":"Built-in cleaning mode"}],
+    specList: [{"label":"Feature 1","value":"Gold Cup Certified"},{"label":"Feature 2","value":"Double-wall thermal carafe"},{"label":"Feature 3","value":"Optional single-serve brew basket"},{"label":"Brand","value":"Rainmaker showerhead"},{"label":"Size","value":"Built-in cleaning mode"}],
     description:
       "The OXO Brew is Gold Cup Certified by the Specialty Coffee Association, meaning its BetterBrew precision technology holds water temperature between 194 and 205 degrees Fahrenheit to meet a recognized brewing standard rather than a marketing claim. Its double-wall vacuum-insulated thermal carafe holds heat for hours with no warming plate, and an optional single-serve brew basket lets the same machine handle one cup when you do not need the full 8.\n\nA rainmaker showerhead evenly saturates grounds for more consistent extraction, and a built-in cleaning mode helps manage mineral buildup. This is the more premium of the two genuine 8-cup machines we found, reflected clearly in its price.",
     bestFor: "Buyers who want SCA-certified brewing quality and a genuine thermal carafe at true 8-cup capacity.",

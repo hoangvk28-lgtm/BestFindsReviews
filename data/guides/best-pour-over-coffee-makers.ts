@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "8,707 reviews",
     specs: ["8-cup glass carafe", "Thick proprietary paper filters", "No mesh filter option", "Wood collar handle"],
-    specList: [{"label":"Capacity","value":"8-cup glass carafe"},{"label":"Filtration","value":"Thick proprietary paper filters"},{"label":"Material","value":"No mesh filter option"},{"label":"Feature 4","value":"Wood collar handle"}],
+    specList: [{"label":"Feature 1","value":"8-cup glass carafe"},{"label":"Feature 2","value":"Thick proprietary paper filters"},{"label":"Material","value":"No mesh filter option"},{"label":"Feature 4","value":"Wood collar handle"}],
     description:
       "The Chemex uses thick, proprietary paper filters that trap more fine sediment and oils than a standard cone filter, which produces a noticeably cleaner cup but also means the result depends heavily on maintaining a slow, even pour, since the thick filter already slows flow significantly on its own. Rush the pour and you risk channeling water around the grounds instead of through them.\n\nBeing an all-glass vessel with no insulation, water in the Chemex cools as you pour, so a slow, distracted pour lets the later stages of extraction happen at a meaningfully lower temperature than the start, which can leave the cup tasting flat or underextracted. Chemex-specific filters also cost more per filter than generic cone filters and are not always available at smaller grocery stores, which is a real ongoing cost and convenience factor.",
     bestFor: "Buyers who want the cleanest possible cup and are willing to master a slow, deliberate pour technique.",

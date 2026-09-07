@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "8,274 reviews",
     specs: ["5-cup reservoir", "Reusable filter", "Simple on/off switch", "No programming, no clock"],
-    specList: [{"label":"Capacity","value":"5-cup reservoir"},{"label":"Filtration","value":"Reusable filter"},{"label":"Feature 3","value":"Simple on/off switch"},{"label":"Feature 4","value":"No programming, no clock"}],
+    specList: [{"label":"Feature 1","value":"5-cup reservoir"},{"label":"Feature 2","value":"Reusable filter"},{"label":"Feature 3","value":"Simple on/off switch"},{"label":"Feature 4","value":"No programming, no clock"}],
     description:
       "This is the fewest-steps machine in this comparison: fill the reservoir, add grounds to the built-in reusable filter, flip the on/off switch, done. There is no clock to set, no delay timer, and no digital menu to navigate, which also means there is nothing to accidentally misconfigure.\n\nThe tradeoff for that simplicity is that it cannot brew on a schedule, so if you want coffee ready before you wake up, this is not the model for that. For anyone who just wants to press one control and get coffee, though, it removes every extra decision.",
     bestFor: "Anyone who wants the fewest possible steps and no programming to think about, ever.",

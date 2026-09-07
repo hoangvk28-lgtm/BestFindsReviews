@@ -44,7 +44,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,645 reviews",
     specs: ["Vacuum and mop combo", "Self-charging dock", "App and Alexa control", "Multi-surface navigation"],
-    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 2","value":"Self-charging dock"},{"label":"Connectivity","value":"App and Alexa control"},{"label":"Navigation","value":"Multi-surface navigation"}],
+    specList: [{"label":"Feature 1","value":"Vacuum and mop combo"},{"label":"Feature 2","value":"Self-charging dock"},{"label":"Connectivity","value":"App and Alexa control"},{"label":"Feature 4","value":"Multi-surface navigation"}],
     description:
       "The G8000 Max combines vacuuming and mopping in one pass, which matters in a small apartment where running two separate cleaning tools is rarely practical. Its self-charging dock returns it to a fixed spot automatically, so there is no cord to manage or remember to plug back in after each session.\n\nWith a 4.4 rating across thousands of reviews, it has the strongest track record of any model in this comparison, and app and Alexa control let you start or pause a cycle without walking over to press a button, which is useful when the dock sits close to a workspace or a bed.",
     bestFor: "Buyers who want a single proven vacuum-and-mop unit with a reliable, well-reviewed track record.",

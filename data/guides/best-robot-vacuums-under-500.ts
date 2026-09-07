@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "Widely praised",
     reviews: "a large number of reviews",
     specs: ["10,000Pa suction", "Vacuum and mop combo", "Self-empty compatible dock", "App room mapping"],
-    specList: [{"label":"Suction Power","value":"10,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-empty compatible dock"},{"label":"Connectivity","value":"App room mapping"}],
+    specList: [{"label":"Feature 1","value":"10,000Pa suction"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Self-empty compatible dock"},{"label":"Connectivity","value":"App room mapping"}],
     description:
       "The Q10 S5+ pairs 10,000Pa suction with a combined vacuum-and-mop head, which is the combination that defines this price tier: strong enough suction for daily pet hair and debris, plus a mop function that would have been a separate purchase at a lower price point. It comes bundled with a self-empty compatible dock, so the base station is not an added-cost accessory here.\n\nApp-based room mapping lets you set no-go zones and target specific rooms, a feature that is often missing or limited at sub-$150 price points. For buyers upgrading from an older bump-and-turn model, this is the kind of jump in capability that under-$500 money should buy.",
     bestFor: "Buyers who want a genuine vacuum-and-mop combo with a bundled dock and real room mapping without spending close to $500.",

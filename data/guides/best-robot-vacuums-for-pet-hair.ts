@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "35,905 reviews",
     specs: ["Vacuum and mop combo", "Matrix Clean navigation", "Self-empty compatible", "App and voice control"],
-    specList: [{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Navigation","value":"Matrix Clean navigation"},{"label":"Feature 3","value":"Self-empty compatible"},{"label":"Connectivity","value":"App and voice control"}],
+    specList: [{"label":"Feature 1","value":"Vacuum and mop combo"},{"label":"Feature 2","value":"Matrix Clean navigation"},{"label":"Feature 3","value":"Self-empty compatible"},{"label":"Connectivity","value":"App and voice control"}],
     description:
       "The Matrix Plus combines vacuuming and mopping in one pass using Shark's Matrix Clean navigation, which crisscrosses each room instead of following a single perimeter-first path. For pet households, the more relevant detail is the review volume behind it: with over 35,000 ratings and a 4.0 average, it has a large enough track record that hair-wrap and clog issues would likely show up clearly if they were widespread, and they have not.\n\nBuyers commonly report that it handles mixed hard floor and carpet transitions without getting stuck, which matters in homes where a dog bed or rug sits on top of hardwood. The mop function adds versatility for muddy paw prints, though it works best as a light daily pass rather than a deep scrub.",
     bestFor: "Pet owners who want one well-reviewed machine that handles both hair pickup and light mopping.",

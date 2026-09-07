@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "53,856 reviews",
     specs: ["LiDAR Navigation, No Camera", "Vacuum and mop combo", "Hardwood and carpet capable", "Self-empty base"],
-    specList: [{"label":"Navigation","value":"LiDAR Navigation, No Camera"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet capable"},{"label":"Feature 4","value":"Self-empty base"}],
+    specList: [{"label":"Feature 1","value":"LiDAR Navigation, No Camera"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Material","value":"Hardwood and carpet capable"},{"label":"Feature 4","value":"Self-empty base"}],
     description:
       "The Omni C20 pairs the highest rating in this comparison with a large review base, which is a rare combination for a vacuum-and-mop combo unit. It navigates entirely with LiDAR, so there is no camera on the robot itself for room mapping or obstacle detection.\n\neufy has also built part of its brand around local, on-device processing for some product lines, which is worth checking directly against the Omni C20's current privacy policy since feature sets and data handling can differ between models in the same lineup. As with every robot here, confirm the app's account requirements before setup if that matters to you.",
     bestFor: "Buyers who want the strongest overall rating and reviews plus mopping, without a camera-based robot.",

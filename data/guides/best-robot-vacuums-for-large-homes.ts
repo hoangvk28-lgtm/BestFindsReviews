@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "62 reviews",
     specs: ["8000Pa suction", "Vacuum and mop combo", "Pet hair focused", "Carpet and hard floor modes"],
-    specList: [{"label":"Suction Power","value":"8000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Pet hair focused"},{"label":"Feature 4","value":"Carpet and hard floor modes"}],
+    specList: [{"label":"Feature 1","value":"8000Pa suction"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Feature 3","value":"Pet hair focused"},{"label":"Feature 4","value":"Carpet and hard floor modes"}],
     description:
       "The Vyzzle E20 pairs 8000Pa suction with a combined vacuum and mop function, which is a useful combination for a larger home with mixed flooring where you do not want to run two separate machines. Vyzzle is a newer name compared to the established robot vacuum brands, but its current rating is the strongest of any model in this comparison.\n\nThe review count is small relative to the more established brands here, so treat the rating as an early but genuinely positive signal rather than a large-scale track record. For a large home, pair it with attention to how it handles recharge-and-resume across multiple rooms, since that behavior matters more as square footage grows.",
     bestFor: "Buyers who want strong current owner feedback on a vacuum-and-mop combo and are comfortable with a newer brand.",

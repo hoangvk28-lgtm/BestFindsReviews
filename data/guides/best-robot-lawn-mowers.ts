@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0G8Y8CNH7?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31PCfqtO+CL._SL500_.jpg", price: "$2,499.00",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["Up to 1-acre capacity","Wire-free navigation","Four-wheel drive","Designed for steep terrain"],
-    specList: [{"label":"Capacity","value":"Up to 1-acre capacity"},{"label":"Navigation","value":"Wire-free navigation"},{"label":"Wheels","value":"Four-wheel drive"},{"label":"Design","value":"Designed for steep terrain"}],
+    specList: [{"label":"Capacity","value":"Up to 1-acre capacity"},{"label":"Feature 2","value":"Wire-free navigation"},{"label":"Wheels","value":"Four-wheel drive"},{"label":"Design","value":"Designed for steep terrain"}],
     description: "Segway Navimow X430 Robot Mower combines Up to 1-acre capacity, Wire-free navigation, Four-wheel drive. That combination makes it a practical option for large or steep lawns needing a wire-free robot.\n\nTrees, buildings, narrow corridors, and hard boundaries can still affect navigation and leave edge trimming for the owner. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "large or steep lawns needing a wire-free robot",
     pros: ["Up to 1-acre capacity","Wire-free navigation","Four-wheel drive"],

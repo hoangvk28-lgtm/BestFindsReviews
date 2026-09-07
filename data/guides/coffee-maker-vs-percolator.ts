@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["12-cup glass carafe", "24-hour programmable", "Single-pass drip", "Auto shutoff"],
-    specList: [{"label":"Capacity","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Collection","value":"Single-pass drip"},{"label":"Feature 4","value":"Auto shutoff"}],
+    specList: [{"label":"Feature 1","value":"12-cup glass carafe"},{"label":"Feature 2","value":"24-hour programmable"},{"label":"Collection","value":"Single-pass drip"},{"label":"Feature 4","value":"Auto shutoff"}],
     description:
       "This drip machine passes hot water through the grounds a single time, so extraction is limited by design and consistent from cup to cup within the same pot. Its 24-hour programmable timer means it can be set up the night before with zero attention needed the next morning.\n\nAt under $35 it is a low-cost, low-maintenance entry point into single-pass drip brewing, with a standard paper-filter basket and an enclosed heating element that keeps hot surfaces mostly contained.",
     bestFor: "Anyone who wants consistent, single-pass extraction with zero hands-on brewing effort.",

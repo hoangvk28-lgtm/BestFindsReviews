@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "108,756 reviews",
     specs: ["Under 5in wide", "6 to 12oz brew range", "Fill-per-brew reservoir", "K-Cup pod compatible", "Auto off after 90 seconds"],
-    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Feature 2","value":"6 to 12oz brew range"},{"label":"Feature 3","value":"Fill-per-brew reservoir"},{"label":"Capacity","value":"K-Cup pod compatible"},{"label":"Feature 5","value":"Auto off after 90 seconds"}],
+    specList: [{"label":"Feature 1","value":"Under 5in wide"},{"label":"Feature 2","value":"6 to 12oz brew range"},{"label":"Feature 3","value":"Fill-per-brew reservoir"},{"label":"Feature 4","value":"K-Cup pod compatible"},{"label":"Feature 5","value":"Auto off after 90 seconds"}],
     description:
       "The K-Mini brews anywhere from 6 to 12oz per cup using K-Cup pods, with a one-cup reservoir that you fill fresh for every brew rather than keeping a tank topped off. At under 5 inches wide, it is the narrowest machine in this comparison, built specifically to fit tight counter space, dorms, or office desks.\n\nIt is also compatible with the My K-Cup reusable filter for brewing your own ground coffee instead of pods, and it has the largest review base of any model here by a wide margin, which tracks with how often it is bought as a first or secondary coffee maker.",
     bestFor: "Buyers who want the smallest possible footprint and are comfortable filling water for every single brew.",

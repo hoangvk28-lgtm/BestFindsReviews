@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,798 reviews",
     specs: ["20,000Pa suction", "Vacuum and mop combo", "App and voice control", "Self-charging"],
-    specList: [{"label":"Suction Power","value":"20,000Pa suction"},{"label":"Mopping","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and voice control"},{"label":"Feature 4","value":"Self-charging"}],
+    specList: [{"label":"Feature 1","value":"20,000Pa suction"},{"label":"Feature 2","value":"Vacuum and mop combo"},{"label":"Connectivity","value":"App and voice control"},{"label":"Feature 4","value":"Self-charging"}],
     description:
       "The D20 Air Plus leads this comparison with 20,000Pa of rated suction, which is well above most of the field here and gives it more margin for pulling fine dust and sand out of hardwood seams instead of pushing it around. It combines vacuuming and mopping in one pass, which suits an open hardwood floor plan where you want both jobs done without swapping attachments.\n\nIt carries the strongest verified rating and review base of any model in this guide, which matters on hardwood specifically since owner feedback tends to flag scratching or streaking issues quickly if they happen. Check recent reviews for how it handles mop water on your specific flooring before running it unattended on a full house.",
     bestFor: "Buyers who want the strongest all-around suction and mopping combo with the most established owner feedback.",

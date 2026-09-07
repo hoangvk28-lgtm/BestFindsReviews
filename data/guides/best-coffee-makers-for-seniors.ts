@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "49,912 reviews",
     specs: ["Large rubberized buttons", "Digital display", "12-cup carafe", "2-hour auto shutoff"],
-    specList: [{"label":"Feature 1","value":"Large rubberized buttons"},{"label":"Feature 2","value":"Digital display"},{"label":"Capacity","value":"12-cup carafe"},{"label":"Feature 4","value":"2-hour auto shutoff"}],
+    specList: [{"label":"Feature 1","value":"Large rubberized buttons"},{"label":"Feature 2","value":"Digital display"},{"label":"Feature 3","value":"12-cup carafe"},{"label":"Feature 4","value":"2-hour auto shutoff"}],
     description:
       "This model's rubberized buttons are larger and offer more tactile feedback than a flush membrane button, which matters if arthritis or reduced grip strength makes small, flat controls harder to press accurately. The display shows the clock and brew status in large characters that are legible from a few feet away, not just up close.\n\nThe 12-cup Duralife glass carafe has an ergonomic handle designed for a comfortable one-hand pour, and the 2-hour auto shutoff is a genuine safety feature that does not require remembering to turn the machine off. The carafe is glass, so it does add some weight and breakage risk when full.",
     bestFor: "Anyone who wants larger, more forgiving buttons and a display readable from across the kitchen.",

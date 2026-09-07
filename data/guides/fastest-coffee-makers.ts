@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "17,301 reviews",
     specs: ["Internal always-hot tank", "10-cup carafe", "~3 minute steady-state brew", "Warming plate"],
-    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Capacity","value":"10-cup carafe"},{"label":"Feature 3","value":"~3 minute steady-state brew"},{"label":"Feature 4","value":"Warming plate"}],
+    specList: [{"label":"Feature 1","value":"Internal always-hot tank"},{"label":"Feature 2","value":"10-cup carafe"},{"label":"Feature 3","value":"~3 minute steady-state brew"},{"label":"Feature 4","value":"Warming plate"}],
     description:
       "The GRB keeps an internal tank of water hot at all times, so once it has gone through its initial cold-start fill cycles, every subsequent full pot brews in around three minutes because the machine is not heating water from scratch each time. That steady-state speed is the fastest of any machine in this comparison for a full 10-cup pot.\n\nThe genuine tradeoff is that the tank draws standby power continuously to stay hot, even between brews, which a standard drip machine that only heats on demand does not do. For daily use the speed generally outweighs that cost, but it is a real ongoing expense a one-time brew-time number does not capture.",
     bestFor: "Daily coffee drinkers who brew at least once a day and want the fastest steady-state full pot.",

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,908 reviews",
     specs: ["Genuine 12-cup (60oz) carafe", "24-hour programmability", "Adjustable heater plate", "Permanent gold-tone filter"],
-    specList: [{"label":"Capacity","value":"Genuine 12-cup (60oz) carafe"},{"label":"Feature 2","value":"24-hour programmability"},{"label":"Adjustability","value":"Adjustable heater plate"},{"label":"Filtration","value":"Permanent gold-tone filter"}],
+    specList: [{"label":"Feature 1","value":"Genuine 12-cup (60oz) carafe"},{"label":"Feature 2","value":"24-hour programmability"},{"label":"Adjustability","value":"Adjustable heater plate"},{"label":"Feature 4","value":"Permanent gold-tone filter"}],
     description:
       "The DCC-1200P1's 12-cup glass carafe holds the standard 60oz, meaning it fills at the manufacturer's 5oz-per-cup measurement rather than 12 full 8oz mugs, which would actually require a 96oz carafe. This is the industry-standard cup measurement across nearly every automatic drip machine, not a Cuisinart-specific quirk.\n\nIt handles a full 12-cup batch well and includes a 1-4 cup setting for smaller pours, so it does not force you into brewing a full pot every time. The carafe has a comfort-grip handle rated for the full 60oz of hot coffee, and the reservoir sits at the back rather than lifting out, so refilling means pouring water in from a kettle or measuring cup rather than carrying the reservoir to the sink.",
     bestFor: "Buyers who want a genuine full-size 12-cup carafe with reliable small-batch handling built in.",

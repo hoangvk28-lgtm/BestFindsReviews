@@ -19,7 +19,7 @@ export const products: GuideProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0CPH8G8DY?tag=worthrated-20", imageUrl: "https://m.media-amazon.com/images/I/31l8LBDrn1L._SL500_.jpg", price: "$297.33",
     ctaLabel: "Check price on Amazon", shortCtaLabel: "Check price",
     specs: ["21-inch Recycler deck","60V platform","Push drive","Battery and charger sold separately"],
-    specList: [{"label":"Size","value":"21-inch Recycler deck"},{"label":"Power Source","value":"60V platform"},{"label":"Drive Type","value":"Push drive"},{"label":"Battery","value":"Battery and charger sold separately"}],
+    specList: [{"label":"Size","value":"21-inch Recycler deck"},{"label":"Power Source","value":"60V platform"},{"label":"Feature 3","value":"Push drive"},{"label":"Battery","value":"Battery and charger sold separately"}],
     description: "Toro 60V 21-Inch Recycler Push Mower combines 21-inch Recycler deck, 60V platform, Push drive. That combination makes it a practical option for Toro owners who already have compatible 60V batteries.\n\nThe battery and charger are sold separately, so first-time platform cost is higher than the mower-only price. Compare its operating width, power setup, storage needs, and local service options with your property before buying.",
     bestFor: "Toro owners who already have compatible 60V batteries",
     pros: ["21-inch Recycler deck","60V platform","Push drive"],

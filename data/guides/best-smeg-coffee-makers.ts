@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "2,582 reviews",
     specs: ["10-cup glass carafe, 47oz", "Two aroma strength settings", "Programmable auto-start", "Keep-warm plate, 60 minutes"],
-    specList: [{"label":"Capacity","value":"10-cup glass carafe, 47oz"},{"label":"Feature 2","value":"Two aroma strength settings"},{"label":"Reviews","value":"Programmable auto-start"},{"label":"Feature 4","value":"Keep-warm plate, 60 minutes"}],
+    specList: [{"label":"Feature 1","value":"10-cup glass carafe, 47oz"},{"label":"Feature 2","value":"Two aroma strength settings"},{"label":"Reviews","value":"Programmable auto-start"},{"label":"Feature 4","value":"Keep-warm plate, 60 minutes"}],
     description:
       "This is the flagship Smeg drip machine, with a 10-cup glass carafe, programmable auto-start, and a choice of light or intense aroma settings on an LED control panel. The carafe lid opens further back than most standard drip carafes, which genuinely helps with pouring and rinsing without the finish or hardware getting in the way.\n\nThe reusable permanent filter is included alongside standard paper filter compatibility, so day to day operation is close to any other programmable drip machine once you get past the retro shell. The keep-warm plate holds coffee for up to 60 minutes, which is shorter than some competitors and worth knowing if you tend to nurse a pot for longer than that.",
     bestFor: "Buyers who want the full Smeg drip feature set and are comfortable paying a design premium over a plain programmable machine.",

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "23,547 reviews",
     specs: ["2-in-1 vacuum and mop", "Self-cleaning dock", "Matrix cleaning navigation", "Auto dirt disposal"],
-    specList: [{"label":"Size","value":"2-in-1 vacuum and mop"},{"label":"Feature 2","value":"Self-cleaning dock"},{"label":"Navigation","value":"Matrix cleaning navigation"},{"label":"Feature 4","value":"Auto dirt disposal"}],
+    specList: [{"label":"Size","value":"2-in-1 vacuum and mop"},{"label":"Feature 2","value":"Self-cleaning dock"},{"label":"Feature 3","value":"Matrix cleaning navigation"},{"label":"Feature 4","value":"Auto dirt disposal"}],
     description:
       "The Matrix Plus combines vacuuming and mopping in a single pass and returns to its dock to empty its bin and rinse its mop pad without you touching either. Shark's Matrix navigation pattern is designed to catch corners and edges that a simple back-and-forth route tends to skip, which matters most in rooms with a lot of furniture legs.\n\nAt this price and with over 23,000 reviews behind it, it lands in the middle of the pack on cost while covering the core self-cleaning features most households actually want: dock-based pad rinsing and hands-off dirt disposal. It is a sensible default pick if you are not chasing the highest suction number or the most premium dock available.",
     bestFor: "Households that want a genuinely hands-off vacuum-and-mop combo without paying premium-tier prices.",

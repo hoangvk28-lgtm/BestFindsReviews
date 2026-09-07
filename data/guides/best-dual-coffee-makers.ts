@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "6,399 reviews",
     specs: ["72oz shared reservoir", "12-cup carafe side", "Single-cup pod side", "Brew over ice"],
-    specList: [{"label":"Color/Finish","value":"72oz shared reservoir"},{"label":"Capacity","value":"12-cup carafe side"},{"label":"Feature 3","value":"Single-cup pod side"},{"label":"Feature 4","value":"Brew over ice"}],
+    specList: [{"label":"Color/Finish","value":"72oz shared reservoir"},{"label":"Feature 2","value":"12-cup carafe side"},{"label":"Feature 3","value":"Single-cup pod side"},{"label":"Feature 4","value":"Brew over ice"}],
     description:
       "The K-Duo is a single-cup-plus-carafe dual machine, not a pods-plus-grounds one. The pod side brews K-Cups only, and the 12-cup carafe side brews from a basket of ground coffee, each using its own mechanism but sharing one 72oz reservoir. Both sides are genuinely capable rather than one being an afterthought, which is not true of every dual machine in this category.\n\nBecause it packs two separate brewing mechanisms into one housing, it takes up roughly the same counter footprint as a mid-size single-serve machine alone, which is smaller than buying a separate pod machine and a separate carafe brewer. The tradeoff is that a carafe-side failure, such as a stuck valve or a clog in the ground-coffee funnel, can take out that half of the machine while the pod side keeps working, or vice versa.",
     bestFor: "Households that regularly need both a quick single cup and a full pot from the same machine.",

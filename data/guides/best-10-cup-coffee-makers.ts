@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22,693 reviews",
     specs: ["1.5L / 51oz capacity", "900 watts", "Pause & Brew system", "Reusable filter, measuring spoon, no-drip carafe", "Dishwasher-safe glass carafe"],
-    specList: [{"label":"Capacity","value":"1.5L / 51oz capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Feature 3","value":"Pause & Brew system"},{"label":"Filtration","value":"Reusable filter, measuring spoon, no-drip carafe"},{"label":"Feature 5","value":"Dishwasher-safe glass carafe"}],
+    specList: [{"label":"Capacity","value":"1.5L / 51oz capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Feature 3","value":"Pause & Brew system"},{"label":"Feature 4","value":"Reusable filter, measuring spoon, no-drip carafe"},{"label":"Feature 5","value":"Dishwasher-safe glass carafe"}],
     description:
       "KRUPS states a 1.5L, or roughly 51oz, capacity directly on the listing, which lines up closely with the expected 50oz for a genuine 10-cup machine. The Pause & Brew system lets you pull the carafe mid-cycle for an early cup without spilling on the warming plate, and a 900-watt heater keeps brew times reasonable for the size.\n\nIt ships with a reusable filter, measuring spoon, and a no-drip carafe, and the glass carafe itself is dishwasher safe, which simplifies cleanup compared to a hand-wash-only thermal carafe.",
     bestFor: "Buyers who want confirmed genuine 10-cup capacity at the lowest price in this comparison.",

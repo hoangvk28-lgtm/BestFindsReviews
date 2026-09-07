@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "929 reviews",
     specs: ["25,000Pa suction", "Robot vacuum and mop combo", "AI obstacle detection", "Self-cleaning dock"],
-    specList: [{"label":"Suction Power","value":"25,000Pa suction"},{"label":"Mopping","value":"Robot vacuum and mop combo"},{"label":"Feature 3","value":"AI obstacle detection"},{"label":"Feature 4","value":"Self-cleaning dock"}],
+    specList: [{"label":"Feature 1","value":"25,000Pa suction"},{"label":"Feature 2","value":"Robot vacuum and mop combo"},{"label":"Feature 3","value":"AI obstacle detection"},{"label":"Feature 4","value":"Self-cleaning dock"}],
     description:
       "The L40 Ultra Gen 2 leads this comparison on suction power alone at 25,000Pa, but the more relevant detail for obstacle avoidance is that it pairs that suction with an AI-driven detection system built to identify and route around common floor clutter rather than plowing through it. That combination matters most in homes with pets or kids, where cords and small objects are a daily fact of life.\n\nAs a combo mop and vacuum, it also has to make real-time decisions about when to lift the mop pad near rugs or obstacles, which is a harder problem than avoidance alone. Check recent buyer reviews for how consistently the mop-lift timing lines up with the vacuum's obstacle calls, since that is where combo units most often lose points.",
     bestFor: "Buyers who want the strongest current combination of suction and AI-based obstacle detection in one machine.",
