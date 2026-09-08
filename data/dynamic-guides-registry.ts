@@ -875,6 +875,7 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-polaris-robotic-pool-cleaners": () => import("./guides/best-polaris-robotic-pool-cleaners"),
   "best-aiper-robotic-pool-cleaners": () => import("./guides/best-aiper-robotic-pool-cleaners"),
   "best-beatbot-robotic-pool-cleaners": () => import("./guides/best-beatbot-robotic-pool-cleaners"),
+  "best-cordless-robotic-pool-cleaners": () => import("./guides/best-cordless-robotic-pool-cleaners"),
   "best-sun-joe-electric-tillers": () => import("./guides/best-sun-joe-electric-tillers"),
   "best-cordless-electric-tillers": () => import("./guides/best-cordless-electric-tillers"),
   "best-corded-electric-tillers": () => import("./guides/best-corded-electric-tillers"),
