@@ -1025,6 +1025,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-electric-tillers-for-clay-soil": () => import("./guides/best-electric-tillers-for-clay-soil"),
   "best-electric-tillers-for-hard-soil": () => import("./guides/best-electric-tillers-for-hard-soil"),
   "best-electric-tillers-for-raised-beds": () => import("./guides/best-electric-tillers-for-raised-beds"),
+  "best-cleaning-tool-organizers": () => import("./guides/best-cleaning-tool-organizers"),
+  "best-cleaning-tool-storage-systems": () => import("./guides/best-cleaning-tool-storage-systems"),
+  "best-cleaning-tool-holders": () => import("./guides/best-cleaning-tool-holders"),
+  "best-cleaning-tool-storage-cabinets": () => import("./guides/best-cleaning-tool-storage-cabinets"),
+  "best-wall-mounted-cleaning-tool-organizers": () => import("./guides/best-wall-mounted-cleaning-tool-organizers"),
+  "best-portable-cleaning-tool-organizers": () => import("./guides/best-portable-cleaning-tool-organizers"),
+  "best-vacuum-cleaner-organizers": () => import("./guides/best-vacuum-cleaner-organizers"),
+  "best-cleaning-tool-racks": () => import("./guides/best-cleaning-tool-racks"),
+  "best-bathroom-cleaning-tool-organizers": () => import("./guides/best-bathroom-cleaning-tool-organizers"),
+  "best-bucket-cleaning-tool-organizers": () => import("./guides/best-bucket-cleaning-tool-organizers"),
+  "best-kitchen-cleaning-tool-organizers": () => import("./guides/best-kitchen-cleaning-tool-organizers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
