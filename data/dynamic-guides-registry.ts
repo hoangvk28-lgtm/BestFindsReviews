@@ -1079,6 +1079,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-portable-automatic-dustpans": () => import("./guides/best-portable-automatic-dustpans"),
   "best-built-in-automatic-dustpans": () => import("./guides/best-built-in-automatic-dustpans"),
   "best-vacpan-automatic-dustpans": () => import("./guides/best-vacpan-automatic-dustpans"),
+  "best-electric-window-cleaners": () => import("./guides/best-electric-window-cleaners"),
+  "best-electric-window-cleaners-for-condensation": () => import("./guides/best-electric-window-cleaners-for-condensation"),
+  "best-electric-window-vacuums": () => import("./guides/best-electric-window-vacuums"),
+  "best-k-rcher-window-vacs": () => import("./guides/best-k-rcher-window-vacs"),
+  "best-rechargeable-electric-window-cleaners": () => import("./guides/best-rechargeable-electric-window-cleaners"),
+  "best-electric-window-cleaners-for-seniors": () => import("./guides/best-electric-window-cleaners-for-seniors"),
+  "best-3-in-1-electric-window-vacuum-squeegees": () => import("./guides/best-3-in-1-electric-window-vacuum-squeegees"),
+  "best-electric-window-cleaners-with-extension-poles": () => import("./guides/best-electric-window-cleaners-with-extension-poles"),
+  "do-electric-window-cleaners-work": () => import("./guides/do-electric-window-cleaners-work"),
+  "best-electric-window-cleaners-for-mirrors-and-shower-glass": () => import("./guides/best-electric-window-cleaners-for-mirrors-and-shower-glass"),
+  "best-lightweight-electric-window-cleaners": () => import("./guides/best-lightweight-electric-window-cleaners"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
