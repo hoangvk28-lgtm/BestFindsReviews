@@ -1036,6 +1036,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-bathroom-cleaning-tool-organizers": () => import("./guides/best-bathroom-cleaning-tool-organizers"),
   "best-bucket-cleaning-tool-organizers": () => import("./guides/best-bucket-cleaning-tool-organizers"),
   "best-kitchen-cleaning-tool-organizers": () => import("./guides/best-kitchen-cleaning-tool-organizers"),
+  "best-long-handled-cleaning-brushes": () => import("./guides/best-long-handled-cleaning-brushes"),
+  "best-long-handled-cleaning-tools": () => import("./guides/best-long-handled-cleaning-tools"),
+  "best-long-handled-window-cleaning-tools": () => import("./guides/best-long-handled-window-cleaning-tools"),
+  "best-long-handled-bathroom-cleaning-tools": () => import("./guides/best-long-handled-bathroom-cleaning-tools"),
+  "best-long-handled-cleaning-tools-for-seniors": () => import("./guides/best-long-handled-cleaning-tools-for-seniors"),
+  "best-extendable-cleaning-handles": () => import("./guides/best-extendable-cleaning-handles"),
+  "best-long-handled-cleaning-wands": () => import("./guides/best-long-handled-cleaning-wands"),
+  "best-long-handled-crevice-cleaning-tools": () => import("./guides/best-long-handled-crevice-cleaning-tools"),
+  "best-long-handled-grout-cleaning-tools": () => import("./guides/best-long-handled-grout-cleaning-tools"),
+  "best-long-handled-scrubbing-tools": () => import("./guides/best-long-handled-scrubbing-tools"),
+  "best-long-handled-cleaning-cloth-tools": () => import("./guides/best-long-handled-cleaning-cloth-tools"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
