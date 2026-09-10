@@ -1125,6 +1125,22 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-gilmour-hose-nozzles": () => import("./guides/best-gilmour-hose-nozzles"),
   "best-hose-nozzles-for-car-washing": () => import("./guides/best-hose-nozzles-for-car-washing"),
   "best-hose-nozzles-for-watering-plants": () => import("./guides/best-hose-nozzles-for-watering-plants"),
+  "best-garden-tool-organizers": () => import("./guides/best-garden-tool-organizers"),
+  "best-garden-tool-organizers-for-garages": () => import("./guides/best-garden-tool-organizers-for-garages"),
+  "best-heavy-duty-garden-tool-organizers": () => import("./guides/best-heavy-duty-garden-tool-organizers"),
+  "best-garden-tool-storage-racks": () => import("./guides/best-garden-tool-storage-racks"),
+  "best-outdoor-garden-tool-organizers": () => import("./guides/best-outdoor-garden-tool-organizers"),
+  "best-wall-mounted-garden-tool-organizers": () => import("./guides/best-wall-mounted-garden-tool-organizers"),
+  "best-garden-tool-storage-cabinets": () => import("./guides/best-garden-tool-storage-cabinets"),
+  "best-vevor-garden-tool-organizers": () => import("./guides/best-vevor-garden-tool-organizers"),
+  "best-garden-tool-organizers-with-wheels": () => import("./guides/best-garden-tool-organizers-with-wheels"),
+  "best-garden-tool-organizers-for-seniors": () => import("./guides/best-garden-tool-organizers-for-seniors"),
+  "best-small-garden-tool-organizers": () => import("./guides/best-small-garden-tool-organizers"),
+  "best-bucket-garden-tool-organizers": () => import("./guides/best-bucket-garden-tool-organizers"),
+  "best-corner-garden-tool-organizers": () => import("./guides/best-corner-garden-tool-organizers"),
+  "best-metal-garden-tool-organizers": () => import("./guides/best-metal-garden-tool-organizers"),
+  "best-sttoraboks-garden-tool-organizers": () => import("./guides/best-sttoraboks-garden-tool-organizers"),
+  "best-garden-tool-organizer-bags": () => import("./guides/best-garden-tool-organizer-bags"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
