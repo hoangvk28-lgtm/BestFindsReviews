@@ -1068,6 +1068,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-laundry-carts-for-stairs": () => import("./guides/best-laundry-carts-for-stairs"),
   "best-elevated-laundry-carts": () => import("./guides/best-elevated-laundry-carts"),
   "best-laundry-carts-with-folding-tables": () => import("./guides/best-laundry-carts-with-folding-tables"),
+  "best-automatic-dustpans": () => import("./guides/best-automatic-dustpans"),
+  "best-automatic-dustpan-vacuums": () => import("./guides/best-automatic-dustpan-vacuums"),
+  "best-automatic-dustpans-without-central-vacuums": () => import("./guides/best-automatic-dustpans-without-central-vacuums"),
+  "best-touchless-automatic-dustpans": () => import("./guides/best-touchless-automatic-dustpans"),
+  "best-eyevac-automatic-dustpans": () => import("./guides/best-eyevac-automatic-dustpans"),
+  "best-central-vacuum-automatic-dustpans": () => import("./guides/best-central-vacuum-automatic-dustpans"),
+  "best-automatic-dustpans-for-pet-hair": () => import("./guides/best-automatic-dustpans-for-pet-hair"),
+  "best-automatic-dustpans-for-seniors": () => import("./guides/best-automatic-dustpans-for-seniors"),
+  "best-portable-automatic-dustpans": () => import("./guides/best-portable-automatic-dustpans"),
+  "best-built-in-automatic-dustpans": () => import("./guides/best-built-in-automatic-dustpans"),
+  "best-vacpan-automatic-dustpans": () => import("./guides/best-vacpan-automatic-dustpans"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
