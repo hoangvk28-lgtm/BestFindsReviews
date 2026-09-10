@@ -1108,6 +1108,23 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-narrow-spout-watering-cans-for-houseplants": () => import("./guides/best-narrow-spout-watering-cans-for-houseplants"),
   "best-1-gallon-watering-cans": () => import("./guides/best-1-gallon-watering-cans"),
   "best-watering-cans-with-removable-roses": () => import("./guides/best-watering-cans-with-removable-roses"),
+  "best-hose-nozzles": () => import("./guides/best-hose-nozzles"),
+  "best-garden-hose-nozzles": () => import("./guides/best-garden-hose-nozzles"),
+  "best-high-pressure-hose-nozzles": () => import("./guides/best-high-pressure-hose-nozzles"),
+  "best-high-pressure-garden-hose-nozzles-for-cleaning": () => import("./guides/best-high-pressure-garden-hose-nozzles-for-cleaning"),
+  "best-brass-hose-nozzles": () => import("./guides/best-brass-hose-nozzles"),
+  "best-dramm-hose-nozzles": () => import("./guides/best-dramm-hose-nozzles"),
+  "best-jet-hose-nozzles": () => import("./guides/best-jet-hose-nozzles"),
+  "best-melnor-hose-nozzles": () => import("./guides/best-melnor-hose-nozzles"),
+  "best-orbit-hose-nozzles": () => import("./guides/best-orbit-hose-nozzles"),
+  "best-heavy-duty-hose-nozzles": () => import("./guides/best-heavy-duty-hose-nozzles"),
+  "best-adjustable-hose-nozzles": () => import("./guides/best-adjustable-hose-nozzles"),
+  "best-thumb-control-hose-nozzles": () => import("./guides/best-thumb-control-hose-nozzles"),
+  "best-easy-squeeze-hose-nozzles": () => import("./guides/best-easy-squeeze-hose-nozzles"),
+  "best-hose-nozzles-for-seniors": () => import("./guides/best-hose-nozzles-for-seniors"),
+  "best-gilmour-hose-nozzles": () => import("./guides/best-gilmour-hose-nozzles"),
+  "best-hose-nozzles-for-car-washing": () => import("./guides/best-hose-nozzles-for-car-washing"),
+  "best-hose-nozzles-for-watering-plants": () => import("./guides/best-hose-nozzles-for-watering-plants"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
