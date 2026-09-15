@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A large display makes caller ID and menu text genuinely easier to read, particularly paired with a backlit or color screen for low-light legibility. AT&T, Panasonic, and VTech all currently sell phones with named large-display features, though the specific implementation, backlit versus color, varies across models.</p>
-          <p>We compared these seven current picks on named display features, handset count, and price. Prices here run from roughly $23 to $92.</p>
+          <p>We compared these seven current picks on named display features, handset count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

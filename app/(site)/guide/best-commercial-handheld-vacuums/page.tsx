@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For job-site and commercial cleanup, DeWalt and Milwaukee's cordless vacuum lineups offer genuine durability and power beyond consumer dustbuster-style handhelds. We compared these professional-tool-ecosystem picks on named capacity, power specifications, and wet/dry versatility.</p>
-          <p>Prices here run from roughly $50 to $190, reflecting genuine commercial and job-site positioning rather than consumer home-cleanup pricing.</p>
+          <p>Prices here span a wide range across this lineup reflecting genuine commercial and job-site positioning rather than consumer home-cleanup pricing.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

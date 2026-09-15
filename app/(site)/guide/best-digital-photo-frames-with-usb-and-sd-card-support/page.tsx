@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Many digital photo frames now push you toward app-based sharing exclusively, but a real subset of current models still support local loading via USB drive or SD card, no WiFi or account setup required. We verified this specifically for each pick here rather than assuming it based on general frame category.</p>
-          <p>Prices here run from roughly $48 to $100, with local-loading capability generally found in more budget-focused hardware.</p>
+          <p>Prices here span a wide range across this lineup with local-loading capability generally found in more budget-focused hardware.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A powered spin mop uses a motor to rotate cleaning pads, real scrubbing power beyond manual mopping, but genuinely different from a wet-dry floor washer since spin mops don't vacuum dry debris. This comparison focuses specifically on dedicated spin mops rather than the broader floor-washer or vacuum-mop categories.</p>
-          <p>We compared these eight current spin mops on named power source, tank/battery capacity, and price. Prices here run from roughly $56 to $170.</p>
+          <p>We compared these eight current spin mops on named power source, tank/battery capacity, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

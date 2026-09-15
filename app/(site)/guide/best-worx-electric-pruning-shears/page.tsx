@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>WORX currently sells one genuine cordless pruning lopper, but a search for 'WORX electric pruning shears' also surfaces grass and shrub trimmers and a pruning saw, genuinely different tools that solve different yard-care problems. Worth separating clearly before you buy the wrong tool type.</p>
-          <p>We compared the actual WORX pruning lopper against the related products that appear in this search, on named cutting capacity, battery platform, and what each tool is actually built for. Prices here run from roughly $42 to $90.</p>
+          <p>We compared the actual WORX pruning lopper against the related products that appear in this search, on named cutting capacity, battery platform, and what each tool is actually built for. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

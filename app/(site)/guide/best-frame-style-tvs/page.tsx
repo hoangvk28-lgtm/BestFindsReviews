@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Frame-Style TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Art mode in ambient light, Reflection handling, and Wall/cable installation are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 55" on the Samsung 55-Inch Class The Frame LS03F 4K QLED Smart TV (2025 Model) up to 65" on the Samsung 65-Inch Class The Frame LS03F 4K QLED Smart TV (2025 Model), a real difference worth checking against your own use case.</p>
-          <p>We compared all 5 models below, spanning Samsung 65-Inch Class U8000H Series Crystal UHD at $378.00 up to Samsung 55-Inch Class The Frame Pro LS03HW Series Samsung Vision AI at $1497.99, with a focus on testing art mode under daylight and nighttime lighting instead of judging gallery appearance from product photos, and cross-checked Bezel and subscription cost and Normal HDR/SDR performance against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning Samsung 65-Inch Class U8000H Series Crystal UHD up to Samsung 55-Inch Class The Frame Pro LS03HW Series Samsung Vision AI, with a focus on testing art mode under daylight and nighttime lighting instead of judging gallery appearance from product photos, and cross-checked Bezel and subscription cost and Normal HDR/SDR performance against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

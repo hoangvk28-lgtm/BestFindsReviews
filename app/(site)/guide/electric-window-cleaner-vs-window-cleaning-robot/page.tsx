@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>These are genuinely two different product categories solving the same problem in different ways. A handheld electric window cleaner requires you to manually squeegee each pass, while a window cleaning robot autonomously navigates and cleans the glass on its own. We compared representative picks from each category directly rather than treating them as interchangeable.</p>
-          <p>Prices range from roughly $60 for a handheld electric cleaner up to $594 for the automated robot, a significant cost difference that should factor into your decision alongside effort and results. Several ASINs from our initial research list failed to return current data and were dropped.</p>
+          <p>Handheld electric cleaners sit at the affordable end while automated robots command a significant premium, a cost difference that should factor into your decision alongside effort and results. Several ASINs from our initial research list failed to return current data and were dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

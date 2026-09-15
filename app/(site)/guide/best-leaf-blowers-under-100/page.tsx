@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight rarely show up as clear differentiators in a standard listing for leaf blowers under $100, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 180 CFM on the BLACK+DECKER Electric Leaf Blower up to 700 CFM on the SENIX 12 AMP Corded Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower at $39.98 up to LOSART Leaf Blower Cordless at $89.99, with a focus on requiring a complete usable kit under $100, or label tool-only products separately, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower up to LOSART Leaf Blower Cordless, with a focus on requiring a complete usable kit under $100, or label tool-only products separately, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

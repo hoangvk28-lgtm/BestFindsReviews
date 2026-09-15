@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds for Patios can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Loaded weight, Drainage routing, and Surface staining are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 30 inches on the Best Choice Products 48 x 24 x 30 Inches Raised Garden Bed up to 33.7 inches on the WTFGO Elevate 33.7" Tall Raised Garden Bed with Wheels, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 8 models below, spanning OYEAL Raised Garden Bed 32" Tall Elevated Planter Boxes with Trellis at $35.14 up to Keter Urban Bloomer 12.7 Gallon Raised Garden Bed and Outdoor Herb at $103.32, with a focus on measuring complete wet weight and compare with the patio or deck's suitability, and cross-checked Sun exposure and Mobility against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning OYEAL Raised Garden Bed 32" Tall Elevated Planter Boxes with Trellis up to Keter Urban Bloomer 12.7 Gallon Raised Garden Bed and Outdoor Herb, with a focus on measuring complete wet weight and compare with the patio or deck's suitability, and cross-checked Sun exposure and Mobility against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

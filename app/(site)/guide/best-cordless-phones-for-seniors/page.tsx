@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Big buttons alone don't make a phone genuinely senior-friendly, talking caller ID, volume boost, extra-large displays, and named call blocking matter just as much for everyday usability. Panasonic and AT&T both currently sell phones explicitly built around these accessibility features rather than repurposing standard models.</p>
-          <p>We compared these six current picks on named accessibility features, handset count, and price. Prices here run from roughly $39 to $92.</p>
+          <p>We compared these six current picks on named accessibility features, handset count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

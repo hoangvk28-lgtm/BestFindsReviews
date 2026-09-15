@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Raised Garden Bed vs In-Ground Garden can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Installed cost, Soil improvement, and Water use are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the FOYUEE 2-Pack Galvanized Raised Garden Bed 8x4x1ft up to 24 inches on the Best Choice Products 6x3x2ft Outdoor Metal Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 8 models below, spanning Foxlang 8x4x1ft(2 PCS) Galvanized Raised Garden Bed at $30.99 up to Land Guard 3 Pack 8×4×1ft Galvanized Metal Raised Garden Bed at $99.99, with a focus on calculating installed cost for bed, soil, edging, irrigation and paths versus improving native soil, and cross-checked Weed control and Maintenance against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Foxlang 8x4x1ft(2 PCS) Galvanized Raised Garden Bed up to Land Guard 3 Pack 8×4×1ft Galvanized Metal Raised Garden Bed, with a focus on calculating installed cost for bed, soil, edging, irrigation and paths versus improving native soil, and cross-checked Weed control and Maintenance against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

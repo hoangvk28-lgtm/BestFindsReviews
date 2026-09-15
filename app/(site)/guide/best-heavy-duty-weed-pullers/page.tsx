@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for heavy-duty weed pullers can look nearly identical in a thumbnail, yet current product availability, root capture and breakage, and soil penetration and plug size are exactly the details a generic spec sheet tends to leave out. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes defining heavy-duty with material/load evidence rather than weight over spec-sheet comparisons alone. Prices here run from $17.59 (RexWeed Stand Up Weed Puller Tool) to $55.30 (Grootpow WP5 Heavy Duty Weed Puller Tool). Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes defining heavy-duty with material/load evidence rather than weight over spec-sheet comparisons alone. Prices here span from the most affordable pick, the RexWeed Stand Up Weed Puller Tool, to the priciest pick, the Grootpow WP5 Heavy Duty Weed Puller Tool. Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

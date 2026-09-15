@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for polyurethane garden hoses can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 10 ft on the Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No up to 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No at $10.26 up to Pocket Hose Ballistic 25 FT Expandable Garden Hose at $39.99, focusing first on verifying the hose is primarily polyurethane rather than a hybrid blend marketed loosely as polyurethane. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No up to Pocket Hose Ballistic 25 FT Expandable Garden Hose, focusing first on verifying the hose is primarily polyurethane rather than a hybrid blend marketed loosely as polyurethane. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

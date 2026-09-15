@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing bionic steel garden hoses often assume any well-reviewed listing is a safe bet, but Current US product pool and Inside diameter and fitting restriction vary enough between these picks to change which one actually fits a given yard, and dry versus filled handling is rarely spelled out clearly on the product page. Length alone in this lineup spans from 10 ft on the UNCO- Metal Garden Hose up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
-          <p>We put 7 models head-to-head below, spanning UNCO- Metal Garden Hose at $14.95 up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water at $55.97, focusing first on building a current model map by material, length, diameter and intended use. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 7 models head-to-head below, spanning UNCO- Metal Garden Hose up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water, focusing first on building a current model map by material, length, diameter and intended use. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

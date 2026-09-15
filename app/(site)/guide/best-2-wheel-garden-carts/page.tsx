@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A 2-wheel garden cart, closer to a wheelbarrow than a 4-wheel wagon, trades some load stability for genuine maneuverability in tight garden rows and narrow paths. Axle position relative to the load matters here since it determines how much of the weight you're actually lifting versus how much the wheels carry.</p>
-          <p>We compared these six current picks on rated capacity, bed volume, and handle or stand design. Prices here run from roughly $99 to $305, with the higher end reflecting more established brands and larger bed capacity.</p>
+          <p>We compared these six current picks on rated capacity, bed volume, and handle or stand design. Prices here span a wide range across this lineup with the higher end reflecting more established brands and larger bed capacity.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

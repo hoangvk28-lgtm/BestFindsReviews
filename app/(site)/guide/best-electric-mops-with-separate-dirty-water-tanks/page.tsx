@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A separate dirty-water tank keeps used, grimy water away from the clean solution you're actively mopping with, real hygiene value over a single-tank system that recirculates dirty water back onto your floor. This comparison spans both stick-style electric floor washers and spin-mop-and-bucket systems, worth distinguishing since they achieve separation differently.</p>
-          <p>We compared these six current picks on named tank separation design, capacity, and price. Prices here run from roughly $40 to $200.</p>
+          <p>We compared these six current picks on named tank separation design, capacity, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

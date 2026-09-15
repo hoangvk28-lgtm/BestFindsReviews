@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Soundbar roundups often compare Dolby Atmos support and channel counts without testing dialogue clarity at low volume, HDMI ARC/eARC compatibility, or whether a bar's subwoofer is included or optional. We tested these seven current picks with a standardized approach: TV dialogue, movie bass, and everyday connectivity, rather than ranking by spec sheet alone.</p>
-          <p>We compared these picks on connectivity, dialogue performance, and price. Prices here run from roughly $99 to $700.</p>
+          <p>We compared these picks on connectivity, dialogue performance, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A genuine mop-and-vacuum combo picks up dry debris and washes the floor in the same pass, real convenience over a spin mop that requires pre-sweeping. We required meaningful dry-debris pickup for every pick in this comparison, not just powered scrubbing pads marketed loosely as a 'combo.'</p>
-          <p>We compared these eight current picks on named vacuum-and-wash capability, tank separation, and price. Prices here run from roughly $56 to $270.</p>
+          <p>We compared these eight current picks on named vacuum-and-wash capability, tank separation, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

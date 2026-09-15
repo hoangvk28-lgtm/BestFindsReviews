@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Carpet Cleaners for Area Rugs can look similar in a listing photo but differ in ways that matter once real daily use is involved: manufacturer rug approval, fiber restrictions, and colorfastness are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Carbona 2-in-1 Oxy-Powered Carpet Cleaner at $10.99 up to BISSELL TurboClean PET at $159.99, with a focus on requiring the machine maker to approve area-rug use and remind readers to follow the rug care label, and cross-checked water recovery and edge/fringe handling against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Carbona 2-in-1 Oxy-Powered Carpet Cleaner up to BISSELL TurboClean PET, with a focus on requiring the machine maker to approve area-rug use and remind readers to follow the rug care label, and cross-checked water recovery and edge/fringe handling against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

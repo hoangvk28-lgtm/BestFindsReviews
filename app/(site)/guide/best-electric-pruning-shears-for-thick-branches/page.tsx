@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Not every electric pruning shear can handle a genuinely thick, established branch, cutting diameter varies widely across the current market, and undersizing your tool means stalled cuts or a damaged blade. We ranked this comparison specifically by maximum stated cutting capacity.</p>
-          <p>We compared these seven current picks on named cutting diameter, blade material, and price. Prices here run from roughly $50 to $80, and cutting capacity spans 2.05 inches up to 2.75 inches, all genuinely thick-branch capable.</p>
+          <p>We compared these seven current picks on named cutting diameter, blade material, and price. Prices here span a wide range across this lineup and cutting capacity spans 2.05 inches up to 2.75 inches, all genuinely thick-branch capable.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

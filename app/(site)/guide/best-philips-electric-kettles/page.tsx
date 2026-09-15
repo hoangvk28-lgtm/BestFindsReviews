@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Philips Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: US availability, Region/voltage, and Model status are the details most listings gloss over in favor of a generic wattage number. Philips maintains a strong global kettle catalog, but its current US listing page has shown no active kettle products, so treat US availability, voltage, and warranty support as something to verify per listing rather than assume.</p>
-          <p>We compared all 8 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee at $21.59 up to Cuisinart Electric Kettle at $105.68, with a focus on separating Philips global kettle availability from the US market; the current US category page shows zero kettle results, and cross-checked Warranty and Official parts/support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee up to Cuisinart Electric Kettle, with a focus on separating Philips global kettle availability from the US market; the current US category page shows zero kettle results, and cross-checked Warranty and Official parts/support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

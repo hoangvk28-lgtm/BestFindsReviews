@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A digital day clock spans several genuinely different product classes, basic calendar clocks, orientation-style clocks that clearly separate time, weekday, date, and part-of-day, and talking clocks that add spoken announcements. This guide serves as a hub across all three, worth understanding which category actually fits your needs before comparing screen size or price alone.</p>
-          <p>We compared these eight current picks on named readability features and price. Prices here run from roughly $26 to $60.</p>
+          <p>We compared these eight current picks on named readability features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

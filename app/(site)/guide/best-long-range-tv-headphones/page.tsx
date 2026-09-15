@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Long-range claims are usually best-case, line-of-sight figures that don't account for walls, floors, or body blocking. We compared named range figures and underlying technology, dedicated RF systems typically outperform standard Bluetooth for real indoor range, and flagged where buyers should verify actual performance through current reviews rather than trusting marketing numbers alone.</p>
-          <p>We compared these four current picks on named range and technology type. Prices here run from roughly $50 to $180.</p>
+          <p>We compared these four current picks on named range and technology type. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

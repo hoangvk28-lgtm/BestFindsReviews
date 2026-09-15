@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "LG TV headphones" is genuinely a compatibility search, not a request for headphones LG manufactures specifically for TVs. Current LG TVs support Bluetooth audio pairing on most recent models, with the specific implementation and any dual-audio behavior varying by TV year and model. Verify your specific TV's support before assuming any headphone pairs seamlessly.</p>
-          <p>We compared these four current picks by their real LG TV pairing behavior. Prices here run from about $20 to $90.</p>
+          <p>We compared these four current picks by their real LG TV pairing behavior. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

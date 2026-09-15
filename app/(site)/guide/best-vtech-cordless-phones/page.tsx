@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>VTech maintains one of the deepest current US cordless phone lineups, spanning genuinely budget-friendly wall-mount phones up to dedicated long-range systems with documented 2,300-foot range and power backup. Handset count and feature depth vary meaningfully across the current catalog.</p>
-          <p>We compared these eight current VTech picks on named handset count, features, and price. Prices here run from roughly $40 to $170.</p>
+          <p>We compared these eight current VTech picks on named handset count, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

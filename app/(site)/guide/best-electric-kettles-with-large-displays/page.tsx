@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Electric Kettles With Large Displays can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Character height, Contrast, and Viewing angle are the details most listings gloss over in favor of a generic wattage number. Rated wattage alone in this lineup spans from 1000W on the YTLAD Gooseneck Electric Kettle 1L up to 1500W on the Cuisinart Electric Kettle, a real difference in how fast each one gets water to temperature.</p>
-          <p>We compared all 8 models below, spanning Chefman Electric Kettle with Temperature Control at $27.99 up to Cuisinart PerfecTemp 1.7-Liter 1500-Watt Stainless Steel Cordless at $159.99, with a focus on measuring actual character height for current temperature, target temperature and timer/hold indicators, and cross-checked Glare and Information shown against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Chefman Electric Kettle with Temperature Control up to Cuisinart PerfecTemp 1.7-Liter 1500-Watt Stainless Steel Cordless, with a focus on measuring actual character height for current temperature, target temperature and timer/hold indicators, and cross-checked Glare and Information shown against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

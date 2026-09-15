@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For a large home, three separate capacities determine how much you can clean before stopping, battery runtime, clean-water tank size, and dirty-water tank size, any one of these can become the limiting factor regardless of how strong the others are. We prioritized picks with named large capacities across at least two of these three dimensions.</p>
-          <p>We compared these eight current picks on named runtime, tank capacity, and price. Prices here run from roughly $60 to $270.</p>
+          <p>We compared these eight current picks on named runtime, tank capacity, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

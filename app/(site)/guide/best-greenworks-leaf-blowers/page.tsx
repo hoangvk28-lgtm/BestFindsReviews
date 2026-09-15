@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for greenworks leaf blowers can look nearly identical in a thumbnail, yet exact current model and market, cFM/MPH mode and nozzle, and ready-to-use weight are exactly the details a generic spec sheet tends to leave out. Airflow alone in this lineup spans from 450 CFM on the Greenworks 60V Electric Leaf Blower up to 770 CFM on the Greenworks 80V Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning Greenworks 40V Cordless Leaf Blower at $138.89 up to Greenworks 40V Electric Leaf Blower at $259.99, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning Greenworks 40V Cordless Leaf Blower up to Greenworks 40V Electric Leaf Blower, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

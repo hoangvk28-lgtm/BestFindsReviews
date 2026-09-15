@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Hoover Carpet Cleaners can look similar in a listing photo but differ in ways that matter once real daily use is involved: current Hoover family, auto-mix behavior, and dry mode are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Hoover PowerDash Pet+ Compact Carpet Cleaner at $75.15 up to Hoover SmartWash+ Automatic Carpet Cleaner Machine at $219.99, with a focus on mapping SmartWash, PowerScrub, PowerDash and CleanSlate by format and current status, and cross-checked tank ergonomics and replacement parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Hoover PowerDash Pet+ Compact Carpet Cleaner up to Hoover SmartWash+ Automatic Carpet Cleaner Machine, with a focus on mapping SmartWash, PowerScrub, PowerDash and CleanSlate by format and current status, and cross-checked tank ergonomics and replacement parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

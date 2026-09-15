@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Bose's current soundbar lineup spans a genuinely wide range, from the compact TV Speaker for basic dialogue improvement to the flagship Smart Ultra bundled with a full surround system. We mapped each tier by what's actually included, since Bose bundle pricing can jump dramatically based on mount brackets, subwoofers, and rear speakers.</p>
-          <p>We compared these seven current picks by tier and included accessories. Prices here run from roughly $279 to $1,897.</p>
+          <p>We compared these seven current picks by tier and included accessories. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

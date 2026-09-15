@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets for Video Calls can look similar in a listing photo but differ in ways that matter once real daily use is involved: front camera placement, mic quality, and speaker volume are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the Evermyth Android 16 Tablet 10 Inch up to 11" on the Apple iPad 11-inch: A16 chip, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning WUIUHOU 10 Inch Android 15 Tablet at $55.99 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not at $399.99, with a focus on testing framing in portrait and landscape because camera placement varies, and cross-checked stand angle and video-call app support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning WUIUHOU 10 Inch Android 15 Tablet up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not, with a focus on testing framing in portrait and landscape because camera placement varies, and cross-checked stand angle and video-call app support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

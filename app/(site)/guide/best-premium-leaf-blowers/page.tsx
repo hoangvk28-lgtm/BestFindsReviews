@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Premium Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: price threshold, sustained output, and noise under load are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 515 CFM on the Greenworks 24V Electric Leaf Blower up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Greenworks 24V Electric Leaf Blower at $139.99 up to Husqvarna 570BTS Backpack Leaf Blower at $530.95, with a focus on defining Premium with a transparent price and feature threshold rather than selecting the most expensive products, and cross-checked battery or fuel workflow and service ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Greenworks 24V Electric Leaf Blower up to Husqvarna 570BTS Backpack Leaf Blower, with a focus on defining Premium with a transparent price and feature threshold rather than selecting the most expensive products, and cross-checked battery or fuel workflow and service ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

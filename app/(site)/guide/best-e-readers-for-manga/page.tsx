@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Manga reading has genuinely different needs than text-based books: larger screens reduce zoom/pan burden on double-page spreads, fast page-turn speed matters over full chapters, and monochrome 300-PPI displays often render grayscale line art more sharply than color E Ink at a similar price. We weighed these factors specifically rather than ranking by generic e-reader quality.</p>
-          <p>We compared these five current picks on screen size and page-turn responsiveness. Prices here run from roughly $180 to $290.</p>
+          <p>We compared these five current picks on screen size and page-turn responsiveness. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

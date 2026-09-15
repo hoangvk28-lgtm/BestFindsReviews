@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Cordless backpack vacuums are primarily commercial and jobsite equipment, so this guide scores harness fit, worn weight, and battery logistics rather than household styling. Best Cordless Backpack Vacuums can look similar in a listing photo but differ in ways that matter once real daily use is involved: Real pickup performance, Ready-to-use weight/ergonomics, and Powered-tool runtime are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 35 min on the Prolux 2.0 Cordless Lightweight Bagless Backpack Vacuum - Only 11 lbs up to 70 min on the Sanitaire Transport Commercial Cordless Backpack Vacuum with, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Uosogi Cordless Vacuum Cleaner at $129.97 up to ProTeam GoFit 3 Cordless 4Ah at $1236.00, with a focus on separating janitorial backpack vacuums from jobsite dust extractors, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Uosogi Cordless Vacuum Cleaner up to ProTeam GoFit 3 Cordless 4Ah, with a focus on separating janitorial backpack vacuums from jobsite dust extractors, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

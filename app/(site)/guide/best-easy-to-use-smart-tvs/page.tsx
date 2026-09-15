@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Easy-to-Use Smart TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Setup steps, Remote complexity, and Input recovery are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 32" on the Amazon Ember 32" 2-Series with Fire TV up to 55" on the Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning INSIGNIA 32" Class F20 Series LED HD Smart Fire TV at $69.99 up to Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV at $297.99, with a focus on counting steps from first boot to live TV, HDMI input and one streaming app, and cross-checked Ad/account burden and Accessibility shortcuts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning INSIGNIA 32" Class F20 Series LED HD Smart Fire TV up to Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV, with a focus on counting steps from first boot to live TV, HDMI input and one streaming app, and cross-checked Ad/account burden and Accessibility shortcuts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

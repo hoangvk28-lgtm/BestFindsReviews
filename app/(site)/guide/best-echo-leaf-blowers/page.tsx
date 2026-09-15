@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that echo leaf blowers are basically interchangeable once you've picked a price range. In practice, Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 456 CFM on the Echo 172 MPH 456 CFM 25.4 cc Gas 2-Stroke X Series Handheld Leaf up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning HTK Backpack Blower at $159.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning HTK Backpack Blower up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

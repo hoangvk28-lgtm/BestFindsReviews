@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that weed pullers without bending are basically interchangeable once you've picked a price range. In practice, Current product availability, Root capture and breakage, and Soil penetration and plug size are the factors that separate a pick you'll be happy with from one you'll want to return. Claw Count alone in this lineup spans from 3 claws on the DIAINSKY Weed Puller Tool up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with requiring full insertion, extraction and disposal without stooping as the starting point, not an afterthought. Prices here run from $16.99 (RexWeed Stand Up Weed Puller Tool) to $79.99 (DIAINSKY Weed Puller Tool). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with requiring full insertion, extraction and disposal without stooping as the starting point, not an afterthought. Prices here span from the most affordable pick, the RexWeed Stand Up Weed Puller Tool, to the priciest pick, the DIAINSKY Weed Puller Tool. We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

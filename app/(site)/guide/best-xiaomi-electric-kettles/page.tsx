@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Xiaomi Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Market availability, Voltage/plug, and Mi Home region are the details most listings gloss over in favor of a generic wattage number. Because Xiaomi's kettle lineup is primarily sold through its global and Mi Home ecosystem, confirm voltage, plug type, and US warranty support for the exact SKU before buying.</p>
-          <p>We compared all 8 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee at $21.59 up to Cuisinart Electric Kettle at $105.68, with a focus on separating Xiaomi global models by 1.5L/1.7L capacity, smart controls, glass construction and double-wall design, and cross-checked Materials and Warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee up to Cuisinart Electric Kettle, with a focus on separating Xiaomi global models by 1.5L/1.7L capacity, smart controls, glass construction and double-wall design, and cross-checked Materials and Warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

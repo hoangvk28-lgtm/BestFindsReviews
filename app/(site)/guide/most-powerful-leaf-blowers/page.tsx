@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Most Powerful Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: blowing force, CFM test condition, and air speed with nozzle are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 765 CFM on the EGO POWER+ Cordless Electric Leaf Blower up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to SuperHandy Tow-Behind Leaf Blower at $1698.47, with a focus on ranking standardized debris-moving performance first, with CFM, MPH and Newtons shown as supporting specifications, and cross-checked sustained output and ready-to-use weight against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower up to SuperHandy Tow-Behind Leaf Blower, with a focus on ranking standardized debris-moving performance first, with CFM, MPH and Newtons shown as supporting specifications, and cross-checked sustained output and ready-to-use weight against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

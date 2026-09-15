@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets Under $100 can look similar in a listing photo but differ in ways that matter once real daily use is involved: live new price, brand/support, and OS/app store are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the Evermyth Android 16 Tablet 10 Inch up to 11" on the COLORROOM 2026 Android16 Tablet 11inch, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning ECOPAD 10.1 Inch Tablet at $65.99 up to TABWEE Tablet at $132.99, with a focus on verifying current new price without temporary coupon stacking, and cross-checked real RAM/storage and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning ECOPAD 10.1 Inch Tablet up to TABWEE Tablet, with a focus on verifying current new price without temporary coupon stacking, and cross-checked real RAM/storage and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

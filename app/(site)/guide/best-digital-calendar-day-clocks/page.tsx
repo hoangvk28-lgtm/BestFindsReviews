@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A digital calendar day clock puts the full date, weekday, and time-of-day period front and center as primary information, rather than as a small secondary line beneath a large clock face. The genuine differentiator here is visual hierarchy, how clearly the layout distinguishes time from day from date at a glance.</p>
-          <p>We compared these eight current picks on named calendar-clock layout and price. Prices here run from roughly $26 to $60.</p>
+          <p>We compared these eight current picks on named calendar-clock layout and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

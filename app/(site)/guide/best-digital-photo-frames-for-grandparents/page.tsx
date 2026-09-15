@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For grandparent gifting, how much setup the giver can complete beforehand and whether the recipient can use the frame without opening an app matter more than screen size. We measured giver pre-configuration, passive photo receipt, and Wi-Fi reconnection behavior across these eight current picks.</p>
-          <p>We compared these picks on gift-setup simplicity and price. Prices here run from roughly $48 to $179.</p>
+          <p>We compared these picks on gift-setup simplicity and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

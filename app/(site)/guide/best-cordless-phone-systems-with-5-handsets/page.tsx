@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Five handsets genuinely suit larger homes, multiple floors plus common areas, without needing separate expansion purchases after the fact. AT&T, VTech, and Panasonic all currently sell preconfigured 5-handset bundles, with real differences in range, display, and Bluetooth cell link worth comparing directly.</p>
-          <p>We compared these six current 5-handset bundles on named features and price. Prices here run from roughly $100 to $184.</p>
+          <p>We compared these six current 5-handset bundles on named features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

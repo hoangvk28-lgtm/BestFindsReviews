@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing rolling garden seats for seniors often assume any well-reviewed listing is a safe bet, but Seat height and transfer and Wheel/terrain behavior vary enough between these picks to change which one actually fits a given yard, and stability and rated load is rarely spelled out clearly on the product page. Weight Capacity alone in this lineup spans from 330 lbs on the Goplus Garden Seat with Wheels up to 500 lbs on the FLINTER Extra Large Garden Cart with Seat, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes measuring sit-down and stand-up effort at the actual seat height over spec-sheet comparisons alone. Prices here run from $55.70 (FLINTER Garden Cart with Seat) to $119.99 (Goplus Garden Seat with Wheels). Materials and weather resistance and Assembly, storage and replacement parts were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes measuring sit-down and stand-up effort at the actual seat height over spec-sheet comparisons alone. Prices here span from the most affordable pick, the FLINTER Garden Cart with Seat, to the priciest pick, the Goplus Garden Seat with Wheels. Materials and weather resistance and Assembly, storage and replacement parts were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Fruit tree pruning generally means a mix of thin fruiting-wood cuts and thicker structural branch removal during dormant-season shaping, real versatility matters more here than in single-purpose vine or rose work. We focused this comparison on models spanning a useful range of cutting diameters for that mixed workload.</p>
-          <p>We compared these seven current picks on named cutting diameter, weight, and price. Prices here run from roughly $30 to $100, and cutting capacity spans 0.6 inches up to 2.56 inches.</p>
+          <p>We compared these seven current picks on named cutting diameter, weight, and price. Prices here span a wide range across this lineup and cutting capacity spans 0.6 inches up to 2.56 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

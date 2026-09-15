@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets With Keyboards can look similar in a listing photo but differ in ways that matter once real daily use is involved: keyboard included versus optional, trackpad, and lap stability are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the Bnegynng Android 16 Tablet 10 inch Tablets up to 11" on the TABWEE Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Bnegynng Android 16 Tablet 10 inch Tablets at $66.99 up to Lenovo Idea Tab - College Tablet - 11″ 2.5K IPS Touchscreen Display - at $199.99, with a focus on stating whether the keyboard is included in the advertised price or sold separately, and cross-checked total weight and desktop-mode software against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Bnegynng Android 16 Tablet 10 inch Tablets up to Lenovo Idea Tab - College Tablet - 11″ 2.5K IPS Touchscreen Display -, with a focus on stating whether the keyboard is included in the advertised price or sold separately, and cross-checked total weight and desktop-mode software against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A genuine 2-line cordless phone lets you manage two separate phone lines from the same set of handsets, real value for a home office or small business that needs to keep a personal and business line, or two departments, distinct. This is a narrower category than standard single-line cordless phones, with VTech, AT&T, and Panasonic all currently offering dedicated 2-line systems.</p>
-          <p>We compared these five current picks on named handset count, line-management features, and price. Prices here run from roughly $96 to $280.</p>
+          <p>We compared these five current picks on named handset count, line-management features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

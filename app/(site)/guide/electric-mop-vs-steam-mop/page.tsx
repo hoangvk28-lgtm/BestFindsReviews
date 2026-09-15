@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Electric mop" is often used generically, but for a genuine comparison against steam, we're specifically weighing powered spin mops and wet-dry floor washers against steam mops, since these use fundamentally different cleaning mechanisms, mechanical scrubbing or vacuum-and-wash versus heat-based sanitizing.</p>
-          <p>We compared six current picks spanning both mechanisms on cleaning approach, floor safety, and price. Prices here run from roughly $56 to $200.</p>
+          <p>We compared six current picks spanning both mechanisms on cleaning approach, floor safety, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

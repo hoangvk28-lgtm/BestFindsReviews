@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for worx leaf blowers can look nearly identical in a thumbnail, yet exact current model and market, cFM/MPH mode and nozzle, and ready-to-use weight are exactly the details a generic spec sheet tends to leave out. Airflow alone in this lineup spans from 340 CFM on the WORX Cordless Leaf Blower up to 780 CFM on the Worx Cordless Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning WORX Trivac 3-in-1 Electric Leaf Blower/Leaf Vacuum/Leaf Mulcher at $69.99 up to WORX Cordless Leaf Blower at $229.79, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning WORX Trivac 3-in-1 Electric Leaf Blower/Leaf Vacuum/Leaf Mulcher up to WORX Cordless Leaf Blower, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

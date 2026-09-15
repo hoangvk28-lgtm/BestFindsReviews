@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 2-Slice Toaster Ovens can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Amazon Basics 2 Slice Toaster at $25.63 up to Hamilton Beach 2-in-1 Countertop Toaster Oven and Long Slot 2 Slice at $89.99, with a focus on validate at least five genuine current two-slice toaster-oven products, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Amazon Basics 2 Slice Toaster up to Hamilton Beach 2-in-1 Countertop Toaster Oven and Long Slot 2 Slice, with a focus on validate at least five genuine current two-slice toaster-oven products, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

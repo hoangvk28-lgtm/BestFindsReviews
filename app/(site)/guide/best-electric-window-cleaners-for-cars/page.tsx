@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Car windows and windshields present a different cleaning challenge than flat household glass, curved surfaces, tight interior spaces, and exterior weather exposure all matter. We compared current electric squeegees explicitly named for car use, plus a dedicated manual interior windshield tool for context.</p>
-          <p>Prices here run from roughly $16 to $80. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
+          <p>Prices here span a wide range across this lineup. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

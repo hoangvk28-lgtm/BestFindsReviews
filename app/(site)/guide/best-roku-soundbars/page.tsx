@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "Roku soundbar" covers two genuinely different things. Roku's own Streambar products include a built-in Roku streaming device inside the soundbar itself, while "Roku TV Ready" soundbars from other brands are simply compatible with Roku TVs for basic control, without any Roku streaming hardware built in. We flag this distinction clearly for every pick.</p>
-          <p>We compared these six current picks by category and price. Prices here run from roughly $71 to $200.</p>
+          <p>We compared these six current picks by category and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

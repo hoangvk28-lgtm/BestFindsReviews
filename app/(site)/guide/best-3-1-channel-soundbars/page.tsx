@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>3.1-channel systems add a genuine dedicated center channel over simpler 2.1 configurations, real value specifically for dialogue clarity since the center channel is engineered to carry speech directly rather than relying on a phantom center image from left and right speakers alone.</p>
-          <p>We compared these four current picks on subwoofer type and price. Prices here run from roughly $70 to $200.</p>
+          <p>We compared these four current picks on subwoofer type and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

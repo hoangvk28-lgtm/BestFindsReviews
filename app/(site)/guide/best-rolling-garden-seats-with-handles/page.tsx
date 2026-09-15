@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing rolling garden seats with handles often assume any well-reviewed listing is a safe bet, but Seat height and transfer and Wheel/terrain behavior vary enough between these picks to change which one actually fits a given yard, and stability and rated load is rarely spelled out clearly on the product page. Weight Capacity alone in this lineup spans from 350 lbs on the DGBAIZ Rolling Garden Workseat with Wheels up to 400 lbs on the Suntee Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning YPSLZY Garden Rolling Work Seat with Wheels at $47.99 up to VEVOR Garden Cart Rolling Workseat with Wheels at $86.98, with particular attention to classify pull straps, steering bars and fixed carry handles separately. We also verified Materials and weather resistance and assembly, storage and replacement parts directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning YPSLZY Garden Rolling Work Seat with Wheels up to VEVOR Garden Cart Rolling Workseat with Wheels, with particular attention to classify pull straps, steering bars and fixed carry handles separately. We also verified Materials and weather resistance and assembly, storage and replacement parts directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

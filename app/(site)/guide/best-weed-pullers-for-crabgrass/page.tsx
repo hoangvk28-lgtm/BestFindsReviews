@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying weed pullers for crabgrass, the more useful question isn't just which one is cheapest, but which one actually holds up on weed maturity. That, along with Fibrous crown capture and Turf disturbance, is what we dug into for the picks below. Claw Count alone in this lineup spans from 3 claws on the Walensee Weed Puller up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to Grootpow WP5 Heavy Duty Weed Puller Tool at $55.30, with particular attention to testing young crabgrass before seed production, when hand pulling is most practical. We also verified Seed timing and soil condition directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning RexWeed Stand Up Weed Puller Tool up to Grootpow WP5 Heavy Duty Weed Puller Tool, with particular attention to testing young crabgrass before seed production, when hand pulling is most practical. We also verified Seed timing and soil condition directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

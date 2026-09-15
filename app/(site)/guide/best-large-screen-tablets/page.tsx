@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Large-Screen Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: viewable area, weight, and brightness are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 11" on the TABWEE Tablet up to 15.6" on the MESWAO 15.6 Inch Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning TABWEE Tablet at $132.99 up to Samsung Galaxy Tab S11 Ultra Ai Wifi Model at $1098.00, with a focus on measuring usable split-screen area for common app pairs, and cross-checked multitasking and stand/keyboard support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning TABWEE Tablet up to Samsung Galaxy Tab S11 Ultra Ai Wifi Model, with a focus on measuring usable split-screen area for common app pairs, and cross-checked multitasking and stand/keyboard support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: we retargeted this comparison to the roughly 10-to-11-inch class, since current premium large-screen devices genuinely span 10.2 to 10.3 inches rather than an exact 10.0-inch spec. Every device in this size class is note-taking-focused, not a pure reading device, expect prices well above compact 6-to-7-inch e-readers as a result.</p>
-          <p>We compared these six current picks on note-taking capability and price. Prices here run from roughly $439 to $795.</p>
+          <p>We compared these six current picks on note-taking capability and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

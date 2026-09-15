@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shower cleaning specifically requires reaching ceilings, tile walls, and floors, often without bending, plus handling constant direct water exposure. We compared current picks named for shower use, prioritizing named handle length, waterproofing, and power specifications.</p>
-          <p>Prices here run from roughly $24 to $85, with named power specifications and waterproofing generally commanding a premium.</p>
+          <p>Prices here span a wide range across this lineup with named power specifications and waterproofing generally commanding a premium.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

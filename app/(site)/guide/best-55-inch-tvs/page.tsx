@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 55-Inch TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact-size panel/backlight, Refresh rate and ports, and Physical dimensions are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 55" on the LG 55-Inch Class OLED evo AI 4K C5 Series Smart TV w/Dolby Atmos up to 65" on the Samsung 65-Inch Class OLED S90F 4K Smart TV (2025 Model) NQ4 AI Gen3, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV at $249.99 up to LG 65-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos at $1799.00, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV up to LG 65-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

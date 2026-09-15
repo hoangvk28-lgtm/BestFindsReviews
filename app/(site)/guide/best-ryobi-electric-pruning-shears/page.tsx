@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>RYOBI's current pruning shear options all run on the widely owned ONE+ 18V battery platform, real convenience if you already have RYOBI batteries from a trimmer, blower, or other yard tool. The three current listings differ mainly in motor type and price rather than cutting capacity, since none state a specific diameter as prominently as dedicated pruning-shear brands.</p>
-          <p>We compared these three current picks on named motor type, price, and what's included. All three are sold as bare tools requiring an existing RYOBI ONE+ 18V battery, prices here run from roughly $82 to $147.</p>
+          <p>We compared these three current picks on named motor type, price, and what's included. All three are sold as bare tools requiring an existing RYOBI ONE+ 18V battery, Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

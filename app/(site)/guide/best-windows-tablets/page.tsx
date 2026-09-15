@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Windows Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: detachable form, x86/ARM compatibility, and keyboard cost are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10.1" on the QAZIPO 2-in-1 Laptop/Tablet up to 12" on the Fusion5 2026 Version 12" 2K Display Windows 11 Tablet PC with Stylus, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning WXUNJA Android 16 Tablet at $93.99 up to Fusion5 2026 Version 12" 2K Display Windows 11 Tablet PC with Stylus at $699.99, with a focus on defining eligibility as a tablet/slate or detachable, excluding ordinary 360-degree laptops unless SERP intent demands them, and cross-checked pen support and firmware lifecycle against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning WXUNJA Android 16 Tablet up to Fusion5 2026 Version 12" 2K Display Windows 11 Tablet PC with Stylus, with a focus on defining eligibility as a tablet/slate or detachable, excluding ordinary 360-degree laptops unless SERP intent demands them, and cross-checked pen support and firmware lifecycle against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

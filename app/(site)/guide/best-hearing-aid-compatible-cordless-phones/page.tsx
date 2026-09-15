@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Hearing aid compatible and amplified are genuinely different concepts, HAC means the phone's handset is designed to work well with hearing aids specifically, while amplified simply means louder overall volume. We focused this comparison on listings that explicitly document hearing aid compatibility rather than inferring it from loud-volume marketing.</p>
-          <p>We compared these current picks on named HAC documentation, complementary features, and price. Prices here run from roughly $23 to $55.</p>
+          <p>We compared these current picks on named HAC documentation, complementary features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

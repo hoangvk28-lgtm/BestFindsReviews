@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A smaller electric pruning shear trades maximum cutting diameter for lighter weight and easier one-handed maneuvering, real value for smaller hands, precision work, or anyone who finds full-size pruning shears bulky. We focused this comparison on compact models with smaller stated dimensions and cutting capacity.</p>
-          <p>We compared these six current compact picks on named cutting diameter, weight, and price. Prices here run from roughly $35 to $140, and cutting capacity spans a compact 0.8 inches up to 1.4 inches.</p>
+          <p>We compared these six current compact picks on named cutting diameter, weight, and price. Prices here span a wide range across this lineup and cutting capacity spans a compact 0.8 inches up to 1.4 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

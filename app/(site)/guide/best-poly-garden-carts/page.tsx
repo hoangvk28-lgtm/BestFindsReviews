@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A poly bed's main advantage over steel is rust resistance, useful for a cart left outdoors through wet seasons without a covered storage spot. The tradeoff is generally more bed flex under a concentrated load, and slightly lower capacity ceilings than the heaviest-duty steel carts.</p>
-          <p>We compared these eight current picks, most explicitly poly, a few where the listing doesn't name the bed material directly, on named capacity, dump mechanism, and tire type. Prices here run from roughly $77 to $160.</p>
+          <p>We compared these eight current picks, most explicitly poly, a few where the listing doesn't name the bed material directly, on named capacity, dump mechanism, and tire type. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors or anyone with limited grip strength or arm stamina, the right handheld vacuum prioritizes light weight, simple single-button operation, and convenient storage over maximum power or dust capacity. We compared current picks with this specific priority.</p>
-          <p>Prices here run from roughly $25 to $480. A lighter tool with simple controls and wall-mount storage generally serves this use case better than a heavier, more feature-dense premium model.</p>
+          <p>Prices here span a wide range across this lineup. A lighter tool with simple controls and wall-mount storage generally serves this use case better than a heavier, more feature-dense premium model.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

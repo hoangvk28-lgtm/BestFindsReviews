@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>HOTO's current Amazon lineup spans five distinct models, Grip, Flexi, a standard Cordless version, Wand, and Swift, each with different named features and price points. We compared these directly, plus a few non-HOTO comparison points for buyers weighing brand premium against generic alternatives.</p>
-          <p>Prices here run from roughly $25 to $80 for genuine HOTO models, with the non-HOTO comparison points running lower for context.</p>
+          <p>Prices here span a wide range across this lineup for genuine HOTO models, with the non-HOTO comparison points running lower for context.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 8K TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product pool, Native 8K utility, and Upscaling are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 50" on the Samsung 50-Inch Class Crystal UHD U8000F 4K Smart TV (2025 Model) up to 98" on the Samsung 98-Inch Class 4K Crystal UHD DU9000 Series HDR Smart TV, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning TCL 65 Inch Class QM8K Series at $1097.99 up to TCL 75 Inch Class QM8L Series at $1997.99, with a focus on validate the active 2026 product pool and remove obsolete 8K lines, and cross-checked Power/cost and 4K alternatives against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning TCL 65 Inch Class QM8K Series up to TCL 75 Inch Class QM8L Series, with a focus on validate the active 2026 product pool and remove obsolete 8K lines, and cross-checked Power/cost and 4K alternatives against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

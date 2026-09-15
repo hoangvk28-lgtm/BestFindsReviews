@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Small Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: external dimensions, plate fit, and door swing are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 700W on the BLACK+DECKER Countertop Microwave Oven up to 900W on the TOSHIBA Microwave Oven, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning Farberware 0.7 Cu. Ft. Countertop Microwave Oven at $67.99 up to LG Countertop Microwave at $159.00, with a focus on defining small by external width, depth and height, not cubic feet alone, and cross-checked output power and usable volume against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Farberware 0.7 Cu. Ft. Countertop Microwave Oven up to LG Countertop Microwave, with a focus on defining small by external width, depth and height, not cubic feet alone, and cross-checked output power and usable volume against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

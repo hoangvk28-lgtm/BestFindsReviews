@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Bluetooth is now common on nearly every current soundbar, but it's typically a secondary connection for music streaming from your phone, not the primary path for TV audio, which should run through HDMI ARC/eARC for the best quality and simplest setup. We verified HDMI connectivity remains available and easy to use on every pick here, alongside genuine Bluetooth streaming capability.</p>
-          <p>We compared these six current picks on Bluetooth capability and price. Prices here run from roughly $30 to $279.</p>
+          <p>We compared these six current picks on Bluetooth capability and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>PDF reading has different needs than novels: academic two-column layouts, scanned documents, and forms all suffer on small screens that force constant zoom and pan. We required at least a large 7.8-inch class display for our primary picks, with smaller alternatives included only for buyers who accept more zooming in exchange for portability.</p>
-          <p>We compared these seven current picks on screen size and annotation capability. Prices here run from roughly $169 to $550.</p>
+          <p>We compared these seven current picks on screen size and annotation capability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

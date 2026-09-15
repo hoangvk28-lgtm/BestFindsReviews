@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A wall-mountable cordless phone base keeps counters and hallways clear, genuinely useful in a kitchen, garage, or workshop where floor or counter space is at a premium. VTech and Panasonic both currently sell models with explicit wall-mount hardware, worth confirming this feature directly since not every cordless phone base supports it.</p>
-          <p>We compared these eight current picks with named wall-mount capability on features and price. Prices here run from roughly $23 to $88.</p>
+          <p>We compared these eight current picks with named wall-mount capability on features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

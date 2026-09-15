@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for weed pullers for garden beds can look nearly identical in a thumbnail, yet current product availability, root capture and breakage, and soil penetration and plug size are exactly the details a generic spec sheet tends to leave out. Claw Count alone in this lineup spans from 3 claws on the Tegarbed 39" Stand Up Weed Puller Tool - Heavy Duty Detachable 3-Claw up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with measuring precision around crop and ornamental roots as the starting point, not an afterthought. Prices here run from $7.15 (Fiskars Ergo Garden Hand Weeder Tool) to $49.29 (Gardena 03518). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with measuring precision around crop and ornamental roots as the starting point, not an afterthought. Prices here span from the most affordable pick, the Fiskars Ergo Garden Hand Weeder Tool, to the priciest pick, the Gardena 03518. We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

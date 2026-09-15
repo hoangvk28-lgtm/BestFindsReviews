@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>An SOS button on a phone and a standalone wireless caregiver alert system solve related but genuinely different problems, one is a dedicated emergency button built into a telephone handset, the other is a separate wearable or wall-mounted pager unrelated to phone calling at all. Dedicated SOS-button cordless phones are a niche category, most current options are corded, corded/cordless hybrids, or a fully cordless accessible phone without a literal SOS button but with strong emergency-relevant features.</p>
-          <p>We compared four current products spanning genuine phone-integrated SOS buttons and a standalone wireless alert system, clearly labeled so you understand exactly what each does. Prices here run from roughly $30 to $57.</p>
+          <p>We compared four current products spanning genuine phone-integrated SOS buttons and a standalone wireless alert system, clearly labeled so you understand exactly what each does. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

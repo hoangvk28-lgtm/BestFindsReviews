@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Carpet Cleaners With Long Hoses can look similar in a listing photo but differ in ways that matter once real daily use is involved: hose length, usable reach, and cord length are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Vacmaster 400 Series Portable Carpet & Upholstery Spot Cleaner Machine at $69.99 up to Hoover PowerScrub XL Pet Carpet Cleaner Machine for Carpet and at $199.99, with a focus on measuring usable cleaning radius from the wall outlet, not hose length alone, and cross-checked suction at full extension and hose storage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Vacmaster 400 Series Portable Carpet & Upholstery Spot Cleaner Machine up to Hoover PowerScrub XL Pet Carpet Cleaner Machine for Carpet and, with a focus on measuring usable cleaning radius from the wall outlet, not hose length alone, and cross-checked suction at full extension and hose storage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

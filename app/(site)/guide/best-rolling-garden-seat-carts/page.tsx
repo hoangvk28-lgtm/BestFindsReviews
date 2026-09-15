@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing rolling garden seat carts often assume any well-reviewed listing is a safe bet, but Seat height and transfer and Wheel/terrain behavior vary enough between these picks to change which one actually fits a given yard, and stability and rated load is rarely spelled out clearly on the product page. Weight Capacity alone in this lineup spans from 220 lbs on the Pure Garden Rolling Garden Cart with Seat - Plastic Storage with Bench and up to 400 lbs on the Suntee Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes separating steerable steel work-seat carts from simple plastic rolling scooters over spec-sheet comparisons alone. Prices here run from $39.95 (Pure Garden Rolling Garden Cart with Seat) to $119.99 (Goplus Garden Seat with Wheels). Materials and weather resistance and Assembly, storage and replacement parts were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes separating steerable steel work-seat carts from simple plastic rolling scooters over spec-sheet comparisons alone. Prices here span from the most affordable pick, the Pure Garden Rolling Garden Cart with Seat, to the priciest pick, the Goplus Garden Seat with Wheels. Materials and weather resistance and Assembly, storage and replacement parts were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

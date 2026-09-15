@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Bissell Carpet Cleaners can look similar in a listing photo but differ in ways that matter once real daily use is involved: current model family, upright versus portable format, and steam mode versus extraction are the details most listings gloss over in favor of a generic spec sheet. Capacity alone in this lineup spans from 1 on the BISSELL TurboClean Pet XL Upright Carpet Cleaner up to 1.75 on the BISSELL Big Green Professional Carpet Cleaner, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning BISSELL Little Green Multi-Purpose Portable Carpet Cleaner at $99.99 up to BISSELL Big Green Professional Carpet Cleaner at $429.00, with a focus on building a current model matrix separating Revolution, Big Green, Little Green and other upright/portable families, and cross-checked tank capacity and formula and tool compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BISSELL Little Green Multi-Purpose Portable Carpet Cleaner up to BISSELL Big Green Professional Carpet Cleaner, with a focus on building a current model matrix separating Revolution, Big Green, Little Green and other upright/portable families, and cross-checked tank capacity and formula and tool compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

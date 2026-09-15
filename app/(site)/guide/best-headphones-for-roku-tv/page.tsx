@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Roku genuinely has a unique Headphone Mode/Private Listening system that works through several distinct paths, some Roku remotes include a direct headphone jack, some Roku devices support direct Bluetooth pairing, and the Roku mobile app enables private listening on any device. These paths behave differently, and generic Bluetooth headphone advice can miss Roku's specific options entirely.</p>
-          <p>We compared these three current picks by which Roku Headphone Mode path they fit. Prices here run from about $20 to $90.</p>
+          <p>We compared these three current picks by which Roku Headphone Mode path they fit. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

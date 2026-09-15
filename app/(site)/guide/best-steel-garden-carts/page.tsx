@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Steel-frame garden carts trade some weight and rust risk for a real capacity advantage over poly alternatives, most steel carts in this comparison rate for 800 to 1400 lbs, well above what a typical poly-bed cart handles. That makes steel the default choice for gravel, dense soil, firewood, or construction-adjacent yard work rather than light mulch runs.</p>
-          <p>We compared these eight current steel garden carts on rated capacity, cubic-foot bed volume, and tire type, since all three vary meaningfully within steel construction alone. Capacity here spans from 800 lbs to 1400 lbs, and prices run from roughly $98 to $180, tracking real differences in frame gauge and bed size.</p>
+          <p>We compared these eight current steel garden carts on rated capacity, cubic-foot bed volume, and tire type, since all three vary meaningfully within steel construction alone. Capacity here spans from 800 lbs to 1400 lbs, and prices run from roughly to tracking real differences in frame gauge and bed size.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

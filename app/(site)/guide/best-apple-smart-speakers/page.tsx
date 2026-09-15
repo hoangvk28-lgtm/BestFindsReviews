@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Apple's smart speaker lineup consists of just two models, the HomePod (2nd Gen) and the HomePod mini in several colors. Amazon availability is genuinely limited, some listings show low review counts or may be third-party sold rather than Apple's own inventory. Apple smart speakers are best for buyers already in the Apple ecosystem (iPhone, iPad, Mac, Apple TV), controlled primarily by Siri, and are not natively compatible with Alexa or Google Assistant.</p>
-          <p>We compared these five current picks by model and color. Prices here run from roughly $149 to $170, plus the full-size HomePod at variable pricing. We strongly recommend purchasing from Apple.com or an authorized retailer for guaranteed warranty and authenticity.</p>
+          <p>We compared these five current picks by model and color. Prices here span a wide range across this lineup plus the full-size HomePod at variable pricing. We strongly recommend purchasing from Apple.com or an authorized retailer for guaranteed warranty and authenticity.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

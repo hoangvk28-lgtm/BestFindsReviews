@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 98-Inch TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact-size panel/backlight, Refresh rate and ports, and Physical dimensions are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning TCL 98-Inch Q65 QLED 4K UHD Smart TV with Google TV (98Q651G at $1498.00 up to Sony BRAVIA 5 98 Inch TV at $4998.00, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning TCL 98-Inch Q65 QLED 4K UHD Smart TV with Google TV (98Q651G up to Sony BRAVIA 5 98 Inch TV, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

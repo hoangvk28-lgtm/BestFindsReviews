@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Composite Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Material composition, UV stability, and Thermal expansion are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 3 models below, spanning Keter 48" X 48" inches Wood Look Raised Garden Bed at $49.99 up to PASAMIC 8x4x1ft Vinyl Raised Garden Bed at $79.99, with a focus on identifying wood-fiber, PVC or other resin composition where documentation allows, and cross-checked Fastener retention and Repairability against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 3 models below, spanning Keter 48" X 48" inches Wood Look Raised Garden Bed up to PASAMIC 8x4x1ft Vinyl Raised Garden Bed, with a focus on identifying wood-fiber, PVC or other resin composition where documentation allows, and cross-checked Fastener retention and Repairability against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

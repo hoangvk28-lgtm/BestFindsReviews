@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying rolling garden seats for weeding, the more useful question isn't just which one is cheapest, but which one actually holds up on seat height and transfer. That, along with Wheel/terrain behavior and Stability and rated load, is what we dug into for the picks below. Weight Capacity alone in this lineup spans from 220 lbs on the Pure Garden Rolling Garden Cart with Seat - Plastic Storage with Bench and up to 400 lbs on the Suntee Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning Pure Garden Rolling Garden Cart with Seat at $39.95 up to Suntee Garden Seat with Wheels at $68.39, focusing first on measuring comfortable side reach before the cart must be repositioned. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning Pure Garden Rolling Garden Cart with Seat up to Suntee Garden Seat with Wheels, focusing first on measuring comfortable side reach before the cart must be repositioned. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

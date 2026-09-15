@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This guide focuses specifically on genuinely cordless handheld vacuums, confirming battery-powered mobility without a power cord across every pick here. We compared named power ratings and charging convenience across major brands.</p>
-          <p>Prices here run from roughly $50 to $480, with named power ratings and premium brand positioning driving the price range.</p>
+          <p>Prices here span a wide range across this lineup with named power ratings and premium brand positioning driving the price range.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>True tow-behind garden carts are built to hitch to a riding mower, ATV, or UTV, and only two products in this comparison are genuinely built for that. The rest of this search tends to surface hand-pulled dump carts that share similar dump mechanisms but need to be pulled by a person, worth separating clearly before buying.</p>
-          <p>We compared these seven current picks on whether they're genuinely tow-behind or hand-pulled, plus rated capacity and dump function. Prices here run from roughly $110 to $300.</p>
+          <p>We compared these seven current picks on whether they're genuinely tow-behind or hand-pulled, plus rated capacity and dump function. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

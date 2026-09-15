@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Easiest Video Doorbells to Install can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Blink Video Doorbell - Head-to-toe HD view at $29.99 up to WISDOM VIEW Wireless Smart Video Doorbell System at $189.99, with a focus on timing installation from unboxing through the first reliable live view, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Blink Video Doorbell - Head-to-toe HD view up to WISDOM VIEW Wireless Smart Video Doorbell System, with a focus on timing installation from unboxing through the first reliable live view, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

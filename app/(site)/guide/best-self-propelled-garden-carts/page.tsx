@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A genuinely self-propelled garden cart uses a battery and motor to move itself, not just to power an accessory. A few products that surface in this search are actually hand-pulled dump carts, worth separating clearly since they solve a different problem.</p>
-          <p>We compared these eight current picks, five genuinely self-propelled and three hand-pulled carts flagged honestly, on battery power, load capacity, and named braking. Prices here span from about $160 for a hand-pulled cart up to over $1,000 for a full power wagon.</p>
+          <p>We compared these eight current picks, five genuinely self-propelled and three hand-pulled carts flagged honestly, on battery power, load capacity, and named braking. Prices here span from a hand-pulled cart at the affordable end up to a full power wagon at the premium end.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

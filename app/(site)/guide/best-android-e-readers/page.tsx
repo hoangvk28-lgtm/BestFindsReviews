@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Android e-readers on Amazon are currently dominated by newer brands like Musnap, Bigme, and OBOOK rather than the more widely known BOOX (whose Amazon listings appear only as case bundles). These devices genuinely let you sideload Kindle, Libby, or other reading apps, real flexibility that closed ecosystems like Kindle's own hardware don't offer, at the cost of more setup complexity and less brand track record.</p>
-          <p>We compared these eight current picks on RAM, storage, and color capability. Prices here run from roughly $120 to $290.</p>
+          <p>We compared these eight current picks on RAM, storage, and color capability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

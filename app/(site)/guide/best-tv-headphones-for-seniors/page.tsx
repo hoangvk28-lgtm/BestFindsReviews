@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors, comfort, easy charging-dock placement, and independent volume control matter more than headline audio specs. We prioritized picks explicitly marketed toward seniors and hearing-impaired viewers, comparing charging convenience, named audio modes, and setup burden directly.</p>
-          <p>We compared these five current picks on comfort and setup simplicity. Prices here run from roughly $50 to $230.</p>
+          <p>We compared these five current picks on comfort and setup simplicity. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

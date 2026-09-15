@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Talking" varies meaningfully across this category, some clocks announce both time and date together, while others announce time only. We required genuine spoken content, not just an audible alarm sound, and flagged the specific scope of what each pick actually announces.</p>
-          <p>We compared these five current picks on named voice-announcement scope and price. Prices here run from roughly $24 to $34.</p>
+          <p>We compared these five current picks on named voice-announcement scope and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

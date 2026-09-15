@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying cordless leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 100 CFM on the DEWALT 20V MAX Blower up to 650 CFM on the LOSART Leaf Blower Cordless, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning MZK 20V Cordless Leaf Blower at $39.98 up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless at $195.00, with particular attention to normalizing battery energy in watt-hours instead of treating voltage as battery capacity. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning MZK 20V Cordless Leaf Blower up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless, with particular attention to normalizing battery energy in watt-hours instead of treating voltage as battery capacity. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

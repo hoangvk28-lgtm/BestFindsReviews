@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Garden utility wagon covers two genuinely different product types: rigid steel carts built for repeated heavy-duty hauling, and collapsible fabric wagons designed to fold flat for storage or transport. Picking between them depends more on how you'll store the wagon between uses than on rated capacity alone.</p>
-          <p>We compared these eight current picks split across both types, on rated capacity, bed support under load, and storage footprint. Prices here run from roughly $40 to $180, with fabric wagons generally at the lower end and rigid steel carts at the higher end.</p>
+          <p>We compared these eight current picks split across both types, on rated capacity, bed support under load, and storage footprint. Prices here span a wide range across this lineup with fabric wagons generally at the lower end and rigid steel carts at the higher end.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

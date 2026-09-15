@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tall Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Height, Reach, and Soil volume are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 5 models below, spanning Vego garden Raised Garden Bed Kits at $143.95 up to Vego garden Raised Garden Bed Kit at $199.95, with a focus on calculating exact soil volume and fill cost instead of treating extra height as free accessibility, and cross-checked Side-wall pressure and Bracing against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning Vego garden Raised Garden Bed Kits up to Vego garden Raised Garden Bed Kit, with a focus on calculating exact soil volume and fill cost instead of treating extra height as free accessibility, and cross-checked Side-wall pressure and Bracing against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Roku TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: OS speed, Ad load, and Account requirement are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 32" on the Hisense 32-Inch Class QD4SR Series Hi-QLED HD Smart Roku TV (32QD4HSR up to 75" on the Roku 75-Inch Pro Series Smart TV - 4K QLED Mini-LED TV - RokuTV, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Roku Ultra at $89.69 up to Roku 75-Inch Pro Series Smart TV - 4K QLED Mini-LED TV - RokuTV at $1049.90, with a focus on scoring TV hardware and OS separately, and cross-checked Accessibility and Update/app support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Roku Ultra up to Roku 75-Inch Pro Series Smart TV - 4K QLED Mini-LED TV - RokuTV, with a focus on scoring TV hardware and OS separately, and cross-checked Accessibility and Update/app support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

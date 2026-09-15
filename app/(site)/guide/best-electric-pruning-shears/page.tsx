@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Electric pruning shears range from budget cordless models with a 1.4-inch cutting capacity to professional-grade tools that handle nearly 3 inches of branch diameter. Cutting capacity, battery configuration, and blade material are the specs that actually determine whether a shear handles your typical pruning job, more than the brand name alone.</p>
-          <p>We compared these seven current models on named cutting diameter, battery setup, and any documented safety features like tool-free blade changes. Prices here run from roughly $50 to $260, and the spread tracks real differences in cutting capacity and build quality rather than brand markup alone.</p>
+          <p>We compared these seven current models on named cutting diameter, battery setup, and any documented safety features like tool-free blade changes. Prices here span a wide range across this lineup and the spread tracks real differences in cutting capacity and build quality rather than brand markup alone.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A 2-wheel garden cart, closer to a wheelbarrow, trades some stability for a tighter turning radius in narrow garden rows. A 4-wheel cart is generally more stable on side slopes and uneven ground since the frame doesn't pivot on two wheels, but needs more room to turn.</p>
-          <p>We compared four confirmed 2-wheel picks against four confirmed 4-wheel picks, plus one cart where wheel count isn't stated on the listing, on rated capacity and named steering features. Prices here run from roughly $80 to $200.</p>
+          <p>We compared four confirmed 2-wheel picks against four confirmed 4-wheel picks, plus one cart where wheel count isn't stated on the listing, on rated capacity and named steering features. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

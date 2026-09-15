@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight rarely show up as clear differentiators in a standard listing for handheld leaf blowers, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 100 CFM on the DEWALT 20V MAX Blower up to 650 CFM on the LOSART Leaf Blower Cordless, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower at $39.98 up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless at $195.00, with a focus on measuring wrist torque and balance at several battery/fuel states, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless, with a focus on measuring wrist torque and balance at several battery/fuel states, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

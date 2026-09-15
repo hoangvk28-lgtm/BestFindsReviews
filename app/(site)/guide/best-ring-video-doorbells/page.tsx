@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Ring Video Doorbells can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle at $69.99 up to Ring Wired Doorbell 4K Elite at $499.99, with a focus on building a current-generation matrix instead of mixing legacy and 2026 models, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle up to Ring Wired Doorbell 4K Elite, with a focus on building a current-generation matrix instead of mixing legacy and 2026 models, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

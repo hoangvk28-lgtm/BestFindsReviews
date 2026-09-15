@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "unlocked" does not guarantee full compatibility with every carrier. Full functionality, VoLTE, Wi-Fi Calling, eSIM support, and carrier-specific features can vary even on unlocked devices. We flag where you should verify carrier bands and VoLTE approval directly before assuming an unlocked phone will work seamlessly on your specific network.</p>
-          <p>We compared these five current unlocked picks on network compatibility and price. Prices here run from roughly $65 to $300.</p>
+          <p>We compared these five current unlocked picks on network compatibility and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

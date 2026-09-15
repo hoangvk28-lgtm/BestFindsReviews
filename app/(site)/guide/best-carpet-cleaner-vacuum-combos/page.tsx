@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Carpet Cleaner Vacuum Combos can look similar in a listing photo but differ in ways that matter once real daily use is involved: true dry-debris pickup, carpet extraction, and hard-floor approval are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning BISSELL Little Green Multi-Purpose Portable Carpet Cleaner at $99.99 up to BISSELL ProHeat 2X Revolution Pet Pro Plus Carpet Cleaner at $237.97, with a focus on requiring true dry vacuuming capability for the word vacuum in the article title, and cross-checked tank separation and filter maintenance against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BISSELL Little Green Multi-Purpose Portable Carpet Cleaner up to BISSELL ProHeat 2X Revolution Pet Pro Plus Carpet Cleaner, with a focus on requiring true dry vacuuming capability for the word vacuum in the article title, and cross-checked tank separation and filter maintenance against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

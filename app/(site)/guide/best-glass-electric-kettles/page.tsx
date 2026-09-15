@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Glass Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Exact product eligibility, Measured performance under a fixed protocol, and Handling and safety behavior are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee at $21.59 up to Cuisinart 1.7L Glass Variable Temperature Control Electric Kettle at $59.95, with a focus on measuring empty and typical filled weight because glass can be heavier than buyers expect, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee up to Cuisinart 1.7L Glass Variable Temperature Control Electric Kettle, with a focus on measuring empty and typical filled weight because glass can be heavier than buyers expect, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

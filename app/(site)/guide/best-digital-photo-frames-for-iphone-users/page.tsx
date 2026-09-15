@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Every frame in this comparison offers an iOS companion app, but the sending workflow from an iPhone's Photos library varies in friction. We evaluated how directly each app pulls from the native iPhone Photos app versus requiring extra steps.</p>
-          <p>Prices here run from roughly $48 to $180. All picks here support iOS, the differentiator is workflow simplicity for iPhone-specific sending.</p>
+          <p>Prices here span a wide range across this lineup. All picks here support iOS, the differentiator is workflow simplicity for iPhone-specific sending.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

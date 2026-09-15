@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying lightweight leaf blowers for seniors, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 180 CFM on the JAGROM Leaf Blower Cordless with 2 Battery and Charger up to 600 CFM on the Houselife 600 CFM Cordless Leaf Blower Compatible with Milwaukee 18V M18 Battery, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning MZK 20V Cordless Leaf Blower at $39.98 up to WORX Cordless Leaf Blower at $169.99, with particular attention to measuring complete weight, balance and wrist torque with the battery/fuel configuration actually recommended. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning MZK 20V Cordless Leaf Blower up to WORX Cordless Leaf Blower, with particular attention to measuring complete weight, balance and wrist torque with the battery/fuel configuration actually recommended. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

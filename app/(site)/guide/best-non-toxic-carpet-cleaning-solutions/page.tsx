@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Non-toxic" is not a standardized carpet-cleaner machine category, so this guide covers cleaning solutions and states exactly what certification (if any) each formula carries, rather than making a blanket safety claim. Best Non-Toxic Carpet Cleaning Solutions can look similar in a listing photo but differ in ways that matter once real daily use is involved: exact formula ingredients, Safer Choice status, and fragrance are the details most listings gloss over in favor of a generic spec sheet. Capacity alone in this lineup spans from 13.5 on the Carbona 2-in-1 Oxy-Powered Carpet Cleaner up to 64 on the Nature's Miracle Carpet Shampoo Pet Stain & Odor Remover, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Mrs. MEYER'S CLEAN DAY Pet Stain & Odor Fighter at $10.99 up to Biokleen Bac Out Enzyme Cleaner at $34.98, with a focus on avoiding claiming a product is non-toxic without a defined standard, and cross-checked machine compatibility and carpet approval against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Mrs. MEYER'S CLEAN DAY Pet Stain & Odor Fighter up to Biokleen Bac Out Enzyme Cleaner, with a focus on avoiding claiming a product is non-toxic without a defined standard, and cross-checked machine compatibility and carpet approval against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

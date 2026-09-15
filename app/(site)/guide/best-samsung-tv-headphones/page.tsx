@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "Samsung TV headphones" is genuinely a compatibility search, not a request for headphones Samsung manufactures specifically for TVs. Current Samsung TVs support Bluetooth audio pairing on most recent models, with some supporting simultaneous TV-speaker and headphone output, but this behavior varies by TV year and model. Verify your specific TV's support before assuming any headphone pairs seamlessly.</p>
-          <p>We compared these three current picks by their real Samsung TV pairing behavior. Prices here run from about $20 to $90.</p>
+          <p>We compared these three current picks by their real Samsung TV pairing behavior. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

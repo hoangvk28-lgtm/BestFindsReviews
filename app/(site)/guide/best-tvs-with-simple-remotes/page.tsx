@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs With Simple Remotes can look similar in a listing photo but differ in ways that matter once real daily use is involved: Tactile landmarks, Direct input access, and Accidental keys are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning UltraPro Backlit OneTouch Universal Remote Control at $9.56 up to Flipper Big Button TV Remote for Seniors at $39.95, with a focus on counting buttons and identify tactile differences without looking, and cross-checked Backlight and Pairing recovery against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning UltraPro Backlit OneTouch Universal Remote Control up to Flipper Big Button TV Remote for Seniors, with a focus on counting buttons and identify tactile differences without looking, and cross-checked Backlight and Pairing recovery against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

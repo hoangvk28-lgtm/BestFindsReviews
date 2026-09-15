@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A single battery can run out mid-session on a larger pruning job, forcing a pause to recharge. Every model in this comparison ships with two included batteries, real convenience if you swap packs and keep pruning rather than waiting on a charger.</p>
-          <p>We compared these eight current two-battery picks on named cutting diameter, battery capacity, and price. Prices here run from roughly $50 to $200, and cutting capacity spans 1.2 inches up to 2.75 inches.</p>
+          <p>We compared these eight current two-battery picks on named cutting diameter, battery capacity, and price. Prices here span a wide range across this lineup and cutting capacity spans 1.2 inches up to 2.75 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

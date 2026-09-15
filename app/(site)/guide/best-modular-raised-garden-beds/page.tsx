@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Modular Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Configuration count, Brace rules, and Unused parts are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the FOYUEE Galvanized Raised Garden Bed 8x4x1ft Single Unit up to 24 inches on the Tegarbed 6x3x2ft Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 8 models below, spanning Plant & Plot Galvanized Raised Garden Beds Outdoor // 4×2×1 ft at $17.97 up to Land Guard 2 Pack 6×3×2 ft Galvanized Metal Raised Garden Bed at $79.99, with a focus on listing every valid configuration and identify panels or hardware left unused, and cross-checked Rebuild effort and Extension availability against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Plant & Plot Galvanized Raised Garden Beds Outdoor // 4×2×1 ft up to Land Guard 2 Pack 6×3×2 ft Galvanized Metal Raised Garden Bed, with a focus on listing every valid configuration and identify panels or hardware left unused, and cross-checked Rebuild effort and Extension availability against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

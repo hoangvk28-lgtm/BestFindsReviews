@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors, the relevant measurements go beyond dry machine weight, full-tank handling, push effort, self-propel assistance, and how much bending or lifting a dock or bucket requires all matter more than a spec sheet number. We prioritized genuinely lightweight, cordless, and self-propelled options in this comparison.</p>
-          <p>We compared these eight current picks on named weight, self-propel assistance, and price. Prices here run from roughly $60 to $180.</p>
+          <p>We compared these eight current picks on named weight, self-propel assistance, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

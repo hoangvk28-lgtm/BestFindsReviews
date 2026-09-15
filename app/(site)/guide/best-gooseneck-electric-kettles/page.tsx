@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Gooseneck Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Flow range, Low-flow stability, and Handle torque are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning YTLAD Gooseneck Electric Kettle 1L at $30.99 up to Fellow Corvo EKG Pro Studio Gooseneck Electric Kettle at $229.95, with a focus on measuring flow at slow, medium and maximum pour rates in g/s or mL/s rather than using only subjective 'control' language, and cross-checked Temperature accuracy and Spout drip control against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning YTLAD Gooseneck Electric Kettle 1L up to Fellow Corvo EKG Pro Studio Gooseneck Electric Kettle, with a focus on measuring flow at slow, medium and maximum pour rates in g/s or mL/s rather than using only subjective 'control' language, and cross-checked Temperature accuracy and Spout drip control against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

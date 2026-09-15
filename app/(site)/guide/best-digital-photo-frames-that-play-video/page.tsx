@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Not every digital photo frame supports video, and among those that do, clip length limits vary meaningfully. We verified genuine video playback capability and any named duration limits across current picks here rather than assuming any WiFi frame handles video.</p>
-          <p>Prices here run from roughly $48 to $250, with named video length limits ranging from short clips to no confirmed cap.</p>
+          <p>Prices here span a wide range across this lineup with named video length limits ranging from short clips to no confirmed cap.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

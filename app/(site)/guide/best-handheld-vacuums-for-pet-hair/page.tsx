@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Pet hair presents a specific cleaning challenge, embedded hair in upholstery and carpet fibers resists standard suction alone. We compared current picks on named pet-hair-specific technology, from motorized brushes to cyclone suction designed to maintain performance as hair accumulates.</p>
-          <p>Prices here run from roughly $50 to $390, with named specialized pet-hair technology generally commanding a premium over general-purpose picks.</p>
+          <p>Prices here span a wide range across this lineup with named specialized pet-hair technology generally commanding a premium over general-purpose picks.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

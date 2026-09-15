@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best LG Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: exact otr model, ventilation specification, and installation dimensions are the details most listings gloss over in favor of headline wattage and capacity numbers.</p>
-          <p>We compared all 5 models below, spanning LG Countertop Microwave at $155.00 up to LG 2.1 cu. ft. 30 in. Width PrintProof Stainless Steel 1,050-Watt Smart at $569.95, with a focus on separating over-the-range LG models from countertop or built-in capable products before ranking, and cross-checked sensor performance and control usability against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning LG Countertop Microwave up to LG 2.1 cu. ft. 30 in. Width PrintProof Stainless Steel 1,050-Watt Smart, with a focus on separating over-the-range LG models from countertop or built-in capable products before ranking, and cross-checked sensor performance and control usability against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

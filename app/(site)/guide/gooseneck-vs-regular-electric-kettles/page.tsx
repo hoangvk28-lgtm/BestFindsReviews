@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Gooseneck vs Regular Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Exact product eligibility, Measured performance under a fixed protocol, and Handling and safety behavior are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning Cosori Electric Kettle at $25.99 up to Fellow Stagg EKG Pro Gooseneck Electric Kettle at $179.95, with a focus on quantify minimum stable flow and maximum practical flow for both spout styles, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Cosori Electric Kettle up to Fellow Stagg EKG Pro Gooseneck Electric Kettle, with a focus on quantify minimum stable flow and maximum practical flow for both spout styles, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

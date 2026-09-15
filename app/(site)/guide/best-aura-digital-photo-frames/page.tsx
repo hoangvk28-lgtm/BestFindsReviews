@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Aura's current lineup spans the compact Carver and Aspen models to the larger 15-inch Walden, all sharing genuine subscription-free core features and unlimited cloud storage. We built a current model map here rather than treating every Aura listing as interchangeable.</p>
-          <p>We compared these eight current picks by size and design. Prices here run from roughly $149 to $269.</p>
+          <p>We compared these eight current picks by size and design. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

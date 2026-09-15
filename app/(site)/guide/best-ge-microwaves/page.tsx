@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best GE Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: current model and suffix, installation type, and trim-kit compatibility are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 900W on the GE Over-the-Range Microwave Oven with Recirculating Venting up to 1200W on the GE Countertop Microwave Oven, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning GE Smart Countertop Microwave Oven at $160.64 up to GE Over-the-Range Microwave Oven with Recirculating Venting at $494.10, with a focus on creating a current GE model matrix separating countertop, over-the-range, built-in capable and combo products, and cross-checked sensor behavior and warranty and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning GE Smart Countertop Microwave Oven up to GE Over-the-Range Microwave Oven with Recirculating Venting, with a focus on creating a current GE model matrix separating countertop, over-the-range, built-in capable and combo products, and cross-checked sensor behavior and warranty and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

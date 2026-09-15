@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Gigaset is a German cordless phone maker with a strong global lineup, though its US retail presence and support depth is smaller than Panasonic's or VTech's. Several current Gigaset models are available through US Amazon listings, worth comparing directly if you want a European-designed alternative.</p>
-          <p>We compared these three current Gigaset picks available on US Amazon on named handset count, features, and price. Prices here run from roughly $56 to $91.</p>
+          <p>We compared these three current Gigaset picks available on US Amazon on named handset count, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

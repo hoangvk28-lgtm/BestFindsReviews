@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that high-mph leaf blowers are basically interchangeable once you've picked a price range. In practice, Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 765 CFM on the EGO POWER+ Cordless Electric Leaf Blower up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, focusing first on verifying whether the MPH figure requires a concentrator nozzle. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning HASANEN Backpack Gas Powered Leaf Blower up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, focusing first on verifying whether the MPH figure requires a concentrator nozzle. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A lightweight garden cart matters most for two situations: lifting an empty cart into storage yourself, and pulling it without extra effort fighting the cart's own weight on top of the load. Poly and resin-bed carts generally weigh less empty than steel, though usually at a lower rated capacity.</p>
-          <p>We compared these seven current picks on frame material, named capacity, and empty-weight indicators from each listing. Prices here run from roughly $38 to $151.</p>
+          <p>We compared these seven current picks on frame material, named capacity, and empty-weight indicators from each listing. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

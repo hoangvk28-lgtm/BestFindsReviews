@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This category blends dedicated SOS-button phones, standalone medical alert pendants, and caregiver call-button systems, three genuinely different emergency workflows. We map who gets contacted first, whether 911 is dialed, whether GPS/location is shared, and whether a paid service is required, rather than treating every product with an emergency button as equivalent.</p>
-          <p>We compared these eight current picks on activation method and service dependence. Prices here run from roughly $17 to $90 plus any required subscription.</p>
+          <p>We compared these eight current picks on activation method and service dependence. Prices here span a wide range across this lineup plus any required subscription.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

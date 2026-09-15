@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>LG maintains an active current soundbar line built around its Wow Interface and Wow Orchestra features, which let compatible LG TVs combine speaker output with the soundbar. We compared these four current picks by channel count and named LG-exclusive features, since Wow Orchestra specifically requires a compatible LG TV to unlock.</p>
-          <p>We compared these picks by channel count and price. Prices here run from roughly $150 to $250.</p>
+          <p>We compared these picks by channel count and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

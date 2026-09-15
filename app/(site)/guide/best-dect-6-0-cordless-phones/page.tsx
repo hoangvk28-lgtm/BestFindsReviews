@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>DECT 6.0 is the radio standard behind nearly every current cordless phone, so the label itself isn't a quality differentiator anymore. What actually varies between DECT 6.0 phones is handset count, call blocking depth, answering-machine inclusion, and price, the real factors worth comparing.</p>
-          <p>We compared these eight current DECT 6.0 picks on named handset count, features, and price. Prices here run from roughly $23 to $103.</p>
+          <p>We compared these eight current DECT 6.0 picks on named handset count, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

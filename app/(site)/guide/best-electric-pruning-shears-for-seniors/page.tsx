@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For anyone with limited grip strength, a powered shear that pulls the blade closed with a light trigger press can be a real improvement over manually squeezing a bypass pruner through a thick branch, but ready weight and battery handling matter just as much as trigger effort. A heavy tool with a light trigger still tires your wrist over a long session.</p>
-          <p>We compared these seven current picks on named weight, trigger design, and battery swap convenience. Prices here run from roughly $46 to $147.</p>
+          <p>We compared these seven current picks on named weight, trigger design, and battery swap convenience. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

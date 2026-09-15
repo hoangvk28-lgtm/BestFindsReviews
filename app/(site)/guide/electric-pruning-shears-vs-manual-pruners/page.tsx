@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A manual pruner relies entirely on your hand strength, fine for occasional light trimming but genuinely fatiguing across a long session or on branches near its cutting limit. An electric pruning shear does the squeezing for you, real value if you prune regularly, have hand or wrist limitations, or handle branches at the thicker end of what hand tools can manage.</p>
-          <p>This isn't a direct product-for-product comparison since manual pruners are a different category, instead we're covering when the upgrade makes sense and comparing six current electric models spanning entry-level to professional capability. Prices here run from roughly $30 to $70.</p>
+          <p>This isn't a direct product-for-product comparison since manual pruners are a different category, instead we're covering when the upgrade makes sense and comparing six current electric models spanning entry-level to professional capability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "wireless" in smart speakers almost always means Wi-Fi plus Bluetooth together, not one or the other. Wi-Fi-only-focused smart speakers prioritize home use, multi-room audio, and reliable always-on voice assistant access, while Wi-Fi plus Bluetooth hybrids add portable, flexible use away from your home network. A purely Bluetooth-only speaker typically lacks persistent voice assistant features entirely.</p>
-          <p>We compared these six current picks by their wireless connectivity approach and use case. Prices here run from roughly $50 to $300.</p>
+          <p>We compared these six current picks by their wireless connectivity approach and use case. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

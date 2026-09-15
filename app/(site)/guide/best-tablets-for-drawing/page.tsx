@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets for Drawing can look similar in a listing photo but differ in ways that matter once real daily use is involved: standalone OS, pen latency, and color accuracy are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 11" on the TCL NXTPAPER 11 Gen 2 Android Tablet up to 16" on the XP-Pen XPPen Artist Pro 16 Gen2 2.5K 16 inch QHD Drawing Tablet with Full, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning XP-PEN Artist12 11.6 Inch FHD Drawing Monitor Pen Display Graphic at $149.99 up to XP-Pen XPPen Artist Pro 16 Gen2 2.5K 16 inch QHD Drawing Tablet with Full at $479.99, with a focus on limiting eligibility to standalone general-purpose tablets if the article sits in the tablet cluster, and cross-checked pressure/tilt and creative app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning XP-PEN Artist12 11.6 Inch FHD Drawing Monitor Pen Display Graphic up to XP-Pen XPPen Artist Pro 16 Gen2 2.5K 16 inch QHD Drawing Tablet with Full, with a focus on limiting eligibility to standalone general-purpose tablets if the article sits in the tablet cluster, and cross-checked pressure/tilt and creative app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

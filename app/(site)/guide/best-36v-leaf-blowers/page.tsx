@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Nominal/maximum voltage labeling, Battery Wh, and Tool-only versus kit rarely show up as clear differentiators in a standard listing for 36v leaf blowers, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 124 CFM on the Metabo HPT 18V Cordless Compact Blower up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning Metabo HPT 18V Cordless Compact Blower at $69.00 up to EGO Power+ Cordless Electric Leaf Blower at $379.00, focusing first on verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform. Ecosystem compatibility and sustained output got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning Metabo HPT 18V Cordless Compact Blower up to EGO Power+ Cordless Electric Leaf Blower, focusing first on verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform. Ecosystem compatibility and sustained output got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

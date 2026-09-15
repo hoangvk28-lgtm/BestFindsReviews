@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We used live full-device prices for this comparison rather than chasing short-term sales or discontinued stock, and weighed screen resolution, storage, and named battery life against the absolute lowest price. Several current budget picks here run genuine Android, worth noting since that adds app flexibility most closed budget readers lack.</p>
-          <p>We compared these five current picks by price and named features. Prices here run from roughly $63 to $170.</p>
+          <p>We compared these five current picks by price and named features. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

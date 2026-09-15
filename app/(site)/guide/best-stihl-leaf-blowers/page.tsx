@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing stihl leaf blowers often assume any well-reviewed listing is a safe bet, but Exact current model and market and CFM/MPH mode and nozzle vary enough between these picks to change which one actually fits a given yard, and ready-to-use weight is rarely spelled out clearly on the product page. Airflow alone in this lineup spans from 456 CFM on the Echo 172 MPH 456 CFM 25.4 cc Gas 2-Stroke X Series Handheld Leaf up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Husqvarna 125B Gas Leaf Blower at $219.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with a focus on building a current model map separating handheld, backpack, battery, gas and blower-vac products, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Husqvarna 125B Gas Leaf Blower up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, with a focus on building a current model map separating handheld, backpack, battery, gas and blower-vac products, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Cordless scrub brush is a broad term covering two genuinely different product types: standalone electric spin scrubbers with a built-in battery and motor, and drill brush attachment sets that require you to already own a cordless drill. We separated these clearly here so you know exactly what you're buying.</p>
-          <p>Prices here run from roughly $9 to $45, with standalone electric units generally costing more than drill attachment sets since they include their own motor and battery.</p>
+          <p>Prices here span a wide range across this lineup with standalone electric units generally costing more than drill attachment sets since they include their own motor and battery.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

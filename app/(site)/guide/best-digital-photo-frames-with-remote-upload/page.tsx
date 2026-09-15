@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Remote upload means family and friends anywhere can send photos directly to a frame without needing physical access to it, a meaningfully different feature than local USB loading. We verified genuine remote upload capability, whether via app, email, or both, across each pick here.</p>
-          <p>Prices here run from roughly $47 to $180, with subscription-free remote upload generally commanding a premium over budget app-only alternatives.</p>
+          <p>Prices here span a wide range across this lineup with subscription-free remote upload generally commanding a premium over budget app-only alternatives.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

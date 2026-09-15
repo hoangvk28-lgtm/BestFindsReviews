@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Elevated Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Working height, Reach depth, and Leg stability are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 6 models below, spanning Patiomore 8 Feet Outdoor Wooden Raised Garden Bed at $35.98 up to Best Choice Products 72x24x30in Raised Garden Bed at $129.99, with a focus on measuring working height and maximum comfortable reach from each accessible side, and cross-checked Soil depth and Loaded weight against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Patiomore 8 Feet Outdoor Wooden Raised Garden Bed up to Best Choice Products 72x24x30in Raised Garden Bed, with a focus on measuring working height and maximum comfortable reach from each accessible side, and cross-checked Soil depth and Loaded weight against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

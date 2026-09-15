@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for lightweight garden hoses for seniors can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 10 ft on the Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No up to 50 ft on the Flexzilla Garden Hose 5/8 in. x 50 ft., a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with measuring dry weight, filled weight and dragging force as the starting point, not an afterthought. Prices here run from $10.26 (Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No) to $149.99 (JELLYPIG Cordless Vacuum Cleaner). We also cross-checked Working pressure and measured flow and repairability and warranty against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with measuring dry weight, filled weight and dragging force as the starting point, not an afterthought. Prices here span from the most affordable pick, the Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No, to the priciest pick, the JELLYPIG Cordless Vacuum Cleaner. We also cross-checked Working pressure and measured flow and repairability and warranty against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>10-inch guides often mix 10.0 and 10.1-inch frames as if identical, and ignore resolution differences that matter more than the tenth-inch size gap. We distinguish these explicitly here and compare HD against higher-resolution panels at this size class.</p>
-          <p>We compared these eight current picks by exact size, resolution, and ecosystem. Prices here run from roughly $48 to $180.</p>
+          <p>We compared these eight current picks by exact size, resolution, and ecosystem. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

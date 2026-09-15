@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best LG TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current 2026 family map, Size-specific hardware, and OS/update behavior are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 55" on the LG 55-Inch Class OLED evo AI 4K C5 Series Smart TV w/Dolby Atmos up to 75" on the LG 75-Inch Class Nano AI 4K NU85 Series Smart TV w/AI Sound Pro, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning LG Amazon Exclusive 55-Inch Class QNED AI 4K QNED73 Series Mini LED at $499.99 up to LG 65-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos at $1799.00, with a focus on building a current 2026 model-family map with carryover and discontinued lines clearly marked, and cross-checked Retailer SKU differences and Warranty/support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning LG Amazon Exclusive 55-Inch Class QNED AI 4K QNED73 Series Mini LED up to LG 65-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos, with a focus on building a current 2026 model-family map with carryover and discontinued lines clearly marked, and cross-checked Retailer SKU differences and Warranty/support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

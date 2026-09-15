@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Body height on a spec sheet doesn't tell you how far under a bed frame, sofa, or cabinet toe-kick the cleaning head can actually reach, that depends on how flat the handle reclines and whether the machine still dispenses water and picks up debris correctly at that angle. We prioritized picks with named flat-lying or low-profile design.</p>
-          <p>We compared these seven current picks on named reach and reclining design. Prices here run from roughly $30 to $180.</p>
+          <p>We compared these seven current picks on named reach and reclining design. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

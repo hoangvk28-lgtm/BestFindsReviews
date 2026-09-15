@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 9-Inch Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: actual viewable diagonal, aspect ratio, and weight are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 8.7" on the Lenovo Tab One - Lightweight Tablet - up to 12.5 Hours of YouTube up to 9" on the Lenovo Tab M9-2023 - Tablet - Long Battery Life - 9" HD - Front 2MP &, a real difference worth checking against your own use case.</p>
-          <p>We compared all 6 models below, spanning Lenovo Tab M9 TB310FU Tablet - 9" HD - MediaTek MT6769V/CU Helio G80 at $89.00 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not at $399.99, with a focus on requiring a current supported product pool around the 9-inch class instead of padding the page with obsolete tablets, and cross-checked software support and app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Lenovo Tab M9 TB310FU Tablet - 9" HD - MediaTek MT6769V/CU Helio G80 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not, with a focus on requiring a current supported product pool around the 9-inch class instead of padding the page with obsolete tablets, and cross-checked software support and app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

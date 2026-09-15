@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 10-Inch Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: actual viewable diagonal, aspect ratio, and weight are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the AOC 10 Inch Tablet Android 16 up to 11" on the TABWEE Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 6 models below, spanning Bnegynng Android 16 Tablet 10 inch Tablets at $66.99 up to Amazon Fire HD 10 tablet at $154.99, with a focus on requiring a current supported product pool around the 10-inch class instead of padding the page with obsolete tablets, and cross-checked software support and app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Bnegynng Android 16 Tablet 10 inch Tablets up to Amazon Fire HD 10 tablet, with a focus on requiring a current supported product pool around the 10-inch class instead of padding the page with obsolete tablets, and cross-checked software support and app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Subscription creep has reached digital photo frames too, with some brands gating core sharing behind paid tiers after an initial free period. We verified which picks here maintain genuinely free-forever core sharing versus which require ongoing payment for full functionality.</p>
-          <p>Prices here run from roughly $48 to $275, with subscription-free brands generally commanding a premium over budget alternatives that later push paid tiers.</p>
+          <p>Prices here span a wide range across this lineup with subscription-free brands generally commanding a premium over budget alternatives that later push paid tiers.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

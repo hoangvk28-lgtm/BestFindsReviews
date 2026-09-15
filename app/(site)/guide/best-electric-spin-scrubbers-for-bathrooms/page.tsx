@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Bathroom cleaning covers a wide range of surfaces, tile, tub, fixtures, and grout lines, each with different buildup challenges. We compared current picks explicitly named for bathroom use, prioritizing brush head variety and handle reach.</p>
-          <p>Prices here run from roughly $24 to $50, with named brush head count and handle adjustability generally distinguishing the top picks.</p>
+          <p>Prices here span a wide range across this lineup with named brush head count and handle adjustability generally distinguishing the top picks.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

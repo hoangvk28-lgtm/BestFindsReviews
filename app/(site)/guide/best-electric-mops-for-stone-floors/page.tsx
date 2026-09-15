@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Important safety note: natural stone floors, marble, slate, travertine, and granite, require sealed-surface verification before using any wet or steam mop. Unsealed natural stone can absorb moisture and be permanently damaged, staining, etching, or worse. Steam should only be used on confirmed sealed stone, never on unsealed surfaces. Always use pH-neutral cleaning formulas and avoid acidic cleaners specifically on marble and travertine, which are chemically reactive to acids.</p>
-          <p>We compared these seven current picks with this safety framework in mind. Prices here run from roughly $60 to $220.</p>
+          <p>We compared these seven current picks with this safety framework in mind. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Small garden cart can mean a few different things: a low cubic-capacity bed, a genuinely narrow overall width for tight paths, or a compact folded storage footprint. Each solves a different problem, so it's worth being clear about which one matters most for your yard before comparing capacity numbers.</p>
-          <p>We compared these seven current picks on named capacity, overall size, and whether the design prioritizes storage compactness or maneuverability. Prices here run from roughly $38 to $58.</p>
+          <p>We compared these seven current picks on named capacity, overall size, and whether the design prioritizes storage compactness or maneuverability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

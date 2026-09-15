@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwaves for RVs can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: voltage, amperage, and mounting are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 700W on the COMFEE' Countertop Microwave Oven up to 900W on the TOSHIBA Microwave Oven, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning COMFEE' Countertop Microwave Oven at $69.97 up to RecPro 1.0 Cu. Ft. RV Microwave with Trim Kit at $269.95, with a focus on separating purpose-built RV replacements from ordinary countertop microwaves placed in an RV, and cross-checked ventilation and travel compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning COMFEE' Countertop Microwave Oven up to RecPro 1.0 Cu. Ft. RV Microwave with Trim Kit, with a focus on separating purpose-built RV replacements from ordinary countertop microwaves placed in an RV, and cross-checked ventilation and travel compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

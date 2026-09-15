@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 3-Point Tractor Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: PTO speed and horsepower range, 3-point hitch category, and air outlet direction and control are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 550 CFM on the Thalorus 52cc Backpack Leaf Blower - Gas Powered 550 CFM 230 MPH High up to 850 CFM on the HASANEN Backpack Gas Powered Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to SuperHandy Tow-Behind Leaf Blower at $1698.47, with a focus on building the article around tractor compatibility first, including PTO RPM, horsepower range, hitch category and hydraulic requirements if any, and cross-checked tractor width and transport clearance and dealer parts and service against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower up to SuperHandy Tow-Behind Leaf Blower, with a focus on building the article around tractor compatibility first, including PTO RPM, horsepower range, hitch category and hydraulic requirements if any, and cross-checked tractor width and transport clearance and dealer parts and service against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Important: these are orientation aids, not medical devices, they display time, day, and date clearly to support daily orientation. None of these products treat dementia, prevent wandering, or guarantee reduced confusion, and we're not making those claims here. What genuinely differentiates the picks below are non-abbreviated day/date wording, clear time-of-day indicators (Morning/Afternoon/Evening/Night), medication reminder features, auto-dimming, and thoughtfully discreet packaging that doesn't display words like 'dementia' or 'Alzheimer's' on the outside, a real consideration if this is a gift.</p>
-          <p>We compared these eight current picks on named orientation and discretion features. Prices here run from roughly $26 to $60.</p>
+          <p>We compared these eight current picks on named orientation and discretion features. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

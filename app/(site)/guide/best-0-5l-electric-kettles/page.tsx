@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 0.5L Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: True max fill, Minimum fill, and Full weight are the details most listings gloss over in favor of a generic wattage number. Rated wattage alone in this lineup spans from 600W on the RHD 0.5L Small Portable Electric Kettle up to 1500W on the Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee, a real difference in how fast each one gets water to temperature.</p>
-          <p>We compared all 8 models below, spanning Tanannbay 0.5L Small Portable Electric Tea Kettle Travel Mini Hot Water Boiler at $18.99 up to Cuisinart Electric Kettle at $49.95, with a focus on validate the actual max-fill line against the advertised liter capacity, and cross-checked Footprint and Current product depth against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Tanannbay 0.5L Small Portable Electric Tea Kettle Travel Mini Hot Water Boiler up to Cuisinart Electric Kettle, with a focus on validate the actual max-fill line against the advertised liter capacity, and cross-checked Footprint and Current product depth against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

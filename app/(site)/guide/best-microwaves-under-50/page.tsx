@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwaves Under $50 can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: current price, product support, and output power are the details most listings gloss over in favor of headline wattage and capacity numbers.</p>
-          <p>We compared all 5 models below, spanning FRIGIDAIRE EMW733BLACKAMZ 0.7 Cu. Ft. Microwave at $69.00 up to COMFEE' Countertop Microwave Oven at $85.15, with a focus on verifying live price and exclude products that qualify only through a short-term coupon, and cross-checked usable chamber and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning FRIGIDAIRE EMW733BLACKAMZ 0.7 Cu. Ft. Microwave up to COMFEE' Countertop Microwave Oven, with a focus on verifying live price and exclude products that qualify only through a short-term coupon, and cross-checked usable chamber and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Frameo is a software sharing platform used by many different hardware makers, not a single manufacturer. Treating every Frameo-labeled frame as one product family is genuinely misleading, panel quality, storage, ports, and build differ meaningfully by vendor even though they all run the same app. We verified each specific hardware maker separately here.</p>
-          <p>We compared these eight current Frameo-platform picks by vendor and specs. Prices here run from roughly $60 to $396.</p>
+          <p>We compared these eight current Frameo-platform picks by vendor and specs. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

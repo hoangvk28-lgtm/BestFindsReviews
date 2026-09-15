@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 1.5L Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: True max fill, Minimum fill, and Full weight are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 7 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee at $21.59 up to Cuisinart Electric Kettle at $105.68, with a focus on validate the actual max-fill line against the advertised liter capacity, and cross-checked Footprint and Current product depth against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Amazon Basics Electric Kettle with Glass Carafe for Tea and Coffee up to Cuisinart Electric Kettle, with a focus on validate the actual max-fill line against the advertised liter capacity, and cross-checked Footprint and Current product depth against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

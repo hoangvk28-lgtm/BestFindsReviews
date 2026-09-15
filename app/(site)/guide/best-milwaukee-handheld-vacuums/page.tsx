@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Milwaukee doesn't currently sell a dedicated compact dustbuster-style handheld vacuum in the way Shark or Black+Decker do. Instead, Milwaukee's current lineup consists of cordless wet/dry shop vacuums, genuinely portable and one-handed for many tasks, but positioned and priced as job-site cleanup tools rather than quick home dustbusters. We're being upfront about this distinction before comparing Milwaukee's current models.</p>
-          <p>Prices here run from roughly $122 to $190, reflecting genuine wet/dry shop vacuum capability and Milwaukee's tool-ecosystem positioning.</p>
+          <p>Prices here span a wide range across this lineup reflecting genuine wet/dry shop vacuum capability and Milwaukee's tool-ecosystem positioning.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

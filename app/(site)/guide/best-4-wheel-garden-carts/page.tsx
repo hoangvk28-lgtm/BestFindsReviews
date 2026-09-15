@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A 4-wheel garden cart trades some tight-space maneuverability for real stability, especially with a heavy or unevenly distributed load, since the frame doesn't pivot on two wheels the way a wheelbarrow-style cart does. That stability matters most on side slopes and uneven ground.</p>
-          <p>We compared these seven current 4-wheel picks on rated capacity, frame material, and whether the listing describes removable sides or a rotating handle for easier steering. Prices here run from roughly $76 to $300.</p>
+          <p>We compared these seven current 4-wheel picks on rated capacity, frame material, and whether the listing describes removable sides or a rotating handle for easier steering. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

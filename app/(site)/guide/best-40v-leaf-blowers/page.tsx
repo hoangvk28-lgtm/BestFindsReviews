@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for 40v leaf blowers can look nearly identical in a thumbnail, yet nominal/maximum voltage labeling, battery Wh, and tool-only versus kit are exactly the details a generic spec sheet tends to leave out. Airflow alone in this lineup spans from 135 CFM on the Greenworks 40V Cordless Leaf Blower up to 800 CFM on the Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform as the starting point, not an afterthought. Prices here run from $102.85 (Greenworks 40V Electric Leaf Blower) to $359.57 (Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower). We also cross-checked Ecosystem compatibility and sustained output against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform as the starting point, not an afterthought. Prices here span from the most affordable pick, the Greenworks 40V Electric Leaf Blower, to the priciest pick, the Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower. We also cross-checked Ecosystem compatibility and sustained output against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

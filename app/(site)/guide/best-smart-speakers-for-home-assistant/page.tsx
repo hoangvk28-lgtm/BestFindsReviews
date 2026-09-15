@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "Home Assistant" in this context refers to the open-source home automation platform (home-assistant.io), not general smart home use. This is a genuinely important distinction, no consumer smart speaker runs Home Assistant natively out of the box, every pick here works as an integration bridge or companion device rather than a replacement for a dedicated Home Assistant server.</p>
-          <p>We compared these six current picks by their real integration path into a Home Assistant setup. Prices here run from roughly $50 to $219.</p>
+          <p>We compared these six current picks by their real integration path into a Home Assistant setup. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

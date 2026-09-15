@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 8-Inch Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: actual viewable diagonal, aspect ratio, and weight are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 7" on the HOTTABLET Tablet 7Inch Android 14.0 with Protective Case up to 8.7" on the Lenovo Tab One - Lightweight Tablet - up to 12.5 Hours of YouTube, a real difference worth checking against your own use case.</p>
-          <p>We compared all 6 models below, spanning HOTTABLET Tablet 7Inch Android 14.0 with Protective Case at $38.99 up to Amazon Fire HD 8 tablet at $129.99, with a focus on requiring a current supported product pool around the 8-inch class instead of padding the page with obsolete tablets, and cross-checked software support and app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning HOTTABLET Tablet 7Inch Android 14.0 with Protective Case up to Amazon Fire HD 8 tablet, with a focus on requiring a current supported product pool around the 8-inch class instead of padding the page with obsolete tablets, and cross-checked software support and app ecosystem against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs for Bedrooms can look similar in a listing photo but differ in ways that matter once real daily use is involved: Minimum brightness, Sleep timer, and Startup behavior are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 27" on the LG - 27" Class LED Full HD Smart TV Monitor with webOS up to 43" on the Roku Smart TV - 43-Inch Select Series 4K HDR RokuTV with Roku, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning INSIGNIA 32" Class F20 Series LED HD Smart Fire TV at $69.99 up to Samsung 32-Inch Class QLED Q8F 4K UHD Smart TV (2025 Model) Q4 AI at $397.99, with a focus on measuring minimum comfortable brightness in a dark room, and cross-checked Private listening and Nighttime remote visibility against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning INSIGNIA 32" Class F20 Series LED HD Smart Fire TV up to Samsung 32-Inch Class QLED Q8F 4K UHD Smart TV (2025 Model) Q4 AI, with a focus on measuring minimum comfortable brightness in a dark room, and cross-checked Private listening and Nighttime remote visibility against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

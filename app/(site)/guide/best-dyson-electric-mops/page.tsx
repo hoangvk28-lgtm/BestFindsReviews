@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Dyson's dedicated wet-floor cleaner lineup is still genuinely nascent, and the naming can mislead buyers. Clean+Wash and PencilWash are Dyson's purpose-built electric mops, officially dedicated wet floor cleaners rather than conventional vacuums. The V15s Detect Submarine is a different product entirely, a premium all-in-one vacuum with a wet-mopping roller head. A wet mop attachment for existing Dyson stick vacuums is also a genuine but third-party option, not a Dyson product itself.</p>
-          <p>We compared these four current options on named product class and price, with honest notes on limited review history since this category is still young for Dyson. Prices here run from roughly $60 to $879.</p>
+          <p>We compared these four current options on named product class and price, with honest notes on limited review history since this category is still young for Dyson. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Longest-Running Cordless Vacuums can look similar in a listing photo but differ in ways that matter once real daily use is involved: Powered-floorhead runtime, Mode used, and Battery watt-hours are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 50 min on the Levoit Cordless Vacuum Cleaner up to 140 min on the Klarpul Cordless Vacuum Cleaner, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Klarpul Cordless Vacuum Cleaner at $119.99 up to Miele Triflex HX2 Pro 3-in-1 Cordless Stick Vacuum at $1125.00, with a focus on measuring normal-mode powered-floorhead runtime on hard floor, and cross-checked Charge time and Swap behavior against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Klarpul Cordless Vacuum Cleaner up to Miele Triflex HX2 Pro 3-in-1 Cordless Stick Vacuum, with a focus on measuring normal-mode powered-floorhead runtime on hard floor, and cross-checked Charge time and Swap behavior against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

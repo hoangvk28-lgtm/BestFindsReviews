@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This category spans a wide spectrum, from ultra-portable budget options for everyday carry to premium portable picks with built-in power banks, plus a genuine smart hybrid that adds Wi-Fi and voice assistant capability on top of Bluetooth. We organized these six current picks by size and portability tier to match your actual use case.</p>
-          <p>We compared these picks on durability rating, battery life, and price. Prices here run from roughly $24 to $310.</p>
+          <p>We compared these picks on durability rating, battery life, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

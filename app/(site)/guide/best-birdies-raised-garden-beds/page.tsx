@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Birdies Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Current US models, Steel and coating specification, and Internal bracing are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Quictent 8x4x1ft Galvanized Raised Garden Bed with Cover up to 24 inches on the Lineware Raised Garden Bed with Self-Watering System, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 6 models below, spanning Miory Raised Garden Bed with PE Cover at $49.99 up to Quictent 8x4x1ft Galvanized Raised Garden Bed with Cover at $99.99, with a focus on building a current US model matrix separating 15-inch, 29-inch, large and jumbo kits, and cross-checked Configuration count and Warranty exclusions against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Miory Raised Garden Bed with PE Cover up to Quictent 8x4x1ft Galvanized Raised Garden Bed with Cover, with a focus on building a current US model matrix separating 15-inch, 29-inch, large and jumbo kits, and cross-checked Configuration count and Warranty exclusions against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Garden cart is not one product class. This comparison spans steel utility carts, dump carts, and poly wagons, and each type trades capacity, weight, and dumping convenience differently. Rated capacity alone in this lineup runs from 300 lbs up to 1200 lbs, a real spread worth matching to what you'll actually be hauling rather than picking on price alone.</p>
-          <p>We compared these eight current carts on tire construction, dump or unload mechanism, and real bed capacity rather than ranking on advertised pounds alone. Prices here span roughly $76 to $300, and the gap tracks real differences in steel gauge, tire type, and dump hardware, not just brand markup.</p>
+          <p>We compared these eight current carts on tire construction, dump or unload mechanism, and real bed capacity rather than ranking on advertised pounds alone. Prices here span roughly to and the gap tracks real differences in steel gauge, tire type, and dump hardware, not just brand markup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

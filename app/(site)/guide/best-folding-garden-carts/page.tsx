@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A folding garden cart's whole appeal is collapsing down for storage in a car trunk, closet, or small shed, but that convenience only matters if the frame still holds up under a real load once unfolded. Wheel size in particular affects how well a folding cart handles grass and gravel versus a smooth driveway.</p>
-          <p>We compared these seven current picks on rated capacity, wheel construction, and named durability features like brakes or all-terrain wheels. Prices here run from roughly $40 to $79.</p>
+          <p>We compared these seven current picks on rated capacity, wheel construction, and named durability features like brakes or all-terrain wheels. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

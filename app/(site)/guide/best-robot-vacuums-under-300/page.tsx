@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Under $300 is the entry tier for robot vacuums that still offer real navigation and app control rather than the bump-and-turn randomness of the cheapest models. This guide is distinct from our separate Under $200 and Under $500 guides, and it sits in the middle: you get more suction, better mapping, and in several cases a basic mop function that budget models under $200 typically skip entirely.</p>
-          <p>What you still give up compared to a $500 model is mostly at the dock and in the mapping software. Self-empty bases are rare below $300 and, when present, tend to hold less debris than a $500 unit base. Room-by-room mapping and no-go zones are often simplified or missing, and mop function here usually means a damp pad dragged behind the vacuum rather than a vibrating or rotating mop head. We evaluated eight current models to show which tradeoffs are worth making at this price and which ones matter enough to justify stepping up a tier.</p>
+          <p>What you still give up compared to a pricier model is mostly at the dock and in the mapping software. Self-empty bases are rare below $300 and, when present, tend to hold less debris than a premium-tier unit base. Room-by-room mapping and no-go zones are often simplified or missing, and mop function here usually means a damp pad dragged behind the vacuum rather than a vibrating or rotating mop head. We evaluated eight current models to show which tradeoffs are worth making at this price and which ones matter enough to justify stepping up a tier.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

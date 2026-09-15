@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Small business phone needs generally exceed generic home cordless phones, real line management, conference calling, headset compatibility, and enough handsets for multiple staff members matter more than accessibility or entertainment features. AT&T's business-branded DLP series, dedicated 2-line systems, and larger handset-count bundles all currently serve this niche.</p>
-          <p>We compared these seven current picks on named business features, handset or line count, and price. Prices here run from roughly $91 to $280.</p>
+          <p>We compared these seven current picks on named business features, handset or line count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

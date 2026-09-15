@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>End-to-end lip sync depends on more than a codec label, it depends on the TV's own processing, the transmitter, and how quickly a connection negotiates. We prioritized picks naming specific millisecond latency figures over generic no-delay marketing language, since a precise number is more verifiable than vague claims.</p>
-          <p>We compared these five current picks on named latency and price. Prices here run from roughly $40 to $90.</p>
+          <p>We compared these five current picks on named latency and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

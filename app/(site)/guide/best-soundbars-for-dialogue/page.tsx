@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For dialogue-focused buyers, named speech-enhancement modes and dedicated center channels matter more than Dolby Atmos or channel count. We prioritized picks that explicitly name dialogue or voice-enhancement features, since these directly address the most common complaint about modern TV audio: mumbled or hard-to-hear speech.</p>
-          <p>We compared these five current picks on named dialogue features and price. Prices here run from roughly $40 to $279.</p>
+          <p>We compared these five current picks on named dialogue features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

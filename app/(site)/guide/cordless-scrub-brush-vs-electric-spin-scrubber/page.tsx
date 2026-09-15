@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>In practice, cordless scrub brush and electric spin scrubber refer to largely the same category of standalone battery-powered cleaning tool, current Amazon listings use these terms interchangeably rather than as distinct product types. The one genuine distinction worth understanding is standalone units versus drill attachment sets, which we clarify here.</p>
-          <p>Prices here run from roughly $9 to $45. Rather than presenting these as two separate product categories, we're using this comparison to clarify terminology and help you shop with accurate expectations.</p>
+          <p>Prices here span a wide range across this lineup. Rather than presenting these as two separate product categories, we're using this comparison to clarify terminology and help you shop with accurate expectations.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

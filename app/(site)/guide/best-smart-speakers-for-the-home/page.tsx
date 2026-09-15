@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Choosing a smart speaker for your home starts with your existing ecosystem, Amazon smart home devices pair best with Echo, Apple HomeKit pairs best with HomePod, Google Home devices pair best with Nest, and if you want flexibility across ecosystems or prioritize audio quality, Sonos and Bose offer multi-assistant options.</p>
-          <p>We compared these seven current picks organized by ecosystem and room fit. Prices here run from roughly $50 to $300.</p>
+          <p>We compared these seven current picks organized by ecosystem and room fit. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

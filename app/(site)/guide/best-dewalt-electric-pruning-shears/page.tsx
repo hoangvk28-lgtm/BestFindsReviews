@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>DeWalt currently sells a genuine 20V MAX cordless pruner directly, and several third-party brands sell DeWalt-battery-compatible shears at a fraction of the price. Both are legitimate options, but they're different purchases: the genuine DeWalt tool carries DeWalt's own warranty and service support, while compatible bare tools depend on your existing DeWalt batteries and the third-party brand's own support.</p>
-          <p>We compared these seven current picks on genuine DeWalt versus DeWalt-compatible status, named cutting diameter, and battery configuration. Prices here run from roughly $45 to $265.</p>
+          <p>We compared these seven current picks on genuine DeWalt versus DeWalt-compatible status, named cutting diameter, and battery configuration. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

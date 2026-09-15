@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Drip coffee maker roundups tend to blend basic $30 machines, SCA-certified brewers, and multifunction models into one list ranked by star rating alone, without separating what actually differs: brew temperature, small-batch performance, and how much cleaning each design requires.</p>
+          <p>Drip coffee maker roundups tend to blend basic machines, SCA-certified brewers, and multifunction models into one list ranked by star rating alone, without separating what actually differs: brew temperature, small-batch performance, and how much cleaning each design requires.</p>
           <p>We researched four current drip brewers spanning budget to premium and checked each against the general industry benchmark for good extraction, roughly 195 to 205 degrees Fahrenheit contact temperature as referenced by the Specialty Coffee Association, along with small-batch handling, carafe heat retention, and what ownership actually costs beyond the sticker price.</p>
         </section>
 

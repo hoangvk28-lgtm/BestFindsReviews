@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Samsung TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current 2026 family map, Size-specific hardware, and OS/update behavior are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 43" on the Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV up to 98" on the Samsung 98-Inch Class QLED Q7F Series Samsung Vision AI Smart TV, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV at $297.99 up to Samsung 77-Inch Class S90H Series at $2747.99, with a focus on building a current 2026 model-family map with carryover and discontinued lines clearly marked, and cross-checked Retailer SKU differences and Warranty/support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV up to Samsung 77-Inch Class S90H Series, with a focus on building a current 2026 model-family map with carryover and discontinued lines clearly marked, and cross-checked Retailer SKU differences and Warranty/support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Garden Bed vs Planter Box can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Bottomed versus open, Elevated versus ground-contact, and Soil depth are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Tegarbed Galvanized Raised Garden Bed Outdoor up to 24 inches on the Best Choice Products 6x3x2ft Outdoor Metal Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 8 models below, spanning Tegarbed Galvanized Raised Garden Bed Outdoor at $29.99 up to Best Choice Products 6x3x2ft Outdoor Metal Raised Garden Bed at $89.99, with a focus on defining raised garden bed, planter box and elevated planter before comparing them, and cross-checked Mobility and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Tegarbed Galvanized Raised Garden Bed Outdoor up to Best Choice Products 6x3x2ft Outdoor Metal Raised Garden Bed, with a focus on defining raised garden bed, planter box and elevated planter before comparing them, and cross-checked Mobility and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

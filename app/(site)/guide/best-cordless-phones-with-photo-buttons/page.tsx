@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: dedicated fully cordless photo-button phones are genuinely limited in the current market, most current products in this niche are corded, or corded-base-with-cordless-handset hybrids. VTech's SN51xx family is the most commonly cited example of a hybrid system, a corded base (SN5147) paired with cordless accessory handsets (SN5307), but we were unable to verify current stock and pricing for that exact family through available product data during this research pass.</p>
-          <p>Below we cover the current photo-button product we could directly verify, a genuinely capable corded model with 9-picture one-touch dialing, plus honest guidance on the hybrid and corded alternatives worth checking directly if a fully cordless option matters to you. Price for the verified pick is $28.29.</p>
+          <p>Below we cover the current photo-button product we could directly verify, a genuinely capable corded model with 9-picture one-touch dialing, plus honest guidance on the hybrid and corded alternatives worth checking directly if a fully cordless option matters to you. Price for the verified pick is .</p>
         </section>
 
         {buyingCriteria.length > 0 && (

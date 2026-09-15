@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Steam Carpet Cleaners can look similar in a listing photo but differ in ways that matter once real daily use is involved: actual steam generation, steam-only versus wash mode, and surface approval are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Uwant Carpet Cleaner Machine 18Kpa Portable Carpet Cleaner for Cars at $69.98 up to BISSELL Revolution HydroSteam Pet Carpet Cleaner at $314.99, with a focus on defining steam carpet cleaner as a machine that actually generates steam, not any hot-water carpet extractor, and cross-checked heat-up time and water recovery against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Uwant Carpet Cleaner Machine 18Kpa Portable Carpet Cleaner for Cars up to BISSELL Revolution HydroSteam Pet Carpet Cleaner, with a focus on defining steam carpet cleaner as a machine that actually generates steam, not any hot-water carpet extractor, and cross-checked heat-up time and water recovery against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwaves for Dorm Rooms can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: school policy, wattage, and circuit load are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 700W on the COMFEE' Countertop Microwave Oven up to 900W on the TOSHIBA Microwave Oven, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning Farberware 0.7 Cu. Ft. Countertop Microwave Oven at $67.99 up to TOSHIBA Microwave Oven at $94.99, with a focus on stating clearly that dorm appliance rules vary by institution and must be checked before purchase, and cross-checked footprint and safety against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Farberware 0.7 Cu. Ft. Countertop Microwave Oven up to TOSHIBA Microwave Oven, with a focus on stating clearly that dorm appliance rules vary by institution and must be checked before purchase, and cross-checked footprint and safety against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

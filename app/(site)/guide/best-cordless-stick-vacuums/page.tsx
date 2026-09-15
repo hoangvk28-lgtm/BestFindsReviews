@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Cordless Stick Vacuums can look similar in a listing photo but differ in ways that matter once real daily use is involved: Real pickup performance, Ready-to-use weight/ergonomics, and Powered-tool runtime are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 40 min on the Shark Pet Cordless Stick Vacuum up to 70 min on the JELLYPIG Cordless Vacuum Cleaner, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning KARDV Cordless Vacuum Cleaner at $99.99 up to Shark Pet Cordless Stick Vacuum at $279.99, with a focus on measuring runtime with the powered floorhead on hard floor and carpet, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning KARDV Cordless Vacuum Cleaner up to Shark Pet Cordless Stick Vacuum, with a focus on measuring runtime with the powered floorhead on hard floor and carpet, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

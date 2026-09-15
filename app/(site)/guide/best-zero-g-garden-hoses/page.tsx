@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for zero-g garden hoses can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 10 ft on the Flexzilla Garden Lead-in Hose 5/8 in. x 10 ft. up to 100 ft on the Flexzilla Garden Hose 5/8 in. x 100 ft., a real difference worth checking against your own use case.</p>
-          <p>We put 7 models head-to-head below, spanning Flexzilla Garden Lead-in Hose 5/8 in. x 10 ft. at $13.11 up to Flexzilla Garden Hose 5/8 in. x 100 ft. at $69.00, focusing first on building a current model map by material, length, diameter and intended use. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 7 models head-to-head below, spanning Flexzilla Garden Lead-in Hose 5/8 in. x 10 ft. up to Flexzilla Garden Hose 5/8 in. x 100 ft., focusing first on building a current model map by material, length, diameter and intended use. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Video Doorbells Without Wi-Fi can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet. Note that local storage and local networking are different claims: a doorbell can save clips to a microSD card while still requiring Wi-Fi for live view and setup, so genuinely offline operation usually points toward a wired intercom system instead.</p>
-          <p>We compared all 8 models below, spanning KALOGL Video Doorbell Wireless with Screen 1080p at $47.99 up to ACEBELL Wireless Smart Video Doorbell Intercom System at $189.99, with a focus on requiring useful operation without a Wi-Fi network rather than merely without a subscription, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning KALOGL Video Doorbell Wireless with Screen 1080p up to ACEBELL Wireless Smart Video Doorbell Intercom System, with a focus on requiring useful operation without a Wi-Fi network rather than merely without a subscription, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

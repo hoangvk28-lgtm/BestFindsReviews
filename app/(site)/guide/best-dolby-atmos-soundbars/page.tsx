@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Accepting a Dolby Atmos signal isn't the same as producing convincing overhead sound. We separated soundbars with genuine physical up-firing drivers, which bounce sound off your ceiling for real height effects, from those using virtual Atmos processing that simulates height through software alone. Both are legitimate approaches, but they perform differently, and we flag which each pick uses.</p>
-          <p>We compared these seven current picks on Atmos implementation and price. Prices here run from roughly $100 to $500.</p>
+          <p>We compared these seven current picks on Atmos implementation and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

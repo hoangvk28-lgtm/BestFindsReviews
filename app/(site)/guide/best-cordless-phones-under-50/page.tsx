@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A genuinely capable cordless phone system is available well under $50, VTech and Panasonic both currently sell models in this range with real features like hearing aid compatibility, call blocking, and full-duplex speakerphones. This comparison sticks strictly to confirmed cordless models under $50, corded phones and pricier cordless systems are covered in separate guides.</p>
-          <p>We compared these six current picks, all confirmed cordless and under $50, on features and price. Prices here run from roughly $23 to $40.</p>
+          <p>We compared these six current picks, all confirmed cordless and under $50, on features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

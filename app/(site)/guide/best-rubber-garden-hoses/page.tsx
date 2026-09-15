@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that rubber garden hoses are basically interchangeable once you've picked a price range. In practice, Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling are the factors that separate a pick you'll be happy with from one you'll want to return. Length alone in this lineup spans from 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI up to 75 ft on the EOOIO Garden Hose 75 ft x 5/8", a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning EOOIO Garden Hose 25 ft x 5/8" at $19.99 up to Pocket Hose Ballistic 75 FT Expandable Garden Hose at $89.99, focusing first on publishing dry and filled weight per 50 feet. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning EOOIO Garden Hose 25 ft x 5/8" up to Pocket Hose Ballistic 75 FT Expandable Garden Hose, focusing first on publishing dry and filled weight per 50 feet. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying craftsman garden hoses, the more useful question isn't just which one is cheapest, but which one actually holds up on current US product pool. That, along with Inside diameter and fitting restriction and Dry versus filled handling, is what we dug into for the picks below. Length alone in this lineup spans from 50 ft on the Bionic Steel PRO 50 Ft Metal Garden Hose with Brass Nozzle up to 100 ft on the Tuzoc Rcfunkid Garden Hose 100FT No-Kink Metal Hose With 10 Function Nozzle, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes building a current model map by material, length, diameter and intended use over spec-sheet comparisons alone. Prices here run from $28.43 (Relxitl Garden Hose) to $55.97 (Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water). Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes building a current model map by material, length, diameter and intended use over spec-sheet comparisons alone. Prices here span from the most affordable pick, the Relxitl Garden Hose, to the priciest pick, the Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water. Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

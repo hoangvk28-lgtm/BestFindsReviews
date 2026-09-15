@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Microwave vs Air Fryer can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: equal food load, time, and energy are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 900W on the BLACK+DECKER 5-in-1 Microwave Oven Air Fryer Combo up to 1000W on the TOSHIBA Countertop Microwave Oven, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning Chefman Countertop Microwave Oven 1.1 Cu. Ft. at $89.93 up to TOSHIBA 4-in-1 Countertop Microwave Oven with Air Fryer at $229.85, with a focus on using equal food mass, starting temperature and serving target, and cross-checked texture and workflow against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Chefman Countertop Microwave Oven 1.1 Cu. Ft. up to TOSHIBA 4-in-1 Countertop Microwave Oven with Air Fryer, with a focus on using equal food mass, starting temperature and serving target, and cross-checked texture and workflow against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors, setup simplicity and dialogue clarity matter more than Dolby Atmos or channel count. We prioritized picks with genuinely simple HDMI ARC setup, named dialogue-enhancement features, and included remotes, since a soundbar that requires an app or complex configuration adds real friction for less tech-frequent users.</p>
-          <p>We compared these five current picks on setup simplicity and dialogue features. Prices here run from roughly $28 to $279.</p>
+          <p>We compared these five current picks on setup simplicity and dialogue features. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

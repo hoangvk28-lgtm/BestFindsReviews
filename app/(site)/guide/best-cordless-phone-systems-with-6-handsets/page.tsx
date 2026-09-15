@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: no current AT&T, VTech, or Panasonic listing we found preconfigures a genuine 6-handset bundle out of the box. The realistic path to six handsets is buying a 5-handset system and adding one expansion handset, or expanding a smaller system further, since all the platforms in this comparison support DECT 6.0 expansion.</p>
-          <p>We compared the strongest current 5-handset systems to expand from, on named expansion limits, features, and price. Prices here run from roughly $100 to $170 for the base system, before adding an expansion handset.</p>
+          <p>We compared the strongest current 5-handset systems to expand from, on named expansion limits, features, and price. Prices here span a wide range across this lineup for the base system, before adding an expansion handset.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

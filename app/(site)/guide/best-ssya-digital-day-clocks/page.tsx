@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: SSYA's current lineup centers on one core model, the Z071, offered in two screen sizes and two color options. The shared review count across these four ASINs reflects consolidated reviews for the same underlying product line rather than four independently proven designs.</p>
-          <p>We compared these four current SSYA picks on screen size and color. Prices here run from roughly $30 to $40.</p>
+          <p>We compared these four current SSYA picks on screen size and color. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds on Wheels can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Loaded rolling force, Caster rating, and Lock quality are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 32 inches on the Chuangshuo Guard Elevate 2Pcs 32" Tall Raised Garden Bed with Wheel up to 33.7 inches on the WTFGO Elevate 33.7" Tall Raised Garden Bed with Wheels, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 8 models below, spanning NBYSGO Raised Garden Bed with Wheels at $39.99 up to GYMHILL Elevated Raised Garden Bed with Wheels at $63.99, with a focus on measuring rolling force on concrete, pavers, decking and small thresholds with wet soil, and cross-checked Surface compatibility and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning NBYSGO Raised Garden Bed with Wheels up to GYMHILL Elevated Raised Garden Bed with Wheels, with a focus on measuring rolling force on concrete, pavers, decking and small thresholds with wet soil, and cross-checked Surface compatibility and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

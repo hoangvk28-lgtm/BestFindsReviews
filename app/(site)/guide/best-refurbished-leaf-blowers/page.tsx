@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Current retail language favors "refurbished" and "reconditioned" over "remanufactured" for leaf blowers, so this guide uses that terminology and requires a real refurbisher standard, not just a used listing. Best Refurbished Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: seller refurbishment standard, battery condition, and warranty are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 180 CFM on the BLACK+DECKER Electric Leaf Blower up to 765 CFM on the EGO POWER+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning BLACK+DECKER Electric Leaf Blower at $49.00 up to EGO POWER+ Cordless Electric Leaf Blower at $359.00, with a focus on retitling around Refurbished or Factory-Reconditioned Leaf Blowers unless keyword data clearly proves remanufactured intent, and cross-checked included accessories and return policy against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BLACK+DECKER Electric Leaf Blower up to EGO POWER+ Cordless Electric Leaf Blower, with a focus on retitling around Refurbished or Factory-Reconditioned Leaf Blowers unless keyword data clearly proves remanufactured intent, and cross-checked included accessories and return policy against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

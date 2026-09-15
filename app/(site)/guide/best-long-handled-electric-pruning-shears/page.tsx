@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A long-handled or pole-style electric pruning shear extends your reach into a canopy without a ladder, real value for taller trees or hedges where a standard handheld shear leaves branches out of reach. Reach distance and cutting diameter vary meaningfully across current models.</p>
-          <p>We compared these six current pole-style picks on named reach, cutting diameter, and price. Prices here run from roughly $57 to $170, and stated reach spans from a fixed short pole up to 9 feet extendable.</p>
+          <p>We compared these six current pole-style picks on named reach, cutting diameter, and price. Prices here span a wide range across this lineup and stated reach spans from a fixed short pole up to 9 feet extendable.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

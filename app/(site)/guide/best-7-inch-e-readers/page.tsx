@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We required roughly 7.0-inch displays for this comparison and labeled any meaningful size difference honestly. This size class spans closed ecosystems (Kindle, Kobo, PocketBook) and open Android devices (Musnap), a genuine choice between simplicity and app flexibility at a consistent screen size.</p>
-          <p>We compared these five current picks on ecosystem and color capability. Prices here run from roughly $180 to $327.</p>
+          <p>We compared these five current picks on ecosystem and color capability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

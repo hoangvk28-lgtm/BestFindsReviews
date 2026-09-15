@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best OLED TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Bright-room reflection, Panel/coating variant, and Near-black detail are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 42" on the LG 42-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos up to 77" on the Samsung 77-Inch Class S90H Series, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning LG 42-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos at $1199.99 up to Samsung 77-Inch Class S90H Series at $2747.99, with a focus on measuring bright-room usability with reflections and sustained brightness, not peak highlights only, and cross-checked HDR format support and Burn-in context against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning LG 42-Inch Class OLED evo AI 4K C6 Series Smart TV w/Dolby Atmos up to Samsung 77-Inch Class S90H Series, with a focus on measuring bright-room usability with reflections and sustained brightness, not peak highlights only, and cross-checked HDR format support and Burn-in context against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

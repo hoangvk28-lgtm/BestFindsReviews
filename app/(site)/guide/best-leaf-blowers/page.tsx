@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight rarely show up as clear differentiators in a standard listing for leaf blowers, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 100 CFM on the DEWALT 20V MAX Blower up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with testing dry leaves, wet leaves, pine needles and gravel-edge cleanup separately as the starting point, not an afterthought. Prices here run from $39.98 (MZK 20V Cordless Leaf Blower) to $698.99 (Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with testing dry leaves, wet leaves, pine needles and gravel-edge cleanup separately as the starting point, not an afterthought. Prices here span from the most affordable pick, the MZK 20V Cordless Leaf Blower, to the priciest pick, the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower. We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

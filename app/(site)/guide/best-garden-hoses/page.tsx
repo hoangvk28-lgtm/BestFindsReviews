@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing garden hoses often assume any well-reviewed listing is a safe bet, but Current US product pool and Inside diameter and fitting restriction vary enough between these picks to change which one actually fits a given yard, and dry versus filled handling is rarely spelled out clearly on the product page. Length alone in this lineup spans from 50 ft on the Flexzilla Garden Hose 5/8 in. x 50 ft. up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning Doorich Garden Hose at $29.99 up to Pocket Hose Ballistic 50 FT Expandable Garden Hose at $59.99, focusing first on publishing dry and water-filled weight so handling is not judged from empty-hose marketing. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning Doorich Garden Hose up to Pocket Hose Ballistic 50 FT Expandable Garden Hose, focusing first on publishing dry and water-filled weight so handling is not judged from empty-hose marketing. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

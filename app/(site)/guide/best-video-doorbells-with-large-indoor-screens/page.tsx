@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Video Doorbells With Large Indoor Screens can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning KALOGL Video Doorbell Wireless with Screen 1080p at $47.99 up to ACEBELL Wireless Smart Video Doorbell Intercom System at $189.99, with a focus on measuring usable screen area, viewing angle and text size, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning KALOGL Video Doorbell Wireless with Screen 1080p up to ACEBELL Wireless Smart Video Doorbell Intercom System, with a focus on measuring usable screen area, viewing angle and text size, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

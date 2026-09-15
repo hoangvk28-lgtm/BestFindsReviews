@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: these are assistive listening devices, not medical hearing treatment. We evaluated named speech-clarity features, independent headset volume, and audio mode flexibility without claiming they treat hearing loss, and prioritized picks that let TV speakers run independently for other viewers.</p>
-          <p>We compared these four current picks on speech clarity and volume independence. Prices here run from roughly $50 to $230.</p>
+          <p>We compared these four current picks on speech clarity and volume independence. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

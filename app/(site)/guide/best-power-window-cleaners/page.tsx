@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This guide covers the same category as our broader electric window cleaner comparison, with a specific focus here on the highest named suction ratings and models built for larger cleaning jobs, including extension-pole reach for taller windows.</p>
-          <p>Prices here run from roughly $47 to $80. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
+          <p>Prices here span a wide range across this lineup. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

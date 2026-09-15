@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>AT&T's current cordless phone lineup remains active through its dedicated telephone store, spanning the accessible BL102 series up to business-branded DLP models with color displays and conference calling. Handset count, Bluetooth cell link, and business features vary meaningfully across the current catalog.</p>
-          <p>We compared these eight current AT&T picks on named handset count, features, and price. Prices here run from roughly $43 to $280.</p>
+          <p>We compared these eight current AT&T picks on named handset count, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that quietest leaf blowers are basically interchangeable once you've picked a price range. In practice, Operator-ear dBA, 50-foot/bystander dBA, and Test mode/output are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 360 CFM on the WORX Cordless Leaf Blower up to 800 CFM on the Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes measuring operator-ear and 50-foot sound under the same output mode over spec-sheet comparisons alone. Prices here run from $89.99 (WORX Cordless Leaf Blower) to $359.57 (Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower). Frequency/tonal character and Local noise rules were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes measuring operator-ear and 50-foot sound under the same output mode over spec-sheet comparisons alone. Prices here span from the most affordable pick, the WORX Cordless Leaf Blower, to the priciest pick, the Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower. Frequency/tonal character and Local noise rules were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

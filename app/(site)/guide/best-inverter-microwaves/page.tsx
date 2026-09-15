@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Inverter Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: low-power behavior, defrosting, and heating speed are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 1200W on the Panasonic Microwave Oven NN-SN686S Stainless Steel up to 1250W on the Panasonic NN-SN76LS 1.6 cu.ft Cyclonic Inverter Countertop Microwave, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning TOSHIBA Flatbed Microwave Oven with Inverter Technology at $199.99 up to Panasonic NN-SN76LS 1.6 cu.ft Cyclonic Inverter Countertop Microwave at $329.95, with a focus on testing low-power settings with butter softening, chocolate, defrosting and reheating delicate foods, and cross-checked sensor accuracy and energy draw against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning TOSHIBA Flatbed Microwave Oven with Inverter Technology up to Panasonic NN-SN76LS 1.6 cu.ft Cyclonic Inverter Countertop Microwave, with a focus on testing low-power settings with butter softening, chocolate, defrosting and reheating delicate foods, and cross-checked sensor accuracy and energy draw against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

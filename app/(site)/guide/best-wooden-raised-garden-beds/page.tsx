@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Wooden Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Wood species, Treatment, and Moisture movement are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 8 models below, spanning Plant & Plot Galvanized Raised Garden Beds Outdoor // 4×2×1 ft at $17.97 up to Land Guard 3 Pack 8×4×1ft Galvanized Metal Raised Garden Bed at $99.99, with a focus on separating cedar, fir, pine, treated lumber and composite-look products, and cross-checked Fasteners and Expected service life against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Plant & Plot Galvanized Raised Garden Beds Outdoor // 4×2×1 ft up to Land Guard 3 Pack 8×4×1ft Galvanized Metal Raised Garden Bed, with a focus on separating cedar, fir, pine, treated lumber and composite-look products, and cross-checked Fasteners and Expected service life against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Non-Bluetooth TV headphones are mainly dedicated RF or proprietary 2.4GHz transmitter systems. We identified which technology each pick actually uses and verified named range and interference resistance, since these systems can offer real advantages over Bluetooth for older TVs, predictable connections, or dedicated long-range use.</p>
-          <p>We compared these four current picks by technology type and price. Prices here run from roughly $40 to $180.</p>
+          <p>We compared these four current picks by technology type and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

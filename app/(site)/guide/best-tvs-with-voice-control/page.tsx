@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs With Voice Control can look similar in a listing photo but differ in ways that matter once real daily use is involved: Hands-free support, Remote mic requirement, and Command coverage are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 32" on the Amazon Ember 32" 2-Series with Fire TV up to 77" on the LG 77-Inch Class OLED evo AI 4K C5 Series Smart TV w/Dolby Atmos, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Amazon Fire TV Alexa Voice Remote Pro (newest model) with remote at $24.99 up to LG 77-Inch Class OLED evo AI 4K C5 Series Smart TV w/Dolby Atmos at $1879.99, with a focus on listing hands-free commands versus remote-mic commands and commands needing confirmation, and cross-checked Latency and Mic privacy controls against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Amazon Fire TV Alexa Voice Remote Pro (newest model) with remote up to LG 77-Inch Class OLED evo AI 4K C5 Series Smart TV w/Dolby Atmos, with a focus on listing hands-free commands versus remote-mic commands and commands needing confirmation, and cross-checked Latency and Mic privacy controls against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

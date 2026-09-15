@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For taller windows or upper-story glass, an electric window cleaner with a named extension pole avoids needing a ladder for every pass. We verified genuine named pole length across current picks here, distinct from standard handheld models covered elsewhere in our broader window cleaner coverage.</p>
-          <p>Prices here run from roughly $60 to $80. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
+          <p>Prices here span a wide range across this lineup. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

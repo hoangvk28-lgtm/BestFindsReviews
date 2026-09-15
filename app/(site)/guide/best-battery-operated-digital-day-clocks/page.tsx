@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Important distinction: "battery operated" and "battery backup" mean genuinely different things. True battery-only operation, where the display runs continuously on batteries without needing AC power at all, is limited in this category, most large color day clocks are AC-powered devices where a backup battery only preserves time and settings during an outage without keeping the screen lit. We verified which current picks are genuinely battery-only versus AC-powered with backup.</p>
-          <p>We compared these six current picks with this distinction clearly flagged. Prices here run from roughly $18 to $27.</p>
+          <p>We compared these six current picks with this distinction clearly flagged. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

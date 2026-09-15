@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Easiest Raised Garden Beds to Assemble can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Real time, Tool count, and Helper need are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 8 models below, spanning Yardbliss Large Galvanized Raised Garden Bed Outdoor with Legs at $45.88 up to Best Choice Products 72x24x30in Raised Garden Bed at $129.99, with a focus on timing unpacking, protective-film removal, parts sorting, assembly and leveling separately, and cross-checked Hardware labeling and Leveling against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Yardbliss Large Galvanized Raised Garden Bed Outdoor with Legs up to Best Choice Products 72x24x30in Raised Garden Bed, with a focus on timing unpacking, protective-film removal, parts sorting, assembly and leveling separately, and cross-checked Hardware labeling and Leveling against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

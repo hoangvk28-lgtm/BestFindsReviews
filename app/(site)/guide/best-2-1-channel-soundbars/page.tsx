@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>2.1-channel soundbars remain common in the value tier, two front channels plus a genuine subwoofer, without the added cost of height channels or rear surround speakers. We required the advertised 2.1 configuration without silently substituting a different channel count, and verified named subwoofer inclusion directly.</p>
-          <p>We compared these five current picks on power output and named connectivity. Prices here run from roughly $48 to $200.</p>
+          <p>We compared these five current picks on power output and named connectivity. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

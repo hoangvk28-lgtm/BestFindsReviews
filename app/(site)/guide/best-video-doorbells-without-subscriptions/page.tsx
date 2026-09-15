@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Video Doorbells Without Subscriptions can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning BOIFUN Video Doorbell Camera Wireless - No Subscription Required at $40.49 up to aosu 5MP Ultra HD Wireless & Wired Video Doorbell Camera at $119.99, with a focus on listing which detection, recording and playback functions stay free after trial periods, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BOIFUN Video Doorbell Camera Wireless - No Subscription Required up to aosu 5MP Ultra HD Wireless & Wired Video Doorbell Camera, with a focus on listing which detection, recording and playback functions stay free after trial periods, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

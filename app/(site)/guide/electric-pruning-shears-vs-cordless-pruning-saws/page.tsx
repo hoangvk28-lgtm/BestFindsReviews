@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A pruning shear cuts with a scissor action, clean and precise but limited by its rated diameter. A pruning saw cuts with a reciprocating or chain blade, handling much thicker material but with a rougher cut and different technique. Several current products actually combine both mechanisms in one tool, worth knowing about before you assume you need to buy two separate devices.</p>
-          <p>We compared eight current products spanning dedicated shears, dedicated saws, and 2-in-1 combo tools, on cutting mechanism, capacity, and price. Prices here run from roughly $50 to $160.</p>
+          <p>We compared eight current products spanning dedicated shears, dedicated saws, and 2-in-1 combo tools, on cutting mechanism, capacity, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

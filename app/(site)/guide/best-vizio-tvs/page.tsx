@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Vizio TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current 2026 family map, Size-specific hardware, and OS/update behavior are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 43" on the VIZIO 43-inch Quantum 4K QLED HDR Smart TV w/Dolby Vision HDR up to 85" on the Samsung 85-Inch Class QLED Q8F 4K UHD Smart TV (2025 Model) Q4 AI, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning VIZIO V4K43M 43 inch Class 4K LED HDR Smart TV at $179.99 up to Samsung 65-Inch Class OLED S90F 4K Smart TV (2025 Model) NQ4 AI Gen3 at $1347.99, with a focus on building a current 2026 model-family map with carryover and discontinued lines clearly marked, and cross-checked Retailer SKU differences and Warranty/support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning VIZIO V4K43M 43 inch Class 4K LED HDR Smart TV up to Samsung 65-Inch Class OLED S90F 4K Smart TV (2025 Model) NQ4 AI Gen3, with a focus on building a current 2026 model-family map with carryover and discontinued lines clearly marked, and cross-checked Retailer SKU differences and Warranty/support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Dovety's current Amazon listings are genuinely limited to two colorway variants of the same core design, white and pink, both naming an extendable handle and 8 brush heads. Since Dovety appears to be a smaller, marketplace-led brand rather than an established household name, we're flagging seller and support considerations alongside the product comparison itself.</p>
-          <p>Prices here run from roughly $25 to $30 for genuine Dovety models, with a few comparison points from more established brands included for context.</p>
+          <p>Prices here span a wide range across this lineup for genuine Dovety models, with a few comparison points from more established brands included for context.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

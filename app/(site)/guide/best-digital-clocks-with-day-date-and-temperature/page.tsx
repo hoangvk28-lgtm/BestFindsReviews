@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: temperature display is more common on general-purpose digital clocks than on senior or dementia-specific day clocks. Most dedicated dementia-focused brands, including American Lifetime, SSYA, and SSINI, do not include temperature display on their current models, since their design prioritizes orientation simplicity over additional data. This comparison focuses on the current models that genuinely include named temperature alongside day and date.</p>
-          <p>We compared these six current picks, clearly flagging which genuinely confirm temperature versus general-purpose alternatives. Prices here run from roughly $18 to $34.</p>
+          <p>We compared these six current picks, clearly flagging which genuinely confirm temperature versus general-purpose alternatives. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

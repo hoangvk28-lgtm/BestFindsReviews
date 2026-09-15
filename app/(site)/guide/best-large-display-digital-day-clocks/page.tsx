@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This comparison spans a genuine range of display sizes, 7-inch models from SSYA and SSINI, an 8-inch American Lifetime, 10-inch screen and 11.5-inch body models from SSYA XL and Raynic, a 12-inch Soobest XL, and a 14.5-inch WallarGe. Larger displays are especially relevant for users with vision impairments or dementia, but screen diagonal alone doesn't guarantee proportionally larger, more readable text.</p>
-          <p>We compared these eight current picks on named display size and price. Prices here run from roughly $27 to $60.</p>
+          <p>We compared these eight current picks on named display size and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

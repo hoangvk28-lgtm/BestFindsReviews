@@ -1,9 +1,15 @@
 /**
  * Runs automatically after every production build on Vercel (see package.json
  * "postbuild"). Pings IndexNow (Bing + Yandex) with only the URLs that
- * actually changed in this deploy, so new/changed pages get picked up
- * without waiting for the daily cron (app/api/cron/ping-indexnow/route.ts
- * still runs as a daily safety net over the full URL list).
+ * actually changed in this deploy.
+ *
+ * This is the ONLY IndexNow trigger for this site (2026-09-15) — a daily
+ * cron that resubmitted the full site URL list every night was removed
+ * because it tripped Bing Webmaster Tools' "IndexNow is in batch mode"
+ * warning (Bing wants streaming: individual URLs submitted as they're
+ * published, not periodic bulk resubmission of the whole site). Do not
+ * reintroduce a scheduled/full-list IndexNow ping without checking that
+ * warning first.
  *
  * Skips silently on local `npm run build` and on Vercel preview builds —
  * only fires for production deploys, so dev/PR builds never spam IndexNow.

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Battery Backpack Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: battery watt-hours, runtime at useful power, and charger strategy are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 550 CFM on the Greenworks 60V Backpack Leaf Blower up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Dewalt Blower AXIAL HNDHLD 60V 600CFM DCBL772B at $183.01 up to WORX Backpack Leaf Blower at $415.99, with a focus on publishing battery watt-hours and included pack count rather than voltage alone, and cross-checked harness fit and sustained output against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Dewalt Blower AXIAL HNDHLD 60V 600CFM DCBL772B up to WORX Backpack Leaf Blower, with a focus on publishing battery watt-hours and included pack count rather than voltage alone, and cross-checked harness fit and sustained output against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

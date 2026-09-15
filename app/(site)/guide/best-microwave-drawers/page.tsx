@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwave Drawers can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: cutout fit, opening mechanism, and reach are the details most listings gloss over in favor of headline wattage and capacity numbers.</p>
-          <p>We compared all 5 models below, spanning KoolMore 24 Inch Stainless-Steel Microwave Drawer with 1.2 cu. ft. at $801.00 up to Sharp SMD2470ASY 24 in. 1.2 cu. ft. Built-In Microwave Drawer Oven at $1497.00, with a focus on measuring comfortable loading and unloading height in base cabinets and islands, and cross-checked child lock and service access against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning KoolMore 24 Inch Stainless-Steel Microwave Drawer with 1.2 cu. ft. up to Sharp SMD2470ASY 24 in. 1.2 cu. ft. Built-In Microwave Drawer Oven, with a focus on measuring comfortable loading and unloading height in base cabinets and islands, and cross-checked child lock and service access against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

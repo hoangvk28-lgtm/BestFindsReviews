@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Grout lines present a narrower, more detailed cleaning challenge than broad tile surfaces, benefiting from a tool with a precise brush design or a wand-style form factor. We compared current picks with named grout-specific design or the highest brush head variety for detail work.</p>
-          <p>Prices here run from roughly $24 to $85, with the HOTO Wand's named grout brush design standing out as the most purpose-built pick for this specific task.</p>
+          <p>Prices here span a wide range across this lineup with the HOTO Wand's named grout brush design standing out as the most purpose-built pick for this specific task.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

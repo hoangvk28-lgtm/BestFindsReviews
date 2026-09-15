@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds for Balconies can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Structural load, Wind, and Drainage are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Tegarbed Galvanized Raised Garden Bed Outdoor up to 33.7 inches on the WTFGO Elevate 33.7" Tall Raised Garden Bed with Wheels, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 7 models below, spanning Tegarbed Galvanized Raised Garden Bed Outdoor at $29.99 up to LEETOLLA Elevate 32" Raised Garden Bed with Wheels at $59.84, with a focus on requiring users to verify balcony load and building rules before purchase, and cross-checked Door access and Building rules against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Tegarbed Galvanized Raised Garden Bed Outdoor up to LEETOLLA Elevate 32" Raised Garden Bed with Wheels, with a focus on requiring users to verify balcony load and building rules before purchase, and cross-checked Door access and Building rules against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

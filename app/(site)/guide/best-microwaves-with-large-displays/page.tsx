@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwaves With Large Displays can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: digit height, contrast, and viewing angle are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 900W on the BLACK+DECKER Countertop Microwave Oven up to 1200W on the TOSHIBA Large Countertop Microwave Oven with Smart Sensor, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning BLACK+DECKER Countertop Microwave Oven at $89.91 up to TOSHIBA Large Countertop Microwave Oven with Smart Sensor at $223.99, with a focus on publishing numeric digit height and total display dimensions, and cross-checked glare and information density against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BLACK+DECKER Countertop Microwave Oven up to TOSHIBA Large Countertop Microwave Oven with Smart Sensor, with a focus on publishing numeric digit height and total display dimensions, and cross-checked glare and information density against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

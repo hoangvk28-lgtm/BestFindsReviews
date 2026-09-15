@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Vertical Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Root volume, Water distribution, and Tip resistance are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 8 models below, spanning Ogrmar 36 Pockets Wall Planter Breathable Vertical Garden Planter at $18.99 up to Outland Living 4-Ft Raised Garden Bed - Vertical Garden Freestanding at $99.99, with a focus on separating wall pockets, stacked towers, tiered planters and trellis beds, and cross-checked Access and Wall protection against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Ogrmar 36 Pockets Wall Planter Breathable Vertical Garden Planter up to Outland Living 4-Ft Raised Garden Bed - Vertical Garden Freestanding, with a focus on separating wall pockets, stacked towers, tiered planters and trellis beds, and cross-checked Access and Wall protection against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

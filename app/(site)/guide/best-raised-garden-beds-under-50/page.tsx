@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds Under $50 can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Complete price, Usable volume, and Material quality are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 6 models below, spanning Utopia Home Galvanized Raised Garden Bed Kit 4x2x1ft at $19.49 up to Tegarbed 10x2x1FT Galvanized Raised Garden Bed at $39.99, with a focus on using complete delivered price and exclude temporary coupons that make eligibility unstable, and cross-checked Hardware and Warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Utopia Home Galvanized Raised Garden Bed Kit 4x2x1ft up to Tegarbed 10x2x1FT Galvanized Raised Garden Bed, with a focus on using complete delivered price and exclude temporary coupons that make eligibility unstable, and cross-checked Hardware and Warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

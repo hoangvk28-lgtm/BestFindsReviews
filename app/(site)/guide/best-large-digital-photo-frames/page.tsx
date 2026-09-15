@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We defined large as roughly 15-inch class and up for this comparison, and labeled exact sizes rather than rounding. Resolution matters as much as diagonal size, a large panel with low pixel density can look worse up close than a smaller, sharper display, so we verified native resolution alongside physical size for every pick.</p>
-          <p>We compared these eight current picks by exact size and resolution. Prices here run from roughly $90 to $396.</p>
+          <p>We compared these eight current picks by exact size and resolution. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

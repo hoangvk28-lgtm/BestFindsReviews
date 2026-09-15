@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We required true picture-based contact dialing on the primary interface for this comparison, not merely photo caller ID that shows a picture only when someone calls in. A genuine picture-dial phone lets the user tap a photo to place a call directly, real value for users who find text-based contact lists confusing or who have memory-related conditions.</p>
-          <p>We compared these five current picks on interface design and price. Prices here run from roughly $28 to $70.</p>
+          <p>We compared these five current picks on interface design and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

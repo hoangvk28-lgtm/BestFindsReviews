@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 75-Inch TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact-size panel/backlight, Refresh rate and ports, and Physical dimensions are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 75" on the Samsung 75-Inch Class M70H Series up to 85" on the Hisense 85" U7 Mini-LED ULED 4K UHD Best Premium Gaming Smart Google, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning LG 75-Inch Class Nano AI 4K NU85 Series Smart TV w/AI Sound Pro at $549.99 up to Samsung 75-Inch Class Neo QLED 4K QN90F Series at $1647.99, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning LG 75-Inch Class Nano AI 4K NU85 Series Smart TV w/AI Sound Pro up to Samsung 75-Inch Class Neo QLED 4K QN90F Series, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

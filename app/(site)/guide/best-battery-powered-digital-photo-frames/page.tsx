@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Most digital photo frames require a permanent power outlet, but a smaller set of current models include a rechargeable battery for cordless placement. We verified which picks here genuinely include a battery versus requiring constant power.</p>
-          <p>Prices here run from roughly $48 to $104. Two ASINs from our initial research list failed to return current listing data and were dropped rather than included with placeholder information.</p>
+          <p>Prices here span a wide range across this lineup. Two ASINs from our initial research list failed to return current listing data and were dropped rather than included with placeholder information.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

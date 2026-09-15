@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Google Assistant is native on all Google Nest devices, but it's also supported through third-party integration on speakers like the Sonos Era 100. Google Assistant genuinely excels at natural language queries, Google Calendar integration, and Android ecosystem pairing, strengths that set it apart from Alexa's broader smart home device compatibility.</p>
-          <p>We compared these four current picks by native vs. third-party integration and price. Prices here run from roughly $86 to $400.</p>
+          <p>We compared these four current picks by native vs. third-party integration and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

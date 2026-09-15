@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds With Trellises can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Height, Load rating, and Anchoring are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 7 models below, spanning Plant & Plot Galvanized Raised Garden Beds Outdoor // 4×2×1 ft at $17.97 up to Greenes Fence Classic Cedar Raised Garden Bed at $99.99, with a focus on measuring trellis height, width and load under mature vines, and cross-checked Reach and Wind leverage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Plant & Plot Galvanized Raised Garden Beds Outdoor // 4×2×1 ft up to Greenes Fence Classic Cedar Raised Garden Bed, with a focus on measuring trellis height, width and load under mature vines, and cross-checked Reach and Wind leverage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

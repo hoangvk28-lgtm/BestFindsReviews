@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>VTech's IS8xxx series specifically targets long-range coverage, with several current models naming a 2,300-foot range figure for larger homes or properties where a standard cordless phone loses signal. Handset count, expansion limit, and included features like power backup or Bluetooth vary across the current lineup.</p>
-          <p>We compared these seven current picks on named range, handset count, and price. Prices here run from roughly $85 to $165.</p>
+          <p>We compared these seven current picks on named range, handset count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Polk continues its current Signa and MagniFi Mini AX family, each targeting a genuinely different design priority, the Signa line emphasizes an ultra-slim profile, while the MagniFi Mini AX prioritizes compact size with a wireless subwoofer. We compared these four current picks by design focus and price.</p>
-          <p>We compared these picks by design priority and included subwoofer. Prices here run from roughly $249 to $499.</p>
+          <p>We compared these picks by design priority and included subwoofer. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

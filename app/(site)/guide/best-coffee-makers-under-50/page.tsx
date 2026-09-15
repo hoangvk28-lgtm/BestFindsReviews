@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Prices on Amazon move constantly, and a coffee maker sitting at $39 today can be $54 next month once a temporary discount ends. Every price and specification below reflects a live pull from Amazon at the time this guide was last updated, not a static number that will stay accurate indefinitely. Verify the current price on the product page before assuming a listed model still qualifies for the under $50 tier.</p>
+          <p>Prices on Amazon move constantly, and a coffee maker sitting at the low end of this range today can drift toward the top of it next month once a temporary discount ends. Every price and specification below reflects a live pull from Amazon at the time this guide was last updated, not a static number that will stay accurate indefinitely. Verify the current price on the product page before assuming a listed model still qualifies for the under $50 tier.</p>
           <p>This guide covers drip and stovetop-style electric percolator machines only, since true espresso machines do not exist in usable form under $50. We compared four current models on capacity, filter type, and a rough first-year cost that includes filters and descaling, not just the sticker price, because the cheapest machine to buy is not always the cheapest machine to own.</p>
         </section>
 

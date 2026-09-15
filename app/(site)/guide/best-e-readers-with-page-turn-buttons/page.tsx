@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: we required current hardware with genuinely named dedicated physical page-turn buttons for this comparison. After checking product listings directly, only the Kobo Libra Colour, in its standard and stylus-included versions, currently names this feature explicitly in our search results. We're not padding this list with touch-only devices mislabeled as button-equipped, instead, we've included several well-regarded touch-only alternatives afterward, clearly flagged, for buyers open to reconsidering that requirement.</p>
-          <p>The two genuine button-equipped picks run $258 to $327. The touch-only alternatives included for honest comparison run from about $63 to $199.</p>
+          <p>The two genuine button-equipped picks sit at the premium end of this lineup. The touch-only alternatives included for honest comparison span a much wider, more affordable range.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

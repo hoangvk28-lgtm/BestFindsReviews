@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Bose's current smart speaker lineup centers on the new 2026 Lifestyle Ultra Speaker and the Home Speaker 500, which currently shows as unavailable on Amazon, verify directly with Bose if you want that specific model. The Bose Portable Smart Speaker, a genuine dual Alexa and Google Assistant portable option, was not accessible through our current product data source, verify its current listing directly if portability matters to you. Bose soundbars (Soundbar 300, Smart Dolby Atmos Soundbar) are TV-focused home theater products and are not covered in this speaker-focused comparison.</p>
-          <p>We compared these four current picks by audio technology and Amazon availability. Prices here run from roughly $300 to $450.</p>
+          <p>We compared these four current picks by audio technology and Amazon availability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

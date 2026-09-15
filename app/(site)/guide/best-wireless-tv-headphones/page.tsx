@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Wireless" combines two genuinely different technologies here: Bluetooth-direct systems and dedicated RF/2.4GHz transmitter systems. We separated these in our recommendations, since pairing complexity, lip-sync, and optical/analog input support differ meaningfully between the two approaches.</p>
-          <p>We compared these five current picks by connection type and price. Prices here run from roughly $60 to $180.</p>
+          <p>We compared these five current picks by connection type and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: exact physical 7.1-channel hardware is genuinely less common than virtual 7.1 processing or higher-tier layouts like 5.3.4 with named height channels. We retargeted this comparison accordingly, distinguishing named virtual 7.1ch surround systems from a genuinely higher-channel-count 5.3.4 system, rather than forcing an exact 7.1 requirement that doesn't match current market reality.</p>
-          <p>We compared these three current picks by named channel technology. Prices here run from roughly $117 to $270.</p>
+          <p>We compared these three current picks by named channel technology. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

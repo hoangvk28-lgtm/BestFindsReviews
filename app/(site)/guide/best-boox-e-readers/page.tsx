@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: our current Amazon search did not return plain bare-device BOOX listings, only case and stylus bundle listings for the Note Max, Note Air 5 C, and Go Color 7 Gen II. Based on the pricing, which aligns closely with each device's known market tier, these bundles appear to include the actual BOOX hardware plus a case or stylus, not accessories sold alone. We recommend verifying current listing contents directly before purchasing, since seller bundling can change.</p>
-          <p>We compared these three current BOOX picks by size and productivity focus. Prices here run from roughly $319 to $720.</p>
+          <p>We compared these three current BOOX picks by size and productivity focus. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

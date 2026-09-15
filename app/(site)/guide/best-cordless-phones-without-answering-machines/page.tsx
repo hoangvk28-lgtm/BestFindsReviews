@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>If you already use carrier voicemail or simply don't need message recording, skipping the built-in answering machine genuinely lowers the price without sacrificing core calling features. VTech, AT&T, and Panasonic all currently sell capable phones that leave this feature out to keep costs down.</p>
-          <p>We compared these seven current picks that skip the answering machine on core features and price. Prices here run from roughly $23 to $63.</p>
+          <p>We compared these seven current picks that skip the answering machine on core features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

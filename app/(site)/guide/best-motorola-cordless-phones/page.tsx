@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Motorola maintains a smaller but genuine current US cordless phone lineup than Panasonic or VTech, worth comparing directly rather than assuming feature parity with the larger brands. Handset count and named accessibility features like hearing aid compatibility vary across the current models.</p>
-          <p>We compared these four current Motorola picks on named handset count, features, and price. Prices here run from roughly $55 to $100.</p>
+          <p>We compared these four current Motorola picks on named handset count, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

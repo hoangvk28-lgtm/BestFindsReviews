@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Leaf Blower Vacuum Combos can look similar in a listing photo but differ in ways that matter once real daily use is involved: vacuum pickup, mulch reduction, and clogging are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 180 CFM on the BLACK+DECKER Electric Leaf Blower up to 650 CFM on the YOOVL Leaf Blower Cordless, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning BLACK+DECKER Electric Leaf Blower at $49.00 up to EGO Power+ LV5000 Leaf Vacuum and Mulcher with 500 CFM Blower at $269.99, with a focus on testing blower and vacuum performance separately so a strong blower cannot hide a weak vacuum mode, and cross-checked conversion steps and bag ergonomics against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BLACK+DECKER Electric Leaf Blower up to EGO Power+ LV5000 Leaf Vacuum and Mulcher with 500 CFM Blower, with a focus on testing blower and vacuum performance separately so a strong blower cannot hide a weak vacuum mode, and cross-checked conversion steps and bag ergonomics against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

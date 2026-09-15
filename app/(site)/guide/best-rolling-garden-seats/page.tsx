@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Seat height and transfer, Wheel/terrain behavior, and Stability and rated load rarely show up as clear differentiators in a standard listing for rolling garden seats, even though they're often the real reason one pick performs better than another once it's in actual use. Weight Capacity alone in this lineup spans from 220 lbs on the Pure Garden Rolling Garden Cart with Seat - Plastic Storage with Bench and up to 275 lbs on the Pure Garden Rolling Garden Cart with Seat, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with creating product classes for plastic scooters, metal swivel carts and rolling stools before ranking as the starting point, not an afterthought. Prices here run from $31.94 (Pure Garden Rolling Garden Cart with Seat) to $86.98 (VEVOR Garden Cart Rolling Workseat with Wheels). We also cross-checked Materials and weather resistance and assembly, storage and replacement parts against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with creating product classes for plastic scooters, metal swivel carts and rolling stools before ranking as the starting point, not an afterthought. Prices here span from the most affordable pick, the Pure Garden Rolling Garden Cart with Seat, to the priciest pick, the VEVOR Garden Cart Rolling Workseat with Wheels. We also cross-checked Materials and weather resistance and assembly, storage and replacement parts against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

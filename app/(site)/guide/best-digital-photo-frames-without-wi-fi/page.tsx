@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For buyers without reliable home internet, or who simply don't want a networked device, a genuine no-WiFi frame that loads entirely from USB or SD card is the right category. We verified which picks here truly work without any internet connection, distinct from hybrid frames that merely support local loading as a secondary option.</p>
-          <p>Prices here run from roughly $48 to $130, with dedicated no-WiFi frames generally priced competitively against hybrid alternatives.</p>
+          <p>Prices here span a wide range across this lineup with dedicated no-WiFi frames generally priced competitively against hybrid alternatives.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

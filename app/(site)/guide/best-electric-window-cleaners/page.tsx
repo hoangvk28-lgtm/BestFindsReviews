@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Electric window cleaners use a squeegee vacuum to lift water off glass in a single pass, leaving a streak-free finish without a separate drying towel. We compared current cordless models on named suction power, battery capacity, and included cleaning accessories.</p>
-          <p>Prices here run from roughly $42 to $167, with Karcher's established brand commanding a premium over budget cordless alternatives. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
+          <p>Prices here span a wide range across this lineup with Karcher's established brand commanding a premium over budget cordless alternatives. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

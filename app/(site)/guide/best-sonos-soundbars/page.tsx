@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Sonos currently compares Arc Ultra, Beam Gen 2, and Ray as its main soundbar family, though our search primarily returned Beam-based listings, standalone and bundled with a Sub or Era 100 speakers. We map exactly what each listing includes, since bundle pricing varies dramatically depending on what's packaged together.</p>
-          <p>We compared these six current picks by bundle contents and price. Prices here run from roughly $299 to $1,898.</p>
+          <p>We compared these six current picks by bundle contents and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Electric Kettles for Pour-Over Coffee can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Flow consistency, Temperature during pulses, and Handle balance are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning DmofwHi Gooseneck Electric Kettle at $35.09 up to Fellow Corvo EKG Pro Studio Gooseneck Electric Kettle at $229.95, with a focus on measuring flow rate and stability across slow bloom pours and faster drawdown pours, and cross-checked Hold behavior and Spout precision against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning DmofwHi Gooseneck Electric Kettle up to Fellow Corvo EKG Pro Studio Gooseneck Electric Kettle, with a focus on measuring flow rate and stability across slow bloom pours and faster drawdown pours, and cross-checked Hold behavior and Spout precision against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

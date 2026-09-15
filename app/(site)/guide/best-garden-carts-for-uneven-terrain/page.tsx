@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Roots, ruts, and loose gravel put more demand on a cart's tires and wheel size than a smooth driveway ever will. A pneumatic tire generally cushions bumps better than a hard no-flat tire, but a wider wheelbase and 4-wheel layout matter just as much for staying upright on a side slope or uneven patch.</p>
-          <p>We compared these eight current picks on named tire type, wheel size, and turning-radius features like U-turn capability. Prices here run from roughly $98 to $180.</p>
+          <p>We compared these eight current picks on named tire type, wheel size, and turning-radius features like U-turn capability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

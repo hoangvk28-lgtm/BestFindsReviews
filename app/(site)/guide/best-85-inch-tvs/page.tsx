@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 85-Inch TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact-size panel/backlight, Refresh rate and ports, and Physical dimensions are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 65" on the INSIGNIA 65-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa up to 85" on the Samsung 85-Inch Class QN70H Series, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning INSIGNIA 65-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa at $299.99 up to Samsung 85-Inch Class QN70H Series at $1697.99, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning INSIGNIA 65-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa up to Samsung 85-Inch Class QN70H Series, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

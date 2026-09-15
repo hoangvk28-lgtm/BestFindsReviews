@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Carpet Cleaners for Pet Hair and Stains can look similar in a listing photo but differ in ways that matter once real daily use is involved: pet stain removal, odor reduction, and hair pickup versus pre-vacuum are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Resolve Ultra Pet Carpet Cleaner Spray - for Removal of Pet Stains & at $9.46 up to Shark CarpetXpert HairPro StainStriker Carpet & Stain Cleaner at $379.00, with a focus on separating dry pet-hair pickup from wet stain extraction and state when pre-vacuuming is required, and cross-checked brush wrap and formula dependence against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Resolve Ultra Pet Carpet Cleaner Spray - for Removal of Pet Stains & up to Shark CarpetXpert HairPro StainStriker Carpet & Stain Cleaner, with a focus on separating dry pet-hair pickup from wet stain extraction and state when pre-vacuuming is required, and cross-checked brush wrap and formula dependence against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

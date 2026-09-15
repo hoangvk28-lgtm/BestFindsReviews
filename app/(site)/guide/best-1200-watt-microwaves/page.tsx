@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 1200-Watt Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: actual heating speed, recipe adjustment, and cavity size are the details most listings gloss over in favor of headline wattage and capacity numbers.</p>
-          <p>We compared all 7 models below, spanning TOSHIBA Microwave Oven with Smart Sensor at $182.99 up to Panasonic NN-SN67KS Microwave Oven at $289.95, with a focus on measuring real time to heat a fixed volume of water or food to a target temperature, and cross-checked power control and electrical draw against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning TOSHIBA Microwave Oven with Smart Sensor up to Panasonic NN-SN67KS Microwave Oven, with a focus on measuring real time to heat a fixed volume of water or food to a target temperature, and cross-checked power control and electrical draw against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

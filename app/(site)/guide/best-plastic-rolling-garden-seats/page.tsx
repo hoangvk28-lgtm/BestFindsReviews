@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for plastic rolling garden seats can look nearly identical in a thumbnail, yet seat height and transfer, wheel/terrain behavior, and stability and rated load are exactly the details a generic spec sheet tends to leave out. Weight Capacity alone in this lineup spans from 200 lbs on the Pure Garden Rolling Garden Seat with Wheels up to 400 lbs on the NIUXX Garden Kneeler and Seat with 360° Wheels: 3-in-1 Rolling Gardning, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 7 current models and prioritizes measuring seat flex and wheel/axle flex under load over spec-sheet comparisons alone. Prices here run from $25.97 (Pure Garden Rolling Garden Seat with Wheels) to $74.99 (Cycayit Heavy-Duty 360° Swivel Rolling Garden Seat). Materials and weather resistance and Assembly, storage and replacement parts were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 7 current models and prioritizes measuring seat flex and wheel/axle flex under load over spec-sheet comparisons alone. Prices here span from the most affordable pick, the Pure Garden Rolling Garden Seat with Wheels, to the priciest pick, the Cycayit Heavy-Duty 360° Swivel Rolling Garden Seat. Materials and weather resistance and Assembly, storage and replacement parts were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

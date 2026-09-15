@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A cordless phone for everyday home use generally needs reliable caller ID, reasonable handset coverage for your space, and a price that doesn't demand business-grade features you won't use. Panasonic, AT&T, and VTech all currently sell home-focused systems spanning basic single-handset phones up to full-featured multi-handset bundles.</p>
-          <p>We compared these eight current picks on named handset count, core features, and price. Prices here run from roughly $23 to $88.</p>
+          <p>We compared these eight current picks on named handset count, core features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

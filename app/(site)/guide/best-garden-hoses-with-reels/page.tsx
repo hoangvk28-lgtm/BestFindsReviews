@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling rarely show up as clear differentiators in a standard listing for garden hoses with reels, even though they're often the real reason one pick performs better than another once it's in actual use. Length alone in this lineup spans from 100 ft on the NEOTEC 100FT Retractable Garden Hose Reel 1/2 Inch up to 130 ft on the Giraffe Tools Retractable Garden Hose Reel 1/2"130FT Wall Mount Auto, a real difference worth checking against your own use case.</p>
-          <p>We put 7 models head-to-head below, spanning YFFSRJDJ Garden Hose Reel at $19.99 up to Giraffe Tools Retractable Garden Hose Reel 1/2"130FT Wall Mount Auto at $179.99, focusing first on scoring the hose and reel as separate components before assigning a bundle verdict. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 7 models head-to-head below, spanning YFFSRJDJ Garden Hose Reel up to Giraffe Tools Retractable Garden Hose Reel 1/2"130FT Wall Mount Auto, focusing first on scoring the hose and reel as separate components before assigning a bundle verdict. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

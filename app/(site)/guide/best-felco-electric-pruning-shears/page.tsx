@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>FELCO's electric pruning shear lineup is genuinely small compared to the many DTC brands in this category, but it's backed by the Swiss brand's long-standing reputation in manual pruning tools. Only two current FELCO products in this comparison are actually electric, the third is FELCO's classic manual bypass pruner, worth knowing before you assume every FELCO listing in this search is powered.</p>
-          <p>We compared FELCO's two electric models on named safety technology and cutting capacity, and included the manual F2 pruner for reference since it appears in the same search results. Prices here run from roughly $78 to $850.</p>
+          <p>We compared FELCO's two electric models on named safety technology and cutting capacity, and included the manual F2 pruner for reference since it appears in the same search results. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

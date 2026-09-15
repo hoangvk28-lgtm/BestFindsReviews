@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for rolling garden seats for bad knees can look nearly identical in a thumbnail, yet seat height and transfer, wheel/terrain behavior, and stability and rated load are exactly the details a generic spec sheet tends to leave out. Weight Capacity alone in this lineup spans from 330 lbs on the KVR Upgraded Garden Kneeler and Seat with Thicken & Widen Soft up to 500 lbs on the FLINTER Extra-Large Rolling Garden Cart and Kneeler, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning KVR Upgraded Garden Kneeler and Seat with Thicken & Widen Soft at $44.97 up to VEVOR Garden Seat with Wheels at $109.90, with particular attention to measuring seat height and stand-up effort rather than assuming any rolling seat reduces knee demand. We also verified Materials and weather resistance and assembly, storage and replacement parts directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning KVR Upgraded Garden Kneeler and Seat with Thicken & Widen Soft up to VEVOR Garden Seat with Wheels, with particular attention to measuring seat height and stand-up effort rather than assuming any rolling seat reduces knee demand. We also verified Materials and weather resistance and assembly, storage and replacement parts directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

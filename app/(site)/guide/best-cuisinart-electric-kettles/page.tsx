@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Cuisinart Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Exact product eligibility, Measured performance under a fixed protocol, and Handling and safety behavior are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 5 models below, spanning Cuisinart Aura Enamel-on-Steel Stovetop Teakettle at $42.95 up to Cuisinart PerfecTemp 1.7-Liter 1500-Watt Stainless Steel Cordless at $159.99, with a focus on building a model-status table that clearly separates current CPK-17P1 from discontinued CPK-17 and any retailer suffixes, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning Cuisinart Aura Enamel-on-Steel Stovetop Teakettle up to Cuisinart PerfecTemp 1.7-Liter 1500-Watt Stainless Steel Cordless, with a focus on building a model-status table that clearly separates current CPK-17P1 from discontinued CPK-17 and any retailer suffixes, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

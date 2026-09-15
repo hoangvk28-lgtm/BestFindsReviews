@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>True self-propulsion means the mop's dual-spin or motor design actually moves the machine forward with less push effort from you, genuinely different from a powered spin mop where the pads spin in place to scrub but don't drive the machine forward. We only included picks that explicitly name self-propelled or motorized-forward-movement design.</p>
-          <p>We compared these seven current picks on named self-propel mechanism and price. Prices here run from roughly $56 to $144.</p>
+          <p>We compared these seven current picks on named self-propel mechanism and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

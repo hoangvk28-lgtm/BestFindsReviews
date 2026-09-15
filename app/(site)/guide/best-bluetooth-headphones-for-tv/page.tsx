@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: not every TV supports Bluetooth audio output, and even when it does, lip-sync performance varies by TV generation and codec negotiation. We verified named connection specs and flagged where a transmitter-based fallback may be needed for older TVs without native Bluetooth.</p>
-          <p>We compared these four current picks on connectivity, latency, and price. Prices here run from roughly $50 to $90.</p>
+          <p>We compared these four current picks on connectivity, latency, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

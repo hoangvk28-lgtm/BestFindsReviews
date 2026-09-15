@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Narrow matters most for gate clearance and tight garden paths, but exact overall width, including wheel hubs and handle, isn't published on most listings in this category. Bed volume is the more reliable proxy available: a smaller 4 cubic foot bed generally means a narrower overall footprint than a bulkier wagon-style cart.</p>
-          <p>We compared these seven current compact-bed picks on named capacity and bed volume, flagging that exact outside width should be confirmed directly before ordering if a specific gate or path width is a hard constraint. Prices here run from roughly $57 to $130.</p>
+          <p>We compared these seven current compact-bed picks on named capacity and bed volume, flagging that exact outside width should be confirmed directly before ordering if a specific gate or path width is a hard constraint. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

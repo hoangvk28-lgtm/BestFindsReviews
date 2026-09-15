@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Vego Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Active kit and configuration, Panel coating and hardware, and Assembly time are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 30 inches on the Best Choice Products 72x24x30in Raised Garden Bed up to 32 inches on the VIREO GARDEN Galvanized Raised Garden Bed with Leg, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 8 models below, spanning Yardbliss Large Galvanized Raised Garden Bed Outdoor with Legs at $45.88 up to Best Choice Products 72x24x30in Raised Garden Bed at $129.99, with a focus on creating a current kit matrix showing height, panel count, possible layouts, soil volume and included bracing, and cross-checked Soil volume and Accessory compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Yardbliss Large Galvanized Raised Garden Bed Outdoor with Legs up to Best Choice Products 72x24x30in Raised Garden Bed, with a focus on creating a current kit matrix showing height, panel count, possible layouts, soil volume and included bracing, and cross-checked Soil volume and Accessory compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

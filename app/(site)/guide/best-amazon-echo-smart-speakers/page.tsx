@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Amazon's Echo naming can be genuinely confusing. The Echo Dot (5th Gen equivalent, newest model) comes in three color variants that are the same underlying product, the Echo Dot Max is a distinct, larger model with room-filling sound, and the Echo Show 5 is a smart display hybrid with a screen rather than a pure speaker. We organize this lineup by form factor to make the distinction clear.</p>
-          <p>We compared these five current Echo picks by form factor and price. Prices here run from roughly $50 to $100.</p>
+          <p>We compared these five current Echo picks by form factor and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

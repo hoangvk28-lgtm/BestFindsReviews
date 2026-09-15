@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A day-and-date digital clock ranges from compact calendar-style bedside clocks up to orientation-style displays that spell out the full weekday and month rather than abbreviating them. Screen diagonal alone doesn't tell you how readable the actual time, day, and date text is, character height and layout clarity matter more.</p>
-          <p>We compared these eight current picks on named display size, layout, and price. Prices here run from roughly $19 to $34.</p>
+          <p>We compared these eight current picks on named display size, layout, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

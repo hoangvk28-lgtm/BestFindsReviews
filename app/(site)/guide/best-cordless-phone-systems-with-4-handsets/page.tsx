@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Four handsets genuinely cover most homes without needing separate expansion purchases, one per floor plus a common area or two. AT&T, VTech, Panasonic, and Motorola all currently sell preconfigured 4-handset bundles, with real differences in call blocking, display type, and per-handset cost worth comparing directly.</p>
-          <p>We compared these seven current 4-handset bundles on named features and price. Prices here run from roughly $80 to $170.</p>
+          <p>We compared these seven current 4-handset bundles on named features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

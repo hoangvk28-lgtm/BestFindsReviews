@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 800-Watt Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: actual heating speed, recipe adjustment, and cavity size are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 700W on the COMFEE' Countertop Microwave Oven up to 800W on the Nostalgia Retro Countertop Microwave Oven - Large 800-Watt - 0.9 cu, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 5 models below, spanning COMFEE' Countertop Microwave Oven at $69.97 up to Nostalgia Retro Countertop Microwave Oven - Large 800-Watt - 0.9 cu at $129.99, with a focus on measuring real time to heat a fixed volume of water or food to a target temperature, and cross-checked power control and electrical draw against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning COMFEE' Countertop Microwave Oven up to Nostalgia Retro Countertop Microwave Oven - Large 800-Watt - 0.9 cu, with a focus on measuring real time to heat a fixed volume of water or food to a target temperature, and cross-checked power control and electrical draw against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

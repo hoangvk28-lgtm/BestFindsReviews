@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Google TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: OS speed, Ad load, and Account requirement are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 55" on the Hisense 55" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart up to 98" on the TCL 98 Inch Class QM7K Series, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Google TV Streamer 4K - Fast Streaming Entertainment on Your Device at $99.00 up to TCL 75 Inch Class QM8L Series at $1997.99, with a focus on scoring TV hardware and OS separately, and cross-checked Accessibility and Update/app support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Google TV Streamer 4K - Fast Streaming Entertainment on Your Device up to TCL 75 Inch Class QM8L Series, with a focus on scoring TV hardware and OS separately, and cross-checked Accessibility and Update/app support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

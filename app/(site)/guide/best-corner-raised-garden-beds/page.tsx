@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Corner Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Angle fit, Reach, and Dead planting area are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Sunnydaze Decor Sunnydaze Galvanized Raised Garden Bed up to 18 inches on the A ANLEOLIFE Anleolife 74x74x18in L-Shaped Galvanized Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 7 models below, spanning 1MORE Raised Garden Bed at $27.45 up to A ANLEOLIFE Anleolife 74x74x18in U-Shaped Galvanized Raised Garden Bed at $269.99, with a focus on separating triangular, L-shaped and tiered corner products, and cross-checked Wall clearance and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning 1MORE Raised Garden Bed up to A ANLEOLIFE Anleolife 74x74x18in U-Shaped Galvanized Raised Garden Bed, with a focus on separating triangular, L-shaped and tiered corner products, and cross-checked Wall clearance and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

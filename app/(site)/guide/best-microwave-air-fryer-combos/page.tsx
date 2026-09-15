@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwave Air Fryer Combos can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: microwave performance, air-fry browning, and preheat are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 900W on the BLACK+DECKER 5-in-1 Microwave Oven Air Fryer Combo up to 1100W on the TOSHIBA Smart Microwave Oven with Sensor Reheat, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 4 models below, spanning FRIGIDAIRE 1.2 cu ft Microwave at $139.99 up to TOSHIBA Air Fryer Combo Microwave at $199.98, with a focus on scoring microwave heating, air frying, convection baking and broiling separately, and cross-checked accessory handling and cleanup against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 4 models below, spanning FRIGIDAIRE 1.2 cu ft Microwave up to TOSHIBA Air Fryer Combo Microwave, with a focus on scoring microwave heating, air frying, convection baking and broiling separately, and cross-checked accessory handling and cleanup against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

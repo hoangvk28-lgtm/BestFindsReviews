@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "Sony TV headphones" is genuinely a compatibility search, not a request for headphones Sony manufactures specifically for TVs. Sony does make its own headphone lineup, and current Sony TVs support Bluetooth audio pairing on most models, but you should verify your specific TV's generation and Bluetooth support before assuming any headphone pairs seamlessly.</p>
-          <p>We compared these three current Sony headphone picks by their real TV pairing behavior. Prices here run from about $20 to current market rate.</p>
+          <p>We compared these three current Sony headphone picks by their real TV pairing behavior. Prices here run from about to current market rate.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

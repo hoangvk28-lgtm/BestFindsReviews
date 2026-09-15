@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing weed pullers for taproots often assume any well-reviewed listing is a safe bet, but Current product availability and Root capture and breakage vary enough between these picks to change which one actually fits a given yard, and soil penetration and plug size is rarely spelled out clearly on the product page. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with measuring extraction depth and breakage as the starting point, not an afterthought. Prices here run from $16.99 (Grampa's Weeder Grampa's Hand Weeder Tool with Lever Design for Easy Weed Removal) to $55.30 (Grootpow WP5 Heavy Duty Weed Puller Tool). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with measuring extraction depth and breakage as the starting point, not an afterthought. Prices here span from the most affordable pick, the Grampa's Weeder Grampa's Hand Weeder Tool with Lever Design for Easy Weed Removal, to the priciest pick, the Grootpow WP5 Heavy Duty Weed Puller Tool. We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

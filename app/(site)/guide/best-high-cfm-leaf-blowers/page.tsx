@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for high-cfm leaf blowers can look nearly identical in a thumbnail, yet exact current model and market, cFM/MPH mode and nozzle, and ready-to-use weight are exactly the details a generic spec sheet tends to leave out. Airflow alone in this lineup spans from 650 CFM on the YOOVL Leaf Blower Cordless up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes verifying CFM at the exact nozzle and operating mode over spec-sheet comparisons alone. Prices here run from $85.99 (HASANEN Backpack Gas Powered Leaf Blower) to $698.99 (Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower). Real high-output runtime and Noise, warranty and service support were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes verifying CFM at the exact nozzle and operating mode over spec-sheet comparisons alone. Prices here span from the most affordable pick, the HASANEN Backpack Gas Powered Leaf Blower, to the priciest pick, the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower. Real high-output runtime and Noise, warranty and service support were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

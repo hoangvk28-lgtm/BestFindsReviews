@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing leaf blowers for gutters often assume any well-reviewed listing is a safe bet, but Attachment compatibility and Total reach vary enough between these picks to change which one actually fits a given yard, and ladder-free use is rarely spelled out clearly on the product page. Airflow alone in this lineup spans from 500 CFM on the HooSeen Roof Gutter Cleaning from The Ground up to 700 CFM on the Seesii Gutter Cleaning Tools Cordless Leaf Blower for Roof Gutters, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Glosaie Gutter Cleaning Tools from the Ground at $39.99 up to Seesii Gutter Cleaning Tools Cordless Leaf Blower for Roof Gutters at $139.99, with a focus on verifying the gutter-kit part number fits each recommended blower, and cross-checked Nozzle control and debris blowback against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Glosaie Gutter Cleaning Tools from the Ground up to Seesii Gutter Cleaning Tools Cordless Leaf Blower for Roof Gutters, with a focus on verifying the gutter-kit part number fits each recommended blower, and cross-checked Nozzle control and debris blowback against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

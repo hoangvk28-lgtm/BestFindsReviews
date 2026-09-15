@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Dry carpet cleaner" usually refers to a powder or compound method rather than a wet-extraction machine, so this guide covers dry cleaning compounds specifically. Best Dry Carpet Cleaning Compounds can look similar in a listing photo but differ in ways that matter once real daily use is involved: dry compound versus machine, residue, and vacuum removal are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 7 models below, spanning Carbona 2-in-1 Oxy-Powered Carpet Cleaner at $10.99 up to Capture Carpet & Rug Dry Cleaner Carpet Deodorizer & Freshener Powder at $52.99, with a focus on defining dry carpet cleaning and distinguish powder/compound methods from hot-water extraction, and cross-checked carpet approval and professional versus DIY against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Carbona 2-in-1 Oxy-Powered Carpet Cleaner up to Capture Carpet & Rug Dry Cleaner Carpet Deodorizer & Freshener Powder, with a focus on defining dry carpet cleaning and distinguish powder/compound methods from hot-water extraction, and cross-checked carpet approval and professional versus DIY against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

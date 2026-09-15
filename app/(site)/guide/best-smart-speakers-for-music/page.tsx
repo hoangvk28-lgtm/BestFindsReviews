@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For music-focused smart speakers, audio engineering should be the primary ranking criterion, not voice assistant capability. We prioritized named speaker configurations, tweeters, woofers, room-tuning software, and Hi-Res Audio support, to rank these picks specifically for listening quality rather than smart home features.</p>
-          <p>We compared these five current picks by audio engineering and streaming service compatibility. Prices here run from roughly $100 to $300.</p>
+          <p>We compared these five current picks by audio engineering and streaming service compatibility. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

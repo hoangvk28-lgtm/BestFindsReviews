@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A steam mop sanitizes with heat rather than chemical cleaning solution, real value for chemical-free cleaning on approved floors, but steam is not universally safe for every surface, unsealed wood, some laminates, and certain natural stone can all be damaged by heat and moisture. We kept this comparison to genuine steam mops rather than mixing in spin mops or floor washers.</p>
-          <p>We compared these five current picks on named floor compatibility, features, and price. Prices here run from roughly $50 to $160.</p>
+          <p>We compared these five current picks on named floor compatibility, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

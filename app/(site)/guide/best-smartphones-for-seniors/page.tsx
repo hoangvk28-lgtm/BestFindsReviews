@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Mainstream smartphones now include genuinely strong built-in accessibility features that make them viable for many seniors, not just simplified alternatives. PCMag's 2026 top picks are the Apple iPhone 17 and Google Pixel 10a, each bringing real accessibility tools, while the Samsung Galaxy A16 5G offers the best value with long-term software support. For seniors who want maximum simplicity instead, the Jitterbug Smart4 and Smart5 provide a dedicated senior UI on top of Android.</p>
-          <p>We compared these six current picks on accessibility features and price. Prices here run from roughly $48 to $750.</p>
+          <p>We compared these six current picks on accessibility features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

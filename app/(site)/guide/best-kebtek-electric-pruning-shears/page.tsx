@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Kebtek's current lineup spans a genuinely wide range, from a 30mm precision shear for garden care up to a 40mm professional pole lopper priced for orchard and vineyard crews. The right pick depends heavily on whether you're doing occasional home pruning or sustained professional work.</p>
-          <p>We compared these four current Kebtek picks on named cutting diameter, weight, and whether the design is handheld or pole-equipped. Prices here run from roughly $130 to $360.</p>
+          <p>We compared these four current Kebtek picks on named cutting diameter, weight, and whether the design is handheld or pole-equipped. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

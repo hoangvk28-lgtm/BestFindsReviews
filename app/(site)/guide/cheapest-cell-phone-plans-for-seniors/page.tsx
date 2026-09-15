@@ -272,8 +272,8 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Ranking plans by upfront price alone is misleading, a $95 plan and a $45 plan can have very different true monthly costs depending on duration. We rank these four current prepaid plans by their actual per-month cost after dividing total price by the number of months covered, the only fair way to compare plans of different lengths.</p>
-          <p>Prices here run from roughly $45 to $95 for the full plan period, working out to true monthly costs between about $4.60 and $15.</p>
+          <p>Ranking plans by upfront price alone is misleading, a plan and a plan can have very different true monthly costs depending on duration. We rank these four current prepaid plans by their actual per-month cost after dividing total price by the number of months covered, the only fair way to compare plans of different lengths.</p>
+          <p>Prices here span a wide range across this lineup for the full plan period, working out to true monthly costs across a meaningfully wide range.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

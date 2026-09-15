@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 5GHz Wi-Fi Video Doorbells can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Blink Video Doorbell - Head-to-toe HD view at $29.99 up to Ring Wired Doorbell 4K Pro at $199.99, with a focus on requiring official 5GHz or dual-band specification, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Blink Video Doorbell - Head-to-toe HD view up to Ring Wired Doorbell 4K Pro, with a focus on requiring official 5GHz or dual-band specification, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

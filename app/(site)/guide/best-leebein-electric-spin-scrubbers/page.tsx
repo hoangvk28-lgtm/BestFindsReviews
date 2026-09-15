@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Leebein's current Amazon lineup includes three genuinely branded models with distinct named features, an adjustable extension handle base model, a 4-angle model with remote control, and an IPX7 waterproof model. We compared these directly, plus non-Leebein alternatives for price context.</p>
-          <p>Prices here run from roughly $25 to $50 for genuine Leebein models.</p>
+          <p>Prices here span a wide range across this lineup for genuine Leebein models.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

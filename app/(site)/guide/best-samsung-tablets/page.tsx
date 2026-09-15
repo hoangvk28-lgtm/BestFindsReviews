@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Samsung Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: current Galaxy Tab family, display size, and S Pen compatibility are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10.9" on the ist computers Samsung Galaxy Tab S10 FE Tablet up to 14.6" on the Samsung Galaxy Tab S11 Ultra Ai Wifi Model, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Samsung Galaxy Tab A11+ Plus 2026 (128GB at $229.99 up to Samsung Galaxy Tab S11 Ultra Ai Wifi Model at $1098.00, with a focus on building a current Galaxy Tab S, Tab A and Tab Active model matrix and remove legacy products from primary picks, and cross-checked 5G option and software support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Samsung Galaxy Tab A11+ Plus 2026 (128GB up to Samsung Galaxy Tab S11 Ultra Ai Wifi Model, with a focus on building a current Galaxy Tab S, Tab A and Tab Active model matrix and remove legacy products from primary picks, and cross-checked 5G option and software support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

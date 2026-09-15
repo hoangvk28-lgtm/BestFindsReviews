@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Gas Backpack Leaf Blowers can look similar in a listing photo but differ in ways that matter once real daily use is involved: blowing force, cold start, and vibration are the details most listings gloss over in favor of a generic spec sheet. CFM alone in this lineup spans from 410 CFM on the SENIX 4QL 26.5cc 4-Cycle Handheld Gas Leaf Blower up to 850 CFM on the HASANEN Backpack Gas Powered Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower at $85.99 up to Husqvarna 570BTS Backpack Leaf Blower at $530.95, with a focus on measuring cold start, warm restart and restart after refueling, and cross-checked fuel use and harness fit against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning HASANEN Backpack Gas Powered Leaf Blower up to Husqvarna 570BTS Backpack Leaf Blower, with a focus on measuring cold start, warm restart and restart after refueling, and cross-checked fuel use and harness fit against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>5.1-channel systems remain a genuine surround-sound tier, five discrete channels plus a subwoofer, typically including physical rear surround speakers rather than virtual processing alone. We labeled Atmos-equipped 5.1 variants separately from pure 5.1 systems, since adding height channels is a meaningfully different configuration even when marketed under similar naming.</p>
-          <p>We compared these four current picks on rear speaker inclusion and price. Prices here run from roughly $117 to $300.</p>
+          <p>We compared these four current picks on rear speaker inclusion and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A progressive or variable-speed trigger lets you modulate cutting force in real time based on how much pressure you apply, real control that a fixed single-speed shear can't offer, useful for switching between delicate precision cuts and full-power branch cuts without changing settings.</p>
-          <p>We compared these eight current picks on named trigger control, cutting diameter, and motor power. Prices here run from roughly $60 to $200, and cutting capacity spans 1.2 inches up to 2.75 inches.</p>
+          <p>We compared these eight current picks on named trigger control, cutting diameter, and motor power. Prices here span a wide range across this lineup and cutting capacity spans 1.2 inches up to 2.75 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

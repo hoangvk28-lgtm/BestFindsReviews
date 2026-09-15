@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Noise on an electric mop comes from several separate sources, the drive motor, roller or brush action, any pump or steam mechanism, and self-clean dock cycles specifically, and these don't always scale together. We prioritized picks with named quiet-operation design or documented decibel figures over vague marketing claims.</p>
-          <p>We compared these seven current picks on named noise-relevant features and price. Prices here run from roughly $30 to $200.</p>
+          <p>We compared these seven current picks on named noise-relevant features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

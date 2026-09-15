@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Toshiba Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: exact combo functions, inverter versus conventional power, and accessory set are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 900W on the TOSHIBA Microwave Oven up to 1250W on the TOSHIBA ML-EM45PIT(SS) Countertop Microwave Oven with Inverter, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning TOSHIBA Microwave Oven at $94.99 up to TOSHIBA ML-EM45PIT(SS) Countertop Microwave Oven with Inverter at $212.99, with a focus on separating basic countertop, inverter and 4-in-1 or 7-in-1 combo models into different recommendation groups, and cross-checked cavity size and current us support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning TOSHIBA Microwave Oven up to TOSHIBA ML-EM45PIT(SS) Countertop Microwave Oven with Inverter, with a focus on separating basic countertop, inverter and 4-in-1 or 7-in-1 combo models into different recommendation groups, and cross-checked cavity size and current us support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

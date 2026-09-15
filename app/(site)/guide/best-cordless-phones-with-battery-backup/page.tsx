@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A cordless phone's base station typically needs AC power to function, meaning most cordless phones go completely dead during an outage even with fully charged handsets, unless the base specifically includes documented power backup. This is a genuinely rare, model-specific feature, don't assume any cordless phone has it without explicit confirmation.</p>
-          <p>We compared these seven current picks, prioritizing the one with clearly documented power backup and flagging others honestly where this isn't confirmed. Prices here run from roughly $58 to $220.</p>
+          <p>We compared these seven current picks, prioritizing the one with clearly documented power backup and flagging others honestly where this isn't confirmed. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

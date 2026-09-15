@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Microwave vs Conventional Oven can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: equal food load, time, and energy are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 1000W on the TOSHIBA Countertop Microwave Oven up to 1200W on the TOSHIBA Flatbed Microwave Oven with Inverter Technology, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning Farberware 1.3 Cu. Ft. Countertop Microwave Oven at $132.29 up to Panasonic Japanese Microwave at $429.95, with a focus on using equal food mass, starting temperature and serving target, and cross-checked texture and workflow against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Farberware 1.3 Cu. Ft. Countertop Microwave Oven up to Panasonic Japanese Microwave, with a focus on using equal food mass, starting temperature and serving target, and cross-checked texture and workflow against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

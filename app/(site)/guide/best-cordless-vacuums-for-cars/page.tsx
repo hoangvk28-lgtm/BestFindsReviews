@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Cordless Vacuums for Cars can look similar in a listing photo but differ in ways that matter once real daily use is involved: Real pickup performance, Ready-to-use weight/ergonomics, and Powered-tool runtime are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 30 min on the Antaha Handheld Vacuum Cordless - Car Vacuum Cleaner with 11000Pa up to 150 min on the FAOGO Car Vacuum Portable Cordless, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning KMM Handheld Car Vacuum Cleaner at $22.44 up to Levoit Cordless Vacuum Cleaner at $139.96, with a focus on testing embedded carpet dirt, seat crumbs, console crevices and pet hair, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning KMM Handheld Car Vacuum Cleaner up to Levoit Cordless Vacuum Cleaner, with a focus on testing embedded carpet dirt, seat crumbs, console crevices and pet hair, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

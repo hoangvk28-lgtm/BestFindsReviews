@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that leaf blowers for small yards are basically interchangeable once you've picked a price range. In practice, Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 180 CFM on the BLACK+DECKER Electric Leaf Blower up to 650 CFM on the VIBOGEN Electric Leaf Blower Cordless 21V with 2x6.0Ah Batteries &, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with measuring setup-to-finish time for a short cleanup as the starting point, not an afterthought. Prices here run from $39.98 (MZK 20V Cordless Leaf Blower) to $79.98 (VIBOGEN Electric Leaf Blower Cordless 21V with 2x6.0Ah Batteries &). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with measuring setup-to-finish time for a short cleanup as the starting point, not an afterthought. Prices here span from the most affordable pick, the MZK 20V Cordless Leaf Blower, to the priciest pick, the VIBOGEN Electric Leaf Blower Cordless 21V with 2x6.0Ah Batteries &. We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

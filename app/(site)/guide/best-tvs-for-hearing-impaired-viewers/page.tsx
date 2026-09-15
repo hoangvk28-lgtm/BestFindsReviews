@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs for Hearing-Impaired Viewers can look similar in a listing photo but differ in ways that matter once real daily use is involved: Caption customization, Dialogue enhancement, and Bluetooth/hearing output are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 5 models below, spanning ZVOX AccuVoice AV100 Dialogue Clarifying Soundbar- 6 Levels of Voice at $99.99 up to ZVOX AccuVoice AV855 Dialogue Clarifying Soundbar-20 Levels of Voice at $349.99, with a focus on testing caption size, font, background and app consistency, and cross-checked Simultaneous audio and Latency against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning ZVOX AccuVoice AV100 Dialogue Clarifying Soundbar- 6 Levels of Voice up to ZVOX AccuVoice AV855 Dialogue Clarifying Soundbar-20 Levels of Voice, with a focus on testing caption size, font, background and app consistency, and cross-checked Simultaneous audio and Latency against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

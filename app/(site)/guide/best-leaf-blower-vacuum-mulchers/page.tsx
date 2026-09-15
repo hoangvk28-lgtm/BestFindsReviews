@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for leaf blower vacuum mulchers can look nearly identical in a thumbnail, yet vacuum CFM, impeller material, and actual mulch ratio are exactly the details a generic spec sheet tends to leave out. Airflow alone in this lineup spans from 350 CFM on the WORX Trivac 3-in-1 Electric Leaf Blower/Leaf Vacuum/Leaf Mulcher up to 650 CFM on the YOOVL Leaf Blower Cordless, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower at $39.98 up to MZK 40V Leaf Vacuum Mulcher at $149.99, with a focus on measuring conversion time between blower and vacuum modes, and cross-checked Wet-leaf clogging and bag capacity/comfort against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower up to MZK 40V Leaf Vacuum Mulcher, with a focus on measuring conversion time between blower and vacuum modes, and cross-checked Wet-leaf clogging and bag capacity/comfort against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Keter Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Active US model, Reservoir capacity, and Drainage control are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 4 models below, spanning DTIG Galvanized Raised Garden Bed with Trellis at $59.99 up to FOOWIN 6x3x2ft Raised Garden Bed Outdoor at $159.99, with a focus on mapping current Keter models by gallon capacity, planter depth, shelf, water gauge and drainage design, and cross-checked UV/weather resistance and Replacement parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 4 models below, spanning DTIG Galvanized Raised Garden Bed with Trellis up to FOOWIN 6x3x2ft Raised Garden Bed Outdoor, with a focus on mapping current Keter models by gallon capacity, planter depth, shelf, water gauge and drainage design, and cross-checked UV/weather resistance and Replacement parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

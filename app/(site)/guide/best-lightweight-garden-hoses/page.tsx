@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling rarely show up as clear differentiators in a standard listing for lightweight garden hoses, even though they're often the real reason one pick performs better than another once it's in actual use. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 100 ft on the Flexi Hose with 8 Function Nozzle, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes ranking dry and filled weight separately over spec-sheet comparisons alone. Prices here run from $26.09 (ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI) to $76.49 (Flexi Hose with 8 Function Nozzle). Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes ranking dry and filled weight separately over spec-sheet comparisons alone. Prices here span from the most affordable pick, the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI, to the priciest pick, the Flexi Hose with 8 Function Nozzle. Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: our current Amazon search returned the bare Kindle Paperwhite as a standalone device, but the Kindle Scribe and Kindle Colorsoft models only appeared as Essentials Bundles, meaning the device, a premium pen, a leather folio cover, and a power adapter are bundled together at a higher combined price than the bare device alone. We flag this clearly so you understand what you're actually paying for with each pick.</p>
-          <p>We compared these five current Kindle picks by model tier. Prices here run from roughly $180 for the bare Paperwhite to nearly $795 for the bundled Colorsoft Scribe.</p>
+          <p>We compared these five current Kindle picks by model tier. Prices here span from the bare Paperwhite up to the bundled Colorsoft Scribe.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

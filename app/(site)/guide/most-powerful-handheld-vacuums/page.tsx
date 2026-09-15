@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Suction power claims vary widely in marketing language, so we focused specifically on picks with named, concrete power specifications, voltage, wattage, or Dyson's own suction technology naming, rather than vague strong suction claims.</p>
-          <p>Prices here run from roughly $60 to $390, with genuinely higher named power specifications generally correlating with higher price across this comparison.</p>
+          <p>Prices here span a wide range across this lineup with genuinely higher named power specifications generally correlating with higher price across this comparison.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Ready weight, the shear plus whatever battery it takes to operate, matters more for wrist fatigue during a long pruning session than raw cutting capacity does. A bare-tool shear built for an existing battery ecosystem can end up lighter or heavier than a proprietary-battery shear depending on which battery you actually use with it.</p>
-          <p>We compared these six current picks on named weight, battery configuration, and cutting diameter. Prices here run from roughly $45 to $147, with the bare-tool ecosystem picks priced lower since they don't include a battery.</p>
+          <p>We compared these six current picks on named weight, battery configuration, and cutting diameter. Prices here span a wide range across this lineup with the bare-tool ecosystem picks priced lower since they don't include a battery.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -18,9 +18,6 @@ const BRANDS = [
     name: "Shark Stratos 2-in-1 Robot Vacuum & Mop, AV2700ZE",
     amazonUrl: "https://www.amazon.com/dp/B0FJC51J12?tag=worthrated-20",
     imageUrl: "https://m.media-amazon.com/images/I/41QK4hUxlYL._SL500_.jpg",
-    price: "$549.99",
-    rating: "4.0",
-    reviews: "23,548 reviews",
     guideHref: "/guide/best-shark-robot-vacuums",
     note: "Vacuum-and-mop 2-in-1 deck with a self-empty base. Shark's lineup splits clearly between vacuum-only and Matrix-style 2-in-1 models, worth checking before comparing on price alone.",
   },
@@ -30,9 +27,6 @@ const BRANDS = [
     name: "eufy E25 Robot Vacuum and Mop Combo, 20,000 Pa",
     amazonUrl: "https://www.amazon.com/dp/B0FK2HPNCB?tag=worthrated-20",
     imageUrl: "https://m.media-amazon.com/images/I/31j3ZN+fhqL._SL500_.jpg",
-    price: "$629.99",
-    rating: "4.4",
-    reviews: "53,857 reviews",
     guideHref: "/guide/best-eufy-robot-vacuums",
     note: "The highest rating and deepest review history of the four at this tier, paired with a HydroJet self-washing roller mop.",
   },
@@ -42,9 +36,6 @@ const BRANDS = [
     name: "roborock 2026 New Qrevo S Pro Robot Vacuum and Mop, 18,500Pa Suction",
     amazonUrl: "https://www.amazon.com/dp/B0GGRSMXKN?tag=worthrated-20",
     imageUrl: "https://m.media-amazon.com/images/I/31DKyfvT1pL._SL500_.jpg",
-    price: "$549.99",
-    rating: "4.2",
-    reviews: "2,788 reviews",
     guideHref: "/guide/best-roborock-robot-vacuums",
     note: "Newest release of the four, so its review count is still building relative to the others, but it sits in Roborock's upper Qrevo tier with a premium dock feature set.",
   },
@@ -54,9 +45,6 @@ const BRANDS = [
     name: "dreame L40 Ultra Gen 2 Robot Vacuum and Mop with 25,000Pa Suction",
     amazonUrl: "https://www.amazon.com/dp/B0FSJPFDPV?tag=worthrated-20",
     imageUrl: "https://m.media-amazon.com/images/I/31Vm7qUbB3L._SL500_.jpg",
-    price: "$584.99",
-    rating: "4.2",
-    reviews: "929 reviews",
     guideHref: "/guide/best-dreame-robot-vacuums",
     note: "The highest stated suction figure of the four, though a high Pa number alone does not determine real-world pickup, worth weighing against navigation and dock quality too.",
   },
@@ -102,7 +90,7 @@ export default function Page() {
           <span className="text-xs font-bold uppercase tracking-widest text-brand">Buying Advice</span>
           <h1 className="mt-3 mb-4 tracking-tight">Robot Vacuum Brand Comparison</h1>
           <p className="text-lg text-ink-secondary leading-relaxed">
-            Comparing brands by their absolute cheapest or most expensive model rarely tells you much, since a $150 budget robot and a $1,600 flagship from the same brand solve very different problems. Here we lined up one representative model from four popular brands at a similar price tier (roughly $550 to $630) so the comparison is actually apples to apples.
+            Comparing brands by their absolute cheapest or most expensive model rarely tells you much, since an entry-level budget robot and a flagship model from the same brand solve very different problems. Here we lined up one representative model from four popular brands at a similar mid-range price tier so the comparison is actually apples to apples.
           </p>
         </header>
 
@@ -117,9 +105,7 @@ export default function Page() {
               <tr className="bg-bg text-left">
                 <th className="px-4 py-3 font-bold text-ink">Brand</th>
                 <th className="px-4 py-3 font-bold text-ink">Model</th>
-                <th className="px-4 py-3 font-bold text-ink">Price</th>
-                <th className="px-4 py-3 font-bold text-ink hidden sm:table-cell">Rating</th>
-                <th className="px-4 py-3 font-bold text-ink hidden sm:table-cell">Reviews</th>
+                <th className="px-4 py-3 font-bold text-ink">Full Guide</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-border">
@@ -131,9 +117,11 @@ export default function Page() {
                       {b.name}
                     </a>
                   </td>
-                  <td className="px-4 py-3 text-ink-secondary">{b.price}</td>
-                  <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{b.rating}</td>
-                  <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{b.reviews}</td>
+                  <td className="px-4 py-3 text-ink-secondary">
+                    <Link prefetch={false} href={b.guideHref} className="text-brand font-semibold hover:underline">
+                      See guide &rarr;
+                    </Link>
+                  </td>
                 </tr>
               ))}
             </tbody>

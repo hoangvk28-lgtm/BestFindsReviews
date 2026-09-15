@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Narrow Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: True width, Stability, and Plant spacing are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Tegarbed 10x2x1FT Galvanized Raised Garden Bed up to 24 inches on the Vengarus 12x2x2ft Galvanized Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 7 models below, spanning GIANTEX Raised Garden Bed at $34.99 up to Vengarus 12x2x2ft Galvanized Raised Garden Bed at $53.18, with a focus on publishing true outside and inside planting width, and cross-checked Reach and Irrigation against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning GIANTEX Raised Garden Bed up to Vengarus 12x2x2ft Galvanized Raised Garden Bed, with a focus on publishing true outside and inside planting width, and cross-checked Reach and Irrigation against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

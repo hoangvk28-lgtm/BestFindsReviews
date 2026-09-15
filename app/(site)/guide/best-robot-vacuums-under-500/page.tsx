@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>The under-$500 tier is where robot vacuums stop being a compromise and start behaving like the flagship models sold at double the price. This guide is distinct from our separate Under $300 and Under $1000 guides: it is not simply a bigger version of the budget list or a scaled-down version of the premium list, it is the specific middle band where LiDAR or vSLAM navigation, real mopping systems, and app-based room mapping become the norm instead of the exception.</p>
+          <p>The under-tier is where robot vacuums stop being a compromise and start behaving like the flagship models sold at double the price. This guide is distinct from our separate Under $300 and Under $1000 guides: it is not simply a bigger version of the budget list or a scaled-down version of the premium list, it is the specific middle band where LiDAR or vSLAM navigation, real mopping systems, and app-based room mapping become the norm instead of the exception.</p>
           <p>We researched eight current, distinct models rather than color or bundle variants of the same unit, and focused on what actually changes at this price versus a sub-$150 model: suction strength moves from adequate to genuinely strong, mapping goes from bump-and-turn to room-aware navigation, and self-emptying or auto-mop-washing docks start showing up as bundled features instead of separate purchases. We also flagged where a model dock is sold separately, since that detail changes the real cost of ownership.</p>
         </section>
 

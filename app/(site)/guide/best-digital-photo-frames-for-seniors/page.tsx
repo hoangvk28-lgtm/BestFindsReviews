@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For a senior recipient, the frame that matters most is the one family members can set up remotely and manage without ongoing tech support calls. We measured setup simplicity, remote-control alternatives to touch screens, and passive receive-only sharing across these picks.</p>
-          <p>Prices here run from roughly $48 to $150, with the specific evaluation criteria here being ease of use for the recipient rather than raw feature count.</p>
+          <p>Prices here span a wide range across this lineup with the specific evaluation criteria here being ease of use for the recipient rather than raw feature count.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

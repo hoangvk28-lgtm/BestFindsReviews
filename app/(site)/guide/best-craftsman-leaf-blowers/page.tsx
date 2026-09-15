@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying craftsman leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 100 CFM on the DEWALT 20V MAX Blower up to 600 CFM on the Dewalt Blower AXIAL HNDHLD 60V 600CFM DCBL772B, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning CRAFTSMAN V20 Cordless Leaf Blower at $85.97 up to Husqvarna 125B Gas Leaf Blower at $219.99, focusing first on building a current model map separating handheld, backpack, battery, gas and blower-vac products. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning CRAFTSMAN V20 Cordless Leaf Blower up to Husqvarna 125B Gas Leaf Blower, focusing first on building a current model map separating handheld, backpack, battery, gas and blower-vac products. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

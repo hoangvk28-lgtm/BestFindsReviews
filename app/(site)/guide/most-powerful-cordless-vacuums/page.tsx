@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Most Powerful Cordless Vacuums can look similar in a listing photo but differ in ways that matter once real daily use is involved: Metric comparability, Pickup under load, and Head sealing are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 50 min on the Bissell PowerClean DualBrush 280W Self-Standing Vacuum up to 70 min on the Shark PowerDetect Clean & Empty Cordless Stick Vacuum, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Uosogi Cordless Vacuum Cleaner at $129.97 up to Dyson Cyclone V10 Origin Cordless Vacuum at $479.99, with a focus on checking not rank AW, Pa, CFM and motor watts as interchangeable, and cross-checked High-power runtime and Thermal throttling against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Uosogi Cordless Vacuum Cleaner up to Dyson Cyclone V10 Origin Cordless Vacuum, with a focus on checking not rank AW, Pa, CFM and motor watts as interchangeable, and cross-checked High-power runtime and Thermal throttling against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

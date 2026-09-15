@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Electric spin scrubbers use a motorized rotating brush head to cut through soap scum, grime, and hard water spots faster than manual scrubbing. We compared current cordless picks on named brush head count, handle design, and battery specifications.</p>
-          <p>Prices here run from roughly $24 to $85, with named battery capacity and higher RPM ratings generally commanding a premium over budget alternatives.</p>
+          <p>Prices here span a wide range across this lineup with named battery capacity and higher RPM ratings generally commanding a premium over budget alternatives.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

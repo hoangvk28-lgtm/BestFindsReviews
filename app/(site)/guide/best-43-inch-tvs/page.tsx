@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 43-Inch TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact-size panel/backlight, Refresh rate and ports, and Physical dimensions are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 7 models below, spanning INSIGNIA 43" Class F50 Series LED 4K UHD Smart Fire TV at $149.99 up to Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV at $297.99, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning INSIGNIA 43" Class F50 Series LED 4K UHD Smart Fire TV up to Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

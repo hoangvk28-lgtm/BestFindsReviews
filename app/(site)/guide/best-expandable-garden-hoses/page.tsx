@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying expandable garden hoses, the more useful question isn't just which one is cheapest, but which one actually holds up on current US product pool. That, along with Inside diameter and fitting restriction and Dry versus filled handling, is what we dug into for the picks below. Length alone in this lineup spans from 25 ft on the Pocket Hose Ballistic 25 FT Expandable Garden Hose up to 100 ft on the Flexi Hose with 8 Function Nozzle, a real difference worth checking against your own use case.</p>
-          <p>Below, all 7 models are broken down side by side, spanning Pocket Hose Ballistic 25 FT Expandable Garden Hose at $39.99 up to Pocket Hose Ballistic 75 FT Expandable Garden Hose at $89.99, with particular attention to measuring contracted length, pressurized working length and packed storage volume. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 7 models are broken down side by side, spanning Pocket Hose Ballistic 25 FT Expandable Garden Hose up to Pocket Hose Ballistic 75 FT Expandable Garden Hose, with particular attention to measuring contracted length, pressurized working length and packed storage volume. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

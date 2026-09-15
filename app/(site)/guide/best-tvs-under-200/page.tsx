@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs Under $200 can look similar in a listing photo but differ in ways that matter once real daily use is involved: Live price, OS responsiveness, and 1080p versus 4K value are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 40" on the TCL 40-Inch Class S3 1080p LED Smart TV with Roku TV (40S350R up to 50" on the INSIGNIA 50" Class F50 Series LED 4K UHD Smart Fire TV, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning INSIGNIA 40" Class F40 Series LED Full HD Smart Fire TV at $99.97 up to TOSHIBA 50" Class C350 Series LED 4K UHD Smart Fire TV at $199.99, with a focus on using live price and remove short-sale-only picks, and cross-checked Audio intelligibility and Update/support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning INSIGNIA 40" Class F40 Series LED Full HD Smart Fire TV up to TOSHIBA 50" Class C350 Series LED 4K UHD Smart Fire TV, with a focus on using live price and remove short-sale-only picks, and cross-checked Audio intelligibility and Update/support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

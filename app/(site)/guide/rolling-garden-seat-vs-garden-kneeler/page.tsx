@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for rolling garden seat vs garden kneeler can look nearly identical in a thumbnail, yet seat height and transfer, wheel/terrain behavior, and stability and rated load are exactly the details a generic spec sheet tends to leave out. Weight Capacity alone in this lineup spans from 330 lbs on the KVR Upgraded Garden Kneeler and Seat with Thicken & Widen Soft up to 500 lbs on the FLINTER Extra-Large Rolling Garden Cart and Kneeler, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning KVR Upgraded Garden Kneeler and Seat with Thicken & Widen Soft at $44.97 up to VEVOR Garden Cart Rolling Workseat with Wheels at $86.98, focusing first on comparing seat height, kneeling height and stand-up assistance. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning KVR Upgraded Garden Kneeler and Seat with Thicken & Widen Soft up to VEVOR Garden Cart Rolling Workseat with Wheels, focusing first on comparing seat height, kneeling height and stand-up assistance. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

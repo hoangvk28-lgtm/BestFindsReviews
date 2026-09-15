@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwaves for Seniors can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: door force, button size, and display contrast are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 700W on the Commercial Chef 0.6 Cu. Ft. Countertop Microwave Oven up to 1000W on the TOSHIBA Countertop Microwave Oven, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning Farberware 0.7 Cu. Ft. Countertop Microwave Oven at $67.99 up to Sharp R-21LCFS Medium-Duty Commercial Microwave Oven with Dial Timer at $335.00, with a focus on measuring door-opening force and whether the latch can be operated with limited grip, and cross-checked audible alerts and container handling against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Farberware 0.7 Cu. Ft. Countertop Microwave Oven up to Sharp R-21LCFS Medium-Duty Commercial Microwave Oven with Dial Timer, with a focus on measuring door-opening force and whether the latch can be operated with limited grip, and cross-checked audible alerts and container handling against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

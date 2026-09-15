@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs for Bright Rooms can look similar in a listing photo but differ in ways that matter once real daily use is involved: Reflection handling, Sustained brightness, and Matte haze are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 55" on the Hisense 55" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart up to 98" on the TCL 98 Inch Class QM7K Series, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Hisense 55" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart at $649.99 up to Hisense 85" U7 Mini-LED ULED 4K UHD Best Premium Gaming Smart Google at $1399.99, with a focus on measuring reflection handling and diffuse haze separately from peak brightness, and cross-checked Ambient black level and Wide seating against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Hisense 55" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart up to Hisense 85" U7 Mini-LED ULED 4K UHD Best Premium Gaming Smart Google, with a focus on measuring reflection handling and diffuse haze separately from peak brightness, and cross-checked Ambient black level and Wide seating against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwave Toaster Oven Combos can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet. Rated wattage alone in this lineup spans from 1000W on the TOSHIBA Countertop Microwave Oven Air Fryer Combo up to 1100W on the TOSHIBA OptiChef PRO MAX Air Fryer Combo Microwave Oven, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning FRIGIDAIRE 1.2 cu ft Microwave at $139.99 up to TOSHIBA OptiChef PRO MAX Air Fryer Combo Microwave Oven at $479.99, with a focus on defining whether products are microwave-convection units or true toaster-oven combinations, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning FRIGIDAIRE 1.2 cu ft Microwave up to TOSHIBA OptiChef PRO MAX Air Fryer Combo Microwave Oven, with a focus on defining whether products are microwave-convection units or true toaster-oven combinations, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

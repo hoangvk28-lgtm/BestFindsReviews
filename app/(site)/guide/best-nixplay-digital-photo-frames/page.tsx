@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Nixplay's current lineup spans 10.1-inch and 15.6-inch models, but the real decision isn't screen size alone, it's understanding which features come free versus which require a paid Lite or Plus subscription. We separated these tiers explicitly here, since Google Photos connected albums specifically require a paid tier on Nixplay.</p>
-          <p>We compared these eight current picks by size and subscription tier requirements. Prices here run from roughly $60 to $150.</p>
+          <p>We compared these eight current picks by size and subscription tier requirements. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

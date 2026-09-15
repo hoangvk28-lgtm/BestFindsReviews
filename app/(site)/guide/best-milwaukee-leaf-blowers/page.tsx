@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that milwaukee leaf blowers are basically interchangeable once you've picked a price range. In practice, Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 450 CFM on the Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless up to 700 CFM on the ALDIPRO 700 CFM Leaf Blower Compatible with Milwaukee M18 Battery, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning WOLFMEN Leaf Blower at $69.99 up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless at $195.00, with a focus on building a current model map separating handheld, backpack, battery, gas and blower-vac products, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning WOLFMEN Leaf Blower up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless, with a focus on building a current model map separating handheld, backpack, battery, gas and blower-vac products, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

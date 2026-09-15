@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "smart speakers with screens" are more accurately called smart displays, they add a touchscreen for video calling, visual routines, and glanceable information on top of standard voice assistant functionality. We organized these nine current picks by screen size and ecosystem, Amazon's extensive Echo Show lineup, Google's Nest Hub family, and Meta's video-calling-focused Portal.</p>
-          <p>We compared these picks by screen size, camera presence, and ecosystem. Prices here run from roughly $90 to $325.</p>
+          <p>We compared these picks by screen size, camera presence, and ecosystem. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

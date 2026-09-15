@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds With Covers can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Cover material, Ventilation, and Access are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 5 models below, spanning LEETOLLA 𝐑𝐚𝐢𝐬𝐞𝐝 𝐆𝐚𝐫𝐝𝐞𝐧 𝐁𝐞𝐝 𝐎𝐮𝐭𝐝𝐨𝐨𝐫 Elevate Herb Garden Planter Box at $59.84 up to Gardener's Supply Company Wheelchair Accessible Garden Bed at $569.99, with a focus on separating frost covers, insect mesh, greenhouse plastic and rigid lids, and cross-checked Wind resistance and Replacement cover against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning LEETOLLA 𝐑𝐚𝐢𝐬𝐞𝐝 𝐆𝐚𝐫𝐝𝐞𝐧 𝐁𝐞𝐝 𝐎𝐮𝐭𝐝𝐨𝐨𝐫 Elevate Herb Garden Planter Box up to Gardener's Supply Company Wheelchair Accessible Garden Bed, with a focus on separating frost covers, insect mesh, greenhouse plastic and rigid lids, and cross-checked Wind resistance and Replacement cover against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

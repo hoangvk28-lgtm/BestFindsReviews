@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors, the priorities shift from audio engineering to easy setup, clear voice recognition, large visual displays, and simple daily routines. Family-connection features like video calling and drop-in check-ins add real value that pure audio quality can't replace, worth weighing heavily alongside sound quality when choosing for an older family member.</p>
-          <p>We compared these six current picks by ease of use and senior-specific features. Prices here run from roughly $80 to $450.</p>
+          <p>We compared these six current picks by ease of use and senior-specific features. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

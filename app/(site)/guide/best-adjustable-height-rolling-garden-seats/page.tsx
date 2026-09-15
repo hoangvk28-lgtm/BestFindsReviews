@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for adjustable-height rolling garden seats can look nearly identical in a thumbnail, yet seat height and transfer, wheel/terrain behavior, and stability and rated load are exactly the details a generic spec sheet tends to leave out. Weight Capacity alone in this lineup spans from 330 lbs on the Goplus Garden Seat with Wheels up to 400 lbs on the VEVOR Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning NIUXX Garden Kneeler and Seat with 360° Wheels: 3-in-1 Rolling Gardning at $62.99 up to iToolMax Outdoor Garden Stool with 360° Swivel Caster Wheels at $129.99, focusing first on measuring the real seat-height range from ground to loaded seat surface. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning NIUXX Garden Kneeler and Seat with 360° Wheels: 3-in-1 Rolling Gardning up to iToolMax Outdoor Garden Stool with 360° Swivel Caster Wheels, focusing first on measuring the real seat-height range from ground to loaded seat surface. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

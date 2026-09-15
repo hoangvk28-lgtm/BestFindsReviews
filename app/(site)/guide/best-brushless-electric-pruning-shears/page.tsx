@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A brushless motor generally means longer service life and more consistent power delivery than a comparable brushed motor, real value for a tool that's doing repeated cutting cycles through a pruning session. Not every electric pruning shear names this feature, so we focused this comparison specifically on models that do.</p>
-          <p>We compared these seven current brushless picks on named cutting diameter, included batteries, and price. Prices here run from roughly $46 to $200, and cutting capacity spans 1.2 inches up to 2.2 inches.</p>
+          <p>We compared these seven current brushless picks on named cutting diameter, included batteries, and price. Prices here span a wide range across this lineup and cutting capacity spans 1.2 inches up to 2.2 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

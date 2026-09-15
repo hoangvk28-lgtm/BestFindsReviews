@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>DeWalt's genuine current handheld vacuum lineup on Amazon is limited to two models, a dry-only pick with HEPA filtration and a wet/dry pick for shop use. We compared these directly, plus clearly labeled third-party tools designed to be compatible with DeWalt's 20V battery system for buyers who already own DeWalt batteries.</p>
-          <p>Prices here run from roughly $50 for third-party battery-compatible tools up to $137 for DeWalt's genuine wet/dry model.</p>
+          <p>Prices here span from third-party battery-compatible tools up to DeWalt's genuine wet/dry model.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

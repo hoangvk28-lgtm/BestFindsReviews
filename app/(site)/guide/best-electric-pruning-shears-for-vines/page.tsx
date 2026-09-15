@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Vine pruning generally asks for precision over raw cutting power, thin, flexible growth needs a clean cut without crushing, and lighter tools reduce fatigue during the repetitive motions of vineyard or garden vine work. We focused this comparison on models with smaller stated cutting diameters and lighter designs suited to that task.</p>
-          <p>We compared these seven current picks on named cutting diameter, weight, and price. Prices here run from roughly $35 to $200, and cutting capacity spans a compact 0.8 inches up to 1.65 inches.</p>
+          <p>We compared these seven current picks on named cutting diameter, weight, and price. Prices here span a wide range across this lineup and cutting capacity spans a compact 0.8 inches up to 1.65 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

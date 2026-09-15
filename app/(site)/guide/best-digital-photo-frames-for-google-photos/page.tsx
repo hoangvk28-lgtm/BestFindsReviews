@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>If your family already organizes photos in Google Photos, a frame that connects directly to a shared album saves you from manually re-uploading. We verified which picks here genuinely support this integration, and flagged where it requires a paid subscription tier rather than being included free.</p>
-          <p>Prices here run from roughly $48 to $180. Note that Google Photos connected album support specifically requires a paid Nixplay Lite or Plus tier, not the free Basic tier.</p>
+          <p>Prices here span a wide range across this lineup. Note that Google Photos connected album support specifically requires a paid Nixplay Lite or Plus tier, not the free Basic tier.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Laminate flooring is genuinely water-sensitive at its seams, moisture that lingers can seep in and cause swelling or delamination over time, even on flooring marketed as 'sealed floor safe.' Low-moisture cleaning matters more here than raw scrubbing power, and steam should only be used on a gentle or low setting if at all, since laminate doesn't tolerate heat the way genuine sealed hardwood or tile does.</p>
-          <p>We compared these eight current picks on named water control and low-moisture design. Prices here run from roughly $56 to $180.</p>
+          <p>We compared these eight current picks on named water control and low-moisture design. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

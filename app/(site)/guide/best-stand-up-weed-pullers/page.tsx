@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that stand-up weed pullers are basically interchangeable once you've picked a price range. In practice, Current product availability, Root capture and breakage, and Soil penetration and plug size are the factors that separate a pick you'll be happy with from one you'll want to return. Claw Count alone in this lineup spans from 3 claws on the Tegarbed 39" Stand Up Weed Puller Tool - Heavy Duty Detachable 3-Claw up to 4 claws on the Grampa's Weeder Original Stand Up Weed Puller Tool with Bamboo Long, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes measuring removals per minute after a short learning period over spec-sheet comparisons alone. Prices here run from $16.99 (RexWeed Stand Up Weed Puller Tool) to $49.71 (HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden). Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes measuring removals per minute after a short learning period over spec-sheet comparisons alone. Prices here span from the most affordable pick, the RexWeed Stand Up Weed Puller Tool, to the priciest pick, the HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden. Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

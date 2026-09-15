@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A cell-phone-link cordless phone pairs with your mobile via Bluetooth, letting you answer and make cell calls through the cordless handset, useful when your phone is charging elsewhere or you want a landline-style handset for longer calls. Panasonic's Link2Cell and AT&T's Connect to Cell are the two current named implementations worth understanding before buying.</p>
-          <p>We compared these seven current picks on named cell-link features, handset count, and price. Prices here run from roughly $54 to $184.</p>
+          <p>We compared these seven current picks on named cell-link features, handset count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

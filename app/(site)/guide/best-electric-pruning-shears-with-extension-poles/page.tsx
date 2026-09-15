@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A pole pruning shear extends your reach into a tree canopy without a ladder, but full tool weight and balance at maximum extension matter as much as reach itself, since a head-heavy tool tires your arms fast. Most current picks in this category also convert to a handheld shear, real 2-in-1 value if you don't want to buy two separate tools.</p>
-          <p>We compared these seven current picks on named reach, cutting diameter, and whether the pole telescopes or converts to handheld use. Prices here run from roughly $100 to $360, and ground-based use within manufacturer instructions is the safe way to use any of these, not a ladder-plus-pole combination.</p>
+          <p>We compared these seven current picks on named reach, cutting diameter, and whether the pole telescopes or converts to handheld use. Prices here span a wide range across this lineup and ground-based use within manufacturer instructions is the safe way to use any of these, not a ladder-plus-pole combination.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

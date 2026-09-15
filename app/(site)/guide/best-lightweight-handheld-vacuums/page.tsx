@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For extended cleaning sessions or overhead reaching, a genuinely lightweight handheld vacuum reduces arm fatigue compared to bulkier alternatives. We prioritized current picks with compact, manageable form factors designed for comfortable one-handed use.</p>
-          <p>Prices here run from roughly $25 to $480, with dedicated compact handhelds generally offering the most lightweight designs compared to larger convertible or shop-vac-style options.</p>
+          <p>Prices here span a wide range across this lineup with dedicated compact handhelds generally offering the most lightweight designs compared to larger convertible or shop-vac-style options.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

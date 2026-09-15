@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Sonos's current Amazon lineup centers on the Era 100 family, the flagship Era 100 with Alexa built in, the microphone-free Era 100 SL for privacy-conscious buyers, and a 2-pack SL bundle for stereo pairing. Sonos also offers the Era 300 for Spatial Audio and the Move 2 for portability, neither of which appeared in our current product search, so cross-reference directly with Sonos for a complete lineup overview.</p>
-          <p>We compared these five current Era 100 picks by microphone presence, color, and bundling. Prices here run from roughly $189 to $359.</p>
+          <p>We compared these five current Era 100 picks by microphone presence, color, and bundling. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

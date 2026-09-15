@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Not every space needs a 15-inch wall display. We compared current frames in the 10-inch and under class specifically for desk, nightstand, and shelf placement where footprint matters most.</p>
-          <p>Prices here run from roughly $48 to $179, with the smallest footprints generally found in the budget-to-mid price tier.</p>
+          <p>Prices here span a wide range across this lineup with the smallest footprints generally found in the budget-to-mid price tier.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

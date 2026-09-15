@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Digital photo frame roundups usually compare screen size, resolution, and Wi-Fi support, but rarely test the full gift-to-recipient workflow, what happens during a Wi-Fi outage, or which features are locked behind a subscription. We compared these eight current picks across genuine display quality, sharing setup, and honest cost, rather than resolution specs alone.</p>
-          <p>We compared these picks on display quality, sharing workflow, and subscription cost. Prices here run from roughly $47 to $179.</p>
+          <p>We compared these picks on display quality, sharing workflow, and subscription cost. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

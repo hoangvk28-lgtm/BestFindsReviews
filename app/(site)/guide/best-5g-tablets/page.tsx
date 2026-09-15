@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 5G Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: 5G modem variant, US carrier support, and SIM/eSIM format are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the Topsand 10 Inch Android 15 Tablet with SIM Card Slot Uncloked up to 11" on the ORCATAB WT1 Pro 5G Rugged Tablet Android 16, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning ANTEMPER 10.1 Inch Android Tablet at $92.99 up to ORCATAB WT1 Pro 5G Rugged Tablet Android 16 at $334.99, with a focus on requiring an actual cellular 5G SKU, not a tablet that only supports 5GHz Wi-Fi, and cross-checked cellular battery impact and software support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning ANTEMPER 10.1 Inch Android Tablet up to ORCATAB WT1 Pro 5G Rugged Tablet Android 16, with a focus on requiring an actual cellular 5G SKU, not a tablet that only supports 5GHz Wi-Fi, and cross-checked cellular battery impact and software support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

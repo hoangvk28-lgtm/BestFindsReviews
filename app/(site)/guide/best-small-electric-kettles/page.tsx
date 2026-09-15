@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Small Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Exact product eligibility, Measured performance under a fixed protocol, and Handling and safety behavior are the details most listings gloss over in favor of a generic wattage number. Rated wattage alone in this lineup spans from 600W on the RHD 0.5L Small Portable Electric Kettle up to 1500W on the Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee, a real difference in how fast each one gets water to temperature.</p>
-          <p>We compared all 7 models below, spanning RHD 0.5L Small Portable Electric Kettle at $19.99 up to Cuisinart Electric Kettle at $49.95, with a focus on defining compactness using external dimensions and counter footprint, not capacity alone, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning RHD 0.5L Small Portable Electric Kettle up to Cuisinart Electric Kettle, with a focus on defining compactness using external dimensions and counter footprint, not capacity alone, and cross-checked Cleaning and maintenance burden and Current market support and parts against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

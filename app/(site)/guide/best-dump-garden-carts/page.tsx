@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A dump cart's whole value proposition is unloading soil, mulch, or gravel in one motion instead of shoveling it out by hand. That means the dump mechanism itself, the handle or lever that releases the bed, matters as much as rated capacity, but it's rarely described in detail on a standard listing.</p>
-          <p>We compared these eight current dump carts on rated capacity, cubic-foot bed volume, and tire construction. Capacity here spans from 600 lbs up to 1200 lbs, and prices run from roughly $77 to $300, with the spread tracking real differences in bed size and tire type rather than brand alone.</p>
+          <p>We compared these eight current dump carts on rated capacity, cubic-foot bed volume, and tire construction. Capacity here spans from 600 lbs up to 1200 lbs, and prices run from roughly to with the spread tracking real differences in bed size and tire type rather than brand alone.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

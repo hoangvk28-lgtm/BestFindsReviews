@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Quietest Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Average dBA, Peak dBA, and Boil duration are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning COMFEE' Stainless Steel Electric Kettle at $26.99 up to Cuisinart Electric Kettle at $105.68, with a focus on measuring average and peak dBA from a fixed distance under the same fill volume, and cross-checked Alert sound and Test distance against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning COMFEE' Stainless Steel Electric Kettle up to Cuisinart Electric Kettle, with a focus on measuring average and peak dBA from a fixed distance under the same fill volume, and cross-checked Alert sound and Test distance against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

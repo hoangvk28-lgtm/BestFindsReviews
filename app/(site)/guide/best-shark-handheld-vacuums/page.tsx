@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shark's current Amazon lineup spans dedicated compact handhelds, the WANDVAC and Cyclone PET, plus larger cordless and corded stick vacuums that offer more whole-home cleaning capability. We compared these directly, plus two non-Shark comparison points for price context.</p>
-          <p>Prices here run from roughly $70 to $220 for genuine Shark models, spanning compact handhelds up to larger stick vacuum systems.</p>
+          <p>Prices here span a wide range across this lineup for genuine Shark models, spanning compact handhelds up to larger stick vacuum systems.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

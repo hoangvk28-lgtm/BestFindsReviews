@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying leaf blowers for drying cars, the more useful question isn't just which one is cheapest, but which one actually holds up on intake cleanliness. That, along with Low-speed control and Nozzle material, is what we dug into for the picks below. Airflow alone in this lineup spans from 350 CFM on the KOLENDA Handheld Cordless Lightweight Powerful Car Dryer Air Blower with up to 850 CFM on the Vitaler Leaf Blower Cordless, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower at $39.98 up to KOLENDA Handheld Cordless Lightweight Powerful Car Dryer Air Blower with at $119.99, with a focus on using a clean blower/nozzle and avoid sucking grit or yard debris into the airstream before vehicle use, and cross-checked Battery runtime and safe stand-off workflow against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning MZK 20V Cordless Leaf Blower up to KOLENDA Handheld Cordless Lightweight Powerful Car Dryer Air Blower with, with a focus on using a clean blower/nozzle and avoid sucking grit or yard debris into the airstream before vehicle use, and cross-checked Battery runtime and safe stand-off workflow against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

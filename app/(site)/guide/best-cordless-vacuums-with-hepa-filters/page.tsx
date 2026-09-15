@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Cordless Vacuums With HEPA Filters can look similar in a listing photo but differ in ways that matter once real daily use is involved: Filter rating, Whole-machine sealing, and Exhaust leakage are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 40 min on the Shark Clean & Empty Cordless Stick Vacuum & Auto-Empty System up to 70 min on the Shark PowerDetect Clean & Empty Cordless Stick Vacuum, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning TechRise Cordless Vacuum Cleaner at $79.99 up to Shark PowerDetect Clean & Empty Cordless Stick Vacuum at $399.00, with a focus on requiring documented HEPA filtration and distinguish filter media from sealed-system performance, and cross-checked Filter replacement and Emptying exposure against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning TechRise Cordless Vacuum Cleaner up to Shark PowerDetect Clean & Empty Cordless Stick Vacuum, with a focus on requiring documented HEPA filtration and distinguish filter media from sealed-system performance, and cross-checked Filter replacement and Emptying exposure against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: $500 is a genuinely high ceiling for a home cordless phone system, nearly every current model from Panasonic, AT&T, and VTech falls well under $300, most under $150. Rather than treating $500 as a meaningful budget tier, this guide breaks down what you actually get across the real price range and points you toward the pick that matches your needs, not just your budget cap.</p>
-          <p>We compared eight current picks spanning true budget phones up to the most premium home and small-business systems available, all comfortably under $500. Prices here run from roughly $42 to $184.</p>
+          <p>We compared eight current picks spanning true budget phones up to the most premium home and small-business systems available, all comfortably under $500. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

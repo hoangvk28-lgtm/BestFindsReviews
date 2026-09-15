@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Some digital photo frames add calendar functionality as a minor extra, while dedicated smart calendar displays put family scheduling first with photos as a secondary feature. We separated these two approaches clearly here so you know which type you're actually buying.</p>
-          <p>Prices here run from roughly $60 to $250, with dedicated family planner displays commanding a premium over frames with basic calendar features added.</p>
+          <p>Prices here span a wide range across this lineup with dedicated family planner displays commanding a premium over frames with basic calendar features added.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

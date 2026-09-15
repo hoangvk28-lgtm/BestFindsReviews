@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For buyers who want to avoid bending or straining during bathroom and shower cleaning, handle length is the most important specification, more than raw power or brush count. We compared current picks specifically on named handle length and extension design.</p>
-          <p>Prices here run from roughly $25 to $80, with HOTO's premium named flexible design commanding the highest price for extended reach.</p>
+          <p>Prices here span a wide range across this lineup with HOTO's premium named flexible design commanding the highest price for extended reach.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

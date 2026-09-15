@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Refurbished Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: refurbisher certification, battery health, and activation lock are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 7" on the Amazon Kindle Paperwhite 16GB (newest model) - 20% faster up to 12" on the Fusion5 2026 Version 12" 2K Display Windows 11 Tablet PC with Stylus, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Barnes & Noble NOOK GlowLight 4 Plus eReader 7.8-inch 32GB BNRV1300 at $99.99 up to Fusion5 2026 Version 12" 2K Display Windows 11 Tablet PC with Stylus at $699.99, with a focus on requiring a clear refurbisher standard and return/warranty policy, and cross-checked remaining OS support and warranty/returns against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Barnes & Noble NOOK GlowLight 4 Plus eReader 7.8-inch 32GB BNRV1300 up to Fusion5 2026 Version 12" 2K Display Windows 11 Tablet PC with Stylus, with a focus on requiring a clear refurbisher standard and return/warranty policy, and cross-checked remaining OS support and warranty/returns against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

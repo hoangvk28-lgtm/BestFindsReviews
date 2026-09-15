@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Cedar Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Cedar species, Board thickness, and Treatment and finish are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 6 models below, spanning Yaheetech Wooden Raised Garden Bed Outdoor Planter Box at $56.99 up to Infinite Cedar Select Cedar Raised Garden Bed at $279.00, with a focus on verifying cedar species and board thickness instead of treating every cedar label as equivalent, and cross-checked Joinery and Replacement boards against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Yaheetech Wooden Raised Garden Bed Outdoor Planter Box up to Infinite Cedar Select Cedar Raised Garden Bed, with a focus on verifying cedar species and board thickness instead of treating every cedar label as equivalent, and cross-checked Joinery and Replacement boards against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

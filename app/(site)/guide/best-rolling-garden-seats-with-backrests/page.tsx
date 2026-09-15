@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying rolling garden seats with backrests, the more useful question isn't just which one is cheapest, but which one actually holds up on seat height and transfer. That, along with Wheel/terrain behavior and Stability and rated load, is what we dug into for the picks below. Weight Capacity alone in this lineup spans from 330 lbs on the iToolMax Outdoor Garden Stool with 360° Swivel Caster Wheels up to 400 lbs on the VEVOR Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with measuring backrest height, angle and usable contact area as the starting point, not an afterthought. Prices here run from $68.39 (Suntee Garden Seat with Wheels) to $159.99 (BESTHLS Garden Cart with Seat on Wheels Rolling Gardening Stool with). We also cross-checked Materials and weather resistance and assembly, storage and replacement parts against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with measuring backrest height, angle and usable contact area as the starting point, not an afterthought. Prices here span from the most affordable pick, the Suntee Garden Seat with Wheels, to the priciest pick, the BESTHLS Garden Cart with Seat on Wheels Rolling Gardening Stool with. We also cross-checked Materials and weather resistance and assembly, storage and replacement parts against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying most powerful cordless leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on blowing force/Newtons. That, along with Sustained high-output CFM/MPH and Battery watt-hours, is what we dug into for the picks below. Airflow alone in this lineup spans from 670 CFM on the EGO POWER+ Cordless Electric Leaf Blower up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Greenworks 80V Electric Leaf Blower at $178.90 up to EGO Power+ Cordless Electric Leaf Blower at $379.00, with a focus on ranking standardized clearing force or Newtons before headline CFM or MPH, and cross-checked Thermal/power throttling and wet-debris clearing against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Greenworks 80V Electric Leaf Blower up to EGO Power+ Cordless Electric Leaf Blower, with a focus on ranking standardized clearing force or Newtons before headline CFM or MPH, and cross-checked Thermal/power throttling and wet-debris clearing against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>A separate guide on this site covers the best robot vacuums under $500, where the tradeoffs are mostly about which corners get cut. This guide sits at a different ceiling. Under $1000 is where near-flagship hardware, like high-suction mopping combos and smarter navigation systems, becomes available without paying full flagship price, which on some current models can run well past $1500.</p>
+          <p>A separate guide on this site covers the best robot vacuums under $500, where the tradeoffs are mostly about which corners get cut. This guide sits at a different ceiling. Under $1000 is where near-flagship hardware, like high-suction mopping combos and smarter navigation systems, becomes available without paying full flagship price, which on some current models can run well past this guide's own ceiling.</p>
           <p>We researched current models priced under $1000 and focused on what the extra budget actually buys over a sub-$500 unit: stronger suction figures, more capable auto-empty and auto-wash docks, and navigation systems built to avoid obstacles rather than just bump into them. We also flagged where a listed price only holds during a sale, since that matters if you are buying at a different time than when this guide was researched.</p>
         </section>
 

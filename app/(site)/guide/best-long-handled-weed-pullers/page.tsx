@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing long-handled weed pullers often assume any well-reviewed listing is a safe bet, but Current product availability and Root capture and breakage vary enough between these picks to change which one actually fits a given yard, and soil penetration and plug size is rarely spelled out clearly on the product page.</p>
-          <p>The 8 picks compared here were evaluated with separating long-handled forks/spears from foot-platform claw tools as the starting point, not an afterthought. Prices here run from $20.49 (NICOFPHY Weed Puller Tool with Long Handle) to $49.71 (HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden). We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with separating long-handled forks/spears from foot-platform claw tools as the starting point, not an afterthought. Prices here span from the most affordable pick, the NICOFPHY Weed Puller Tool with Long Handle, to the priciest pick, the HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden. We also cross-checked Ergonomics and force and durability, warranty and support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

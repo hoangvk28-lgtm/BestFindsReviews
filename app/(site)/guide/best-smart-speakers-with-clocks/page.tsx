@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: the Amazon Echo Spot is the only mainstream smart speaker explicitly designed around clock display functionality, purpose-built as a smart alarm clock with customizable clock faces, gradual light wake-up routines, and motion detection. The standard Echo Dot and Echo Dot Max do not have a built-in display, if you want a pure Alexa speaker with a physical clock display, the Echo Spot is genuinely the right category, not just a speaker with an optional add-on clock feature.</p>
-          <p>We compared these five current picks, distinguishing the purpose-built clock display (Echo Spot) from display-free speakers. Prices here run from roughly $50 to $100.</p>
+          <p>We compared these five current picks, distinguishing the purpose-built clock display (Echo Spot) from display-free speakers. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

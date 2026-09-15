@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Lightweight Tablets can look similar in a listing photo but differ in ways that matter once real daily use is involved: device weight, case weight, and center of gravity are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 7" on the YQSAVIOR 7 inch Tablet up to 11" on the Apple iPad 11-inch: A16 chip, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning YQSAVIOR 7 inch Tablet at $39.99 up to Apple iPad 11-inch: A16 chip at $399.00, with a focus on publishing bare tablet and realistic protected carry weight, and cross-checked battery life and durability against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning YQSAVIOR 7 inch Tablet up to Apple iPad 11-inch: A16 chip, with a focus on publishing bare tablet and realistic protected carry weight, and cross-checked battery life and durability against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

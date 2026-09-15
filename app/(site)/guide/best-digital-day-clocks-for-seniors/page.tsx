@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors, actual text size, button labeling clarity, remote-control dependence, alarm setup complexity, and automatic dimming behavior matter more than screen-diagonal marketing claims alone. We prioritized picks with named readability and accessibility-focused features over generic 'large display' language.</p>
-          <p>We compared these eight current picks on named accessibility features and price. Prices here run from roughly $25 to $60.</p>
+          <p>We compared these eight current picks on named accessibility features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

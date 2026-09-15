@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Commercial Carpet Cleaners can look similar in a listing photo but differ in ways that matter once real daily use is involved: duty cycle, water lift or recovery, and tank size are the details most listings gloss over in favor of a generic spec sheet. Capacity alone in this lineup spans from 1.5 on the Rug Doctor Pro Deep Commercial Carpet Cleaner with Oxy Cleaner Bundle up to 1.75 on the BISSELL Big Green Professional Carpet Cleaner, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning BISSELL TurboClean Upright Carpet Cleaner at $123.99 up to Rug Doctor Pro Deep Commercial Carpet Cleaner with Oxy Cleaner Bundle at $649.99, with a focus on defining homeowner pro-grade versus true commercial duty before choosing products, and cross-checked cord and hose durability and parts/service against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning BISSELL TurboClean Upright Carpet Cleaner up to Rug Doctor Pro Deep Commercial Carpet Cleaner with Oxy Cleaner Bundle, with a focus on defining homeowner pro-grade versus true commercial duty before choosing products, and cross-checked cord and hose durability and parts/service against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

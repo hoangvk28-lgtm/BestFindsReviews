@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that garden hose nozzles for seniors are basically interchangeable once you've picked a price range. In practice, Trigger/lever force, Continuous-flow lock, and Wet grip are the factors that separate a pick you'll be happy with from one you'll want to return. Length alone in this lineup spans from 10 ft on the Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No up to 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning PeoMev Metal Garden Hose Holder Wall Mounted Water Hose Holder for Outside at $9.99 up to ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI at $26.09, with a focus on measuring trigger or lever force and whether continuous squeezing is required, and cross-checked Dial torque and coupling grip against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning PeoMev Metal Garden Hose Holder Wall Mounted Water Hose Holder for Outside up to ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI, with a focus on measuring trigger or lever force and whether continuous squeezing is required, and cross-checked Dial torque and coupling grip against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight rarely show up as clear differentiators in a standard listing for corded electric leaf blowers, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 180 CFM on the BLACK+DECKER Electric Leaf Blower up to 700 CFM on the SENIX 12 AMP Corded Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning Grasstigon Electric Leaf Blower Corded at $30.99 up to WORX Trivac 3-in-1 Electric Leaf Blower/Leaf Vacuum/Leaf Mulcher at $77.27, focusing first on specify minimum extension-cord gauge by amperage and run length from the manual. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning Grasstigon Electric Leaf Blower Corded up to WORX Trivac 3-in-1 Electric Leaf Blower/Leaf Vacuum/Leaf Mulcher, focusing first on specify minimum extension-cord gauge by amperage and run length from the manual. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

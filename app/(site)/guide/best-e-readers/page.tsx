@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>E-readers split into two genuinely different classes: simple reading-first devices like Kindle and PocketBook that prioritize a closed, distraction-free experience, and open Android ePaper devices from brands like Bigme and Musnap that run apps and support sideloading. We compared devices across both classes rather than judging them on one shared rubric.</p>
-          <p>We compared these eight current picks on display type, ecosystem, and battery life. Prices here run from roughly $95 to $230.</p>
+          <p>We compared these eight current picks on display type, ecosystem, and battery life. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

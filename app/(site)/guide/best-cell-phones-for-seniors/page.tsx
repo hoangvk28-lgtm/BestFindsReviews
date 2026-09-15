@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Senior cell phones split into two genuinely different tiers. Purpose-built senior phones, like the Jitterbug Flip2 and simplified Android options, prioritize large buttons, simple menus, and dedicated safety features. Mainstream smartphones, like the iPhone 17, Google Pixel 10a, and Samsung Galaxy A16 5G, work well for seniors comfortable with modern tech and bring genuinely strong built-in accessibility features. We cover both tiers honestly rather than assuming every senior wants the same simplicity level.</p>
-          <p>We compared these eight current picks across both tiers on price, accessibility, and ease of use. Prices here run from roughly $40 to $750.</p>
+          <p>We compared these eight current picks across both tiers on price, accessibility, and ease of use. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

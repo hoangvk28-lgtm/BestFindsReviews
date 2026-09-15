@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Microwaves With Large Buttons can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: button dimensions, contrast, and press force are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 700W on the Commercial Chef 0.6 Cu. Ft. Countertop Microwave Oven up to 800W on the Nostalgia Retro Countertop Microwave Oven - Large 800-Watt - 0.9 cu, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 8 models below, spanning Commercial Chef 0.6 Cu. Ft. Countertop Microwave Oven at $68.36 up to Sharp R-21LCFS Medium-Duty Commercial Microwave Oven with Dial Timer at $335.00, with a focus on measuring button height and width from official dimensions or direct inspection, and cross-checked label clarity and one-press behavior against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Commercial Chef 0.6 Cu. Ft. Countertop Microwave Oven up to Sharp R-21LCFS Medium-Duty Commercial Microwave Oven with Dial Timer, with a focus on measuring button height and width from official dimensions or direct inspection, and cross-checked label clarity and one-press behavior against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

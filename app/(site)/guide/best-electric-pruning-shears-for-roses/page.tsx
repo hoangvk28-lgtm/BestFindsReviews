@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Rose canes are thinner and more delicate than typical branch material, but the thorny, tangled growth habit means precision and light, controllable weight matter more than raw cutting power. We focused this comparison on models with smaller stated cutting diameters and lighter designs suited to careful rose work.</p>
-          <p>We compared these six current picks on named cutting diameter, weight, and price. Prices here run from roughly $29 to $50, and cutting capacity spans a compact 0.6 inches up to 2.05 inches.</p>
+          <p>We compared these six current picks on named cutting diameter, weight, and price. Prices here span a wide range across this lineup and cutting capacity spans a compact 0.6 inches up to 2.05 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

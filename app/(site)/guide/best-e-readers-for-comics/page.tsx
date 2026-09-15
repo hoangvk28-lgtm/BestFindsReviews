@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Comics reading genuinely benefits from color capability and screen size in a way novels don't, color panels lose meaning entirely on monochrome displays, and small screens force zoom on detailed panel art. We tested full-color comics and grayscale graphic novels as distinct use cases rather than treating comics as one uniform category.</p>
-          <p>We compared these seven current picks on screen size and color rendering. Prices here run from roughly $185 to $345.</p>
+          <p>We compared these seven current picks on screen size and color rendering. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

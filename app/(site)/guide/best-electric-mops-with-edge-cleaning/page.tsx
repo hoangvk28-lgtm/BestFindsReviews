@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Edge-cleaning claims are common but often marketing-led, the meaningful question is how close the roller or pad genuinely gets to baseboards and inside corners, leaving less of an uncleaned strip. We prioritized picks that explicitly name edge or wall-gap-specific engineering over generic 'cleans edges' language.</p>
-          <p>We compared these eight current picks on named edge design and price. Prices here run from roughly $56 to $270.</p>
+          <p>We compared these eight current picks on named edge design and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

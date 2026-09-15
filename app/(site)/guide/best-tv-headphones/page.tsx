@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>TV headphone roundups often mix ordinary Bluetooth headphones, dedicated RF transmitter systems, and hearing-focused listening systems without distinguishing them. We classify these seven current picks by connection method first, since this determines your real lip-sync performance, setup complexity, and whether you need optical, analog, or Bluetooth TV output.</p>
-          <p>We compared these picks on connection type, latency claims, and price. Prices here run from roughly $50 to $230.</p>
+          <p>We compared these picks on connection type, latency claims, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

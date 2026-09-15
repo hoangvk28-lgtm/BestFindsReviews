@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: we define "mini" by genuine pocketability and small physical dimensions rather than simply anything under 7 inches. Our current search returned a genuinely thin pool of true mini devices, three picks ranging from an ultra-compact 2.66-inch reader to a still-pocketable 4.26-inch device, we did not pad this list with larger 6-inch readers mislabeled as mini.</p>
-          <p>We compared these three current picks on size and functionality. Prices here run from roughly $69 to $85, plus one listing with limited pricing data.</p>
+          <p>We compared these three current picks on size and functionality. Prices here span a wide range across this lineup plus one listing with limited pricing data.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>An electric pruning shear costs meaningfully more than a manual pruner and adds charging and battery management to your routine, real tradeoffs against the reduced hand fatigue and thicker-branch capability it offers. Whether it's worth it genuinely depends on how much you prune, your hand strength, and your typical branch thickness, not a universal yes.</p>
-          <p>We break down the honest tradeoffs below and compare six current models spanning entry-level to genuinely higher-capacity options. Prices here run from roughly $50 to $120.</p>
+          <p>We break down the honest tradeoffs below and compare six current models spanning entry-level to genuinely higher-capacity options. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For a senior gardener, empty cart weight matters less than handle design, seat comfort, and how much force it takes to start a loaded cart moving. Several products in this comparison are marketed specifically toward this use case, with adjustable handles, swivel seats, and easy-maneuver features called out directly.</p>
-          <p>We compared these eight current picks on handle adjustability, whether the product has a genuine seated work position, and rolling ease. Prices here run from roughly $56 to $127.</p>
+          <p>We compared these eight current picks on handle adjustability, whether the product has a genuine seated work position, and rolling ease. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

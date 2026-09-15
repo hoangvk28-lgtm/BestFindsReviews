@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Nearly every electric pruning shear on the market today is cordless, so the real differentiator within this category isn't battery versus cord, it's how the battery and cutting modes are set up. Multiple adjustable modes let you dial down power for delicate stems and dial up for thicker branches, a genuine control feature some listings skip entirely.</p>
-          <p>We compared these eight current cordless picks on named cutting modes, battery configuration, and cutting diameter. Prices here run from roughly $46 to $140.</p>
+          <p>We compared these eight current cordless picks on named cutting modes, battery configuration, and cutting diameter. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

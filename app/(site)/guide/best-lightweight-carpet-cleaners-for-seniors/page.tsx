@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Lightweight Carpet Cleaners for Seniors can look similar in a listing photo but differ in ways that matter once real daily use is involved: empty weight, full clean-tank weight, and push/pull force are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Starrybot Upholstery Cleaner Machine at $59.98 up to Shark StainStriker Portable Carpet/Upholstery Cleaner at $149.99, with a focus on publishing empty and ready-to-clean weight with a realistic amount of water, and cross-checked tank release force and storage lift against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Starrybot Upholstery Cleaner Machine up to Shark StainStriker Portable Carpet/Upholstery Cleaner, with a focus on publishing empty and ready-to-clean weight with a realistic amount of water, and cross-checked tank release force and storage lift against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

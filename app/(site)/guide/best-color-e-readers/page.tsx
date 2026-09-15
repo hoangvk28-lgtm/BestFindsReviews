@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Color E Ink genuinely trades some monochrome sharpness and screen brightness for the ability to display color illustrations, comics, and highlights. We compared these picks with that tradeoff explicit rather than treating color capability alone as a quality signal, since color panels currently have lower PPI and require more front light than monochrome displays at the same price tier.</p>
-          <p>We compared these eight current picks on display technology and price. Prices here run from roughly $165 to $290.</p>
+          <p>We compared these eight current picks on display technology and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

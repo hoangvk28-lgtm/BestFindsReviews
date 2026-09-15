@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that toro leaf blowers are basically interchangeable once you've picked a price range. In practice, Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 180 CFM on the BLACK+DECKER Electric Leaf Blower up to 765 CFM on the EGO POWER+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning BLACK+DECKER Electric Leaf Blower at $49.00 up to EGO POWER+ Cordless Electric Leaf Blower at $359.00, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning BLACK+DECKER Electric Leaf Blower up to EGO POWER+ Cordless Electric Leaf Blower, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

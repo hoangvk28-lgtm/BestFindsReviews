@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Jitterbug is a brand by Lively (formerly GreatCall). This is a critical caveat: all Jitterbug phones require Lively service activation and are not compatible with other wireless carriers. Factor this into your decision before comparing individual models, since you cannot bring a Jitterbug phone to Verizon, AT&T, or T-Mobile directly.</p>
-          <p>We compared these five current Jitterbug picks by model tier and price. Plans start at $14.99/month for the Flip2 and $19.99/month for the Smart series.</p>
+          <p>We compared these five current Jitterbug picks by model tier and price. Plans start at a lower monthly rate for the Flip2, with the Smart series carrying a somewhat higher monthly rate.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

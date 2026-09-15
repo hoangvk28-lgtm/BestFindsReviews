@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Google's current smart speaker lineup on Amazon is genuinely limited compared to Amazon's own Echo selection. The Nest Audio 3-pack is the flagship option reliably available here, while single-unit Nest Audio listings have limited Amazon availability and may require shopping directly from Google. The Nest Mini serves as the entry-level option in two generations.</p>
-          <p>We compared these four current Google-ecosystem picks by price and availability. Prices here run from roughly $80 to $400.</p>
+          <p>We compared these four current Google-ecosystem picks by price and availability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

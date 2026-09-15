@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Black+Decker's Dustbuster lineup spans budget quick-cleanup models up to 20V power-rated picks with specialized pet-hair attachments. We compared the full current lineup on named power ratings, included accessories, and price.</p>
-          <p>Prices here run from roughly $25 to $80, genuinely the most affordable brand-name lineup among the major players in this category.</p>
+          <p>Prices here span a wide range across this lineup genuinely the most affordable brand-name lineup among the major players in this category.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Bathroom cleaning presents specific challenges, tile grout lines, fixture crevices, and constant moisture exposure. We compared current picks explicitly named for bathroom use, including both standalone electric units and drill attachment sets.</p>
-          <p>Prices here run from roughly $9 to $45, with standalone electric units generally costing more than drill attachment sets since they include their own motor and battery.</p>
+          <p>Prices here span a wide range across this lineup with standalone electric units generally costing more than drill attachment sets since they include their own motor and battery.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

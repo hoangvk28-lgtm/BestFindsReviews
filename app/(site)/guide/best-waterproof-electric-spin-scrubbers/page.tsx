@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Many electric spin scrubbers are marketed for shower and bathroom use without naming an actual waterproof rating, a meaningful gap since these tools inherently face direct water exposure. We checked current listings specifically for a named IPX rating and found only one pick in this comparison that explicitly confirms this.</p>
-          <p>Prices here run from roughly $25 to $85. We're flagging clearly which picks name a genuine waterproof rating versus which simply market toward shower use without this specific confirmation.</p>
+          <p>Prices here span a wide range across this lineup. We're flagging clearly which picks name a genuine waterproof rating versus which simply market toward shower use without this specific confirmation.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

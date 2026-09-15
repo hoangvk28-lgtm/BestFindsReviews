@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Every pick in this comparison genuinely includes a subwoofer in the box, we excluded soundbars that require a separate subwoofer purchase to keep this list honest about real total cost. We weighed crossover integration, whether bass sounds connected to the dialogue rather than detached, alongside named power output and wireless connectivity.</p>
-          <p>We compared these seven current picks on bass performance and price. Prices here run from roughly $48 to $349.</p>
+          <p>We compared these seven current picks on bass performance and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

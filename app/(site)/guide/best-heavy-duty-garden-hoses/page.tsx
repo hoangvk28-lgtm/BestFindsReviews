@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing heavy-duty garden hoses often assume any well-reviewed listing is a safe bet, but Current US product pool and Inside diameter and fitting restriction vary enough between these picks to change which one actually fits a given yard, and dry versus filled handling is rarely spelled out clearly on the product page. Length alone in this lineup spans from 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning PUUKU Garden Hose 25ft x 5/8" at $20.39 up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water at $55.97, with particular attention to publishing working pressure separately from burst pressure. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning PUUKU Garden Hose 25ft x 5/8" up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water, with particular attention to publishing working pressure separately from burst pressure. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

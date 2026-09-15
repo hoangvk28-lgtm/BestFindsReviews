@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>An accidental trigger squeeze on a powered blade is a real risk, especially during transport, storage, or when reaching into dense foliage. A safety lock or switch prevents the blade from actuating until you deliberately disengage it, worth prioritizing alongside cutting capacity when comparing models.</p>
-          <p>We compared these eight current picks on named safety features, cutting diameter, and price. Prices here run from roughly $30 to $170, and only some listings explicitly document a safety lock or switch.</p>
+          <p>We compared these eight current picks on named safety features, cutting diameter, and price. Prices here span a wide range across this lineup and only some listings explicitly document a safety lock or switch.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>At 15 inches and up, digital photo frames shift from tabletop accents to genuine wall art, so touch response, mount hardware, and FHD resolution matter more than at smaller sizes. We compared eight current picks spanning Aura's premium no-subscription model to budget FHD alternatives.</p>
-          <p>Prices here run from roughly $90 to $275, reflecting real differences in brand ecosystem and no-subscription value versus budget FHD hardware.</p>
+          <p>Prices here span a wide range across this lineup reflecting real differences in brand ecosystem and no-subscription value versus budget FHD hardware.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: Makita doesn't currently sell its own electric pruning shear. All five products in this comparison are third-party tools designed to run on Makita's 18V LXT battery platform, real convenience if you already own Makita batteries from other tools, but worth understanding these aren't Makita-branded products.</p>
-          <p>We compared these five current picks on named cutting diameter, whether a battery is included, and price. Prices here run from roughly $45 to $130, and cutting capacity spans an adjustable 0.8-1.2 inches up to a stated 2.4 inches.</p>
+          <p>We compared these five current picks on named cutting diameter, whether a battery is included, and price. Prices here span a wide range across this lineup and cutting capacity spans an adjustable 0.8-1.2 inches up to a stated 2.4 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Toaster Ovens for Seniors can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet. Rated wattage alone in this lineup spans from 800W on the Elite Gourmet ETO449X Toaster Oven up to 1800W on the Cuisinart Toaster Oven Broiler, a real difference worth checking against your own use case.</p>
-          <p>We compared all 6 models below, spanning Elite Gourmet ETO236 Compact 2-Slice Toaster Oven at $29.99 up to Cuisinart Toaster Oven Broiler at $99.95, with a focus on measuring door-opening force, rack pull force and tray weight, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Elite Gourmet ETO236 Compact 2-Slice Toaster Oven up to Cuisinart Toaster Oven Broiler, with a focus on measuring door-opening force, rack pull force and tray weight, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

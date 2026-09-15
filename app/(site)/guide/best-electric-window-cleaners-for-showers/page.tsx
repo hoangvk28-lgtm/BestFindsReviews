@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shower glass accumulates hard water spots and soap scum quickly, and an electric squeegee designed for this environment can be a faster daily habit than a separate wiping towel. We compared current picks specifically named for shower or bathroom use, checking for compact size and multi-surface versatility.</p>
-          <p>Prices here run from roughly $42 to $80. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
+          <p>Prices here span a wide range across this lineup. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

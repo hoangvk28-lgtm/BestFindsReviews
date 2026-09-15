@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets With Large Icons can look similar in a listing photo but differ in ways that matter once real daily use is involved: native icon scaling, launcher support, and text scaling are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the AOC 10 Inch Tablet Android 16 up to 13.4" on the TECLAST T65 13.4" Android16 4G Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning AOC 10 Inch Tablet Android 16 at $109.99 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not at $399.99, with a focus on testing native launcher icon scaling without third-party apps, and cross-checked touch targets and app compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning AOC 10 Inch Tablet Android 16 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not, with a focus on testing native launcher icon scaling without third-party apps, and cross-checked touch targets and app compatibility against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

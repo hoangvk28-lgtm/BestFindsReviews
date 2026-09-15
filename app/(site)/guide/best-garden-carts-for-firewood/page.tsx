@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Firewood puts concentrated, irregular point loads on a cart bed in a way loose soil or mulch doesn't, split logs can dig into a poly or fabric bed and stack unevenly against thin side panels. A steel frame with real side height generally holds up better to repeated firewood hauling than a lighter-duty cart.</p>
-          <p>We compared these eight current picks on frame material, side wall height, and rated capacity. Prices here run from roughly $80 to $180.</p>
+          <p>We compared these eight current picks on frame material, side wall height, and rated capacity. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

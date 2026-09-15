@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Vinyl and luxury vinyl plank (LVP) are genuinely water-resistant, more tolerant than hardwood, but not fully waterproof, excessive soaking can still seep into seams over time. Low-moisture or controlled-spray cleaning is the safer approach, and steam should be used with real caution on vinyl specifically.</p>
-          <p>We compared these eight current picks on named water control and vinyl-relevant safety. Prices here run from roughly $56 to $199.</p>
+          <p>We compared these eight current picks on named water control and vinyl-relevant safety. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Dry machine weight on a spec sheet doesn't tell the whole story, water in the tank and handle leverage during actual wet cleaning matter more for how heavy a mop genuinely feels in use. This comparison spans spin-mop style units, generally 3.5 to 5.5 pounds, and floor-washer combos, typically 8 to 12 pounds, worth understanding as genuinely different weight classes.</p>
-          <p>We compared these eight current picks on named weight and design. Prices here run from roughly $30 to $180.</p>
+          <p>We compared these eight current picks on named weight and design. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

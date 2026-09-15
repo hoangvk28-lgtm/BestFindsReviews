@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best L-Shaped Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Inner reach, Brace layout, and Panel compatibility are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Sunnydaze Decor Sunnydaze Galvanized Raised Garden Bed up to 18 inches on the A ANLEOLIFE Anleolife 74x74x18in L-Shaped Galvanized Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 6 models below, spanning Sunnydaze Decor Sunnydaze L-Shaped Galvanized Raised Garden Bed at $71.74 up to Annoell 2 Pcs L-Shaped Galvanized Raised Garden Bed at $469.98, with a focus on measuring inner-corner reach and identify dead planting zones, and cross-checked Soil volume and Leveling against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning Sunnydaze Decor Sunnydaze L-Shaped Galvanized Raised Garden Bed up to Annoell 2 Pcs L-Shaped Galvanized Raised Garden Bed, with a focus on measuring inner-corner reach and identify dead planting zones, and cross-checked Soil volume and Leveling against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

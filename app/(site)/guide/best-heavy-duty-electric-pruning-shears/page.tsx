@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Cutting through thick, established branches asks more of a pruning shear than typical rose or vine work, real motor power, a wide cutting diameter, and durable blade steel matter more here than compact size or light weight. We focused this comparison on models with the largest stated cutting capacity in the current market.</p>
-          <p>We compared these eight current picks on named cutting diameter, included batteries, and blade material. Prices here run from roughly $60 to $200, and cutting capacity spans 1.65 inches up to 2.75 inches.</p>
+          <p>We compared these eight current picks on named cutting diameter, included batteries, and blade material. Prices here span a wide range across this lineup and cutting capacity spans 1.65 inches up to 2.75 inches.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A built-in answering machine records messages locally on the phone base, distinct from carrier voicemail and useful if you want message access without dialing into a voicemail service. Panasonic, AT&T, and VTech all currently sell answering-machine-equipped cordless systems, with real differences in handset count and call-blocking depth.</p>
-          <p>We compared these seven current picks on named handset count, call-blocking features, and price. Prices here run from roughly $39 to $88.</p>
+          <p>We compared these seven current picks on named handset count, call-blocking features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

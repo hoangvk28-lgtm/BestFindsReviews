@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A frame that looks great on a desk doesn't always hang well on a wall. We compared current large-format picks specifically for wall-mount hardware quality, weight, and cable management rather than general size alone.</p>
-          <p>Prices here run from roughly $90 to $396, with the largest extra-large format commanding the highest price in this comparison.</p>
+          <p>Prices here span a wide range across this lineup with the largest extra-large format commanding the highest price in this comparison.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

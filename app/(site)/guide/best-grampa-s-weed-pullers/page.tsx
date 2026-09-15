@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for grampa's weed pullers can look nearly identical in a thumbnail, yet current SKU count, mechanism/material, and warranty are exactly the details a generic spec sheet tends to leave out.</p>
-          <p>We put 8 models head-to-head below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden at $49.71, focusing first on building a current SKU map and decide whether a plural roundup is justified. Replacement/support and weed/soil fit got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning RexWeed Stand Up Weed Puller Tool up to HAUSPROFI Stand Up Weed Puller Tool with Adjustable Long Handle and 50L Garden, focusing first on building a current SKU map and decide whether a plural roundup is justified. Replacement/support and weed/soil fit got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

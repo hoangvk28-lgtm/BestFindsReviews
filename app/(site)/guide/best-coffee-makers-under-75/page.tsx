@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Amazon pricing shifts constantly at this tier, and a machine sitting at $45 today can drift back up past $75 once a temporary discount ends. Every price and spec below reflects a live pull at the time this guide was last updated, so confirm the current price on the product page before assuming a listed model still fits this budget.</p>
+          <p>Amazon pricing shifts constantly at this tier, and a machine sitting at the low end of this range today can drift back up toward the top of it once a temporary discount ends. Every price and spec below reflects a live pull at the time this guide was last updated, so confirm the current price on the product page before assuming a listed model still fits this budget.</p>
           <p>This roughly $50 to $75 range sits between our Under $50 guide and our Under $100 guide, and it generally buys sturdier build quality and more genuine programmability than the cheapest tier without yet reaching the flexibility of dual-mode or single-serve machines. We compared four current models on features, capacity, and a first-year cost estimate that includes filters and descaling, not just the sticker price.</p>
         </section>
 

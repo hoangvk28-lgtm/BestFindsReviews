@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Portability means different things depending on context, some buyers want a tool that moves easily between rooms, others want something genuinely grab-and-go between home and car. We compared current picks explicitly named for portable, dual-use flexibility.</p>
-          <p>Prices here run from roughly $25 to $112, with named home-and-car compatibility and included charging solutions distinguishing the strongest portable picks.</p>
+          <p>Prices here span a wide range across this lineup with named home-and-car compatibility and included charging solutions distinguishing the strongest portable picks.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

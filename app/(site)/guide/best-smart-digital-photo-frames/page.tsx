@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We required genuine remote network sharing plus app or cloud management for eligibility here, not just Wi-Fi connectivity. Contributor permissions, invitation flow, and upload latency vary meaningfully across brands, and widgets or voice features shouldn't be confused with core photo quality.</p>
-          <p>We compared these eight current picks on remote sharing depth and price. Prices here run from roughly $48 to $150.</p>
+          <p>We compared these eight current picks on remote sharing depth and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

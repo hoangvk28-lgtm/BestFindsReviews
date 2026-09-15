@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors or anyone with limited mobility, grip strength, or difficulty bending, the right electric spin scrubber prioritizes named handle length and control simplicity over raw power or brush head count. We compared current picks with this specific priority.</p>
-          <p>Prices here run from roughly $24 to $85. A lighter tool with a long handle and simple single-button control generally serves this use case better than a heavier, more feature-dense premium model.</p>
+          <p>Prices here span a wide range across this lineup. A lighter tool with a long handle and simple single-button control generally serves this use case better than a heavier, more feature-dense premium model.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

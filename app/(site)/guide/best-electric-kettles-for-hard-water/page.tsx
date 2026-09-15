@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Electric Kettles for Hard Water can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Anti-scale filter, Opening access, and Descale method are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning Hamilton Beach 1 Liter Electric Tea Kettle at $24.99 up to Cuisinart Electric Kettle at $105.68, with a focus on retargeting the primary keyword toward 'best electric kettles for hard water'; keep 'descale electric kettle' as a separate informational support article, and cross-checked Scale visibility and Filter replacement against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Hamilton Beach 1 Liter Electric Tea Kettle up to Cuisinart Electric Kettle, with a focus on retargeting the primary keyword toward 'best electric kettles for hard water'; keep 'descale electric kettle' as a separate informational support article, and cross-checked Scale visibility and Filter replacement against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

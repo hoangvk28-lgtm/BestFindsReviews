@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Wet-dry mop" spans a genuine spectrum, from lightweight spray-mop-and-vacuum hybrids like Shark's VACMOP up to full wet-dry floor washers like BISSELL CrossWave and DREAME's H12 Pro. We clarify where each pick sits on that spectrum rather than treating them as identical.</p>
-          <p>We compared these seven current picks on named wet-and-dry capability and price. Prices here run from roughly $59 to $270.</p>
+          <p>We compared these seven current picks on named wet-and-dry capability and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that 360-degree swivel garden seats are basically interchangeable once you've picked a price range. In practice, Rotation effort, Bearing play, and Seat lock if any are the factors that separate a pick you'll be happy with from one you'll want to return. Weight Capacity alone in this lineup spans from 330 lbs on the Goplus Garden Seat with Wheels up to 400 lbs on the VEVOR Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning Suntee Garden Seat with Wheels at $68.39 up to iToolMax Outdoor Garden Stool with 360° Swivel Caster Wheels at $129.99, focusing first on measuring rotation force and bearing smoothness under the rated load. Side-reach stability and height got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning Suntee Garden Seat with Wheels up to iToolMax Outdoor Garden Stool with 360° Swivel Caster Wheels, focusing first on measuring rotation force and bearing smoothness under the rated load. Side-reach stability and height got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

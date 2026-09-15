@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Hearing accessibility on a cordless phone covers several distinct features, amplification, hearing aid compatibility, visual ringers, and tone control, worth understanding separately rather than assuming any 'accessible' phone covers all of them. Panasonic and AT&T both currently document specific hearing-related features rather than relying on vague loud-volume marketing.</p>
-          <p>We compared these five current picks on named hearing-accessibility features and price. Prices here run from roughly $23 to $220.</p>
+          <p>We compared these five current picks on named hearing-accessibility features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

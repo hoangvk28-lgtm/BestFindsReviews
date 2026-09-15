@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for rolling garden seats with big wheels can look nearly identical in a thumbnail, yet wheel diameter, tire width, and pneumatic versus solid are exactly the details a generic spec sheet tends to leave out. Weight Capacity alone in this lineup spans from 300 lbs on the VEVOR Rolling Garden Cart with Swivel Seat up to 400 lbs on the VEVOR Garden Seat with Wheels, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning VEVOR Rolling Garden Cart with Swivel Seat at $51.90 up to Goplus Garden Seat with Wheels at $119.99, with particular attention to publishing wheel diameter and tread width together. We also verified Rolling resistance and turning radius directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning VEVOR Rolling Garden Cart with Swivel Seat up to Goplus Garden Seat with Wheels, with particular attention to publishing wheel diameter and tread width together. We also verified Rolling resistance and turning radius directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

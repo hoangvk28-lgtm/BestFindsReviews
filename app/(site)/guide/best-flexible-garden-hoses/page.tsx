@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for flexible garden hoses can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 100 ft on the Flexi Hose with 8 Function Nozzle, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI at $26.09 up to Flexi Hose with 8 Function Nozzle at $76.49, with particular attention to measuring cold pliability and bend radius. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI up to Flexi Hose with 8 Function Nozzle, with particular attention to measuring cold pliability and bend radius. We also verified Working pressure and measured flow and repairability and warranty directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

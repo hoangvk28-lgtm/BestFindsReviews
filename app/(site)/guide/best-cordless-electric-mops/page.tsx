@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Cordless electric mops span several genuinely different product classes, powered spin mops, full wet-dry floor washers, and vacuum-mop combos, worth distinguishing before comparing battery life or tank size, since these machines solve different cleaning problems. We flagged each pick's actual category rather than treating them as interchangeable.</p>
-          <p>We compared these eight current picks on named product class, battery/tank capacity, and price. Prices here run from roughly $56 to $187.</p>
+          <p>We compared these eight current picks on named product class, battery/tank capacity, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

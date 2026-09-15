@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Black & Decker Toaster Ovens can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 5 models below, spanning BLACK+DECKER TO1313SBD Toaster Oven at $59.99 up to BLACK+DECKER TO3250XSBD 8-Slice Extra Wide Convection Countertop at $86.87, with a focus on building a current eligibility table and remove discontinued, mismatched or retailer-only products, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning BLACK+DECKER TO1313SBD Toaster Oven up to BLACK+DECKER TO3250XSBD 8-Slice Extra Wide Convection Countertop, with a focus on building a current eligibility table and remove discontinued, mismatched or retailer-only products, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

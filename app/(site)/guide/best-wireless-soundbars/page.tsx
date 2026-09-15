@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Wireless soundbar" is genuinely ambiguous, it can mean a wireless subwoofer connection, wireless TV-to-bar audio via Bluetooth, or Wi-Fi streaming capability. Every soundbar still needs a power cord regardless of these wireless features. We define exactly what's wireless on each pick here rather than assuming the label covers everything.</p>
-          <p>We compared these five current picks by what's actually wireless. Prices here run from roughly $30 to $279.</p>
+          <p>We compared these five current picks by what's actually wireless. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds With Legs can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Leg cross-section, Bracing, and Liner are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 24 inches on the Tegarbed 6x3x2ft Raised Garden Bed up to 36 inches on the Lineware 8x4x3 ft Tall Galvanized Raised Garden Bed with, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 7 models below, spanning Yardbliss Large Galvanized Raised Garden Bed Outdoor with Legs at $45.88 up to DIIYIV 2PCS Galvanized Raised Garden Bed with Legs at $89.99, with a focus on measuring leg and cross-brace deflection under saturated-soil load, and cross-checked Floor load and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Yardbliss Large Galvanized Raised Garden Bed Outdoor with Legs up to DIIYIV 2PCS Galvanized Raised Garden Bed with Legs, with a focus on measuring leg and cross-brace deflection under saturated-soil load, and cross-checked Floor load and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

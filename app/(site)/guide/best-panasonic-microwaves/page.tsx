@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Panasonic Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: inverter behavior, measured heating power, and sensor cooking are the details most listings gloss over in favor of headline wattage and capacity numbers. In this lineup alone, rated output ranges from 1200W on the Panasonic Microwave Oven NN-SN686S Stainless Steel up to 1250W on the Panasonic NN-SN76LS 1.6 cu.ft Cyclonic Inverter Countertop Microwave, a real difference in heating speed that a single star rating won't tell you.</p>
-          <p>We compared all 4 models below, spanning Panasonic Microwave Oven NN-SN686S Stainless Steel at $259.95 up to Panasonic NN-SN76LS 1.6 cu.ft Cyclonic Inverter Countertop Microwave at $329.95, with a focus on building a current Panasonic model map separating standard inverter microwaves from convection and air-fryer combo products, and cross-checked current product family and parts and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 4 models below, spanning Panasonic Microwave Oven NN-SN686S Stainless Steel up to Panasonic NN-SN76LS 1.6 cu.ft Cyclonic Inverter Countertop Microwave, with a focus on building a current Panasonic model map separating standard inverter microwaves from convection and air-fryer combo products, and cross-checked current product family and parts and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

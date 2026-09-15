@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A corded phone plugs directly into the wall jack, which means it keeps working during a power outage since it draws power from the phone line itself, but it ties you to one location. A cordless phone gives you mobility around the house but its base typically needs AC power, meaning it usually goes dead during an outage unless backup power is specifically documented.</p>
-          <p>This isn't a simple better-or-worse comparison, it depends on what matters more for the specific senior using the phone. We break down the real tradeoffs below and compare five current cordless models with strong accessibility features, since cordless remains the more common choice when mobility and modern features matter. Prices here run from roughly $23 to $122.</p>
+          <p>This isn't a simple better-or-worse comparison, it depends on what matters more for the specific senior using the phone. We break down the real tradeoffs below and compare five current cordless models with strong accessibility features, since cordless remains the more common choice when mobility and modern features matter. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

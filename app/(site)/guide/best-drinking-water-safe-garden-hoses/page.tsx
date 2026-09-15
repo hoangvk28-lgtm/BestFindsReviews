@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Liner material, Coupling and washer materials, and Lead-free scope rarely show up as clear differentiators in a standard listing for drinking-water-safe garden hoses, even though they're often the real reason one pick performs better than another once it's in actual use. Length alone in this lineup spans from 10 ft on the Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No up to 50 ft on the Flexzilla Garden Hose 5/8 in. x 50 ft., a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with requiring explicit manufacturer documentation covering water-contact materials as the starting point, not an afterthought. Prices here run from $10.26 (Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No) to $39.99 (Pocket Hose Ballistic 25 FT Expandable Garden Hose). We also cross-checked Drinking-water claim scope and intended use against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with requiring explicit manufacturer documentation covering water-contact materials as the starting point, not an afterthought. Prices here span from the most affordable pick, the Camco TastePURE 10-Ft Water Hose - RV Drinking Water Hose Contains No, to the priciest pick, the Pocket Hose Ballistic 25 FT Expandable Garden Hose. We also cross-checked Drinking-water claim scope and intended use against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

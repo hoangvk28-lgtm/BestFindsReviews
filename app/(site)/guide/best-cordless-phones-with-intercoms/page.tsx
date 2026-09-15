@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Intercom lets you communicate handset-to-handset without dialing an outside number, real convenience for calling family members between rooms or announcing something to the whole house. This feature only matters with two or more handsets, and most current multi-handset systems from AT&T, VTech, and Panasonic include it as standard.</p>
-          <p>We compared these eight current picks on named intercom features, handset count, and price. Prices here run from roughly $57 to $122.</p>
+          <p>We compared these eight current picks on named intercom features, handset count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

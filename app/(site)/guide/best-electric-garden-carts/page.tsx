@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Electric garden carts range from full power-wagons that haul over 1000 lbs to lighter battery-assisted wagons meant for hauling supplies without pushing a loaded frame by hand. A few products that show up in this search are actually tow-behind trailers meant for a riding mower or ATV, not self-powered carts, worth separating clearly before comparing.</p>
-          <p>We compared these seven current picks on battery power, rated load capacity, and whether the listing documents braking or speed control, since those matter more for safety than raw wattage. Prices here span a wide range, from roughly $150 for a lighter battery-assisted wagon up to over $1,000 for a full power-wagon.</p>
+          <p>We compared these seven current picks on battery power, rated load capacity, and whether the listing documents braking or speed control, since those matter more for safety than raw wattage. Prices here span a wide range, from a lighter battery-assisted wagon at the affordable end up to a full power-wagon at the premium end.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

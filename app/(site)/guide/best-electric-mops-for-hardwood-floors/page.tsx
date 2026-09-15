@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Sealed hardwood is more moisture-sensitive than tile or vinyl, excess water can seep into seams and cause warping or discoloration over time. A genuinely hardwood-safe electric mop controls water output, dries quickly, and in the case of steam, is explicitly approved for sealed wood, not just general hard floors.</p>
-          <p>We compared these seven current picks on named water control, floor-safety documentation, and price. Prices here run from roughly $60 to $180.</p>
+          <p>We compared these seven current picks on named water control, floor-safety documentation, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

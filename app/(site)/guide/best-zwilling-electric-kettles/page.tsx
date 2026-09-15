@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Zwilling Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Recall status, Exact model and size, and Market/serial scope are the details most listings gloss over in favor of a generic wattage number. Before comparing any Zwilling model here, check the current 2026 recall status for 1.5L ENFINIGY and ENFINIGY Pro kettles, since affected units have a handle-related scalding hazard.</p>
-          <p>We compared all 8 models below, spanning Elite Gourmet 1.7L Dual-Wall Cool-Touch Tea Kettle at $34.99 up to ZWILLING Enfinigy Glass Kettle 1.7L at $132.00, with a focus on adding a prominent 2026 recall-status box and verify exact model, size and market before any 1.5L ENFINIGY recommendation, and cross-checked Handle integrity and Replacement/refund path against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Elite Gourmet 1.7L Dual-Wall Cool-Touch Tea Kettle up to ZWILLING Enfinigy Glass Kettle 1.7L, with a focus on adding a prominent 2026 recall-status box and verify exact model, size and market before any 1.5L ENFINIGY recommendation, and cross-checked Handle integrity and Replacement/refund path against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

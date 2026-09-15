@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that walk-behind leaf blowers are basically interchangeable once you've picked a price range. In practice, Engine/power system, Self-propel drive, and Discharge direction are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 765 CFM on the Husqvarna 150BT Gas Leaf Blower up to 1200 CFM on the Yardmax Gas Walk-Behind Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning PROYAMA 72CC Gas Backpack Leaf Blower at $199.00 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with a focus on measuring push or steering effort and compare self-propel versus push-only models, and cross-checked Push/steering effort and transport/storage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning PROYAMA 72CC Gas Backpack Leaf Blower up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, with a focus on measuring push or steering effort and compare self-propel versus push-only models, and cross-checked Push/steering effort and transport/storage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

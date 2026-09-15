@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Not every handheld vacuum needs to be full-sized, for quick cleanups in tight storage spaces, a genuinely compact model matters more than maximum dust capacity. We compared current picks specifically for small footprint and easy storage.</p>
-          <p>Prices here run from roughly $25 to $90, with the most compact designs generally found in the budget-to-mid price tier.</p>
+          <p>Prices here span a wide range across this lineup with the most compact designs generally found in the budget-to-mid price tier.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets for Low-Vision Seniors can look similar in a listing photo but differ in ways that matter once real daily use is involved: system magnification, screen reader, and text scaling are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 8.7" on the Lenovo Tab One - Lightweight Tablet - up to 12.5 Hours of YouTube up to 13.4" on the TECLAST T65 13.4" Android16 4G Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning AOC 10 Inch Tablet Android 16 at $109.99 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not at $399.99, with a focus on testing maximum practical text and display scaling in common apps, not settings screens only, and cross-checked contrast controls and speaker/voice access against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning AOC 10 Inch Tablet Android 16 up to GrandPad Easy to Use Tablet & Phone for Seniors [Locked - Not, with a focus on testing maximum practical text and display scaling in common apps, not settings screens only, and cross-checked contrast controls and speaker/voice access against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

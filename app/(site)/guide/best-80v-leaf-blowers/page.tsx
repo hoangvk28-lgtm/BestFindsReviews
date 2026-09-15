@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that 80v leaf blowers are basically interchangeable once you've picked a price range. In practice, Nominal/maximum voltage labeling, Battery Wh, and Tool-only versus kit are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 500 CFM on the Greenworks 80V Electric Leaf Blower up to 770 CFM on the Greenworks 80V Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 8 current models and prioritizes verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform over spec-sheet comparisons alone. Prices here run from $138.99 (Greenworks Pro Bare Tool 60-Volt Max Lithium Ion 610-CFM GEN2) to $349.00 (Greenworks 80V Backpack Leaf Blower). Ecosystem compatibility and Sustained output were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform over spec-sheet comparisons alone. Prices here span from the most affordable pick, the Greenworks Pro Bare Tool 60-Volt Max Lithium Ion 610-CFM GEN2, to the priciest pick, the Greenworks 80V Backpack Leaf Blower. Ecosystem compatibility and Sustained output were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

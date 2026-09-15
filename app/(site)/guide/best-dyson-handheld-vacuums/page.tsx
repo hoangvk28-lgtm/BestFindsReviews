@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Dyson doesn't currently sell a dedicated compact handheld vacuum in the way Shark, Black+Decker, or Bissell do. Instead, Dyson's current lineup consists of full cordless stick vacuums that convert to a handheld mode by removing the wand and floor attachment. We're being upfront about this distinction before comparing Dyson's current models.</p>
-          <p>Prices here run from roughly $300 to $580, reflecting these are genuinely priced and positioned as full cordless vacuum systems, not dedicated compact handheld tools.</p>
+          <p>Prices here span a wide range across this lineup reflecting these are genuinely priced and positioned as full cordless vacuum systems, not dedicated compact handheld tools.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

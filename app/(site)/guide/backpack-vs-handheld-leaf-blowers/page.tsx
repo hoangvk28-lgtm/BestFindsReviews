@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight rarely show up as clear differentiators in a standard listing for backpack vs handheld leaf blowers, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 450 CFM on the Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless at $195.00 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, with a focus on using matched clearing tasks rather than comparing maximum specs only, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, with a focus on using matched clearing tasks rather than comparing maximum specs only, and cross-checked Real high-output runtime and noise, warranty and service support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

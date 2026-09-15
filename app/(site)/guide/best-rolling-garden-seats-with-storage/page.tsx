@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing rolling garden seats with storage often assume any well-reviewed listing is a safe bet, but Seat height and transfer and Wheel/terrain behavior vary enough between these picks to change which one actually fits a given yard, and stability and rated load is rarely spelled out clearly on the product page. Weight Capacity alone in this lineup spans from 220 lbs on the Pure Garden Rolling Garden Cart with Seat - Plastic Storage with Bench and up to 500 lbs on the FLINTER Extra Large Garden Cart with Seat, a real difference worth checking against your own use case.</p>
-          <p>Below, all 8 models are broken down side by side, spanning Pure Garden Rolling Garden Cart with Seat at $39.95 up to Goplus Garden Seat with Wheels at $119.99, with particular attention to measuring usable basket/tray volume, not just external dimensions. We also verified Materials and weather resistance and assembly, storage and replacement parts directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 8 models are broken down side by side, spanning Pure Garden Rolling Garden Cart with Seat up to Goplus Garden Seat with Wheels, with particular attention to measuring usable basket/tray volume, not just external dimensions. We also verified Materials and weather resistance and assembly, storage and replacement parts directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

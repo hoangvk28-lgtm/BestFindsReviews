@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Carpet Cleaners for Cars can look similar in a listing photo but differ in ways that matter once real daily use is involved: hose reach, crevice-tool width, and seat extraction are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Chemical Guys at $19.99 up to Shark StainStriker Portable Carpet/Upholstery Cleaner at $149.99, with a focus on measuring whether the hose reaches every seat from a practical power-outlet position, and cross-checked drying time and power source against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Chemical Guys up to Shark StainStriker Portable Carpet/Upholstery Cleaner, with a focus on measuring whether the hose reaches every seat from a practical power-outlet position, and cross-checked drying time and power source against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

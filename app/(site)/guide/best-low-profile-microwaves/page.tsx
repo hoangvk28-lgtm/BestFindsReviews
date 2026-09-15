@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Low-Profile Microwaves can look similar on a spec sheet but differ in ways that matter once one is actually installed and used day to day: overall height, interior height, and vent capture are the details most listings gloss over in favor of headline wattage and capacity numbers.</p>
-          <p>We compared all 4 models below, spanning COSMO 30 in. Stellar Coll 1.2 cu ft Slim Over the Range Microwave Vent Fan at $469.99 up to SAMSUNG 1.1 Cu Ft Smart SLIM Over the Range Microwave Oven w/ 550 CFM at $499.00, with a focus on verifying the actual height saved compared with standard over-the-range models, and cross-checked cabinet clearance and control reach against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 4 models below, spanning COSMO 30 in. Stellar Coll 1.2 cu ft Slim Over the Range Microwave Vent Fan up to SAMSUNG 1.1 Cu Ft Smart SLIM Over the Range Microwave Oven w/ 550 CFM, with a focus on verifying the actual height saved compared with standard over-the-range models, and cross-checked cabinet clearance and control reach against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

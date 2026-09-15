@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying lightweight leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 100 CFM on the DEWALT 20V MAX Blower up to 450 CFM on the MZK 20V Cordless Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with using complete ready-to-blow weight with a realistic battery or full fuel tank as the starting point, not an afterthought. Prices here run from $39.98 (MZK 20V Cordless Leaf Blower) to $112.77 (WORX Cordless Leaf Blower). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with using complete ready-to-blow weight with a realistic battery or full fuel tank as the starting point, not an afterthought. Prices here span from the most affordable pick, the MZK 20V Cordless Leaf Blower, to the priciest pick, the WORX Cordless Leaf Blower. We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

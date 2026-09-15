@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying 50-foot garden hoses, the more useful question isn't just which one is cheapest, but which one actually holds up on current US product pool. That, along with Inside diameter and fitting restriction and Dry versus filled handling, is what we dug into for the picks below.</p>
-          <p>We compared all 8 models below, spanning Relxitl Garden Hose at $28.43 up to Pocket Hose Ballistic 50 FT Expandable Garden Hose at $59.99, with a focus on measuring dry and filled weight at the exact length, and cross-checked Working pressure and measured flow and repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Relxitl Garden Hose up to Pocket Hose Ballistic 50 FT Expandable Garden Hose, with a focus on measuring dry and filled weight at the exact length, and cross-checked Working pressure and measured flow and repairability and warranty against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

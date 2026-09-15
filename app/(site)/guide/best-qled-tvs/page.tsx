@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best QLED TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Backlight type, Local dimming, and HDR brightness are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 43" on the Samsung 43-Inch Class QLED Q7F Series Samsung Vision AI Smart TV up to 65" on the Roku 65-Inch Plus Series Smart TV - 4K QLED Mini-LED TV - RokuTV, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV at $249.99 up to TCL 65 Inch Class QM8K Series at $1097.99, with a focus on separating edge-lit, full-array and Mini-LED QLED tiers, and cross-checked Color accuracy and Price-tier context against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV up to TCL 65 Inch Class QM8K Series, with a focus on separating edge-lit, full-array and Mini-LED QLED tiers, and cross-checked Color accuracy and Price-tier context against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

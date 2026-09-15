@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that leaf blowers for wet leaves are basically interchangeable once you've picked a price range. In practice, Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 650 CFM on the LOSART Leaf Blower Cordless up to 1110 CFM on the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with standardize wetness or water mass before each test as the starting point, not an afterthought. Prices here run from $89.98 (YOOVL Leaf Blower Cordless) to $698.99 (Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with standardize wetness or water mass before each test as the starting point, not an afterthought. Prices here span from the most affordable pick, the YOOVL Leaf Blower Cordless, to the priciest pick, the Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower. We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

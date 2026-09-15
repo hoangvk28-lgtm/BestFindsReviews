@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Skylight's genuine core value is email-based photo sharing that works without a subscription, real accessibility for family contributors who don't want to install an app. Skylight Plus adds remote-management and additional features on top, we separate these clearly rather than assuming every Skylight feature is free.</p>
-          <p>We compared these current color options by finish and price. Prices here run from roughly $130 to $140.</p>
+          <p>We compared these current color options by finish and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

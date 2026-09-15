@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying ryobi leaf blowers, the more useful question isn't just which one is cheapest, but which one actually holds up on exact current model and market. That, along with CFM/MPH mode and nozzle and Ready-to-use weight, is what we dug into for the picks below. Airflow alone in this lineup spans from 100 CFM on the DEWALT 20V MAX Blower up to 550 CFM on the RYOBI 40V 120 MPH 550 CFM Cordless Battery Blower with 4.0 Ah Battery, a real difference worth checking against your own use case.</p>
-          <p>Below, all 7 models are broken down side by side, spanning MZK 20V Cordless Leaf Blower at $39.98 up to RYOBI 40V 120 MPH 550 CFM Cordless Battery Blower with 4.0 Ah Battery at $179.99, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
+          <p>Below, all 7 models are broken down side by side, spanning MZK 20V Cordless Leaf Blower up to RYOBI 40V 120 MPH 550 CFM Cordless Battery Blower with 4.0 Ah Battery, with particular attention to building a current model map separating handheld, backpack, battery, gas and blower-vac products. We also verified Real high-output runtime and noise, warranty and service support directly against current listings instead of taking manufacturer copy at face value.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

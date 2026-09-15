@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>The Eufy robot vacuum lineup has grown from a single thin, quiet vacuum-only model into a full range that spans budget slim units up through Omni and Matic systems with roller-mop washing and self-drying docks. That range makes comparison shopping harder than it looks, since a $170 model and a $680 model can both be labeled a eufy robot vacuum while solving almost entirely different problems.</p>
+          <p>The Eufy robot vacuum lineup has grown from a single thin, quiet vacuum-only model into a full range that spans budget slim units up through Omni and Matic systems with roller-mop washing and self-drying docks. That range makes comparison shopping harder than it looks, since an entry-level model and a flagship model can both be labeled a eufy robot vacuum while solving almost entirely different problems.</p>
           <p>We researched seven current, distinct eufy models rather than color or bundle variants of the same unit, and focused on the decision that actually matters first: whether you need mopping at all. From there we compared suction power, anti-tangle brush design, dock footprint, and price tier so you can match a model to your home instead of just chasing the highest suction number.</p>
         </section>
 

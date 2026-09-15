@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Over-ear TV headphones are typically worn for much longer sessions than portable headphones, a full movie or several TV episodes, so comfort factors like headband pressure, ear-cup heat, and glasses clearance matter more here than for casual listening. We prioritized picks with named comfort-related features and established brand comfort track records.</p>
-          <p>We compared these five current picks on comfort and connection type. Prices here run from roughly $60 to $230.</p>
+          <p>We compared these five current picks on comfort and connection type. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

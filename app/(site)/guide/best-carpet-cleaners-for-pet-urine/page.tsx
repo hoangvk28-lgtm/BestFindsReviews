@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Carpet Cleaners for Pet Urine can look similar in a listing photo but differ in ways that matter once real daily use is involved: fresh versus set-in urine, pretreatment chemistry, and water recovery are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 7 models below, spanning Resolve Ultra Pet Carpet Cleaner Spray - for Removal of Pet Stains & at $9.46 up to BISSELL TurboClean PET at $159.99, with a focus on using fresh and set-in synthetic urine stains with defined volume and dwell time, and cross-checked odor protocol and padding penetration against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Resolve Ultra Pet Carpet Cleaner Spray - for Removal of Pet Stains & up to BISSELL TurboClean PET, with a focus on using fresh and set-in synthetic urine stains with defined volume and dwell time, and cross-checked odor protocol and padding penetration against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

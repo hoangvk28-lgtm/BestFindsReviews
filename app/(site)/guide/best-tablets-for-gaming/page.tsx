@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets for Gaming can look similar in a listing photo but differ in ways that matter once real daily use is involved: sustained frame rate, thermal throttling, and touch latency are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10.1" on the Amazon Fire HD 10 tablet up to 13.4" on the TECLAST T65 13.4" Android16 4G Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning TABWEE Tablet at $132.99 up to Apple iPad 11-inch: A16 chip at $399.00, with a focus on running sustained gaming sessions rather than short benchmark bursts, and cross-checked display refresh and controller support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning TABWEE Tablet up to Apple iPad 11-inch: A16 chip, with a focus on running sustained gaming sessions rather than short benchmark bursts, and cross-checked display refresh and controller support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

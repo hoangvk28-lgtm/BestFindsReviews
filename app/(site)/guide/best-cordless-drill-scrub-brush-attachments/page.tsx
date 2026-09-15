@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>If you already own a cordless drill, a brush attachment set turns it into a scrubbing tool without paying for a separate motor and battery. We compared current attachment sets on piece count, brush texture variety, and surface coverage.</p>
-          <p>Prices here run from roughly $9 to $25, genuinely lower than standalone electric scrubbers since you're leveraging a drill you likely already own. All picks here require a compatible cordless drill, sold separately.</p>
+          <p>Prices here span a wide range across this lineup genuinely lower than standalone electric scrubbers since you're leveraging a drill you likely already own. All picks here require a compatible cordless drill, sold separately.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

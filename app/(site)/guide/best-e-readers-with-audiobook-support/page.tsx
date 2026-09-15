@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Audiobook support genuinely isn't uniform across e-readers. Kobo supports its own Kobo Audiobooks store through Bluetooth-paired headphones, PocketBook offers named Text-to-Speech and audiobook playback with select devices, and Android-based readers can run dedicated audiobook apps directly. We specify which ecosystem each device actually supports rather than treating audiobook capability as one checkbox.</p>
-          <p>We compared these nine current picks by their specific audiobook workflow. Prices here run from roughly $85 to $258.</p>
+          <p>We compared these nine current picks by their specific audiobook workflow. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

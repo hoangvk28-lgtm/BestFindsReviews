@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Raised Garden Beds for Seniors can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Working height, Reach, and Edge comfort are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 12 inches on the Lineware Raised Garden Bed with Self-Watering System up to 36 inches on the Lineware 8x4x3 ft Tall Galvanized Raised Garden Bed with, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 5 models below, spanning The Home Cult Self-Watering Raised Garden Bed with Legs at $39.99 up to GYMHILL Elevated Raised Garden Bed with Legs at $85.99, with a focus on using height, reach, grip, balance and lifting criteria rather than age alone, and cross-checked Assembly force and Watering access against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning The Home Cult Self-Watering Raised Garden Bed with Legs up to GYMHILL Elevated Raised Garden Bed with Legs, with a focus on using height, reach, grip, balance and lifting criteria rather than age alone, and cross-checked Assembly force and Watering access against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

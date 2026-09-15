@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Sony's BRAVIA Theatre Bar line remains a strong premium family, positioned above the entry-level S100F and mid-tier HT-S400. We compared these five current picks by tier, noting exactly which include a subwoofer or rear speakers, since Sony's naming convention doesn't always make this obvious at a glance.</p>
-          <p>We compared these picks by tier and included accessories. Prices here run from roughly $98 to $998.</p>
+          <p>We compared these picks by tier and included accessories. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

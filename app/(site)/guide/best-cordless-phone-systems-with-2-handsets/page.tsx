@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two handsets suit apartments and smaller homes well, one base location plus a bedroom or second common area, with intercom convenience between them. AT&T, VTech, Panasonic, and Gigaset all currently sell preconfigured 2-handset systems, with real differences in call blocking, Bluetooth cell link, and accessibility worth comparing directly.</p>
-          <p>We compared these eight current 2-handset bundles on named features and price. Prices here run from roughly $39 to $82.</p>
+          <p>We compared these eight current 2-handset bundles on named features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

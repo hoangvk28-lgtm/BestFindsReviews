@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Apartment living genuinely changes what matters in an electric mop, compact storage footprint, quiet operation for shared walls, tight-turn maneuverability in small kitchens and bathrooms, and no dedicated garage or utility closet for a bulky dock all factor in. Steam mops deserve a specific caution too, some lease agreements restrict moisture exposure on flooring, worth checking your lease before relying on steam regularly.</p>
-          <p>We compared these seven current picks on named compactness and quiet operation. Prices here run from roughly $30 to $180.</p>
+          <p>We compared these seven current picks on named compactness and quiet operation. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

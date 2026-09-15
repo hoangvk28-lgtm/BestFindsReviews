@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Electric mop" covers several genuinely different product classes, powered spin mops, steam mops, wet-dry floor washers, and vacuum-mop combos, each solving a different cleaning problem. This guide serves as a hub, we flag each pick's actual category rather than ranking them as if they're interchangeable.</p>
-          <p>We compared these eight current picks spanning all four categories on named mechanism, capability, and price. Prices here run from roughly $30 to $180.</p>
+          <p>We compared these eight current picks spanning all four categories on named mechanism, capability, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that portable garden hose reels are basically interchangeable once you've picked a price range. In practice, Current US product pool, Inside diameter and fitting restriction, and Dry versus filled handling are the factors that separate a pick you'll be happy with from one you'll want to return. Length alone in this lineup spans from 50 ft on the VEVOR Retractable Garden Hose Reel up to 100 ft on the glahoden Retractable Garden Hose Reel, a real difference worth checking against your own use case.</p>
-          <p>We put 7 models head-to-head below, spanning PeoMev Metal Garden Hose Holder Wall Mounted Water Hose Holder for Outside at $9.99 up to glahoden Retractable Garden Hose Reel at $129.99, focusing first on separating two-wheel carts, four-wheel wagons, free-standing reels and portable retractables. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 7 models head-to-head below, spanning PeoMev Metal Garden Hose Holder Wall Mounted Water Hose Holder for Outside up to glahoden Retractable Garden Hose Reel, focusing first on separating two-wheel carts, four-wheel wagons, free-standing reels and portable retractables. Working pressure and measured flow and repairability and warranty got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

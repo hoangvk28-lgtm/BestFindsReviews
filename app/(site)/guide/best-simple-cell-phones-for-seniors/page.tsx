@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>"Simple" covers a genuine spectrum in this category: minimal calls-only or calls-and-texts phones with no internet, simple phones with dedicated emergency features, and simple smartphones with a senior-specific interface. We define exactly where each pick falls on this spectrum rather than calling every basic-looking phone equally simple.</p>
-          <p>We compared these seven current picks across the simplicity spectrum. Prices here run from roughly $35 to $70.</p>
+          <p>We compared these seven current picks across the simplicity spectrum. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

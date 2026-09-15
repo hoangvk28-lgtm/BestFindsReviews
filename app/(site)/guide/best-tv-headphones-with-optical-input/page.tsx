@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: the optical (Toslink) input lives on the transmitter base, not the headphones themselves, headphones don't accept an optical cable directly. The transmitter converts your TV's optical digital audio output into a wireless signal for the headphones. We verified named optical support directly and flag TVs with HDMI-only/eARC output that may need an adapter.</p>
-          <p>We compared these six current picks by named optical support and price. Prices here run from roughly $50 to $180.</p>
+          <p>We compared these six current picks by named optical support and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

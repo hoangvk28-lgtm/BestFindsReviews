@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shower cleaning specifically requires reaching ceilings, tile walls, and floors, often without bending or straining. We compared current picks named for shower use, prioritizing named handle length and adjustability alongside standard scrubbing power.</p>
-          <p>Prices here run from roughly $9 to $45, with named long-handle designs generally commanding a modest premium over standard-length alternatives.</p>
+          <p>Prices here span a wide range across this lineup with named long-handle designs generally commanding a modest premium over standard-length alternatives.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

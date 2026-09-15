@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Yamaha USA still maintains its current SR-B and ATS-series soundbars alongside the newer True X Bar 50A, which adds Wi-Fi music streaming beyond the standard Bluetooth found on the rest of the lineup. We compared these four current picks by named features and connectivity, since the True X Bar represents a genuinely different generation of Yamaha's soundbar technology.</p>
-          <p>We compared these picks by feature set and price. Prices here run from roughly $265 to $350.</p>
+          <p>We compared these picks by feature set and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

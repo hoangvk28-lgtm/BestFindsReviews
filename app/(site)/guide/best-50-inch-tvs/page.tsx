@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 50-Inch TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact-size panel/backlight, Refresh rate and ports, and Physical dimensions are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 50" on the Samsung 50-Inch Class U8000H Series Crystal UHD up to 65" on the Samsung 65-Inch Class U8000H Series Crystal UHD, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning INSIGNIA 50" Class F50 Series LED 4K UHD Smart Fire TV at $179.99 up to Samsung 65-Inch Class U8000H Series Crystal UHD at $378.00, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning INSIGNIA 50" Class F50 Series LED 4K UHD Smart Fire TV up to Samsung 65-Inch Class U8000H Series Crystal UHD, with a focus on verifying the exact panel, backlight, refresh rate and port configuration at the named size, and cross-checked Series variation by size and Delivery/mounting constraints against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

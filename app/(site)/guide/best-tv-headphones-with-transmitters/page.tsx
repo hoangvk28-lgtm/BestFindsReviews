@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Transmitter-based systems are genuinely one of the most reliable TV-audio categories, since they avoid dependence on your TV's built-in Bluetooth. We required a transmitter in the box for every pick here and verified optical, analog, or dual input support directly from current listings.</p>
-          <p>We compared these six current picks on input compatibility and price. Prices here run from roughly $50 to $180.</p>
+          <p>We compared these six current picks on input compatibility and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

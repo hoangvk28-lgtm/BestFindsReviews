@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Cordless phones remain a genuinely active category in 2026, with Panasonic, AT&T, and VTech all maintaining substantial current US lineups. Handset count, call blocking, answering machines, and accessibility features vary enough between models that picking the right one depends on matching features to your actual household, not just brand recognition.</p>
-          <p>We compared these eight current picks across brands on named handset count, features, and price. Prices here run from roughly $23 to $92.</p>
+          <p>We compared these eight current picks across brands on named handset count, features, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Big-button phones come in two genuinely different styles: bar-style phones with a fixed keypad always visible, and flip-style phones where the keypad is protected when closed. We cover both, since the right choice depends on whether you prioritize always-visible buttons or a pocket-friendly closed form factor. Button backlighting and key spacing meaningfully affect misdialing, worth checking alongside raw button size.</p>
-          <p>We compared these eight current picks on button design and price. Prices here run from roughly $35 to $60.</p>
+          <p>We compared these eight current picks on button design and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

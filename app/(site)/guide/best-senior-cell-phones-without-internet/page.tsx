@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: "without internet" means different things across this category. Some phones genuinely have no browser or app store at all. Others lock down web access but still require mobile data behind the scenes for basic operation or caregiver features. We define exactly which applies to each pick, since a phone that secretly requires data doesn't deliver on a promise of no-data operation.</p>
-          <p>We compared these five current picks by their actual internet-free scope. Prices here run from roughly $30 to $200.</p>
+          <p>We compared these five current picks by their actual internet-free scope. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

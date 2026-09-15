@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Multi-Door Video Intercom Systems can look similar in a listing photo but differ in ways that matter once real daily use is involved: Exact product eligibility, Power and network requirements, and Local versus cloud behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning AMOCAM Wired Video Intercom System at $81.99 up to AMOCAM Apartment Video Intercom System at $425.16, with a focus on document maximum door stations, indoor monitors and simultaneous-call behavior, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning AMOCAM Wired Video Intercom System up to AMOCAM Apartment Video Intercom System, with a focus on document maximum door stations, indoor monitors and simultaneous-call behavior, and cross-checked Notification, audio and video reliability and Installation and long-term support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

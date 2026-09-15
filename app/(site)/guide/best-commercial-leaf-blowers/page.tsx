@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing commercial leaf blowers often assume any well-reviewed listing is a safe bet, but Exact current model and market and CFM/MPH mode and nozzle vary enough between these picks to change which one actually fits a given yard, and ready-to-use weight is rarely spelled out clearly on the product page. Airflow alone in this lineup spans from 665 CFM on the HTK Backpack Blower up to 1125 CFM on the PRORUN PBB3000 Gas Backpack Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning HTK Backpack Blower at $159.99 up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower at $698.99, focusing first on requiring commercial warranty or explicit professional-use positioning for primary picks. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning HTK Backpack Blower up to Echo 220 MPH 1110 CFM 79.9 cc Gas 2-Stroke X Series Backpack Blower, focusing first on requiring commercial warranty or explicit professional-use positioning for primary picks. Real high-output runtime and noise, warranty and service support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

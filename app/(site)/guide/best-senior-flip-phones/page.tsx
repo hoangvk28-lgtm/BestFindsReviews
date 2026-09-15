@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Senior flip phones remain a genuinely active category, led by Lively's established Jitterbug Flip2. We measured key button dimensions, earpiece and speakerphone call clarity, outer-display readability, and charging-dock convenience, and separated carrier-locked service bundles from genuinely unlocked, independent-service alternatives.</p>
-          <p>We compared these seven current picks on design and carrier lock-in. Prices here run from roughly $30 to $80.</p>
+          <p>We compared these seven current picks on design and carrier lock-in. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

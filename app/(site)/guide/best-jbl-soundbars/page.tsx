@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>JBL's refreshed MK2 family changed the current brand landscape materially, the BAR 1000 MK2 and BAR 1300X MK2 represent JBL's current premium tier, while the older BAR 5.0 remains available as a genuine entry point. Several listings here bundle a premium HDMI cable, worth noting since that affects the real price you're comparing against a bare soundbar.</p>
-          <p>We compared these five current picks by tier and bundled accessories. Prices here run from roughly $250 to $1,740.</p>
+          <p>We compared these five current picks by tier and bundled accessories. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

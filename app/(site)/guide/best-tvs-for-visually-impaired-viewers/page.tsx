@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs for Visually Impaired Viewers can look similar in a listing photo but differ in ways that matter once real daily use is involved: Screen reader coverage, High contrast/magnification, and Audio descriptions are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 43" on the Roku Smart TV - 43-Inch Select Series 4K HDR RokuTV with Roku up to 50" on the Samsung 50-Inch Class Crystal UHD U8000F 4K Smart TV (2025 Model), a real difference worth checking against your own use case.</p>
-          <p>We compared all 5 models below, spanning GE Backlit Buttons Universal Remote Control at $10.99 up to Flipper Big Button TV Remote for Seniors at $39.95, with a focus on complete initial setup with screen reader/audio guidance where supported, and cross-checked Remote tactility and Accessible setup against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning GE Backlit Buttons Universal Remote Control up to Flipper Big Button TV Remote for Seniors, with a focus on complete initial setup with screen reader/audio guidance where supported, and cross-checked Remote tactility and Accessible setup against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

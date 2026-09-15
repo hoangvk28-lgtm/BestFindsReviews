@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Seat height and transfer, Wheel/terrain behavior, and Stability and rated load rarely show up as clear differentiators in a standard listing for metal rolling garden seats, even though they're often the real reason one pick performs better than another once it's in actual use. Weight Capacity alone in this lineup spans from 400 lbs on the VEVOR Garden Seat with Wheels up to 500 lbs on the VEVOR 500 LBS Steel Garden Cart with Work Seat, a real difference worth checking against your own use case.</p>
-          <p>We put 8 models head-to-head below, spanning FLINTER Garden Cart with Seat at $55.70 up to VEVOR Garden Seat with Wheels at $109.90, focusing first on inspecting powder coating at welds, bolt holes and moving joints. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 8 models head-to-head below, spanning FLINTER Garden Cart with Seat up to VEVOR Garden Seat with Wheels, focusing first on inspecting powder coating at welds, bolt holes and moving joints. Materials and weather resistance and assembly, storage and replacement parts got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Panasonic maintains one of the deepest current US cordless phone lineups, spanning basic expandable systems up to Link2Cell Bluetooth models that pair with a mobile phone. Handset count, call blocking, and display type vary meaningfully across the current catalog, worth comparing directly rather than assuming any Panasonic phone covers your specific needs.</p>
-          <p>We compared these eight current Panasonic picks on named handset count, call-blocking features, display type, and price. Prices here run from roughly $46 to $242.</p>
+          <p>We compared these eight current Panasonic picks on named handset count, call-blocking features, display type, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

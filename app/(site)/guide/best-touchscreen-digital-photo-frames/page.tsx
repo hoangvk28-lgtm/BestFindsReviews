@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Touch isn't automatically easier, smudging, accidental swipes, and small touch targets can make on-device control more frustrating than remote app management. We compared genuine touch screen picks here on named resolution and touch responsiveness, while noting where remote app control might actually be the better workflow for some households.</p>
-          <p>We compared these picks on touch screen quality and price. Prices here run from roughly $48 to $150.</p>
+          <p>We compared these picks on touch screen quality and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

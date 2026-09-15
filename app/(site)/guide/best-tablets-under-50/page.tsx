@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets Under $50 can look similar in a listing photo but differ in ways that matter once real daily use is involved: live price, current support, and app store are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 7" on the HNVHNV Android Tablet 7 Inch Tablet up to 10" on the WUIUHOU 10 Inch Android 15 Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 5 models below, spanning ICONLINK Tablet 7Inch Android 14.0 with Protective Case at $37.99 up to WUIUHOU 10 Inch Android 15 Tablet at $55.99, with a focus on requiring at least five current reputable new devices under $50 before publishing, and cross-checked warranty and minimum performance against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 5 models below, spanning ICONLINK Tablet 7Inch Android 14.0 with Protective Case up to WUIUHOU 10 Inch Android 15 Tablet, with a focus on requiring at least five current reputable new devices under $50 before publishing, and cross-checked warranty and minimum performance against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Shoppers comparing 18v leaf blowers often assume any well-reviewed listing is a safe bet, but Nominal/maximum voltage labeling and Battery Wh vary enough between these picks to change which one actually fits a given yard, and tool-only versus kit is rarely spelled out clearly on the product page. Airflow alone in this lineup spans from 100 CFM on the Milwaukee 0884-20 M18 18 V Litio Ion 100 CFM 160 MPH Inalámbrico up to 700 CFM on the ALDIPRO 700 CFM Leaf Blower Compatible with Milwaukee M18 Battery, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Houselife 600 CFM Cordless Leaf Blower Compatible with Milwaukee 18V M18 Battery at $79.99 up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless at $195.00, with a focus on verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform, and cross-checked Ecosystem compatibility and sustained output against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Houselife 600 CFM Cordless Leaf Blower Compatible with Milwaukee 18V M18 Battery up to Milwaukee M18 FUEL 120 MPH 450 CFM 18-Volt Lithium Ion Brushless, with a focus on verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform, and cross-checked Ecosystem compatibility and sustained output against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

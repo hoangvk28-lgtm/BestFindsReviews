@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Karcher's current electric window vacuum lineup on Amazon is genuinely limited to two models, the entry-level WV 1 Plus and the premium WV 6 Plus with extended battery life. We compared these two directly, included a genuine replacement charger for existing Karcher owners, and added budget non-Karcher alternatives clearly labeled for buyers weighing established-brand cost against generic pricing.</p>
-          <p>Prices here run from roughly $12 for the charger accessory up to $167 for the premium Karcher model, with the generic comparison points running $46 to $60.</p>
+          <p>Prices here span from the charger accessory alone at the affordable end up to the premium Karcher model, with the generic comparison points landing in between.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

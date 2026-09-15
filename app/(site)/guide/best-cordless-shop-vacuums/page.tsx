@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Cordless Shop Vacuums can look similar in a listing photo but differ in ways that matter once real daily use is involved: CFM/airflow, Water lift/suction, and Tank size are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 20 min on the Seesii Cordless Wet Dry Shop Vac up to 70 min on the Uosogi Cordless Vacuum Cleaner, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Vacmaster DVOM202P 1101 2.5-Gal 20V Cordless Portable Wet/Dry Vac Red at $62.46 up to DEWALT 20V MAX Shop Vacuum Wet and Dry at $177.58, with a focus on separating wet/dry shop vacuums from household cordless sticks, and cross-checked Hose diameter and Battery runtime against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Vacmaster DVOM202P 1101 2.5-Gal 20V Cordless Portable Wet/Dry Vac Red up to DEWALT 20V MAX Shop Vacuum Wet and Dry, with a focus on separating wet/dry shop vacuums from household cordless sticks, and cross-checked Hose diameter and Battery runtime against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

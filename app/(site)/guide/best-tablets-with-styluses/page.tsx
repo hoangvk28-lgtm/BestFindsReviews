@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Tablets With Styluses can look similar in a listing photo but differ in ways that matter once real daily use is involved: pen included, active stylus protocol, and latency are the details most listings gloss over in favor of a generic spec sheet. Display alone in this lineup spans from 10" on the ZZB Tablet 2 in 1 Tablets 10 inch Android 15 Tablet Set with Keyboard up to 11" on the TCL NXTPAPER 11 Gen 2 Android Tablet, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning WUIUHOU 10 Inch Android 15 Tablet at $55.99 up to TCL NXTPAPER 11 Gen 2 Android Tablet at $209.99, with a focus on stating whether the pen is included and whether it charges or pairs separately, and cross-checked pressure/tilt and replacement nibs against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning WUIUHOU 10 Inch Android 15 Tablet up to TCL NXTPAPER 11 Gen 2 Android Tablet, with a focus on stating whether the pen is included and whether it charges or pairs separately, and cross-checked pressure/tilt and replacement nibs against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Small Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Soil volume, Crop fit, and Drying rate are the details most listings gloss over in favor of a generic product shot.</p>
-          <p>We compared all 8 models below, spanning Utopia Home Galvanized Raised Garden Bed Kit 4x2x1ft at $19.49 up to FOYUEE Galvanized Raised Garden Bed 6x3x1ft 2-Pack at $59.99, with a focus on defining small by footprint, soil volume and actual crop capacity, and cross-checked Footprint and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Utopia Home Galvanized Raised Garden Bed Kit 4x2x1ft up to FOYUEE Galvanized Raised Garden Bed 6x3x1ft 2-Pack, with a focus on defining small by footprint, soil volume and actual crop capacity, and cross-checked Footprint and Drainage against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

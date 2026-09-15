@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>For seniors, font-size range, menu simplicity, and reading weight matter more than raw specs. We measured these factors directly rather than assuming any device labeled senior-friendly automatically qualifies. One pick here, a specialized audio Bible device, is included with an honest caveat, it's genuinely useful for that specific niche but isn't a general-purpose e-reader recommendation.</p>
-          <p>We compared these four current picks on readability and simplicity. Prices here run from roughly $96 to $180.</p>
+          <p>We compared these four current picks on readability and simplicity. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

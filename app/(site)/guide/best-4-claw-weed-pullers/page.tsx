@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for 4-claw weed pullers can look nearly identical in a thumbnail, yet current product availability, root capture and breakage, and soil penetration and plug size are exactly the details a generic spec sheet tends to leave out.</p>
-          <p>This roundup covers 8 current models and prioritizes measuring claw spacing and penetration depth instead of assuming claw count predicts grip over spec-sheet comparisons alone. Prices here run from $6.99 (MOTEERLLU Weed Puller Tool) to $48.98 (Fiskars Deluxe Stand-Up Weed Puller Tool). Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 8 current models and prioritizes measuring claw spacing and penetration depth instead of assuming claw count predicts grip over spec-sheet comparisons alone. Prices here span from the most affordable pick, the MOTEERLLU Weed Puller Tool, to the priciest pick, the Fiskars Deluxe Stand-Up Weed Puller Tool. Ergonomics and force and Durability, warranty and support were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

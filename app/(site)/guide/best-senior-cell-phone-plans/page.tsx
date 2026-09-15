@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Senior cell phone plans vary meaningfully in structure: some are prepaid SIM kits you activate yourself, others are carrier-specific senior discount tiers. We focus here on the prepaid, SIM-based plans available directly on Amazon, since major carrier senior tiers like T-Mobile 55+, AT&T's senior plan, and Consumer Cellular's AARP pricing require signing up directly with the carrier rather than through Amazon.</p>
-          <p>We compared these four current prepaid plan picks on data allowance, duration, and true monthly cost. Prices here run from roughly $45 to $95 for the full plan period.</p>
+          <p>We compared these four current prepaid plan picks on data allowance, duration, and true monthly cost. Prices here span a wide range across this lineup for the full plan period.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

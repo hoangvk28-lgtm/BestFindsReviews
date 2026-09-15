@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We required genuine active pen support for this comparison, not capacitive finger annotation. Whether the stylus is included or sold separately meaningfully affects the real price, we flag this clearly for each pick, along with named pressure sensitivity levels where available.</p>
-          <p>We compared these seven current picks on stylus inclusion and note-taking capability. Prices here run from roughly $258 to $795.</p>
+          <p>We compared these seven current picks on stylus inclusion and note-taking capability. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Libby workflows are genuinely platform-specific, not universal. Kindle requires sending borrowed books to your device through Amazon's send-to-Kindle system, primarily a U.S. workflow and not every title supports it. Kobo has built-in OverDrive integration linked directly to your Libby account. PocketBook devices with a browser or app can access Libby more directly. We separated these workflows rather than treating Libby compatibility as a single checkbox.</p>
-          <p>We compared these five current picks by their actual Libby workflow. Prices here run from roughly $139 to $327.</p>
+          <p>We compared these five current picks by their actual Libby workflow. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

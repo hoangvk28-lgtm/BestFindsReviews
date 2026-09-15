@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A garden cart with a seat needs to do two jobs at once: haul tools or supplies, and give you a stable place to sit for low-to-the-ground work like weeding and planting. The best ones in this lineup balance both, while a few products marketed alongside this group turn out to be closer to a pure hauling cart without a real seated work position.</p>
-          <p>We compared these eight current picks on whether the seat is a genuine work position or just a lid you can perch on, plus rolling stability and storage capacity. Prices here run from roughly $56 to $127.</p>
+          <p>We compared these eight current picks on whether the seat is a genuine work position or just a lid you can perch on, plus rolling stability and storage capacity. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

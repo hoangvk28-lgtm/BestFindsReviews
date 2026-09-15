@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Electric Kettles for Seniors can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Filled handling weight, Lid/button force, and Display readability are the details most listings gloss over in favor of a generic wattage number. Rated wattage alone in this lineup spans from 1100W on the OVENTE 1.7L Electric Kettle with 1100W Fast Boiling Water up to 1500W on the Cuisinart Electric Kettle, a real difference in how fast each one gets water to temperature.</p>
-          <p>We compared all 8 models below, spanning OVENTE 1.7L Electric Kettle with 1100W Fast Boiling Water at $15.99 up to Cuisinart Electric Kettle at $105.68, with a focus on measuring empty weight, minimum-fill weight and a realistic two-mug filled weight, and cross-checked Base docking and Pour safety against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning OVENTE 1.7L Electric Kettle with 1100W Fast Boiling Water up to Cuisinart Electric Kettle, with a focus on measuring empty weight, minimum-fill weight and a realistic two-mug filled weight, and cross-checked Base docking and Pour safety against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

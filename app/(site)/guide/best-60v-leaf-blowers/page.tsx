@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that 60v leaf blowers are basically interchangeable once you've picked a price range. In practice, Nominal/maximum voltage labeling, Battery Wh, and Tool-only versus kit are the factors that separate a pick you'll be happy with from one you'll want to return. Airflow alone in this lineup spans from 450 CFM on the Greenworks 60V Electric Leaf Blower up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning GreenWorks Pro Baretool 60-Volt Max Lithium Ion (Li-ion) 540-CFM at $109.87 up to EGO Power+ Cordless Electric Leaf Blower at $379.00, with a focus on verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform, and cross-checked Ecosystem compatibility and sustained output against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning GreenWorks Pro Baretool 60-Volt Max Lithium Ion (Li-ion) 540-CFM up to EGO Power+ Cordless Electric Leaf Blower, with a focus on verifying whether the stated voltage is nominal, maximum or a dual-battery combined platform, and cross-checked Ecosystem compatibility and sustained output against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Pet messes span genuinely different cleanup challenges, loose hair, muddy paw prints, food and water spills, and tracked litter each demand something different from your mop. Hair wrap around rollers, odor retention in dirty-water tanks, and pet-safe formula compatibility matter more here than raw cleaning power alone.</p>
-          <p>We compared these eight current picks on named pet-focused features and price. Prices here run from roughly $56 to $220.</p>
+          <p>We compared these eight current picks on named pet-focused features and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

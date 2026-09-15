@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Samsung's current soundbar lineup changed materially with its 2026 refresh, the B-Series remains the budget entry point, the S60D and Q800F sit in the middle with wireless Atmos and Q-Symphony, and the new Q900H tops the current line, while older Q990D and Q950A models remain available as legacy options at premium prices. We map exactly where each pick falls in this generational lineup.</p>
-          <p>We compared these seven current picks by generation and tier. Prices here run from roughly $100 to $1,754.</p>
+          <p>We compared these seven current picks by generation and tier. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

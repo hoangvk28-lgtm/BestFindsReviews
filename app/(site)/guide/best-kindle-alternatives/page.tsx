@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>The real decision behind leaving Kindle usually comes down to one specific reason: library borrowing simplicity, physical page-turn buttons, color capability, open Android app freedom, or file format flexibility without DRM lock-in. We organized these eight current picks by the actual reason you'd choose them over Kindle, rather than ranking generically.</p>
-          <p>We compared these picks by their specific Kindle-alternative reason and price. Prices here run from roughly $96 to $345.</p>
+          <p>We compared these picks by their specific Kindle-alternative reason and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs for Seniors can look similar in a listing photo but differ in ways that matter once real daily use is involved: Setup burden, Remote readability, and Caption access are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 7 models below, spanning GE Universal Remote Control for Samsung LG RokuTV Vizio Sony Philips at $12.75 up to ZVOX AccuVoice AV855 Dialogue Clarifying Soundbar-20 Levels of Voice at $349.99, with a focus on testing setup and input switching without assuming family assistance, and cross-checked Audio guidance and Input error recovery against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning GE Universal Remote Control for Samsung LG RokuTV Vizio Sony Philips up to ZVOX AccuVoice AV855 Dialogue Clarifying Soundbar-20 Levels of Voice, with a focus on testing setup and input switching without assuming family assistance, and cross-checked Audio guidance and Input error recovery against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

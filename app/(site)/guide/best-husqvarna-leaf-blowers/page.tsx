@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for husqvarna leaf blowers can look nearly identical in a thumbnail, yet exact current model and market, cFM/MPH mode and nozzle, and ready-to-use weight are exactly the details a generic spec sheet tends to leave out. Airflow alone in this lineup spans from 650 CFM on the Husqvarna 230iB Battery Powered Cordless Leaf Blower up to 1000 CFM on the Husqvarna 580BTS Gas Backpack Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with building a current model map separating handheld, backpack, battery, gas and blower-vac products as the starting point, not an afterthought. Prices here run from $226.99 (Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower) to $649.00 (Husqvarna 580BTS Gas Backpack Leaf Blower). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with building a current model map separating handheld, backpack, battery, gas and blower-vac products as the starting point, not an afterthought. Prices here span from the most affordable pick, the Husqvarna Leaf Blaster 350iB Battery Powered Cordless Leaf Blower, to the priciest pick, the Husqvarna 580BTS Gas Backpack Leaf Blower. We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

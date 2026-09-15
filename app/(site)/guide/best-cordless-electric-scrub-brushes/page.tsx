@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This guide narrows our broader cordless scrub brush coverage specifically to standalone electric units, tools with their own built-in battery and motor that work right out of the box without requiring a separate cordless drill.</p>
-          <p>Prices here run from roughly $16 to $45. If you already own a cordless drill and want attachment-based options instead, see our dedicated drill attachment guide.</p>
+          <p>Prices here span a wide range across this lineup. If you already own a cordless drill and want attachment-based options instead, see our dedicated drill attachment guide.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

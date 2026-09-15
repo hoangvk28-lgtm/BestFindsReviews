@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Not every handheld vacuum can safely handle liquid spills, using a dry-only vacuum on wet debris can damage the motor or create an electrical hazard. We checked current listings specifically for explicit named wet/dry or wet-or-dry capability, distinct from general shop-vac marketing that doesn't confirm this.</p>
-          <p>Prices here run from roughly $50 to $190. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
+          <p>Prices here span a wide range across this lineup. One ASIN from our initial research list failed to return current listing data and was dropped.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>HEPA is a specific filtration standard, and it's worth noting that a HEPA-rated filter media is different from whole-machine sealed HEPA filtration, which requires the entire airflow path to be sealed so air can't bypass the filter. Product listings often don't distinguish this clearly, so we checked current listings specifically for named HEPA filter claims and flagged where this distinction matters.</p>
-          <p>Prices here run from roughly $60 to $480. Only one pick in this specific comparison set explicitly names HEPA filtration in its title, we're flagging that clearly rather than assuming other picks include this feature.</p>
+          <p>Prices here span a wide range across this lineup. Only one pick in this specific comparison set explicitly names HEPA filtration in its title, we're flagging that clearly rather than assuming other picks include this feature.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

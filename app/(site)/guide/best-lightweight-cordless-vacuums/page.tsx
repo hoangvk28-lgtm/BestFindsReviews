@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Lightweight Cordless Vacuums can look similar in a listing photo but differ in ways that matter once real daily use is involved: Real pickup performance, Ready-to-use weight/ergonomics, and Powered-tool runtime are the details most listings gloss over in favor of a generic spec sheet. Runtime alone in this lineup spans from 20 min on the Bissell up to 70 min on the mohomo Cordless Vacuum Cleaner, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Tikom V500 Cordless Vacuum Cleaner for Home at $79.99 up to Fieety Cordless Vacuum Cleaner 55KPa 650W 70Mins Stick Vacuum Cleaners for at $169.99, with a focus on using complete weight with battery, wand and main head, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Tikom V500 Cordless Vacuum Cleaner for Home up to Fieety Cordless Vacuum Cleaner 55KPa 650W 70Mins Stick Vacuum Cleaners for, with a focus on using complete weight with battery, wand and main head, and cross-checked Filtration/debris handling and Battery, parts and warranty support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

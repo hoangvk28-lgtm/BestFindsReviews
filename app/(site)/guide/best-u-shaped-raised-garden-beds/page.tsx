@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best U-Shaped Raised Garden Beds can look similar in a listing photo but differ in ways that matter once soil, water, and a full season of weather are involved: Opening width, Inside clearance, and Corner reach are the details most listings gloss over in favor of a generic product shot. Height alone in this lineup spans from 11 inches on the GIANTEX U-Shaped Raised Garden Bed up to 18 inches on the A ANLEOLIFE Anleolife 74x74x18in U-Shaped Galvanized Raised Garden Bed, a real difference in how much bending a gardener has to do.</p>
-          <p>We compared all 7 models below, spanning Land Guard 8×4×2 ft Galvanized Raised Garden Bed Kit at $59.99 up to Vego garden 17" Tall U-Shape Raised Garden Bed Metal Raised Planter Bed for at $299.95, with a focus on measuring opening width and interior turning space before recommending the shape for accessibility, and cross-checked Bracing and Soil volume against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Land Guard 8×4×2 ft Galvanized Raised Garden Bed Kit up to Vego garden 17" Tall U-Shape Raised Garden Bed Metal Raised Planter Bed for, with a focus on measuring opening width and interior turning space before recommending the shape for accessibility, and cross-checked Bracing and Soil volume against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

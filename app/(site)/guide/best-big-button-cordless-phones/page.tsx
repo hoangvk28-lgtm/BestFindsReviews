@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Big buttons help with dialing accuracy, but the term gets applied loosely, some phones offer genuinely oversized keys while others just have a slightly larger font. Panasonic and AT&T both currently sell phones that explicitly document big-button or extra-large-key design rather than relying on marketing language alone.</p>
-          <p>We compared these six current picks on named button size, display, and price. Prices here run from roughly $39 to $92.</p>
+          <p>We compared these six current picks on named button size, display, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

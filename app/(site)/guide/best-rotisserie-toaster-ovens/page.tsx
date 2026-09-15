@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Rotisserie Toaster Ovens can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet. Rated wattage alone in this lineup spans from 1500W on the TOSHIBA 10-in-1 Convection Toaster Oven up to 1800W on the Beelicious 32QT Extra Large Air Fryer, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie at $99.99 up to Nuwave Bravo XL Pro Air Fryer Toaster Oven w/Grill Combo at $206.99, with a focus on verifying maximum food size and weight around the spit, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie up to Nuwave Bravo XL Pro Air Fryer Toaster Oven w/Grill Combo, with a focus on verifying maximum food size and weight around the spit, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

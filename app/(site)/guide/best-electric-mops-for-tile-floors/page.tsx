@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Tile genuinely tolerates more water than hardwood or laminate, which opens up real options across spin mops, steam mops, and full floor washers. The real differentiator for tile specifically is grout-line performance, textured tile and grout depressions trap debris and grime that a flat-surface-only mop can miss.</p>
-          <p>We compared these eight current picks on named tile/grout performance, mechanism, and price. Prices here run from roughly $56 to $200.</p>
+          <p>We compared these eight current picks on named tile/grout performance, mechanism, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

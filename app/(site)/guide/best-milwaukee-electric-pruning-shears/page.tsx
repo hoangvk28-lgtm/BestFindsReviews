@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Milwaukee doesn't currently sell a genuine pruning shear of its own, so every product in this search is a third-party tool built to run on Milwaukee's M18 battery platform. That's not necessarily a downside, but it means brand support and quality control depend on the third-party maker rather than Milwaukee directly.</p>
-          <p>We compared these four current M18-compatible picks on named cutting diameter, reach, and mode features. Prices here run from roughly $45 to $170, all sold as bare tools requiring an existing Milwaukee M18 battery.</p>
+          <p>We compared these four current M18-compatible picks on named cutting diameter, reach, and mode features. Prices here span a wide range across this lineup all sold as bare tools requiring an existing Milwaukee M18 battery.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

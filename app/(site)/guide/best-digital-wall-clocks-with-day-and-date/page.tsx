@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A genuine wall-mount clock needs dedicated mounting hardware, manageable cord routing if AC-powered, and a viewing angle that works from seated and standing positions across a room. This comparison distinguishes purpose-built wall-mount clocks from tabletop or dual-mount hybrids that can also hang on a wall.</p>
-          <p>We compared these eight current picks on named mounting design and price. Prices here run from roughly $18 to $34.</p>
+          <p>We compared these eight current picks on named mounting design and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

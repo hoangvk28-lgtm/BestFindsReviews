@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 8-Slice Toaster Ovens can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Elite Gourmet ETO2530M Double French Door Oven at $84.99 up to Breville BOV900BSS Smart Oven Air Fryer Pro at $399.95, with a focus on treating eight-slice models as extra-wide large-format ovens, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Elite Gourmet ETO2530M Double French Door Oven up to Breville BOV900BSS Smart Oven Air Fryer Pro, with a focus on treating eight-slice models as extra-wide large-format ovens, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

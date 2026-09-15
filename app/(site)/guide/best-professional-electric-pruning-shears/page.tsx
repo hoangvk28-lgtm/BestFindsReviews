@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Professional-grade pruning shears are built for sustained daily use, orchard, vineyard, or landscaping work, rather than occasional weekend pruning, and that distinction shows up in blade serviceability, documented safety systems, and price rather than just cutting capacity. A shear marketed as 'professional' without dealer or parts support is a different proposition than one from an established orchard-equipment brand.</p>
-          <p>We compared these eight current picks on named cutting diameter, safety systems, and brand support infrastructure. Prices here run from roughly $100 to $850, and that wide spread tracks real differences in build quality and duty-cycle durability, not just brand markup.</p>
+          <p>We compared these eight current picks on named cutting diameter, safety systems, and brand support infrastructure. Prices here span a wide range across this lineup and that wide spread tracks real differences in build quality and duty-cycle durability, not just brand markup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

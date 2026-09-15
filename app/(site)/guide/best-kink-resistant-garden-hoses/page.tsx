@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for kink-resistant garden hoses can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 25 ft on the Flexzilla Garden Hose 5/8 in. x 25 ft. up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with measuring practical bend radius while pressurized as the starting point, not an afterthought. Prices here run from $20.39 (PUUKU Garden Hose 25ft x 5/8") to $54.99 (BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle). We also cross-checked Working pressure and measured flow and repairability and warranty against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with measuring practical bend radius while pressurized as the starting point, not an afterthought. Prices here span from the most affordable pick, the PUUKU Garden Hose 25ft x 5/8", to the priciest pick, the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle. We also cross-checked Working pressure and measured flow and repairability and warranty against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>True parking brakes or wheel locks are a narrower niche than listing language suggests, so this guide verifies real lock mechanisms rather than counting steering resistance as a brake. Before buying rolling garden seats with brakes, the more useful question isn't just which one is cheapest, but which one actually holds up on true parking brake/lock. That, along with Number of locking wheels and Lock engagement force, is what we dug into for the picks below. Weight Capacity alone in this lineup spans from 300 lbs on the VEVOR Rolling Garden Cart with Swivel Seat up to 500 lbs on the Ryansunoro Garden Seat with Cart and Wheels for Seniors, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning Ryansunoro Garden Seat with Cart and Wheels for Seniors at $49.99 up to BESTHLS Garden Cart with Seat on Wheels Rolling Gardening Stool with at $159.99, with a focus on requiring an actual wheel lock or parking brake for eligibility, and cross-checked Slope behavior and current product pool against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Ryansunoro Garden Seat with Cart and Wheels for Seniors up to BESTHLS Garden Cart with Seat on Wheels Rolling Gardening Stool with, with a focus on requiring an actual wheel lock or parking brake for eligibility, and cross-checked Slope behavior and current product pool against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

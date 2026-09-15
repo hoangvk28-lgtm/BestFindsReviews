@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Alexa is natively built into Amazon's Echo lineup, but it's also available on third-party hardware like Sonos and Bose through their Alexa skill integration. Native Echo devices offer the deepest integration and simplest setup, while third-party Alexa speakers often deliver stronger audio quality in exchange for a slightly more involved app-based setup process.</p>
-          <p>We compared these five current picks by setup depth and audio quality. Prices here run from roughly $50 to $300.</p>
+          <p>We compared these five current picks by setup depth and audio quality. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

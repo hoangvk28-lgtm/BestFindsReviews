@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Electric Kettles Under $300 can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Currency intent, Live US price, and Product-pool depth are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning COMFEE' Stainless Steel Electric Kettle at $26.99 up to Fellow Stagg EKG Pro Gooseneck Electric Kettle at $179.95, with a focus on auditing SERP currency intent before publication; the unqualified 'under 300/400/500/1000' queries can resolve to rupee pricing rather than US dollars, and cross-checked Feature breakpoint and Sale dependence against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning COMFEE' Stainless Steel Electric Kettle up to Fellow Stagg EKG Pro Gooseneck Electric Kettle, with a focus on auditing SERP currency intent before publication; the unqualified 'under 300/400/500/1000' queries can resolve to rupee pricing rather than US dollars, and cross-checked Feature breakpoint and Sale dependence against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

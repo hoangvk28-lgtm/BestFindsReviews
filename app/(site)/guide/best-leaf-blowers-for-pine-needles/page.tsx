@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Exact current model and market, CFM/MPH mode and nozzle, and Ready-to-use weight rarely show up as clear differentiators in a standard listing for leaf blowers for pine needles, even though they're often the real reason one pick performs better than another once it's in actual use. Airflow alone in this lineup spans from 350 CFM on the WORX Trivac 3-in-1 Electric Leaf Blower/Leaf Vacuum/Leaf Mulcher up to 880 CFM on the EGO Power+ Cordless Electric Leaf Blower, a real difference worth checking against your own use case.</p>
-          <p>The 8 picks compared here were evaluated with testing pine needles in grass, gravel, pavement cracks and mulch separately as the starting point, not an afterthought. Prices here run from $49.99 (SIEARPUORL 650CFM Cordless Leaf Blower) to $499.99 (Husqvarna 360BT Gas Leaf Blower). We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
+          <p>The 8 picks compared here were evaluated with testing pine needles in grass, gravel, pavement cracks and mulch separately as the starting point, not an afterthought. Prices here span from the most affordable pick, the SIEARPUORL 650CFM Cordless Leaf Blower, to the priciest pick, the Husqvarna 360BT Gas Leaf Blower. We also cross-checked Real high-output runtime and noise, warranty and service support against the actual listing data for each one.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

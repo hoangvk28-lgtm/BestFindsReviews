@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best TVs for Clear Dialogue can look similar in a listing photo but differ in ways that matter once real daily use is involved: Speech intelligibility, Dialogue mode, and Low-volume clarity are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 6 models below, spanning ZVOX AccuVoice AV100 Dialogue Clarifying Soundbar- 6 Levels of Voice at $99.99 up to ZVOX AccuVoice AV855 Dialogue Clarifying Soundbar-20 Levels of Voice at $349.99, with a focus on using repeatable speech clips at low, medium and high volume, and cross-checked Distortion/compression and External audio handoff against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 6 models below, spanning ZVOX AccuVoice AV100 Dialogue Clarifying Soundbar- 6 Levels of Voice up to ZVOX AccuVoice AV855 Dialogue Clarifying Soundbar-20 Levels of Voice, with a focus on using repeatable speech clips at low, medium and high volume, and cross-checked Distortion/compression and External audio handoff against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

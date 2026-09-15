@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>We should be upfront about something before you scroll further: when we researched real Amazon listings for this exact keyword, the results skewed heavily toward plastic and rubber threshold ramps, not robot vacuums built with a special climbing chassis. That is a useful signal on its own. It means most shoppers dealing with raised door thresholds end up solving the problem with a cheap ramp accessory rather than buying a whole new vacuum.</p>
-          <p>So instead of padding this guide with vacuums that have no real claim to threshold performance, we focused on the one current listing whose spec sheet backs up obstacle-climbing ability, and we added a section on universal ramp accessories as the honest alternative. If your home has a raised threshold between rooms, a $15 to $25 ramp paired with almost any robot vacuum you already own may solve the problem faster and cheaper than replacing the machine.</p>
+          <p>So instead of padding this guide with vacuums that have no real claim to threshold performance, we focused on the one current listing whose spec sheet backs up obstacle-climbing ability, and we added a section on universal ramp accessories as the honest alternative. If your home has a raised threshold between rooms, a to ramp paired with almost any robot vacuum you already own may solve the problem faster and cheaper than replacing the machine.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

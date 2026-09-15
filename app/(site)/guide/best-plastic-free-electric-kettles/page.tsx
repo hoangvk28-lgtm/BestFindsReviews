@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Plastic-Free Electric Kettles can look similar in a listing photo but differ in ways that matter once real water, repeated boils, and daily handling are involved: Hot-water-contact materials, Lid and spout materials, and Filter material are the details most listings gloss over in favor of a generic wattage number.</p>
-          <p>We compared all 8 models below, spanning Chefman Electric Kettle at $23.53 up to Cosori Stainless Steel Electric Kettle with Temperature Control at $89.98, with a focus on creating three evidence tiers: fully plastic-free, no plastic in hot-water contact, and merely BPA-free, and cross-checked Seal/silicone disclosure and Manufacturer evidence against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Chefman Electric Kettle up to Cosori Stainless Steel Electric Kettle with Temperature Control, with a focus on creating three evidence tiers: fully plastic-free, no plastic in hot-water contact, and merely BPA-free, and cross-checked Seal/silicone disclosure and Manufacturer evidence against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

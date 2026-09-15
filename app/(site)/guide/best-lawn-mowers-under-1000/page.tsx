@@ -272,7 +272,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>This guide is a price-ladder comparison, distinct from our other lawn mower guides that focus on a single power source or brand. Here every mower is compared strictly on what a buyer can get for under $1000, ranging from a $65 corded trimmer combo to a $699 self-propelled cordless model, so the tradeoffs between price tiers are visible in one place.</p>
+          <p>This guide is a price-ladder comparison, distinct from our other lawn mower guides that focus on a single power source or brand. Here every mower is compared strictly on what a buyer can get for under $1000, ranging from an affordable corded trimmer combo to a premium self-propelled cordless model, so the tradeoffs between price tiers are visible in one place.</p>
           <p>Under $1000 the market spans nearly every mower format: manual reel mowers with no motor at all, budget corded electrics, battery push and self-propelled mowers with included packs, and small gas engines. What separates the tiers is mostly deck width, self-propulsion, included battery capacity, and how much cutting the machine can do before it needs a break or a refuel.</p>
         </section>
 

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that garden hoses for well water are basically interchangeable once you've picked a price range. In practice, Well pressure cycle, Sediment, and Source potability are the factors that separate a pick you'll be happy with from one you'll want to return. Length alone in this lineup spans from 25 ft on the ARBUTUS Garden Hose 5/8"x 25ft Brass Rubber Heavy Duty Water Hose 600 PSI up to 100 ft on the BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning PUUKU Garden Hose 25ft x 5/8" at $20.39 up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water at $55.97, with a focus on document well pressure-switch range and pressure-tank behavior, and cross-checked Hose restriction and end-use demand against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning PUUKU Garden Hose 25ft x 5/8" up to Rosy Earth 100 FT Garden Hose Expandable - 304 Stainless Steel Water, with a focus on document well pressure-switch range and pressure-tank behavior, and cross-checked Hose restriction and end-use demand against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

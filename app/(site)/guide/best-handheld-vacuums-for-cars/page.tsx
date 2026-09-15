@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Car interiors present tight, angled spaces that benefit from a compact vacuum with a narrow crevice tool, rather than a bulkier home-focused vacuum. We compared current picks explicitly named for car use across multiple brands.</p>
-          <p>Prices here run from roughly $25 to $112, with named crevice tools and portable design distinguishing the strongest car-focused picks.</p>
+          <p>Prices here span a wide range across this lineup with named crevice tools and portable design distinguishing the strongest car-focused picks.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

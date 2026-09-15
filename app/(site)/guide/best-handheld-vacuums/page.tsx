@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Handheld vacuums span a wide range, from budget dustbusters for quick cleanups to premium cordless models with HEPA filtration and multiple attachments. We compared current picks across major brands on named suction specifications, battery runtime, and included accessories.</p>
-          <p>Prices here run from roughly $50 to $390, reflecting real differences in brand positioning, filtration technology, and included attachments.</p>
+          <p>Prices here span a wide range across this lineup reflecting real differences in brand positioning, filtration technology, and included attachments.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

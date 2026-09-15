@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>SEESII currently sells a genuinely broad electric pruning lineup: three handheld shears at different cutting capacities, three 2-in-1 pole models that convert to handheld use, and a mini chainsaw and shears combo tool. Picking the right one comes down to matching cutting diameter and reach to your specific yard rather than assuming any single model covers every task.</p>
-          <p>We compared these seven current SEESII models on named cutting diameter, reach, and mode features. Prices here run from roughly $46 to $170.</p>
+          <p>We compared these seven current SEESII models on named cutting diameter, reach, and mode features. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

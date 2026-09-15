@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Before buying weed pullers for hard soil, the more useful question isn't just which one is cheapest, but which one actually holds up on current product availability. That, along with Root capture and breakage and Soil penetration and plug size, is what we dug into for the picks below. Claw Count alone in this lineup spans from 3 claws on the Grootpow WP5 Heavy Duty Weed Puller Tool up to 4 claws on the RexWeed Stand Up Weed Puller Tool, a real difference worth checking against your own use case.</p>
-          <p>We compared all 8 models below, spanning RexWeed Stand Up Weed Puller Tool at $17.59 up to Fiskars Garden Weeding Tool Set: 4-Claw & Ergo Hand Weeder at $56.13, with a focus on separating dry hardness from structural compaction, and cross-checked Ergonomics and force and durability, warranty and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning RexWeed Stand Up Weed Puller Tool up to Fiskars Garden Weeding Tool Set: 4-Claw & Ergo Hand Weeder, with a focus on separating dry hardness from structural compaction, and cross-checked Ergonomics and force and durability, warranty and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

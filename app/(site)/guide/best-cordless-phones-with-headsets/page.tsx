@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>A headset jack lets you plug in a wired or DECT headset accessory for hands-free calling, distinct from a phone that simply has good speakerphone volume. VTech's IS8xxx long-range series explicitly names a headset jack, while other brands vary in whether they document this feature clearly.</p>
-          <p>We compared these seven current picks on named headset jack support, handset count, and price. Prices here run from roughly $67 to $220.</p>
+          <p>We compared these seven current picks on named headset jack support, handset count, and price. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

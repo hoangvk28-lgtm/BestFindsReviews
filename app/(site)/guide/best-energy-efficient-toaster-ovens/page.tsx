@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best Energy-Efficient Toaster Ovens can look similar in a listing photo but differ in ways that matter once real daily use is involved: Current product eligibility, Toast and cooking evenness, and Temperature, timing and preheat behavior are the details most listings gloss over in favor of a generic spec sheet.</p>
-          <p>We compared all 8 models below, spanning Elite Gourmet ETO449X Toaster Oven at $34.99 up to Our Place Wonder Oven at $185.00, with a focus on measuring watt-hours for standardized toast, reheat and bake tasks, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 8 models below, spanning Elite Gourmet ETO449X Toaster Oven up to Our Place Wonder Oven, with a focus on measuring watt-hours for standardized toast, reheat and bake tasks, and cross-checked Usable interior versus external footprint and Cleaning, accessories and support against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>It's a common assumption that 3-claw weed pullers are basically interchangeable once you've picked a price range. In practice, Current product availability, Root capture and breakage, and Soil penetration and plug size are the factors that separate a pick you'll be happy with from one you'll want to return.</p>
-          <p>We put 7 models head-to-head below, spanning Breeze Touch 39" Weed Puller Tool at $17.99 up to Grootpow WP5 Heavy Duty Weed Puller Tool at $55.30, focusing first on measuring claw spacing and penetration depth instead of assuming claw count predicts grip. Ergonomics and force and durability, warranty and support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
+          <p>We put 7 models head-to-head below, spanning Breeze Touch 39" Weed Puller Tool up to Grootpow WP5 Heavy Duty Weed Puller Tool, focusing first on measuring claw spacing and penetration depth instead of assuming claw count predicts grip. Ergonomics and force and durability, warranty and support got the same scrutiny, cross-referenced against current listings rather than taken from marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

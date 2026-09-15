@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Two listings for garden hose holders can look nearly identical in a thumbnail, yet current US product pool, inside diameter and fitting restriction, and dry versus filled handling are exactly the details a generic spec sheet tends to leave out. Length alone in this lineup spans from 100 ft on the NEO-TEC Upgraded Retractable Garden Hose Reel 5/8 inch x 100 ft Wall-Mounted up to 125 ft on the Liberty GARDEN 712 Single Arm Navigator Multi-Directional Garden Hose, a real difference worth checking against your own use case.</p>
-          <p>This roundup covers 7 current models and prioritizes publishing usable capacity by hose diameter/material over spec-sheet comparisons alone. Prices here run from $9.99 (PeoMev Metal Garden Hose Holder Wall Mounted Water Hose Holder for Outside) to $114.99 (Suncast Hose Reel with Smart Trak Hose Guide). Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
+          <p>This roundup covers 7 current models and prioritizes publishing usable capacity by hose diameter/material over spec-sheet comparisons alone. Prices here span from the most affordable pick, the PeoMev Metal Garden Hose Holder Wall Mounted Water Hose Holder for Outside, to the priciest pick, the Suncast Hose Reel with Smart Trak Hose Guide. Working pressure and measured flow and Repairability and warranty were checked against the live listing data for each pick, not assumed from the box copy.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

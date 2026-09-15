@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Best 4K TVs can look similar in a listing photo but differ in ways that matter once real daily use is involved: Real HDR performance, Value by price tier, and Technology differences are the details most listings gloss over in favor of a generic spec sheet. Screen Size alone in this lineup spans from 55" on the Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV up to 85" on the Hisense 85" U7 Mini-LED ULED 4K UHD Best Premium Gaming Smart Google, a real difference worth checking against your own use case.</p>
-          <p>We compared all 7 models below, spanning Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV at $249.99 up to Samsung 75-Inch Class Neo QLED 4K QN90F Series at $1647.99, with a focus on reframe as best-value 4K TVs by use case rather than resolution alone, and cross-checked Gaming features and Cannibalization with Best TVs against the current listing data rather than repeating manufacturer marketing claims.</p>
+          <p>We compared all 7 models below, spanning Roku 55-Inch Select Series Smart TV 2026-4K QLED TV - Roku TV up to Samsung 75-Inch Class Neo QLED 4K QN90F Series, with a focus on reframe as best-value 4K TVs by use case rather than resolution alone, and cross-checked Gaming features and Cannibalization with Best TVs against the current listing data rather than repeating manufacturer marketing claims.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

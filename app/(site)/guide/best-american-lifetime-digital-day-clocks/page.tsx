@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>Note: American Lifetime is the dominant, dedicated brand in the senior and dementia-focused day clock category, with a long track record specifically designing orientation aids. Their core current lineup consists of the same underlying DCB2 model available in Black, White, and Mahogany finishes, sharing identical features, 8-inch display, 5 alarms, auto-dimming, battery backup, and multi-language support, plus a separate DCC wall-mount model in a genuinely different form factor.</p>
-          <p>We compared these five current American Lifetime picks, clearly noting where models share the same core hardware. Prices here run from roughly $59 to $60.</p>
+          <p>We compared these five current American Lifetime picks, clearly noting where models share the same core hardware. Prices here span a wide range across this lineup.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

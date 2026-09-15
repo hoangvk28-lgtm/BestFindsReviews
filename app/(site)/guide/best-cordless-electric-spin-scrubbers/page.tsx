@@ -273,7 +273,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>This guide focuses specifically on the cordless aspect of electric spin scrubbers, verifying genuine battery-powered mobility across the bathroom without a power cord getting in the way. Every pick here is confirmed cordless, the differentiator is battery capacity and named power specifications.</p>
-          <p>Prices here run from roughly $24 to $85, with named battery capacity generally correlating with higher price.</p>
+          <p>Prices here span a wide range across this lineup with named battery capacity generally correlating with higher price.</p>
         </section>
 
         {buyingCriteria.length > 0 && (
