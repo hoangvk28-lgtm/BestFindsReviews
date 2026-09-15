@@ -1,7 +1,7 @@
 export const guideSlug = "best-wall-mounted-garden-tool-organizers";
 export const guideTitle = "Best Wall-Mounted Garden Tool Organizers (2026)";
 export const metaTitle = "Best Wall-Mounted Garden Tool Organizers (2026)";
-export const metaDescription = "The best wall-mounted garden tool organizers compared, rails and racks that bolt to a garage wall and clear the floor, based on real length, weight rating, and hook adjustment.";
+export const metaDescription = "The best wall-mounted garden tool organizers compared, rails and racks that bolt to a garage wall and clear the floor, based on real length, weight rating.";
 export const mainKeyword = "wall-mounted garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

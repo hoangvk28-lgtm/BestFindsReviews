@@ -1,7 +1,7 @@
 export const guideSlug = "best-waterproof-wireless-doorbells";
 export const guideTitle = "Best Waterproof Wireless Doorbells (2026)";
 export const metaTitle = "Best Waterproof Wireless Doorbells (2026): 6 Picks Compared";
-export const metaDescription = "The best waterproof wireless doorbells for 2026, compared on IP rating and durability.";
+export const metaDescription = "The best waterproof wireless doorbells for 2026, compared on IP rating and durability, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "waterproof wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

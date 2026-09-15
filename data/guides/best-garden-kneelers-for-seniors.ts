@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-kneelers-for-seniors";
 export const guideTitle = "Best Garden Kneelers for Seniors (2026)";
 export const metaTitle = "Best Garden Kneelers for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current garden kneelers well suited to seniors on handles and pad comfort.";
+export const metaDescription = "We compared six current garden kneelers well suited to seniors on handles and pad comfort, with real pros and cons for each pick.";
 export const mainKeyword = "best garden kneeler and seat for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

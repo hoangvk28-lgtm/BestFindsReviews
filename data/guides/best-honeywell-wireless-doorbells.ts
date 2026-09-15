@@ -1,7 +1,7 @@
 export const guideSlug = "best-honeywell-wireless-doorbells";
 export const guideTitle = "Best Honeywell Wireless Doorbells (2026)";
 export const metaTitle = "Best Honeywell Wireless Doorbells (2026): 4 Picks Compared";
-export const metaDescription = "The best Honeywell wireless doorbells for 2026, compared on features and design.";
+export const metaDescription = "The best Honeywell wireless doorbells for 2026, compared on features and design, covering 4 current picks with honest pros, cons, and real trade-offs explained.";
 export const mainKeyword = "honeywell wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

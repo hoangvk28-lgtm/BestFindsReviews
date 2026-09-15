@@ -1,7 +1,7 @@
 export const guideSlug = "best-roku-voice-remote-pro-models";
 export const guideTitle = "Best Roku Voice Remote Pro Models (2026)";
 export const metaTitle = "Best Roku Voice Remote Pro Models (2026): 3 Picks Compared";
-export const metaDescription = "The best Roku Voice Remote Pro models for 2026, compared on battery life and features.";
+export const metaDescription = "The best Roku Voice Remote Pro models for 2026, compared on battery life and features, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "best roku voice remote pro models";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-hose-reels-for-seniors";
 export const guideTitle = "Best Automatic Hose Reels for Seniors (2026)";
 export const metaTitle = "Best Automatic Hose Reels for Seniors (2026): Top Picks";
-export const metaDescription = "The best automatic hose reels for seniors, compared on gentle rewind, easy installation, and lightweight handling.";
+export const metaDescription = "The best automatic hose reels for seniors, compared on gentle rewind, easy installation, and lightweight handling, with real pros and cons for each pick.";
 export const mainKeyword = "automatic hose reels for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

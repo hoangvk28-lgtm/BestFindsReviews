@@ -1,7 +1,7 @@
 export const guideSlug = "best-galvanized-watering-cans";
 export const guideTitle = "Best Galvanized Watering Cans (2026)";
 export const metaTitle = "Best Galvanized Watering Cans (2026)";
-export const metaDescription = "The best galvanized watering cans compared, zinc-coated steel cans from a budget 1-gallon to hot-dipped 2-gallon, based on real coating, capacity, and spout design.";
+export const metaDescription = "The best galvanized watering cans compared, zinc-coated steel cans from a budget 1-gallon to hot-dipped 2-gallon, based on real coating, capacity.";
 export const mainKeyword = "galvanized watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-hoover-portable-spot-cleaners";
 export const guideTitle = "Best Hoover Portable Spot Cleaners (2026)";
 export const metaTitle = "Best Hoover Portable Spot Cleaners (2026): 3 Current Models Compared";
-export const metaDescription = "We compare Hoover's current CleanSlate lineup, spanning a compact mini, the standard Plus, and the deep-cleaning XL.";
+export const metaDescription = "We compare Hoover's current CleanSlate lineup, spanning a compact mini, the standard Plus, and the deep-cleaning XL, with real pros and cons for each pick.";
 export const mainKeyword = "hoover portable spot cleaners";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

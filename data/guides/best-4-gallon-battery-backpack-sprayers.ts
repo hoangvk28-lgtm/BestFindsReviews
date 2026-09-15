@@ -1,7 +1,7 @@
 export const guideSlug = "best-4-gallon-battery-backpack-sprayers";
 export const guideTitle = "Best 4-Gallon Battery Backpack Sprayers (2026)";
 export const metaTitle = "Best 4-Gallon Battery Backpack Sprayers (2026)";
-export const metaDescription = "The best 4-gallon battery backpack sprayers, compared on pressure output and battery compatibility.";
+export const metaDescription = "The best 4-gallon battery backpack sprayers, compared on pressure output and battery compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "4 gallon battery powered backpack sprayer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

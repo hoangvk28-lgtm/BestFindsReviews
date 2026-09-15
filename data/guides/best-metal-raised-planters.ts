@@ -1,7 +1,7 @@
 export const guideSlug = "best-metal-raised-planters";
 export const guideTitle = "Best Metal Raised Planters (2026)";
 export const metaTitle = "Best Metal Raised Planters (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current metal raised planters on galvanized steel durability and capacity.";
+export const metaDescription = "We compared six current metal raised planters on galvanized steel durability and capacity, with real pros and cons for each pick.";
 export const mainKeyword = "metal raised planter";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

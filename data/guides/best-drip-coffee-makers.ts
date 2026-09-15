@@ -1,8 +1,7 @@
 export const guideSlug = "best-drip-coffee-makers";
 export const guideTitle = "Best Drip Coffee Makers";
 export const metaTitle = "Best Drip Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current drip coffee makers on brew temperature against the industry benchmark, small-batch performance, carafe cleaning, and real ownership value.";
+export const metaDescription = "We compared four current drip coffee makers on brew temperature against the industry benchmark, small-batch performance, carafe cleaning.";
 export const mainKeyword = "coffee makers drip";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

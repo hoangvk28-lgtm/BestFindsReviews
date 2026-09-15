@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-roku-tv-remotes";
 export const guideTitle = "Best Big-Button Roku TV Remotes (2026)";
 export const metaTitle = "Best Big-Button Roku TV Remotes (2026): 3 Picks Compared";
-export const metaDescription = "The best big-button remotes for Roku TVs in 2026.";
+export const metaDescription = "The best big-button remotes for Roku TVs in 2026, comparing 3 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "roku tv big button remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

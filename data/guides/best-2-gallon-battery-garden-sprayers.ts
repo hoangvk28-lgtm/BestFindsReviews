@@ -1,7 +1,7 @@
 export const guideSlug = "best-2-gallon-battery-garden-sprayers";
 export const guideTitle = "Best 2-Gallon Battery Garden Sprayers (2026)";
 export const metaTitle = "Best 2-Gallon Battery Garden Sprayers (2026)";
-export const metaDescription = "The best 2-gallon battery-powered garden sprayers, compared on runtime and nozzle count.";
+export const metaDescription = "The best 2-gallon battery-powered garden sprayers, compared on runtime and nozzle count, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered sprayer 2 gallon";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

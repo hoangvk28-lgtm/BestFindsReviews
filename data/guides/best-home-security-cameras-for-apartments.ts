@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-for-apartments";
 export const guideTitle = "Best Home Security Cameras for Apartments (2026)";
 export const metaTitle = "Best Home Security Cameras for Apartments (2026): 6 Picks Compared";
-export const metaDescription = "The best home security cameras for apartments and rentals in 2026, compared on portability.";
+export const metaDescription = "The best home security cameras for apartments and rentals in 2026, compared on portability, picked after comparing every current option in this category.";
 export const mainKeyword = "home security cameras for apartments";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

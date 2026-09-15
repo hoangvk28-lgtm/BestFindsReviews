@@ -1,7 +1,7 @@
 export const guideSlug = "best-roborock-vacuum-mops";
 export const guideTitle = "Best Roborock Vacuum Mops (2026)";
 export const metaTitle = "Best Roborock Vacuum Mops (2026): 6 Picks Compared";
-export const metaDescription = "The best Roborock vacuum mops for 2026, compared on suction, dock automation, and price.";
+export const metaDescription = "The best Roborock vacuum mops for 2026, compared on suction, dock automation, and price, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "best roborock vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

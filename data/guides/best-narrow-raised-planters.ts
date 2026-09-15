@@ -1,7 +1,7 @@
 export const guideSlug = "best-narrow-raised-planters";
 export const guideTitle = "Best Narrow Raised Planters (2026)";
 export const metaTitle = "Best Narrow Raised Planters (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current narrow raised planters suited to tight spaces.";
+export const metaDescription = "We compared six current narrow raised planters suited to tight spaces, based on 6 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "narrow raised planter box";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-for-seniors";
 export const guideTitle = "Best Home Security Cameras for Seniors (2026)";
 export const metaTitle = "Best Home Security Cameras for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best home security cameras for seniors in 2026, compared on ease of setup and monitoring.";
+export const metaDescription = "The best home security cameras for seniors in 2026, compared on ease of setup and monitoring, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "home security cameras for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

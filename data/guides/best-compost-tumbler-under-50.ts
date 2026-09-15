@@ -1,7 +1,7 @@
 export const guideSlug = "best-compost-tumbler-under-50";
 export const guideTitle = "Best Compost Tumbler Under $50 (2026)";
 export const metaTitle = "Best Compost Tumbler Under $50 (2026): 3 Picks Compared";
-export const metaDescription = "We compare current compost tumblers priced under $50 on usable chamber volume, rotation effort, and drainage.";
+export const metaDescription = "We compare current compost tumblers priced under $50 on usable chamber volume, rotation effort, and drainage, with real pros and cons for each pick.";
 export const mainKeyword = "best compost tumbler under $50";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

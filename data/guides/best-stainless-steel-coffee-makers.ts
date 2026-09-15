@@ -1,8 +1,7 @@
 export const guideSlug = "best-stainless-steel-coffee-makers";
 export const guideTitle = "Best Stainless Steel Coffee Makers";
 export const metaTitle = "Best Stainless Steel Coffee Makers (2026): 4 Compared";
-export const metaDescription =
-  "We compared four coffee makers marketed as stainless steel on what parts are actually solid steel versus steel-colored plastic, plus durability and heat concerns.";
+export const metaDescription = "We compared four coffee makers marketed as stainless steel on what parts are actually solid steel versus steel-colored plastic.";
 export const mainKeyword = "coffee makers stainless steel";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

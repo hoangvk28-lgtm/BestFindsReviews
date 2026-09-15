@@ -1,8 +1,7 @@
 export const guideSlug = "best-anti-tangle-robot-vacuums";
 export const guideTitle = "Best Anti-Tangle Robot Vacuums";
 export const metaTitle = "Best Anti-Tangle Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums marketed around anti-tangle brush designs, looking at roller type, self-emptying convenience, and suction power so you can pick the right one for long hair or heavy shedding.";
+export const metaDescription = "We compared eight current robot vacuums marketed around anti-tangle brush designs, looking at roller type, self-emptying convenience.";
 export const mainKeyword = "anti-tangle robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

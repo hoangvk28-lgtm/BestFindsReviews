@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-sweepers-for-pine-needles";
 export const guideTitle = "Best Lawn Sweepers for Pine Needles (2026)";
 export const metaTitle = "Best Lawn Sweepers for Pine Needles (2026): Top Picks Compared";
-export const metaDescription = "The best lawn sweepers for pine needle cleanup, compared on brush design, clog resistance, and hopper capacity.";
+export const metaDescription = "The best lawn sweepers for pine needle cleanup, compared on brush design, clog resistance, and hopper capacity, with real pros and cons for each pick.";
 export const mainKeyword = "lawn sweeper pine needles";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

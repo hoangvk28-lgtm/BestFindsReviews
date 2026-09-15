@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-tool-storage-racks";
 export const guideTitle = "Best Garden Tool Storage Racks (2026)";
 export const metaTitle = "Best Garden Tool Storage Racks (2026)";
-export const metaDescription = "The best garden tool storage racks compared, freestanding towers and 3-tier metal racks that stand tools upright, based on real capacity, footprint, and stability.";
+export const metaDescription = "The best garden tool storage racks compared, freestanding towers and 3-tier metal racks that stand tools upright, based on real capacity, footprint.";
 export const mainKeyword = "garden tool storage rack";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

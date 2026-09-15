@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-watering-timers";
 export const guideTitle = "Best Digital Watering Timers (2026)";
 export const metaTitle = "Best Digital Watering Timers (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current digital watering timers on LCD programming and rain delay so you can pick the right one.";
+export const metaDescription = "We compared six current digital watering timers on LCD programming and rain delay so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "digital watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

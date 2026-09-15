@@ -1,7 +1,7 @@
 export const guideSlug = "best-swivel-garden-stools";
 export const guideTitle = "Best Swivel Garden Stools (2026)";
 export const metaTitle = "Best Swivel Garden Stools (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current swivel garden stools so you can pick the right one.";
+export const metaDescription = "We compared five current swivel garden stools so you can pick the right one, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "swivel garden stools";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

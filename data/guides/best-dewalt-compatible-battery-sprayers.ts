@@ -1,7 +1,7 @@
 export const guideSlug = "best-dewalt-compatible-battery-sprayers";
 export const guideTitle = "Best DeWalt-Compatible Battery Sprayers (2026)";
 export const metaTitle = "Best DeWalt-Compatible Battery Sprayers (2026)";
-export const metaDescription = "The best battery sprayers compatible with DeWalt 20V tools, compared on tank size and pressure output.";
+export const metaDescription = "The best battery sprayers compatible with DeWalt 20V tools, compared on tank size and pressure output, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered sprayer dewalt";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

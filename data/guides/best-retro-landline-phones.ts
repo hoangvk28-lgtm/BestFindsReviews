@@ -1,7 +1,7 @@
 export const guideSlug = "best-retro-landline-phones";
 export const guideTitle = "Best Retro Landline Phones (2026)";
 export const metaTitle = "Best Retro Landline Phones (2026): 3 Picks Compared";
-export const metaDescription = "The best retro-style landline phones for 2026, compared on authenticity and modern features.";
+export const metaDescription = "The best retro-style landline phones for 2026, compared on authenticity and modern features, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "retro landline phone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

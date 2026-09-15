@@ -1,7 +1,7 @@
 export const guideSlug = "best-self-watering-raised-planters";
 export const guideTitle = "Best Self-Watering Raised Planters (2026)";
 export const metaTitle = "Best Self-Watering Raised Planters (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current self-watering raised planters on capacity and monitoring features.";
+export const metaDescription = "We compared six current self-watering raised planters on capacity and monitoring features, based on 6 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "raised planter self watering";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

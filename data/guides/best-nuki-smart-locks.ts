@@ -1,7 +1,7 @@
 export const guideSlug = "best-nuki-smart-locks";
 export const guideTitle = "Best Nuki Smart Locks (2026)";
 export const metaTitle = "Best Nuki Smart Locks (2026): 4 Picks Compared";
-export const metaDescription = "The best Nuki smart locks for 2026, compared on keypad and fingerprint accessories.";
+export const metaDescription = "The best Nuki smart locks for 2026, compared on keypad and fingerprint accessories, with a full breakdown of 4 options based on real specs and feedback.";
 export const mainKeyword = "nuki smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

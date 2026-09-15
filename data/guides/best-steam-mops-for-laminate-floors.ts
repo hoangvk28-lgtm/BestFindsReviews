@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-mops-for-laminate-floors";
 export const guideTitle = "Best Steam Mops for Laminate Floors (2026)";
 export const metaTitle = "Best Steam Mops for Laminate Floors (2026): Check Approval First";
-export const metaDescription = "Major laminate manufacturers vary widely on steam guidance, some prohibit it entirely, others permit it only with specific technique. We explain how to check first.";
+export const metaDescription = "Major laminate manufacturers vary widely on steam guidance, some prohibit it entirely, others permit it only with specific technique.";
 export const mainKeyword = "best steam mops for laminate floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

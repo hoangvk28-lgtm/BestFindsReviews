@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbells-with-flashing-lights";
 export const guideTitle = "Best Wireless Doorbells With Flashing Lights (2026)";
 export const metaTitle = "Best Wireless Doorbells With Flashing Lights (2026): 6 Picks Compared";
-export const metaDescription = "The best wireless doorbells with flashing light alerts for 2026.";
+export const metaDescription = "The best wireless doorbells with flashing light alerts for 2026, weighing 6 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "wireless doorbells with flashing lights";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

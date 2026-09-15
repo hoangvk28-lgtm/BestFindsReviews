@@ -1,7 +1,7 @@
 export const guideSlug = "best-orbit-hose-nozzles";
 export const guideTitle = "Best Orbit Hose Nozzles (2026)";
 export const metaTitle = "Best Orbit Hose Nozzles (2026)";
-export const metaDescription = "The Orbit hose nozzle range compared, from the Ultralight turret to the Pro Series thumb control and the 26800 water cannon, based on real patterns, control, and build.";
+export const metaDescription = "The Orbit hose nozzle range compared, from the Ultralight turret to the Pro Series thumb control and the 26800 water cannon, based on real patterns, control.";
 export const mainKeyword = "Orbit hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

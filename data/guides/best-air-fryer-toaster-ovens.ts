@@ -1,7 +1,7 @@
 export const guideSlug = "best-air-fryer-toaster-ovens";
 export const guideTitle = "Best Air Fryer Toaster Ovens (2026)";
 export const metaTitle = "Best Air Fryer Toaster Ovens (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Air Fryer Toaster Ovens compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Air Fryer Toaster Ovens compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "air fryer toaster ovens";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

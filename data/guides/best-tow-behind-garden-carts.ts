@@ -1,7 +1,7 @@
 export const guideSlug = "best-tow-behind-garden-carts";
 export const guideTitle = "Best Tow-Behind Garden Carts (2026)";
 export const metaTitle = "Best Tow-Behind Garden Carts (2026): 7 Models Compared";
-export const metaDescription = "We compared current tow-behind and hand-pulled garden dump carts on hitch compatibility, capacity, and dump function so you can pick the right one without guessing.";
+export const metaDescription = "We compared current tow-behind and hand-pulled garden dump carts on hitch compatibility, capacity, and dump function so you can pick the right one without.";
 export const mainKeyword = "garden carts tractor supply";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

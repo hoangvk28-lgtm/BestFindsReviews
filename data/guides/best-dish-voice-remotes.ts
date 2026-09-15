@@ -1,7 +1,7 @@
 export const guideSlug = "best-dish-voice-remotes";
 export const guideTitle = "Best Dish Voice Remotes (2026)";
 export const metaTitle = "Best Dish Voice Remotes (2026): 5 Picks Compared";
-export const metaDescription = "The best Dish Network Hopper voice remotes for 2026, compared on model compatibility.";
+export const metaDescription = "The best Dish Network Hopper voice remotes for 2026, compared on model compatibility, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "best dish voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

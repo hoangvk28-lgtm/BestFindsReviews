@@ -1,7 +1,7 @@
 export const guideSlug = "best-wi-fi-video-intercom-systems";
 export const guideTitle = "Best Wi-Fi Video Intercom Systems (2026)";
 export const metaTitle = "Best Wi-Fi Video Intercom Systems (2026): 5 Picks Compared";
-export const metaDescription = "The best Wi-Fi video intercom systems for 2026, compared on connectivity and app control.";
+export const metaDescription = "The best Wi-Fi video intercom systems for 2026, compared on connectivity and app control, based on 5 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "video intercom wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

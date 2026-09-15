@@ -1,7 +1,7 @@
 export const guideSlug = "best-video-intercoms-with-door-release";
 export const guideTitle = "Best Video Intercoms With Door Release (2026)";
 export const metaTitle = "Best Video Intercoms With Door Release (2026): 6 Picks Compared";
-export const metaDescription = "The best video intercom systems with electric door release for 2026.";
+export const metaDescription = "The best video intercom systems with electric door release for 2026, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "video intercom with door release";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

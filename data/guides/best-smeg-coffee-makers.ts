@@ -1,8 +1,7 @@
 export const guideSlug = "best-smeg-coffee-makers";
 export const guideTitle = "Best Smeg Coffee Makers";
 export const metaTitle = "Best Smeg Coffee Makers (2026): Drip and Espresso Compared";
-export const metaDescription =
-  "We compared current Smeg drip and espresso machines on price versus performance, control readability, cleaning access, and finish durability so the retro design premium is easier to judge.";
+export const metaDescription = "We compared current Smeg drip and espresso machines on price versus performance, control readability, cleaning access, and finish durability so the retro.";
 export const mainKeyword = "smeg coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

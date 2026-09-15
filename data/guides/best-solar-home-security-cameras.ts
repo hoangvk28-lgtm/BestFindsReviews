@@ -1,7 +1,7 @@
 export const guideSlug = "best-solar-home-security-cameras";
 export const guideTitle = "Best Solar Home Security Cameras (2026)";
 export const metaTitle = "Best Solar Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best solar-powered home security cameras for 2026, compared on panel efficiency and battery capacity.";
+export const metaDescription = "The best solar-powered home security cameras for 2026, compared on panel efficiency and battery capacity, with real pros and cons for each pick.";
 export const mainKeyword = "solar home security cameras";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

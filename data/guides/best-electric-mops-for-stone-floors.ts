@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-mops-for-stone-floors";
 export const guideTitle = "Best Electric Mops for Stone Floors (2026)";
 export const metaTitle = "Best Electric Mops for Stone Floors (2026): 7 Models Compared";
-export const metaDescription = "We compared seven current electric mops for stone floors with strong safety cautions: steam should only be used on confirmed sealed stone, never unsealed natural stone.";
+export const metaDescription = "We compared seven current electric mops for stone floors with strong safety cautions: steam should only be used on confirmed sealed stone.";
 export const mainKeyword = "electric mops for stone floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-14";

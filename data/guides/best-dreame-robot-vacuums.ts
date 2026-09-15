@@ -1,8 +1,7 @@
 export const guideSlug = "best-dreame-robot-vacuums";
 export const guideTitle = "Best Dreame Robot Vacuums";
 export const metaTitle = "Best Dreame Robot Vacuums (2026): 6 Models Compared";
-export const metaDescription =
-  "We compared six current Dreame robot vacuum models on suction, mop washing temperature, obstacle handling, and price so you can pick the right one without guessing.";
+export const metaDescription = "We compared six current Dreame robot vacuum models on suction, mop washing temperature, obstacle handling, and price so you can pick the right one without.";
 export const mainKeyword = "dreame robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

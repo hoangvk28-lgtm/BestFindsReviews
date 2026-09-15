@@ -1,7 +1,7 @@
 export const guideSlug = "best-800-watt-microwaves";
 export const guideTitle = "Best 800-Watt Microwaves";
 export const metaTitle = "Best 800-Watt Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best 800-Watt Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best 800-Watt Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "800-watt microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

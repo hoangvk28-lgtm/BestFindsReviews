@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-sprayers-with-long-wands";
 export const guideTitle = "Best Garden Sprayers With Long Wands (2026)";
 export const metaTitle = "Best Garden Sprayers With Long Wands (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current garden sprayers and wand accessories built for extended reach so you can pick the right one.";
+export const metaDescription = "We compared five current garden sprayers and wand accessories built for extended reach so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "garden sprayer wand";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

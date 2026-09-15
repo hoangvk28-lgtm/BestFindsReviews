@@ -1,7 +1,7 @@
 export const guideSlug = "best-microwaves-for-dorm-rooms";
 export const guideTitle = "Best Microwaves for Dorm Rooms";
 export const metaTitle = "Best Microwaves for Dorm Rooms (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Microwaves for Dorm Rooms compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Microwaves for Dorm Rooms compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwaves for dorm rooms";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-carrier-smart-thermostats";
 export const guideTitle = "Best Carrier Smart Thermostats (2026)";
 export const metaTitle = "Best Carrier Smart Thermostats (2026): Reviewed";
-export const metaDescription = "A look at Carrier's Côr smart thermostat for 2026, reviewed on features and HVAC compatibility.";
+export const metaDescription = "A look at Carrier's Côr smart thermostat for 2026, reviewed on features and HVAC compatibility, with 1 current picks compared on real specs and pricing.";
 export const mainKeyword = "carrier smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

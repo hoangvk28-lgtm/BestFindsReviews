@@ -1,7 +1,7 @@
 export const guideSlug = "best-commercial-wet-dry-vacuums";
 export const guideTitle = "Best Commercial Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Commercial Wet-Dry Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best commercial-grade wet-dry vacuums for 2026, compared on tank capacity, motor durability, and price.";
+export const metaDescription = "The best commercial-grade wet-dry vacuums for 2026, compared on tank capacity, motor durability, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best commercial wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

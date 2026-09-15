@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-powered-garden-sprayers";
 export const guideTitle = "Best Battery-Powered Garden Sprayers (2026)";
 export const metaTitle = "Best Battery-Powered Garden Sprayers (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current battery-powered garden sprayers on capacity and coverage so you can pick the right one.";
+export const metaDescription = "We compared six current battery-powered garden sprayers on capacity and coverage so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered garden sprayer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

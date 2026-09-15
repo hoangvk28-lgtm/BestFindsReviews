@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-dishwasher-under-300";
 export const guideTitle = "Best Portable Dishwasher Under $300 (2026)";
 export const metaTitle = "Best Portable Dishwasher Under $300 (2026): 6 Picks Compared";
-export const metaDescription = "Six portable dishwashers under $300 compared on tank size and named features, with an honest note that this budget tier is dominated by countertop-style units, not full rolling portables.";
+export const metaDescription = "Six portable dishwashers under $300 compared on tank size and named features, with an honest note that this budget tier is dominated by countertop-style units.";
 export const mainKeyword = "best portable dishwasher under $300";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

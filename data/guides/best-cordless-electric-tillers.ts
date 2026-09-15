@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-electric-tillers";
 export const guideTitle = "Best Cordless Electric Tillers (2026)";
 export const metaTitle = "Best Cordless Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best cordless electric tillers, compared on battery platform, runtime, and tilling width.";
+export const metaDescription = "The best cordless electric tillers, compared on battery platform, runtime, and tilling width, with real pros and cons for each pick.";
 export const mainKeyword = "cordless electric tiller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

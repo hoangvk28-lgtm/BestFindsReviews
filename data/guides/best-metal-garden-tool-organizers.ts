@@ -1,7 +1,7 @@
 export const guideSlug = "best-metal-garden-tool-organizers";
 export const guideTitle = "Best Metal Garden Tool Organizers (2026)";
 export const metaTitle = "Best Metal Garden Tool Organizers (2026)";
-export const metaDescription = "The best metal garden tool organizers compared, all-steel racks that hold loaded tools without sagging and last for years, based on real gauge, capacity, and finish.";
+export const metaDescription = "The best metal garden tool organizers compared, all-steel racks that hold loaded tools without sagging and last for years, based on real gauge, capacity.";
 export const mainKeyword = "metal garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

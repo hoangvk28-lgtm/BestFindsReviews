@@ -1,7 +1,7 @@
 export const guideSlug = "best-vacuum-mops-for-seniors";
 export const guideTitle = "Best Vacuum Mops for Seniors (2026)";
 export const metaTitle = "Best Vacuum Mops for Seniors (2026): 8 Picks Compared";
-export const metaDescription = "The best vacuum mops for seniors in 2026, compared on weight, ease of use, and self-cleaning convenience.";
+export const metaDescription = "The best vacuum mops for seniors in 2026, compared on weight, ease of use, and self-cleaning convenience, with real pros and cons for each pick.";
 export const mainKeyword = "best vacuum mops for seniors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

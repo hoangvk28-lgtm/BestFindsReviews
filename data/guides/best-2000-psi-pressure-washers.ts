@@ -1,7 +1,7 @@
 export const guideSlug = "best-2000-psi-pressure-washers";
 export const guideTitle = "Best 2000 PSI Pressure Washers (2026)";
 export const metaTitle = "Best 2000 PSI Pressure Washers (2026): 6 Top Picks";
-export const metaDescription = "The best 2000 PSI pressure washers compared, a genuine middle ground strong enough for routine cleaning without the risk higher pressure poses to softer surfaces.";
+export const metaDescription = "The best 2000 PSI pressure washers compared, a genuine middle ground strong enough for routine cleaning without the risk higher pressure poses to softer.";
 export const mainKeyword = "2000 PSI pressure washer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

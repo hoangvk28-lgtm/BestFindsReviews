@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-sprayers-for-fertilizer";
 export const guideTitle = "Best Battery Sprayers for Fertilizer (2026)";
 export const metaTitle = "Best Battery Sprayers for Fertilizer (2026)";
-export const metaDescription = "The best battery-powered sprayers for liquid fertilizer, compared on tank size and nozzle patterns.";
+export const metaDescription = "The best battery-powered sprayers for liquid fertilizer, compared on tank size and nozzle patterns, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered chemical sprayer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

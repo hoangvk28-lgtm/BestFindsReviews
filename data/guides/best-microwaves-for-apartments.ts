@@ -1,7 +1,7 @@
 export const guideSlug = "best-microwaves-for-apartments";
 export const guideTitle = "Best Microwaves for Apartments";
 export const metaTitle = "Best Microwaves for Apartments (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Microwaves for Apartments compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Microwaves for Apartments compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwaves for apartments";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

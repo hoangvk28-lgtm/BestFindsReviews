@@ -1,7 +1,7 @@
 export const guideSlug = "best-44-inch-lawn-sweepers";
 export const guideTitle = "Best 44-Inch Lawn Sweepers (2026)";
 export const metaTitle = "Best 44-Inch Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best 44-inch tow-behind lawn sweepers, compared on hopper capacity, dump control, and brush adjustment.";
+export const metaDescription = "The best 44-inch tow-behind lawn sweepers, compared on hopper capacity, dump control, and brush adjustment, with real pros and cons for each pick.";
 export const mainKeyword = "44 agri fab lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

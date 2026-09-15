@@ -1,8 +1,7 @@
 export const guideSlug = "best-single-serve-coffee-makers";
 export const guideTitle = "Best Single-Serve Coffee Makers";
 export const metaTitle = "Best Single-Serve Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We grouped four current single-serve coffee makers by pod-only, grounds-only, and dual compatibility, and calculated real per-cup cost instead of just comparing reservoir size.";
+export const metaDescription = "We grouped four current single-serve coffee makers by pod-only, grounds-only, and dual compatibility, and calculated real per-cup cost instead of just.";
 export const mainKeyword = "single serve coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

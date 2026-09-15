@@ -1,8 +1,7 @@
 export const guideSlug = "best-eufy-robot-vacuums";
 export const guideTitle = "Best Eufy Robot Vacuums";
 export const metaTitle = "Best Eufy Robot Vacuums (2026): 7 Models Compared";
-export const metaDescription =
-  "We compared seven current eufy robot vacuums, from slim vacuum-only models to Omni and Matic mop-combo systems, on suction, mopping, dock maintenance, and footprint.";
+export const metaDescription = "We compared seven current eufy robot vacuums, from slim vacuum-only models to Omni and Matic mop-combo systems, on suction, mopping, dock maintenance.";
 export const mainKeyword = "eufy robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

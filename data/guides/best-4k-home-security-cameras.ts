@@ -1,7 +1,7 @@
 export const guideSlug = "best-4k-home-security-cameras";
 export const guideTitle = "Best 4K Home Security Cameras (2026)";
 export const metaTitle = "Best 4K Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best 4K home security cameras for 2026, compared on detail and storage.";
+export const metaDescription = "The best 4K home security cameras for 2026, compared on detail and storage, weighing 7 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "4k home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

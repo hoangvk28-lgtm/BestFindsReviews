@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-without-wi-fi";
 export const guideTitle = "Best Home Security Cameras Without Wi-Fi (2026)";
 export const metaTitle = "Best Home Security Cameras Without Wi-Fi (2026): 6 Picks Compared";
-export const metaDescription = "The best home security cameras that work without Wi-Fi for 2026, compared on cellular connectivity.";
+export const metaDescription = "The best home security cameras that work without Wi-Fi for 2026, compared on cellular connectivity, with real pros and cons for each pick.";
 export const mainKeyword = "home security cameras without wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

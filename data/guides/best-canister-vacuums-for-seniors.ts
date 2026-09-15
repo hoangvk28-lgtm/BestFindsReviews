@@ -1,7 +1,7 @@
 export const guideSlug = "best-canister-vacuums-for-seniors";
 export const guideTitle = "Best Canister Vacuums for Seniors (2026)";
 export const metaTitle = "Best Canister Vacuums for Seniors (2026): 8 Picks Compared";
-export const metaDescription = "The best canister vacuums for seniors in 2026, compared on weight, ease of use, and price.";
+export const metaDescription = "The best canister vacuums for seniors in 2026, compared on weight, ease of use, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best canister vacuums for seniors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

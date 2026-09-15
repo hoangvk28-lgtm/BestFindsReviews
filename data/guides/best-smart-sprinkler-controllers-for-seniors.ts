@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-sprinkler-controllers-for-seniors";
 export const guideTitle = "Best Smart Sprinkler Controllers for Seniors (2026)";
 export const metaTitle = "Best Smart Sprinkler Controllers for Seniors (2026)";
-export const metaDescription = "The best easy-to-use smart sprinkler controllers for seniors, compared on app simplicity and voice control.";
+export const metaDescription = "The best easy-to-use smart sprinkler controllers for seniors, compared on app simplicity and voice control, with real pros and cons for each pick.";
 export const mainKeyword = "smart sprinkler controllers for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

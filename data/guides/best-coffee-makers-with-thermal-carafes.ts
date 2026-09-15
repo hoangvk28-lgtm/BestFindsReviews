@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-with-thermal-carafes";
 export const guideTitle = "Best Coffee Makers With Thermal Carafes";
 export const metaTitle = "Best Coffee Makers With Thermal Carafes (2026): 4 Compared";
-export const metaDescription =
-  "We compared four current thermal carafe coffee makers on heat retention, one-handed pouring, lid disassembly for cleaning, and what a replacement carafe actually costs.";
+export const metaDescription = "We compared four current thermal carafe coffee makers on heat retention, one-handed pouring, lid disassembly for cleaning.";
 export const mainKeyword = "coffee makers with thermal carafe";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

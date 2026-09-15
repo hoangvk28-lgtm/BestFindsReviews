@@ -1,7 +1,7 @@
 export const guideSlug = "best-18v-cordless-grass-shears";
 export const guideTitle = "Best 18V Cordless Grass Shears (2026)";
 export const metaTitle = "Best 18V Cordless Grass Shears (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current 18V cordless grass shear options across brands.";
+export const metaDescription = "We compared four current 18V cordless grass shear options across brands, with honest pros and cons for each of the 4 picks reviewed.";
 export const mainKeyword = "makita 18v lxt cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

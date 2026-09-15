@@ -1,7 +1,7 @@
 export const guideSlug = "best-compact-wet-dry-vacuums";
 export const guideTitle = "Best Compact Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Compact Wet-Dry Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best compact wet-dry vacuums for 2026, compared on size, suction, and price.";
+export const metaDescription = "The best compact wet-dry vacuums for 2026, compared on size, suction, and price, weighing 8 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "best compact wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

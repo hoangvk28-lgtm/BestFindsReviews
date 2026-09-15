@@ -1,7 +1,7 @@
 export const guideSlug = "best-kenmore-upright-vacuums";
 export const guideTitle = "Best Kenmore Upright Vacuums (2026)";
 export const metaTitle = "Best Kenmore Upright Vacuums (2026): 5 Picks Compared";
-export const metaDescription = "The best Kenmore upright vacuums for 2026, compared on suction, bag capacity, and price.";
+export const metaDescription = "The best Kenmore upright vacuums for 2026, compared on suction, bag capacity, and price, with a full breakdown of 5 options based on real specs and feedback.";
 export const mainKeyword = "best kenmore upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

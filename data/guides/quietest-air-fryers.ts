@@ -1,7 +1,7 @@
 export const guideSlug = "quietest-air-fryers";
 export const guideTitle = "Quietest Air Fryers (2026)";
 export const metaTitle = "Quietest Air Fryers (2026): Current Models and Buying Guide";
-export const metaDescription = "Quietest Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Quietest Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "quietest air fryers";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

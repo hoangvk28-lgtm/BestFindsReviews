@@ -1,7 +1,7 @@
 export const guideSlug = "best-imolaza-smart-sprinkler-controllers";
 export const guideTitle = "Best ImoLaza Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best ImoLaza Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best ImoLaza smart sprinkler controllers, compared on zone count and ET-based scheduling.";
+export const metaDescription = "The best ImoLaza smart sprinkler controllers, compared on zone count and ET-based scheduling, with real pros and cons for each pick.";
 export const mainKeyword = "imolaza smart sprinkler controller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

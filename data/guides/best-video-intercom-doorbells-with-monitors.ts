@@ -1,7 +1,7 @@
 export const guideSlug = "best-video-intercom-doorbells-with-monitors";
 export const guideTitle = "Best Video Intercom Doorbells With Monitors (2026)";
 export const metaTitle = "Best Video Intercom Doorbells With Monitors (2026): 6 Picks Compared";
-export const metaDescription = "The best video intercom doorbells with dedicated indoor monitors for 2026.";
+export const metaDescription = "The best video intercom doorbells with dedicated indoor monitors for 2026, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "doorbell video intercom";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-lidar-robot-vacuums";
 export const guideTitle = "Best LiDAR Robot Vacuums";
 export const metaTitle = "Best LiDAR Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current LiDAR robot vacuums on mapping accuracy, obstacle avoidance, turret height, and self-emptying design so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current LiDAR robot vacuums on mapping accuracy, obstacle avoidance, turret height, and self-emptying design so you can pick the right one.";
 export const mainKeyword = "lidar robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

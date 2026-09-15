@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-stools-for-seniors";
 export const guideTitle = "Best Garden Stools for Seniors (2026)";
 export const metaTitle = "Best Garden Stools for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current garden stools well suited to seniors on stability, backrests, and storage.";
+export const metaDescription = "We compared six current garden stools well suited to seniors on stability, backrests, and storage, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "garden stool for elderly";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

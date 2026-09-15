@@ -1,7 +1,7 @@
 export const guideSlug = "air-fryer-vs-toaster-oven";
 export const guideTitle = "Air Fryer vs Toaster Oven";
 export const metaTitle = "Air Fryer vs Toaster Oven (2026): Current Models and Buying Guide";
-export const metaDescription = "Air Fryer vs Toaster Oven compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Air Fryer vs Toaster Oven compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "air fryer vs toaster oven";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

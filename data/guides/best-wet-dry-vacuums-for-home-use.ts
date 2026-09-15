@@ -1,7 +1,7 @@
 export const guideSlug = "best-wet-dry-vacuums-for-home-use";
 export const guideTitle = "Best Wet-Dry Vacuums for Home Use (2026)";
 export const metaTitle = "Best Wet-Dry Vacuums for Home Use (2026): 8 Picks Compared";
-export const metaDescription = "The best wet-dry vacuums for home use in 2026, compared on noise, portability, and price.";
+export const metaDescription = "The best wet-dry vacuums for home use in 2026, compared on noise, portability, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best wet-dry vacuums for home use";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

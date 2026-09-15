@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-without-wifi";
 export const guideTitle = "Best Smart Locks Without WiFi (2026)";
 export const metaTitle = "Best Smart Locks Without WiFi (2026): 6 Picks Compared";
-export const metaDescription = "The best smart locks that work without WiFi for 2026, compared on Bluetooth and standalone access.";
+export const metaDescription = "The best smart locks that work without WiFi for 2026, compared on Bluetooth and standalone access, picked after comparing every current option in this category.";
 export const mainKeyword = "smart locks without wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-upright-vacuums-with-retractable-cords";
 export const guideTitle = "Best Upright Vacuums With Retractable Cords (2026)";
 export const metaTitle = "Best Upright Vacuums With Retractable Cords (2026): 5 Picks Compared";
-export const metaDescription = "The best upright vacuums with retractable cords for 2026, compared on reach, convenience, and price.";
+export const metaDescription = "The best upright vacuums with retractable cords for 2026, compared on reach, convenience, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best upright vacuums with retractable cords";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

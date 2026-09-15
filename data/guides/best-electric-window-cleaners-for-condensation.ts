@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-window-cleaners-for-condensation";
 export const guideTitle = "Best Electric Window Cleaners for Condensation (2026)";
 export const metaTitle = "Best Electric Window Cleaners for Condensation (2026)";
-export const metaDescription = "The best electric window cleaners for condensation compared, compact window vacuums that clear morning moisture off panes in seconds, based on real suction and tank.";
+export const metaDescription = "The best electric window cleaners for condensation compared, compact window vacuums that clear morning moisture off panes in seconds.";
 export const mainKeyword = "electric window cleaner for condensation";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

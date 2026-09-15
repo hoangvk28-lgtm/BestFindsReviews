@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-with-fingerprint-access";
 export const guideTitle = "Best Smart Locks With Fingerprint Access (2026)";
 export const metaTitle = "Best Smart Locks With Fingerprint Access (2026): 7 Picks Compared";
-export const metaDescription = "The best fingerprint smart locks for 2026, compared on scan speed and backup access.";
+export const metaDescription = "The best fingerprint smart locks for 2026, compared on scan speed and backup access, with real pros and cons for each pick.";
 export const mainKeyword = "smart lock with fingerprint access";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

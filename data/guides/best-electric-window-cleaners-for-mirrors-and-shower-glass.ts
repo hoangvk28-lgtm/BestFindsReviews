@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-window-cleaners-for-mirrors-and-shower-glass";
 export const guideTitle = "Best Electric Window Cleaners for Mirrors and Shower Glass (2026)";
 export const metaTitle = "Best Electric Window Cleaners for Mirrors and Shower Glass (2026)";
-export const metaDescription = "The best electric window cleaners for mirrors and shower glass compared, compact window vacuums that clear steam and water spots in the bathroom, based on real size.";
+export const metaDescription = "The best electric window cleaners for mirrors and shower glass compared, compact window vacuums that clear steam and water spots in the bathroom.";
 export const mainKeyword = "electric window cleaner for mirrors and shower glass";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

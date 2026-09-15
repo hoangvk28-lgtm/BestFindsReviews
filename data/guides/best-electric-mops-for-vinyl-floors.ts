@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-mops-for-vinyl-floors";
 export const guideTitle = "Best Electric Mops for Vinyl Floors (2026)";
 export const metaTitle = "Best Electric Mops for Vinyl Floors (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current electric mops for vinyl and LVP floors on controlled water output and steam cautions, since vinyl is water-resistant but not waterproof.";
+export const metaDescription = "We compared eight current electric mops for vinyl and LVP floors on controlled water output and steam cautions, since vinyl is water-resistant but not.";
 export const mainKeyword = "electric mops for vinyl floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-14";

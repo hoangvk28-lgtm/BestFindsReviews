@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-google-home";
 export const guideTitle = "Best Smart Locks for Google Home (2026)";
 export const metaTitle = "Best Smart Locks for Google Home (2026): 6 Picks Compared";
-export const metaDescription = "The best Google Home compatible smart locks for 2026.";
+export const metaDescription = "The best Google Home compatible smart locks for 2026, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "smart lock for google home";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

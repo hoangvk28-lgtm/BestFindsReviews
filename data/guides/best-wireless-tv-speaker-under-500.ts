@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-tv-speaker-under-500";
 export const guideTitle = "Best Wireless TV Speaker Under $500 (2026)";
 export const metaTitle = "Best Wireless TV Speaker Under $500 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current wireless TV speakers priced under $500 on dialogue clarity, latency, and setup.";
+export const metaDescription = "We compare current wireless TV speakers priced under $500 on dialogue clarity, latency, and setup, with real pros and cons for each pick.";
 export const mainKeyword = "best wireless tv speaker under $500";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

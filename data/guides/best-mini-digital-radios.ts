@@ -1,7 +1,7 @@
 export const guideSlug = "best-mini-digital-radios";
 export const guideTitle = "Best Mini Digital Radios (2026)";
 export const metaTitle = "Best Mini Digital Radios (2026): 6 Picks Compared";
-export const metaDescription = "The best mini, compact digital radios for 2026, compared on size and battery life.";
+export const metaDescription = "The best mini, compact digital radios for 2026, compared on size and battery life, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "small digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

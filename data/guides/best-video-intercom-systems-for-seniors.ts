@@ -1,7 +1,7 @@
 export const guideSlug = "best-video-intercom-systems-for-seniors";
 export const guideTitle = "Best Video Intercom Systems for Seniors (2026)";
 export const metaTitle = "Best Video Intercom Systems for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best video intercom systems for seniors and elderly users in 2026.";
+export const metaDescription = "The best video intercom systems for seniors and elderly users in 2026, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "video intercom for elderly";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

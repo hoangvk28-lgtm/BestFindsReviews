@@ -1,7 +1,7 @@
 export const guideSlug = "cordless-scrub-brush-vs-electric-spin-scrubber";
 export const guideTitle = "Cordless Scrub Brush vs Electric Spin Scrubber (2026)";
 export const metaTitle = "Cordless Scrub Brush vs Electric Spin Scrubber (2026): Terminology Explained";
-export const metaDescription = "We clarify the overlapping terminology between cordless scrub brushes and electric spin scrubbers, since these terms are often used interchangeably in current product listings.";
+export const metaDescription = "We clarify the overlapping terminology between cordless scrub brushes and electric spin scrubbers, since these terms are often used interchangeably in current.";
 export const mainKeyword = "cordless scrub brush vs electric spin scrubber";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-17";

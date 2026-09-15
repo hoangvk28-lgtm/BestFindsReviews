@@ -1,7 +1,7 @@
 export const guideSlug = "best-bissell-handheld-vacuums";
 export const guideTitle = "Best Bissell Handheld Vacuums (2026)";
 export const metaTitle = "Best Bissell Handheld Vacuums (2026): What We Actually Found";
-export const metaDescription = "We verified Bissell's current handheld vacuum listings and found only one genuine match, plus flagged mismatched and unavailable ASINs from our initial research.";
+export const metaDescription = "We verified Bissell's current handheld vacuum listings and found only one genuine match, plus flagged mismatched and unavailable ASINs from our initial.";
 export const mainKeyword = "bissell handheld vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-17";

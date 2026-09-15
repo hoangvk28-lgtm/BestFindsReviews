@@ -1,7 +1,7 @@
 export const guideSlug = "best-directv-voice-remotes";
 export const guideTitle = "Best DirecTV Voice Remotes (2026)";
 export const metaTitle = "Best DirecTV Voice Remotes (2026): 4 Picks Compared";
-export const metaDescription = "The best DirecTV voice remotes for 2026, compared on receiver compatibility.";
+export const metaDescription = "The best DirecTV voice remotes for 2026, compared on receiver compatibility, covering 4 current picks and what to check before buying.";
 export const mainKeyword = "best directv voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

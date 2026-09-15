@@ -1,7 +1,7 @@
 export const guideSlug = "best-small-digital-photo-frames";
 export const guideTitle = "Best Small Digital Photo Frames (2026)";
 export const metaTitle = "Best Small Digital Photo Frames (2026): Compact Picks Under 10 Inches";
-export const metaDescription = "We compare current compact digital photo frames on footprint, resolution, and desk-friendly design.";
+export const metaDescription = "We compare current compact digital photo frames on footprint, resolution, and desk-friendly design, with real pros and cons for each pick.";
 export const mainKeyword = "small digital photo frames";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-17";

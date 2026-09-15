@@ -1,7 +1,7 @@
 export const guideSlug = "best-in-home-medical-alert-systems";
 export const guideTitle = "Best In-Home Medical Alert Systems (2026)";
 export const metaTitle = "Best In-Home Medical Alert Systems (2026): 6 Picks Compared";
-export const metaDescription = "The best in-home medical alert systems for 2026, compared on coverage range and monitoring type.";
+export const metaDescription = "The best in-home medical alert systems for 2026, compared on coverage range and monitoring type, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "best in-home medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

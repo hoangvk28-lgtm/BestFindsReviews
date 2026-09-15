@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-seniors";
 export const guideTitle = "Best Smart Locks for Seniors (2026)";
 export const metaTitle = "Best Smart Locks for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best smart locks for seniors in 2026, compared on ease of use and backup access.";
+export const metaDescription = "The best smart locks for seniors in 2026, compared on ease of use and backup access, with real pros and cons for each pick.";
 export const mainKeyword = "smart locks for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

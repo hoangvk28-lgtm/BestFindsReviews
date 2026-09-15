@@ -1,7 +1,7 @@
 export const guideSlug = "best-outdoor-storage-shed-under-1000";
 export const guideTitle = "Best Outdoor Storage Shed Under $1000 (2026)";
 export const metaTitle = "Best Outdoor Storage Shed Under $1000 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current outdoor storage sheds priced under $1000 on usable interior space, material, and installed cost.";
+export const metaDescription = "We compare current outdoor storage sheds priced under $1000 on usable interior space, material, and installed cost, with real pros and cons for each pick.";
 export const mainKeyword = "best outdoor storage shed under $1000";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

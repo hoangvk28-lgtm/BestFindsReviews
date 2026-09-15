@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-watering-cans";
 export const guideTitle = "Best Lightweight Watering Cans (2026)";
 export const metaTitle = "Best Lightweight Watering Cans (2026)";
-export const metaDescription = "The best lightweight watering cans compared, half-gallon to 4-litre cans that stay easy to lift and pour when full, based on real empty weight and filled weight.";
+export const metaDescription = "The best lightweight watering cans compared, half-gallon to 4-litre cans that stay easy to lift and pour when full, based on real empty weight and filled.";
 export const mainKeyword = "lightweight watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

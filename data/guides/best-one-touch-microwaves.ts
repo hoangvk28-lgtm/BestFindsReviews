@@ -1,7 +1,7 @@
 export const guideSlug = "best-one-touch-microwaves";
 export const guideTitle = "Best One-Touch Microwaves";
 export const metaTitle = "Best One-Touch Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best One-Touch Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best One-Touch Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "one-touch microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

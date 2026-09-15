@@ -1,7 +1,7 @@
 export const guideSlug = "best-billy-goat-leaf-vacuums";
 export const guideTitle = "Best Billy Goat Leaf Vacuums (2026)";
 export const metaTitle = "Best Billy Goat Leaf Vacuums (2026): Top Picks Compared";
-export const metaDescription = "The best Billy Goat leaf vacuums and accessories, compared on engine power, capacity, and available attachments.";
+export const metaDescription = "The best Billy Goat leaf vacuums and accessories, compared on engine power, capacity, and available attachments, with real pros and cons for each pick.";
 export const mainKeyword = "billy goat leaf vacuum";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

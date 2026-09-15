@@ -1,7 +1,7 @@
 export const guideSlug = "microwave-vs-conventional-oven";
 export const guideTitle = "Microwave vs Conventional Oven";
 export const metaTitle = "Microwave vs Conventional Oven (2026): Current Models and Buying Guide";
-export const metaDescription = "Microwave vs Conventional Oven compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Microwave vs Conventional Oven compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwave vs conventional oven";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

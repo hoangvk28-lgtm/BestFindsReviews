@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-portable-spot-cleaners";
 export const guideTitle = "Best Cordless Portable Spot Cleaners (2026)";
 export const metaTitle = "Best Cordless Portable Spot Cleaners (2026): 4 Current Models Compared";
-export const metaDescription = "We compare current genuinely cordless portable spot cleaners on battery runtime, suction power, and recharge time.";
+export const metaDescription = "We compare current genuinely cordless portable spot cleaners on battery runtime, suction power, and recharge time, with real pros and cons for each pick.";
 export const mainKeyword = "best cordless portable spot cleaners";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

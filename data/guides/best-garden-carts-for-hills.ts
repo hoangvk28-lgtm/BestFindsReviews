@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-carts-for-hills";
 export const guideTitle = "Best Garden Carts for Hills (2026)";
 export const metaTitle = "Best Garden Carts for Hills (2026): 8 Models Compared";
-export const metaDescription = "We compared five manual garden carts and three electric utility carts on stability, wheel count, and braking to help you control loads on sloped ground honestly.";
+export const metaDescription = "We compared five manual garden carts and three electric utility carts on stability, wheel count, and braking to help you control loads on sloped ground.";
 export const mainKeyword = "garden cart for hills";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

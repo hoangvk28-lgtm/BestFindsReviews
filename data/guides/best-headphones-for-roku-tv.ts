@@ -1,7 +1,7 @@
 export const guideSlug = "best-headphones-for-roku-tv";
 export const guideTitle = "Best Headphones for Roku TV (2026)";
 export const metaTitle = "Best Headphones for Roku TV (2026): Headphone Mode Paths Compared";
-export const metaDescription = "Roku has unique Headphone Mode paths through the remote jack, mobile app, and direct Bluetooth. We test each path separately rather than assuming generic Bluetooth advice applies.";
+export const metaDescription = "Roku has unique Headphone Mode paths through the remote jack, mobile app, and direct Bluetooth. We test each path separately rather than assuming generic.";
 export const mainKeyword = "headphones for roku tv";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

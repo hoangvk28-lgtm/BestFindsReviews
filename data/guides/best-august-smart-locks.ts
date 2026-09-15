@@ -1,7 +1,7 @@
 export const guideSlug = "best-august-smart-locks";
 export const guideTitle = "Best August Smart Locks (2026)";
 export const metaTitle = "Best August Smart Locks (2026): 5 Picks Compared";
-export const metaDescription = "The best August smart locks for 2026, compared on retrofit design and keypad options.";
+export const metaDescription = "The best August smart locks for 2026, compared on retrofit design and keypad options, comparing 5 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "august smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

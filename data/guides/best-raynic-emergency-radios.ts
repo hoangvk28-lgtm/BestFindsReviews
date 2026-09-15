@@ -1,7 +1,7 @@
 export const guideSlug = "best-raynic-emergency-radios";
 export const guideTitle = "Best Raynic Emergency Radios (2026)";
 export const metaTitle = "Best Raynic Emergency Radios (2026): 5 Picks Compared";
-export const metaDescription = "The best Raynic emergency radios for 2026, compared on capacity and features.";
+export const metaDescription = "The best Raynic emergency radios for 2026, compared on capacity and features, covering 5 current picks and what to check before buying.";
 export const mainKeyword = "raynic emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

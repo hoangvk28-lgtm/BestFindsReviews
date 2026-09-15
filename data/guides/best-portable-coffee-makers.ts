@@ -1,8 +1,7 @@
 export const guideSlug = "best-portable-coffee-makers";
 export const guideTitle = "Best Portable Coffee Makers";
 export const metaTitle = "Best Portable Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current portable coffee makers on power source, packed weight, leak resistance for travel, and cleanup without a sink, broken down by road trip, camping, air travel, and hotel use.";
+export const metaDescription = "We compared four current portable coffee makers on power source, packed weight, leak resistance for travel, and cleanup without a sink.";
 export const mainKeyword = "coffee makers portable";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

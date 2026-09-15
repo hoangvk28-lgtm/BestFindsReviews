@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-string-trimmers";
 export const guideTitle = "Best Cordless String Trimmers (2026)";
 export const metaTitle = "Best Cordless String Trimmers (2026): 6 Top Picks";
-export const metaDescription = "The best cordless string trimmers compared by line diameter, cutting swath, and attachment capability, from a genuine DeWalt 60V flagship to a WORX 2-in-1 edger combo.";
+export const metaDescription = "The best cordless string trimmers compared by line diameter, cutting swath, and attachment capability, from a genuine DeWalt 60V flagship to a WORX 2-in-1.";
 export const mainKeyword = "cordless string trimmer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

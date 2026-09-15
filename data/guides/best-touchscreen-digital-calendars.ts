@@ -1,7 +1,7 @@
 export const guideSlug = "best-touchscreen-digital-calendars";
 export const guideTitle = "Best Touchscreen Digital Calendars (2026)";
 export const metaTitle = "Best Touchscreen Digital Calendars (2026): 6 Picks Compared";
-export const metaDescription = "The best touchscreen digital calendars for 2026, compared on responsiveness and resolution.";
+export const metaDescription = "The best touchscreen digital calendars for 2026, compared on responsiveness and resolution, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "touchscreen digital calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

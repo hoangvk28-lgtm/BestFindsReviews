@@ -1,7 +1,7 @@
 export const guideSlug = "best-non-toxic-air-fryers";
 export const guideTitle = "Best Non-Toxic Air Fryers (2026)";
 export const metaTitle = "Best Non-Toxic Air Fryers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Non-Toxic Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Non-Toxic Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "non-toxic air fryers";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

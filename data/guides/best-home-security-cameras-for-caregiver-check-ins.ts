@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-for-caregiver-check-ins";
 export const guideTitle = "Best Home Security Cameras for Caregiver Check-Ins (2026)";
 export const metaTitle = "Best Home Security Cameras for Caregiver Check-Ins (2026): 6 Picks Compared";
-export const metaDescription = "The best home security cameras for remote caregiver check-ins in 2026.";
+export const metaDescription = "The best home security cameras for remote caregiver check-ins in 2026, with a full side-by-side breakdown of 6 options and verified buyer feedback.";
 export const mainKeyword = "home security cameras for caregiver check-ins";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

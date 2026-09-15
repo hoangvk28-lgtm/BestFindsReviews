@@ -1,7 +1,7 @@
 export const guideSlug = "best-all-wheel-drive-lawn-mowers";
 export const guideTitle = "Best All-Wheel-Drive Lawn Mowers";
 export const metaTitle = "Best All-Wheel-Drive Lawn Mowers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best all-wheel-drive lawn mowers compared by traction, slope handling, navigation, weight, and real ownership cost.";
+export const metaDescription = "Best all-wheel-drive lawn mowers compared by traction, slope handling, navigation, weight, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "all wheel drive lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

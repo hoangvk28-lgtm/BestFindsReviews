@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-tool-organizers-for-garages";
 export const guideTitle = "Best Garden Tool Organizers for Garages (2026)";
 export const metaTitle = "Best Garden Tool Organizers for Garages (2026)";
-export const metaDescription = "The best garage garden tool organizers compared, wall racks and wheeled towers that clear the floor and hold a full tool collection, based on real capacity and mount.";
+export const metaDescription = "The best garage garden tool organizers compared, wall racks and wheeled towers that clear the floor and hold a full tool collection.";
 export const mainKeyword = "garden tool organizer for garage";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

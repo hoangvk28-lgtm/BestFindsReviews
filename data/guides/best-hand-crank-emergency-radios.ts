@@ -1,7 +1,7 @@
 export const guideSlug = "best-hand-crank-emergency-radios";
 export const guideTitle = "Best Hand-Crank Emergency Radios (2026)";
 export const metaTitle = "Best Hand-Crank Emergency Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best hand-crank emergency radios for 2026, compared on crank efficiency and features.";
+export const metaDescription = "The best hand-crank emergency radios for 2026, compared on crank efficiency and features, weighing 7 current models on the specs and details that matter.";
 export const mainKeyword = "hand crank emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

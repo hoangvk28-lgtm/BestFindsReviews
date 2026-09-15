@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-tillers-for-clay-soil";
 export const guideTitle = "Best Electric Tillers for Clay Soil (2026)";
 export const metaTitle = "Best Electric Tillers for Clay Soil (2026): Top Picks";
-export const metaDescription = "The best electric tillers for breaking up heavy clay soil, compared on amperage and tine durability.";
+export const metaDescription = "The best electric tillers for breaking up heavy clay soil, compared on amperage and tine durability, with real pros and cons for each pick.";
 export const mainKeyword = "best electric tiller for clay soil";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

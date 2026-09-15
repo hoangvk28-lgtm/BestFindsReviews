@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-leaf-blowers";
 export const guideTitle = "Best Lightweight Leaf Blowers (2026)";
 export const metaTitle = "Best Lightweight Leaf Blowers (2026)";
-export const metaDescription = "Best Lightweight Leaf Blowers compared by clearing force, ready-to-use weight, runtime, noise, and real ownership cost. See real specs and prices before you buy.";
+export const metaDescription = "Best Lightweight Leaf Blowers compared by clearing force, ready-to-use weight, runtime, noise, and real ownership cost. See real specs and prices.";
 export const mainKeyword = "Lightweight Leaf Blowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-11";

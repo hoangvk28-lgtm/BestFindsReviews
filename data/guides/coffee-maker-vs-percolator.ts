@@ -1,8 +1,7 @@
 export const guideSlug = "coffee-maker-vs-percolator";
 export const guideTitle = "Coffee Maker vs Percolator";
 export const metaTitle = "Coffee Maker vs Percolator (2026): Which Should You Buy?";
-export const metaDescription =
-  "We compared two drip coffee makers and two electric percolators on brewing mechanism, taste consistency, safety, and group-size fit to help you pick the right one.";
+export const metaDescription = "We compared two drip coffee makers and two electric percolators on brewing mechanism, taste consistency, safety, and group-size fit to help you pick the right.";
 export const mainKeyword = "coffee maker vs percolator";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

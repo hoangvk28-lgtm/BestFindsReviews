@@ -1,7 +1,7 @@
 export const guideSlug = "most-powerful-upright-vacuums";
 export const guideTitle = "Most Powerful Upright Vacuums (2026)";
 export const metaTitle = "Most Powerful Upright Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The most powerful upright vacuums for 2026, compared on suction, motor amperage, and price.";
+export const metaDescription = "The most powerful upright vacuums for 2026, compared on suction, motor amperage, and price, weighing 8 current models on the specs and details that matter.";
 export const mainKeyword = "most powerful upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-cordless-pole-hedge-trimmers";
 export const guideTitle = "Best Lightweight Cordless Pole Hedge Trimmers (2026)";
 export const metaTitle = "Best Lightweight Cordless Pole Hedge Trimmers (2026)";
-export const metaDescription = "The best lightweight cordless pole hedge trimmers for reducing arm fatigue during extended overhead trimming sessions, compared by design and included accessories.";
+export const metaDescription = "The best lightweight cordless pole hedge trimmers for reducing arm fatigue during extended overhead trimming sessions, compared by design and included.";
 export const mainKeyword = "lightweight cordless pole hedge trimmer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

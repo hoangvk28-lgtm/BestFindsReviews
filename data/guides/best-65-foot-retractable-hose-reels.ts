@@ -1,7 +1,7 @@
 export const guideSlug = "best-65-foot-retractable-hose-reels";
 export const guideTitle = "Best 65-Foot Retractable Hose Reels (2026)";
 export const metaTitle = "Best 65-Foot Retractable Hose Reels (2026): Top Picks";
-export const metaDescription = "The best 65-foot retractable hose reels, compared on price, hose material, and mounting hardware.";
+export const metaDescription = "The best 65-foot retractable hose reels, compared on price, hose material, and mounting hardware, with real pros and cons for each pick.";
 export const mainKeyword = "yardworks retractable hose reel 65 ft";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

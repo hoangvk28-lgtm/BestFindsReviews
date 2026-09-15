@@ -1,7 +1,7 @@
 export const guideSlug = "best-dragon-touch-digital-calendars";
 export const guideTitle = "Best Dragon Touch Digital Calendars (2026)";
 export const metaTitle = "Best Dragon Touch Digital Calendars (2026): 4 Picks Compared";
-export const metaDescription = "The best Dragon Touch digital calendars for 2026, compared across sizes.";
+export const metaDescription = "The best Dragon Touch digital calendars for 2026, compared across sizes, with a full side-by-side breakdown of 4 options and verified buyer feedback.";
 export const mainKeyword = "dragon touch digital calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

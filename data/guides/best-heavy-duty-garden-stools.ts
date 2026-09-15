@@ -1,7 +1,7 @@
 export const guideSlug = "best-heavy-duty-garden-stools";
 export const guideTitle = "Best Heavy-Duty Garden Stools (2026)";
 export const metaTitle = "Best Heavy-Duty Garden Stools (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current heavy-duty garden stools on weight capacity and build quality.";
+export const metaDescription = "We compared five current heavy-duty garden stools on weight capacity and build quality, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "heavy duty garden stool";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

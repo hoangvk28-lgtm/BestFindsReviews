@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-powered-home-security-cameras";
 export const guideTitle = "Best Battery-Powered Home Security Cameras (2026)";
 export const metaTitle = "Best Battery-Powered Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best battery-powered home security cameras for 2026, compared on battery life.";
+export const metaDescription = "The best battery-powered home security cameras for 2026, compared on battery life, with real pros and cons for each pick.";
 export const mainKeyword = "home security camera battery powered";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-leaf-vacuums-for-seniors";
 export const guideTitle = "Best Leaf Vacuums for Seniors (2026)";
 export const metaTitle = "Best Leaf Vacuums for Seniors (2026): Top Picks Compared";
-export const metaDescription = "The best lightweight leaf vacuums for seniors, compared on weight, ease of use, and low-vibration operation.";
+export const metaDescription = "The best lightweight leaf vacuums for seniors, compared on weight, ease of use, and low-vibration operation, with real pros and cons for each pick.";
 export const mainKeyword = "leaf vacuums for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

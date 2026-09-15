@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-video-intercom-systems";
 export const guideTitle = "Best Smart Video Intercom Systems (2026)";
 export const metaTitle = "Best Smart Video Intercom Systems (2026): 6 Picks Compared";
-export const metaDescription = "The best smart, app-connected video intercom systems for 2026.";
+export const metaDescription = "The best smart, app-connected video intercom systems for 2026, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "smart video intercom system";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

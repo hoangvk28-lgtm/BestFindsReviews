@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-tv-remotes";
 export const guideTitle = "Best Universal TV Remotes (2026)";
 export const metaTitle = "Best Universal TV Remotes (2026): 7 Picks Compared";
-export const metaDescription = "The best universal TV remotes for 2026, compared on TV brand compatibility.";
+export const metaDescription = "The best universal TV remotes for 2026, compared on TV brand compatibility, picked after comparing every current option in this category.";
 export const mainKeyword = "tv universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

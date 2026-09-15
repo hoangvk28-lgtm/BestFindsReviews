@@ -1,7 +1,7 @@
 export const guideSlug = "best-washer-dryer-combo-under-2000";
 export const guideTitle = "Best Washer Dryer Combo Under $2000 (2026)";
 export const metaTitle = "Best Washer Dryer Combo Under $2000 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current washer dryer combos up to a $2000 ceiling, this top tier surfaces the identical practical pool as our under-$1000 and under-$1500 comparisons.";
+export const metaDescription = "We compare current washer dryer combos up to a $2000 ceiling, this top tier surfaces the identical practical pool as our under-$1000 and under-$1500.";
 export const mainKeyword = "best washer dryer combo under $2000";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

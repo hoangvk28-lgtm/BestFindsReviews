@@ -1,8 +1,7 @@
 export const guideSlug = "best-commercial-robot-vacuums";
 export const guideTitle = "Best Commercial Robot Vacuums";
 export const metaTitle = "Best Commercial Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight heavy-duty consumer robot vacuums on dustbin and self-empty dock capacity, runtime, and durability for small offices, Airbnbs, and high-traffic homes.";
+export const metaDescription = "We compared eight heavy-duty consumer robot vacuums on dustbin and self-empty dock capacity, runtime, and durability for small offices, Airbnbs.";
 export const mainKeyword = "commercial robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

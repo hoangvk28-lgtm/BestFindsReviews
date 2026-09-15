@@ -1,7 +1,7 @@
 export const guideSlug = "best-ames-garden-carts";
 export const guideTitle = "Best Ames Garden Carts (2026)";
 export const metaTitle = "Best Ames Garden Carts (2026): What's Actually Ames vs. Alternatives";
-export const metaDescription = "Ames has almost no current garden-cart catalog on Amazon. We identify the one genuine Ames listing and honestly flag the alternatives that show up in the same searches.";
+export const metaDescription = "Ames has almost no current garden-cart catalog on Amazon. We identify the one genuine Ames listing and honestly flag the alternatives that show up in the same.";
 export const mainKeyword = "ames garden cart";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

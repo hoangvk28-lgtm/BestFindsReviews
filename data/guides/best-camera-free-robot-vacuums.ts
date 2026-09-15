@@ -1,8 +1,7 @@
 export const guideSlug = "best-camera-free-robot-vacuums";
 export const guideTitle = "Best Camera-Free Robot Vacuums";
 export const metaTitle = "Best Camera-Free Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums that navigate without an onboard camera, looking at LiDAR versus bump navigation, obstacle handling, and what camera-free does and does not mean for your data.";
+export const metaDescription = "We compared eight current robot vacuums that navigate without an onboard camera, looking at LiDAR versus bump navigation, obstacle handling.";
 export const mainKeyword = "camera-free robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-phones-with-large-displays";
 export const guideTitle = "Best Landline Phones With Large Displays (2026)";
 export const metaTitle = "Best Landline Phones With Large Displays (2026): 6 Picks Compared";
-export const metaDescription = "The best landline phones with large, easy-to-read displays for 2026.";
+export const metaDescription = "The best landline phones with large, easy-to-read displays for 2026, weighing 6 current models on the specs and details that matter.";
 export const mainKeyword = "landline phones with large displays";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

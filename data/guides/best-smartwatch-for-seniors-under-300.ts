@@ -1,7 +1,7 @@
 export const guideSlug = "best-smartwatch-for-seniors-under-300";
 export const guideTitle = "Best Smartwatch For Seniors Under $300 (2026)";
 export const metaTitle = "Best Smartwatch For Seniors Under $300 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current smartwatches for seniors priced under $300 on safety features, compatibility, and usability.";
+export const metaDescription = "We compare current smartwatches for seniors priced under $300 on safety features, compatibility, and usability, with real pros and cons for each pick.";
 export const mainKeyword = "best smartwatch for seniors under $300";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

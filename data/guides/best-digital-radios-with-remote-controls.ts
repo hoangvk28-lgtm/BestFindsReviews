@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-radios-with-remote-controls";
 export const guideTitle = "Best Digital Radios With Remote Controls (2026)";
 export const metaTitle = "Best Digital Radios With Remote Controls (2026): 5 Picks Compared";
-export const metaDescription = "The best digital radios with remote controls for 2026, compared on range and features.";
+export const metaDescription = "The best digital radios with remote controls for 2026, compared on range and features, with real pros and cons for each pick.";
 export const mainKeyword = "digital radio with remote control";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

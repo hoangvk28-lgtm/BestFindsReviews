@@ -1,7 +1,7 @@
 export const guideSlug = "best-ge-universal-remotes";
 export const guideTitle = "Best GE Universal Remotes (2026)";
 export const metaTitle = "Best GE Universal Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best GE universal remotes for 2026, compared on compatibility and features.";
+export const metaDescription = "The best GE universal remotes for 2026, compared on compatibility and features, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "general electric universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

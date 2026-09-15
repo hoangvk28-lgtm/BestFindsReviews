@@ -1,7 +1,7 @@
 export const guideSlug = "best-40v-lawn-mowers";
 export const guideTitle = "Best 40V Lawn Mowers";
 export const metaTitle = "Best 40V Lawn Mowers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best 40V Lawn Mowers compared by included battery energy, deck width, drive type, and real ownership cost so you can pick the right one without paying for capacity you will not use.";
+export const metaDescription = "Best 40V Lawn Mowers compared by included battery energy, deck width, drive type, and real ownership cost so you can pick the right one without paying.";
 export const mainKeyword = "40v lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-canister-vacuums";
 export const guideTitle = "Best Canister Vacuums (2026)";
 export const metaTitle = "Best Canister Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best canister vacuums for 2026 across every brand and budget, compared on suction, hose reach, and filtration.";
+export const metaDescription = "The best canister vacuums for 2026 across every brand and budget, compared on suction, hose reach, and filtration, with real pros and cons for each pick.";
 export const mainKeyword = "best canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

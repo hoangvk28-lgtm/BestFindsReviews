@@ -1,7 +1,7 @@
 export const guideSlug = "best-narrow-spout-watering-cans-for-houseplants";
 export const guideTitle = "Best Narrow-Spout Watering Cans for Houseplants (2026)";
 export const metaTitle = "Best Narrow-Spout Watering Cans for Houseplants (2026)";
-export const metaDescription = "The best narrow-spout watering cans for houseplants compared, cans with a fine tapered spout to place water at the soil, based on real spout precision, capacity, and reach.";
+export const metaDescription = "The best narrow-spout watering cans for houseplants compared, cans with a fine tapered spout to place water at the soil, based on real spout precision.";
 export const mainKeyword = "narrow-spout watering can for houseplants";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

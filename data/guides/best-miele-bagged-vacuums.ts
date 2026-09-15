@@ -1,7 +1,7 @@
 export const guideSlug = "best-miele-bagged-vacuums";
 export const guideTitle = "Best Miele Bagged Vacuums (2026)";
 export const metaTitle = "Best Miele Bagged Vacuums (2026): 5 Current Guard-Era Picks Compared";
-export const metaDescription = "Miele's Complete C3 line is discontinued. We compare the current Classic C1 and Guard series bagged canisters instead.";
+export const metaDescription = "Miele's Complete C3 line is discontinued. We compare the current Classic C1 and Guard series bagged canisters instead, with real pros and cons for each pick.";
 export const mainKeyword = "miele bagged vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

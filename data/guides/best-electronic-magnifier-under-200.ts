@@ -1,7 +1,7 @@
 export const guideSlug = "best-electronic-magnifier-under-200";
 export const guideTitle = "Best Electronic Magnifier Under $200 (2026)";
 export const metaTitle = "Best Electronic Magnifier Under $200 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current electronic magnifiers priced under $200 on form factor, OCR capability, and assistive-tech support.";
+export const metaDescription = "We compare current electronic magnifiers priced under $200 on form factor, OCR capability, and assistive-tech support, with real pros and cons for each pick.";
 export const mainKeyword = "best electronic magnifier under $200";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-schlage-smart-locks";
 export const guideTitle = "Best Schlage Smart Locks (2026)";
 export const metaTitle = "Best Schlage Smart Locks (2026): 6 Picks Compared";
-export const metaDescription = "The best Schlage smart locks for 2026, compared on trim styles and connectivity.";
+export const metaDescription = "The best Schlage smart locks for 2026, compared on trim styles and connectivity, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "schlage smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

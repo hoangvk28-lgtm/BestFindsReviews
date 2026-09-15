@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-with-local-storage";
 export const guideTitle = "Best Home Security Cameras With Local Storage (2026)";
 export const metaTitle = "Best Home Security Cameras With Local Storage (2026): 6 Picks Compared";
-export const metaDescription = "The best home security cameras with local SD card storage for 2026.";
+export const metaDescription = "The best home security cameras with local SD card storage for 2026, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "home security camera local storage";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

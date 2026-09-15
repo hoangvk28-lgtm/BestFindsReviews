@@ -1,7 +1,7 @@
 export const guideSlug = "ecobee-vs-nest-smart-thermostats";
 export const guideTitle = "Ecobee vs Nest Smart Thermostats (2026)";
 export const metaTitle = "Ecobee vs Nest Smart Thermostats (2026): Which Should You Buy?";
-export const metaDescription = "A direct comparison of ecobee and Google Nest smart thermostats for 2026, covering sensors, ecosystem, and price.";
+export const metaDescription = "A direct comparison of ecobee and Google Nest smart thermostats for 2026, covering sensors, ecosystem, and price, with real pros and cons for each pick.";
 export const mainKeyword = "google nest vs ecobee smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

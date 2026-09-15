@@ -1,7 +1,7 @@
 export const guideSlug = "best-matter-compatible-smart-locks";
 export const guideTitle = "Best Matter-Compatible Smart Locks (2026)";
 export const metaTitle = "Best Matter-Compatible Smart Locks (2026): 6 Picks Compared";
-export const metaDescription = "The best Matter-compatible smart locks for 2026, future-proofing smart home integration.";
+export const metaDescription = "The best Matter-compatible smart locks for 2026, future-proofing smart home integration, with real pros and cons for each pick.";
 export const mainKeyword = "matter compatible smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-simple-laptops-for-students";
 export const guideTitle = "Best Simple Laptops for Students (2026)";
 export const metaTitle = "Best Simple Laptops for Students (2026): 6 Picks Compared";
-export const metaDescription = "The best simple laptops for students in 2026, compared on portability, battery life, and included software.";
+export const metaDescription = "The best simple laptops for students in 2026, compared on portability, battery life, and included software, with real pros and cons for each pick.";
 export const mainKeyword = "best simple laptops for students";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-garment-steamer-under-150";
 export const guideTitle = "Best Garment Steamer Under $150 (2026)";
 export const metaTitle = "Best Garment Steamer Under $150 (2026): 8 Picks Compared";
-export const metaDescription = "At this budget you're mostly choosing between traditional Rowenta irons and Conair's 2-in-1 combos rather than finding fundamentally new features, here's what's actually worth the extra room.";
+export const metaDescription = "At this budget you're mostly choosing between traditional Rowenta irons and Conair's 2-in-1 combos rather than finding fundamentally new features.";
 export const mainKeyword = "best garment steamer under $150";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

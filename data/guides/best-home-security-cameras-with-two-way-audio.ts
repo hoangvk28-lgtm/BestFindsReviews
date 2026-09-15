@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-with-two-way-audio";
 export const guideTitle = "Best Home Security Cameras With Two-Way Audio (2026)";
 export const metaTitle = "Best Home Security Cameras With Two-Way Audio (2026): 6 Picks Compared";
-export const metaDescription = "The best home security cameras with two-way audio for 2026.";
+export const metaDescription = "The best home security cameras with two-way audio for 2026, weighing 6 current models on the specs and details that matter.";
 export const mainKeyword = "home security cameras with two-way audio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

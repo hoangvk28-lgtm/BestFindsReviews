@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-window-cleaners";
 export const guideTitle = "Best Electric Window Cleaners (2026)";
 export const metaTitle = "Best Electric Window Cleaners (2026)";
-export const metaDescription = "The best electric window cleaners compared, cordless spray-and-vacuum squeegees that lift dirty water off the glass with no drips, based on real suction and tank size.";
+export const metaDescription = "The best electric window cleaners compared, cordless spray-and-vacuum squeegees that lift dirty water off the glass with no drips.";
 export const mainKeyword = "electric window cleaner";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

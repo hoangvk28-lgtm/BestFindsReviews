@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-auger-under-100";
 export const guideTitle = "Best Garden Auger Under $100 (2026)";
 export const metaTitle = "Best Garden Auger Under $100 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current garden augers priced under $100 on diameter, shank compatibility, and soil performance.";
+export const metaDescription = "We compare current garden augers priced under $100 on diameter, shank compatibility, and soil performance, with real pros and cons for each pick.";
 export const mainKeyword = "best garden auger under $100";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-alexa-voice-remotes";
 export const guideTitle = "Best Alexa Voice Remotes (2026)";
 export const metaTitle = "Best Alexa Voice Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best Alexa-enabled voice remotes for 2026, compared on features and compatibility.";
+export const metaDescription = "The best Alexa-enabled voice remotes for 2026, compared on features and compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best alexa voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-washing-machine-under-500";
 export const guideTitle = "Best Portable Washing Machine Under $500 (2026)";
 export const metaTitle = "Best Portable Washing Machine Under $500 (2026): 6 Picks Compared";
-export const metaDescription = "We compare current portable washing machines priced under $500, where the market's largest-capacity full-automatic units become affordable alongside brand-name compacts.";
+export const metaDescription = "We compare current portable washing machines priced under $500, where the market's largest-capacity full-automatic units become affordable alongside.";
 export const mainKeyword = "best portable washing machine under $500";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

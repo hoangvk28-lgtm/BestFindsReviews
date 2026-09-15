@@ -1,7 +1,7 @@
 export const guideSlug = "40v-vs-80v-lawn-mowers";
 export const guideTitle = "40V vs 80V Lawn Mowers";
 export const metaTitle = "40V vs 80V Lawn Mowers (2026): Which Voltage Actually Fits Your Yard";
-export const metaDescription = "40V vs 80V lawn mowers compared by watt-hours, deck width, runtime, weight, recharge workflow, and ecosystem cost so you buy the platform that matches your lawn, not the biggest number on the box.";
+export const metaDescription = "40V vs 80V lawn mowers compared by watt-hours, deck width, runtime, weight, recharge workflow, and ecosystem cost so you buy the platform that matches your.";
 export const mainKeyword = "40v vs 80v lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

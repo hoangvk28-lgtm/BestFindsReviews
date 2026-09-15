@@ -1,7 +1,7 @@
 export const guideSlug = "best-miele-canister-vacuums";
 export const guideTitle = "Best Miele Canister Vacuums (2026)";
 export const metaTitle = "Best Miele Canister Vacuums (2026): 5 Picks Compared";
-export const metaDescription = "The best Miele canister vacuums for 2026, compared on suction, filtration, and price.";
+export const metaDescription = "The best Miele canister vacuums for 2026, compared on suction, filtration, and price, picked after comparing every current option in this category.";
 export const mainKeyword = "best miele canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

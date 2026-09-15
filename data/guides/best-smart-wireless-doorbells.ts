@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-wireless-doorbells";
 export const guideTitle = "Best Smart Wireless Doorbells (2026)";
 export const metaTitle = "Best Smart Wireless Doorbells (2026): 6 Picks Compared";
-export const metaDescription = "The best smart, app-connected wireless doorbells for 2026.";
+export const metaDescription = "The best smart, app-connected wireless doorbells for 2026, covering 6 current picks with honest pros, cons, and real trade-offs explained.";
 export const mainKeyword = "smart wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-mops-for-tile-floors";
 export const guideTitle = "Best Electric Mops for Tile Floors (2026)";
 export const metaTitle = "Best Electric Mops for Tile Floors (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current electric mops for tile floors on grout-line pickup, water tolerance, and price, since tile handles moisture better than wood or laminate.";
+export const metaDescription = "We compared eight current electric mops for tile floors on grout-line pickup, water tolerance, and price, since tile handles moisture better than wood.";
 export const mainKeyword = "electric mops for tile floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-14";

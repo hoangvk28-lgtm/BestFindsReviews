@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-powered-emergency-radios";
 export const guideTitle = "Best Battery-Powered Emergency Radios (2026)";
 export const metaTitle = "Best Battery-Powered Emergency Radios (2026): 6 Picks Compared";
-export const metaDescription = "The best battery-powered emergency radios for 2026, compared on battery life and capacity.";
+export const metaDescription = "The best battery-powered emergency radios for 2026, compared on battery life and capacity, based on 6 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "emergency radio battery powered";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-iced-coffee-makers";
 export const guideTitle = "Best Iced Coffee Makers";
 export const metaTitle = "Best Iced Coffee Makers (2026): 5 Models Compared";
-export const metaDescription =
-  "We compared five current iced coffee makers across hot-over-ice, true cold brew, and pod-based systems, and checked which iced settings actually avoid a watered-down cup.";
+export const metaDescription = "We compared five current iced coffee makers across hot-over-ice, true cold brew, and pod-based systems, and checked which iced settings actually avoid.";
 export const mainKeyword = "iced coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "10 min";

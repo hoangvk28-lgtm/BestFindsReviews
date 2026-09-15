@@ -1,8 +1,7 @@
 export const guideSlug = "coffee-maker-vs-french-press";
 export const guideTitle = "Coffee Maker vs French Press";
 export const metaTitle = "Coffee Maker vs French Press (2026): Which Should You Buy?";
-export const metaDescription =
-  "We compared two drip coffee makers and two French presses on brew time, cleanup, and real first-year cost so you can decide which brewing method actually fits your routine.";
+export const metaDescription = "We compared two drip coffee makers and two French presses on brew time, cleanup, and real first-year cost so you can decide which brewing method actually fits.";
 export const mainKeyword = "coffee maker vs french press";
 export const lastUpdated = "2026-08-04";
 export const readTime = "10 min";

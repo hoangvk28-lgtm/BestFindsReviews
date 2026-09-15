@@ -1,7 +1,7 @@
 export const guideSlug = "best-shark-steam-mops";
 export const guideTitle = "Best Shark Steam Mops (2026)";
 export const metaTitle = "Best Shark Steam Mops (2026): 6 Current Models Compared";
-export const metaDescription = "We compare Shark's current steam mop lineup, from the classic Steam Pocket up through Steam Pickup and Steam & Scrub, on heat-up, steam control, and debris handling.";
+export const metaDescription = "We compare Shark's current steam mop lineup, from the classic Steam Pocket up through Steam Pickup and Steam & Scrub, on heat-up, steam control.";
 export const mainKeyword = "shark steam mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

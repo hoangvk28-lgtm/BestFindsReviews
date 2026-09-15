@@ -1,7 +1,7 @@
 export const guideSlug = "best-100-foot-retractable-hose-reels";
 export const guideTitle = "Best 100-Foot Retractable Hose Reels (2026)";
 export const metaTitle = "Best 100-Foot Retractable Hose Reels (2026): Top Picks";
-export const metaDescription = "The best 100-foot retractable hose reels, compared on hose diameter, rewind system, and mounting style.";
+export const metaDescription = "The best 100-foot retractable hose reels, compared on hose diameter, rewind system, and mounting style, with real pros and cons for each pick.";
 export const mainKeyword = "retractable hose reel 100 ft";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

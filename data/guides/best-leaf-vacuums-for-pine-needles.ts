@@ -1,7 +1,7 @@
 export const guideSlug = "best-leaf-vacuums-for-pine-needles";
 export const guideTitle = "Best Leaf Vacuums for Pine Needles (2026)";
 export const metaTitle = "Best Leaf Vacuums for Pine Needles (2026): Top Picks Compared";
-export const metaDescription = "The best leaf vacuums for collecting pine needles, compared on suction strength, clog resistance, and intake design.";
+export const metaDescription = "The best leaf vacuums for collecting pine needles, compared on suction strength, clog resistance, and intake design, with real pros and cons for each pick.";
 export const mainKeyword = "leaf vacuum pine needles";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

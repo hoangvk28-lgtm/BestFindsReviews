@@ -1,7 +1,7 @@
 export const guideSlug = "best-wet-dry-vacuums-for-cars";
 export const guideTitle = "Best Wet-Dry Vacuums for Cars (2026)";
 export const metaTitle = "Best Wet-Dry Vacuums for Cars (2026): 6 Picks Compared";
-export const metaDescription = "The best wet-dry vacuums for detailing cars in 2026, compared on portability, suction, and price.";
+export const metaDescription = "The best wet-dry vacuums for detailing cars in 2026, compared on portability, suction, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best wet-dry vacuums for cars";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

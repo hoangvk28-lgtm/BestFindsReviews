@@ -1,7 +1,7 @@
 export const guideSlug = "best-video-intercoms-with-gate-release";
 export const guideTitle = "Best Video Intercoms With Gate Release (2026)";
 export const metaTitle = "Best Video Intercoms With Gate Release (2026): 5 Picks Compared";
-export const metaDescription = "The best video intercom systems with gate release control for 2026.";
+export const metaDescription = "The best video intercom systems with gate release control for 2026, weighing 5 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "video intercom with gate release";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-melnor-hose-nozzles";
 export const guideTitle = "Best Melnor Hose Nozzles (2026)";
 export const metaTitle = "Best Melnor Hose Nozzles (2026)";
-export const metaDescription = "The Melnor hose nozzle range compared, from the XT trigger nozzle to the RelaxGrip thumb design and the high-flow Torrent, based on real control, build, and flow.";
+export const metaDescription = "The Melnor hose nozzle range compared, from the XT trigger nozzle to the RelaxGrip thumb design and the high-flow Torrent, based on real control, build.";
 export const mainKeyword = "Melnor hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

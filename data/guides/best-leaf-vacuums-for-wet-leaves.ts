@@ -1,7 +1,7 @@
 export const guideSlug = "best-leaf-vacuums-for-wet-leaves";
 export const guideTitle = "Best Leaf Vacuums for Wet Leaves (2026)";
 export const metaTitle = "Best Leaf Vacuums for Wet Leaves (2026): Top Picks Compared";
-export const metaDescription = "The best leaf vacuums for collecting wet or damp leaves, compared on motor power, clog resistance, and bag material.";
+export const metaDescription = "The best leaf vacuums for collecting wet or damp leaves, compared on motor power, clog resistance, and bag material, with real pros and cons for each pick.";
 export const mainKeyword = "leaf vacuums for wet leaves";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

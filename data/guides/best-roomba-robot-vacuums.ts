@@ -1,8 +1,7 @@
 export const guideSlug = "best-roomba-robot-vacuums";
 export const guideTitle = "Best Roomba Robot Vacuums";
 export const metaTitle = "Best Roomba Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current Roomba models on vacuum-only vs combo mopping, dock type, LiDAR navigation, and pet hair handling so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current Roomba models on vacuum-only vs combo mopping, dock type, LiDAR navigation, and pet hair handling so you can pick the right one.";
 export const mainKeyword = "roomba robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "11 min";

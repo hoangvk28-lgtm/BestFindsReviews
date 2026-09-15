@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-phone-service-for-seniors";
 export const guideTitle = "Best Landline Phone Service for Seniors (2026)";
 export const metaTitle = "Best Landline Phone Service for Seniors (2026): Options Compared";
-export const metaDescription = "The best landline phone service options for seniors in 2026, comparing reliability and ease of setup.";
+export const metaDescription = "The best landline phone service options for seniors in 2026, comparing reliability and ease of setup, with real pros and cons for each pick.";
 export const mainKeyword = "landline phone service for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

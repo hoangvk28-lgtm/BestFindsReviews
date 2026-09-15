@@ -1,7 +1,7 @@
 export const guideSlug = "best-google-nest-smart-thermostats";
 export const guideTitle = "Best Google Nest Smart Thermostats (2026)";
 export const metaTitle = "Best Google Nest Smart Thermostats (2026): 6 Picks Compared";
-export const metaDescription = "The best Google Nest smart thermostats for 2026, compared on learning features and sensor support.";
+export const metaDescription = "The best Google Nest smart thermostats for 2026, compared on learning features and sensor support, with real pros and cons for each pick.";
 export const mainKeyword = "google nest smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

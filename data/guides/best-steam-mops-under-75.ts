@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-mops-under-75";
 export const guideTitle = "Best Steam Mops Under $75 (2026)";
 export const metaTitle = "Best Steam Mops Under $75 (2026): Top Picks";
-export const metaDescription = "The best steam mops under $75 for hard floors, compared on heat-up time, pad type, and chemical-free cleaning.";
+export const metaDescription = "The best steam mops under $75 for hard floors, compared on heat-up time, pad type, and chemical-free cleaning, with real pros and cons for each pick.";
 export const mainKeyword = "best steam mop under 75";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-04";

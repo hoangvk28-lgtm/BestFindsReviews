@@ -1,7 +1,7 @@
 export const guideSlug = "best-robotic-pool-cleaners-for-inground-pools";
 export const guideTitle = "Best Robotic Pool Cleaners for Inground Pools (2026)";
 export const metaTitle = "Best Robotic Pool Cleaners for Inground Pools (2026): 6 Top Picks";
-export const metaDescription = "The best robotic pool cleaners for inground pools compared by pool-size rating, coverage type, and navigation, from a budget cordless pick to a tethered flagship.";
+export const metaDescription = "The best robotic pool cleaners for inground pools compared by pool-size rating, coverage type, and navigation, from a budget cordless pick to a tethered.";
 export const mainKeyword = "robotic pool cleaner for inground pools";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

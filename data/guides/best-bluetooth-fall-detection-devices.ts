@@ -1,7 +1,7 @@
 export const guideSlug = "best-bluetooth-fall-detection-devices";
 export const guideTitle = "Best Bluetooth Fall Detection Devices (2026)";
 export const metaTitle = "Best Bluetooth Fall Detection Devices (2026): 6 Picks Compared";
-export const metaDescription = "The best Bluetooth-connected fall detection devices for 2026, compared on app features and battery life.";
+export const metaDescription = "The best Bluetooth-connected fall detection devices for 2026, compared on app features and battery life, with real pros and cons for each pick.";
 export const mainKeyword = "best bluetooth fall detection devices";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

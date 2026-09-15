@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-with-keypads";
 export const guideTitle = "Best Smart Locks With Keypads (2026)";
 export const metaTitle = "Best Smart Locks With Keypads (2026): 7 Picks Compared";
-export const metaDescription = "The best keypad smart locks for 2026, compared on code capacity and connectivity.";
+export const metaDescription = "The best keypad smart locks for 2026, compared on code capacity and connectivity, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "smart lock with keypad";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

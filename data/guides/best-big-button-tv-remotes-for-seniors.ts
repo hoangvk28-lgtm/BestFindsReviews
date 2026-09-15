@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-tv-remotes-for-seniors";
 export const guideTitle = "Best Big-Button TV Remotes for Seniors (2026)";
 export const metaTitle = "Best Big-Button TV Remotes for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best big-button TV remotes for seniors and dementia care in 2026.";
+export const metaDescription = "The best big-button TV remotes for seniors and dementia care in 2026, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "flipper big button universal tv remote for seniors dementia";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

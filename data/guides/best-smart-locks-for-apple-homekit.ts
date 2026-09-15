@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-apple-homekit";
 export const guideTitle = "Best Smart Locks for Apple HomeKit (2026)";
 export const metaTitle = "Best Smart Locks for Apple HomeKit (2026): 6 Picks Compared";
-export const metaDescription = "The best Apple HomeKit and Home Key compatible smart locks for 2026.";
+export const metaDescription = "The best Apple HomeKit and Home Key compatible smart locks for 2026, weighing 6 current models on real specs, pricing, and buyer feedback before you decide.";
 export const mainKeyword = "smart locks for apple homekit";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

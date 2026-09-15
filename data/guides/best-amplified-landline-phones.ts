@@ -1,7 +1,7 @@
 export const guideSlug = "best-amplified-landline-phones";
 export const guideTitle = "Best Amplified Landline Phones (2026)";
 export const metaTitle = "Best Amplified Landline Phones (2026): 5 Picks Compared";
-export const metaDescription = "The best amplified landline phones for 2026, compared on dB boost and hearing aid compatibility.";
+export const metaDescription = "The best amplified landline phones for 2026, compared on dB boost and hearing aid compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "amplified landline phones";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

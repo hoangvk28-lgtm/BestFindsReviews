@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-lawn-mowers";
 export const guideTitle = "Best Lightweight Lawn Mowers";
 export const metaTitle = "Best Lightweight Lawn Mowers (2026): 8 Models Compared";
-export const metaDescription = "Best Lightweight Lawn Mowers compared by ready-to-mow weight, lift points, push effort, and real ownership needs so a light spec sheet number does not mislead you.";
+export const metaDescription = "Best Lightweight Lawn Mowers compared by ready-to-mow weight, lift points, push effort, and real ownership needs so a light spec sheet number does not mislead.";
 export const mainKeyword = "lightweight lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

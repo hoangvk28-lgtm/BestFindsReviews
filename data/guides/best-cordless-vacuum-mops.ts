@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-vacuum-mops";
 export const guideTitle = "Best Cordless Vacuum Mops (2026)";
 export const metaTitle = "Best Cordless Vacuum Mops (2026): 8 Picks Compared";
-export const metaDescription = "The best cordless vacuum mops for 2026, compared on battery runtime, suction, and self-cleaning convenience.";
+export const metaDescription = "The best cordless vacuum mops for 2026, compared on battery runtime, suction, and self-cleaning convenience, with real pros and cons for each pick.";
 export const mainKeyword = "best cordless vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

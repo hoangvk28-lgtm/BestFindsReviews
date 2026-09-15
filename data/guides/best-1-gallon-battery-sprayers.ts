@@ -1,7 +1,7 @@
 export const guideSlug = "best-1-gallon-battery-sprayers";
 export const guideTitle = "Best 1-Gallon Battery Sprayers (2026)";
 export const metaTitle = "Best 1-Gallon Battery Sprayers (2026)";
-export const metaDescription = "The best 1-gallon battery-powered sprayers for small gardens, compared on weight and runtime.";
+export const metaDescription = "The best 1-gallon battery-powered sprayers for small gardens, compared on weight and runtime, with honest pros and cons for each of the 2 picks reviewed.";
 export const mainKeyword = "battery powered sprayer 1 gallon";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

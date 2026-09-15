@@ -1,7 +1,7 @@
 export const guideSlug = "best-moen-smart-sprinkler-controllers";
 export const guideTitle = "Best Moen Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best Moen Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best Moen smart sprinkler controllers, compared on zone count and enclosure options.";
+export const metaDescription = "The best Moen smart sprinkler controllers, compared on zone count and enclosure options, with a full breakdown of 3 options based on real specs and feedback.";
 export const mainKeyword = "moen smart sprinkler controller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

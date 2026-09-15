@@ -1,7 +1,7 @@
 export const guideSlug = "best-leaf-blowers-for-gutters";
 export const guideTitle = "Best Leaf Blowers for Gutters (2026)";
 export const metaTitle = "Best Leaf Blowers for Gutters (2026)";
-export const metaDescription = "Best Leaf Blowers for Gutters compared by clearing force, ready-to-use weight, runtime, noise, and real ownership cost. See real specs and prices before you buy.";
+export const metaDescription = "Best Leaf Blowers for Gutters compared by clearing force, ready-to-use weight, runtime, noise, and real ownership cost. See real specs and prices.";
 export const mainKeyword = "Leaf Blowers for Gutters";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-11";

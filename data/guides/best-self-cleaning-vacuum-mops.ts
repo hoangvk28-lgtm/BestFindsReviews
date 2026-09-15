@@ -1,7 +1,7 @@
 export const guideSlug = "best-self-cleaning-vacuum-mops";
 export const guideTitle = "Best Self-Cleaning Vacuum Mops (2026)";
 export const metaTitle = "Best Self-Cleaning Vacuum Mops (2026): 8 Picks Compared";
-export const metaDescription = "The best self-cleaning vacuum mops for 2026, compared on dock convenience, roller washing, and price.";
+export const metaDescription = "The best self-cleaning vacuum mops for 2026, compared on dock convenience, roller washing, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best self-cleaning vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

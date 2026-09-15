@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-rugs";
 export const guideTitle = "Best Robot Vacuums for Rugs";
 export const metaTitle = "Best Robot Vacuums for Rugs (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on fringe entanglement risk, dark-pattern rug detection, lightweight-rug pushing, and edge transitions so you can pick one that actually works on area rugs.";
+export const metaDescription = "We compared eight current robot vacuums on fringe entanglement risk, dark-pattern rug detection, lightweight-rug pushing.";
 export const mainKeyword = "robot vacuums for rugs";
 export const category = "Easy Cleaning";
 export const lastUpdated = "2026-08-05";

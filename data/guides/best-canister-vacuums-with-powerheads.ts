@@ -1,7 +1,7 @@
 export const guideSlug = "best-canister-vacuums-with-powerheads";
 export const guideTitle = "Best Canister Vacuums With Powerheads (2026)";
 export const metaTitle = "Best Canister Vacuums With Powerheads (2026): 7 Picks Compared";
-export const metaDescription = "The best canister vacuums with motorized powerheads for 2026, compared on carpet agitation, suction, and price.";
+export const metaDescription = "The best canister vacuums with motorized powerheads for 2026, compared on carpet agitation, suction, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best canister vacuums with powerheads";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-gps-medical-alert-systems";
 export const guideTitle = "Best GPS Medical Alert Systems (2026)";
 export const metaTitle = "Best GPS Medical Alert Systems (2026): 7 Picks Compared";
-export const metaDescription = "The best GPS-enabled medical alert systems for 2026, compared on coverage and battery life.";
+export const metaDescription = "The best GPS-enabled medical alert systems for 2026, compared on coverage and battery life, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "best gps medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

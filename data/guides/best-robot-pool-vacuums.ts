@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-pool-vacuums";
 export const guideTitle = "Best Robot Pool Vacuums";
 export const metaTitle = "Best Robot Pool Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot pool vacuums on pool type compatibility, wall and waterline coverage, runtime, and filter basket retrieval so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current robot pool vacuums on pool type compatibility, wall and waterline coverage, runtime, and filter basket retrieval.";
 export const mainKeyword = "robot pool vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

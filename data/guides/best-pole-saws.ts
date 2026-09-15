@@ -1,7 +1,7 @@
 export const guideSlug = "best-pole-saws";
 export const guideTitle = "Best Pole Saws (2026)";
 export const metaTitle = "Best Pole Saws (2026): 6 Top Picks";
-export const metaDescription = "The best pole saws compared by reach, power source, and bar length, from a lightweight manual pick to a 14-foot cordless model with battery and charger included.";
+export const metaDescription = "The best pole saws compared by reach, power source, and bar length, from a lightweight manual pick to a 14-foot cordless model with battery and charger.";
 export const mainKeyword = "pole saw";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-milwaukee-compatible-battery-sprayers";
 export const guideTitle = "Best Milwaukee-Compatible Battery Sprayers (2026)";
 export const metaTitle = "Best Milwaukee-Compatible Battery Sprayers (2026)";
-export const metaDescription = "The best battery sprayers compatible with Milwaukee 18V tools, compared on tank size and wand reach.";
+export const metaDescription = "The best battery sprayers compatible with Milwaukee 18V tools, compared on tank size and wand reach, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "battery powered sprayer milwaukee";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

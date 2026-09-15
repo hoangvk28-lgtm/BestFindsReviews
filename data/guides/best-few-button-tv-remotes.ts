@@ -1,7 +1,7 @@
 export const guideSlug = "best-few-button-tv-remotes";
 export const guideTitle = "Best Few-Button TV Remotes (2026)";
 export const metaTitle = "Best Few-Button TV Remotes (2026): 5 Picks Compared";
-export const metaDescription = "The best minimal, few-button TV remotes for 2026.";
+export const metaDescription = "The best minimal, few-button TV remotes for 2026, with honest pros and cons for each of the 5 picks so you can choose with confidence.";
 export const mainKeyword = "one button tv remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

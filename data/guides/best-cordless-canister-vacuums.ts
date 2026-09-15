@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-canister-vacuums";
 export const guideTitle = "Best Cordless Canister Vacuums (2026)";
 export const metaTitle = "Best Cordless Canister Vacuums (2026): 3 Picks Compared";
-export const metaDescription = "The best cordless canister vacuums for 2026, compared on battery runtime, suction, and price.";
+export const metaDescription = "The best cordless canister vacuums for 2026, compared on battery runtime, suction, and price, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "best cordless canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

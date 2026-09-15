@@ -1,7 +1,7 @@
 export const guideSlug = "best-snow-blower-under-300";
 export const guideTitle = "Best Snow Blower Under $300 (2026)";
 export const metaTitle = "Best Snow Blower Under $300 (2026): 1 Pick Compared";
-export const metaDescription = "We compare current snow blowers priced under $300 on stage design, power source, and clearing width.";
+export const metaDescription = "We compare current snow blowers priced under $300 on stage design, power source, and clearing width, with real pros and cons for each pick.";
 export const mainKeyword = "best snow blower under $300";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

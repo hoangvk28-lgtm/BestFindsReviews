@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-plug-under-100";
 export const guideTitle = "Best Smart Plug Under $100 (2026)";
 export const metaTitle = "Best Smart Plug Under $100 (2026): 7 Picks Compared";
-export const metaDescription = "We compare current smart plugs priced under $100 on per-unit price, load safety, and Matter compatibility.";
+export const metaDescription = "We compare current smart plugs priced under $100 on per-unit price, load safety, and Matter compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best smart plug under $100";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

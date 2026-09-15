@@ -1,7 +1,7 @@
 export const guideSlug = "best-dewalt-wet-dry-vacuums";
 export const guideTitle = "Best DeWalt Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best DeWalt Wet-Dry Vacuums (2026): 5 Picks Compared";
-export const metaDescription = "The best DeWalt wet-dry shop vacuums for 2026, compared on power, tank size, and price.";
+export const metaDescription = "The best DeWalt wet-dry shop vacuums for 2026, compared on power, tank size, and price, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "best dewalt wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

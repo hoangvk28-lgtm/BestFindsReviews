@@ -1,7 +1,7 @@
 export const guideSlug = "best-melnor-watering-timers";
 export const guideTitle = "Best Melnor Watering Timers (2026)";
 export const metaTitle = "Best Melnor Watering Timers (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current Melnor watering timers on zone count and programming type.";
+export const metaDescription = "We compared four current Melnor watering timers on zone count and programming type, with honest pros and cons for each of the 4 picks reviewed.";
 export const mainKeyword = "water timer melnor";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-kwikset-doors";
 export const guideTitle = "Best Kwikset Smart Locks (2026)";
 export const metaTitle = "Best Kwikset Smart Locks (2026): 5 Picks Compared";
-export const metaDescription = "The best Kwikset smart locks for 2026, compared on touchscreen and keypad models.";
+export const metaDescription = "The best Kwikset smart locks for 2026, compared on touchscreen and keypad models, based on 5 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "smart lock for kwikset doors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

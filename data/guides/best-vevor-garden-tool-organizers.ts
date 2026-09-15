@@ -1,7 +1,7 @@
 export const guideSlug = "best-vevor-garden-tool-organizers";
 export const guideTitle = "Best VEVOR Garden Tool Organizers (2026)";
 export const metaTitle = "Best VEVOR Garden Tool Organizers (2026)";
-export const metaDescription = "The VEVOR garden tool organizer range compared, from the 10-slot tower to the 35-slot rack and the corner and wheeled models, based on real slot count, mount, and build.";
+export const metaDescription = "The VEVOR garden tool organizer range compared, from the 10-slot tower to the 35-slot rack and the corner and wheeled models, based on real slot count, mount.";
 export const mainKeyword = "VEVOR garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-commercial-video-intercom-systems";
 export const guideTitle = "Best Commercial Video Intercom Systems (2026)";
 export const metaTitle = "Best Commercial Video Intercom Systems (2026): 6 Picks Compared";
-export const metaDescription = "The best commercial video intercom systems for 2026, compared on unit capacity and access control.";
+export const metaDescription = "The best commercial video intercom systems for 2026, compared on unit capacity and access control, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "video intercom system for business";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

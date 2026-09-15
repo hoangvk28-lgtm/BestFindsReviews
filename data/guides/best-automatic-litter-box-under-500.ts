@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-litter-box-under-500";
 export const guideTitle = "Best Automatic Litter Box Under $500 (2026)";
 export const metaTitle = "Best Automatic Litter Box Under $500 (2026): 7 Picks Compared";
-export const metaDescription = "At $500 you're in near-premium territory, this guide highlights the automatic litter boxes with the best mix of app monitoring, multi-cat durability, and accessibility features like low-entry design for senior cats.";
+export const metaDescription = "At $500 you're in near-premium territory, this guide highlights the automatic litter boxes with the best mix of app monitoring, multi-cat durability.";
 export const mainKeyword = "best automatic litter box under $500";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

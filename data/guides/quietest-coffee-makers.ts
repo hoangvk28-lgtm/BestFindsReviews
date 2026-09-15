@@ -1,8 +1,7 @@
 export const guideSlug = "quietest-coffee-makers";
 export const guideTitle = "Quietest Coffee Makers";
 export const metaTitle = "Quietest Coffee Makers (2026): 4 Low-Noise Picks Compared";
-export const metaDescription =
-  "We compared four current drip coffee makers on documented noise-related design choices, from pump-free brewing to mutable alarms, for buyers who want a quieter morning.";
+export const metaDescription = "We compared four current drip coffee makers on documented noise-related design choices, from pump-free brewing to mutable alarms.";
 export const mainKeyword = "quiet coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

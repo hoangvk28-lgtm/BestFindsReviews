@@ -1,8 +1,7 @@
 export const guideSlug = "best-compact-coffee-makers";
 export const guideTitle = "Best Compact Coffee Makers";
 export const metaTitle = "Best Compact Coffee Makers (2026): 4 Space-Saving Picks";
-export const metaDescription =
-  "We compared four current mini coffee makers on real operational footprint, mug and reservoir clearance, and one-cup versus max-capacity performance so you know what actually fits your counter.";
+export const metaDescription = "We compared four current mini coffee makers on real operational footprint, mug and reservoir clearance, and one-cup versus max-capacity performance.";
 export const mainKeyword = "mini coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

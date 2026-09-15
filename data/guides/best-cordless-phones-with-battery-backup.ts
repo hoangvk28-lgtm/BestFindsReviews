@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-phones-with-battery-backup";
 export const guideTitle = "Best Cordless Phones With Battery Backup (2026)";
 export const metaTitle = "Best Cordless Phones With Battery Backup (2026): 7 Models Compared";
-export const metaDescription = "Most cordless phone bases fail during a power outage unless backup is explicitly documented. We compare confirmed and likely picks so you know what you're getting.";
+export const metaDescription = "Most cordless phone bases fail during a power outage unless backup is explicitly documented. We compare confirmed and likely picks so you know what you're.";
 export const mainKeyword = "cordless phones with battery backup";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

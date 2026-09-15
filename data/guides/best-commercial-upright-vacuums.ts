@@ -1,7 +1,7 @@
 export const guideSlug = "best-commercial-upright-vacuums";
 export const guideTitle = "Best Commercial Upright Vacuums (2026)";
 export const metaTitle = "Best Commercial Upright Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best commercial-grade upright vacuums for 2026, compared on durability, suction, and price.";
+export const metaDescription = "The best commercial-grade upright vacuums for 2026, compared on durability, suction, and price, with honest pros and cons for each of the 8 picks reviewed.";
 export const mainKeyword = "best commercial upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

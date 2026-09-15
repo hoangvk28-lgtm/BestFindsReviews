@@ -1,8 +1,7 @@
 export const guideSlug = "best-samsung-robot-vacuums";
 export const guideTitle = "Best Samsung Robot Vacuums";
 export const metaTitle = "Best Samsung Robot Vacuums (2026): 2 Models Compared";
-export const metaDescription =
-  "We compared Samsung's current US robot vacuum lineup on SmartThings integration, self-emptying design, and price so you can decide if Samsung is the right ecosystem fit for you.";
+export const metaDescription = "We compared Samsung's current US robot vacuum lineup on SmartThings integration, self-emptying design, and price so you can decide if Samsung is the right.";
 export const mainKeyword = "samsung robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "7 min";

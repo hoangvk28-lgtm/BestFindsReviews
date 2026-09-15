@@ -1,7 +1,7 @@
 export const guideSlug = "best-heavy-duty-garden-kneelers";
 export const guideTitle = "Best Heavy-Duty Garden Kneelers (2026)";
 export const metaTitle = "Best Heavy-Duty Garden Kneelers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current heavy-duty garden kneelers on weight capacity and frame construction.";
+export const metaDescription = "We compared five current heavy-duty garden kneelers on weight capacity and frame construction, with real pros and cons for each pick.";
 export const mainKeyword = "heavy duty garden kneeler and seat";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

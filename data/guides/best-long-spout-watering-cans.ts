@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-spout-watering-cans";
 export const guideTitle = "Best Long-Spout Watering Cans (2026)";
 export const metaTitle = "Best Long-Spout Watering Cans (2026)";
-export const metaDescription = "The best long-spout watering cans compared, cans with an extended spout to reach past foliage and into dense beds, based on real spout length, precision, and drip control.";
+export const metaDescription = "The best long-spout watering cans compared, cans with an extended spout to reach past foliage and into dense beds, based on real spout length, precision.";
 export const mainKeyword = "long-spout watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

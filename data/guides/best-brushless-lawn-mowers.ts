@@ -1,7 +1,7 @@
 export const guideSlug = "best-brushless-lawn-mowers";
 export const guideTitle = "Best Brushless Lawn Mowers";
 export const metaTitle = "Best Brushless Lawn Mowers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Brushless Lawn Mowers compared by motor claim, runtime under load, deck size, controls, and ownership cost.";
+export const metaDescription = "Best Brushless Lawn Mowers compared by motor claim, runtime under load, deck size, controls, and ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "brushless lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-handheld-leaf-vacuums";
 export const guideTitle = "Best Handheld Leaf Vacuums (2026)";
 export const metaTitle = "Best Handheld Leaf Vacuums (2026): Top Picks Compared";
-export const metaDescription = "The best handheld leaf vacuums for tight spaces and quick cleanup, compared on weight, noise level, and battery life.";
+export const metaDescription = "The best handheld leaf vacuums for tight spaces and quick cleanup, compared on weight, noise level, and battery life, with real pros and cons for each pick.";
 export const mainKeyword = "handheld leaf vacuum";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

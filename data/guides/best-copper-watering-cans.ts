@@ -1,7 +1,7 @@
 export const guideSlug = "best-copper-watering-cans";
 export const guideTitle = "Best Copper Watering Cans (2026)";
 export const metaTitle = "Best Copper Watering Cans (2026)";
-export const metaDescription = "The best copper watering cans compared, decorative cans that develop a patina, based on real capacity, spout design, and whether the copper is solid or a finish.";
+export const metaDescription = "The best copper watering cans compared, decorative cans that develop a patina, based on real capacity, spout design, and whether the copper is solid.";
 export const mainKeyword = "copper watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

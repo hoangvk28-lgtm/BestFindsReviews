@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-for-seniors";
 export const guideTitle = "Best Universal Remotes for Seniors (2026)";
 export const metaTitle = "Best Universal Remotes for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best universal remotes for seniors in 2026, compared on button size and setup simplicity.";
+export const metaDescription = "The best universal remotes for seniors in 2026, compared on button size and setup simplicity, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "universal remotes for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

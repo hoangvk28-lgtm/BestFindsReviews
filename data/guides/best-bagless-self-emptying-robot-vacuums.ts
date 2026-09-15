@@ -1,8 +1,7 @@
 export const guideSlug = "best-bagless-self-emptying-robot-vacuums";
 export const guideTitle = "Best Bagless Self-Emptying Robot Vacuums";
 export const metaTitle = "Best Bagless Self-Emptying Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight bagless self-emptying robot vacuums on dust exposure during bin removal, filter maintenance, and dock reliability so you can pick one without guessing.";
+export const metaDescription = "We compared eight bagless self-emptying robot vacuums on dust exposure during bin removal, filter maintenance, and dock reliability so you can pick one.";
 export const mainKeyword = "bagless self-emptying robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

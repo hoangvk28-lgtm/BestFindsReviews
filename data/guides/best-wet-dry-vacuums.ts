@@ -1,7 +1,7 @@
 export const guideSlug = "best-wet-dry-vacuums";
 export const guideTitle = "Best Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Wet-Dry Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best wet-dry shop vacuums for 2026, compared on tank capacity, motor power, and price.";
+export const metaDescription = "The best wet-dry shop vacuums for 2026, compared on tank capacity, motor power, and price, picked after comparing every current option in this category.";
 export const mainKeyword = "best wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

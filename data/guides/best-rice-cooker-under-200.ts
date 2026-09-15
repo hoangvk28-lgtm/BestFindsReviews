@@ -1,7 +1,7 @@
 export const guideSlug = "best-rice-cooker-under-200";
 export const guideTitle = "Best Rice Cooker Under $200 (2026)";
 export const metaTitle = "Best Rice Cooker Under $200 (2026): 8 Picks Compared";
-export const metaDescription = "Eight rice cookers under $200, topped by Zojirushi's larger-capacity Micom models with PFAS-free nonstick pots, premium fuzzy-logic sensing without overspending.";
+export const metaDescription = "Eight rice cookers under $200, topped by Zojirushi's larger-capacity Micom models with PFAS-free nonstick pots, premium fuzzy-logic sensing without.";
 export const mainKeyword = "best rice cooker under $200";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

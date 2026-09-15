@@ -1,7 +1,7 @@
 export const guideSlug = "best-mobile-medical-alert-systems";
 export const guideTitle = "Best Mobile Medical Alert Systems (2026)";
 export const metaTitle = "Best Mobile Medical Alert Systems (2026): 7 Picks Compared";
-export const metaDescription = "The best mobile medical alert systems for 2026, compared on GPS coverage and battery life.";
+export const metaDescription = "The best mobile medical alert systems for 2026, compared on GPS coverage and battery life, with a full breakdown of 7 options based on real specs and feedback.";
 export const mainKeyword = "best mobile medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

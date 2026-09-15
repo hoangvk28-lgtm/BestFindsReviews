@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-for-offices";
 export const guideTitle = "Best Coffee Makers for Offices";
 export const metaTitle = "Best Coffee Makers for Offices (2026): 4 Models by Team Size";
-export const metaDescription =
-  "We segmented four current office coffee makers by daily cup volume instead of ranking them on one list, and calculated real per-employee monthly cost, queue time, and power needs.";
+export const metaDescription = "We segmented four current office coffee makers by daily cup volume instead of ranking them on one list, and calculated real per-employee monthly cost.";
 export const mainKeyword = "office coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "10 min";

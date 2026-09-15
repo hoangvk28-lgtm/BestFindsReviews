@@ -1,7 +1,7 @@
 export const guideSlug = "best-built-in-automatic-dustpans";
 export const guideTitle = "Best Built-In Automatic Dustpans (2026)";
 export const metaTitle = "Best Built-In Automatic Dustpans (2026)";
-export const metaDescription = "The best built-in automatic dustpans compared, under-cabinet toe-kick vacuum units and central vacuum sweep inlets that disappear into the kitchen, based on real install.";
+export const metaDescription = "The best built-in automatic dustpans compared, under-cabinet toe-kick vacuum units and central vacuum sweep inlets that disappear into the kitchen.";
 export const mainKeyword = "built-in automatic dustpan";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

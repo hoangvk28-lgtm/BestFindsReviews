@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-cordless-grass-shears";
 export const guideTitle = "Best Lightweight Cordless Grass Shears (2026)";
 export const metaTitle = "Best Lightweight Cordless Grass Shears (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current lightweight cordless grass shears so you can pick the right one.";
+export const metaDescription = "We compared four current lightweight cordless grass shears so you can pick the right one, based on 4 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "lightweight cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

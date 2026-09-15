@@ -1,7 +1,7 @@
 export const guideSlug = "best-countertop-dishwasher-under-300";
 export const guideTitle = "Best Countertop Dishwasher Under $300 (2026)";
 export const metaTitle = "Best Countertop Dishwasher Under $300 (2026): 6 Picks Compared";
-export const metaDescription = "Six countertop dishwashers with confirmed specs, compared on tank size, wash programs, and named features to help you find a solid minimum-viable pick under $300.";
+export const metaDescription = "Six countertop dishwashers with confirmed specs, compared on tank size, wash programs, and named features to help you find a solid minimum-viable pick under.";
 export const mainKeyword = "best countertop dishwasher under $300";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

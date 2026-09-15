@@ -1,8 +1,7 @@
 export const guideSlug = "best-french-press-coffee-makers";
 export const guideTitle = "Best French Press Coffee Makers";
 export const metaTitle = "Best French Press Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current French press coffee makers on real usable volume after grounds displacement, plunge force and stability, sediment, heat retention, and filter part availability.";
+export const metaDescription = "We compared four current French press coffee makers on real usable volume after grounds displacement, plunge force and stability, sediment, heat retention.";
 export const mainKeyword = "french press coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

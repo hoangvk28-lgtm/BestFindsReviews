@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-leaf-vacuums";
 export const guideTitle = "Best Cordless Leaf Vacuums (2026)";
 export const metaTitle = "Best Cordless Leaf Vacuums (2026): Top Picks Compared";
-export const metaDescription = "The best cordless leaf vacuums across battery platforms, compared on runtime, suction power, and mulching capability.";
+export const metaDescription = "The best cordless leaf vacuums across battery platforms, compared on runtime, suction power, and mulching capability, with real pros and cons for each pick.";
 export const mainKeyword = "cordless leaf vacuum";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

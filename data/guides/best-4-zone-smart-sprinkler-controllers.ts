@@ -1,7 +1,7 @@
 export const guideSlug = "best-4-zone-smart-sprinkler-controllers";
 export const guideTitle = "Best 4-Zone Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best 4-Zone Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best 4-zone smart sprinkler controllers for small yards, compared on price and app quality.";
+export const metaDescription = "The best 4-zone smart sprinkler controllers for small yards, compared on price and app quality, with real pros and cons for each pick.";
 export const mainKeyword = "b hyve 4 zone smart sprinkler controller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

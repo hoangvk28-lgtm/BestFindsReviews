@@ -1,7 +1,7 @@
 export const guideSlug = "best-emergency-radios-with-flashlights";
 export const guideTitle = "Best Emergency Radios With Flashlights (2026)";
 export const metaTitle = "Best Emergency Radios With Flashlights (2026): 7 Picks Compared";
-export const metaDescription = "The best emergency radios with built-in flashlights for 2026.";
+export const metaDescription = "The best emergency radios with built-in flashlights for 2026, based on 7 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "emergency radio flashlight";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

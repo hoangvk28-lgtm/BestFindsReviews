@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-radio-alarm-clocks";
 export const guideTitle = "Best Digital Radio Alarm Clocks (2026)";
 export const metaTitle = "Best Digital Radio Alarm Clocks (2026): 6 Picks Compared";
-export const metaDescription = "The best digital radio alarm clocks for 2026, compared on wake-up features and display.";
+export const metaDescription = "The best digital radio alarm clocks for 2026, compared on wake-up features and display, with real pros and cons for each pick.";
 export const mainKeyword = "alarm clock digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-stools-with-storage";
 export const guideTitle = "Best Garden Stools With Storage (2026)";
 export const metaTitle = "Best Garden Stools With Storage (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current garden stools with built-in storage baskets and tool trays.";
+export const metaDescription = "We compared six current garden stools with built-in storage baskets and tool trays, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "garden stool with storage";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

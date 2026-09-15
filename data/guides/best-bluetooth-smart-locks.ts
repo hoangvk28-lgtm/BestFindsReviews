@@ -1,7 +1,7 @@
 export const guideSlug = "best-bluetooth-smart-locks";
 export const guideTitle = "Best Bluetooth Smart Locks (2026)";
 export const metaTitle = "Best Bluetooth Smart Locks (2026): 6 Picks Compared";
-export const metaDescription = "The best Bluetooth smart locks for 2026, compared on range and app control.";
+export const metaDescription = "The best Bluetooth smart locks for 2026, compared on range and app control, picked after comparing every current option in this category.";
 export const mainKeyword = "bluetooth smart locks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

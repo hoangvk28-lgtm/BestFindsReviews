@@ -1,7 +1,7 @@
 export const guideSlug = "best-wire-free-robot-lawn-mowers";
 export const guideTitle = "Best Wire-Free Robot Lawn Mowers";
 export const metaTitle = "Best Wire-Free Robot Lawn Mowers (2026): RTK, LiDAR, and Vision Models Compared";
-export const metaDescription = "Best wire-free robot lawn mowers compared by navigation type (RTK, LiDAR, or vision), signal reliability near trees and buildings, edge coverage, and app dependence.";
+export const metaDescription = "Best wire-free robot lawn mowers compared by navigation type (RTK, LiDAR, or vision), signal reliability near trees and buildings, edge coverage.";
 export const mainKeyword = "wire free robot lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

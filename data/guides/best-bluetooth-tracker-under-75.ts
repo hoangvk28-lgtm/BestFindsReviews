@@ -1,7 +1,7 @@
 export const guideSlug = "best-bluetooth-tracker-under-75";
 export const guideTitle = "Best Bluetooth Tracker Under $75 (2026)";
 export const metaTitle = "Best Bluetooth Tracker Under $75 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current Bluetooth trackers priced under $75, the sweet spot for UWB and premium form factors.";
+export const metaDescription = "We compare current Bluetooth trackers priced under $75, the sweet spot for UWB and premium form factors, with real pros and cons for each pick.";
 export const mainKeyword = "best bluetooth tracker under $75";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-cleaner-under-200";
 export const guideTitle = "Best Steam Cleaner Under $200 (2026)";
 export const metaTitle = "Best Steam Cleaner Under $200 (2026): 5 Picks Compared";
-export const metaDescription = "Raising the budget to $200 adds Shark's Steam & Scrub with active scrubbing to the verified lineup, here's the full honest picture of what's available at this price.";
+export const metaDescription = "Raising the budget to $200 adds Shark's Steam & Scrub with active scrubbing to the verified lineup, here's the full honest picture of what's available.";
 export const mainKeyword = "best steam cleaner under $200";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

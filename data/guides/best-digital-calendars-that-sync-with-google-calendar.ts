@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars-that-sync-with-google-calendar";
 export const guideTitle = "Best Digital Calendars That Sync With Google Calendar (2026)";
 export const metaTitle = "Best Digital Calendars That Sync With Google Calendar (2026): 6 Picks Compared";
-export const metaDescription = "The best digital calendars that sync with Google Calendar for 2026.";
+export const metaDescription = "The best digital calendars that sync with Google Calendar for 2026, picked after comparing every current option in this category.";
 export const mainKeyword = "digital calendar that syncs with google calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

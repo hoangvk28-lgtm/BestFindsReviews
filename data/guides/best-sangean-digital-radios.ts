@@ -1,7 +1,7 @@
 export const guideSlug = "best-sangean-digital-radios";
 export const guideTitle = "Best Sangean Digital Radios (2026)";
 export const metaTitle = "Best Sangean Digital Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best Sangean digital radios for 2026, compared on reception and build quality.";
+export const metaDescription = "The best Sangean digital radios for 2026, compared on reception and build quality, with honest pros and cons for each of the 7 picks reviewed.";
 export const mainKeyword = "sangean digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

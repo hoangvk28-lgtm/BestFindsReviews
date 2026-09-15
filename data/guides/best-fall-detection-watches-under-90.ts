@@ -1,7 +1,7 @@
 export const guideSlug = "best-fall-detection-watches-under-90";
 export const guideTitle = "Best Fall Detection Watches Under $90 (2026)";
 export const metaTitle = "Best Fall Detection Watches Under $90 (2026): Top Picks";
-export const metaDescription = "The best fall detection watches for seniors under $90 with no monthly fee, compared on GPS tracking and SOS features.";
+export const metaDescription = "The best fall detection watches for seniors under $90 with no monthly fee, compared on GPS tracking and SOS features, with real pros and cons for each pick.";
 export const mainKeyword = "best fall detection watch under 90";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-09-04";

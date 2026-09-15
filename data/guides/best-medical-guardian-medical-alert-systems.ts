@@ -1,7 +1,7 @@
 export const guideSlug = "best-medical-guardian-medical-alert-systems";
 export const guideTitle = "Best Medical Guardian Medical Alert Systems (2026)";
 export const metaTitle = "Best Medical Guardian Medical Alert Systems (2026): 5 Picks Compared";
-export const metaDescription = "The best Medical Guardian devices for 2026, compared on coverage type, features, and design.";
+export const metaDescription = "The best Medical Guardian devices for 2026, compared on coverage type, features, and design, with real pros and cons for each pick.";
 export const mainKeyword = "best medical guardian medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

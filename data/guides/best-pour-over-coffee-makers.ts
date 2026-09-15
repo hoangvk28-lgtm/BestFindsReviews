@@ -1,8 +1,7 @@
 export const guideSlug = "best-pour-over-coffee-makers";
 export const guideTitle = "Best Pour-Over Coffee Makers";
 export const metaTitle = "Best Pour-Over Coffee Makers (2026): 4 Drippers Compared";
-export const metaDescription =
-  "We compared four current pour-over coffee makers on how much results depend on your pour technique, thermal loss during brewing, filter cost, and the hands-on attention this method demands.";
+export const metaDescription = "We compared four current pour-over coffee makers on how much results depend on your pour technique, thermal loss during brewing, filter cost.";
 export const mainKeyword = "pour over coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-rice-cooker-under-100";
 export const guideTitle = "Best Rice Cooker Under $100 (2026)";
 export const metaTitle = "Best Rice Cooker Under $100 (2026): 7 Picks Compared";
-export const metaDescription = "Seven rice cookers under $100 compared, including the jump into Zojirushi's brand-name basics and larger digital Aroma models, a value-upgrade tier over the sub-$50 basics.";
+export const metaDescription = "Seven rice cookers under $100 compared, including the jump into Zojirushi's brand-name basics and larger digital Aroma models.";
 export const mainKeyword = "best rice cooker under $100";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

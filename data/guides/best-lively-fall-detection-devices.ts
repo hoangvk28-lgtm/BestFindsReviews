@@ -1,7 +1,7 @@
 export const guideSlug = "best-lively-fall-detection-devices";
 export const guideTitle = "Best Lively Fall Detection Devices (2026)";
 export const metaTitle = "Best Lively Fall Detection Devices (2026): Reviewed";
-export const metaDescription = "A look at Lively's fall detection device for 2026, reviewed on design and battery life.";
+export const metaDescription = "A look at Lively's fall detection device for 2026, reviewed on design and battery life, with real pros and cons for each pick.";
 export const mainKeyword = "best lively fall detection devices";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

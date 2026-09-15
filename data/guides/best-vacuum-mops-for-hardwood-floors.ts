@@ -1,7 +1,7 @@
 export const guideSlug = "best-vacuum-mops-for-hardwood-floors";
 export const guideTitle = "Best Vacuum Mops for Hardwood Floors (2026)";
 export const metaTitle = "Best Vacuum Mops for Hardwood Floors (2026): 8 Picks Compared";
-export const metaDescription = "The best vacuum mops for hardwood floors in 2026, compared on moisture control, suction, and finish safety.";
+export const metaDescription = "The best vacuum mops for hardwood floors in 2026, compared on moisture control, suction, and finish safety, with real pros and cons for each pick.";
 export const mainKeyword = "best vacuum mops for hardwood floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

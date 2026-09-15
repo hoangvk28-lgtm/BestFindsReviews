@@ -1,7 +1,7 @@
 export const guideSlug = "best-vevor-garden-kneelers";
 export const guideTitle = "Best VEVOR Garden Kneelers (2026)";
 export const metaTitle = "Best VEVOR Garden Kneelers (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current VEVOR garden kneelers on pad width and weight capacity.";
+export const metaDescription = "We compared four current VEVOR garden kneelers on pad width and weight capacity, with honest pros and cons for each of the 4 picks reviewed.";
 export const mainKeyword = "vevor garden kneeler";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

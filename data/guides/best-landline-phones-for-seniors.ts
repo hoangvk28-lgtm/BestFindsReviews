@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-phones-for-seniors";
 export const guideTitle = "Best Landline Phones for Seniors (2026)";
 export const metaTitle = "Best Landline Phones for Seniors (2026): 7 Picks Compared";
-export const metaDescription = "The best landline phones for seniors in 2026, compared on button size, display, and ease of use.";
+export const metaDescription = "The best landline phones for seniors in 2026, compared on button size, display, and ease of use, picked after comparing every current option in this category.";
 export const mainKeyword = "landline phone for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

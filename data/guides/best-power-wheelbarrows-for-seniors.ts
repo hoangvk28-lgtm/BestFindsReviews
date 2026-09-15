@@ -1,7 +1,7 @@
 export const guideSlug = "best-power-wheelbarrows-for-seniors";
 export const guideTitle = "Best Power Wheelbarrows for Seniors (2026)";
 export const metaTitle = "Best Power Wheelbarrows for Seniors (2026): 5 Top Picks";
-export const metaDescription = "The best power wheelbarrows for seniors compared by ease of control and hydraulic dumping, prioritizing models that minimize lifting, pushing, and manual tilting.";
+export const metaDescription = "The best power wheelbarrows for seniors compared by ease of control and hydraulic dumping, prioritizing models that minimize lifting, pushing.";
 export const mainKeyword = "power wheelbarrow for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

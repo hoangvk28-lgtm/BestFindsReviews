@@ -1,8 +1,7 @@
 export const guideSlug = "best-keurig-coffee-makers";
 export const guideTitle = "Best Keurig Coffee Makers";
 export const metaTitle = "Best Keurig Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current Keurig models on reservoir size, cup-size temperature, descaling access, and real ownership cost so you can pick the right one without guessing.";
+export const metaDescription = "We compared four current Keurig models on reservoir size, cup-size temperature, descaling access, and real ownership cost so you can pick the right one.";
 export const mainKeyword = "keurig coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

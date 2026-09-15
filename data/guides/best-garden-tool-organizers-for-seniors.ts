@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-tool-organizers-for-seniors";
 export const guideTitle = "Best Garden Tool Organizers for Seniors (2026)";
 export const metaTitle = "Best Garden Tool Organizers for Seniors (2026)";
-export const metaDescription = "The best garden tool organizers for seniors compared, no-drill rolling and low-reach racks that keep tools accessible without bending or ladders, based on real access height and mobility.";
+export const metaDescription = "The best garden tool organizers for seniors compared, no-drill rolling and low-reach racks that keep tools accessible without bending or ladders.";
 export const mainKeyword = "garden tool organizer for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-eureka-vacuum-mops";
 export const guideTitle = "Best Eureka Vacuum Mops (2026)";
 export const metaTitle = "Best Eureka Vacuum Mops (2026): 4 Picks Compared";
-export const metaDescription = "The best Eureka vacuum mops for 2026, compared on suction, price, and self-cleaning convenience.";
+export const metaDescription = "The best Eureka vacuum mops for 2026, compared on suction, price, and self-cleaning convenience, with real pros and cons for each pick.";
 export const mainKeyword = "best eureka vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

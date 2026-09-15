@@ -1,7 +1,7 @@
 export const guideSlug = "best-google-tv-voice-remotes";
 export const guideTitle = "Best Google TV Voice Remotes (2026)";
 export const metaTitle = "Best Google TV Voice Remotes (2026): 5 Picks Compared";
-export const metaDescription = "The best Google TV and Chromecast voice remotes for 2026, compared on compatibility.";
+export const metaDescription = "The best Google TV and Chromecast voice remotes for 2026, compared on compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best google tv voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

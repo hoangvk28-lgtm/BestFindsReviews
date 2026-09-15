@@ -1,7 +1,7 @@
 export const guideSlug = "best-motion-sensor-light-under-100";
 export const guideTitle = "Best Motion Sensor Light Under $100 (2026)";
 export const metaTitle = "Best Motion Sensor Light Under $100 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current motion sensor lights priced under $100 on detection range, beam quality, and power source.";
+export const metaDescription = "We compare current motion sensor lights priced under $100 on detection range, beam quality, and power source, with real pros and cons for each pick.";
 export const mainKeyword = "best motion sensor light under $100";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

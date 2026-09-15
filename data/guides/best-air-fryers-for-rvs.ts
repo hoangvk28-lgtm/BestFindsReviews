@@ -1,7 +1,7 @@
 export const guideSlug = "best-air-fryers-for-rvs";
 export const guideTitle = "Best Air Fryers for RVs (2026)";
 export const metaTitle = "Best Air Fryers for RVs (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Air Fryers for RVs compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Air Fryers for RVs compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "air fryers for RVs";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-eureka-canister-vacuums";
 export const guideTitle = "Best Eureka Canister Vacuums (2026)";
 export const metaTitle = "Best Eureka Canister Vacuums (2026): 6 Picks Compared";
-export const metaDescription = "The best Eureka canister vacuums for 2026, compared on suction, price, and filtration.";
+export const metaDescription = "The best Eureka canister vacuums for 2026, compared on suction, price, and filtration, comparing 6 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "best eureka canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

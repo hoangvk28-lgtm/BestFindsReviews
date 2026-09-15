@@ -1,7 +1,7 @@
 export const guideSlug = "best-weed-pullers-for-taproots";
 export const guideTitle = "Best Weed Pullers for Taproots (2026)";
 export const metaTitle = "Best Weed Pullers for Taproots (2026)";
-export const metaDescription = "Best Weed Pullers for Taproots compared by root-pulling completeness, soil impact, ergonomics, and real ownership cost. See real specs and prices before you buy.";
+export const metaDescription = "Best Weed Pullers for Taproots compared by root-pulling completeness, soil impact, ergonomics, and real ownership cost. See real specs and prices.";
 export const mainKeyword = "Weed Pullers for Taproots";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-11";

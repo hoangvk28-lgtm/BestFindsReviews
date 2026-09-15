@@ -1,7 +1,7 @@
 export const guideSlug = "best-steel-garden-carts";
 export const guideTitle = "Best Steel Garden Carts (2026)";
 export const metaTitle = "Best Steel Garden Carts (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current all-steel garden carts on rated capacity, bed volume, and tire type, since steel construction changes what a cart can actually haul versus poly.";
+export const metaDescription = "We compared eight current all-steel garden carts on rated capacity, bed volume, and tire type, since steel construction changes what a cart can actually haul.";
 export const mainKeyword = "steel garden cart";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-under-75";
 export const guideTitle = "Best Coffee Makers Under $75";
 export const metaTitle = "Best Coffee Makers Under $75 (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current coffee makers priced under $75 on capacity, features, and true first-year ownership cost so you know what this middle tier actually buys you.";
+export const metaDescription = "We compared four current coffee makers priced under $75 on capacity, features, and true first-year ownership cost so you know what this middle tier actually.";
 export const mainKeyword = "coffee makers under $75";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

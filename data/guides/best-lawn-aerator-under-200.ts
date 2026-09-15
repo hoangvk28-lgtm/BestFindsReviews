@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-aerator-under-200";
 export const guideTitle = "Best Lawn Aerator Under $200 (2026)";
 export const metaTitle = "Best Lawn Aerator Under $200 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current lawn aerators priced under $200 on spike/plug mechanism, working width, and soil penetration.";
+export const metaDescription = "We compare current lawn aerators priced under $200 on spike/plug mechanism, working width, and soil penetration, with real pros and cons for each pick.";
 export const mainKeyword = "best lawn aerator under $200";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

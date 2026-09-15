@@ -1,7 +1,7 @@
 export const guideSlug = "best-seesii-electric-pruning-shears";
 export const guideTitle = "Best Seesii Electric Pruning Shears (2026)";
 export const metaTitle = "Best Seesii Electric Pruning Shears (2026): 7 Models Compared";
-export const metaDescription = "We compared SEESII's current electric pruning shear lineup, handheld, pole, and combo models, on cutting capacity and features so you can pick the right one without guessing.";
+export const metaDescription = "We compared SEESII's current electric pruning shear lineup, handheld, pole, and combo models, on cutting capacity and features so you can pick the right one.";
 export const mainKeyword = "seesii electric pruning shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-moccamaster-coffee-makers";
 export const guideTitle = "Best Moccamaster Coffee Makers";
 export const metaTitle = "Best Moccamaster Coffee Makers (2026): KBGV, KBT, and KB Compared";
-export const metaDescription =
-  "We compared three current Moccamaster models on model differences, thermal versus glass carafe tradeoffs, and long-term warranty value, and note who should skip Moccamaster entirely.";
+export const metaDescription = "We compared three current Moccamaster models on model differences, thermal versus glass carafe tradeoffs, and long-term warranty value.";
 export const mainKeyword = "moccamaster coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

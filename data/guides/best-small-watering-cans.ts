@@ -1,7 +1,7 @@
 export const guideSlug = "best-small-watering-cans";
 export const guideTitle = "Best Small Watering Cans (2026)";
 export const metaTitle = "Best Small Watering Cans (2026)";
-export const metaDescription = "The best small watering cans compared, 12 oz to half-gallon cans for desks, terrariums, and small collections, based on real capacity, spout, and one-hand handling.";
+export const metaDescription = "The best small watering cans compared, 12 oz to half-gallon cans for desks, terrariums, and small collections, based on real capacity, spout.";
 export const mainKeyword = "small watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

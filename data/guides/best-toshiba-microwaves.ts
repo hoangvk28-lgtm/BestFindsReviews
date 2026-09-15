@@ -1,7 +1,7 @@
 export const guideSlug = "best-toshiba-microwaves";
 export const guideTitle = "Best Toshiba Microwaves";
 export const metaTitle = "Best Toshiba Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Toshiba Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Toshiba Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "toshiba microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

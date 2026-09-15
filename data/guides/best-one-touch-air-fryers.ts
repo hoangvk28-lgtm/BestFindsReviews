@@ -1,7 +1,7 @@
 export const guideSlug = "best-one-touch-air-fryers";
 export const guideTitle = "Best One-Touch Air Fryers (2026)";
 export const metaTitle = "Best One-Touch Air Fryers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best One-Touch Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best One-Touch Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "one-touch air fryers";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

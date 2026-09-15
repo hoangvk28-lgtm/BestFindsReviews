@@ -1,7 +1,7 @@
 export const guideSlug = "best-robotic-pool-cleaners-for-fine-debris";
 export const guideTitle = "Best Robotic Pool Cleaners for Fine Debris (2026)";
 export const metaTitle = "Best Robotic Pool Cleaners for Fine Debris (2026): 6 Top Picks";
-export const metaDescription = "The best robotic pool cleaners for fine debris compared by filter mesh quality, for pool dust, pollen, and algae particles a standard filter basket lets through.";
+export const metaDescription = "The best robotic pool cleaners for fine debris compared by filter mesh quality, for pool dust, pollen, and algae particles a standard filter basket lets.";
 export const mainKeyword = "robotic pool cleaner for fine debris";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

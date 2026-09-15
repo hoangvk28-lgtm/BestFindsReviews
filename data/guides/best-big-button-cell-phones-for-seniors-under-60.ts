@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-cell-phones-for-seniors-under-60";
 export const guideTitle = "Best Big Button Cell Phones for Seniors Under $60 (2026)";
 export const metaTitle = "Best Big Button Cell Phones for Seniors Under $60 (2026)";
-export const metaDescription = "The best big button cell phones for seniors under $60, compared on SOS features, ease of use, and battery life.";
+export const metaDescription = "The best big button cell phones for seniors under $60, compared on SOS features, ease of use, and battery life, with real pros and cons for each pick.";
 export const mainKeyword = "best big button cell phone for seniors under 60";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-09-04";

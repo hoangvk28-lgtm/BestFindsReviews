@@ -1,7 +1,7 @@
 export const guideSlug = "best-bluetooth-digital-radios";
 export const guideTitle = "Best Bluetooth Digital Radios (2026)";
 export const metaTitle = "Best Bluetooth Digital Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best Bluetooth-enabled digital radios for 2026, compared on streaming quality and radio reception.";
+export const metaDescription = "The best Bluetooth-enabled digital radios for 2026, compared on streaming quality and radio reception, with real pros and cons for each pick.";
 export const mainKeyword = "bluetooth digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

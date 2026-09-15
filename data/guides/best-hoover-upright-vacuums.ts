@@ -1,7 +1,7 @@
 export const guideSlug = "best-hoover-upright-vacuums";
 export const guideTitle = "Best Hoover Upright Vacuums (2026)";
 export const metaTitle = "Best Hoover Upright Vacuums (2026): 3 Picks Compared";
-export const metaDescription = "The best Hoover upright vacuums for 2026, compared on suction, filtration, and price.";
+export const metaDescription = "The best Hoover upright vacuums for 2026, compared on suction, filtration, and price, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "best hoover upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

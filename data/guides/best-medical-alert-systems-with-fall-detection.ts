@@ -1,7 +1,7 @@
 export const guideSlug = "best-medical-alert-systems-with-fall-detection";
 export const guideTitle = "Best Medical Alert Systems With Fall Detection (2026)";
 export const metaTitle = "Best Medical Alert Systems With Fall Detection (2026): 7 Picks Compared";
-export const metaDescription = "The best medical alert systems with automatic fall detection for 2026, compared on accuracy and monitoring type.";
+export const metaDescription = "The best medical alert systems with automatic fall detection for 2026, compared on accuracy and monitoring type, with real pros and cons for each pick.";
 export const mainKeyword = "best medical alert systems with fall detection";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

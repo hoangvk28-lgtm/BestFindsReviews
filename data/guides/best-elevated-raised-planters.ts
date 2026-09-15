@@ -1,7 +1,7 @@
 export const guideSlug = "best-elevated-raised-planters";
 export const guideTitle = "Best Elevated Raised Planters (2026)";
 export const metaTitle = "Best Elevated Raised Planters (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current elevated raised planters on legs so you can pick the right one.";
+export const metaDescription = "We compared six current elevated raised planters on legs so you can pick the right one, based on 6 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "raised planter boxes on legs";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

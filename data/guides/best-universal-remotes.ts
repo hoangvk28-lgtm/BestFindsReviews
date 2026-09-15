@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes";
 export const guideTitle = "Best Universal Remotes (2026)";
 export const metaTitle = "Best Universal Remotes (2026): 8 Picks Compared";
-export const metaDescription = "The best universal remotes for 2026 across every brand and budget, compared on compatibility and setup.";
+export const metaDescription = "The best universal remotes for 2026 across every brand and budget, compared on compatibility and setup, with real pros and cons for each pick.";
 export const mainKeyword = "universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-electric-tillers";
 export const guideTitle = "Best Lightweight Electric Tillers (2026)";
 export const metaTitle = "Best Lightweight Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best lightweight electric tillers, compared on weight and one-person handling.";
+export const metaDescription = "The best lightweight electric tillers, compared on weight and one-person handling, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "lightweight electric tillers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

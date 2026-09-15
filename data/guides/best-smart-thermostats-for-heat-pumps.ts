@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-thermostats-for-heat-pumps";
 export const guideTitle = "Best Smart Thermostats for Heat Pumps (2026)";
 export const metaTitle = "Best Smart Thermostats for Heat Pumps (2026): 6 Picks Compared";
-export const metaDescription = "The best smart thermostats for heat pump systems in 2026, compared on staging support and auxiliary heat handling.";
+export const metaDescription = "The best smart thermostats for heat pump systems in 2026, compared on staging support and auxiliary heat handling, with real pros and cons for each pick.";
 export const mainKeyword = "smart thermostat heat pump";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

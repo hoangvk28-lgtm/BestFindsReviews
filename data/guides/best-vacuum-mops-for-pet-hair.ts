@@ -1,7 +1,7 @@
 export const guideSlug = "best-vacuum-mops-for-pet-hair";
 export const guideTitle = "Best Vacuum Mops for Pet Hair (2026)";
 export const metaTitle = "Best Vacuum Mops for Pet Hair (2026): 8 Picks Compared";
-export const metaDescription = "The best vacuum mops for pet hair in 2026, compared on intake width, roller clogging resistance, and price.";
+export const metaDescription = "The best vacuum mops for pet hair in 2026, compared on intake width, roller clogging resistance, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best vacuum mops for pet hair";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

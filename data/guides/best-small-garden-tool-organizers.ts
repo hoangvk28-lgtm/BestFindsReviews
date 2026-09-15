@@ -1,7 +1,7 @@
 export const guideSlug = "best-small-garden-tool-organizers";
 export const guideTitle = "Best Small Garden Tool Organizers (2026)";
 export const metaTitle = "Best Small Garden Tool Organizers (2026)";
-export const metaDescription = "The best small garden tool organizers compared, compact racks and corner units for a balcony, small shed, or starter collection, based on real footprint and capacity.";
+export const metaDescription = "The best small garden tool organizers compared, compact racks and corner units for a balcony, small shed, or starter collection.";
 export const mainKeyword = "small garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

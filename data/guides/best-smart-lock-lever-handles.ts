@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-lock-lever-handles";
 export const guideTitle = "Best Smart Lock Lever Handles (2026)";
 export const metaTitle = "Best Smart Lock Lever Handles (2026): 5 Picks Compared";
-export const metaDescription = "The best smart lock lever handles for 2026, compared for ADA-compliant doors.";
+export const metaDescription = "The best smart lock lever handles for 2026, compared for ADA-compliant doors, comparing 5 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "smart lock lever handle";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

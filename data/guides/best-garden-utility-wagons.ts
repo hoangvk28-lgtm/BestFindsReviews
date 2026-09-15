@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-utility-wagons";
 export const guideTitle = "Best Garden Utility Wagons (2026)";
 export const metaTitle = "Best Garden Utility Wagons (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current garden utility wagons, both rigid steel carts and collapsible fabric wagons, on capacity, bed support, and storage footprint so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current garden utility wagons, both rigid steel carts and collapsible fabric wagons, on capacity, bed support.";
 export const mainKeyword = "garden wagon gorilla";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

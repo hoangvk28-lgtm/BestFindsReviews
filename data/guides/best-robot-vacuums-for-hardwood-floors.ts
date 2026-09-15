@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-hardwood-floors";
 export const guideTitle = "Best Robot Vacuums for Hardwood Floors";
 export const metaTitle = "Best Robot Vacuums for Hardwood Floors (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on suction power, mop water control, and wall-edge pickup so you can find one that treats hardwood floors carefully without guessing.";
+export const metaDescription = "We compared eight current robot vacuums on suction power, mop water control, and wall-edge pickup so you can find one that treats hardwood floors carefully.";
 export const mainKeyword = "robot vacuums for hardwood floors";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

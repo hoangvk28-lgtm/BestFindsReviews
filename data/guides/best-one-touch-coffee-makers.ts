@@ -1,8 +1,7 @@
 export const guideSlug = "best-one-touch-coffee-makers";
 export const guideTitle = "Best One-Touch Coffee Makers";
 export const metaTitle = "Best One-Touch Coffee Makers (2026): What's Really One-Touch";
-export const metaDescription =
-  "We defined one-touch strictly as a single action after water and coffee are loaded, then compared four current models on how many extra actions milk, size changes, and cleaning actually add.";
+export const metaDescription = "We defined one-touch strictly as a single action after water and coffee are loaded, then compared four current models on how many extra actions milk.";
 export const mainKeyword = "one-touch coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-tv-headphones-for-hard-of-hearing";
 export const guideTitle = "Best TV Headphones for Hard of Hearing (2026)";
 export const metaTitle = "Best TV Headphones for Hard of Hearing (2026): Speech Clarity Compared";
-export const metaDescription = "We evaluate speech-clarity features and independent volume without overpromising hearing improvement, since these are assistive listening aids, not medical devices.";
+export const metaDescription = "We evaluate speech-clarity features and independent volume without overpromising hearing improvement, since these are assistive listening aids.";
 export const mainKeyword = "tv headphones for hard of hearing";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

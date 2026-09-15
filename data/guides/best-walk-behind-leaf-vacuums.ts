@@ -1,7 +1,7 @@
 export const guideSlug = "best-walk-behind-leaf-vacuums";
 export const guideTitle = "Best Walk-Behind Leaf Vacuums (2026)";
 export const metaTitle = "Best Walk-Behind Leaf Vacuums (2026): Top Picks Compared";
-export const metaDescription = "The best walk-behind leaf vacuums, compared on engine power, maneuverability, and mulch ratio for medium-sized yards.";
+export const metaDescription = "The best walk-behind leaf vacuums, compared on engine power, maneuverability, and mulch ratio for medium-sized yards, with real pros and cons for each pick.";
 export const mainKeyword = "walk behind leaf vacuum";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

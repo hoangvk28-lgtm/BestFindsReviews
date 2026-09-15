@@ -1,7 +1,7 @@
 export const guideSlug = "best-fall-detection-devices";
 export const guideTitle = "Best Fall Detection Devices (2026)";
 export const metaTitle = "Best Fall Detection Devices (2026): 8 Picks Compared";
-export const metaDescription = "The best fall detection devices for 2026, compared on detection accuracy, notification type, and battery life.";
+export const metaDescription = "The best fall detection devices for 2026, compared on detection accuracy, notification type, and battery life, with real pros and cons for each pick.";
 export const mainKeyword = "best fall detection devices";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

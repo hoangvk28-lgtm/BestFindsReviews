@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-window-cleaning-robots";
 export const guideTitle = "Best Cordless Window Cleaning Robots (2026)";
 export const metaTitle = "Best Cordless Window Cleaning Robots (2026): Read This Before Buying";
-export const metaDescription = "Most current window robots run on mains power with an emergency battery backup, not full cordless operation. We explain the distinction before comparing current models.";
+export const metaDescription = "Most current window robots run on mains power with an emergency battery backup, not full cordless operation. We explain the distinction before comparing.";
 export const mainKeyword = "best cordless window cleaning robots";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

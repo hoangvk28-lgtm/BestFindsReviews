@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-without-apps";
 export const guideTitle = "Best Robot Vacuums Without Apps";
 export const metaTitle = "Best Robot Vacuums Without Apps (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight robot vacuums that can be run entirely from onboard buttons or an included remote, no phone app setup required, so you can pick one without the account and pairing hassle.";
+export const metaDescription = "We compared eight robot vacuums that can be run entirely from onboard buttons or an included remote, no phone app setup required.";
 export const mainKeyword = "robot vacuums without apps";
 export const lastUpdated = "2026-08-05";
 export const readTime = "9 min";

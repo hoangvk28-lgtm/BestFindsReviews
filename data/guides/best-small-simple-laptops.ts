@@ -1,7 +1,7 @@
 export const guideSlug = "best-small-simple-laptops";
 export const guideTitle = "Best Small Simple Laptops (2026)";
 export const metaTitle = "Best Small Simple Laptops (2026): 6 Picks Compared";
-export const metaDescription = "The best small, compact simple laptops for 2026, compared on portability and everyday performance.";
+export const metaDescription = "The best small, compact simple laptops for 2026, compared on portability and everyday performance, with real pros and cons for each pick.";
 export const mainKeyword = "best small simple laptops";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

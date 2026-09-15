@@ -1,7 +1,7 @@
 export const guideSlug = "best-medical-alert-pendants";
 export const guideTitle = "Best Medical Alert Pendants (2026)";
 export const metaTitle = "Best Medical Alert Pendants (2026): 7 Picks Compared";
-export const metaDescription = "The best medical alert pendants for 2026, compared on comfort, water resistance, and monitoring type.";
+export const metaDescription = "The best medical alert pendants for 2026, compared on comfort, water resistance, and monitoring type, with real pros and cons for each pick.";
 export const mainKeyword = "best medical alert pendants";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

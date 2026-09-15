@@ -1,7 +1,7 @@
 export const guideSlug = "best-makita-cordless-grass-shears";
 export const guideTitle = "Best Makita Cordless Grass Shears (2026)";
 export const metaTitle = "Best Makita Cordless Grass Shears (2026): 3 Picks Compared";
-export const metaDescription = "We compared three current Makita and Makita-compatible cordless grass shear options.";
+export const metaDescription = "We compared three current Makita and Makita-compatible cordless grass shear options, with honest pros and cons for each of the 3 picks reviewed.";
 export const mainKeyword = "makita cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-sprayers-with-long-wands";
 export const guideTitle = "Best Battery Sprayers With Long Wands (2026)";
 export const metaTitle = "Best Battery Sprayers With Long Wands (2026)";
-export const metaDescription = "The best battery sprayers with extended or telescopic wands, compared on reach and material durability.";
+export const metaDescription = "The best battery sprayers with extended or telescopic wands, compared on reach and material durability, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered sprayer wand";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

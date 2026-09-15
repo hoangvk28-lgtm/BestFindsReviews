@@ -1,7 +1,7 @@
 export const guideSlug = "best-amazon-smart-thermostats";
 export const guideTitle = "Best Amazon Smart Thermostats (2026)";
 export const metaTitle = "Best Amazon Smart Thermostats (2026): 3 Picks Compared";
-export const metaDescription = "The best Amazon Smart Thermostat listings for 2026, compared on price and Alexa integration.";
+export const metaDescription = "The best Amazon Smart Thermostat listings for 2026, compared on price and Alexa integration, with honest pros and cons for each of the 3 picks reviewed.";
 export const mainKeyword = "smart thermostat amazon";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

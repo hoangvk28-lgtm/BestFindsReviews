@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-wet-dry-vacuums";
 export const guideTitle = "Best Portable Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Portable Wet-Dry Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best portable wet-dry vacuums for 2026, compared on weight, tank size, and price.";
+export const metaDescription = "The best portable wet-dry vacuums for 2026, compared on weight, tank size, and price, picked after comparing every current option in this category.";
 export const mainKeyword = "best portable wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

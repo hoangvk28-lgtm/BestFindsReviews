@@ -1,7 +1,7 @@
 export const guideSlug = "best-hepa-wet-dry-vacuums";
 export const guideTitle = "Best HEPA Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best HEPA Wet-Dry Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best HEPA-filtered wet-dry vacuums for 2026, compared on fine-dust capture, tank size, and price.";
+export const metaDescription = "The best HEPA-filtered wet-dry vacuums for 2026, compared on fine-dust capture, tank size, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best hepa wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

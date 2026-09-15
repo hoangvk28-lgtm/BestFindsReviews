@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-alexa";
 export const guideTitle = "Best Smart Locks for Alexa (2026)";
 export const metaTitle = "Best Smart Locks for Alexa (2026): 6 Picks Compared";
-export const metaDescription = "The best Alexa-compatible smart locks for 2026.";
+export const metaDescription = "The best Alexa-compatible smart locks for 2026, comparing 6 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "smart locks for alexa";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

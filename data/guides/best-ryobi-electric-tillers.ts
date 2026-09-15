@@ -1,7 +1,7 @@
 export const guideSlug = "best-ryobi-electric-tillers";
 export const guideTitle = "Best Ryobi Electric Tillers (2026)";
 export const metaTitle = "Best Ryobi Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best Ryobi electric tillers and cultivators, compared on corded and cordless 18V options.";
+export const metaDescription = "The best Ryobi electric tillers and cultivators, compared on corded and cordless 18V options, with honest pros and cons for each of the 2 picks reviewed.";
 export const mainKeyword = "ryobi electric tiller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

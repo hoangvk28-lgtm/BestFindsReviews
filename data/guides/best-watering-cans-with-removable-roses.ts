@@ -1,7 +1,7 @@
 export const guideSlug = "best-watering-cans-with-removable-roses";
 export const guideTitle = "Best Watering Cans With Removable Roses (2026)";
 export const metaTitle = "Best Watering Cans With Removable Roses (2026)";
-export const metaDescription = "The best watering cans with removable roses compared, cans where the shower head pulls off to switch between a soft rose and a bare stream, based on real rose quality and fit.";
+export const metaDescription = "The best watering cans with removable roses compared, cans where the shower head pulls off to switch between a soft rose and a bare stream.";
 export const mainKeyword = "watering can with removable rose";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

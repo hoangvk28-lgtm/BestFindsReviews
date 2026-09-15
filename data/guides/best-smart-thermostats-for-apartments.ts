@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-thermostats-for-apartments";
 export const guideTitle = "Best Smart Thermostats for Apartments (2026)";
 export const metaTitle = "Best Smart Thermostats for Apartments (2026): 6 Picks Compared";
-export const metaDescription = "The best smart thermostats for apartments and rentals in 2026, compared on easy installation and portability.";
+export const metaDescription = "The best smart thermostats for apartments and rentals in 2026, compared on easy installation and portability, with real pros and cons for each pick.";
 export const mainKeyword = "smart thermostat apartment";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

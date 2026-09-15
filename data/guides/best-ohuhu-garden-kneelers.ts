@@ -1,7 +1,7 @@
 export const guideSlug = "best-ohuhu-garden-kneelers";
 export const guideTitle = "Best Ohuhu Garden Kneelers (2026)";
 export const metaTitle = "Best Ohuhu Garden Kneelers (2026): 3 Picks Compared";
-export const metaDescription = "We compared Ohuhu's garden kneeler and seat lineup and close alternatives.";
+export const metaDescription = "We compared Ohuhu's garden kneeler and seat lineup and close alternatives, with honest pros and cons for each of the 3 picks reviewed.";
 export const mainKeyword = "ohuhu garden kneeler and seat";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

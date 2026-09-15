@@ -1,7 +1,7 @@
 export const guideSlug = "best-42-inch-lawn-sweepers";
 export const guideTitle = "Best 42-Inch Lawn Sweepers (2026)";
 export const metaTitle = "Best 42-Inch Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best 42-inch tow-behind lawn sweepers, compared on hopper capacity, price, and brand reliability.";
+export const metaDescription = "The best 42-inch tow-behind lawn sweepers, compared on hopper capacity, price, and brand reliability, with real pros and cons for each pick.";
 export const mainKeyword = "42 agri fab lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

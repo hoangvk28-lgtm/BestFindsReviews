@@ -1,8 +1,7 @@
 export const guideSlug = "best-hamilton-beach-coffee-makers";
 export const guideTitle = "Best Hamilton Beach Coffee Makers";
 export const metaTitle = "Best Hamilton Beach Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current Hamilton Beach coffee makers on dual-mode reliability, fill access, cleaning, and value so you know which model actually fits your daily routine.";
+export const metaDescription = "We compared four current Hamilton Beach coffee makers on dual-mode reliability, fill access, cleaning, and value so you know which model actually fits your.";
 export const mainKeyword = "coffee makers hamilton beach";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

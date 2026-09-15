@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-grass-shears-with-batteries-and-chargers";
 export const guideTitle = "Best Cordless Grass Shears With Batteries and Chargers (2026)";
 export const metaTitle = "Best Cordless Grass Shears With Batteries and Chargers (2026): 5 Picks";
-export const metaDescription = "We compared five current cordless grass shears that ship with a battery and charger included.";
+export const metaDescription = "We compared five current cordless grass shears that ship with a battery and charger included, with real pros and cons for each pick.";
 export const mainKeyword = "cordless grass shears with battery and charger";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

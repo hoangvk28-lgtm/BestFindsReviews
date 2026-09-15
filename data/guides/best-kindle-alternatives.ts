@@ -1,7 +1,7 @@
 export const guideSlug = "best-kindle-alternatives";
 export const guideTitle = "Best Kindle Alternatives (2026)";
 export const metaTitle = "Best Kindle Alternatives (2026): By Your Reason for Leaving Kindle";
-export const metaDescription = "We segment Kindle alternatives by why you'd leave, library borrowing, physical buttons, color, Android freedom, or file sideloading, rather than ranking generically.";
+export const metaDescription = "We segment Kindle alternatives by why you'd leave, library borrowing, physical buttons, color, Android freedom, or file sideloading.";
 export const mainKeyword = "kindle alternatives";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

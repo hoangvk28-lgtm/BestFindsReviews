@@ -1,7 +1,7 @@
 export const guideSlug = "best-hose-nozzles-for-car-washing";
 export const guideTitle = "Best Hose Nozzles for Car Washing (2026)";
 export const metaTitle = "Best Hose Nozzles for Car Washing (2026)";
-export const metaDescription = "The best hose nozzles for car washing compared, gentle-rinse and controlled-flow nozzles that will not scratch paint, based on real spray softness, control, and threaded fittings.";
+export const metaDescription = "The best hose nozzles for car washing compared, gentle-rinse and controlled-flow nozzles that will not scratch paint, based on real spray softness, control.";
 export const mainKeyword = "hose nozzle for car washing";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

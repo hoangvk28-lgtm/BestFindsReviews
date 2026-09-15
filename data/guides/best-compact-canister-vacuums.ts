@@ -1,7 +1,7 @@
 export const guideSlug = "best-compact-canister-vacuums";
 export const guideTitle = "Best Compact Canister Vacuums (2026)";
 export const metaTitle = "Best Compact Canister Vacuums (2026): 6 Picks Compared";
-export const metaDescription = "The best compact canister vacuums for 2026, compared on size, suction, and price.";
+export const metaDescription = "The best compact canister vacuums for 2026, compared on size, suction, and price, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "best compact canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

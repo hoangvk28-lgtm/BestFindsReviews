@@ -1,7 +1,7 @@
 export const guideSlug = "best-emergency-radios";
 export const guideTitle = "Best Emergency Radios (2026)";
 export const metaTitle = "Best Emergency Radios (2026): 8 Picks Compared";
-export const metaDescription = "The best emergency radios for 2026, compared on power redundancy, NOAA reception, and features.";
+export const metaDescription = "The best emergency radios for 2026, compared on power redundancy, NOAA reception, and features, with real pros and cons for each pick.";
 export const mainKeyword = "emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

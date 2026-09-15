@@ -1,7 +1,7 @@
 export const guideSlug = "best-countertop-dishwasher-under-500";
 export const guideTitle = "Best Countertop Dishwasher Under $500 (2026)";
 export const metaTitle = "Best Countertop Dishwasher Under $500 (2026): 8 Picks Compared";
-export const metaDescription = "Eight countertop dishwashers under $500 compared for buyers who want the largest capacity and most certified features this category offers without moving to a full portable unit.";
+export const metaDescription = "Eight countertop dishwashers under $500 compared for buyers who want the largest capacity and most certified features this category offers without moving.";
 export const mainKeyword = "best countertop dishwasher under $500";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

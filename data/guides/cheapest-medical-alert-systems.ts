@@ -1,7 +1,7 @@
 export const guideSlug = "cheapest-medical-alert-systems";
 export const guideTitle = "Cheapest Medical Alert Systems (2026)";
 export const metaTitle = "Cheapest Medical Alert Systems (2026): 7 Picks Compared";
-export const metaDescription = "The most affordable medical alert systems for 2026, compared on core features and monitoring type.";
+export const metaDescription = "The most affordable medical alert systems for 2026, compared on core features and monitoring type, with real pros and cons for each pick.";
 export const mainKeyword = "cheapest medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

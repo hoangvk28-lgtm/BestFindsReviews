@@ -1,7 +1,7 @@
 export const guideSlug = "best-hotel-laundry-carts";
 export const guideTitle = "Best Hotel Laundry Carts (2026)";
 export const metaTitle = "Best Hotel Laundry Carts (2026)";
-export const metaDescription = "The best hotel laundry carts compared, from full housekeeping carts with bag and shelves to 400L linen bins, based on real capacity and guest-area presentability.";
+export const metaDescription = "The best hotel laundry carts compared, from full housekeeping carts with bag and shelves to 400L linen bins, based on real capacity and guest-area.";
 export const mainKeyword = "hotel laundry cart";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

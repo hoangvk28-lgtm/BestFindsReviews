@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-seniors";
 export const guideTitle = "Best Robot Vacuums for Seniors";
 export const metaTitle = "Best Robot Vacuums for Seniors (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on setup difficulty, bin weight, alert clarity, and how much manual maintenance is really left after self-empty claims, so seniors and their families can choose with confidence.";
+export const metaDescription = "We compared eight current robot vacuums on setup difficulty, bin weight, alert clarity, and how much manual maintenance is really left after self-empty claims.";
 export const mainKeyword = "robot vacuums for seniors";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

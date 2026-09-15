@@ -1,7 +1,7 @@
 export const guideSlug = "best-apartment-video-intercom-systems";
 export const guideTitle = "Best Apartment Video Intercom Systems (2026)";
 export const metaTitle = "Best Apartment Video Intercom Systems (2026): 6 Picks Compared";
-export const metaDescription = "The best apartment video intercom systems for 2026, compared on unit count and installation.";
+export const metaDescription = "The best apartment video intercom systems for 2026, compared on unit count and installation, with real pros and cons for each pick.";
 export const mainKeyword = "apartment video intercom system";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

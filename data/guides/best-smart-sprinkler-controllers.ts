@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-sprinkler-controllers";
 export const guideTitle = "Best Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best Smart Sprinkler Controllers (2026): 6 Top Picks";
-export const metaDescription = "The best smart sprinkler controllers across top brands, compared on zone count, weather intelligence, and app control.";
+export const metaDescription = "The best smart sprinkler controllers across top brands, compared on zone count, weather intelligence, and app control, with real pros and cons for each pick.";
 export const mainKeyword = "smart sprinkler controller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

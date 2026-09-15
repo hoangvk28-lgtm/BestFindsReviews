@@ -1,7 +1,7 @@
 export const guideSlug = "best-8-zone-smart-sprinkler-controllers";
 export const guideTitle = "Best 8-Zone Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best 8-Zone Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best 8-zone smart sprinkler controllers across top brands, compared on price and weather intelligence.";
+export const metaDescription = "The best 8-zone smart sprinkler controllers across top brands, compared on price and weather intelligence, with real pros and cons for each pick.";
 export const mainKeyword = "rachio 3 smart sprinkler controller 8 zone";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

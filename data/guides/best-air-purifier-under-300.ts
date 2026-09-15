@@ -1,7 +1,7 @@
 export const guideSlug = "best-air-purifier-under-300";
 export const guideTitle = "Best Air Purifier Under $300 (2026)";
 export const metaTitle = "Best Air Purifier Under $300 (2026): 8 Picks Compared";
-export const metaDescription = "This is the sweet spot for large-room and whole-apartment coverage, Coway's Mighty, Blueair's HEPASilent line, and Winix's ionization-equipped units all land in this tier.";
+export const metaDescription = "This is the sweet spot for large-room and whole-apartment coverage, Coway's Mighty, Blueair's HEPASilent line, and Winix's ionization-equipped units all land.";
 export const mainKeyword = "best air purifier under $300";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

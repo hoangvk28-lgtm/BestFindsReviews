@@ -1,7 +1,7 @@
 export const guideSlug = "best-high-pressure-garden-hose-nozzles-for-cleaning";
 export const guideTitle = "Best High-Pressure Garden Hose Nozzles for Cleaning (2026)";
 export const metaTitle = "Best High-Pressure Garden Hose Nozzles for Cleaning (2026)";
-export const metaDescription = "The best high-pressure hose nozzles for cleaning compared, jet and firefighter-style nozzles for driveways, siding, and equipment, based on real jet force and reach.";
+export const metaDescription = "The best high-pressure hose nozzles for cleaning compared, jet and firefighter-style nozzles for driveways, siding, and equipment.";
 export const mainKeyword = "high-pressure hose nozzle for cleaning";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

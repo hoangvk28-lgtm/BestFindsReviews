@@ -1,7 +1,7 @@
 export const guideSlug = "best-lenovo-chromebooks";
 export const guideTitle = "Best Lenovo Chromebooks (2026)";
 export const metaTitle = "Best Lenovo Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best Lenovo Chromebooks for 2026, compared on design, battery life, and price.";
+export const metaDescription = "The best Lenovo Chromebooks for 2026, compared on design, battery life, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best lenovo chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

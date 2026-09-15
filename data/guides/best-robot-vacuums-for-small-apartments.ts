@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-small-apartments";
 export const guideTitle = "Best Robot Vacuums for Small Apartments";
 export const metaTitle = "Best Robot Vacuums for Small Apartments (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on dock footprint, whole-cycle noise, and low-furniture access so you can find one that actually fits a small, open-plan apartment.";
+export const metaDescription = "We compared eight current robot vacuums on dock footprint, whole-cycle noise, and low-furniture access so you can find one that actually fits a small.";
 export const mainKeyword = "robot vacuums for small apartments";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

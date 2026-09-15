@@ -1,8 +1,7 @@
 export const guideSlug = "best-easy-to-use-coffee-makers";
 export const guideTitle = "Best Easy-to-Use Coffee Makers";
 export const metaTitle = "Best Easy-to-Use Coffee Makers (2026): 4 Simple Picks";
-export const metaDescription =
-  "We counted the actual steps from empty machine to finished coffee on four current models and separated easy daily brewing from easy programming so you know which is genuinely simple.";
+export const metaDescription = "We counted the actual steps from empty machine to finished coffee on four current models and separated easy daily brewing from easy programming.";
 export const mainKeyword = "easy coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

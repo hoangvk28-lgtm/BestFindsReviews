@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-dustpans-for-pet-hair";
 export const guideTitle = "Best Automatic Dustpans for Pet Hair (2026)";
 export const metaTitle = "Best Automatic Dustpans for Pet Hair (2026)";
-export const metaDescription = "The best automatic dustpans for pet hair compared, high-suction touchless sweep vacuums that pull in fur instead of pushing it, based on real suction and filtration.";
+export const metaDescription = "The best automatic dustpans for pet hair compared, high-suction touchless sweep vacuums that pull in fur instead of pushing it.";
 export const mainKeyword = "automatic dustpan for pet hair";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

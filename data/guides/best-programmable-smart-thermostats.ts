@@ -1,7 +1,7 @@
 export const guideSlug = "best-programmable-smart-thermostats";
 export const guideTitle = "Best Programmable Smart Thermostats (2026)";
 export const metaTitle = "Best Programmable Smart Thermostats (2026): 6 Picks Compared";
-export const metaDescription = "The best programmable smart thermostats for 2026, compared on scheduling flexibility and features.";
+export const metaDescription = "The best programmable smart thermostats for 2026, compared on scheduling flexibility and features, with real pros and cons for each pick.";
 export const mainKeyword = "programmable smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

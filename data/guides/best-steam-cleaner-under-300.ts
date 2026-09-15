@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-cleaner-under-300";
 export const guideTitle = "Best Steam Cleaner Under $300 (2026)";
 export const metaTitle = "Best Steam Cleaner Under $300 (2026): 5 Picks Compared";
-export const metaDescription = "We checked for verified steam cleaners specifically priced between $200 and $300 and found none, here's the honest picture, plus the best five options actually available at this budget.";
+export const metaDescription = "We checked for verified steam cleaners specifically priced between $200 and $300 and found none, here's the honest picture.";
 export const mainKeyword = "best steam cleaner under $300";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

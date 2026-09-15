@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-thermostats-without-a-c-wire";
 export const guideTitle = "Best Smart Thermostats Without a C-Wire (2026)";
 export const metaTitle = "Best Smart Thermostats Without a C-Wire (2026): 5 Picks Compared";
-export const metaDescription = "The best smart thermostats that work without a C-wire in 2026, compared on power management and compatibility.";
+export const metaDescription = "The best smart thermostats that work without a C-wire in 2026, compared on power management and compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "no c wire smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

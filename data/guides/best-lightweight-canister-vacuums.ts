@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-canister-vacuums";
 export const guideTitle = "Best Lightweight Canister Vacuums (2026)";
 export const metaTitle = "Best Lightweight Canister Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best lightweight canister vacuums for 2026, compared on weight, suction, and price.";
+export const metaDescription = "The best lightweight canister vacuums for 2026, compared on weight, suction, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best lightweight canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

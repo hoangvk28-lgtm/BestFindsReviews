@@ -1,7 +1,7 @@
 export const guideSlug = "best-8-inch-e-readers";
 export const guideTitle = "Best 8-Inch E-Readers (2026)";
 export const metaTitle = "Best 8-Inch E-Readers (2026): Why the Pool Is Thin, Explained";
-export const metaDescription = "Our search found no genuine E Ink 8-inch reader currently sold on Amazon, only LCD reading tablets and one niche device. We explain honestly and point you elsewhere.";
+export const metaDescription = "Our search found no genuine E Ink 8-inch reader currently sold on Amazon, only LCD reading tablets and one niche device.";
 export const mainKeyword = "8-inch e-readers";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

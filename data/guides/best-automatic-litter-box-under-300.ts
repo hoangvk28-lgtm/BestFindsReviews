@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-litter-box-under-300";
 export const guideTitle = "Best Automatic Litter Box Under $300 (2026)";
 export const metaTitle = "Best Automatic Litter Box Under $300 (2026): 7 Picks Compared";
-export const metaDescription = "We compared verified pricing and named safety features across automatic litter boxes under $300 to find the most credible entry points into self-cleaning litter, without overpaying for app extras you may not need.";
+export const metaDescription = "We compared verified pricing and named safety features across automatic litter boxes under $300 to find the most credible entry points into self-cleaning.";
 export const mainKeyword = "best automatic litter box under $300";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

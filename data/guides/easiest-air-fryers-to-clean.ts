@@ -1,7 +1,7 @@
 export const guideSlug = "easiest-air-fryers-to-clean";
 export const guideTitle = "Easiest Air Fryers to Clean (2026)";
 export const metaTitle = "Easiest Air Fryers to Clean (2026): Current Models and Buying Guide";
-export const metaDescription = "Easiest Air Fryers to Clean compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Easiest Air Fryers to Clean compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "easiest air fryers to clean";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

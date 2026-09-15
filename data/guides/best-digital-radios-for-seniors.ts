@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-radios-for-seniors";
 export const guideTitle = "Best Digital Radios for Seniors (2026)";
 export const metaTitle = "Best Digital Radios for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best digital radios for seniors in 2026, compared on ease of use and control size.";
+export const metaDescription = "The best digital radios for seniors in 2026, compared on ease of use and control size, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "digital radio for elderly";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

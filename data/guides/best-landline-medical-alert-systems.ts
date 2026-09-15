@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-medical-alert-systems";
 export const guideTitle = "Best Landline Medical Alert Systems (2026)";
 export const metaTitle = "Best Landline Medical Alert Systems (2026): 4 Picks Compared";
-export const metaDescription = "The best landline-based medical alert systems for 2026, compared on features and simplicity.";
+export const metaDescription = "The best landline-based medical alert systems for 2026, compared on features and simplicity, with real pros and cons for each pick.";
 export const mainKeyword = "best landline medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

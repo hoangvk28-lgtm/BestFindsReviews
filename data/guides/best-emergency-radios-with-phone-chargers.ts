@@ -1,7 +1,7 @@
 export const guideSlug = "best-emergency-radios-with-phone-chargers";
 export const guideTitle = "Best Emergency Radios With Phone Chargers (2026)";
 export const metaTitle = "Best Emergency Radios With Phone Chargers (2026): 6 Picks Compared";
-export const metaDescription = "The best emergency radios with built-in phone chargers for 2026, compared on charging capacity.";
+export const metaDescription = "The best emergency radios with built-in phone chargers for 2026, compared on charging capacity, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "emergency radio power bank";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

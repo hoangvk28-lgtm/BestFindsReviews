@@ -1,7 +1,7 @@
 export const guideSlug = "best-4-outlet-watering-timers";
 export const guideTitle = "Best 4-Outlet Watering Timers (2026)";
 export const metaTitle = "Best 4-Outlet Watering Timers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current 4-outlet watering timers so you can pick the right one.";
+export const metaDescription = "We compared five current 4-outlet watering timers so you can pick the right one, with a full side-by-side breakdown of 5 options and verified buyer feedback.";
 export const mainKeyword = "4 outlet watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

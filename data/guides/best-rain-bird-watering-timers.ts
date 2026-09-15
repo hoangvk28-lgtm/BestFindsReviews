@@ -1,7 +1,7 @@
 export const guideSlug = "best-rain-bird-watering-timers";
 export const guideTitle = "Best Rain Bird Watering Timers (2026)";
 export const metaTitle = "Best Rain Bird Watering Timers (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current Rain Bird watering timers and irrigation controllers.";
+export const metaDescription = "We compared four current Rain Bird watering timers and irrigation controllers, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "rain bird 1zehtmr automatic watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-wi-fi-smart-thermostats";
 export const guideTitle = "Best Wi-Fi Smart Thermostats (2026)";
 export const metaTitle = "Best Wi-Fi Smart Thermostats (2026): 7 Picks Compared";
-export const metaDescription = "The best Wi-Fi enabled smart thermostats for 2026, compared on connectivity and remote features.";
+export const metaDescription = "The best Wi-Fi enabled smart thermostats for 2026, compared on connectivity and remote features, with real pros and cons for each pick.";
 export const mainKeyword = "smart thermostat wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

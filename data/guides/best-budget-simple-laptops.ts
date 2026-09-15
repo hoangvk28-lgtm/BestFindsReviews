@@ -1,7 +1,7 @@
 export const guideSlug = "best-budget-simple-laptops";
 export const guideTitle = "Best Budget Simple Laptops (2026)";
 export const metaTitle = "Best Budget Simple Laptops (2026): 6 Picks Compared";
-export const metaDescription = "The most affordable simple laptops for 2026, compared on core specs and value.";
+export const metaDescription = "The most affordable simple laptops for 2026, compared on core specs and value, picked after comparing every current option in this category.";
 export const mainKeyword = "best budget simple laptops";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

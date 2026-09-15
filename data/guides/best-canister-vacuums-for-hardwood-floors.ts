@@ -1,7 +1,7 @@
 export const guideSlug = "best-canister-vacuums-for-hardwood-floors";
 export const guideTitle = "Best Canister Vacuums for Hardwood Floors (2026)";
 export const metaTitle = "Best Canister Vacuums for Hardwood Floors (2026): 8 Picks Compared";
-export const metaDescription = "The best canister vacuums for hardwood floors in 2026, compared on suction control, attachments, and price.";
+export const metaDescription = "The best canister vacuums for hardwood floors in 2026, compared on suction control, attachments, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best canister vacuums for hardwood floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

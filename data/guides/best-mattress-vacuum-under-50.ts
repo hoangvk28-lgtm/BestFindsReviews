@@ -1,7 +1,7 @@
 export const guideSlug = "best-mattress-vacuum-under-50";
 export const guideTitle = "Best Mattress Vacuum Under $50 (2026)";
 export const metaTitle = "Best Mattress Vacuum Under $50 (2026): 4 Picks Compared";
-export const metaDescription = "We compare current mattress vacuums under $50 on named suction power (kPa), UV-C sanitizing, filtration, and weight.";
+export const metaDescription = "We compare current mattress vacuums under $50 on named suction power (kPa), UV-C sanitizing, filtration, and weight, with real pros and cons for each pick.";
 export const mainKeyword = "best mattress vacuum under $50";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

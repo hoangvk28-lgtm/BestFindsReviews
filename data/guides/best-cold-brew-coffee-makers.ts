@@ -1,8 +1,7 @@
 export const guideSlug = "best-cold-brew-coffee-makers";
 export const guideTitle = "Best Cold Brew Coffee Makers";
 export const metaTitle = "Best Cold Brew Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current cold brew coffee makers on real servings after dilution, usable yield after sediment, fridge footprint and seal quality, and manual steeping versus electric rapid brewing.";
+export const metaDescription = "We compared four current cold brew coffee makers on real servings after dilution, usable yield after sediment, fridge footprint and seal quality.";
 export const mainKeyword = "cold brew coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

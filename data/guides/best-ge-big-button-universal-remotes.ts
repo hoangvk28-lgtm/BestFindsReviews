@@ -1,7 +1,7 @@
 export const guideSlug = "best-ge-big-button-universal-remotes";
 export const guideTitle = "Best GE Big-Button Universal Remotes (2026)";
 export const metaTitle = "Best GE Big-Button Universal Remotes (2026): 4 Picks Compared";
-export const metaDescription = "The best GE big-button universal remotes for 2026.";
+export const metaDescription = "The best GE big-button universal remotes for 2026, comparing 4 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "ge 6 device backlit big button universal tv remote control";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

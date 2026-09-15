@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars-that-sync-with-phone";
 export const guideTitle = "Best Digital Calendars That Sync With Your Phone (2026)";
 export const metaTitle = "Best Digital Calendars That Sync With Your Phone (2026): 6 Picks Compared";
-export const metaDescription = "The best digital calendars that sync with your phone for 2026, Android and iPhone compatible.";
+export const metaDescription = "The best digital calendars that sync with your phone for 2026, Android and iPhone compatible, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "digital calendar that syncs with phone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

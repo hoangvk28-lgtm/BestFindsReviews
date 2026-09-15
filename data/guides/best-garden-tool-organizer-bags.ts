@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-tool-organizer-bags";
 export const guideTitle = "Best Garden Tool Organizer Bags (2026)";
 export const metaTitle = "Best Garden Tool Organizer Bags (2026)";
-export const metaDescription = "The best garden tool organizer bags compared, pocketed totes and waxed-canvas bags that carry hand tools around the garden, based on real pocket count, bottom, and durability.";
+export const metaDescription = "The best garden tool organizer bags compared, pocketed totes and waxed-canvas bags that carry hand tools around the garden, based on real pocket count, bottom.";
 export const mainKeyword = "garden tool organizer bag";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

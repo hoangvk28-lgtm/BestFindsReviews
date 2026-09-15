@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-spot-cleaners";
 export const guideTitle = "Best Portable Spot Cleaners (2026)";
 export const metaTitle = "Best Portable Spot Cleaners (2026): 8 Picks Compared";
-export const metaDescription = "We compare current portable spot cleaners on stain removal, liquid recovery, hose reach, and hygiene at cleanup.";
+export const metaDescription = "We compare current portable spot cleaners on stain removal, liquid recovery, hose reach, and hygiene at cleanup, with real pros and cons for each pick.";
 export const mainKeyword = "best portable spot cleaners";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

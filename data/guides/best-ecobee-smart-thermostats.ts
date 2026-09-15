@@ -1,7 +1,7 @@
 export const guideSlug = "best-ecobee-smart-thermostats";
 export const guideTitle = "Best Ecobee Smart Thermostats (2026)";
 export const metaTitle = "Best Ecobee Smart Thermostats (2026): 4 Picks Compared";
-export const metaDescription = "The best ecobee smart thermostats for 2026, compared on sensor support, features, and price.";
+export const metaDescription = "The best ecobee smart thermostats for 2026, compared on sensor support, features, and price, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "ecobee smart thermostat premium";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

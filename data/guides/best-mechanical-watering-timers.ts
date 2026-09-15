@@ -1,7 +1,7 @@
 export const guideSlug = "best-mechanical-watering-timers";
 export const guideTitle = "Best Mechanical Watering Timers (2026)";
 export const metaTitle = "Best Mechanical Watering Timers (2026): 3 Picks Compared";
-export const metaDescription = "We compared three current mechanical watering timers that need no batteries.";
+export const metaDescription = "We compared three current mechanical watering timers that need no batteries, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "water timer mechanical";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

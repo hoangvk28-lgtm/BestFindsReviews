@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-sweepers-for-leaves";
 export const guideTitle = "Best Lawn Sweepers for Leaves (2026)";
 export const metaTitle = "Best Lawn Sweepers for Leaves (2026): Top Picks Compared";
-export const metaDescription = "The best lawn sweepers for collecting fall leaves, compared on hopper capacity, brush design, and clogging resistance.";
+export const metaDescription = "The best lawn sweepers for collecting fall leaves, compared on hopper capacity, brush design, and clogging resistance, with real pros and cons for each pick.";
 export const mainKeyword = "leaf lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

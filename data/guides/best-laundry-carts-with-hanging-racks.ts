@@ -1,7 +1,7 @@
 export const guideSlug = "best-laundry-carts-with-hanging-racks";
 export const guideTitle = "Best Laundry Carts With Hanging Racks (2026)";
 export const metaTitle = "Best Laundry Carts With Hanging Racks (2026)";
-export const metaDescription = "The best laundry carts with hanging racks compared, from single-bar home carts to commercial double-pole wire carts, based on real rack length and cart capacity.";
+export const metaDescription = "The best laundry carts with hanging racks compared, from single-bar home carts to commercial double-pole wire carts, based on real rack length and cart.";
 export const mainKeyword = "laundry cart with hanging rack";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

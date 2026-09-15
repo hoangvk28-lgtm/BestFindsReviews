@@ -1,7 +1,7 @@
 export const guideSlug = "best-metal-rolling-garden-seats";
 export const guideTitle = "Best Metal Rolling Garden Seats (2026)";
 export const metaTitle = "Best Metal Rolling Garden Seats (2026)";
-export const metaDescription = "Best Metal Rolling Garden Seats compared by seat height, terrain handling, stability, storage, and real ownership cost. See real specs and prices before you buy.";
+export const metaDescription = "Best Metal Rolling Garden Seats compared by seat height, terrain handling, stability, storage, and real ownership cost. See real specs and prices.";
 export const mainKeyword = "Metal Rolling Garden Seats";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-11";

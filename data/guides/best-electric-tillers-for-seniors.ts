@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-tillers-for-seniors";
 export const guideTitle = "Best Electric Tillers for Seniors (2026)";
 export const metaTitle = "Best Electric Tillers for Seniors (2026): Top Picks";
-export const metaDescription = "The best lightweight electric tillers for seniors, compared on weight and ease of handling.";
+export const metaDescription = "The best lightweight electric tillers for seniors, compared on weight and ease of handling, picked after comparing every current option in this category.";
 export const mainKeyword = "electric tillers for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

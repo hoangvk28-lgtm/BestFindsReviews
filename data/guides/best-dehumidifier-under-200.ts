@@ -1,7 +1,7 @@
 export const guideSlug = "best-dehumidifier-under-200";
 export const guideTitle = "Best Dehumidifier Under $200 (2026)";
 export const metaTitle = "Best Dehumidifier Under $200 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current dehumidifiers under $200, where larger 2000 sq ft basement-rated units and bigger tanks join the sub-$100 pool, though two top picks have unconfirmed pricing.";
+export const metaDescription = "We compare current dehumidifiers under $200, where larger 2000 sq ft basement-rated units and bigger tanks join the sub-$100 pool.";
 export const mainKeyword = "best dehumidifier under $200";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

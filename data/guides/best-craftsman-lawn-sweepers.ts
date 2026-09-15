@@ -1,7 +1,7 @@
 export const guideSlug = "best-craftsman-lawn-sweepers";
 export const guideTitle = "Best Craftsman Lawn Sweepers (2026)";
 export const metaTitle = "Best Craftsman Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best Craftsman lawn sweepers, compared on hopper capacity, sweeping speed, and hitch compatibility.";
+export const metaDescription = "The best Craftsman lawn sweepers, compared on hopper capacity, sweeping speed, and hitch compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "craftsman lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

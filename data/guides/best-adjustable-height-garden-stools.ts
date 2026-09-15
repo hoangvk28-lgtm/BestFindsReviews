@@ -1,7 +1,7 @@
 export const guideSlug = "best-adjustable-height-garden-stools";
 export const guideTitle = "Best Adjustable-Height Garden Stools (2026)";
 export const metaTitle = "Best Adjustable-Height Garden Stools (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current adjustable-height garden stools so you can pick the right one.";
+export const metaDescription = "We compared six current adjustable-height garden stools so you can pick the right one, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "adjustable garden stool";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

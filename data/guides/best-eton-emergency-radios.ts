@@ -1,7 +1,7 @@
 export const guideSlug = "best-eton-emergency-radios";
 export const guideTitle = "Best Eton Emergency Radios (2026)";
 export const metaTitle = "Best Eton Emergency Radios (2026): 3 Picks Compared";
-export const metaDescription = "The best Eton emergency radios for 2026, compared on features and reliability.";
+export const metaDescription = "The best Eton emergency radios for 2026, compared on features and reliability, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "emergency radio eton";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

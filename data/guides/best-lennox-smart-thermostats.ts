@@ -1,7 +1,7 @@
 export const guideSlug = "best-lennox-smart-thermostats";
 export const guideTitle = "Best Lennox Smart Thermostats (2026)";
 export const metaTitle = "Best Lennox Smart Thermostats (2026): Reviewed";
-export const metaDescription = "A look at Lennox's smart thermostat lineup for 2026, reviewed on features and compatibility.";
+export const metaDescription = "A look at Lennox's smart thermostat lineup for 2026, reviewed on features and compatibility, based on 2 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "lennox s40 smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-mini-chainsaw-under-150";
 export const guideTitle = "Best Mini Chainsaw Under $150 (2026)";
 export const metaTitle = "Best Mini Chainsaw Under $150 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current mini chainsaws priced under $150 on true bar length, guard safety, and battery platform.";
+export const metaDescription = "We compare current mini chainsaws priced under $150 on true bar length, guard safety, and battery platform, with real pros and cons for each pick.";
 export const mainKeyword = "best mini chainsaw under $150";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

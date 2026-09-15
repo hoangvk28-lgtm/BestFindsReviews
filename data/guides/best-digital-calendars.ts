@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars";
 export const guideTitle = "Best Digital Calendars (2026)";
 export const metaTitle = "Best Digital Calendars (2026): 7 Picks Compared";
-export const metaDescription = "The best digital calendars for 2026 across every brand and size.";
+export const metaDescription = "The best digital calendars for 2026 across every brand and size, weighing 7 current models on the specs and details that matter.";
 export const mainKeyword = "digital calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

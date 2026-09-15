@@ -1,7 +1,7 @@
 export const guideSlug = "best-secrui-wireless-doorbells";
 export const guideTitle = "Best Secrui Wireless Doorbells (2026)";
 export const metaTitle = "Best Secrui Wireless Doorbells (2026): 4 Picks Compared";
-export const metaDescription = "The best SECRUI wireless doorbells for 2026, compared on chime variety and features.";
+export const metaDescription = "The best SECRUI wireless doorbells for 2026, compared on chime variety and features, with real pros and cons for each pick.";
 export const mainKeyword = "secrui wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

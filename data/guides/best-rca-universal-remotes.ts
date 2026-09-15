@@ -1,7 +1,7 @@
 export const guideSlug = "best-rca-universal-remotes";
 export const guideTitle = "Best RCA Universal Remotes (2026)";
 export const metaTitle = "Best RCA Universal Remotes (2026): 4 Picks Compared";
-export const metaDescription = "The best RCA universal remotes for 2026, compared on device count and design.";
+export const metaDescription = "The best RCA universal remotes for 2026, compared on device count and design, with a full breakdown of 4 options based on real specs and feedback.";
 export const mainKeyword = "rca universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

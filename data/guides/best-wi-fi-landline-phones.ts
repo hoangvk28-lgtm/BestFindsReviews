@@ -1,7 +1,7 @@
 export const guideSlug = "best-wi-fi-landline-phones";
 export const guideTitle = "Best Wi-Fi Landline Phones (2026)";
 export const metaTitle = "Best Wi-Fi Landline Phones (2026): 5 Picks Compared";
-export const metaDescription = "The best Wi-Fi and VoIP landline phones for 2026, compared on service cost and features.";
+export const metaDescription = "The best Wi-Fi and VoIP landline phones for 2026, compared on service cost and features, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "landline phone wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

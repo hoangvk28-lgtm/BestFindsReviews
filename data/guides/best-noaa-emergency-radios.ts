@@ -1,7 +1,7 @@
 export const guideSlug = "best-noaa-emergency-radios";
 export const guideTitle = "Best NOAA Emergency Radios (2026)";
 export const metaTitle = "Best NOAA Emergency Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best NOAA weather band emergency radios for 2026, compared on alert reliability.";
+export const metaDescription = "The best NOAA weather band emergency radios for 2026, compared on alert reliability, weighing 7 current models on the specs and details that matter.";
 export const mainKeyword = "noaa emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

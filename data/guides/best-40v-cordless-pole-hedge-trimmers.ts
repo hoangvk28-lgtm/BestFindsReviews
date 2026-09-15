@@ -1,7 +1,7 @@
 export const guideSlug = "best-40v-cordless-pole-hedge-trimmers";
 export const guideTitle = "Best 40V Cordless Pole Hedge Trimmers (2026)";
 export const metaTitle = "Best 40V Cordless Pole Hedge Trimmers (2026)";
-export const metaDescription = "The best 40V cordless pole hedge trimmers compared, a step up in power from 20V options for larger properties and thicker growth without the weight of 80V tools.";
+export const metaDescription = "The best 40V cordless pole hedge trimmers compared, a step up in power from 20V options for larger properties and thicker growth without the weight of 80V.";
 export const mainKeyword = "40V cordless pole hedge trimmer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

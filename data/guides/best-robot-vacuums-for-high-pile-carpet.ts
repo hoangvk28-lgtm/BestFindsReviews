@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-high-pile-carpet";
 export const guideTitle = "Best Robot Vacuums for High-Pile Carpet";
 export const metaTitle = "Best Robot Vacuums for High-Pile Carpet (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on suction power, wheel clearance, and carpet-boost handling for thick, plush, high-pile carpet so you can pick one that will not stall or get stuck.";
+export const metaDescription = "We compared eight current robot vacuums on suction power, wheel clearance, and carpet-boost handling for thick, plush, high-pile carpet so you can pick one.";
 export const mainKeyword = "robot vacuums for high-pile carpet";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

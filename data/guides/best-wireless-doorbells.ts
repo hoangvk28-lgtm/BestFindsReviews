@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbells";
 export const guideTitle = "Best Wireless Doorbells (2026)";
 export const metaTitle = "Best Wireless Doorbells (2026): 8 Picks Compared";
-export const metaDescription = "The best wireless doorbells for 2026 across every brand and budget, compared on range, chimes, and features.";
+export const metaDescription = "The best wireless doorbells for 2026 across every brand and budget, compared on range, chimes, and features, with real pros and cons for each pick.";
 export const mainKeyword = "wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

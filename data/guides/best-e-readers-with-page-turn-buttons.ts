@@ -1,7 +1,7 @@
 export const guideSlug = "best-e-readers-with-page-turn-buttons";
 export const guideTitle = "Best E-Readers With Page-Turn Buttons (2026)";
 export const metaTitle = "Best E-Readers With Page-Turn Buttons (2026): Genuine Button Models Only";
-export const metaDescription = "We required dedicated physical page-turn buttons and found only Kobo Libra Colour currently names them, with touch-only alternatives included for honest comparison.";
+export const metaDescription = "We required dedicated physical page-turn buttons and found only Kobo Libra Colour currently names them, with touch-only alternatives included for honest.";
 export const mainKeyword = "e-readers with page-turn buttons";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

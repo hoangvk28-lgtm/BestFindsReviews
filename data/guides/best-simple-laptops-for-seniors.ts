@@ -1,7 +1,7 @@
 export const guideSlug = "best-simple-laptops-for-seniors";
 export const guideTitle = "Best Simple Laptops for Seniors (2026)";
 export const metaTitle = "Best Simple Laptops for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best simple laptops for seniors in 2026, compared on ease of use, screen size, and reliability.";
+export const metaDescription = "The best simple laptops for seniors in 2026, compared on ease of use, screen size, and reliability, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "best simple laptops for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

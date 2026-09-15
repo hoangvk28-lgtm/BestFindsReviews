@@ -1,7 +1,7 @@
 export const guideSlug = "best-plastic-raised-planters";
 export const guideTitle = "Best Plastic Raised Planters (2026)";
 export const metaTitle = "Best Plastic Raised Planters (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current plastic and resin raised planters on durability and drainage.";
+export const metaDescription = "We compared five current plastic and resin raised planters on durability and drainage, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "plastic raised planter";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

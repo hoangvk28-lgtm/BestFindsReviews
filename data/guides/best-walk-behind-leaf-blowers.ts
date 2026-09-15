@@ -1,7 +1,7 @@
 export const guideSlug = "best-walk-behind-leaf-blowers";
 export const guideTitle = "Best Walk-Behind Leaf Blowers (2026)";
 export const metaTitle = "Best Walk-Behind Leaf Blowers (2026)";
-export const metaDescription = "Best Walk-Behind Leaf Blowers compared by clearing force, ready-to-use weight, runtime, noise, and real ownership cost. See real specs and prices before you buy.";
+export const metaDescription = "Best Walk-Behind Leaf Blowers compared by clearing force, ready-to-use weight, runtime, noise, and real ownership cost. See real specs and prices.";
 export const mainKeyword = "Walk-Behind Leaf Blowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-11";

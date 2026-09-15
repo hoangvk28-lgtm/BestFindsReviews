@@ -1,7 +1,7 @@
 export const guideSlug = "best-power-wheelbarrows-for-hills";
 export const guideTitle = "Best Power Wheelbarrows for Hills (2026)";
 export const metaTitle = "Best Power Wheelbarrows for Hills (2026): 5 Top Picks";
-export const metaDescription = "The best power wheelbarrows for sloped and hilly yards, compared by motor torque, tracked traction, and hydraulic assist for controlled uphill and downhill hauling.";
+export const metaDescription = "The best power wheelbarrows for sloped and hilly yards, compared by motor torque, tracked traction, and hydraulic assist for controlled uphill and downhill.";
 export const mainKeyword = "power wheelbarrow for hills";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

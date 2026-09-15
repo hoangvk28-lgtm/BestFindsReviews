@@ -1,8 +1,7 @@
 export const guideSlug = "best-ecovacs-robot-vacuums";
 export const guideTitle = "Best Ecovacs Robot Vacuums";
 export const metaTitle = "Best Ecovacs Robot Vacuums (2026): 8 DEEBOT Models Compared";
-export const metaDescription =
-  "We compared eight current DEEBOT models across the T, N, and X series on suction, dock maintenance, edge cleaning, and obstacle avoidance so you can pick the right tier without guessing.";
+export const metaDescription = "We compared eight current DEEBOT models across the T, N, and X series on suction, dock maintenance, edge cleaning, and obstacle avoidance.";
 export const mainKeyword = "ecovacs robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

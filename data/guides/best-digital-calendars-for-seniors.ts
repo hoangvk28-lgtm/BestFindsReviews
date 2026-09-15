@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars-for-seniors";
 export const guideTitle = "Best Digital Calendars for Seniors (2026)";
 export const metaTitle = "Best Digital Calendars for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best digital calendars for seniors in 2026, compared on simplicity and reminder features.";
+export const metaDescription = "The best digital calendars for seniors in 2026, compared on simplicity and reminder features, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "digital calendars for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbell-cameras";
 export const guideTitle = "Best Wireless Doorbell Cameras (2026)";
 export const metaTitle = "Best Wireless Doorbell Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best wireless doorbell cameras for 2026, compared on video quality and subscription requirements.";
+export const metaDescription = "The best wireless doorbell cameras for 2026, compared on video quality and subscription requirements, with real pros and cons for each pick.";
 export const mainKeyword = "wireless doorbell cam";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

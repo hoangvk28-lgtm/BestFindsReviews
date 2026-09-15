@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-washing-machine-under-300";
 export const guideTitle = "Best Portable Washing Machine Under $300 (2026)";
 export const metaTitle = "Best Portable Washing Machine Under $300 (2026): 4 Picks Compared";
-export const metaDescription = "We compare current portable washing machines priced under $300, where full-automatic single-drum units start to appear alongside the semi-automatic twin-tub options.";
+export const metaDescription = "We compare current portable washing machines priced under $300, where full-automatic single-drum units start to appear alongside the semi-automatic twin-tub.";
 export const mainKeyword = "best portable washing machine under $300";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

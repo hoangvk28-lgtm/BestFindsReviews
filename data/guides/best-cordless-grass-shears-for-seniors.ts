@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-grass-shears-for-seniors";
 export const guideTitle = "Best Cordless Grass Shears for Seniors (2026)";
 export const metaTitle = "Best Cordless Grass Shears for Seniors (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current cordless grass shears on weight and ease of use for seniors.";
+export const metaDescription = "We compared five current cordless grass shears on weight and ease of use for seniors, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "cordless grass shears for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

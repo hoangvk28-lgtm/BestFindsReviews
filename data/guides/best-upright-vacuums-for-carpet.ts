@@ -1,7 +1,7 @@
 export const guideSlug = "best-upright-vacuums-for-carpet";
 export const guideTitle = "Best Upright Vacuums for Carpet (2026)";
 export const metaTitle = "Best Upright Vacuums for Carpet (2026): 8 Picks Compared";
-export const metaDescription = "The best upright vacuums for carpet in 2026, compared on suction, brush-roll design, and price.";
+export const metaDescription = "The best upright vacuums for carpet in 2026, compared on suction, brush-roll design, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best upright vacuums for carpet";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

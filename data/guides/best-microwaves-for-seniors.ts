@@ -1,7 +1,7 @@
 export const guideSlug = "best-microwaves-for-seniors";
 export const guideTitle = "Best Microwaves for Seniors";
 export const metaTitle = "Best Microwaves for Seniors (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Microwaves for Seniors compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Microwaves for Seniors compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwaves for seniors";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-electrolux-canister-vacuums";
 export const guideTitle = "Best Electrolux Canister Vacuums (2026): 1 Pick Compared";
 export const metaTitle = "Best Electrolux Canister Vacuums (2026): 1 Pick Compared";
-export const metaDescription = "The best Electrolux canister vacuum for 2026, reviewed on suction, filtration, and price.";
+export const metaDescription = "The best Electrolux canister vacuum for 2026, reviewed on suction, filtration, and price, covering 1 current picks and what to check before buying.";
 export const mainKeyword = "best electrolux canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

@@ -1,7 +1,7 @@
 export const guideSlug = "cheapest-landline-phone-service";
 export const guideTitle = "Cheapest Landline Phone Service (2026)";
 export const metaTitle = "Cheapest Landline Phone Service (2026): Options Compared";
-export const metaDescription = "The cheapest ways to get landline phone service in 2026, comparing VoIP devices and traditional carriers.";
+export const metaDescription = "The cheapest ways to get landline phone service in 2026, comparing VoIP devices and traditional carriers, with real pros and cons for each pick.";
 export const mainKeyword = "cheap landline phone service";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-orbit-b-hyve-smart-sprinkler-controllers";
 export const guideTitle = "Best Orbit B-hyve Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best Orbit B-hyve Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best Orbit B-hyve controllers, compared on zone count and indoor/outdoor mounting.";
+export const metaDescription = "The best Orbit B-hyve controllers, compared on zone count and indoor/outdoor mounting, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "orbit b hyve smart sprinkler controller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

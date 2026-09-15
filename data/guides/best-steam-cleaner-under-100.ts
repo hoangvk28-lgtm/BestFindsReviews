@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-cleaner-under-100";
 export const guideTitle = "Best Steam Cleaner Under $100 (2026)";
 export const metaTitle = "Best Steam Cleaner Under $100 (2026): 4 Picks Compared";
-export const metaDescription = "We verified live pricing across steam cleaner candidates under $100 and found four genuine options after excluding invalid and mismatched listings, here's what's actually available.";
+export const metaDescription = "We verified live pricing across steam cleaner candidates under $100 and found four genuine options after excluding invalid and mismatched listings.";
 export const mainKeyword = "best steam cleaner under $100";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-backpack-sprayers";
 export const guideTitle = "Best Battery Backpack Sprayers (2026)";
 export const metaTitle = "Best Battery Backpack Sprayers (2026): Top Picks";
-export const metaDescription = "The best battery-powered backpack sprayers, compared on tank size, runtime, and battery platform.";
+export const metaDescription = "The best battery-powered backpack sprayers, compared on tank size, runtime, and battery platform, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered sprayer backpack";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

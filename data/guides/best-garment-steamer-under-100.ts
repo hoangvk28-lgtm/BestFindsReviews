@@ -1,7 +1,7 @@
 export const guideSlug = "best-garment-steamer-under-100";
 export const guideTitle = "Best Garment Steamer Under $100 (2026)";
 export const metaTitle = "Best Garment Steamer Under $100 (2026): 8 Picks Compared";
-export const metaDescription = "This tier is where Conair's high-wattage Turbo ExtremeSteam and Rowenta's precision irons both become available. We checked live pricing to see which offers the best power-to-price ratio.";
+export const metaDescription = "This tier is where Conair's high-wattage Turbo ExtremeSteam and Rowenta's precision irons both become available. We checked live pricing to see which offers.";
 export const mainKeyword = "best garment steamer under $100";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

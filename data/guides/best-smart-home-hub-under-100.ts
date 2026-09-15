@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-home-hub-under-100";
 export const guideTitle = "Best Smart Home Hub Under $100 (2026)";
 export const metaTitle = "Best Smart Home Hub Under $100 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current smart home hubs priced under $100 on local automation, protocol support, and ecosystem lock-in.";
+export const metaDescription = "We compare current smart home hubs priced under $100 on local automation, protocol support, and ecosystem lock-in, with real pros and cons for each pick.";
 export const mainKeyword = "best smart home hub under $100";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-handled-electric-weed-burners";
 export const guideTitle = "Best Long-Handled Electric Weed Burners (2026)";
 export const metaTitle = "Best Long-Handled Electric Weed Burners (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current electric weed burners with longer wands and cords so you can pick the right one.";
+export const metaDescription = "We compared four current electric weed burners with longer wands and cords so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "long-handled electric weed burners";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

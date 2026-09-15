@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-pet-hair";
 export const guideTitle = "Best Robot Vacuums for Pet Hair";
 export const metaTitle = "Best Robot Vacuums for Pet Hair (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on hair-wrap resistance, self-empty dock capacity, allergen filtration, and noise around pets so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current robot vacuums on hair-wrap resistance, self-empty dock capacity, allergen filtration, and noise around pets.";
 export const mainKeyword = "robot vacuums for pet hair";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

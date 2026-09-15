@@ -1,7 +1,7 @@
 export const guideSlug = "best-1-gallon-garden-sprayers";
 export const guideTitle = "Best 1-Gallon Garden Sprayers (2026)";
 export const metaTitle = "Best 1-Gallon Garden Sprayers (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current 1-gallon garden sprayers on hose length, pump type, and price so you can pick the right one.";
+export const metaDescription = "We compared six current 1-gallon garden sprayers on hose length, pump type, and price so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "1 gallon garden sprayer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

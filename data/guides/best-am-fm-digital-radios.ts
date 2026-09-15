@@ -1,7 +1,7 @@
 export const guideSlug = "best-am-fm-digital-radios";
 export const guideTitle = "Best AM/FM Digital Radios (2026)";
 export const metaTitle = "Best AM/FM Digital Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best AM/FM digital radios for 2026, compared on reception and tuning accuracy.";
+export const metaDescription = "The best AM/FM digital radios for 2026, compared on reception and tuning accuracy, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "am fm digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

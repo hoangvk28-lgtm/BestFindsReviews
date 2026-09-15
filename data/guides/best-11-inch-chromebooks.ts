@@ -1,7 +1,7 @@
 export const guideSlug = "best-11-inch-chromebooks";
 export const guideTitle = "Best 11-Inch Chromebooks (2026)";
 export const metaTitle = "Best 11-Inch Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best 11-inch Chromebooks for 2026, compared on portability and battery life.";
+export const metaDescription = "The best 11-inch Chromebooks for 2026, compared on portability and battery life, with a full side-by-side breakdown of 6 options and verified buyer feedback.";
 export const mainKeyword = "best 11-inch chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

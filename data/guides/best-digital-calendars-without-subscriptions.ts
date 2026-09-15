@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars-without-subscriptions";
 export const guideTitle = "Best Digital Calendars Without Subscriptions (2026)";
 export const metaTitle = "Best Digital Calendars Without Subscriptions (2026): 6 Picks Compared";
-export const metaDescription = "The best subscription-free digital calendars for 2026.";
+export const metaDescription = "The best subscription-free digital calendars for 2026, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "digital calendar without subscription";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

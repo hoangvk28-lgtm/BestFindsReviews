@@ -1,7 +1,7 @@
 export const guideSlug = "best-blink-home-security-cameras";
 export const guideTitle = "Best Blink Home Security Cameras (2026)";
 export const metaTitle = "Best Blink Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best Blink home security camera bundles for 2026, compared on camera count and battery life.";
+export const metaDescription = "The best Blink home security camera bundles for 2026, compared on camera count and battery life, with real pros and cons for each pick.";
 export const mainKeyword = "blink whole home security camera bundle";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

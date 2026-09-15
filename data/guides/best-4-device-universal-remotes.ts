@@ -1,7 +1,7 @@
 export const guideSlug = "best-4-device-universal-remotes";
 export const guideTitle = "Best 4-Device Universal Remotes (2026)";
 export const metaTitle = "Best 4-Device Universal Remotes (2026): 4 Picks Compared";
-export const metaDescription = "The best 4-device universal remotes for 2026.";
+export const metaDescription = "The best 4-device universal remotes for 2026, weighing 4 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "ge 4 device universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

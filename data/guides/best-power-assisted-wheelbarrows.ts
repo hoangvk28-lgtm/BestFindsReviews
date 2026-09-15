@@ -1,7 +1,7 @@
 export const guideSlug = "best-power-assisted-wheelbarrows";
 export const guideTitle = "Best Power-Assisted Wheelbarrows (2026)";
 export const metaTitle = "Best Power-Assisted Wheelbarrows (2026): 5 Top Picks";
-export const metaDescription = "The best power-assisted wheelbarrows compared, models that add electric drive to reduce pushing effort without the full hydraulic-dumping cost of a heavy-duty cart.";
+export const metaDescription = "The best power-assisted wheelbarrows compared, models that add electric drive to reduce pushing effort without the full hydraulic-dumping cost of a heavy-duty.";
 export const mainKeyword = "power-assisted wheelbarrow";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

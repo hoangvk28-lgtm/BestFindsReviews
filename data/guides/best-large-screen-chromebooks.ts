@@ -1,7 +1,7 @@
 export const guideSlug = "best-large-screen-chromebooks";
 export const guideTitle = "Best Large-Screen Chromebooks (2026)";
 export const metaTitle = "Best Large-Screen Chromebooks (2026): 5 Picks Compared";
-export const metaDescription = "The best large-screen Chromebooks for 2026, compared on display size and specs.";
+export const metaDescription = "The best large-screen Chromebooks for 2026, compared on display size and specs, covering 5 current picks and what to check before buying.";
 export const mainKeyword = "best large-screen chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

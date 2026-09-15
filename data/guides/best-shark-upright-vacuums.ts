@@ -1,7 +1,7 @@
 export const guideSlug = "best-shark-upright-vacuums";
 export const guideTitle = "Best Shark Upright Vacuums (2026)";
 export const metaTitle = "Best Shark Upright Vacuums (2026): 11 Picks Compared";
-export const metaDescription = "The best Shark upright vacuums for 2026, compared on suction, self-cleaning brush rolls, and price.";
+export const metaDescription = "The best Shark upright vacuums for 2026, compared on suction, self-cleaning brush rolls, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best shark upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

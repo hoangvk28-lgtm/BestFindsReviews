@@ -1,7 +1,7 @@
 export const guideSlug = "best-honeywell-smart-thermostats";
 export const guideTitle = "Best Honeywell Smart Thermostats (2026)";
 export const metaTitle = "Best Honeywell Smart Thermostats (2026): 7 Picks Compared";
-export const metaDescription = "The best Honeywell smart thermostats for 2026, compared on display type and HVAC compatibility.";
+export const metaDescription = "The best Honeywell smart thermostats for 2026, compared on display type and HVAC compatibility, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "honeywell smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

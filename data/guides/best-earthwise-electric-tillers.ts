@@ -1,7 +1,7 @@
 export const guideSlug = "best-earthwise-electric-tillers";
 export const guideTitle = "Best Earthwise Electric Tillers (2026)";
 export const metaTitle = "Best Earthwise Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best Earthwise electric tillers, compared on corded and cordless models across sizes.";
+export const metaDescription = "The best Earthwise electric tillers, compared on corded and cordless models across sizes, covering 5 current picks and what to check before buying.";
 export const mainKeyword = "earthwise electric tiller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

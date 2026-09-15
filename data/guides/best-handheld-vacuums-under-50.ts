@@ -1,7 +1,7 @@
 export const guideSlug = "best-handheld-vacuums-under-50";
 export const guideTitle = "Best Handheld Vacuums Under $50 (2026)";
 export const metaTitle = "Best Handheld Vacuums Under $50 (2026): Top Picks";
-export const metaDescription = "The best cordless handheld vacuums under $50, compared on suction power, battery life, and attachments.";
+export const metaDescription = "The best cordless handheld vacuums under $50, compared on suction power, battery life, and attachments, with real pros and cons for each pick.";
 export const mainKeyword = "best handheld vacuum under 50";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-04";

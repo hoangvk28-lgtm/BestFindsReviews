@@ -1,7 +1,7 @@
 export const guideSlug = "easiest-microwaves-to-clean";
 export const guideTitle = "Easiest Microwaves to Clean";
 export const metaTitle = "Easiest Microwaves to Clean (2026): Current Models and Buying Guide";
-export const metaDescription = "Easiest Microwaves to Clean compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Easiest Microwaves to Clean compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "easiest microwaves to clean";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

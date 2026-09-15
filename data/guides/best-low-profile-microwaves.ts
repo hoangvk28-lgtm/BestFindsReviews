@@ -1,7 +1,7 @@
 export const guideSlug = "best-low-profile-microwaves";
 export const guideTitle = "Best Low-Profile Microwaves";
 export const metaTitle = "Best Low-Profile Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Low-Profile Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Low-Profile Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "low-profile microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

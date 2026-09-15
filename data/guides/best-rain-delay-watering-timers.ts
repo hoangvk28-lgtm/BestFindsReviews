@@ -1,7 +1,7 @@
 export const guideSlug = "best-rain-delay-watering-timers";
 export const guideTitle = "Best Rain-Delay Watering Timers (2026)";
 export const metaTitle = "Best Rain-Delay Watering Timers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current watering timers with a rain delay feature so you can pick the right one.";
+export const metaDescription = "We compared five current watering timers with a rain delay feature so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "rain-delay watering timers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

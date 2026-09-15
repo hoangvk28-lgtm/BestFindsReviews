@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-handled-grout-cleaning-tools";
 export const guideTitle = "Best Long-Handled Grout Cleaning Tools (2026)";
 export const metaTitle = "Best Long-Handled Grout Cleaning Tools (2026)";
-export const metaDescription = "The best long-handled grout cleaning tools compared, from V-shaped crevice brushes to heavy-duty stiff-bristle designs, based on real handle length and bristle shape.";
+export const metaDescription = "The best long-handled grout cleaning tools compared, from V-shaped crevice brushes to heavy-duty stiff-bristle designs, based on real handle length.";
 export const mainKeyword = "grout cleaning brush long handle";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

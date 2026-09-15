@@ -1,7 +1,7 @@
 export const guideSlug = "best-midland-emergency-radios";
 export const guideTitle = "Best Midland Emergency Radios (2026)";
 export const metaTitle = "Best Midland Emergency Radios (2026): 5 Picks Compared";
-export const metaDescription = "The best Midland emergency radios for 2026, compared on features and reliability.";
+export const metaDescription = "The best Midland emergency radios for 2026, compared on features and reliability, weighing 5 current models on the specs and details that matter.";
 export const mainKeyword = "midland emergency radio er310";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

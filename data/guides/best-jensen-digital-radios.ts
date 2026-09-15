@@ -1,7 +1,7 @@
 export const guideSlug = "best-jensen-digital-radios";
 export const guideTitle = "Best Jensen Digital Radios (2026)";
 export const metaTitle = "Best Jensen Digital Radios (2026): 5 Picks Compared";
-export const metaDescription = "The best Jensen digital radios for 2026, compared on portability and features.";
+export const metaDescription = "The best Jensen digital radios for 2026, compared on portability and features, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "jensen portable am fm digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-medical-alert-systems-for-seniors";
 export const guideTitle = "Best Medical Alert Systems for Seniors (2026)";
 export const metaTitle = "Best Medical Alert Systems for Seniors (2026): 7 Picks Compared";
-export const metaDescription = "The best medical alert systems for seniors in 2026, compared on response time, fall detection, and coverage type.";
+export const metaDescription = "The best medical alert systems for seniors in 2026, compared on response time, fall detection, and coverage type, with real pros and cons for each pick.";
 export const mainKeyword = "best medical alert systems for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

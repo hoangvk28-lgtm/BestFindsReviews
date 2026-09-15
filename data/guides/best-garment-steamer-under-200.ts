@@ -1,7 +1,7 @@
 export const guideSlug = "best-garment-steamer-under-200";
 export const guideTitle = "Best Garment Steamer Under $200 (2026)";
 export const metaTitle = "Best Garment Steamer Under $200 (2026): 8 Picks Compared";
-export const metaDescription = "Same honest note as our $150 guide: the verified garment steamer pool tops out well under $200. Here's what's actually available and worth buying at this budget.";
+export const metaDescription = "Same honest note as our $150 guide: the verified garment steamer pool tops out well under $200. Here's what's actually available and worth buying.";
 export const mainKeyword = "best garment steamer under $200";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

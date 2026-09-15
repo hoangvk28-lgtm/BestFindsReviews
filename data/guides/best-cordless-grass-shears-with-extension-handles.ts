@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-grass-shears-with-extension-handles";
 export const guideTitle = "Best Cordless Grass Shears With Extension Handles (2026)";
 export const metaTitle = "Best Cordless Grass Shears With Extension Handles (2026): 4 Picks";
-export const metaDescription = "We compared four current cordless grass shears with pole or extension handles for standing, bend-free trimming.";
+export const metaDescription = "We compared four current cordless grass shears with pole or extension handles for standing, bend-free trimming, with real pros and cons for each pick.";
 export const mainKeyword = "best cordless grass shears with extension handle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

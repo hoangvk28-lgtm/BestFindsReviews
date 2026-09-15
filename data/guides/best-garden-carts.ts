@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-carts";
 export const guideTitle = "Best Garden Carts (2026)";
 export const metaTitle = "Best Garden Carts (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current garden carts and wagons on real loaded capacity, wheel and tire construction, and dump/unload effort so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current garden carts and wagons on real loaded capacity, wheel and tire construction, and dump/unload effort so you can pick the right one.";
 export const mainKeyword = "garden carts and wagons";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

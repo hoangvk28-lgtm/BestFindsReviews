@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-for-samsung-tvs";
 export const guideTitle = "Best Universal Remotes for Samsung TVs (2026)";
 export const metaTitle = "Best Universal Remotes for Samsung TVs (2026): 4 Picks Compared";
-export const metaDescription = "The best universal remotes for Samsung TVs in 2026.";
+export const metaDescription = "The best universal remotes for Samsung TVs in 2026, with honest pros and cons for each of the 4 picks so you can choose with confidence.";
 export const mainKeyword = "samsung tv universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

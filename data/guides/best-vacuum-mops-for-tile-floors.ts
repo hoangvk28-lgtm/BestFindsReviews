@@ -1,7 +1,7 @@
 export const guideSlug = "best-vacuum-mops-for-tile-floors";
 export const guideTitle = "Best Vacuum Mops for Tile Floors (2026)";
 export const metaTitle = "Best Vacuum Mops for Tile Floors (2026): 8 Picks Compared";
-export const metaDescription = "The best vacuum mops for tile floors in 2026, compared on grout-line suction, water volume, and price.";
+export const metaDescription = "The best vacuum mops for tile floors in 2026, compared on grout-line suction, water volume, and price, covering 8 current picks and what to check before buying.";
 export const mainKeyword = "best vacuum mops for tile floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

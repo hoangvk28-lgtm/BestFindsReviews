@@ -1,7 +1,7 @@
 export const guideSlug = "best-bluetooth-landline-phones";
 export const guideTitle = "Best Bluetooth Landline Phones (2026)";
 export const metaTitle = "Best Bluetooth Landline Phones (2026): 3 Picks Compared";
-export const metaDescription = "The best Bluetooth-enabled landline phones for 2026, compared on cell connectivity and features.";
+export const metaDescription = "The best Bluetooth-enabled landline phones for 2026, compared on cell connectivity and features, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "landline phone bluetooth";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-8-cup-coffee-makers";
 export const guideTitle = "Best 8-Cup Coffee Makers";
 export const metaTitle = "Best 8-Cup Coffee Makers (2026): 2 Genuine Models Compared";
-export const metaDescription =
-  "We researched current 8-cup drip coffee makers and found genuinely 8-cup-specific models are rare on Amazon. Here are the two we could verify, plus what to buy instead.";
+export const metaDescription = "We researched current 8-cup drip coffee makers and found genuinely 8-cup-specific models are rare on Amazon. Here are the two we could verify.";
 export const mainKeyword = "8 cup coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

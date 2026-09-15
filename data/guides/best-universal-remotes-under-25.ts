@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-under-25";
 export const guideTitle = "Best Universal Remotes Under $25 (2026)";
 export const metaTitle = "Best Universal Remotes Under $25 (2026): Top Picks";
-export const metaDescription = "The best universal TV remotes under $25, compared on brand compatibility, setup ease, and button layout.";
+export const metaDescription = "The best universal TV remotes under $25, compared on brand compatibility, setup ease, and button layout, with real pros and cons for each pick.";
 export const mainKeyword = "best universal remote under 25";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-09-04";

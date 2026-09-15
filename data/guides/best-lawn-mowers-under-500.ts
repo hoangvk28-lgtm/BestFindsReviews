@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-mowers-under-500";
 export const guideTitle = "Best Lawn Mowers Under $500";
 export const metaTitle = "Best Lawn Mowers Under $500 (2026): 6 Models Compared";
-export const metaDescription = "Best Lawn Mowers Under $500 compared by power source, deck width, propulsion, complete ownership cost, and real buyer ratings so you can shop by budget without guessing.";
+export const metaDescription = "Best Lawn Mowers Under $500 compared by power source, deck width, propulsion, complete ownership cost, and real buyer ratings so you can shop by budget.";
 export const mainKeyword = "lawn mowers under 500";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

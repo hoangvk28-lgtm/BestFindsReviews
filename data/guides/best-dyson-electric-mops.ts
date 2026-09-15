@@ -1,7 +1,7 @@
 export const guideSlug = "best-dyson-electric-mops";
 export const guideTitle = "Best Dyson Electric Mops (2026)";
 export const metaTitle = "Best Dyson Electric Mops (2026): 4 Options Compared";
-export const metaDescription = "Dyson's WashG1-style products are dedicated wet floor cleaners, not vacuums. We break down Dyson's current mop lineup honestly, including the V15s hybrid and a third-party attachment.";
+export const metaDescription = "Dyson's WashG1-style products are dedicated wet floor cleaners, not vacuums. We break down Dyson's current mop lineup honestly.";
 export const mainKeyword = "dyson electric mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-14";

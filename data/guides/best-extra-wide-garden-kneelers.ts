@@ -1,7 +1,7 @@
 export const guideSlug = "best-extra-wide-garden-kneelers";
 export const guideTitle = "Best Extra-Wide Garden Kneelers (2026)";
 export const metaTitle = "Best Extra-Wide Garden Kneelers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current extra-wide garden kneelers so you can pick the right one.";
+export const metaDescription = "We compared five current extra-wide garden kneelers so you can pick the right one, with a full side-by-side breakdown of 5 options and verified buyer feedback.";
 export const mainKeyword = "extra wide garden kneeler";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

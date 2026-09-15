@@ -1,7 +1,7 @@
 export const guideSlug = "best-tow-behind-lawn-sweepers";
 export const guideTitle = "Best Tow-Behind Lawn Sweepers (2026)";
 export const metaTitle = "Best Tow-Behind Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best tow-behind lawn sweepers for riding mowers and tractors, compared on hopper capacity and dump control.";
+export const metaDescription = "The best tow-behind lawn sweepers for riding mowers and tractors, compared on hopper capacity and dump control, with real pros and cons for each pick.";
 export const mainKeyword = "tow behind lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

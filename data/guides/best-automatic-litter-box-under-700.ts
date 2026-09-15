@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-litter-box-under-700";
 export const guideTitle = "Best Automatic Litter Box Under $700 (2026)";
 export const metaTitle = "Best Automatic Litter Box Under $700 (2026): 7 Picks Compared";
-export const metaDescription = "This is the ceiling where brand-name automatic litter boxes like Litter-Robot EVO become realistic without stretching into flagship bundle pricing. Here's what's actually worth it at this budget.";
+export const metaDescription = "This is the ceiling where brand-name automatic litter boxes like Litter-Robot EVO become realistic without stretching into flagship bundle pricing.";
 export const mainKeyword = "best automatic litter box under $700";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

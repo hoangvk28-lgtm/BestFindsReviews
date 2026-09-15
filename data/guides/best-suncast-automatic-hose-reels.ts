@@ -1,7 +1,7 @@
 export const guideSlug = "best-suncast-automatic-hose-reels";
 export const guideTitle = "Best Suncast Automatic Hose Reels (2026)";
 export const metaTitle = "Best Suncast Automatic Hose Reels (2026): Top Picks";
-export const metaDescription = "The best Suncast automatic hose reels, compared on capacity, hideaway design, and mounting style.";
+export const metaDescription = "The best Suncast automatic hose reels, compared on capacity, hideaway design, and mounting style, with real pros and cons for each pick.";
 export const mainKeyword = "suncast automatic hose reel";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-plastic-free-coffee-makers";
 export const guideTitle = "Best Plastic-Free Coffee Makers";
 export const metaTitle = "Best Plastic-Free Coffee Makers (2026): 4 Models Verified";
-export const metaDescription =
-  "We traced the actual water path on four current coffee makers and labeled each fully plastic-free, no-plastic-in-water-path, or unverified, instead of using the term loosely.";
+export const metaDescription = "We traced the actual water path on four current coffee makers and labeled each fully plastic-free, no-plastic-in-water-path, or unverified.";
 export const mainKeyword = "coffee makers plastic free";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

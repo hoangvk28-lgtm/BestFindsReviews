@@ -1,7 +1,7 @@
 export const guideSlug = "best-air-purifier-under-100";
 export const guideTitle = "Best Air Purifier Under $100 (2026)";
 export const metaTitle = "Best Air Purifier Under $100 (2026): 5 Picks Compared";
-export const metaDescription = "We checked live pricing and True HEPA filtration specs to find the most credible air purifiers under $100, a thinner field than pricier tiers, but with real standouts.";
+export const metaDescription = "We checked live pricing and True HEPA filtration specs to find the most credible air purifiers under $100, a thinner field than pricier tiers.";
 export const mainKeyword = "best air purifier under $100";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

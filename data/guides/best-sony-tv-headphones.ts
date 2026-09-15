@@ -1,7 +1,7 @@
 export const guideSlug = "best-sony-tv-headphones";
 export const guideTitle = "Best Headphones for Sony TVs (2026)";
 export const metaTitle = "Best Headphones for Sony TVs (2026): Compatibility Verified";
-export const metaDescription = "This is a compatibility guide, not a roundup of headphones Sony manufactures for TVs. We verify Bluetooth audio support and note fallback options by TV generation.";
+export const metaDescription = "This is a compatibility guide, not a roundup of headphones Sony manufactures for TVs. We verify Bluetooth audio support and note fallback options by TV.";
 export const mainKeyword = "sony tv headphones";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

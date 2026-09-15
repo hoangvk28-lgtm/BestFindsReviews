@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-window-cleaners-for-showers";
 export const guideTitle = "Best Electric Window Cleaners for Showers (2026)";
 export const metaTitle = "Best Electric Window Cleaners for Showers (2026): Glass Door Squeegees";
-export const metaDescription = "We compare current electric window vacuum squeegees specifically named for shower glass and bathroom use.";
+export const metaDescription = "We compare current electric window vacuum squeegees specifically named for shower glass and bathroom use, with real pros and cons for each pick.";
 export const mainKeyword = "electric window cleaners for showers";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-17";

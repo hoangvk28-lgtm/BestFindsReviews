@@ -1,7 +1,7 @@
 export const guideSlug = "best-upright-vacuums-for-seniors";
 export const guideTitle = "Best Upright Vacuums for Seniors (2026)";
 export const metaTitle = "Best Upright Vacuums for Seniors (2026): 8 Picks Compared";
-export const metaDescription = "The best upright vacuums for seniors in 2026, compared on weight, ease of use, and price.";
+export const metaDescription = "The best upright vacuums for seniors in 2026, compared on weight, ease of use, and price, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "best upright vacuums for seniors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

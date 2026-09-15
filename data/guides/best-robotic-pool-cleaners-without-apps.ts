@@ -1,7 +1,7 @@
 export const guideSlug = "best-robotic-pool-cleaners-without-apps";
 export const guideTitle = "Best Robotic Pool Cleaners Without Apps (2026)";
 export const metaTitle = "Best Robotic Pool Cleaners Without Apps (2026): 6 Top Picks";
-export const metaDescription = "The best robotic pool cleaners without app requirements compared, for buyers who want straightforward, hands-on operation without Wi-Fi setup or a companion app.";
+export const metaDescription = "The best robotic pool cleaners without app requirements compared, for buyers who want straightforward, hands-on operation without Wi-Fi setup or a companion.";
 export const mainKeyword = "robotic pool cleaner without app";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

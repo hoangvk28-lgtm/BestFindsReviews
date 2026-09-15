@@ -1,7 +1,7 @@
 export const guideSlug = "best-retrofit-smart-locks";
 export const guideTitle = "Best Retrofit Smart Locks (2026)";
 export const metaTitle = "Best Retrofit Smart Locks (2026): 5 Picks Compared";
-export const metaDescription = "The best retrofit smart locks for 2026, compared on installation ease and keeping existing hardware.";
+export const metaDescription = "The best retrofit smart locks for 2026, compared on installation ease and keeping existing hardware, with real pros and cons for each pick.";
 export const mainKeyword = "retrofit smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

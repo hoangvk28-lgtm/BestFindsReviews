@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-pruning-shears-for-seniors";
 export const guideTitle = "Best Electric Pruning Shears for Seniors (2026)";
 export const metaTitle = "Best Electric Pruning Shears for Seniors (2026): 7 Models Compared";
-export const metaDescription = "We compared seven current electric pruning shears on weight, trigger effort, and safety features so you can pick the right one for limited grip strength without guessing.";
+export const metaDescription = "We compared seven current electric pruning shears on weight, trigger effort, and safety features so you can pick the right one for limited grip strength.";
 export const mainKeyword = "electric pruning shears for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

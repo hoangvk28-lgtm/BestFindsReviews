@@ -1,7 +1,7 @@
 export const guideSlug = "best-shark-wet-dry-vacuums";
 export const guideTitle = "Best Shark Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Shark Wet-Dry Vacuums (2026): 5 Picks Compared";
-export const metaDescription = "The best Shark wet-dry vacuums for 2026, compared on suction, portability, and price.";
+export const metaDescription = "The best Shark wet-dry vacuums for 2026, compared on suction, portability, and price, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "best shark wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

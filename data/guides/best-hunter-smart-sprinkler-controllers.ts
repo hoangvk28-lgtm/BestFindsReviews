@@ -1,7 +1,7 @@
 export const guideSlug = "best-hunter-smart-sprinkler-controllers";
 export const guideTitle = "Best Hunter Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best Hunter Smart Sprinkler Controllers (2026): Top Picks";
-export const metaDescription = "The best Hunter smart sprinkler controllers with Hydrawise, compared on zone count and weather-based scheduling.";
+export const metaDescription = "The best Hunter smart sprinkler controllers with Hydrawise, compared on zone count and weather-based scheduling, with real pros and cons for each pick.";
 export const mainKeyword = "wifi sprinkler controller hunter";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

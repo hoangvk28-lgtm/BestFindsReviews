@@ -1,7 +1,7 @@
 export const guideSlug = "best-hose-nozzles";
 export const guideTitle = "Best Hose Nozzles (2026)";
 export const metaTitle = "Best Hose Nozzles (2026)";
-export const metaDescription = "The best hose nozzles compared, all-metal trigger and thumb-control sprayers with a useful shower and jet, based on real build, control effort, and spray patterns.";
+export const metaDescription = "The best hose nozzles compared, all-metal trigger and thumb-control sprayers with a useful shower and jet, based on real build, control effort.";
 export const mainKeyword = "hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

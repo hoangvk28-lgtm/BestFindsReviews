@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-with-grinders";
 export const guideTitle = "Best Coffee Makers With Grinders";
 export const metaTitle = "Best Coffee Makers With Grinders (2026): 3 Models Compared";
-export const metaDescription =
-  "We compared three current grind-and-brew coffee makers on grind retention, bean-change contamination, and whether a separate standalone grinder and simple brewer is the smarter buy.";
+export const metaDescription = "We compared three current grind-and-brew coffee makers on grind retention, bean-change contamination, and whether a separate standalone grinder and simple.";
 export const mainKeyword = "coffee makers with grinder";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

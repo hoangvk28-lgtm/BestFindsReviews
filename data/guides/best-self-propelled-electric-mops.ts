@@ -1,7 +1,7 @@
 export const guideSlug = "best-self-propelled-electric-mops";
 export const guideTitle = "Best Self-Propelled Electric Mops (2026)";
 export const metaTitle = "Best Self-Propelled Electric Mops (2026): 7 Models Compared";
-export const metaDescription = "We compared seven current self-propelled electric mops and distinguish genuine motorized propulsion from powered spinning pads that aren't actually self-propelling.";
+export const metaDescription = "We compared seven current self-propelled electric mops and distinguish genuine motorized propulsion from powered spinning pads that aren't actually.";
 export const mainKeyword = "self-propelled electric mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-14";

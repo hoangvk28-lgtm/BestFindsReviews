@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-sprayers-for-weed-killer";
 export const guideTitle = "Best Garden Sprayers for Weed Killer (2026)";
 export const metaTitle = "Best Garden Sprayers for Weed Killer (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current garden sprayers well suited to herbicide application so you can pick the right one.";
+export const metaDescription = "We compared five current garden sprayers well suited to herbicide application so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "garden sprayers for weed killer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

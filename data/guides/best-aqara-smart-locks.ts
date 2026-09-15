@@ -1,7 +1,7 @@
 export const guideSlug = "best-aqara-smart-locks";
 export const guideTitle = "Best Aqara Smart Locks (2026)";
 export const metaTitle = "Best Aqara Smart Locks (2026): 5 Picks Compared";
-export const metaDescription = "The best Aqara smart locks for 2026, compared on Apple Home Key and UWB features.";
+export const metaDescription = "The best Aqara smart locks for 2026, compared on Apple Home Key and UWB features, with real pros and cons for each pick.";
 export const mainKeyword = "aqara smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

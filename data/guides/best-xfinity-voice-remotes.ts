@@ -1,7 +1,7 @@
 export const guideSlug = "best-xfinity-voice-remotes";
 export const guideTitle = "Best Xfinity Voice Remotes (2026)";
 export const metaTitle = "Best Xfinity Voice Remotes (2026): 7 Picks Compared";
-export const metaDescription = "The best Xfinity voice remotes for 2026, compared on compatibility, backlighting, and price.";
+export const metaDescription = "The best Xfinity voice remotes for 2026, compared on compatibility, backlighting, and price, weighing 7 current models on the specs and details that matter.";
 export const mainKeyword = "best xfinity voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

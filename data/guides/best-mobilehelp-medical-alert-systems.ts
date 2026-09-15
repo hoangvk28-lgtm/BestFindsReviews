@@ -1,7 +1,7 @@
 export const guideSlug = "best-mobilehelp-medical-alert-systems";
 export const guideTitle = "Best MobileHelp Medical Alert Systems (2026)";
 export const metaTitle = "Best MobileHelp Medical Alert Systems (2026): 4 Picks Compared";
-export const metaDescription = "The best MobileHelp devices for 2026, compared on coverage type and features.";
+export const metaDescription = "The best MobileHelp devices for 2026, compared on coverage type and features, based on 4 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "best mobilehelp medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

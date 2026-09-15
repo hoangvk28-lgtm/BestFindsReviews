@@ -1,8 +1,7 @@
 export const guideSlug = "best-cuisinart-coffee-makers";
 export const guideTitle = "Best Cuisinart Coffee Makers";
 export const metaTitle = "Reviews on Cuisinart Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current Cuisinart models on real brewed ounces versus marketed cup count, small-batch quality, and whether self-clean alerts are worth the added cost.";
+export const metaDescription = "We compared four current Cuisinart models on real brewed ounces versus marketed cup count, small-batch quality, and whether self-clean alerts.";
 export const mainKeyword = "reviews on cuisinart coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

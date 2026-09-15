@@ -1,7 +1,7 @@
 export const guideSlug = "best-weather-emergency-radios";
 export const guideTitle = "Best Weather Emergency Radios (2026)";
 export const metaTitle = "Best Weather Emergency Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best weather emergency radios for 2026, compared on NOAA reception and alert features.";
+export const metaDescription = "The best weather emergency radios for 2026, compared on NOAA reception and alert features, based on 7 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "weather emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

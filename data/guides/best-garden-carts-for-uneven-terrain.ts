@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-carts-for-uneven-terrain";
 export const guideTitle = "Best Garden Carts for Uneven Terrain (2026)";
 export const metaTitle = "Best Garden Carts for Uneven Terrain (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current garden carts on tire construction, wheel size, and turning ability so you can pick the right one for roots, ruts, and gravel without guessing.";
+export const metaDescription = "We compared eight current garden carts on tire construction, wheel size, and turning ability so you can pick the right one for roots, ruts.";
 export const mainKeyword = "garden carts for uneven terrain";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

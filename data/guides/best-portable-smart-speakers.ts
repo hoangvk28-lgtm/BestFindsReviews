@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-smart-speakers";
 export const guideTitle = "Best Portable Smart Speakers (2026)";
 export const metaTitle = "Best Portable Smart Speakers (2026): Wi-Fi Smart vs. Bluetooth-Only Picks";
-export const metaDescription = "We distinguish genuine portable smart speakers with Wi-Fi and voice assistants from portable Bluetooth speakers without one, and compare two current Bluetooth picks.";
+export const metaDescription = "We distinguish genuine portable smart speakers with Wi-Fi and voice assistants from portable Bluetooth speakers without one.";
 export const mainKeyword = "best portable smart speakers";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

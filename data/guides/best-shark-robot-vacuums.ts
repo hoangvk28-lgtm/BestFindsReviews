@@ -1,8 +1,7 @@
 export const guideSlug = "best-shark-robot-vacuums";
 export const guideTitle = "Best Shark Robot Vacuums";
 export const metaTitle = "Best Shark Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current Shark robot vacuum models on navigation, self-empty docks, pet hair handling, and vacuum-only vs 2-in-1 mop systems so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current Shark robot vacuum models on navigation, self-empty docks, pet hair handling, and vacuum-only vs 2-in-1 mop systems.";
 export const mainKeyword = "shark robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-padded-garden-kneelers";
 export const guideTitle = "Best Padded Garden Kneelers (2026)";
 export const metaTitle = "Best Padded Garden Kneelers (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current padded garden kneeling pads and kneelers on thickness so you can pick the right one.";
+export const metaDescription = "We compared six current padded garden kneeling pads and kneelers on thickness so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "garden kneeler pad";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

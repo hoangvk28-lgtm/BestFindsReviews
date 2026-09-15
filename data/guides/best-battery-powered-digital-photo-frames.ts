@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-powered-digital-photo-frames";
 export const guideTitle = "Best Battery-Powered Digital Photo Frames (2026)";
 export const metaTitle = "Best Battery-Powered Digital Photo Frames (2026): Cordless Picks Compared";
-export const metaDescription = "We compare current battery-powered and rechargeable digital photo frames on runtime, charging method, and portability.";
+export const metaDescription = "We compare current battery-powered and rechargeable digital photo frames on runtime, charging method, and portability, with real pros and cons for each pick.";
 export const mainKeyword = "battery powered digital photo frames";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-17";

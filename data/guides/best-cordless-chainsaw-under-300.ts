@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-chainsaw-under-300";
 export const guideTitle = "Best Cordless Chainsaw Under $300 (2026)";
 export const metaTitle = "Best Cordless Chainsaw Under $300 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current cordless chainsaws priced under $300 on kit pricing, bar length, and battery capacity.";
+export const metaDescription = "We compare current cordless chainsaws priced under $300 on kit pricing, bar length, and battery capacity, with real pros and cons for each pick.";
 export const mainKeyword = "best cordless chainsaw under $300";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

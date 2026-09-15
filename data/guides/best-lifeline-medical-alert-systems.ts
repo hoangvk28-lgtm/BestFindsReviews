@@ -1,7 +1,7 @@
 export const guideSlug = "best-lifeline-medical-alert-systems";
 export const guideTitle = "Best Lifeline Medical Alert Systems (2026)";
 export const metaTitle = "Best Lifeline Medical Alert Systems (2026): Reviewed";
-export const metaDescription = "A look at Philips Lifeline's medical alert device for 2026, reviewed on features and coverage.";
+export const metaDescription = "A look at Philips Lifeline's medical alert device for 2026, reviewed on features and coverage, with real pros and cons for each pick.";
 export const mainKeyword = "best lifeline medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

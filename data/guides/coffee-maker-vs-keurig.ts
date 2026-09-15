@@ -1,8 +1,7 @@
 export const guideSlug = "coffee-maker-vs-keurig";
 export const guideTitle = "Coffee Maker vs Keurig";
 export const metaTitle = "Coffee Maker vs Keurig (2026): Which Should You Buy?";
-export const metaDescription =
-  "We compared two drip coffee makers and two Keurig pod machines on per-cup cost, cup-size temperature, descaling, and household fit to help you pick the right approach.";
+export const metaDescription = "We compared two drip coffee makers and two Keurig pod machines on per-cup cost, cup-size temperature, descaling, and household fit to help you pick the right.";
 export const mainKeyword = "coffee maker vs keurig";
 export const lastUpdated = "2026-08-04";
 export const readTime = "10 min";

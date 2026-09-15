@@ -1,7 +1,7 @@
 export const guideSlug = "best-professional-electric-pruning-shears";
 export const guideTitle = "Best Professional Electric Pruning Shears (2026)";
 export const metaTitle = "Best Professional Electric Pruning Shears (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current professional-grade electric pruning shears on duty cycle, cutting capacity, and blade serviceability so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current professional-grade electric pruning shears on duty cycle, cutting capacity, and blade serviceability so you can pick the right one.";
 export const mainKeyword = "professional electric pruning shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

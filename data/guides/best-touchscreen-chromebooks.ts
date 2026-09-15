@@ -1,7 +1,7 @@
 export const guideSlug = "best-touchscreen-chromebooks";
 export const guideTitle = "Best Touchscreen Chromebooks (2026)";
 export const metaTitle = "Best Touchscreen Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best touchscreen Chromebooks for 2026, compared on convertible design and specs.";
+export const metaDescription = "The best touchscreen Chromebooks for 2026, compared on convertible design and specs, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "best touchscreen chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

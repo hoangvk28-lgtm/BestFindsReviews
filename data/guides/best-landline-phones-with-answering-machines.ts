@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-phones-with-answering-machines";
 export const guideTitle = "Best Landline Phones With Answering Machines (2026)";
 export const metaTitle = "Best Landline Phones With Answering Machines (2026): 6 Picks Compared";
-export const metaDescription = "The best landline phones with built-in answering machines for 2026.";
+export const metaDescription = "The best landline phones with built-in answering machines for 2026, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "landline phone answering machine";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-for-sony-tvs";
 export const guideTitle = "Best Universal Remotes for Sony TVs (2026)";
 export const metaTitle = "Best Universal Remotes for Sony TVs (2026): 4 Picks Compared";
-export const metaDescription = "The best universal remotes for Sony TVs in 2026.";
+export const metaDescription = "The best universal remotes for Sony TVs in 2026, comparing 4 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "universal remote sony tv";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

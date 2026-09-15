@@ -1,7 +1,7 @@
 export const guideSlug = "best-google-nest-home-security-cameras";
 export const guideTitle = "Best Google Nest Home Security Cameras (2026)";
 export const metaTitle = "Best Google Nest Home Security Cameras (2026): 6 Picks Compared";
-export const metaDescription = "The best Google Nest home security cameras for 2026, compared on wired vs. battery design.";
+export const metaDescription = "The best Google Nest home security cameras for 2026, compared on wired vs. battery design, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "google home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-outdoor-video-intercom-systems";
 export const guideTitle = "Best Outdoor Video Intercom Systems (2026)";
 export const metaTitle = "Best Outdoor Video Intercom Systems (2026): 5 Picks Compared";
-export const metaDescription = "The best outdoor video intercom systems for 2026, compared on weatherproofing and durability.";
+export const metaDescription = "The best outdoor video intercom systems for 2026, compared on weatherproofing and durability, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "outdoor video intercom";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

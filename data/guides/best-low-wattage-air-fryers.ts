@@ -1,7 +1,7 @@
 export const guideSlug = "best-low-wattage-air-fryers";
 export const guideTitle = "Best Low-Wattage Air Fryers (2026)";
 export const metaTitle = "Best Low-Wattage Air Fryers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Low-Wattage Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Low-Wattage Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "low-wattage air fryers";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

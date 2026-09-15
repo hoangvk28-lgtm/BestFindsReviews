@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-large-homes";
 export const guideTitle = "Best Robot Vacuums for Large Homes";
 export const metaTitle = "Best Robot Vacuums for Large Homes (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on dustbin and water tank size, self-empty dock capacity, mapping limits, and recharge-and-resume behavior so you can pick one that actually keeps up with a bigger floor plan.";
+export const metaDescription = "We compared eight current robot vacuums on dustbin and water tank size, self-empty dock capacity, mapping limits, and recharge-and-resume behavior.";
 export const mainKeyword = "robot vacuums for large homes";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

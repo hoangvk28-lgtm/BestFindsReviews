@@ -1,7 +1,7 @@
 export const guideSlug = "best-upright-vacuums-under-100";
 export const guideTitle = "Best Upright Vacuums Under $100 (2026)";
 export const metaTitle = "Best Upright Vacuums Under $100 (2026): Top Picks";
-export const metaDescription = "The best upright vacuum cleaners under $100, compared on suction power, dust cup capacity, and pet hair performance.";
+export const metaDescription = "The best upright vacuum cleaners under $100, compared on suction power, dust cup capacity, and pet hair performance, with real pros and cons for each pick.";
 export const mainKeyword = "best upright vacuum under 100";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-04";

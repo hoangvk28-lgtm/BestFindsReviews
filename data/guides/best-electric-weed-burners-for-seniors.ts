@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-weed-burners-for-seniors";
 export const guideTitle = "Best Electric Weed Burners for Seniors (2026)";
 export const metaTitle = "Best Electric Weed Burners for Seniors (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current electric weed burners on handle comfort and ease of use for seniors.";
+export const metaDescription = "We compared four current electric weed burners on handle comfort and ease of use for seniors, with real pros and cons for each pick.";
 export const mainKeyword = "electric weed burners for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

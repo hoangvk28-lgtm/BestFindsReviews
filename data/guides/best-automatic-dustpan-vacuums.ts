@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-dustpan-vacuums";
 export const guideTitle = "Best Automatic Dustpan Vacuums (2026)";
 export const metaTitle = "Best Automatic Dustpan Vacuums (2026)";
-export const metaDescription = "The best automatic dustpan vacuums compared, plug-in touchless sweep vacuums from a fast salon-grade unit to a high-wattage value model, based on real suction and motor power.";
+export const metaDescription = "The best automatic dustpan vacuums compared, plug-in touchless sweep vacuums from a fast salon-grade unit to a high-wattage value model.";
 export const mainKeyword = "automatic dustpan vacuum";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-thermostats-with-large-displays";
 export const guideTitle = "Best Smart Thermostats With Large Displays (2026)";
 export const metaTitle = "Best Smart Thermostats With Large Displays (2026): 6 Picks Compared";
-export const metaDescription = "The best smart thermostats with large, easy-to-read displays for 2026.";
+export const metaDescription = "The best smart thermostats with large, easy-to-read displays for 2026, picked after comparing every current option in this category.";
 export const mainKeyword = "smart thermostats with large displays";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

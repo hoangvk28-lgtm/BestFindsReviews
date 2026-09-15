@@ -1,8 +1,7 @@
 export const guideSlug = "best-breville-coffee-makers";
 export const guideTitle = "Best Breville Coffee Makers";
 export const metaTitle = "Best Breville Coffee Makers (2026): Espresso and Drip Compared";
-export const metaDescription =
-  "Most Best Breville roundups blur espresso and drip machines together. We separate them explicitly, comparing three espresso machines and one drip brewer on their own terms.";
+export const metaDescription = "Most Best Breville roundups blur espresso and drip machines together. We separate them explicitly, comparing three espresso machines and one drip brewer.";
 export const mainKeyword = "breville coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "10 min";

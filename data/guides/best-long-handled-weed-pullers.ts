@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-handled-weed-pullers";
 export const guideTitle = "Best Long-Handled Weed Pullers (2026)";
 export const metaTitle = "Best Long-Handled Weed Pullers (2026)";
-export const metaDescription = "Best Long-Handled Weed Pullers compared by root-pulling completeness, soil impact, ergonomics, and real ownership cost. See real specs and prices before you buy.";
+export const metaDescription = "Best Long-Handled Weed Pullers compared by root-pulling completeness, soil impact, ergonomics, and real ownership cost. See real specs and prices.";
 export const mainKeyword = "Long-Handled Weed Pullers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-11";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-radios-with-cd-players";
 export const guideTitle = "Best Digital Radios With CD Players (2026)";
 export const metaTitle = "Best Digital Radios With CD Players (2026): 2 Picks Compared";
-export const metaDescription = "The best digital radios with built-in CD players for 2026.";
+export const metaDescription = "The best digital radios with built-in CD players for 2026, based on 2 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "cd player with digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

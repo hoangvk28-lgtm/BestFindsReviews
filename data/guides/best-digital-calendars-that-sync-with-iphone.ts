@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars-that-sync-with-iphone";
 export const guideTitle = "Best Digital Calendars That Sync With iPhone (2026)";
 export const metaTitle = "Best Digital Calendars That Sync With iPhone (2026): 6 Picks Compared";
-export const metaDescription = "The best digital calendars that sync with iPhone and iCloud calendar for 2026.";
+export const metaDescription = "The best digital calendars that sync with iPhone and iCloud calendar for 2026, with 6 current picks compared on real specs and pricing.";
 export const mainKeyword = "digital calendar that syncs with iphone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

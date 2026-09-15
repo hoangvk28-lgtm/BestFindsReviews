@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-wall-clocks-with-day-and-date";
 export const guideTitle = "Best Digital Wall Clocks With Day and Date (2026)";
 export const metaTitle = "Best Digital Wall Clocks With Day and Date (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current digital wall clocks on dedicated wall-mount hardware, cord visibility, and viewing angle, distinguishing wall-focused from dual-mount options.";
+export const metaDescription = "We compared eight current digital wall clocks on dedicated wall-mount hardware, cord visibility, and viewing angle, distinguishing wall-focused.";
 export const mainKeyword = "digital wall clocks with day and date";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

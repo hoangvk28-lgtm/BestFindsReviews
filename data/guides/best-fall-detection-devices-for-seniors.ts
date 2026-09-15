@@ -1,7 +1,7 @@
 export const guideSlug = "best-fall-detection-devices-for-seniors";
 export const guideTitle = "Best Fall Detection Devices for Seniors (2026)";
 export const metaTitle = "Best Fall Detection Devices for Seniors (2026): 8 Picks Compared";
-export const metaDescription = "The best fall detection devices for seniors in 2026, compared on ease of use, comfort, and monitoring type.";
+export const metaDescription = "The best fall detection devices for seniors in 2026, compared on ease of use, comfort, and monitoring type, with real pros and cons for each pick.";
 export const mainKeyword = "best fall detection devices for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

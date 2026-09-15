@@ -1,7 +1,7 @@
 export const guideSlug = "best-fall-detection-devices-without-monthly-fees";
 export const guideTitle = "Best Fall Detection Devices Without Monthly Fees (2026)";
 export const metaTitle = "Best Fall Detection Devices Without Monthly Fees (2026): 7 Picks Compared";
-export const metaDescription = "The best fall detection devices with no ongoing subscription for 2026, compared on notification type and reliability.";
+export const metaDescription = "The best fall detection devices with no ongoing subscription for 2026, compared on notification type and reliability, with real pros and cons for each pick.";
 export const mainKeyword = "best fall detection devices without monthly fees";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

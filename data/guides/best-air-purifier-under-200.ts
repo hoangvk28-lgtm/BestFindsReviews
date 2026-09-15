@@ -1,7 +1,7 @@
 export const guideSlug = "best-air-purifier-under-200";
 export const guideTitle = "Best Air Purifier Under $200 (2026)";
 export const metaTitle = "Best Air Purifier Under $200 (2026): 6 Picks Compared";
-export const metaDescription = "At $200 you unlock Levoit's Vital line and Winix's app-connected large-room models. We checked live pricing to see what's genuinely worth the step up from budget purifiers.";
+export const metaDescription = "At $200 you unlock Levoit's Vital line and Winix's app-connected large-room models. We checked live pricing to see what's genuinely worth the step up.";
 export const mainKeyword = "best air purifier under $200";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

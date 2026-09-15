@@ -1,7 +1,7 @@
 export const guideSlug = "best-commercial-canister-vacuums";
 export const guideTitle = "Best Commercial Canister Vacuums (2026)";
 export const metaTitle = "Best Commercial Canister Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best commercial-grade canister vacuums for 2026, compared on durability, suction, and price.";
+export const metaDescription = "The best commercial-grade canister vacuums for 2026, compared on durability, suction, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best commercial canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-emergency-radios-for-seniors";
 export const guideTitle = "Best Emergency Radios for Seniors (2026)";
 export const metaTitle = "Best Emergency Radios for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best emergency radios for seniors in 2026, compared on ease of use and reliability.";
+export const metaDescription = "The best emergency radios for seniors in 2026, compared on ease of use and reliability, with real pros and cons for each pick.";
 export const mainKeyword = "emergency radios for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

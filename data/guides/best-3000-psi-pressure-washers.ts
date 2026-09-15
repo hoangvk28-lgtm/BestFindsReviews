@@ -1,7 +1,7 @@
 export const guideSlug = "best-3000-psi-pressure-washers";
 export const guideTitle = "Best 3000 PSI Pressure Washers (2026)";
 export const metaTitle = "Best 3000 PSI Pressure Washers (2026): 5 Top Picks";
-export const metaDescription = "The best 3000 PSI pressure washers compared across electric and gas options, a genuine sweet spot for driveways, decks, and siding without commercial-grade cost.";
+export const metaDescription = "The best 3000 PSI pressure washers compared across electric and gas options, a genuine sweet spot for driveways, decks, and siding without commercial-grade.";
 export const mainKeyword = "3000 PSI pressure washer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

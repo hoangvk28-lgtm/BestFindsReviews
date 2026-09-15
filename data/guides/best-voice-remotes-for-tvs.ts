@@ -1,7 +1,7 @@
 export const guideSlug = "best-voice-remotes-for-tvs";
 export const guideTitle = "Best Voice Remotes for TVs (2026)";
 export const metaTitle = "Best Voice Remotes for TVs (2026): 7 Picks Compared";
-export const metaDescription = "The best voice remotes for TVs in 2026 across every major brand, compared on features and compatibility.";
+export const metaDescription = "The best voice remotes for TVs in 2026 across every major brand, compared on features and compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best voice remotes for tvs";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

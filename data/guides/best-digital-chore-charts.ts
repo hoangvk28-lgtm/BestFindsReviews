@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-chore-charts";
 export const guideTitle = "Best Digital Chore Charts (2026)";
 export const metaTitle = "Best Digital Chore Charts (2026): 6 Picks Compared";
-export const metaDescription = "The best digital chore charts for 2026, compared on kid-friendliness and calendar integration.";
+export const metaDescription = "The best digital chore charts for 2026, compared on kid-friendliness and calendar integration, with real pros and cons for each pick.";
 export const mainKeyword = "digital chore chart";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

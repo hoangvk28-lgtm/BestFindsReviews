@@ -1,7 +1,7 @@
 export const guideSlug = "best-indoor-home-security-cameras";
 export const guideTitle = "Best Indoor Home Security Cameras (2026)";
 export const metaTitle = "Best Indoor Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best indoor home security cameras for 2026, compared on pan-tilt coverage and privacy features.";
+export const metaDescription = "The best indoor home security cameras for 2026, compared on pan-tilt coverage and privacy features, with real pros and cons for each pick.";
 export const mainKeyword = "home security camera indoor";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

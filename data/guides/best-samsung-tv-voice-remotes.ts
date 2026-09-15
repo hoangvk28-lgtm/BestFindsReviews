@@ -1,7 +1,7 @@
 export const guideSlug = "best-samsung-tv-voice-remotes";
 export const guideTitle = "Best Samsung TV Voice Remotes (2026)";
 export const metaTitle = "Best Samsung TV Voice Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best Samsung TV voice remotes for 2026, compared on charging type and compatibility.";
+export const metaDescription = "The best Samsung TV voice remotes for 2026, compared on charging type and compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best samsung tv voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

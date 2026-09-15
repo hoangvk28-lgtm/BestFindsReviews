@@ -1,7 +1,7 @@
 export const guideSlug = "best-chromebooks-with-keyboards-for-seniors";
 export const guideTitle = "Best Chromebooks With Keyboards for Seniors (2026)";
 export const metaTitle = "Best Chromebooks With Keyboards for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best Chromebooks with comfortable keyboards for seniors in 2026, compared on typing feel and reliability.";
+export const metaDescription = "The best Chromebooks with comfortable keyboards for seniors in 2026, compared on typing feel and reliability, with real pros and cons for each pick.";
 export const mainKeyword = "best chromebooks with keyboards for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

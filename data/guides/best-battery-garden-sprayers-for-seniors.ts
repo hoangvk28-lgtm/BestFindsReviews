@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-garden-sprayers-for-seniors";
 export const guideTitle = "Best Battery Garden Sprayers for Seniors (2026)";
 export const metaTitle = "Best Battery Garden Sprayers for Seniors (2026)";
-export const metaDescription = "The best lightweight battery garden sprayers for seniors, compared on weight and ease of use.";
+export const metaDescription = "The best lightweight battery garden sprayers for seniors, compared on weight and ease of use, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "battery garden sprayers for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

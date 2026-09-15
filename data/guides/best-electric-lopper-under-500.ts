@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-lopper-under-500";
 export const guideTitle = "Best Electric Lopper Under $500 (2026)";
 export const metaTitle = "Best Electric Lopper Under $500 (2026): 7 Picks Compared";
-export const metaDescription = "We compare current electric loppers priced under $500 on cutting mechanism, branch capacity, and safety.";
+export const metaDescription = "We compare current electric loppers priced under $500 on cutting mechanism, branch capacity, and safety, with real pros and cons for each pick.";
 export const mainKeyword = "best electric lopper under $500";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

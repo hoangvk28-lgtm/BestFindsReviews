@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-digital-radios";
 export const guideTitle = "Best Portable Digital Radios (2026)";
 export const metaTitle = "Best Portable Digital Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best portable digital radios for 2026, compared on battery life and reception.";
+export const metaDescription = "The best portable digital radios for 2026, compared on battery life and reception, based on 7 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "digital radio portable";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

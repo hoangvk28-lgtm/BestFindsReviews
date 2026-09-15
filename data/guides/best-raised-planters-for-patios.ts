@@ -1,7 +1,7 @@
 export const guideSlug = "best-raised-planters-for-patios";
 export const guideTitle = "Best Raised Planters for Patios (2026)";
 export const metaTitle = "Best Raised Planters for Patios (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current raised planters well suited to patio placement.";
+export const metaDescription = "We compared six current raised planters well suited to patio placement, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "raised planter for patio";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-range-wireless-doorbells";
 export const guideTitle = "Best Long-Range Wireless Doorbells (2026)";
 export const metaTitle = "Best Long-Range Wireless Doorbells (2026): 7 Picks Compared";
-export const metaDescription = "The best long-range wireless doorbells for 2026, compared on actual signal reliability.";
+export const metaDescription = "The best long-range wireless doorbells for 2026, compared on actual signal reliability, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "long range wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-hose-nozzles-for-watering-plants";
 export const guideTitle = "Best Hose Nozzles for Watering Plants (2026)";
 export const metaTitle = "Best Hose Nozzles for Watering Plants (2026)";
-export const metaDescription = "The best hose nozzles for watering plants compared, gentle shower and breaker nozzles that soak roots without battering foliage, based on real spray softness and flow.";
+export const metaDescription = "The best hose nozzles for watering plants compared, gentle shower and breaker nozzles that soak roots without battering foliage.";
 export const mainKeyword = "hose nozzle for watering plants";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

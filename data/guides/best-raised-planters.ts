@@ -1,7 +1,7 @@
 export const guideSlug = "best-raised-planters";
 export const guideTitle = "Best Raised Planters (2026)";
 export const metaTitle = "Best Raised Planters (2026): 7 Picks Compared";
-export const metaDescription = "We compared seven current raised planters across materials and heights so you can pick the right one.";
+export const metaDescription = "We compared seven current raised planters across materials and heights so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "raised planter";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

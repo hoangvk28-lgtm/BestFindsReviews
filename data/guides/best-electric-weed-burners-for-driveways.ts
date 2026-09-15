@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-weed-burners-for-driveways";
 export const guideTitle = "Best Electric Weed Burners for Driveways (2026)";
 export const metaTitle = "Best Electric Weed Burners for Driveways (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current electric weed burners built for driveway and patio weed control so you can pick the right one.";
+export const metaDescription = "We compared five current electric weed burners built for driveway and patio weed control so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "electric weed burners for driveways";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

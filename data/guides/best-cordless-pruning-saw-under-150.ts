@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-pruning-saw-under-150";
 export const guideTitle = "Best Cordless Pruning Saw Under $150 (2026)";
 export const metaTitle = "Best Cordless Pruning Saw Under $150 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current cordless pruning saws priced under $150 on cutting architecture, safety, and battery kit pricing.";
+export const metaDescription = "We compare current cordless pruning saws priced under $150 on cutting architecture, safety, and battery kit pricing, with real pros and cons for each pick.";
 export const mainKeyword = "best cordless pruning saw under $150";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

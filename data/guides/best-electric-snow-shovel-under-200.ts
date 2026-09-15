@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-snow-shovel-under-200";
 export const guideTitle = "Best Electric Snow Shovel Under $200 (2026)";
 export const metaTitle = "Best Electric Snow Shovel Under $200 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current electric snow shovels priced under $200 on clearing width, weight, and throw behavior.";
+export const metaDescription = "We compare current electric snow shovels priced under $200 on clearing width, weight, and throw behavior, with real pros and cons for each pick.";
 export const mainKeyword = "best electric snow shovel under $200";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

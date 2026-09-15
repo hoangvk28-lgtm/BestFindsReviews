@@ -1,8 +1,7 @@
 export const guideSlug = "best-roborock-robot-vacuums";
 export const guideTitle = "Best Roborock Robot Vacuums";
 export const metaTitle = "Best Roborock Robot Vacuums (2026): 7 Models Compared";
-export const metaDescription =
-  "We compared seven current Roborock models across the Q, Qrevo, and Saros series on suction power, navigation type, and dock features so you can pick the right tier without overpaying.";
+export const metaDescription = "We compared seven current Roborock models across the Q, Qrevo, and Saros series on suction power, navigation type, and dock features so you can pick the right.";
 export const mainKeyword = "roborock robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-for-seniors";
 export const guideTitle = "Best Coffee Makers for Seniors";
 export const metaTitle = "Best Coffee Makers for Seniors (2026): 4 Practical Picks";
-export const metaDescription =
-  "We compared four current coffee makers on filled weight, button and grip force, display legibility, and cleaning access so active adults can pick a machine that is genuinely easy to handle daily.";
+export const metaDescription = "We compared four current coffee makers on filled weight, button and grip force, display legibility, and cleaning access so active adults can pick a machine.";
 export const mainKeyword = "coffee makers for seniors";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-abco-tech-garden-kneelers";
 export const guideTitle = "Best Abco Tech Garden Kneelers (2026)";
 export const metaTitle = "Best Abco Tech Garden Kneelers (2026): 3 Picks Compared";
-export const metaDescription = "We compared Abco Tech's garden kneeler and seat alongside close alternatives.";
+export const metaDescription = "We compared Abco Tech's garden kneeler and seat alongside close alternatives, with a full breakdown of 3 options based on real specs and feedback.";
 export const mainKeyword = "abco tech garden kneeler and seat";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-avantek-wireless-doorbells";
 export const guideTitle = "Best AVANTEK Wireless Doorbells (2026)";
 export const metaTitle = "Best AVANTEK Wireless Doorbells (2026): 5 Picks Compared";
-export const metaDescription = "The best AVANTEK wireless doorbells for 2026, compared on range and receiver configurations.";
+export const metaDescription = "The best AVANTEK wireless doorbells for 2026, compared on range and receiver configurations, with real pros and cons for each pick.";
 export const mainKeyword = "avantek wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

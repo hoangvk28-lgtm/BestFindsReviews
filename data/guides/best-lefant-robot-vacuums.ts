@@ -1,8 +1,7 @@
 export const guideSlug = "best-lefant-robot-vacuums";
 export const guideTitle = "Best Lefant Robot Vacuums";
 export const metaTitle = "Best Lefant Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current Lefant robot vacuum models on navigation type, suction power, self-emptying capability, and app reliability so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current Lefant robot vacuum models on navigation type, suction power, self-emptying capability, and app reliability.";
 export const mainKeyword = "lefant robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

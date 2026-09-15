@@ -1,7 +1,7 @@
 export const guideSlug = "best-dyson-upright-vacuums";
 export const guideTitle = "Best Dyson Upright Vacuums (2026)";
 export const metaTitle = "Best Dyson Upright Vacuums (2026): 5 Picks Compared";
-export const metaDescription = "The best Dyson upright vacuums for 2026, compared on suction, filtration, and price.";
+export const metaDescription = "The best Dyson upright vacuums for 2026, compared on suction, filtration, and price, covering 5 current picks and what to check before buying.";
 export const mainKeyword = "best dyson upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-electric-pruning-shears";
 export const guideTitle = "Best Lightweight Electric Pruning Shears (2026)";
 export const metaTitle = "Best Lightweight Electric Pruning Shears (2026): 6 Models Compared";
-export const metaDescription = "We compared six current lightweight electric pruning shears on ready weight, battery configuration, and grip design so you can pick the right one without guessing.";
+export const metaDescription = "We compared six current lightweight electric pruning shears on ready weight, battery configuration, and grip design so you can pick the right one without.";
 export const mainKeyword = "lightweight electric pruning shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

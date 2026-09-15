@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-sprayers-for-seniors";
 export const guideTitle = "Best Garden Sprayers for Seniors (2026)";
 export const metaTitle = "Best Garden Sprayers for Seniors (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current garden sprayers on ease of use and weight so you can pick the right one for seniors.";
+export const metaDescription = "We compared five current garden sprayers on ease of use and weight so you can pick the right one for seniors, with real pros and cons for each pick.";
 export const mainKeyword = "garden sprayers for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

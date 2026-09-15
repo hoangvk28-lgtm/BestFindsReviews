@@ -1,7 +1,7 @@
 export const guideSlug = "best-stainless-steel-air-fryers";
 export const guideTitle = "Best Stainless Steel Air Fryers (2026)";
 export const metaTitle = "Best Stainless Steel Air Fryers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Stainless Steel Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Stainless Steel Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "stainless steel air fryers";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

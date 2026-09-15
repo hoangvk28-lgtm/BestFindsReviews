@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-tillers-for-hard-soil";
 export const guideTitle = "Best Electric Tillers for Hard Soil (2026)";
 export const metaTitle = "Best Electric Tillers for Hard Soil (2026): Top Picks";
-export const metaDescription = "The best electric tillers for compacted or hard soil, compared on amperage and tilling depth.";
+export const metaDescription = "The best electric tillers for compacted or hard soil, compared on amperage and tilling depth, covering 3 current picks and what to check before buying.";
 export const mainKeyword = "electric tillers for hard soil";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

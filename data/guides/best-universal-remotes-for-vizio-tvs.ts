@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-for-vizio-tvs";
 export const guideTitle = "Best Universal Remotes for Vizio TVs (2026)";
 export const metaTitle = "Best Universal Remotes for Vizio TVs (2026): 4 Picks Compared";
-export const metaDescription = "The best universal remotes for Vizio TVs in 2026.";
+export const metaDescription = "The best universal remotes for Vizio TVs in 2026, weighing 4 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "universal remote vizio tv";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

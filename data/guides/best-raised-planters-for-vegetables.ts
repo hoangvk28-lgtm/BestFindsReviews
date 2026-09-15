@@ -1,7 +1,7 @@
 export const guideSlug = "best-raised-planters-for-vegetables";
 export const guideTitle = "Best Raised Planters for Vegetables (2026)";
 export const metaTitle = "Best Raised Planters for Vegetables (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current raised planters well suited to vegetable growing on depth and capacity.";
+export const metaDescription = "We compared six current raised planters well suited to vegetable growing on depth and capacity, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "vegetable raised planter";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

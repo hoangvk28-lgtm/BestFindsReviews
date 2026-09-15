@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-home-security-cameras";
 export const guideTitle = "Best Wireless Home Security Cameras (2026)";
 export const metaTitle = "Best Wireless Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best wireless home security cameras for 2026, compared on battery life and installation ease.";
+export const metaDescription = "The best wireless home security cameras for 2026, compared on battery life and installation ease, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "home security cameras wireless";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

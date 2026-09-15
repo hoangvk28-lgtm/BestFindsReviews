@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-landline-phones";
 export const guideTitle = "Best Big-Button Landline Phones (2026)";
 export const metaTitle = "Best Big-Button Landline Phones (2026): 6 Picks Compared";
-export const metaDescription = "The best big-button landline phones for 2026, compared on button size and layout.";
+export const metaDescription = "The best big-button landline phones for 2026, compared on button size and layout, with real pros and cons for each pick.";
 export const mainKeyword = "large button landline phone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

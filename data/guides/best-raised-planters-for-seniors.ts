@@ -1,7 +1,7 @@
 export const guideSlug = "best-raised-planters-for-seniors";
 export const guideTitle = "Best Raised Planters for Seniors (2026)";
 export const metaTitle = "Best Raised Planters for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current raised planters on height and accessibility for seniors.";
+export const metaDescription = "We compared six current raised planters on height and accessibility for seniors, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "raised planters for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

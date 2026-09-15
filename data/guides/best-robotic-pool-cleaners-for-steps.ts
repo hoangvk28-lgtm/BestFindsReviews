@@ -1,7 +1,7 @@
 export const guideSlug = "best-robotic-pool-cleaners-for-steps";
 export const guideTitle = "Best Robotic Pool Cleaners for Steps (2026)";
 export const metaTitle = "Best Robotic Pool Cleaners for Steps (2026): 6 Top Picks";
-export const metaDescription = "The best robotic pool cleaners for pools with steps compared by navigation and climbing ability, for pools where debris settles on stairs a basic cleaner misses.";
+export const metaDescription = "The best robotic pool cleaners for pools with steps compared by navigation and climbing ability, for pools where debris settles on stairs a basic cleaner.";
 export const mainKeyword = "robotic pool cleaner for steps";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

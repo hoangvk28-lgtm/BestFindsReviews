@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbells-with-chimes";
 export const guideTitle = "Best Wireless Doorbells With Chimes (2026)";
 export const metaTitle = "Best Wireless Doorbells With Chimes (2026): 6 Picks Compared";
-export const metaDescription = "The best wireless doorbells with extensive chime selections for 2026.";
+export const metaDescription = "The best wireless doorbells with extensive chime selections for 2026, picked after comparing every current option in this category.";
 export const mainKeyword = "chime wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

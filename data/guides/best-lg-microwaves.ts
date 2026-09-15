@@ -1,7 +1,7 @@
 export const guideSlug = "best-lg-microwaves";
 export const guideTitle = "Best LG Microwaves";
 export const metaTitle = "Best LG Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best LG Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best LG Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "lg microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

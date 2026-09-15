@@ -1,7 +1,7 @@
 export const guideSlug = "best-simple-laptops-for-home-use";
 export const guideTitle = "Best Simple Laptops for Home Use (2026)";
 export const metaTitle = "Best Simple Laptops for Home Use (2026): 6 Picks Compared";
-export const metaDescription = "The best simple laptops for home use in 2026, compared on everyday performance and value.";
+export const metaDescription = "The best simple laptops for home use in 2026, compared on everyday performance and value, with real pros and cons for each pick.";
 export const mainKeyword = "best simple laptops for home use";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-pressure-cooker-under-200";
 export const guideTitle = "Best Pressure Cooker Under $200 (2026)";
 export const metaTitle = "Best Pressure Cooker Under $200 (2026): 6 Picks Compared";
-export const metaDescription = "Six genuine pressure cookers under $200 compared, we excluded a food processor and bread maker that turned up in the raw listing pool since they aren't pressure cookers.";
+export const metaDescription = "Six genuine pressure cookers under $200 compared, we excluded a food processor and bread maker that turned up in the raw listing pool since they aren't.";
 export const mainKeyword = "best pressure cooker under $200";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

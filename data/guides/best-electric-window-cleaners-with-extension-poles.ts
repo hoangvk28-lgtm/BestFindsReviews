@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-window-cleaners-with-extension-poles";
 export const guideTitle = "Best Electric Window Cleaners With Extension Poles (2026)";
 export const metaTitle = "Best Electric Window Cleaners With Extension Poles (2026)";
-export const metaDescription = "The best electric window cleaners with extension poles compared, cordless window vacuums that reach stairwell and second-floor glass without a ladder, based on real pole length.";
+export const metaDescription = "The best electric window cleaners with extension poles compared, cordless window vacuums that reach stairwell and second-floor glass without a ladder.";
 export const mainKeyword = "electric window cleaner with extension pole";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

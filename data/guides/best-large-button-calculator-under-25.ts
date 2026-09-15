@@ -1,7 +1,7 @@
 export const guideSlug = "best-large-button-calculator-under-25";
 export const guideTitle = "Best Large Button Calculator Under $25 (2026)";
 export const metaTitle = "Best Large Button Calculator Under $25 (2026): 6 Picks Compared";
-export const metaDescription = "We compare current large button calculators priced under $25 on key size, display readability, and power source.";
+export const metaDescription = "We compare current large button calculators priced under $25 on key size, display readability, and power source, with real pros and cons for each pick.";
 export const mainKeyword = "best large button calculator under $25";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-video-intercoms-with-keypads";
 export const guideTitle = "Best Video Intercoms With Keypads (2026)";
 export const metaTitle = "Best Video Intercoms With Keypads (2026): 5 Picks Compared";
-export const metaDescription = "The best video intercom systems with physical keypads for 2026.";
+export const metaDescription = "The best video intercom systems with physical keypads for 2026, weighing 5 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "video intercom keypad";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

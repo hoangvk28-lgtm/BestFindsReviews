@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-mops-with-self-cleaning-docks";
 export const guideTitle = "Best Electric Mops With Self-Cleaning Docks (2026)";
 export const metaTitle = "Best Electric Mops With Self-Cleaning Docks (2026): 6 Models Compared";
-export const metaDescription = "We compared six current electric mops with self-cleaning docks or cycles, and clarify what actually gets cleaned automatically versus what still needs manual work.";
+export const metaDescription = "We compared six current electric mops with self-cleaning docks or cycles, and clarify what actually gets cleaned automatically versus what still needs manual.";
 export const mainKeyword = "electric mops with self-cleaning docks";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-14";

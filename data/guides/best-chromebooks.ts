@@ -1,7 +1,7 @@
 export const guideSlug = "best-chromebooks";
 export const guideTitle = "Best Chromebooks (2026)";
 export const metaTitle = "Best Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best Chromebooks for 2026 across every brand and budget, compared on processor, battery life, and build quality.";
+export const metaDescription = "The best Chromebooks for 2026 across every brand and budget, compared on processor, battery life, and build quality, with real pros and cons for each pick.";
 export const mainKeyword = "best chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

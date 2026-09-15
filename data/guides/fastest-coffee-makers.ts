@@ -1,8 +1,7 @@
 export const guideSlug = "fastest-coffee-makers";
 export const guideTitle = "Fastest Coffee Makers";
 export const metaTitle = "Fastest Coffee Makers (2026): Real Brew Times Compared";
-export const metaDescription =
-  "We compared five current fast-brewing coffee makers on true cold-start time, standby power, and per-cup brew speed so you know what fast actually costs and delivers.";
+export const metaDescription = "We compared five current fast-brewing coffee makers on true cold-start time, standby power, and per-cup brew speed so you know what fast actually costs.";
 export const mainKeyword = "coffee maker quick brew";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

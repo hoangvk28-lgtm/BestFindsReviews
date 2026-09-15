@@ -1,7 +1,7 @@
 export const guideSlug = "best-lifestation-medical-alert-systems";
 export const guideTitle = "Best LifeStation Medical Alert Systems (2026)";
 export const metaTitle = "Best LifeStation Medical Alert Systems (2026): Reviewed";
-export const metaDescription = "A look at LifeStation's medical alert device for 2026, reviewed on coverage and Alexa integration.";
+export const metaDescription = "A look at LifeStation's medical alert device for 2026, reviewed on coverage and Alexa integration, covering 1 current picks and what to check before buying.";
 export const mainKeyword = "best lifestation medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-vacuum-mops";
 export const guideTitle = "Best Steam Vacuum Mops (2026)";
 export const metaTitle = "Best Steam Vacuum Mops (2026): 3 Picks Compared";
-export const metaDescription = "The best steam vacuum mops for 2026, compared on sanitizing power, suction, and price.";
+export const metaDescription = "The best steam vacuum mops for 2026, compared on sanitizing power, suction, and price, weighing 3 current models on the specs and details that matter.";
 export const mainKeyword = "best steam vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

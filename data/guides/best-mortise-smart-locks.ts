@@ -1,7 +1,7 @@
 export const guideSlug = "best-mortise-smart-locks";
 export const guideTitle = "Best Mortise Smart Locks (2026)";
 export const metaTitle = "Best Mortise Smart Locks (2026): 4 Picks Compared";
-export const metaDescription = "The best mortise-style smart locks for 2026.";
+export const metaDescription = "The best mortise-style smart locks for 2026, weighing 4 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "mortise smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

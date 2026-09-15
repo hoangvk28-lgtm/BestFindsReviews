@@ -1,7 +1,7 @@
 export const guideSlug = "best-raised-planters-with-wheels";
 export const guideTitle = "Best Raised Planters With Wheels (2026)";
 export const metaTitle = "Best Raised Planters With Wheels (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current raised planters with wheels for repositioning through the season.";
+export const metaDescription = "We compared six current raised planters with wheels for repositioning through the season, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "raised planter on wheels";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

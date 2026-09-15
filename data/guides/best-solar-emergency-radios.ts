@@ -1,7 +1,7 @@
 export const guideSlug = "best-solar-emergency-radios";
 export const guideTitle = "Best Solar Emergency Radios (2026)";
 export const metaTitle = "Best Solar Emergency Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best solar-powered emergency radios for 2026, compared on panel efficiency and capacity.";
+export const metaDescription = "The best solar-powered emergency radios for 2026, compared on panel efficiency and capacity, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "solar powered emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-microwaves-under-100";
 export const guideTitle = "Best Microwaves Under $100";
 export const metaTitle = "Best Microwaves Under $100 (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Microwaves Under $100 compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Microwaves Under $100 compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwaves under $100";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

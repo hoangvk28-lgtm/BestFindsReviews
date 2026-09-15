@@ -1,8 +1,7 @@
 export const guideSlug = "best-bunn-coffee-makers";
 export const guideTitle = "Best Bunn Coffee Makers";
 export const metaTitle = "Best Bunn Coffee Makers (2026): Fast-Brew Models Compared";
-export const metaDescription =
-  "We compared four current Bunn home brewers on true first-pot time, standby power, overflow risk, and warranty so you know what the always-hot tank actually costs you.";
+export const metaDescription = "We compared four current Bunn home brewers on true first-pot time, standby power, overflow risk, and warranty so you know what the always-hot tank actually.";
 export const mainKeyword = "bunn coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-9-cup-coffee-makers";
 export const guideTitle = "Best 9-Cup Coffee Makers";
 export const metaTitle = "Coffee Maker 9 Cup: 3 Models Compared (2026)";
-export const metaDescription =
-  "True 9-cup-specific coffee makers are uncommon. We researched the current options, verified real capacity against each listing, and compared the closest genuine 9-cup picks.";
+export const metaDescription = "True 9-cup-specific coffee makers are uncommon. We researched the current options, verified real capacity against each listing.";
 export const mainKeyword = "coffee maker 9 cup";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

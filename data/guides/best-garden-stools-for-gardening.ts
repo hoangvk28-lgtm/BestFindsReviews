@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-stools-for-gardening";
 export const guideTitle = "Best Garden Stools for Gardening (2026)";
 export const metaTitle = "Best Garden Stools for Gardening (2026): 7 Picks Compared";
-export const metaDescription = "We compared seven current garden stools on weight capacity, wheels, and storage so you can pick the right one.";
+export const metaDescription = "We compared seven current garden stools on weight capacity, wheels, and storage so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "garden stool";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

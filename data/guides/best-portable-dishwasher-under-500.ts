@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-dishwasher-under-500";
 export const guideTitle = "Best Portable Dishwasher Under $500 (2026)";
 export const metaTitle = "Best Portable Dishwasher Under $500 (2026): 8 Picks Compared";
-export const metaDescription = "Eight portable dishwashers under $500 compared, still mostly countertop-class units at this budget, with the largest capacity and most certified picks leading the way.";
+export const metaDescription = "Eight portable dishwashers under $500 compared, still mostly countertop-class units at this budget, with the largest capacity and most certified picks leading.";
 export const mainKeyword = "best portable dishwasher under $500";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

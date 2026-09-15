@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-alarm-clock-under-100";
 export const guideTitle = "Best Smart Alarm Clock Under $100 (2026)";
 export const metaTitle = "Best Smart Alarm Clock Under $100 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current smart alarm clocks priced under $100 on alarm reliability, sunrise light, and app dependence.";
+export const metaDescription = "We compare current smart alarm clocks priced under $100 on alarm reliability, sunrise light, and app dependence, with real pros and cons for each pick.";
 export const mainKeyword = "best smart alarm clock under $100";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

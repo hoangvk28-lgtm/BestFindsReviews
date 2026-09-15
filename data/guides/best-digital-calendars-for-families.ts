@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-calendars-for-families";
 export const guideTitle = "Best Digital Calendars for Families (2026)";
 export const metaTitle = "Best Digital Calendars for Families (2026): 7 Picks Compared";
-export const metaDescription = "The best digital calendars for families in 2026, compared on multi-profile sync and chore tracking.";
+export const metaDescription = "The best digital calendars for families in 2026, compared on multi-profile sync and chore tracking, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "digital calendar for families";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

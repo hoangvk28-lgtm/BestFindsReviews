@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-sprinkler-controllers-without-subscriptions";
 export const guideTitle = "Best Smart Sprinkler Controllers Without Subscriptions (2026)";
 export const metaTitle = "Best Smart Sprinkler Controllers Without Subscriptions (2026)";
-export const metaDescription = "The best subscription-free smart sprinkler controllers, compared on included features and one-time cost.";
+export const metaDescription = "The best subscription-free smart sprinkler controllers, compared on included features and one-time cost, with real pros and cons for each pick.";
 export const mainKeyword = "smart sprinkler controllers without subscriptions";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

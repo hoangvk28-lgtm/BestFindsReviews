@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-sweepers-for-grass-clippings";
 export const guideTitle = "Best Lawn Sweepers for Grass Clippings (2026)";
 export const metaTitle = "Best Lawn Sweepers for Grass Clippings (2026): Top Picks Compared";
-export const metaDescription = "The best lawn sweepers for collecting grass clippings, compared on brush height adjustment and hopper airflow design.";
+export const metaDescription = "The best lawn sweepers for collecting grass clippings, compared on brush height adjustment and hopper airflow design, with real pros and cons for each pick.";
 export const mainKeyword = "lawn sweeper grass clippings";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

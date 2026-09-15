@@ -1,7 +1,7 @@
 export const guideSlug = "best-wet-dry-vacuums-for-carpet";
 export const guideTitle = "Best Wet-Dry Vacuums for Carpet (2026)";
 export const metaTitle = "Best Wet-Dry Vacuums for Carpet (2026): 8 Picks Compared";
-export const metaDescription = "The best wet-dry vacuums for carpet spills and cleanup in 2026, compared on suction, tank size, and price.";
+export const metaDescription = "The best wet-dry vacuums for carpet spills and cleanup in 2026, compared on suction, tank size, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best wet-dry vacuums for carpet";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

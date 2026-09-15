@@ -1,7 +1,7 @@
 export const guideSlug = "best-raised-planters-with-trellises";
 export const guideTitle = "Best Raised Planters With Trellises (2026)";
 export const metaTitle = "Best Raised Planters With Trellises (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current raised planters with built-in trellises for climbing plants.";
+export const metaDescription = "We compared five current raised planters with built-in trellises for climbing plants, with real pros and cons for each pick.";
 export const mainKeyword = "raised planter trellis";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

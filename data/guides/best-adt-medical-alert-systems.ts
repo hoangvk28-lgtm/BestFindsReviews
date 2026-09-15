@@ -1,7 +1,7 @@
 export const guideSlug = "best-adt-medical-alert-systems";
 export const guideTitle = "Best ADT Medical Alert Systems (2026)";
 export const metaTitle = "Best ADT Medical Alert Systems (2026): 5 Picks Compared";
-export const metaDescription = "The best ADT medical alert devices for 2026, compared on coverage type and features.";
+export const metaDescription = "The best ADT medical alert devices for 2026, compared on coverage type and features, with real pros and cons for each pick.";
 export const mainKeyword = "best adt medical alert systems";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

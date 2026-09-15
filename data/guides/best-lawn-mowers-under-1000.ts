@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-mowers-under-1000";
 export const guideTitle = "Best Lawn Mowers Under $1000";
 export const metaTitle = "Best Lawn Mowers Under $1000 (2026): 8 Models Compared";
-export const metaDescription = "Best lawn mowers under $1000 compared by power source, deck size, included battery capacity, and real ownership cost across reel, corded, cordless, and gas options.";
+export const metaDescription = "Best lawn mowers under $1000 compared by power source, deck size, included battery capacity, and real ownership cost across reel, corded, cordless.";
 export const mainKeyword = "lawn mowers under 1000";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

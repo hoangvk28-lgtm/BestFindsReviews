@@ -1,7 +1,7 @@
 export const guideSlug = "best-loud-wireless-doorbells";
 export const guideTitle = "Best Loud Wireless Doorbells (2026)";
 export const metaTitle = "Best Loud Wireless Doorbells (2026): 6 Picks Compared";
-export const metaDescription = "The best loud wireless doorbells for 2026, compared on decibel rating and volume range.";
+export const metaDescription = "The best loud wireless doorbells for 2026, compared on decibel rating and volume range, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "loud wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

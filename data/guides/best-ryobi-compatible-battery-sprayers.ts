@@ -1,7 +1,7 @@
 export const guideSlug = "best-ryobi-compatible-battery-sprayers";
 export const guideTitle = "Best Ryobi-Compatible Battery Sprayers (2026)";
 export const metaTitle = "Best Ryobi-Compatible Battery Sprayers (2026)";
-export const metaDescription = "The best battery sprayers compatible with Ryobi 18V ONE+ tools, compared on tank size and features.";
+export const metaDescription = "The best battery sprayers compatible with Ryobi 18V ONE+ tools, compared on tank size and features, covering 2 current picks and what to check before buying.";
 export const mainKeyword = "battery powered sprayer ryobi";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

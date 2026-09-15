@@ -1,7 +1,7 @@
 export const guideSlug = "best-heavy-duty-garden-tool-organizers";
 export const guideTitle = "Best Heavy-Duty Garden Tool Organizers (2026)";
 export const metaTitle = "Best Heavy-Duty Garden Tool Organizers (2026)";
-export const metaDescription = "The best heavy-duty garden tool organizers compared, steel racks rated for hundreds of pounds that hold loaded tools without sagging, based on real weight rating and build.";
+export const metaDescription = "The best heavy-duty garden tool organizers compared, steel racks rated for hundreds of pounds that hold loaded tools without sagging.";
 export const mainKeyword = "heavy-duty garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

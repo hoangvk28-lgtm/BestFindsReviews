@@ -1,7 +1,7 @@
 export const guideSlug = "best-pressure-cooker-under-300";
 export const guideTitle = "Best Pressure Cooker Under $300 (2026)";
 export const metaTitle = "Best Pressure Cooker Under $300 (2026): 6 Picks Compared";
-export const metaDescription = "Six genuine pressure cookers under $300, led by the largest 8-quart Instant Pot Pro, we excluded a replacement inner-pot liner accessory that isn't an actual cooker.";
+export const metaDescription = "Six genuine pressure cookers under $300, led by the largest 8-quart Instant Pot Pro, we excluded a replacement inner-pot liner accessory that isn't an actual.";
 export const mainKeyword = "best pressure cooker under $300";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

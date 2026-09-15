@@ -1,7 +1,7 @@
 export const guideSlug = "best-handheld-battery-sprayers";
 export const guideTitle = "Best Handheld Battery Sprayers (2026)";
 export const metaTitle = "Best Handheld Battery Sprayers (2026)";
-export const metaDescription = "The best handheld battery-powered sprayers, compared on grip comfort and one-handed operation.";
+export const metaDescription = "The best handheld battery-powered sprayers, compared on grip comfort and one-handed operation, covering 2 current picks and what to check before buying.";
 export const mainKeyword = "handheld battery powered sprayer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

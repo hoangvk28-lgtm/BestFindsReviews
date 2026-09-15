@@ -1,7 +1,7 @@
 export const guideSlug = "best-wood-chipper-under-1000";
 export const guideTitle = "Best Wood Chipper Under $1000 (2026)";
 export const metaTitle = "Best Wood Chipper Under $1000 (2026): 7 Picks Compared";
-export const metaDescription = "We compare current wood chippers priced under $1000 on branch capacity, motor power, and jam/service access.";
+export const metaDescription = "We compare current wood chippers priced under $1000 on branch capacity, motor power, and jam/service access, with real pros and cons for each pick.";
 export const mainKeyword = "best wood chipper under $1000";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

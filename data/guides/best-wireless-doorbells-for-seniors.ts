@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbells-for-seniors";
 export const guideTitle = "Best Wireless Doorbells for Seniors (2026)";
 export const metaTitle = "Best Wireless Doorbells for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best wireless doorbells for seniors in 2026, compared on volume, visual alerts, and ease of use.";
+export const metaDescription = "The best wireless doorbells for seniors in 2026, compared on volume, visual alerts, and ease of use, with real pros and cons for each pick.";
 export const mainKeyword = "wireless doorbells for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

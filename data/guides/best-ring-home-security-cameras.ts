@@ -1,7 +1,7 @@
 export const guideSlug = "best-ring-home-security-cameras";
 export const guideTitle = "Best Ring Home Security Cameras (2026)";
 export const metaTitle = "Best Ring Home Security Cameras (2026): 6 Picks Compared";
-export const metaDescription = "The best Ring home security cameras for 2026, compared on resolution and mounting type.";
+export const metaDescription = "The best Ring home security cameras for 2026, compared on resolution and mounting type, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "home security camera ring";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

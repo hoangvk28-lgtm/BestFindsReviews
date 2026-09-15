@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-handled-scrubbing-tools";
 export const guideTitle = "Best Long-Handled Scrubbing Tools (2026)";
 export const metaTitle = "Best Long-Handled Scrubbing Tools (2026)";
-export const metaDescription = "The best long-handled scrubbing tools compared, from adjustable 2-in-1 floor brushes to swivel-head deck scrubbers, based on real handle length and bristle stiffness.";
+export const metaDescription = "The best long-handled scrubbing tools compared, from adjustable 2-in-1 floor brushes to swivel-head deck scrubbers, based on real handle length and bristle.";
 export const mainKeyword = "long handled scrubbing tool";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

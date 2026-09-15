@@ -1,7 +1,7 @@
 export const guideSlug = "best-convertible-garden-carts";
 export const guideTitle = "Best Convertible Garden Carts (2026)";
 export const metaTitle = "Best Convertible Garden Carts (2026): 8 Models Compared";
-export const metaDescription = "We checked eight current garden carts for genuine convertible handle or flatbed-conversion features and flagged which listings don't actually specify a convertible design.";
+export const metaDescription = "We checked eight current garden carts for genuine convertible handle or flatbed-conversion features and flagged which listings don't actually specify.";
 export const mainKeyword = "convertible garden cart";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

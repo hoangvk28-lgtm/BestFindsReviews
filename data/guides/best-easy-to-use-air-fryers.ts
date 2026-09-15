@@ -1,7 +1,7 @@
 export const guideSlug = "best-easy-to-use-air-fryers";
 export const guideTitle = "Best Easy-to-Use Air Fryers (2026)";
 export const metaTitle = "Best Easy-to-Use Air Fryers (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Easy-to-Use Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Easy-to-Use Air Fryers compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "easy-to-use air fryers";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

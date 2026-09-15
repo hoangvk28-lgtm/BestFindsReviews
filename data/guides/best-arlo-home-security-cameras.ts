@@ -1,7 +1,7 @@
 export const guideSlug = "best-arlo-home-security-cameras";
 export const guideTitle = "Best Arlo Home Security Cameras (2026)";
 export const metaTitle = "Best Arlo Home Security Cameras (2026): 6 Picks Compared";
-export const metaDescription = "The best Arlo home security cameras for 2026, compared on resolution and detection features.";
+export const metaDescription = "The best Arlo home security cameras for 2026, compared on resolution and detection features, with real pros and cons for each pick.";
 export const mainKeyword = "shop deals on arlo home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

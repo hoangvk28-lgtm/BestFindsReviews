@@ -1,7 +1,7 @@
 export const guideSlug = "best-industrial-laundry-carts";
 export const guideTitle = "Best Industrial Laundry Carts (2026)";
 export const metaTitle = "Best Industrial Laundry Carts (2026)";
-export const metaDescription = "The best industrial laundry carts compared, 400L to 420L steel-frame rolling hampers and chrome wire commercial carts, based on real frame gauge and caster load.";
+export const metaDescription = "The best industrial laundry carts compared, 400L to 420L steel-frame rolling hampers and chrome wire commercial carts, based on real frame gauge and caster.";
 export const mainKeyword = "industrial laundry cart";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

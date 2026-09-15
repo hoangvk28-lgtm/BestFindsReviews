@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-with-obstacle-avoidance";
 export const guideTitle = "Best Robot Vacuums With Obstacle Avoidance";
 export const metaTitle = "Best Robot Vacuums With Obstacle Avoidance (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on how they detect and avoid cords, socks, and pet waste, from basic bump sensors to AI camera and 3D structured-light systems.";
+export const metaDescription = "We compared eight current robot vacuums on how they detect and avoid cords, socks, and pet waste, from basic bump sensors to AI camera and 3D structured-light.";
 export const mainKeyword = "robot vacuums with obstacle avoidance";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

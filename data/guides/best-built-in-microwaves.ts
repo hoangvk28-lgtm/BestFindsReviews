@@ -1,7 +1,7 @@
 export const guideSlug = "best-built-in-microwaves";
 export const guideTitle = "Best Built-In Microwaves";
 export const metaTitle = "Best Built-In Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Built-In Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Built-In Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "built-in microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

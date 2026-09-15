@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-sweepers-for-acorns";
 export const guideTitle = "Best Lawn Sweepers for Acorns (2026)";
 export const metaTitle = "Best Lawn Sweepers for Acorns (2026): Top Picks Compared";
-export const metaDescription = "The best lawn sweepers for picking up acorns, compared on brush rigidity, hopper durability, and ground clearance.";
+export const metaDescription = "The best lawn sweepers for picking up acorns, compared on brush rigidity, hopper durability, and ground clearance, with real pros and cons for each pick.";
 export const mainKeyword = "lawn sweeper acorns";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

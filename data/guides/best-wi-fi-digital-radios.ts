@@ -1,7 +1,7 @@
 export const guideSlug = "best-wi-fi-digital-radios";
 export const guideTitle = "Best Wi-Fi Digital Radios (2026)";
 export const metaTitle = "Best Wi-Fi Digital Radios (2026): 6 Picks Compared";
-export const metaDescription = "The best Wi-Fi internet radios for 2026, compared on station access and features.";
+export const metaDescription = "The best Wi-Fi internet radios for 2026, compared on station access and features, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "digital radio wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

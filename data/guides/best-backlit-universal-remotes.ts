@@ -1,7 +1,7 @@
 export const guideSlug = "best-backlit-universal-remotes";
 export const guideTitle = "Best Backlit Universal Remotes (2026)";
 export const metaTitle = "Best Backlit Universal Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best backlit universal remotes for 2026, compared on illumination and battery life.";
+export const metaDescription = "The best backlit universal remotes for 2026, compared on illumination and battery life, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "backlit universal remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

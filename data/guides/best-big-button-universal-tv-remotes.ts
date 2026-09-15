@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-universal-tv-remotes";
 export const guideTitle = "Best Big-Button Universal TV Remotes (2026)";
 export const metaTitle = "Best Big-Button Universal TV Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best big-button universal TV remotes for 2026, compared on brand coverage.";
+export const metaDescription = "The best big-button universal TV remotes for 2026, compared on brand coverage, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "big button universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

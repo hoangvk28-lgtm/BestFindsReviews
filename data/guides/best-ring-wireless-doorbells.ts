@@ -1,7 +1,7 @@
 export const guideSlug = "best-ring-wireless-doorbells";
 export const guideTitle = "Best Ring Wireless Doorbells (2026)";
 export const metaTitle = "Best Ring Wireless Doorbells (2026): 6 Picks Compared";
-export const metaDescription = "The best Ring wireless doorbells for 2026, compared on video quality and battery vs. wired design.";
+export const metaDescription = "The best Ring wireless doorbells for 2026, compared on video quality and battery vs. wired design, with real pros and cons for each pick.";
 export const mainKeyword = "wireless doorbell ring";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

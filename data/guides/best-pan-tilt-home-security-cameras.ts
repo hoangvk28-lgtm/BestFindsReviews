@@ -1,7 +1,7 @@
 export const guideSlug = "best-pan-tilt-home-security-cameras";
 export const guideTitle = "Best Pan-Tilt Home Security Cameras (2026)";
 export const metaTitle = "Best Pan-Tilt Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best pan-tilt home security cameras for 2026, compared on coverage angle and tracking.";
+export const metaDescription = "The best pan-tilt home security cameras for 2026, compared on coverage angle and tracking, with honest pros and cons for each of the 7 picks reviewed.";
 export const mainKeyword = "kasa smart indoor pan tilt home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

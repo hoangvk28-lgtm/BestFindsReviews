@@ -1,7 +1,7 @@
 export const guideSlug = "best-air-fryers-under-50";
 export const guideTitle = "Best Air Fryers Under $50 (2026)";
 export const metaTitle = "Best Air Fryers Under $50 (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Air Fryers Under $50 compared by cooking performance, controls, cleanup, safety, and real ownership cost.";
+export const metaDescription = "Best Air Fryers Under $50 compared by cooking performance, controls, cleanup, safety, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "air fryers under $50";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-07";

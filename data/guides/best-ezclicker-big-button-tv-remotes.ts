@@ -1,7 +1,7 @@
 export const guideSlug = "best-ezclicker-big-button-tv-remotes";
 export const guideTitle = "Best EZclicker Big-Button TV Remotes (2026)";
 export const metaTitle = "Best EZclicker Big-Button TV Remotes (2026): 5 Picks Compared";
-export const metaDescription = "The best EZclicker big-button TV remotes for 2026, compared on brand-specific models.";
+export const metaDescription = "The best EZclicker big-button TV remotes for 2026, compared on brand-specific models, covering 5 current picks and what to check before buying.";
 export const mainKeyword = "ezclicker big button universal tv remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

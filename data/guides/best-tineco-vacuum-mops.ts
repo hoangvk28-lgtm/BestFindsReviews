@@ -1,7 +1,7 @@
 export const guideSlug = "best-tineco-vacuum-mops";
 export const guideTitle = "Best Tineco Vacuum Mops (2026)";
 export const metaTitle = "Best Tineco Vacuum Mops (2026): 4 Picks Compared";
-export const metaDescription = "The best Tineco vacuum mops for 2026, compared on suction, self-cleaning convenience, and price.";
+export const metaDescription = "The best Tineco vacuum mops for 2026, compared on suction, self-cleaning convenience, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best tineco vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

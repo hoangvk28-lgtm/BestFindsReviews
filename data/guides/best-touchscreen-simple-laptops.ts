@@ -1,7 +1,7 @@
 export const guideSlug = "best-touchscreen-simple-laptops";
 export const guideTitle = "Best Touchscreen Simple Laptops (2026)";
 export const metaTitle = "Best Touchscreen Simple Laptops (2026): 7 Picks Compared";
-export const metaDescription = "The best touchscreen simple laptops for 2026, compared on convertible design and everyday performance.";
+export const metaDescription = "The best touchscreen simple laptops for 2026, compared on convertible design and everyday performance, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "best touchscreen simple laptops";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

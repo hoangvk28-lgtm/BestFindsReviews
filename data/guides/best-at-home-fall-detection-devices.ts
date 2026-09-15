@@ -1,7 +1,7 @@
 export const guideSlug = "best-at-home-fall-detection-devices";
 export const guideTitle = "Best At-Home Fall Detection Devices (2026)";
 export const metaTitle = "Best At-Home Fall Detection Devices (2026): 6 Picks Compared";
-export const metaDescription = "The best at-home fall detection devices for 2026, compared on coverage range and monitoring type.";
+export const metaDescription = "The best at-home fall detection devices for 2026, compared on coverage range and monitoring type, with real pros and cons for each pick.";
 export const mainKeyword = "best at-home fall detection devices";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

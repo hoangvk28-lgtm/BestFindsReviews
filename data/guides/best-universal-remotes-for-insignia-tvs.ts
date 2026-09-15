@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-for-insignia-tvs";
 export const guideTitle = "Best Universal Remotes for Insignia TVs (2026)";
 export const metaTitle = "Best Universal Remotes for Insignia TVs (2026): 4 Picks Compared";
-export const metaDescription = "The best universal remotes for Insignia TVs in 2026.";
+export const metaDescription = "The best universal remotes for Insignia TVs in 2026, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "universal remote insignia tv";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

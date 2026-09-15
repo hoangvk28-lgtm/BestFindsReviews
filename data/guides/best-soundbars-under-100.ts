@@ -1,7 +1,7 @@
 export const guideSlug = "best-soundbars-under-100";
 export const guideTitle = "Best Soundbars Under $100 (2026)";
 export const metaTitle = "Best Soundbars Under $100 (2026): Top Picks";
-export const metaDescription = "The best soundbars under $100, compared on connectivity, subwoofer support, and everyday TV audio quality.";
+export const metaDescription = "The best soundbars under $100, compared on connectivity, subwoofer support, and everyday TV audio quality, with real pros and cons for each pick.";
 export const mainKeyword = "best soundbar under 100";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-09-04";

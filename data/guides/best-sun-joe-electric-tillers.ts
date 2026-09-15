@@ -1,7 +1,7 @@
 export const guideSlug = "best-sun-joe-electric-tillers";
 export const guideTitle = "Best Sun Joe Electric Tillers (2026)";
 export const metaTitle = "Best Sun Joe Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best Sun Joe electric tillers, compared on model lineup, amperage, and cordless options.";
+export const metaDescription = "The best Sun Joe electric tillers, compared on model lineup, amperage, and cordless options, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "electric tiller sun joe";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

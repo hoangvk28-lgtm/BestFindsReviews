@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-operated-watering-timers";
 export const guideTitle = "Best Battery-Operated Watering Timers (2026)";
 export const metaTitle = "Best Battery-Operated Watering Timers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current battery-operated watering timers so you can pick the right one.";
+export const metaDescription = "We compared five current battery-operated watering timers so you can pick the right one, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "watering timer battery";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

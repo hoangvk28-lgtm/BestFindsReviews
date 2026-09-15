@@ -1,7 +1,7 @@
 export const guideSlug = "best-steam-cleaner-under-500";
 export const guideTitle = "Best Steam Cleaner Under $500 (2026)";
 export const metaTitle = "Best Steam Cleaner Under $500 (2026): 5 Picks Compared";
-export const metaDescription = "Even at a $500 ceiling, our verified data pull didn't turn up genuinely premium steam cleaners beyond what's already covered in our lower-budget guides, here's the honest picture.";
+export const metaDescription = "Even at a $500 ceiling, our verified data pull didn't turn up genuinely premium steam cleaners beyond what's already covered in our lower-budget guides.";
 export const mainKeyword = "best steam cleaner under $500";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

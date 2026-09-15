@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-window-cleaners-for-seniors";
 export const guideTitle = "Best Electric Window Cleaners for Seniors (2026)";
 export const metaTitle = "Best Electric Window Cleaners for Seniors (2026)";
-export const metaDescription = "The best electric window cleaners for seniors compared, light one-hand window vacuums that remove the wringing and reaching of manual cleaning, based on real weight.";
+export const metaDescription = "The best electric window cleaners for seniors compared, light one-hand window vacuums that remove the wringing and reaching of manual cleaning.";
 export const mainKeyword = "electric window cleaner for seniors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

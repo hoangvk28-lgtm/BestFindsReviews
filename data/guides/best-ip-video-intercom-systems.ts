@@ -1,7 +1,7 @@
 export const guideSlug = "best-ip-video-intercom-systems";
 export const guideTitle = "Best IP Video Intercom Systems (2026)";
 export const metaTitle = "Best IP Video Intercom Systems (2026): 6 Picks Compared";
-export const metaDescription = "The best IP-based video intercom systems for 2026, compared on network integration.";
+export const metaDescription = "The best IP-based video intercom systems for 2026, compared on network integration, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "ip video intercom";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

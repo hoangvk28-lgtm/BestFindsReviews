@@ -1,7 +1,7 @@
 export const guideSlug = "best-eufy-home-security-cameras";
 export const guideTitle = "Best Eufy Home Security Cameras (2026)";
 export const metaTitle = "Best Eufy Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best eufy home security cameras for 2026, compared on resolution and subscription requirements.";
+export const metaDescription = "The best eufy home security cameras for 2026, compared on resolution and subscription requirements, with real pros and cons for each pick.";
 export const mainKeyword = "eufy home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-tineco-wet-dry-vacuums";
 export const guideTitle = "Best Tineco Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Tineco Wet-Dry Vacuums (2026): 4 Picks Compared";
-export const metaDescription = "The best Tineco wet-dry floor washers for 2026, compared on suction, self-cleaning, and price.";
+export const metaDescription = "The best Tineco wet-dry floor washers for 2026, compared on suction, self-cleaning, and price, covering 4 current picks and what to check before buying.";
 export const mainKeyword = "best tineco wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

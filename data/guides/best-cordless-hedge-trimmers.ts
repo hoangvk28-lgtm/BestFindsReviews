@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-hedge-trimmers";
 export const guideTitle = "Best Cordless Hedge Trimmers (2026)";
 export const metaTitle = "Best Cordless Hedge Trimmers (2026): 6 Top Picks";
-export const metaDescription = "The best cordless hedge trimmers compared by blade length, dual-action cutting, and battery platform, from a genuine Milwaukee FUEL flagship to a budget Black+Decker.";
+export const metaDescription = "The best cordless hedge trimmers compared by blade length, dual-action cutting, and battery platform, from a genuine Milwaukee FUEL flagship to a budget.";
 export const mainKeyword = "cordless hedge trimmer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

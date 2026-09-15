@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-carts-with-pneumatic-tires";
 export const guideTitle = "Best Garden Carts With Pneumatic Tires (2026)";
 export const metaTitle = "Best Garden Carts With Pneumatic Tires (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current garden carts on tire type, rated capacity, and bed volume, and flagged which listings actually confirm pneumatic tires versus which don't state it.";
+export const metaDescription = "We compared eight current garden carts on tire type, rated capacity, and bed volume, and flagged which listings actually confirm pneumatic tires versus.";
 export const mainKeyword = "garden cart pneumatic tires";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

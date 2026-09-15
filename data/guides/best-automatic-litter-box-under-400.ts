@@ -1,7 +1,7 @@
 export const guideSlug = "best-automatic-litter-box-under-400";
 export const guideTitle = "Best Automatic Litter Box Under $400 (2026)";
 export const metaTitle = "Best Automatic Litter Box Under $400 (2026): 8 Picks Compared";
-export const metaDescription = "Stepping up to a $400 budget unlocks larger waste bins, multi-cat durability, and a rotating-drum mechanism alongside PetSafe's usual rake-and-tray design. Here's what's genuinely worth the extra money.";
+export const metaDescription = "Stepping up to a $400 budget unlocks larger waste bins, multi-cat durability, and a rotating-drum mechanism alongside PetSafe's usual rake-and-tray design.";
 export const mainKeyword = "best automatic litter box under $400";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-multiple-floors";
 export const guideTitle = "Best Robot Vacuums for Multiple Floors";
 export const metaTitle = "Best Robot Vacuums for Multiple Floors (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on multi-floor mapping, dock requirements, carrying weight, and recharge-and-resume behavior so you can pick the right one for a multi-level home.";
+export const metaDescription = "We compared eight current robot vacuums on multi-floor mapping, dock requirements, carrying weight, and recharge-and-resume behavior so you can pick the right.";
 export const mainKeyword = "robot vacuums for multiple floors";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

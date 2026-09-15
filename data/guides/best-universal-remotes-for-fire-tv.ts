@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-remotes-for-fire-tv";
 export const guideTitle = "Best Universal Remotes for Fire TV (2026)";
 export const metaTitle = "Best Universal Remotes for Fire TV (2026): 4 Picks Compared";
-export const metaDescription = "The best universal remotes for Fire TV in 2026.";
+export const metaDescription = "The best universal remotes for Fire TV in 2026, comparing 4 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "fire tv universal remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

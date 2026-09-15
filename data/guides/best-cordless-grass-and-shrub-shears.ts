@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-grass-and-shrub-shears";
 export const guideTitle = "Best Cordless Grass and Shrub Shears (2026)";
 export const metaTitle = "Best Cordless Grass and Shrub Shears (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current 2-in-1 cordless grass and shrub shears so you can pick the right one.";
+export const metaDescription = "We compared six current 2-in-1 cordless grass and shrub shears so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "cordless grass and shrub shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

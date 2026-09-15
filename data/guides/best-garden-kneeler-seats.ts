@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-kneeler-seats";
 export const guideTitle = "Best Garden Kneeler Seats (2026)";
 export const metaTitle = "Best Garden Kneeler Seats (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current garden kneeler seats on 2-in-1 flip function and comfort.";
+export const metaDescription = "We compared six current garden kneeler seats on 2-in-1 flip function and comfort, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "garden kneeler seat";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

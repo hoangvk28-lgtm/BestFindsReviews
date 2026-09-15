@@ -1,7 +1,7 @@
 export const guideSlug = "microwave-vs-air-fryer";
 export const guideTitle = "Microwave vs Air Fryer";
 export const metaTitle = "Microwave vs Air Fryer (2026): Current Models and Buying Guide";
-export const metaDescription = "Microwave vs Air Fryer compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Microwave vs Air Fryer compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwave vs air fryer";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

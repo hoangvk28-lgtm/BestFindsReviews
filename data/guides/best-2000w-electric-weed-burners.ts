@@ -1,7 +1,7 @@
 export const guideSlug = "best-2000w-electric-weed-burners";
 export const guideTitle = "Best 2000W Electric Weed Burners (2026)";
 export const metaTitle = "Best 2000W Electric Weed Burners (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current 2000W electric weed burners on temperature range and airflow so you can pick the right one.";
+export const metaDescription = "We compared five current 2000W electric weed burners on temperature range and airflow so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "draper 2000w electric weed burner";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-15-inch-digital-photo-frames";
 export const guideTitle = "Best 15-Inch Digital Photo Frames (2026)";
 export const metaTitle = "Best 15-Inch Digital Photo Frames (2026): Large-Format Compared";
-export const metaDescription = "We compare current 15 and 15.6-inch digital photo frames on resolution, touch response, and wall-mount hardware.";
+export const metaDescription = "We compare current 15 and 15.6-inch digital photo frames on resolution, touch response, and wall-mount hardware, with real pros and cons for each pick.";
 export const mainKeyword = "15 inch digital photo frames";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-17";

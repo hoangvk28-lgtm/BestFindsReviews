@@ -1,8 +1,7 @@
 export const guideSlug = "best-10-cup-coffee-makers";
 export const guideTitle = "Best 10-Cup Coffee Makers";
 export const metaTitle = "Best 10-Cup Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current 10-cup drip coffee makers on real brewed capacity, minimum-batch performance, and carafe handling so you can pick the right size machine.";
+export const metaDescription = "We compared four current 10-cup drip coffee makers on real brewed capacity, minimum-batch performance, and carafe handling so you can pick the right size.";
 export const mainKeyword = "10 cup coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

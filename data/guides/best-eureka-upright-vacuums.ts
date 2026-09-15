@@ -1,7 +1,7 @@
 export const guideSlug = "best-eureka-upright-vacuums";
 export const guideTitle = "Best Eureka Upright Vacuums (2026)";
 export const metaTitle = "Best Eureka Upright Vacuums (2026): 7 Picks Compared";
-export const metaDescription = "The best Eureka upright vacuums for 2026, compared on suction, price, and filtration.";
+export const metaDescription = "The best Eureka upright vacuums for 2026, compared on suction, price, and filtration, weighing 7 current models on the specs and details that matter.";
 export const mainKeyword = "best eureka upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

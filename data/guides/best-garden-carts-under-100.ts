@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-carts-under-100";
 export const guideTitle = "Best Garden Carts Under $100 (2026)";
 export const metaTitle = "Best Garden Carts Under $100 (2026): Top Picks";
-export const metaDescription = "The best garden carts and utility wagons under $100, compared on weight capacity, tires, and foldability.";
+export const metaDescription = "The best garden carts and utility wagons under $100, compared on weight capacity, tires, and foldability, with real pros and cons for each pick.";
 export const mainKeyword = "best garden cart under 100";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

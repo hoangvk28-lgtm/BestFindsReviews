@@ -1,7 +1,7 @@
 export const guideSlug = "best-large-capacity-wet-dry-vacuums";
 export const guideTitle = "Best Large-Capacity Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Large-Capacity Wet-Dry Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best large-tank wet-dry vacuums for 2026, compared on gallon capacity, motor power, and price.";
+export const metaDescription = "The best large-tank wet-dry vacuums for 2026, compared on gallon capacity, motor power, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best large-capacity wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

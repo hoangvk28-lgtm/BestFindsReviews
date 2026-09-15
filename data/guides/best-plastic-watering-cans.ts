@@ -1,7 +1,7 @@
 export const guideSlug = "best-plastic-watering-cans";
 export const guideTitle = "Best Plastic Watering Cans (2026)";
 export const metaTitle = "Best Plastic Watering Cans (2026)";
-export const metaDescription = "The best plastic watering cans compared, light rustproof cans from a half-gallon indoor can to a 2.64-gallon garden can, based on real weight, balance, and spout design.";
+export const metaDescription = "The best plastic watering cans compared, light rustproof cans from a half-gallon indoor can to a 2.64-gallon garden can, based on real weight, balance.";
 export const mainKeyword = "plastic watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

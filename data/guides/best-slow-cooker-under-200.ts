@@ -1,7 +1,7 @@
 export const guideSlug = "best-slow-cooker-under-200";
 export const guideTitle = "Best Slow Cooker Under $200 (2026)";
 export const metaTitle = "Best Slow Cooker Under $200 (2026): 7 Picks Compared";
-export const metaDescription = "Seven slow cooker options under $200, topped by the 8-quart Instant Pot Pro multi-cooker for buyers who want maximum capacity and function count without overspending.";
+export const metaDescription = "Seven slow cooker options under $200, topped by the 8-quart Instant Pot Pro multi-cooker for buyers who want maximum capacity and function count without.";
 export const mainKeyword = "best slow cooker under $200";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

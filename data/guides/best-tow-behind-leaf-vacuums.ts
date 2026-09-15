@@ -1,7 +1,7 @@
 export const guideSlug = "best-tow-behind-leaf-vacuums";
 export const guideTitle = "Best Tow-Behind Leaf Vacuums (2026)";
 export const metaTitle = "Best Tow-Behind Leaf Vacuums (2026): Top Picks Compared";
-export const metaDescription = "The best tow-behind leaf vacuums for riding mowers and tractors, compared on capacity, engine power, and dump control.";
+export const metaDescription = "The best tow-behind leaf vacuums for riding mowers and tractors, compared on capacity, engine power, and dump control, with real pros and cons for each pick.";
 export const mainKeyword = "leaf vacuum trailer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

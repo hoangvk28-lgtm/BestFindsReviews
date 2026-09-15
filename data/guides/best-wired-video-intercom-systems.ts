@@ -1,7 +1,7 @@
 export const guideSlug = "best-wired-video-intercom-systems";
 export const guideTitle = "Best Wired Video Intercom Systems (2026)";
 export const metaTitle = "Best Wired Video Intercom Systems (2026): 7 Picks Compared";
-export const metaDescription = "The best wired video intercom systems for 2026, compared on reliability and features.";
+export const metaDescription = "The best wired video intercom systems for 2026, compared on reliability and features, with a full breakdown of 7 options based on real specs and feedback.";
 export const mainKeyword = "video intercom wired";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

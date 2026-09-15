@@ -1,8 +1,7 @@
 export const guideSlug = "best-electric-percolators";
 export const guideTitle = "Best Electric Percolators";
 export const metaTitle = "Best Electric Percolators (2026): 4 Household Models Compared";
-export const metaDescription =
-  "We compared four current household electric percolators on over-extraction risk, brew time at min and max capacity, spout and cord safety, and cleaning the stem and basket.";
+export const metaDescription = "We compared four current household electric percolators on over-extraction risk, brew time at min and max capacity, spout and cord safety.";
 export const mainKeyword = "percolator coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-ryobi-cordless-grass-shears";
 export const guideTitle = "Best Ryobi Cordless Grass Shears (2026)";
 export const metaTitle = "Best Ryobi Cordless Grass Shears (2026): 2 Picks Compared";
-export const metaDescription = "We compared two current Ryobi ONE+ cordless grass shear options.";
+export const metaDescription = "We compared two current Ryobi ONE+ cordless grass shear options, with honest pros and cons for each of the 2 picks reviewed.";
 export const mainKeyword = "ryobi cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-48-inch-lawn-sweepers";
 export const guideTitle = "Best 48-Inch Lawn Sweepers (2026)";
 export const metaTitle = "Best 48-Inch Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best 48-inch tow-behind lawn sweepers for large properties, compared on hopper capacity and build quality.";
+export const metaDescription = "The best 48-inch tow-behind lawn sweepers for large properties, compared on hopper capacity and build quality, with real pros and cons for each pick.";
 export const mainKeyword = "48 lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

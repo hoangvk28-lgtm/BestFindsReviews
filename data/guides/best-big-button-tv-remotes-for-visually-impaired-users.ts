@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-tv-remotes-for-visually-impaired-users";
 export const guideTitle = "Best Big-Button TV Remotes for Visually Impaired Users (2026)";
 export const metaTitle = "Best Big-Button TV Remotes for Visually Impaired Users (2026): 5 Picks Compared";
-export const metaDescription = "The best big-button TV remotes for visually impaired users in 2026, compared on tactile distinction.";
+export const metaDescription = "The best big-button TV remotes for visually impaired users in 2026, compared on tactile distinction, with real pros and cons for each pick.";
 export const mainKeyword = "big button tv remote for visually impaired";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

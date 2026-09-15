@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-under-1000";
 export const guideTitle = "Best Robot Vacuums Under $1000";
 export const metaTitle = "Best Robot Vacuums Under $1000 (2026): 7 Models Compared";
-export const metaDescription =
-  "We compared seven current robot vacuums priced under $1000, from near-flagship mopping combos to reliable mid-tier picks, on suction, dock features, and real ownership cost.";
+export const metaDescription = "We compared seven current robot vacuums priced under $1000, from near-flagship mopping combos to reliable mid-tier picks, on suction, dock features.";
 export const mainKeyword = "robot vacuums under $1000";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

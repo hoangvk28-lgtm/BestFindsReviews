@@ -1,7 +1,7 @@
 export const guideSlug = "best-articulating-head-cordless-pole-hedge-trimmers";
 export const guideTitle = "Best Articulating-Head Cordless Pole Hedge Trimmers (2026)";
 export const metaTitle = "Best Articulating-Head Cordless Pole Hedge Trimmers (2026)";
-export const metaDescription = "The best articulating-head cordless pole hedge trimmers compared by angle range and pivot design, for cutting hedge tops and angled surfaces without repositioning.";
+export const metaDescription = "The best articulating-head cordless pole hedge trimmers compared by angle range and pivot design, for cutting hedge tops and angled surfaces without.";
 export const mainKeyword = "articulating head cordless pole hedge trimmer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

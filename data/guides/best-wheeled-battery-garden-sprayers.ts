@@ -1,7 +1,7 @@
 export const guideSlug = "best-wheeled-battery-garden-sprayers";
 export const guideTitle = "Best Wheeled Battery Garden Sprayers (2026)";
 export const metaTitle = "Best Wheeled Battery Garden Sprayers (2026)";
-export const metaDescription = "The best wheeled battery garden sprayers, compared on tank capacity and hose length.";
+export const metaDescription = "The best wheeled battery garden sprayers, compared on tank capacity and hose length, with a full breakdown of 3 options based on real specs and feedback.";
 export const mainKeyword = "best battery powered garden sprayer on wheels";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

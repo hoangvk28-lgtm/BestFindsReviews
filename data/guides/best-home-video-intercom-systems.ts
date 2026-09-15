@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-video-intercom-systems";
 export const guideTitle = "Best Home Video Intercom Systems (2026)";
 export const metaTitle = "Best Home Video Intercom Systems (2026): 7 Picks Compared";
-export const metaDescription = "The best home video intercom systems for 2026, compared on installation ease and features.";
+export const metaDescription = "The best home video intercom systems for 2026, compared on installation ease and features, with real pros and cons for each pick.";
 export const mainKeyword = "video intercom home";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

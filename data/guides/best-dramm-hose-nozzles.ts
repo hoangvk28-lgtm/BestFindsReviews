@@ -1,7 +1,7 @@
 export const guideSlug = "best-dramm-hose-nozzles";
 export const guideTitle = "Best Dramm Hose Nozzles (2026)";
 export const metaTitle = "Best Dramm Hose Nozzles (2026)";
-export const metaDescription = "The Dramm hose nozzle range compared, from the 9-pattern Revolver to the thumb-control Revolution and the gentle Water Breaker, based on real patterns, control, and use.";
+export const metaDescription = "The Dramm hose nozzle range compared, from the 9-pattern Revolver to the thumb-control Revolution and the gentle Water Breaker, based on real patterns.";
 export const mainKeyword = "Dramm hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

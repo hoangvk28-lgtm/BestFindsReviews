@@ -1,7 +1,7 @@
 export const guideSlug = "best-manual-lawn-sweepers";
 export const guideTitle = "Best Manual Lawn Sweepers (2026)";
 export const metaTitle = "Best Manual Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best manual push lawn sweepers with no motor required, compared on ease of push, bag capacity, and storage.";
+export const metaDescription = "The best manual push lawn sweepers with no motor required, compared on ease of push, bag capacity, and storage, with real pros and cons for each pick.";
 export const mainKeyword = "lawn sweeper manual";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

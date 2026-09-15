@@ -1,7 +1,7 @@
 export const guideSlug = "best-acer-chromebooks";
 export const guideTitle = "Best Acer Chromebooks (2026)";
 export const metaTitle = "Best Acer Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best Acer Chromebooks for 2026, compared on processor, battery life, and build quality.";
+export const metaDescription = "The best Acer Chromebooks for 2026, compared on processor, battery life, and build quality, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "best acer chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

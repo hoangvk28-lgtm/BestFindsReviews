@@ -1,8 +1,7 @@
 export const guideSlug = "best-low-profile-robot-vacuums";
 export const guideTitle = "Best Low-Profile Robot Vacuums";
 export const metaTitle = "Best Low-Profile Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current low-profile robot vacuums on body height, under-furniture clearance, suction, and navigation so you can pick one that actually fits under your furniture.";
+export const metaDescription = "We compared eight current low-profile robot vacuums on body height, under-furniture clearance, suction, and navigation so you can pick one that actually fits.";
 export const mainKeyword = "low-profile robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

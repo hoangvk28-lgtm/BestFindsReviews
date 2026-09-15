@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-under-50";
 export const guideTitle = "Best Coffee Makers Under $50";
 export const metaTitle = "Best Coffee Makers Under $50 (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current drip and percolator coffee makers priced under $50 on capacity, filter cost, and real first-year ownership cost so you know what you actually get at this price.";
+export const metaDescription = "We compared four current drip and percolator coffee makers priced under $50 on capacity, filter cost, and real first-year ownership cost.";
 export const mainKeyword = "coffee makers under $50";
 export const lastUpdated = "2026-08-04";
 export const readTime = "8 min";

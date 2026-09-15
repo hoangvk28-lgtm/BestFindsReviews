@@ -1,7 +1,7 @@
 export const guideSlug = "best-garment-steamer-under-50";
 export const guideTitle = "Best Garment Steamer Under $50 (2026)";
 export const metaTitle = "Best Garment Steamer Under $50 (2026): 7 Picks Compared";
-export const metaDescription = "We checked live pricing and wattage specs across budget garment steamers to find the most credible options under $50, including 2-in-1 travel units with worldwide voltage.";
+export const metaDescription = "We checked live pricing and wattage specs across budget garment steamers to find the most credible options under $50, including 2-in-1 travel units.";
 export const mainKeyword = "best garment steamer under $50";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-medical-alert-systems-for-couples";
 export const guideTitle = "Best Medical Alert Systems for Couples (2026)";
 export const metaTitle = "Best Medical Alert Systems for Couples (2026): 6 Picks Compared";
-export const metaDescription = "The best medical alert systems for couples in 2026, compared on multi-user support and cost per person.";
+export const metaDescription = "The best medical alert systems for couples in 2026, compared on multi-user support and cost per person, with real pros and cons for each pick.";
 export const mainKeyword = "best medical alert systems for couples";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

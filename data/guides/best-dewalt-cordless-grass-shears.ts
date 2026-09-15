@@ -1,7 +1,7 @@
 export const guideSlug = "best-dewalt-cordless-grass-shears";
 export const guideTitle = "Best DeWalt Cordless Grass Shears (2026)";
 export const metaTitle = "Best DeWalt Cordless Grass Shears (2026): 3 Picks Compared";
-export const metaDescription = "We compared three current cordless grass shears compatible with DeWalt 20V batteries.";
+export const metaDescription = "We compared three current cordless grass shears compatible with DeWalt 20V batteries, with real pros and cons for each pick.";
 export const mainKeyword = "dewalt cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-speakers";
 export const guideTitle = "Best Smart Speakers (2026)";
 export const metaTitle = "Best Smart Speakers (2026): Alexa, Google, Siri & Multi-Assistant Picks";
-export const metaDescription = "We compared the top smart speakers across Alexa, Google Assistant, Siri, and multi-assistant ecosystems, covering price, audio quality, and smart home integration.";
+export const metaDescription = "We compared the top smart speakers across Alexa, Google Assistant, Siri, and multi-assistant ecosystems, covering price, audio quality.";
 export const mainKeyword = "best smart speakers";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

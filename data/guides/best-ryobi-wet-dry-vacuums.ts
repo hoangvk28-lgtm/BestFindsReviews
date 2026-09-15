@@ -1,7 +1,7 @@
 export const guideSlug = "best-ryobi-wet-dry-vacuums";
 export const guideTitle = "Best Ryobi Wet-Dry Vacuums (2026)";
 export const metaTitle = "Best Ryobi Wet-Dry Vacuums (2026): 5 Picks Compared";
-export const metaDescription = "The best Ryobi wet-dry shop vacuums for 2026, compared on battery compatibility, power, and price.";
+export const metaDescription = "The best Ryobi wet-dry shop vacuums for 2026, compared on battery compatibility, power, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best ryobi wet-dry vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

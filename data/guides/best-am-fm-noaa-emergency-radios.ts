@@ -1,7 +1,7 @@
 export const guideSlug = "best-am-fm-noaa-emergency-radios";
 export const guideTitle = "Best AM/FM/NOAA Emergency Radios (2026)";
 export const metaTitle = "Best AM/FM/NOAA Emergency Radios (2026): 6 Picks Compared";
-export const metaDescription = "The best AM/FM/NOAA emergency radios for 2026, compared on tri-band reception.";
+export const metaDescription = "The best AM/FM/NOAA emergency radios for 2026, compared on tri-band reception, weighing 6 current models on specs, price, and the details that matter most.";
 export const mainKeyword = "am fm emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

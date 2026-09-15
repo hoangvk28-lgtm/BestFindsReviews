@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-dishwasher-under-700";
 export const guideTitle = "Best Portable Dishwasher Under $700 (2026)";
 export const metaTitle = "Best Portable Dishwasher Under $700 (2026): 8 Picks Compared";
-export const metaDescription = "Eight portable dishwasher picks under $700, this is where a true rolling, faucet-connected portable dishwasher enters the picture alongside the largest countertop-class units.";
+export const metaDescription = "Eight portable dishwasher picks under $700, this is where a true rolling, faucet-connected portable dishwasher enters the picture alongside the largest.";
 export const mainKeyword = "best portable dishwasher under $700";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

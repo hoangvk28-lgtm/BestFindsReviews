@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-lawn-edger-under-100";
 export const guideTitle = "Best Cordless Lawn Edger Under $100 (2026)";
 export const metaTitle = "Best Cordless Lawn Edger Under $100 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current cordless lawn edgers priced under $100 on edge quality, battery kit pricing, and form factor.";
+export const metaDescription = "We compare current cordless lawn edgers priced under $100 on edge quality, battery kit pricing, and form factor, with real pros and cons for each pick.";
 export const mainKeyword = "best cordless lawn edger under $100";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

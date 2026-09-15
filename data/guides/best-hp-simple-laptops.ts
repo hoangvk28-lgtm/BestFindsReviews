@@ -1,7 +1,7 @@
 export const guideSlug = "best-hp-simple-laptops";
 export const guideTitle = "Best HP Simple Laptops (2026)";
 export const metaTitle = "Best HP Simple Laptops (2026): 6 Picks Compared";
-export const metaDescription = "The best HP laptops for everyday, simple use in 2026, compared on processor, features, and price.";
+export const metaDescription = "The best HP laptops for everyday, simple use in 2026, compared on processor, features, and price, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "best hp simple laptops";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

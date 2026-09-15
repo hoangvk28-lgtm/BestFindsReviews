@@ -1,7 +1,7 @@
 export const guideSlug = "best-emergency-radio-beacons";
 export const guideTitle = "Best Emergency Radio Beacons (2026)";
 export const metaTitle = "Best Emergency Radio Beacons (2026): 3 Picks Compared";
-export const metaDescription = "The best personal locator beacons for 2026, compared on satellite coverage and battery life.";
+export const metaDescription = "The best personal locator beacons for 2026, compared on satellite coverage and battery life, with honest pros and cons for each of the 3 picks reviewed.";
 export const mainKeyword = "emergency radio beacon";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

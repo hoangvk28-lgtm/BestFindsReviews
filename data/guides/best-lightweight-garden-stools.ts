@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-garden-stools";
 export const guideTitle = "Best Lightweight Garden Stools (2026)";
 export const metaTitle = "Best Lightweight Garden Stools (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current lightweight garden stools so you can pick the right one.";
+export const metaDescription = "We compared five current lightweight garden stools so you can pick the right one, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "lightweight garden stool";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-bucket-garden-tool-organizers";
 export const guideTitle = "Best Bucket Garden Tool Organizers (2026)";
 export const metaTitle = "Best Bucket Garden Tool Organizers (2026)";
-export const metaDescription = "The best bucket garden tool organizers compared, pocketed caddies that turn a 5-gallon bucket into a portable tool kit, based on real pocket count, fit, and durability.";
+export const metaDescription = "The best bucket garden tool organizers compared, pocketed caddies that turn a 5-gallon bucket into a portable tool kit, based on real pocket count, fit.";
 export const mainKeyword = "bucket garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

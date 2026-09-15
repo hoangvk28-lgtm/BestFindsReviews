@@ -1,8 +1,7 @@
 export const guideSlug = "best-coffee-makers-for-hard-water";
 export const guideTitle = "Best Coffee Makers for Hard Water";
 export const metaTitle = "Best Coffee Makers for Hard Water (2026): 5 Models Compared";
-export const metaDescription =
-  "We compared five current coffee makers on filter availability, descale access, and manufacturer descaling guidance so hard-water buyers know what actually holds up over time.";
+export const metaDescription = "We compared five current coffee makers on filter availability, descale access, and manufacturer descaling guidance so hard-water buyers know what actually.";
 export const mainKeyword = "coffee makers for hard water";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

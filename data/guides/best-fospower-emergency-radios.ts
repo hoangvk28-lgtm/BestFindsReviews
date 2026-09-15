@@ -1,7 +1,7 @@
 export const guideSlug = "best-fospower-emergency-radios";
 export const guideTitle = "Best FosPower Emergency Radios (2026)";
 export const metaTitle = "Best FosPower Emergency Radios (2026): 4 Picks Compared";
-export const metaDescription = "The best FosPower emergency radios for 2026, compared on capacity and features.";
+export const metaDescription = "The best FosPower emergency radios for 2026, compared on capacity and features, picked after comparing every current option in this category.";
 export const mainKeyword = "fospower emergency radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

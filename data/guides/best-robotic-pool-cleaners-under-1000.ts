@@ -1,7 +1,7 @@
 export const guideSlug = "best-robotic-pool-cleaners-under-1000";
 export const guideTitle = "Best Robotic Pool Cleaners Under $1000 (2026)";
 export const metaTitle = "Best Robotic Pool Cleaners Under $1000 (2026): 6 Top Picks";
-export const metaDescription = "The best robotic pool cleaners under $1000 compared, where the current lineup adds tethered flagships and AI-assisted navigation alongside strong cordless picks.";
+export const metaDescription = "The best robotic pool cleaners under $1000 compared, where the current lineup adds tethered flagships and AI-assisted navigation alongside strong cordless.";
 export const mainKeyword = "robotic pool cleaner under $1000";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

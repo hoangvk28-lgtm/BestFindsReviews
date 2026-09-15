@@ -1,7 +1,7 @@
 export const guideSlug = "best-panasonic-video-intercom-systems";
 export const guideTitle = "Best Panasonic Video Intercom Systems (2026)";
 export const metaTitle = "Best Panasonic Video Intercom Systems (2026): Reviewed";
-export const metaDescription = "A look at Panasonic's video intercom offering for 2026.";
+export const metaDescription = "A look at Panasonic's video intercom offering for 2026, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "panasonic video intercom";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-voice-remotes-for-seniors";
 export const guideTitle = "Best Voice Remotes for Seniors (2026)";
 export const metaTitle = "Best Voice Remotes for Seniors (2026): 6 Picks Compared";
-export const metaDescription = "The best voice remotes for seniors in 2026, compared on button size, simplicity, and voice reliability.";
+export const metaDescription = "The best voice remotes for seniors in 2026, compared on button size, simplicity, and voice reliability, with real pros and cons for each pick.";
 export const mainKeyword = "best voice remotes for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

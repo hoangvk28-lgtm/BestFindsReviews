@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-kneelers-with-handles";
 export const guideTitle = "Best Garden Kneelers With Handles (2026)";
 export const metaTitle = "Best Garden Kneelers With Handles (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current garden kneelers with handles for easier up-and-down transitions.";
+export const metaDescription = "We compared six current garden kneelers with handles for easier up-and-down transitions, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "best cordless grass shears with extension handle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

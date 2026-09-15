@@ -1,7 +1,7 @@
 export const guideSlug = "best-battery-operated-wireless-doorbells";
 export const guideTitle = "Best Battery-Operated Wireless Doorbells (2026)";
 export const metaTitle = "Best Battery-Operated Wireless Doorbells (2026): 6 Picks Compared";
-export const metaDescription = "The best battery-operated wireless doorbells for 2026, compared on battery life and features.";
+export const metaDescription = "The best battery-operated wireless doorbells for 2026, compared on battery life and features, weighing 6 current models on the specs and details that matter.";
 export const mainKeyword = "wireless doorbell battery operated";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

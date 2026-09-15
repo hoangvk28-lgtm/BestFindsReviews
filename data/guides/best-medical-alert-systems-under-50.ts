@@ -1,7 +1,7 @@
 export const guideSlug = "best-medical-alert-systems-under-50";
 export const guideTitle = "Best Medical Alert Systems Under $50 (2026)";
 export const metaTitle = "Best Medical Alert Systems Under $50 (2026): Top Picks";
-export const metaDescription = "The best medical alert systems under $50 with no monthly fee, compared on range, battery life, and ease of use.";
+export const metaDescription = "The best medical alert systems under $50 with no monthly fee, compared on range, battery life, and ease of use, with real pros and cons for each pick.";
 export const mainKeyword = "best medical alert system under 50";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-09-04";

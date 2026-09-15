@@ -1,7 +1,7 @@
 export const guideSlug = "best-simple-laptops-for-office-work";
 export const guideTitle = "Best Simple Laptops for Office Work (2026)";
 export const metaTitle = "Best Simple Laptops for Office Work (2026): 6 Picks Compared";
-export const metaDescription = "The best simple laptops for office and business work in 2026, compared on processor, storage, and included software.";
+export const metaDescription = "The best simple laptops for office and business work in 2026, compared on processor, storage, and included software, with real pros and cons for each pick.";
 export const mainKeyword = "best simple laptops for office work";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

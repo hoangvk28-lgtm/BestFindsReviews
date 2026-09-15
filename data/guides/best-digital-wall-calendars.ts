@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-wall-calendars";
 export const guideTitle = "Best Digital Wall Calendars (2026)";
 export const metaTitle = "Best Digital Wall Calendars (2026): 7 Picks Compared";
-export const metaDescription = "The best digital wall calendars for 2026, compared on screen size and calendar sync.";
+export const metaDescription = "The best digital wall calendars for 2026, compared on screen size and calendar sync, with real pros and cons for each pick.";
 export const mainKeyword = "digital wall calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

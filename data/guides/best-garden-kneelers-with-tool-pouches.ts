@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-kneelers-with-tool-pouches";
 export const guideTitle = "Best Garden Kneelers With Tool Pouches (2026)";
 export const metaTitle = "Best Garden Kneelers With Tool Pouches (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current garden kneelers with built-in tool pouches or bags.";
+export const metaDescription = "We compared six current garden kneelers with built-in tool pouches or bags, with honest pros and cons for each of the 6 picks reviewed.";
 export const mainKeyword = "folding garden kneeler & seat with tool pouches";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

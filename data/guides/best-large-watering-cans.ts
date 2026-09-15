@@ -1,7 +1,7 @@
 export const guideSlug = "best-large-watering-cans";
 export const guideTitle = "Best Large Watering Cans (2026)";
 export const metaTitle = "Best Large Watering Cans (2026)";
-export const metaDescription = "The best large watering cans compared, 2.5-gallon-plus cans for big gardens and greenhouses, based on real capacity, filled weight, handle design, and durability.";
+export const metaDescription = "The best large watering cans compared, 2.5-gallon-plus cans for big gardens and greenhouses, based on real capacity, filled weight, handle design.";
 export const mainKeyword = "large watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-flipper-big-button-tv-remotes";
 export const guideTitle = "Best Flipper Big-Button TV Remotes (2026)";
 export const metaTitle = "Best Flipper Big-Button TV Remotes (2026): 2 Picks Compared";
-export const metaDescription = "The best Flipper big-button TV remotes for 2026, compared on setup and features.";
+export const metaDescription = "The best Flipper big-button TV remotes for 2026, compared on setup and features, covering 2 current picks and what to check before buying.";
 export const mainKeyword = "flipper big button universal tv remote";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

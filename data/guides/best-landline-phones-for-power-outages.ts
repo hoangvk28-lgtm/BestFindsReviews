@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-phones-for-power-outages";
 export const guideTitle = "Best Landline Phones for Power Outages (2026)";
 export const metaTitle = "Best Landline Phones for Power Outages (2026): 6 Picks Compared";
-export const metaDescription = "The best landline phones that keep working during power outages in 2026.";
+export const metaDescription = "The best landline phones that keep working during power outages in 2026, comparing 6 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "landline phones for power outages";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

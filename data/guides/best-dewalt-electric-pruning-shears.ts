@@ -1,7 +1,7 @@
 export const guideSlug = "best-dewalt-electric-pruning-shears";
 export const guideTitle = "Best Dewalt Electric Pruning Shears (2026)";
 export const metaTitle = "Best Dewalt Electric Pruning Shears (2026): 7 Models Compared";
-export const metaDescription = "We compared seven current DeWalt and DeWalt-compatible electric pruning shears on cutting capacity, battery configuration, and value so you can pick the right one without guessing.";
+export const metaDescription = "We compared seven current DeWalt and DeWalt-compatible electric pruning shears on cutting capacity, battery configuration.";
 export const mainKeyword = "dewalt electric pruning shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

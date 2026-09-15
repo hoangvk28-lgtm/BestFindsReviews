@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-thermostats-for-home";
 export const guideTitle = "Best Smart Thermostats for Home (2026)";
 export const metaTitle = "Best Smart Thermostats for Home (2026): 7 Picks Compared";
-export const metaDescription = "The best smart thermostats for home use in 2026, compared on ease of use and everyday reliability.";
+export const metaDescription = "The best smart thermostats for home use in 2026, compared on ease of use and everyday reliability, with real pros and cons for each pick.";
 export const mainKeyword = "smart thermostat for home";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

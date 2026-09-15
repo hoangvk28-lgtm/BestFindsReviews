@@ -1,7 +1,7 @@
 export const guideSlug = "best-roku-voice-remotes";
 export const guideTitle = "Best Roku Voice Remotes (2026)";
 export const metaTitle = "Best Roku Voice Remotes (2026): 5 Picks Compared";
-export const metaDescription = "The best Roku voice remotes for 2026, compared on battery type, voice recognition, and compatibility.";
+export const metaDescription = "The best Roku voice remotes for 2026, compared on battery type, voice recognition, and compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best roku voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

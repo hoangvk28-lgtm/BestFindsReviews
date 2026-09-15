@@ -1,7 +1,7 @@
 export const guideSlug = "best-easy-squeeze-hose-nozzles";
 export const guideTitle = "Best Easy-Squeeze Hose Nozzles (2026)";
 export const metaTitle = "Best Easy-Squeeze Hose Nozzles (2026)";
-export const metaDescription = "The best easy-squeeze hose nozzles compared, low-effort trigger and relaxed-grip nozzles that spare the hand, based on real trigger force, grip shape, and patterns.";
+export const metaDescription = "The best easy-squeeze hose nozzles compared, low-effort trigger and relaxed-grip nozzles that spare the hand, based on real trigger force, grip shape.";
 export const mainKeyword = "easy-squeeze hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

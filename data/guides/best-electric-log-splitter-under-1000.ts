@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-log-splitter-under-1000";
 export const guideTitle = "Best Electric Log Splitter Under $1000 (2026)";
 export const metaTitle = "Best Electric Log Splitter Under $1000 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current electric log splitters priced under $1000 on splitting force, cycle time, and safety.";
+export const metaDescription = "We compare current electric log splitters priced under $1000 on splitting force, cycle time, and safety, with real pros and cons for each pick.";
 export const mainKeyword = "best electric log splitter under $1000";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

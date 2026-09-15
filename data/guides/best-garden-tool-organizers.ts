@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-tool-organizers";
 export const guideTitle = "Best Garden Tool Organizers (2026)";
 export const metaTitle = "Best Garden Tool Organizers (2026)";
-export const metaDescription = "The best garden tool organizers compared, wall-mount rails and freestanding towers that hold rakes, shovels, and hand tools, based on real capacity, mount type, and build.";
+export const metaDescription = "The best garden tool organizers compared, wall-mount rails and freestanding towers that hold rakes, shovels, and hand tools, based on real capacity.";
 export const mainKeyword = "garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

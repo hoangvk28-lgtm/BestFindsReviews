@@ -1,7 +1,7 @@
 export const guideSlug = "best-universal-voice-remotes";
 export const guideTitle = "Best Universal Voice Remotes (2026)";
 export const metaTitle = "Best Universal Voice Remotes (2026): 7 Picks Compared";
-export const metaDescription = "The best universal voice remotes for 2026, compared on brand compatibility and features.";
+export const metaDescription = "The best universal voice remotes for 2026, compared on brand compatibility and features, weighing 7 current models on the specs and details that matter.";
 export const mainKeyword = "best universal voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

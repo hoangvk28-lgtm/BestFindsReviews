@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-tillers";
 export const guideTitle = "Best Electric Tillers (2026)";
 export const metaTitle = "Best Electric Tillers (2026): 6 Top Picks";
-export const metaDescription = "The best electric tillers across corded and cordless designs, compared on tilling width, depth, and power.";
+export const metaDescription = "The best electric tillers across corded and cordless designs, compared on tilling width, depth, and power, with real pros and cons for each pick.";
 export const mainKeyword = "electric tiller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

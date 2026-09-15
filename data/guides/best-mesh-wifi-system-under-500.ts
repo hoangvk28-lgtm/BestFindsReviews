@@ -1,7 +1,7 @@
 export const guideSlug = "best-mesh-wifi-system-under-500";
 export const guideTitle = "Best Mesh WiFi System Under $500 (2026)";
 export const metaTitle = "Best Mesh WiFi System Under $500 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current mesh WiFi systems priced under $500 on node count, Wi-Fi generation, and backhaul.";
+export const metaDescription = "We compare current mesh WiFi systems priced under $500 on node count, Wi-Fi generation, and backhaul, with real pros and cons for each pick.";
 export const mainKeyword = "best mesh wifi system under $500";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

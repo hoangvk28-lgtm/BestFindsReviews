@@ -1,7 +1,7 @@
 export const guideSlug = "best-orbit-watering-timers";
 export const guideTitle = "Best Orbit Watering Timers (2026)";
 export const metaTitle = "Best Orbit Watering Timers (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current Orbit watering timers across mechanical, digital, and smart models.";
+export const metaDescription = "We compared six current Orbit watering timers across mechanical, digital, and smart models, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "orbit watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

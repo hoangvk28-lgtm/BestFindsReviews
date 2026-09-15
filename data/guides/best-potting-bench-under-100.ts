@@ -1,7 +1,7 @@
 export const guideSlug = "best-potting-bench-under-100";
 export const guideTitle = "Best Potting Bench Under $100 (2026)";
 export const metaTitle = "Best Potting Bench Under $100 (2026): 2 Picks Compared";
-export const metaDescription = "We compare current potting benches priced under $100 on worktop area, stability, and outdoor durability.";
+export const metaDescription = "We compare current potting benches priced under $100 on worktop area, stability, and outdoor durability, with real pros and cons for each pick.";
 export const mainKeyword = "best potting bench under $100";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

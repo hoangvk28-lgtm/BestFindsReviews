@@ -1,7 +1,7 @@
 export const guideSlug = "best-wet-dry-vacuums-with-blower-functions";
 export const guideTitle = "Best Wet-Dry Vacuums With Blower Functions (2026)";
 export const metaTitle = "Best Wet-Dry Vacuums With Blower Functions (2026): 8 Picks Compared";
-export const metaDescription = "The best wet-dry vacuums with a built-in blower mode for 2026, compared on airflow, tank size, and price.";
+export const metaDescription = "The best wet-dry vacuums with a built-in blower mode for 2026, compared on airflow, tank size, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best wet-dry vacuums with blower functions";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

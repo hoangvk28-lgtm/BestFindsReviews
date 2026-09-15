@@ -1,7 +1,7 @@
 export const guideSlug = "best-gilmour-hose-nozzles";
 export const guideTitle = "Best Gilmour Hose Nozzles (2026)";
 export const metaTitle = "Best Gilmour Hose Nozzles (2026)";
-export const metaDescription = "The Gilmour hose nozzle range compared, from the solid metal threaded-front nozzle to the Pro Twist fireman and the thumb-control models, based on real build, control, and use.";
+export const metaDescription = "The Gilmour hose nozzle range compared, from the solid metal threaded-front nozzle to the Pro Twist fireman and the thumb-control models, based on real build.";
 export const mainKeyword = "Gilmour hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

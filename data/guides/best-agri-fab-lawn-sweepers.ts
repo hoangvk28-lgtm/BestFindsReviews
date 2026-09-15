@@ -1,7 +1,7 @@
 export const guideSlug = "best-agri-fab-lawn-sweepers";
 export const guideTitle = "Best Agri-Fab Lawn Sweepers (2026)";
 export const metaTitle = "Best Agri-Fab Lawn Sweepers (2026): Top Picks Compared";
-export const metaDescription = "The best Agri-Fab lawn sweepers across push and tow-behind sizes, compared on hopper capacity and brush adjustment.";
+export const metaDescription = "The best Agri-Fab lawn sweepers across push and tow-behind sizes, compared on hopper capacity and brush adjustment, with real pros and cons for each pick.";
 export const mainKeyword = "agri fab lawn sweeper";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

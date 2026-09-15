@@ -1,7 +1,7 @@
 export const guideSlug = "best-wearable-fall-detection-devices";
 export const guideTitle = "Best Wearable Fall Detection Devices (2026)";
 export const metaTitle = "Best Wearable Fall Detection Devices (2026): 7 Picks Compared";
-export const metaDescription = "The best wearable fall detection devices for 2026, compared on comfort, battery life, and detection reliability.";
+export const metaDescription = "The best wearable fall detection devices for 2026, compared on comfort, battery life, and detection reliability, with real pros and cons for each pick.";
 export const mainKeyword = "best wearable fall detection devices";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

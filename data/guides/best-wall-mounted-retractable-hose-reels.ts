@@ -1,7 +1,7 @@
 export const guideSlug = "best-wall-mounted-retractable-hose-reels";
 export const guideTitle = "Best Wall-Mounted Retractable Hose Reels (2026)";
 export const metaTitle = "Best Wall-Mounted Retractable Hose Reels (2026): Top Picks";
-export const metaDescription = "The best wall-mounted retractable hose reels, compared on capacity, swivel range, and mounting hardware.";
+export const metaDescription = "The best wall-mounted retractable hose reels, compared on capacity, swivel range, and mounting hardware, with real pros and cons for each pick.";
 export const mainKeyword = "retractable hose reel wall mount";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-heath-zenith-wireless-doorbells";
 export const guideTitle = "Best Heath Zenith Wireless Doorbells (2026)";
 export const metaTitle = "Best Heath Zenith Wireless Doorbells (2026): 3 Picks Compared";
-export const metaDescription = "The best Heath Zenith wireless doorbells for 2026, compared on design and features.";
+export const metaDescription = "The best Heath Zenith wireless doorbells for 2026, compared on design and features, with honest pros and cons for each of the 3 picks reviewed.";
 export const mainKeyword = "heath zenith wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

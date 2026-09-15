@@ -1,7 +1,7 @@
 export const guideSlug = "best-canister-vacuums-without-beater-bars";
 export const guideTitle = "Best Canister Vacuums Without Beater Bars (2026)";
 export const metaTitle = "Best Canister Vacuums Without Beater Bars (2026): 7 Picks Compared";
-export const metaDescription = "The best canister vacuums without a beater bar for 2026, compared on suction-only design, hard-floor safety, and price.";
+export const metaDescription = "The best canister vacuums without a beater bar for 2026, compared on suction-only design, hard-floor safety, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best canister vacuums without beater bars";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

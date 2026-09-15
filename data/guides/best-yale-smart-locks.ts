@@ -1,7 +1,7 @@
 export const guideSlug = "best-yale-smart-locks";
 export const guideTitle = "Best Yale Smart Locks (2026)";
 export const metaTitle = "Best Yale Smart Locks (2026): 6 Picks Compared";
-export const metaDescription = "The best Yale smart locks for 2026, compared on Assure Lock 2 models and Nest integration.";
+export const metaDescription = "The best Yale smart locks for 2026, compared on Assure Lock 2 models and Nest integration, with real pros and cons for each pick.";
 export const mainKeyword = "yale smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

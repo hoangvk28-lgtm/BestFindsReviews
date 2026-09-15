@@ -1,7 +1,7 @@
 export const guideSlug = "best-large-digital-calendars";
 export const guideTitle = "Best Large Digital Calendars (2026)";
 export const metaTitle = "Best Large Digital Calendars (2026): 6 Picks Compared";
-export const metaDescription = "The best large digital calendars for 2026, compared for visibility and household size.";
+export const metaDescription = "The best large digital calendars for 2026, compared for visibility and household size, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "large digital calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

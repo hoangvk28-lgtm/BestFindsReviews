@@ -1,7 +1,7 @@
 export const guideSlug = "best-rachio-smart-sprinkler-controllers";
 export const guideTitle = "Best Rachio Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best Rachio Smart Sprinkler Controllers (2026): Top Picks";
-export const metaDescription = "The best Rachio smart sprinkler controllers, compared on zone count, weather intelligence, and bundle options.";
+export const metaDescription = "The best Rachio smart sprinkler controllers, compared on zone count, weather intelligence, and bundle options, with real pros and cons for each pick.";
 export const mainKeyword = "rachio 3 smart sprinkler controller";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

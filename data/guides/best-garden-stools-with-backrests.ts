@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-stools-with-backrests";
 export const guideTitle = "Best Garden Stools With Backrests (2026)";
 export const metaTitle = "Best Garden Stools With Backrests (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current garden stools with backrests for extended comfort.";
+export const metaDescription = "We compared five current garden stools with backrests for extended comfort, based on 5 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "garden stools with backrests";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

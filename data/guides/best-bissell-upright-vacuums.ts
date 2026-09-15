@@ -1,7 +1,7 @@
 export const guideSlug = "best-bissell-upright-vacuums";
 export const guideTitle = "Best Bissell Upright Vacuums (2026)";
 export const metaTitle = "Best Bissell Upright Vacuums (2026): 10 Picks Compared";
-export const metaDescription = "The best Bissell upright vacuums for 2026, compared on suction, filtration, and price.";
+export const metaDescription = "The best Bissell upright vacuums for 2026, compared on suction, filtration, and price, covering 10 current picks and what to check before buying.";
 export const mainKeyword = "best bissell upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-20v-cordless-grass-shears";
 export const guideTitle = "Best 20V Cordless Grass Shears (2026)";
 export const metaTitle = "Best 20V Cordless Grass Shears (2026): 4 Picks Compared";
-export const metaDescription = "We compared four current 20V cordless grass shear options across brands.";
+export const metaDescription = "We compared four current 20V cordless grass shear options across brands, with a full side-by-side breakdown of 4 options and verified buyer feedback.";
 export const mainKeyword = "20v cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-upright-vacuums-for-hardwood-floors";
 export const guideTitle = "Best Upright Vacuums for Hardwood Floors (2026)";
 export const metaTitle = "Best Upright Vacuums for Hardwood Floors (2026): 8 Picks Compared";
-export const metaDescription = "The best upright vacuums for hardwood floors in 2026, compared on brush-roll shutoff, suction, and price.";
+export const metaDescription = "The best upright vacuums for hardwood floors in 2026, compared on brush-roll shutoff, suction, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best upright vacuums for hardwood floors";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

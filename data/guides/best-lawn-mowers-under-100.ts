@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-mowers-under-100";
 export const guideTitle = "Best Lawn Mowers Under $100";
 export const metaTitle = "Best Lawn Mowers Under $100 (2026): Honest Picks and Buying Guide";
-export const metaDescription = "Best lawn mowers under $100 compared by cut width, power source, maintenance, and real ownership cost, with an honest look at how thin this price tier actually is.";
+export const metaDescription = "Best lawn mowers under $100 compared by cut width, power source, maintenance, and real ownership cost, with an honest look at how thin this price tier.";
 export const mainKeyword = "lawn mowers under 100";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

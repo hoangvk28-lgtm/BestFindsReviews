@@ -1,8 +1,7 @@
 export const guideSlug = "best-self-emptying-robot-vacuums";
 export const guideTitle = "Best Self-Emptying Robot Vacuums";
 export const metaTitle = "Best Self-Emptying Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current self-emptying robot vacuums on dock bag capacity, dust leakage risk, dock noise, clog recovery, and annual filter cost so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current self-emptying robot vacuums on dock bag capacity, dust leakage risk, dock noise, clog recovery.";
 export const mainKeyword = "self-emptying robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "9 min";

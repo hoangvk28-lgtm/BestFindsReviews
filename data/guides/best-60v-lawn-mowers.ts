@@ -1,7 +1,7 @@
 export const guideSlug = "best-60v-lawn-mowers";
 export const guideTitle = "Best 60V Lawn Mowers";
 export const metaTitle = "Best 60V Lawn Mowers (2026): Push, Self-Propelled, and Riding Models Compared";
-export const metaDescription = "Best 60V lawn mowers compared by included battery capacity, deck size, drive type, and property fit, since voltage alone does not tell you runtime or cut quality.";
+export const metaDescription = "Best 60V lawn mowers compared by included battery capacity, deck size, drive type, and property fit, since voltage alone does not tell you runtime or cut.";
 export const mainKeyword = "60v lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

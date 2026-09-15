@@ -1,7 +1,7 @@
 export const guideSlug = "best-1-gallon-watering-cans";
 export const guideTitle = "Best 1-Gallon Watering Cans (2026)";
 export const metaTitle = "Best 1-Gallon Watering Cans (2026)";
-export const metaDescription = "The best 1-gallon watering cans compared, the crossover size that carries easily full and covers a patio or a big plant collection, based on real weight, spout, and build.";
+export const metaDescription = "The best 1-gallon watering cans compared, the crossover size that carries easily full and covers a patio or a big plant collection, based on real weight.";
 export const mainKeyword = "1-gallon watering can";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

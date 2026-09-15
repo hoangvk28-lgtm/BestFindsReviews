@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-under-400";
 export const guideTitle = "Best Robot Vacuums Under $400";
 export const metaTitle = "Best Robot Vacuums Under $400 (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums priced under $400 on suction power, self-empty dock availability, mopping ability, and real ownership cost so you can pick the right one without overspending.";
+export const metaDescription = "We compared eight current robot vacuums priced under $400 on suction power, self-empty dock availability, mopping ability.";
 export const mainKeyword = "robot vacuums under $400";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

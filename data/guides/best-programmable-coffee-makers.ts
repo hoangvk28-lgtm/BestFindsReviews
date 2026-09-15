@@ -1,8 +1,7 @@
 export const guideSlug = "best-programmable-coffee-makers";
 export const guideTitle = "Best Programmable Coffee Makers";
 export const metaTitle = "Best Programmable Coffee Makers (2026): 5 Compared";
-export const metaDescription =
-  "We compared five current programmable coffee makers on power-outage clock retention, setup steps, auto-off timing, and whether a smart plug beats paying for the feature.";
+export const metaDescription = "We compared five current programmable coffee makers on power-outage clock retention, setup steps, auto-off timing, and whether a smart plug beats paying.";
 export const mainKeyword = "coffee makers programmable";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-pole-hedge-trimmers";
 export const guideTitle = "Best Cordless Pole Hedge Trimmers (2026)";
 export const metaTitle = "Best Cordless Pole Hedge Trimmers (2026): 6 Top Picks";
-export const metaDescription = "The best cordless pole hedge trimmers compared by reach, blade type, and articulating head design, from a genuine Makita telescoping model to an attachment-capable WORX.";
+export const metaDescription = "The best cordless pole hedge trimmers compared by reach, blade type, and articulating head design, from a genuine Makita telescoping model.";
 export const mainKeyword = "cordless pole hedge trimmer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

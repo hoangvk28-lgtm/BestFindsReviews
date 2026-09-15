@@ -1,7 +1,7 @@
 export const guideSlug = "best-skylight-calendars";
 export const guideTitle = "Best Skylight Calendars (2026)";
 export const metaTitle = "Best Skylight Calendars (2026): 6 Picks Compared";
-export const metaDescription = "The best Skylight Calendar models for 2026, compared across the full size lineup.";
+export const metaDescription = "The best Skylight Calendar models for 2026, compared across the full size lineup, based on 6 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "skylight calendar";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

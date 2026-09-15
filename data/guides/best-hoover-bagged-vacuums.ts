@@ -1,7 +1,7 @@
 export const guideSlug = "best-hoover-bagged-vacuums";
 export const guideTitle = "Best Hoover Bagged Vacuums (2026)";
 export const metaTitle = "Best Hoover Bagged Vacuums (2026): 3 Current Commercial Models Compared";
-export const metaDescription = "Hoover's current bagged catalog is commercial-focused, spanning a portable canister and two commercial uprights. We compare all three plus household alternatives.";
+export const metaDescription = "Hoover's current bagged catalog is commercial-focused, spanning a portable canister and two commercial uprights. We compare all three plus household.";
 export const mainKeyword = "hoover bagged vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

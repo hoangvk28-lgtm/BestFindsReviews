@@ -1,7 +1,7 @@
 export const guideSlug = "best-sharp-microwaves";
 export const guideTitle = "Best Sharp Microwaves";
 export const metaTitle = "Best Sharp Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Sharp Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Sharp Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "sharp microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-planners-for-walls";
 export const guideTitle = "Best Digital Planners for Walls (2026)";
 export const metaTitle = "Best Digital Planners for Walls (2026): 6 Picks Compared";
-export const metaDescription = "The best digital wall planners for 2026, compared on scheduling and task management features.";
+export const metaDescription = "The best digital wall planners for 2026, compared on scheduling and task management features, weighing 6 current models on the specs and details that matter.";
 export const mainKeyword = "digital planner for walls";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

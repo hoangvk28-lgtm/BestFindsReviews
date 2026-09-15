@@ -1,7 +1,7 @@
 export const guideSlug = "best-6-zone-smart-sprinkler-controllers";
 export const guideTitle = "Best 6-Zone Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best 6-Zone Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best 6-zone smart sprinkler controllers, compared on price and brand reliability.";
+export const metaDescription = "The best 6-zone smart sprinkler controllers, compared on price and brand reliability, with real pros and cons for each pick.";
 export const mainKeyword = "wifi sprinkler controller 6 zone";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

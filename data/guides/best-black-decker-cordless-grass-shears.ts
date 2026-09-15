@@ -1,7 +1,7 @@
 export const guideSlug = "best-black-decker-cordless-grass-shears";
 export const guideTitle = "Best BLACK+DECKER Cordless Grass Shears (2026)";
 export const metaTitle = "Best BLACK+DECKER Cordless Grass Shears (2026): 3 Picks";
-export const metaDescription = "We compared three current Black+Decker cordless grass shear options on voltage and battery ecosystem.";
+export const metaDescription = "We compared three current Black+Decker cordless grass shear options on voltage and battery ecosystem, with real pros and cons for each pick.";
 export const mainKeyword = "black and decker cordless grass shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

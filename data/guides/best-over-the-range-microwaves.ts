@@ -1,7 +1,7 @@
 export const guideSlug = "best-over-the-range-microwaves";
 export const guideTitle = "Best Over-the-Range Microwaves";
 export const metaTitle = "Best Over-the-Range Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Over-the-Range Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Over-the-Range Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "over-the-range microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

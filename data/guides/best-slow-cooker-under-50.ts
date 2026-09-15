@@ -1,7 +1,7 @@
 export const guideSlug = "best-slow-cooker-under-50";
 export const guideTitle = "Best Slow Cooker Under $50 (2026)";
 export const metaTitle = "Best Slow Cooker Under $50 (2026): 3 Picks Compared";
-export const metaDescription = "Three genuine slow cookers confirmed under $50, an honestly thin pool after excluding liners and a mislabeled rice cooker/steamer that turned up in the raw listing data.";
+export const metaDescription = "Three genuine slow cookers confirmed under $50, an honestly thin pool after excluding liners and a mislabeled rice cooker/steamer that turned up in the raw.";
 export const mainKeyword = "best slow cooker under $50";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

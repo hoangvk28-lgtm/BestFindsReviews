@@ -1,7 +1,7 @@
 export const guideSlug = "best-wifi-smart-locks";
 export const guideTitle = "Best WiFi Smart Locks (2026)";
 export const metaTitle = "Best WiFi Smart Locks (2026): 7 Picks Compared";
-export const metaDescription = "The best WiFi smart locks for 2026, compared on hub-free remote access.";
+export const metaDescription = "The best WiFi smart locks for 2026, compared on hub-free remote access, with a full breakdown of 7 options based on real specs and feedback.";
 export const mainKeyword = "smart lock wifi";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

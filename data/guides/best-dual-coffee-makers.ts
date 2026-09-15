@@ -1,8 +1,7 @@
 export const guideSlug = "best-dual-coffee-makers";
 export const guideTitle = "Best Dual Coffee Makers";
 export const metaTitle = "Best Dual Coffee Makers (2026): 4 Two-Mode Models Compared";
-export const metaDescription =
-  "We compared four current dual coffee makers on which two brew modes each one actually combines, per-cup cost for both modes, footprint, and failure-mode risk before you pick one over two separate machines.";
+export const metaDescription = "We compared four current dual coffee makers on which two brew modes each one actually combines, per-cup cost for both modes, footprint.";
 export const mainKeyword = "dual coffee makers";
 export const lastUpdated = "2026-08-04";
 export const readTime = "10 min";

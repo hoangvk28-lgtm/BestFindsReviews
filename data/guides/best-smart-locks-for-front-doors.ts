@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-front-doors";
 export const guideTitle = "Best Smart Locks for Front Doors (2026)";
 export const metaTitle = "Best Smart Locks for Front Doors (2026): 7 Picks Compared";
-export const metaDescription = "The best smart locks for front doors in 2026, compared on weather resistance and access methods.";
+export const metaDescription = "The best smart locks for front doors in 2026, compared on weather resistance and access methods, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "smart lock for front door";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

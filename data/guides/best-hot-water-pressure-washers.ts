@@ -1,7 +1,7 @@
 export const guideSlug = "best-hot-water-pressure-washers";
 export const guideTitle = "Best Hot-Water Pressure Washers (2026)";
 export const metaTitle = "Best Hot-Water Pressure Washers (2026): 6 Top Picks";
-export const metaDescription = "The best hot-water pressure washers compared by heating method, PSI, and tank capacity, for grease and oil cleaning jobs cold water alone can't fully cut through.";
+export const metaDescription = "The best hot-water pressure washers compared by heating method, PSI, and tank capacity, for grease and oil cleaning jobs cold water alone can't fully cut.";
 export const mainKeyword = "hot water pressure washer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-08";

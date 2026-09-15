@@ -1,7 +1,7 @@
 export const guideSlug = "best-vevor-garden-carts";
 export const guideTitle = "Best VEVOR Garden Carts (2026)";
 export const metaTitle = "Best VEVOR Garden Carts (2026): 7 Models Compared";
-export const metaDescription = "We compared seven current VEVOR garden cart listings, flagging the ATV tow-behind trailers and electric models mixed into the same catalog, so you get an actual manual garden cart.";
+export const metaDescription = "We compared seven current VEVOR garden cart listings, flagging the ATV tow-behind trailers and electric models mixed into the same catalog.";
 export const mainKeyword = "vevor garden cart";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

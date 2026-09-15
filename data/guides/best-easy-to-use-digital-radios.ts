@@ -1,7 +1,7 @@
 export const guideSlug = "best-easy-to-use-digital-radios";
 export const guideTitle = "Best Easy-to-Use Digital Radios (2026)";
 export const metaTitle = "Best Easy-to-Use Digital Radios (2026): 6 Picks Compared";
-export const metaDescription = "The best easy-to-use digital radios for 2026, compared on interface simplicity.";
+export const metaDescription = "The best easy-to-use digital radios for 2026, compared on interface simplicity, comparing 6 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "easy to use digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

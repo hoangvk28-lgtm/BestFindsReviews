@@ -1,7 +1,7 @@
 export const guideSlug = "best-small-electric-tillers";
 export const guideTitle = "Best Small Electric Tillers (2026)";
 export const metaTitle = "Best Small Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best small and compact electric tillers for tight garden spaces, compared on width and weight.";
+export const metaDescription = "The best small and compact electric tillers for tight garden spaces, compared on width and weight, with real pros and cons for each pick.";
 export const mainKeyword = "electric tiller small";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

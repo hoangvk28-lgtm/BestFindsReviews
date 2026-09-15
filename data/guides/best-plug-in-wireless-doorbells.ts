@@ -1,7 +1,7 @@
 export const guideSlug = "best-plug-in-wireless-doorbells";
 export const guideTitle = "Best Plug-In Wireless Doorbells (2026)";
 export const metaTitle = "Best Plug-In Wireless Doorbells (2026): 6 Picks Compared";
-export const metaDescription = "The best plug-in receiver wireless doorbells for 2026.";
+export const metaDescription = "The best plug-in receiver wireless doorbells for 2026, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "plug in wireless doorbell";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

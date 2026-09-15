@@ -1,7 +1,7 @@
 export const guideSlug = "best-rice-cooker-under-50";
 export const guideTitle = "Best Rice Cooker Under $50 (2026)";
 export const metaTitle = "Best Rice Cooker Under $50 (2026): 7 Picks Compared";
-export const metaDescription = "Seven rice cookers under $50 compared on capacity, keep-warm function, and extras like steaming baskets, a minimum-viable buy tier led by simple, reliable basics.";
+export const metaDescription = "Seven rice cookers under $50 compared on capacity, keep-warm function, and extras like steaming baskets, a minimum-viable buy tier led by simple.";
 export const mainKeyword = "best rice cooker under $50";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

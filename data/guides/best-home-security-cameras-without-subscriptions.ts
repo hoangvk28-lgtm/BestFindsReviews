@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras-without-subscriptions";
 export const guideTitle = "Best Home Security Cameras Without Subscriptions (2026)";
 export const metaTitle = "Best Home Security Cameras Without Subscriptions (2026): 7 Picks Compared";
-export const metaDescription = "The best subscription-free home security cameras for 2026, compared on local storage and features.";
+export const metaDescription = "The best subscription-free home security cameras for 2026, compared on local storage and features, covering 7 current picks and what to check before buying.";
 export const mainKeyword = "best home security camera without subscription";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-carpets";
 export const guideTitle = "Best Robot Vacuums for Carpets";
 export const metaTitle = "Best Robot Vacuums for Carpets (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuums on carpet-boost suction, brush stall resistance, and pile-transition handling so you can pick the right one for everyday wall-to-wall and low-pile carpet without guessing.";
+export const metaDescription = "We compared eight current robot vacuums on carpet-boost suction, brush stall resistance, and pile-transition handling so you can pick the right one.";
 export const mainKeyword = "robot vacuums for carpets";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

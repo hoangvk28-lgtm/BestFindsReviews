@@ -1,7 +1,7 @@
 export const guideSlug = "best-sebo-upright-vacuums";
 export const guideTitle = "Best SEBO Upright Vacuums (2026)";
 export const metaTitle = "Best SEBO Upright Vacuums (2026): 4 Picks Compared";
-export const metaDescription = "The best SEBO upright vacuums for 2026, compared on build quality, suction, and price.";
+export const metaDescription = "The best SEBO upright vacuums for 2026, compared on build quality, suction, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best sebo upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

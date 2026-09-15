@@ -1,7 +1,7 @@
 export const guideSlug = "best-landline-phones-with-call-blocking";
 export const guideTitle = "Best Landline Phones With Call Blocking (2026)";
 export const metaTitle = "Best Landline Phones With Call Blocking (2026): 6 Picks Compared";
-export const metaDescription = "The best landline phones with call blocking for 2026, compared on spam protection approach.";
+export const metaDescription = "The best landline phones with call blocking for 2026, compared on spam protection approach, with real pros and cons for each pick.";
 export const mainKeyword = "landline phones with call blocking";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

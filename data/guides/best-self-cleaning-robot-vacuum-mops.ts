@@ -1,8 +1,7 @@
 export const guideSlug = "best-self-cleaning-robot-vacuum-mops";
 export const guideTitle = "Best Self-Cleaning Robot Vacuum Mops";
 export const metaTitle = "Best Self-Cleaning Robot Vacuum Mops (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current self-cleaning robot vacuum mops on mop-pad wash quality, wash water temperature, drying and odor control, and how much manual tray cleaning each one still requires.";
+export const metaDescription = "We compared eight current self-cleaning robot vacuum mops on mop-pad wash quality, wash water temperature, drying and odor control.";
 export const mainKeyword = "self-cleaning robot vacuum mops";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

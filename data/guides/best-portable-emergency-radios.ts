@@ -1,7 +1,7 @@
 export const guideSlug = "best-portable-emergency-radios";
 export const guideTitle = "Best Portable Emergency Radios (2026)";
 export const metaTitle = "Best Portable Emergency Radios (2026): 7 Picks Compared";
-export const metaDescription = "The best portable emergency radios for 2026, compared on weight and carry convenience.";
+export const metaDescription = "The best portable emergency radios for 2026, compared on weight and carry convenience, with real pros and cons for each pick.";
 export const mainKeyword = "emergency radio portable";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

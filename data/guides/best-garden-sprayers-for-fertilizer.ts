@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-sprayers-for-fertilizer";
 export const guideTitle = "Best Garden Sprayers for Fertilizer (2026)";
 export const metaTitle = "Best Garden Sprayers for Fertilizer (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current garden sprayers built for liquid fertilizer application so you can pick the right one.";
+export const metaDescription = "We compared five current garden sprayers built for liquid fertilizer application so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "garden sprayer for liquid fertilizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

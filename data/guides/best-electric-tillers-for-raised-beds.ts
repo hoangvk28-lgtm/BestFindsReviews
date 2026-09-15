@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-tillers-for-raised-beds";
 export const guideTitle = "Best Electric Tillers for Raised Beds (2026)";
 export const metaTitle = "Best Electric Tillers for Raised Beds (2026): Top Picks";
-export const metaDescription = "The best compact electric tillers for raised garden beds, compared on width and maneuverability.";
+export const metaDescription = "The best compact electric tillers for raised garden beds, compared on width and maneuverability, with real pros and cons for each pick.";
 export const mainKeyword = "electric tillers for raised beds";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

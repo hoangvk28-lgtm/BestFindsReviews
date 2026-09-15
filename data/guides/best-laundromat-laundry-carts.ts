@@ -1,7 +1,7 @@
 export const guideSlug = "best-laundromat-laundry-carts";
 export const guideTitle = "Best Laundromat Laundry Carts (2026)";
 export const metaTitle = "Best Laundromat Laundry Carts (2026)";
-export const metaDescription = "The best laundromat laundry carts compared, from classic chrome wire bushel carts to elevated dry-fold designs, based on real bushel capacity and rust resistance.";
+export const metaDescription = "The best laundromat laundry carts compared, from classic chrome wire bushel carts to elevated dry-fold designs, based on real bushel capacity and rust.";
 export const mainKeyword = "laundromat laundry cart";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

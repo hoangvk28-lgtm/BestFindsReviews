@@ -1,7 +1,7 @@
 export const guideSlug = "best-wired-home-security-camera-systems";
 export const guideTitle = "Best Wired Home Security Camera Systems (2026)";
 export const metaTitle = "Best Wired Home Security Camera Systems (2026): 6 Picks Compared";
-export const metaDescription = "The best wired home security camera systems for 2026, compared on continuous power and storage.";
+export const metaDescription = "The best wired home security camera systems for 2026, compared on continuous power and storage, with real pros and cons for each pick.";
 export const mainKeyword = "best wired home security camera system";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

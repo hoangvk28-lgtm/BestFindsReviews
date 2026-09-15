@@ -1,7 +1,7 @@
 export const guideSlug = "best-hepa-upright-vacuums";
 export const guideTitle = "Best HEPA Upright Vacuums (2026)";
 export const metaTitle = "Best HEPA Upright Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best HEPA-filtered upright vacuums for 2026, compared on filtration sealing, suction, and price.";
+export const metaDescription = "The best HEPA-filtered upright vacuums for 2026, compared on filtration sealing, suction, and price, covering 8 current picks and what to check before buying.";
 export const mainKeyword = "best hepa upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

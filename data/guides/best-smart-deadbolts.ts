@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-deadbolts";
 export const guideTitle = "Best Smart Deadbolts (2026)";
 export const metaTitle = "Best Smart Deadbolts (2026): 7 Picks Compared";
-export const metaDescription = "The best smart deadbolts for 2026, compared on access methods and installation.";
+export const metaDescription = "The best smart deadbolts for 2026, compared on access methods and installation, picked after comparing every current option in this category.";
 export const mainKeyword = "smart deadbolts";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

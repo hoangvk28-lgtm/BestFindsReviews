@@ -1,7 +1,7 @@
 export const guideSlug = "best-at-and-t-landline-phones";
 export const guideTitle = "Best AT&T Landline Phones (2026)";
 export const metaTitle = "Best AT&T Landline Phones (2026): 7 Picks Compared";
-export const metaDescription = "The best AT&T landline phones for 2026, compared on features and handset options.";
+export const metaDescription = "The best AT&T landline phones for 2026, compared on features and handset options, comparing 7 current picks on the criteria that matter most before buying.";
 export const mainKeyword = "att landline phone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

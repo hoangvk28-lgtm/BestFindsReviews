@@ -1,8 +1,7 @@
 export const guideSlug = "quietest-robot-vacuums";
 export const guideTitle = "Quietest Robot Vacuums";
 export const metaTitle = "Quietest Robot Vacuums (2026): 8 Models Compared";
-export const metaDescription =
-  "We researched eight current robot vacuums commonly described as quiet in daily use, covering standard cleaning mode, self-empty dock noise, and night-cycle scheduling so you can pick the right one without guessing.";
+export const metaDescription = "We researched eight current robot vacuums commonly described as quiet in daily use, covering standard cleaning mode, self-empty dock noise.";
 export const mainKeyword = "quietest robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

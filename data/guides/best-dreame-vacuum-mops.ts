@@ -1,7 +1,7 @@
 export const guideSlug = "best-dreame-vacuum-mops";
 export const guideTitle = "Best Dreame Vacuum Mops (2026)";
 export const metaTitle = "Best Dreame Vacuum Mops (2026): 5 Picks Compared";
-export const metaDescription = "The best Dreame vacuum mops for 2026, compared on suction, tank design, and price.";
+export const metaDescription = "The best Dreame vacuum mops for 2026, compared on suction, tank design, and price, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "best dreame vacuum mops";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

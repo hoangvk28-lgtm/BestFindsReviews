@@ -1,7 +1,7 @@
 export const guideSlug = "best-metal-automatic-hose-reels";
 export const guideTitle = "Best Metal Automatic Hose Reels (2026)";
 export const metaTitle = "Best Metal Automatic Hose Reels (2026): Top Picks";
-export const metaDescription = "The best metal automatic hose reels, compared on corrosion resistance, load capacity, and long-term durability.";
+export const metaDescription = "The best metal automatic hose reels, compared on corrosion resistance, load capacity, and long-term durability, with real pros and cons for each pick.";
 export const mainKeyword = "metal automatic hose reels";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

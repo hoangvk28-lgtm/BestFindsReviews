@@ -1,7 +1,7 @@
 export const guideSlug = "best-sensi-smart-thermostats";
 export const guideTitle = "Best Sensi Smart Thermostats (2026)";
 export const metaTitle = "Best Sensi Smart Thermostats (2026): 3 Picks Compared";
-export const metaDescription = "The best Sensi smart thermostats for 2026, compared on DIY installation and features.";
+export const metaDescription = "The best Sensi smart thermostats for 2026, compared on DIY installation and features, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "sensi smart thermostat";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

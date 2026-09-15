@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-tool-storage-cabinets";
 export const guideTitle = "Best Garden Tool Storage Cabinets (2026)";
 export const metaTitle = "Best Garden Tool Storage Cabinets (2026)";
-export const metaDescription = "The best garden tool storage cabinets compared, enclosed wood, resin, and steel cabinets that keep tools dry and locked, based on real capacity, weather rating, and security.";
+export const metaDescription = "The best garden tool storage cabinets compared, enclosed wood, resin, and steel cabinets that keep tools dry and locked, based on real capacity.";
 export const mainKeyword = "garden tool storage cabinet";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-high-pressure-hose-nozzles";
 export const guideTitle = "Best High-Pressure Hose Nozzles (2026)";
 export const metaTitle = "Best High-Pressure Hose Nozzles (2026)";
-export const metaDescription = "The best high-pressure hose nozzles compared, jet and cannon nozzles that focus water into a hard stream for cleaning, based on real jet force, build, and connections.";
+export const metaDescription = "The best high-pressure hose nozzles compared, jet and cannon nozzles that focus water into a hard stream for cleaning, based on real jet force, build.";
 export const mainKeyword = "high-pressure hose nozzle";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-without-wifi";
 export const guideTitle = "Best Robot Vacuums Without Wi-Fi";
 export const metaTitle = "Best Robot Vacuums Without Wi-Fi (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared robot vacuums that can be started and scheduled from onboard buttons or a physical remote, for buyers who want to skip mandatory app and Wi-Fi setup.";
+export const metaDescription = "We compared robot vacuums that can be started and scheduled from onboard buttons or a physical remote, for buyers who want to skip mandatory app and Wi-Fi.";
 export const mainKeyword = "robot vacuums without wi-fi";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

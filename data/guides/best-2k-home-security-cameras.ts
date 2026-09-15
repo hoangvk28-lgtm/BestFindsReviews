@@ -1,7 +1,7 @@
 export const guideSlug = "best-2k-home-security-cameras";
 export const guideTitle = "Best 2K Home Security Cameras (2026)";
 export const metaTitle = "Best 2K Home Security Cameras (2026): 7 Picks Compared";
-export const metaDescription = "The best 2K home security cameras for 2026, compared on detail and value versus 4K.";
+export const metaDescription = "The best 2K home security cameras for 2026, compared on detail and value versus 4K, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "2k home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

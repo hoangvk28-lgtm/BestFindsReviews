@@ -1,7 +1,7 @@
 export const guideSlug = "best-fire-tv-alexa-voice-remotes";
 export const guideTitle = "Best Fire TV Alexa Voice Remotes (2026)";
 export const metaTitle = "Best Fire TV Alexa Voice Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best Fire TV Alexa voice remotes for 2026, compared on features and battery type.";
+export const metaDescription = "The best Fire TV Alexa voice remotes for 2026, compared on features and battery type, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "best fire tv alexa voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

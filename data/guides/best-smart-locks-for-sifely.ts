@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-sifely";
 export const guideTitle = "Best Sifely Smart Locks (2026)";
 export const metaTitle = "Best Sifely Smart Locks (2026): 5 Picks Compared";
-export const metaDescription = "The best Sifely smart locks for 2026, compared on rental and Airbnb use cases.";
+export const metaDescription = "The best Sifely smart locks for 2026, compared on rental and Airbnb use cases, with honest pros and cons for each of the 5 picks reviewed.";
 export const mainKeyword = "sifely smart lock";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

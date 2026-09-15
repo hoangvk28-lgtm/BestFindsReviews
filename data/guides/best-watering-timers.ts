@@ -1,7 +1,7 @@
 export const guideSlug = "best-watering-timers";
 export const guideTitle = "Best Watering Timers (2026)";
 export const metaTitle = "Best Watering Timers (2026): 7 Picks Compared";
-export const metaDescription = "We compared seven current watering timers across brands and programming types so you can pick the right one.";
+export const metaDescription = "We compared seven current watering timers across brands and programming types so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

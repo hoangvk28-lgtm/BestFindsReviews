@@ -1,7 +1,7 @@
 export const guideSlug = "best-large-button-xfinity-voice-remotes";
 export const guideTitle = "Best Large-Button Xfinity Voice Remotes (2026)";
 export const metaTitle = "Best Large-Button Xfinity Voice Remotes (2026): 4 Picks Compared";
-export const metaDescription = "The best large-button and backlit Xfinity voice remotes for 2026, compared on visibility and ease of use.";
+export const metaDescription = "The best large-button and backlit Xfinity voice remotes for 2026, compared on visibility and ease of use, with real pros and cons for each pick.";
 export const mainKeyword = "best large-button xfinity voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

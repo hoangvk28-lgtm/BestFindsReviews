@@ -1,7 +1,7 @@
 export const guideSlug = "best-outdoor-garden-tool-organizers";
 export const guideTitle = "Best Outdoor Garden Tool Organizers (2026)";
 export const metaTitle = "Best Outdoor Garden Tool Organizers (2026)";
-export const metaDescription = "The best outdoor garden tool organizers compared, weatherproof racks and cabinets that live outside without rusting, based on real material, weather rating, and capacity.";
+export const metaDescription = "The best outdoor garden tool organizers compared, weatherproof racks and cabinets that live outside without rusting, based on real material, weather rating.";
 export const mainKeyword = "outdoor garden tool organizer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-10";

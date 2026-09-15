@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbells-under-25";
 export const guideTitle = "Best Wireless Doorbells Under $25 (2026)";
 export const metaTitle = "Best Wireless Doorbells Under $25 (2026): Top Picks";
-export const metaDescription = "The best wireless doorbell chimes under $25, compared on range, volume, and number of receivers.";
+export const metaDescription = "The best wireless doorbell chimes under $25, compared on range, volume, and number of receivers, covering 4 current picks and what to check before buying.";
 export const mainKeyword = "best wireless doorbell under 25";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-09-04";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-long-range-tv-headphones";
 export const guideTitle = "Best Long-Range TV Headphones (2026)";
 export const metaTitle = "Best Long-Range TV Headphones (2026): Named Range Claims Verified";
-export const metaDescription = "We compare named range figures and technology type, RF versus Bluetooth Class 1, since usable range before dropouts matters more than best-case marketing numbers.";
+export const metaDescription = "We compare named range figures and technology type, RF versus Bluetooth Class 1, since usable range before dropouts matters more than best-case marketing.";
 export const mainKeyword = "long-range tv headphones";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

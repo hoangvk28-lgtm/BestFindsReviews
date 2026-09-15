@@ -1,7 +1,7 @@
 export const guideSlug = "best-wireless-doorbell-cameras-without-subscriptions";
 export const guideTitle = "Best Wireless Doorbell Cameras Without Subscriptions (2026)";
 export const metaTitle = "Best Wireless Doorbell Cameras Without Subscriptions (2026): 6 Picks Compared";
-export const metaDescription = "The best subscription-free doorbell cameras for 2026, compared on local storage and features.";
+export const metaDescription = "The best subscription-free doorbell cameras for 2026, compared on local storage and features, picked after comparing every current option in this category.";
 export const mainKeyword = "wireless doorbell camera no subscription";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-vizio-voice-remotes";
 export const guideTitle = "Best Vizio Voice Remotes (2026)";
 export const metaTitle = "Best Vizio Voice Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best Vizio voice remotes for 2026, compared on model compatibility and features.";
+export const metaDescription = "The best Vizio voice remotes for 2026, compared on model compatibility and features, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "best vizio voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

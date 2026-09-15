@@ -1,7 +1,7 @@
 export const guideSlug = "best-chromebooks-for-simple-home-use";
 export const guideTitle = "Best Chromebooks for Simple Home Use (2026)";
 export const metaTitle = "Best Chromebooks for Simple Home Use (2026): 6 Picks Compared";
-export const metaDescription = "The best Chromebooks for simple home use in 2026, compared on ease of use and everyday reliability.";
+export const metaDescription = "The best Chromebooks for simple home use in 2026, compared on ease of use and everyday reliability, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "best chromebooks for simple home use";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

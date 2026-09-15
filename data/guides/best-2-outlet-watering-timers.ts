@@ -1,7 +1,7 @@
 export const guideSlug = "best-2-outlet-watering-timers";
 export const guideTitle = "Best 2-Outlet Watering Timers (2026)";
 export const metaTitle = "Best 2-Outlet Watering Timers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current 2-outlet watering timers so you can pick the right one.";
+export const metaDescription = "We compared five current 2-outlet watering timers so you can pick the right one, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "orbit 2 outlet watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

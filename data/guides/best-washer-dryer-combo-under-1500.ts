@@ -1,7 +1,7 @@
 export const guideSlug = "best-washer-dryer-combo-under-1500";
 export const guideTitle = "Best Washer Dryer Combo Under $1500 (2026)";
 export const metaTitle = "Best Washer Dryer Combo Under $1500 (2026): 5 Picks Compared";
-export const metaDescription = "We compare current washer dryer combos under $1500, honestly, this budget ceiling doesn't surface better options than our under-$1000 comparison in the current market.";
+export const metaDescription = "We compare current washer dryer combos under $1500, honestly, this budget ceiling doesn't surface better options than our under-$1000 comparison.";
 export const mainKeyword = "best washer dryer combo under $1500";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-waterproof-emergency-radios";
 export const guideTitle = "Best Waterproof Emergency Radios (2026)";
 export const metaTitle = "Best Waterproof Emergency Radios (2026): 5 Picks Compared";
-export const metaDescription = "The best waterproof and water-resistant emergency radios for 2026.";
+export const metaDescription = "The best waterproof and water-resistant emergency radios for 2026, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "waterproof emergency radios";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-rolling-garden-stools";
 export const guideTitle = "Best Rolling Garden Stools (2026)";
 export const metaTitle = "Best Rolling Garden Stools (2026): 7 Picks Compared";
-export const metaDescription = "We compared seven current rolling garden stools on wheels, swivel, and storage so you can pick the right one.";
+export const metaDescription = "We compared seven current rolling garden stools on wheels, swivel, and storage so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "wheeled garden stool";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

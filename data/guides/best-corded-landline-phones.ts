@@ -1,7 +1,7 @@
 export const guideSlug = "best-corded-landline-phones";
 export const guideTitle = "Best Corded Landline Phones (2026)";
 export const metaTitle = "Best Corded Landline Phones (2026): 7 Picks Compared";
-export const metaDescription = "The best corded landline phones for 2026, compared on reliability and features.";
+export const metaDescription = "The best corded landline phones for 2026, compared on reliability and features, picked after comparing every current option in this category.";
 export const mainKeyword = "corded landline phone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

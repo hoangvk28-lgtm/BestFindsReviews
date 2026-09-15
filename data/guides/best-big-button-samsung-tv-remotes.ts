@@ -1,7 +1,7 @@
 export const guideSlug = "best-big-button-samsung-tv-remotes";
 export const guideTitle = "Best Big-Button Samsung TV Remotes (2026)";
 export const metaTitle = "Best Big-Button Samsung TV Remotes (2026): 4 Picks Compared";
-export const metaDescription = "The best big-button remotes for Samsung TVs in 2026.";
+export const metaDescription = "The best big-button remotes for Samsung TVs in 2026, with a full breakdown of 4 options based on real specs and feedback.";
 export const mainKeyword = "big button remote for samsung smart tv";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

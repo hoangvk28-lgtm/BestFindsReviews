@@ -1,7 +1,7 @@
 export const guideSlug = "best-budget-chromebooks";
 export const guideTitle = "Best Budget Chromebooks (2026)";
 export const metaTitle = "Best Budget Chromebooks (2026): 7 Picks Compared";
-export const metaDescription = "The most affordable Chromebooks for 2026, compared on core specs and value.";
+export const metaDescription = "The most affordable Chromebooks for 2026, compared on core specs and value, with a full side-by-side breakdown of 7 options and verified buyer feedback.";
 export const mainKeyword = "best budget chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

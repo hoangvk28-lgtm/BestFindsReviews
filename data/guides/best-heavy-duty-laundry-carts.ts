@@ -1,7 +1,7 @@
 export const guideSlug = "best-heavy-duty-laundry-carts";
 export const guideTitle = "Best Heavy-Duty Laundry Carts (2026)";
 export const metaTitle = "Best Heavy-Duty Laundry Carts (2026)";
-export const metaDescription = "The best heavy-duty laundry carts compared, from chrome wire commercial carts to reinforced steel-frame canvas hampers, based on real frame strength and load rating.";
+export const metaDescription = "The best heavy-duty laundry carts compared, from chrome wire commercial carts to reinforced steel-frame canvas hampers, based on real frame strength and load.";
 export const mainKeyword = "heavy-duty laundry cart";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-09-10";

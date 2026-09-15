@@ -1,7 +1,7 @@
 export const guideSlug = "best-dehumidifier-under-500";
 export const guideTitle = "Best Dehumidifier Under $500 (2026)";
 export const metaTitle = "Best Dehumidifier Under $500 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current dehumidifiers up to a $500 ceiling, honestly, this category's largest confirmed unit tops out at the same price as our under-$300 comparison, identical to our under-$300 comparison.";
+export const metaDescription = "We compare current dehumidifiers up to a $500 ceiling, honestly, this category's largest confirmed unit tops out at the same price as our under-$300.";
 export const mainKeyword = "best dehumidifier under $500";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

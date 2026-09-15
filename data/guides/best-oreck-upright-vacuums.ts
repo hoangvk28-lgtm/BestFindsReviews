@@ -1,7 +1,7 @@
 export const guideSlug = "best-oreck-upright-vacuums";
 export const guideTitle = "Best Oreck Upright Vacuums (2026)";
 export const metaTitle = "Best Oreck Upright Vacuums (2026): 3 Picks Compared";
-export const metaDescription = "The best Oreck upright vacuums for 2026, compared on weight, suction, and price.";
+export const metaDescription = "The best Oreck upright vacuums for 2026, compared on weight, suction, and price, based on 3 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "best oreck upright vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

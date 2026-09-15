@@ -1,7 +1,7 @@
 export const guideSlug = "best-lawn-sweepers-for-seniors";
 export const guideTitle = "Best Lawn Sweepers for Seniors (2026)";
 export const metaTitle = "Best Lawn Sweepers for Seniors (2026): Top Picks Compared";
-export const metaDescription = "The best lightweight lawn sweepers for seniors, compared on ease of push, bag removal, and low-effort operation.";
+export const metaDescription = "The best lightweight lawn sweepers for seniors, compared on ease of push, bag removal, and low-effort operation, with real pros and cons for each pick.";
 export const mainKeyword = "lawn sweepers for seniors";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

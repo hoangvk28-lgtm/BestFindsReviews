@@ -1,7 +1,7 @@
 export const guideSlug = "best-lightweight-garden-sprayers";
 export const guideTitle = "Best Lightweight Garden Sprayers (2026)";
 export const metaTitle = "Best Lightweight Garden Sprayers (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current lightweight garden sprayers on weight and capacity so you can pick the right one.";
+export const metaDescription = "We compared five current lightweight garden sprayers on weight and capacity so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "lightweight garden sprayers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

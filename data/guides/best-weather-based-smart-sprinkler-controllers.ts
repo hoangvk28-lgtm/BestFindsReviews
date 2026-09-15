@@ -1,7 +1,7 @@
 export const guideSlug = "best-weather-based-smart-sprinkler-controllers";
 export const guideTitle = "Best Weather-Based Smart Sprinkler Controllers (2026)";
 export const metaTitle = "Best Weather-Based Smart Sprinkler Controllers (2026)";
-export const metaDescription = "The best weather-based smart sprinkler controllers, compared on local weather data accuracy and skip logic.";
+export const metaDescription = "The best weather-based smart sprinkler controllers, compared on local weather data accuracy and skip logic, with real pros and cons for each pick.";
 export const mainKeyword = "weather-based smart sprinkler controllers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

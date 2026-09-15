@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-day-clocks-for-seniors";
 export const guideTitle = "Best Digital Day Clocks for Seniors (2026)";
 export const metaTitle = "Best Digital Day Clocks for Seniors (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current digital day clocks on character size, button labeling, alarm setup, and brightness, not just screen size claims, for senior readability.";
+export const metaDescription = "We compared eight current digital day clocks on character size, button labeling, alarm setup, and brightness, not just screen size claims.";
 export const mainKeyword = "digital day clocks for seniors";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

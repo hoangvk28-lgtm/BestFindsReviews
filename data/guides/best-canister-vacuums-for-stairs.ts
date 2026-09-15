@@ -1,7 +1,7 @@
 export const guideSlug = "best-canister-vacuums-for-stairs";
 export const guideTitle = "Best Canister Vacuums for Stairs (2026)";
 export const metaTitle = "Best Canister Vacuums for Stairs (2026): 8 Picks Compared";
-export const metaDescription = "The best canister vacuums for stairs in 2026, compared on weight, hose reach, and price.";
+export const metaDescription = "The best canister vacuums for stairs in 2026, compared on weight, hose reach, and price, covering 8 current picks and what to check before buying.";
 export const mainKeyword = "best canister vacuums for stairs";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

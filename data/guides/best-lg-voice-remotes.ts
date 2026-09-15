@@ -1,7 +1,7 @@
 export const guideSlug = "best-lg-voice-remotes";
 export const guideTitle = "Best LG Voice Remotes (2026)";
 export const metaTitle = "Best LG Voice Remotes (2026): 6 Picks Compared";
-export const metaDescription = "The best LG Magic Remote replacements for 2026, compared on pointer function and compatibility.";
+export const metaDescription = "The best LG Magic Remote replacements for 2026, compared on pointer function and compatibility, covering 6 current picks and what to check before buying.";
 export const mainKeyword = "best lg voice remotes";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

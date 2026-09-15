@@ -1,7 +1,7 @@
 export const guideSlug = "best-digital-radios";
 export const guideTitle = "Best Digital Radios (2026)";
 export const metaTitle = "Best Digital Radios (2026): 8 Picks Compared";
-export const metaDescription = "The best digital radios for 2026 across every brand and budget, compared on reception, display, and features.";
+export const metaDescription = "The best digital radios for 2026 across every brand and budget, compared on reception, display, and features, with real pros and cons for each pick.";
 export const mainKeyword = "digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

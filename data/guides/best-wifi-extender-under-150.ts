@@ -1,7 +1,7 @@
 export const guideSlug = "best-wifi-extender-under-150";
 export const guideTitle = "Best WiFi Extender Under $150 (2026)";
 export const metaTitle = "Best WiFi Extender Under $150 (2026): 7 Picks Compared";
-export const metaDescription = "We compare current WiFi extenders priced under $150 on backhaul, port speed, and mesh compatibility.";
+export const metaDescription = "We compare current WiFi extenders priced under $150 on backhaul, port speed, and mesh compatibility, with real pros and cons for each pick.";
 export const mainKeyword = "best wifi extender under $150";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-20";

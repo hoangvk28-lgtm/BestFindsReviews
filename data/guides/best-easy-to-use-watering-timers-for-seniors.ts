@@ -1,7 +1,7 @@
 export const guideSlug = "best-easy-to-use-watering-timers-for-seniors";
 export const guideTitle = "Best Easy-to-Use Watering Timers for Seniors (2026)";
 export const metaTitle = "Best Watering Timers for Seniors (2026): 5 Picks Compared";
-export const metaDescription = "We compared five current watering timers on simplicity and ease of use for seniors.";
+export const metaDescription = "We compared five current watering timers on simplicity and ease of use for seniors, with the details that matter most explained clearly before you buy.";
 export const mainKeyword = "easy watering timer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

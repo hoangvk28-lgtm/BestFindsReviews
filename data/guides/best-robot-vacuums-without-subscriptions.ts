@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-without-subscriptions";
 export const guideTitle = "Best Robot Vacuums Without Subscriptions";
 export const metaTitle = "Best Robot Vacuums Without Subscriptions (2026): 8 Picks";
-export const metaDescription =
-  "We compared eight current robot vacuums that handle core cleaning, mapping, and scheduling with no monthly fee, and broke down what actually costs money over time.";
+export const metaDescription = "We compared eight current robot vacuums that handle core cleaning, mapping, and scheduling with no monthly fee, and broke down what actually costs money.";
 export const mainKeyword = "robot vacuums without subscriptions";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

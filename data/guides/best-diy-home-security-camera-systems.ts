@@ -1,7 +1,7 @@
 export const guideSlug = "best-diy-home-security-camera-systems";
 export const guideTitle = "Best DIY Home Security Camera Systems (2026)";
 export const metaTitle = "Best DIY Home Security Camera Systems (2026): 7 Picks Compared";
-export const metaDescription = "The best DIY-installable home security camera systems for 2026.";
+export const metaDescription = "The best DIY-installable home security camera systems for 2026, picked after comparing every current option in this category.";
 export const mainKeyword = "diy home security camera system";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

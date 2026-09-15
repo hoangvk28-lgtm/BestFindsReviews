@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-for-thresholds";
 export const guideTitle = "Best Robot Vacuums for Thresholds";
 export const metaTitle = "Best Robot Vacuums for Thresholds (2026): What Actually Works";
-export const metaDescription =
-  "Most searches for robot vacuums for thresholds actually turn up ramp accessories, not special vacuums. We break down the one strong obstacle-climbing model we found plus when a ramp is the smarter buy.";
+export const metaDescription = "Most searches for robot vacuums for thresholds actually turn up ramp accessories, not special vacuums. We break down the one strong obstacle-climbing model we.";
 export const mainKeyword = "robot vacuums for thresholds";
 export const lastUpdated = "2026-08-05";
 export const readTime = "8 min";

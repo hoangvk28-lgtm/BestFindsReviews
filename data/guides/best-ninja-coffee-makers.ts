@@ -1,8 +1,7 @@
 export const guideSlug = "best-ninja-coffee-makers";
 export const guideTitle = "Best Ninja Coffee Makers";
 export const metaTitle = "Best Ninja Coffee Makers (2026): 4 Models Compared";
-export const metaDescription =
-  "We compared four current Ninja coffee makers on mode quality, pod versus grounds compatibility, footprint, and cleaning burden so you know what each brew mode actually delivers.";
+export const metaDescription = "We compared four current Ninja coffee makers on mode quality, pod versus grounds compatibility, footprint, and cleaning burden so you know what each brew mode.";
 export const mainKeyword = "coffee makers ninja";
 export const lastUpdated = "2026-08-04";
 export const readTime = "9 min";

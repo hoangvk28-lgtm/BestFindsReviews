@@ -1,7 +1,7 @@
 export const guideSlug = "best-cordless-landline-phones";
 export const guideTitle = "Best Cordless Landline Phones (2026)";
 export const metaTitle = "Best Cordless Landline Phones (2026): 7 Picks Compared";
-export const metaDescription = "The best cordless landline phones for 2026, compared on range and multi-handset support.";
+export const metaDescription = "The best cordless landline phones for 2026, compared on range and multi-handset support, based on 7 products evaluated on real specs and buyer feedback.";
 export const mainKeyword = "cordless landline phone";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

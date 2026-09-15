@@ -1,7 +1,7 @@
 export const guideSlug = "best-pressure-cooker-under-100";
 export const guideTitle = "Best Pressure Cooker Under $100 (2026)";
 export const metaTitle = "Best Pressure Cooker Under $100 (2026): 8 Picks Compared";
-export const metaDescription = "Eight pressure cookers under $100 compared, including electric multi-cookers and stovetop options, for buyers who want a minimum-viable pressure cooker without overspending.";
+export const metaDescription = "Eight pressure cookers under $100 compared, including electric multi-cookers and stovetop options, for buyers who want a minimum-viable pressure cooker.";
 export const mainKeyword = "best pressure cooker under $100";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-20";

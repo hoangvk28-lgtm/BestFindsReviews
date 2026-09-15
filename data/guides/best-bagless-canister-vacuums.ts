@@ -1,7 +1,7 @@
 export const guideSlug = "best-bagless-canister-vacuums";
 export const guideTitle = "Best Bagless Canister Vacuums (2026)";
 export const metaTitle = "Best Bagless Canister Vacuums (2026): 8 Picks Compared";
-export const metaDescription = "The best bagless canister vacuums for 2026, compared on suction, bin capacity, and price.";
+export const metaDescription = "The best bagless canister vacuums for 2026, compared on suction, bin capacity, and price, with real pros and cons for each pick.";
 export const mainKeyword = "best bagless canister vacuums";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-24";

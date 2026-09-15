@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuums-under-200";
 export const guideTitle = "Best Robot Vacuums Under $200";
 export const metaTitle = "Best Robot Vacuums Under $200 (2026): 7 Models Compared";
-export const metaDescription =
-  "We compared seven current robot vacuums priced under $200 on navigation, suction, runtime, and real ownership cost so you know what this budget tier actually gets you.";
+export const metaDescription = "We compared seven current robot vacuums priced under $200 on navigation, suction, runtime, and real ownership cost so you know what this budget tier actually.";
 export const mainKeyword = "robot vacuums under $200";
 export const lastUpdated = "2026-08-05";
 export const readTime = "9 min";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-cedar-raised-planters";
 export const guideTitle = "Best Cedar Raised Planters (2026)";
 export const metaTitle = "Best Cedar Raised Planters (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current cedar raised planters on capacity, legs, and drainage so you can pick the right one.";
+export const metaDescription = "We compared six current cedar raised planters on capacity, legs, and drainage so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "cedar raised planter box";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

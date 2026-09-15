@@ -1,7 +1,7 @@
 export const guideSlug = "best-2-in-1-chromebooks";
 export const guideTitle = "Best 2-in-1 Chromebooks (2026)";
 export const metaTitle = "Best 2-in-1 Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best 2-in-1 convertible Chromebooks for 2026, compared on hinge design and specs.";
+export const metaDescription = "The best 2-in-1 convertible Chromebooks for 2026, compared on hinge design and specs, with real pros and cons for each pick.";
 export const mainKeyword = "best 2-in-1 chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

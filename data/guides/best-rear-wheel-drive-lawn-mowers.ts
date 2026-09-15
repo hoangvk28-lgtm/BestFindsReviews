@@ -1,7 +1,7 @@
 export const guideSlug = "best-rear-wheel-drive-lawn-mowers";
 export const guideTitle = "Best Rear-Wheel-Drive Lawn Mowers";
 export const metaTitle = "Best Rear-Wheel-Drive Lawn Mowers (2026): Current Models Compared";
-export const metaDescription = "Best rear-wheel-drive lawn mowers compared by hill traction, turning effort, reverse handling, low-speed control, and rear weight bias for lifting and transport.";
+export const metaDescription = "Best rear-wheel-drive lawn mowers compared by hill traction, turning effort, reverse handling, low-speed control, and rear weight bias for lifting.";
 export const mainKeyword = "rear wheel drive lawn mowers";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-06";

@@ -1,7 +1,7 @@
 export const guideSlug = "best-microwave-air-fryer-combos";
 export const guideTitle = "Best Microwave Air Fryer Combos";
 export const metaTitle = "Best Microwave Air Fryer Combos (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Microwave Air Fryer Combos compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Microwave Air Fryer Combos compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "microwave air fryer combos";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

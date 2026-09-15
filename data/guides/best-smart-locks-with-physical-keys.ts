@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-with-physical-keys";
 export const guideTitle = "Best Smart Locks With Physical Keys (2026)";
 export const metaTitle = "Best Smart Locks With Physical Keys (2026): 6 Picks Compared";
-export const metaDescription = "The best smart locks with a physical key backup for 2026.";
+export const metaDescription = "The best smart locks with a physical key backup for 2026, with a full breakdown of 6 options based on real specs and feedback.";
 export const mainKeyword = "smart locks with physical keys";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

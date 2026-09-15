@@ -1,7 +1,7 @@
 export const guideSlug = "best-panasonic-microwaves";
 export const guideTitle = "Best Panasonic Microwaves";
 export const metaTitle = "Best Panasonic Microwaves (2026): Current Models and Buying Guide";
-export const metaDescription = "Best Panasonic Microwaves compared by installation fit, heating performance, controls, and real ownership cost.";
+export const metaDescription = "Best Panasonic Microwaves compared by installation fit, heating performance, controls, and real ownership cost, with real pros and cons for each pick.";
 export const mainKeyword = "panasonic microwaves";
 export const categorySlug = "easy-kitchen";
 export const lastUpdated = "2026-08-10";

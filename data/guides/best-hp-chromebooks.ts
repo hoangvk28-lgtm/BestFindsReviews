@@ -1,7 +1,7 @@
 export const guideSlug = "best-hp-chromebooks";
 export const guideTitle = "Best HP Chromebooks (2026)";
 export const metaTitle = "Best HP Chromebooks (2026): 6 Picks Compared";
-export const metaDescription = "The best HP Chromebooks for 2026, compared on durability, battery life, and price.";
+export const metaDescription = "The best HP Chromebooks for 2026, compared on durability, battery life, and price, so you can match the right pick to your actual needs and budget.";
 export const mainKeyword = "best hp chromebooks";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

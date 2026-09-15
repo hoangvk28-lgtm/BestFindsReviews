@@ -1,7 +1,7 @@
 export const guideSlug = "best-washer-dryer-combo-under-1000";
 export const guideTitle = "Best Washer Dryer Combo Under $1000 (2026)";
 export const metaTitle = "Best Washer Dryer Combo Under $1000 (2026): 6 Picks Compared";
-export const metaDescription = "We compare current washer dryer combos under $1000, the first tier where genuine ventless all-in-one units that both wash and heat-dry in one drum become available.";
+export const metaDescription = "We compare current washer dryer combos under $1000, the first tier where genuine ventless all-in-one units that both wash and heat-dry in one drum become.";
 export const mainKeyword = "best washer dryer combo under $1000";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

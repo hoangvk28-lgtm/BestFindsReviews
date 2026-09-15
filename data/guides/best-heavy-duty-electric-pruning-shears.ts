@@ -1,7 +1,7 @@
 export const guideSlug = "best-heavy-duty-electric-pruning-shears";
 export const guideTitle = "Best Heavy-Duty Electric Pruning Shears (2026)";
 export const metaTitle = "Best Heavy-Duty Electric Pruning Shears (2026): 8 Models Compared";
-export const metaDescription = "We compared eight current heavy-duty electric pruning shears on cutting diameter, battery life, and blade material for buyers cutting thick, established branches.";
+export const metaDescription = "We compared eight current heavy-duty electric pruning shears on cutting diameter, battery life, and blade material for buyers cutting thick.";
 export const mainKeyword = "heavy duty electric pruning shears";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-13";

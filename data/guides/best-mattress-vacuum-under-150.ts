@@ -1,7 +1,7 @@
 export const guideSlug = "best-mattress-vacuum-under-150";
 export const guideTitle = "Best Mattress Vacuum Under $150 (2026)";
 export const metaTitle = "Best Mattress Vacuum Under $150 (2026): 8 Picks Compared";
-export const metaDescription = "We compare current mattress vacuums up to a $150 ceiling. Honestly, this category currently tops out well below this guide's ceiling, so this tier reuses our full under-$100 pool.";
+export const metaDescription = "We compare current mattress vacuums up to a $150 ceiling. Honestly, this category currently tops out well below this guide's ceiling.";
 export const mainKeyword = "best mattress vacuum under $150";
 export const categorySlug = "easy-cleaning";
 export const lastUpdated = "2026-08-20";

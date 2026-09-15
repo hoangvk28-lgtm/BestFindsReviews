@@ -1,7 +1,7 @@
 export const guideSlug = "best-over-ear-tv-headphones";
 export const guideTitle = "Best Over-Ear TV Headphones (2026)";
 export const metaTitle = "Best Over-Ear TV Headphones (2026): Comfort Over Full Movies Tested";
-export const metaDescription = "We measured headband pressure, ear-cup heat, and glasses comfort over a full movie length, since over-ear comfort matters more for TV than short listening sessions.";
+export const metaDescription = "We measured headband pressure, ear-cup heat, and glasses comfort over a full movie length, since over-ear comfort matters more for TV than short listening.";
 export const mainKeyword = "over-ear tv headphones";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-14";

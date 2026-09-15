@@ -1,7 +1,7 @@
 export const guideSlug = "best-greenworks-electric-tillers";
 export const guideTitle = "Best Greenworks Electric Tillers (2026)";
 export const metaTitle = "Best Greenworks Electric Tillers (2026): Top Picks";
-export const metaDescription = "The best Greenworks electric tillers across 40V, 60V, and 80V platforms, compared on power and price.";
+export const metaDescription = "The best Greenworks electric tillers across 40V, 60V, and 80V platforms, compared on power and price, with real pros and cons for each pick.";
 export const mainKeyword = "electric tiller greenworks";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-09-04";

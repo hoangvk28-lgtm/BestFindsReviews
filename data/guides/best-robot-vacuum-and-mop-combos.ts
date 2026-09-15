@@ -1,8 +1,7 @@
 export const guideSlug = "best-robot-vacuum-and-mop-combos";
 export const guideTitle = "Best Robot Vacuum and Mop Combos";
 export const metaTitle = "Best Robot Vacuum and Mop Combos (2026): 8 Models Compared";
-export const metaDescription =
-  "We compared eight current robot vacuum and mop combos on suction power, mop lifting for carpet, dock maintenance, and price so you can pick the right one without guessing.";
+export const metaDescription = "We compared eight current robot vacuum and mop combos on suction power, mop lifting for carpet, dock maintenance, and price so you can pick the right one.";
 export const mainKeyword = "robot vacuum and mop combos";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

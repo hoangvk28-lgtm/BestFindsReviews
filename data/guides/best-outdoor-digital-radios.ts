@@ -1,7 +1,7 @@
 export const guideSlug = "best-outdoor-digital-radios";
 export const guideTitle = "Best Outdoor Digital Radios (2026)";
 export const metaTitle = "Best Outdoor Digital Radios (2026): 6 Picks Compared";
-export const metaDescription = "The best outdoor and rugged digital radios for 2026, compared on durability and battery life.";
+export const metaDescription = "The best outdoor and rugged digital radios for 2026, compared on durability and battery life, weighing 6 current models on the specs and details that matter.";
 export const mainKeyword = "outdoor digital radio";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

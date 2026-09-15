@@ -1,7 +1,7 @@
 export const guideSlug = "best-home-security-cameras";
 export const guideTitle = "Best Home Security Cameras (2026)";
 export const metaTitle = "Best Home Security Cameras (2026): 8 Picks Compared";
-export const metaDescription = "The best home security cameras for 2026 across every brand, compared on video quality and storage.";
+export const metaDescription = "The best home security cameras for 2026 across every brand, compared on video quality and storage, with real pros and cons for each pick.";
 export const mainKeyword = "best home security camera";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

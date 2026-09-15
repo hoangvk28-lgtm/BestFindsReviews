@@ -1,8 +1,7 @@
 export const guideSlug = "best-privacy-focused-robot-vacuums";
 export const guideTitle = "Best Privacy-Focused Robot Vacuums";
 export const metaTitle = "Best Privacy-Focused Robot Vacuums (2026): 8 LiDAR Models Compared";
-export const metaDescription =
-  "We compared eight robot vacuums that use LiDAR navigation instead of an onboard camera, so you can avoid live-view privacy concerns while still checking each brand's data policy.";
+export const metaDescription = "We compared eight robot vacuums that use LiDAR navigation instead of an onboard camera, so you can avoid live-view privacy concerns while still checking each.";
 export const mainKeyword = "privacy-focused robot vacuums";
 export const lastUpdated = "2026-08-05";
 export const readTime = "10 min";

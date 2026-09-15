@@ -1,7 +1,7 @@
 export const guideSlug = "best-smart-locks-for-simplisafe";
 export const guideTitle = "Best SimpliSafe Smart Locks (2026)";
 export const metaTitle = "Best SimpliSafe Smart Locks (2026): 4 Picks Compared";
-export const metaDescription = "The best SimpliSafe-compatible smart locks for 2026.";
+export const metaDescription = "The best SimpliSafe-compatible smart locks for 2026, with a full breakdown of 4 options based on real specs and feedback.";
 export const mainKeyword = "smart locks for simplisafe";
 export const categorySlug = "simple-tech";
 export const lastUpdated = "2026-08-26";

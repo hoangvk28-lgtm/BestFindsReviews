@@ -1,7 +1,7 @@
 export const guideSlug = "best-wooden-raised-planters";
 export const guideTitle = "Best Wooden Raised Planters (2026)";
 export const metaTitle = "Best Wooden Raised Planters (2026): 6 Picks Compared";
-export const metaDescription = "We compared six current wooden raised planters on capacity and construction so you can pick the right one.";
+export const metaDescription = "We compared six current wooden raised planters on capacity and construction so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "wood raised planter";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";

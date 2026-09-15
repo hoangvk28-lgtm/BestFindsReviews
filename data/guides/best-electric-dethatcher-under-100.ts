@@ -1,7 +1,7 @@
 export const guideSlug = "best-electric-dethatcher-under-100";
 export const guideTitle = "Best Electric Dethatcher Under $100 (2026)";
 export const metaTitle = "Best Electric Dethatcher Under $100 (2026): 3 Picks Compared";
-export const metaDescription = "We compare current electric dethatchers priced under $100 on reel type, working width, and power source.";
+export const metaDescription = "We compare current electric dethatchers priced under $100 on reel type, working width, and power source, with real pros and cons for each pick.";
 export const mainKeyword = "best electric dethatcher under $100";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-20";

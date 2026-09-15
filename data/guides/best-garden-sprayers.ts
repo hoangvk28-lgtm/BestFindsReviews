@@ -1,7 +1,7 @@
 export const guideSlug = "best-garden-sprayers";
 export const guideTitle = "Best Garden Sprayers (2026)";
 export const metaTitle = "Best Garden Sprayers (2026): 7 Picks Compared";
-export const metaDescription = "We compared seven current garden sprayers on tank capacity, pump type, and hose reach so you can pick the right one.";
+export const metaDescription = "We compared seven current garden sprayers on tank capacity, pump type, and hose reach so you can pick the right one, with real pros and cons for each pick.";
 export const mainKeyword = "garden sprayer";
 export const categorySlug = "garden-yard";
 export const lastUpdated = "2026-08-28";
