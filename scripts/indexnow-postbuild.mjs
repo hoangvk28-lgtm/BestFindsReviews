@@ -13,6 +13,14 @@
  *
  * Skips silently on local `npm run build` and on Vercel preview builds —
  * only fires for production deploys, so dev/PR builds never spam IndexNow.
+ *
+ * Scoping (updated 2026-09-16): even when data/guides.ts or
+ * data/categories.ts changes (e.g. a batch adding many new guides), this
+ * only submits the newly ADDED slug lines from that file's diff, not the
+ * whole site — a 45-guide batch commit was resubmitting the full ~900 URL
+ * site list because of the old blanket fallback. True full-list fallback
+ * is now reserved for cases where the diff itself can't be computed
+ * (shallow clone, no parent commit, etc.).
  */
 import { readFileSync } from "fs";
 import { execSync } from "child_process";
@@ -83,9 +91,18 @@ function computeChangedUrlList() {
     return [];
   }
 
-  if (changedFiles.includes("data/guides.ts") || changedFiles.includes("data/categories.ts")) {
-    console.log("[indexnow-postbuild] guides.ts/categories.ts changed — falling back to full URL list.");
-    return fullUrlList;
+  // Only the NEWLY ADDED slug lines in these files (from the diff hunks),
+  // not a full-list fallback — a batch that registers many new guides at
+  // once (touching data/guides.ts) shouldn't resubmit the entire site.
+  function addedSlugsIn(file) {
+    let diffOutput;
+    try {
+      diffOutput = execSync(`git diff HEAD~1 HEAD -- ${file}`, { cwd: ROOT, encoding: "utf8" });
+    } catch {
+      return null; // diff failed — caller decides how to handle
+    }
+    const added = [...diffOutput.matchAll(/^\+.*slug:\s*"([^"]+)"/gm)].map((m) => m[1]);
+    return [...new Set(added)];
   }
 
   const changedSlugs = new Set();
@@ -93,11 +110,27 @@ function computeChangedUrlList() {
     const m = f.match(/^data\/guides\/([^/]+)\.ts$/) || f.match(/^app\/\(site\)\/guide\/([^/]+)\/page\.tsx$/);
     if (m) changedSlugs.add(m[1]);
   }
+  if (changedFiles.includes("data/guides.ts")) {
+    const added = addedSlugsIn("data/guides.ts");
+    if (added === null) {
+      console.log("[indexnow-postbuild] Could not diff data/guides.ts — falling back to full URL list.");
+      return fullUrlList;
+    }
+    added.forEach((s) => changedSlugs.add(s));
+  }
 
   const changedCategorySlugs = new Set();
   for (const f of changedFiles) {
     const m = f.match(/^app\/\(site\)\/categories\/([^/]+)\/page\.tsx$/);
     if (m) changedCategorySlugs.add(m[1]);
+  }
+  if (changedFiles.includes("data/categories.ts")) {
+    const added = addedSlugsIn("data/categories.ts");
+    if (added === null) {
+      console.log("[indexnow-postbuild] Could not diff data/categories.ts — falling back to full URL list.");
+      return fullUrlList;
+    }
+    added.forEach((s) => changedCategorySlugs.add(s));
   }
 
   const coreFilesChanged = changedFiles.some((f) =>
