@@ -1204,6 +1204,23 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-stainless-steel-bread-makers": () => import("./guides/best-stainless-steel-bread-makers"),
   "best-sunbeam-bread-makers": () => import("./guides/best-sunbeam-bread-makers"),
   "best-west-bend-bread-makers": () => import("./guides/best-west-bend-bread-makers"),
+  "best-zojirushi-mini-bread-makers": () => import("./guides/best-zojirushi-mini-bread-makers"),
+  "best-kbs-bread-makers": () => import("./guides/best-kbs-bread-makers"),
+  "best-bread-makers-for-seniors": () => import("./guides/best-bread-makers-for-seniors"),
+  "best-elite-gourmet-bread-makers": () => import("./guides/best-elite-gourmet-bread-makers"),
+  "best-neretva-bread-makers": () => import("./guides/best-neretva-bread-makers"),
+  "best-panasonic-bread-makers": () => import("./guides/best-panasonic-bread-makers"),
+  "best-convection-bread-makers": () => import("./guides/best-convection-bread-makers"),
+  "best-low-carb-bread-makers": () => import("./guides/best-low-carb-bread-makers"),
+  "best-small-bread-makers": () => import("./guides/best-small-bread-makers"),
+  "best-1-pound-bread-makers": () => import("./guides/best-1-pound-bread-makers"),
+  "bread-maker-vs-stand-mixer": () => import("./guides/bread-maker-vs-stand-mixer"),
+  "best-2-pound-bread-makers": () => import("./guides/best-2-pound-bread-makers"),
+  "quietest-bread-makers": () => import("./guides/quietest-bread-makers"),
+  "best-non-toxic-bread-makers": () => import("./guides/best-non-toxic-bread-makers"),
+  "best-ninja-bread-makers": () => import("./guides/best-ninja-bread-makers"),
+  "best-bread-makers-under-50": () => import("./guides/best-bread-makers-under-50"),
+  "best-bread-makers-under-100": () => import("./guides/best-bread-makers-under-100"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
