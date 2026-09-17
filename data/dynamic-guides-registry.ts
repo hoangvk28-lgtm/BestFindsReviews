@@ -1236,6 +1236,12 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-countertop-dishwashers-without-hookups": () => import("./guides/best-countertop-dishwashers-without-hookups"),
   "countertop-dishwasher-vs-portable-dishwasher": () => import("./guides/countertop-dishwasher-vs-portable-dishwasher"),
   "best-countertop-dishwashers-for-seniors": () => import("./guides/best-countertop-dishwashers-for-seniors"),
+  "best-hermitlux-countertop-dishwashers": () => import("./guides/best-hermitlux-countertop-dishwashers"),
+  "best-novete-countertop-dishwashers": () => import("./guides/best-novete-countertop-dishwashers"),
+  "best-spt-countertop-dishwashers": () => import("./guides/best-spt-countertop-dishwashers"),
+  "best-airmsen-countertop-dishwashers": () => import("./guides/best-airmsen-countertop-dishwashers"),
+  "best-midea-countertop-dishwashers": () => import("./guides/best-midea-countertop-dishwashers"),
+  "best-black-decker-countertop-dishwashers": () => import("./guides/best-black-decker-countertop-dishwashers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
