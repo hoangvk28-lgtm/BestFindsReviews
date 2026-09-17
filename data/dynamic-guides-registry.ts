@@ -1256,6 +1256,9 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-countertop-dishwashers-under-100": () => import("./guides/best-countertop-dishwashers-under-100"),
   "best-countertop-dishwashers-under-200": () => import("./guides/best-countertop-dishwashers-under-200"),
   "best-rca-countertop-dishwashers": () => import("./guides/best-rca-countertop-dishwashers"),
+  "best-food-processors": () => import("./guides/best-food-processors"),
+  "best-cuisinart-food-processors": () => import("./guides/best-cuisinart-food-processors"),
+  "best-14-cup-food-processors": () => import("./guides/best-14-cup-food-processors"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
