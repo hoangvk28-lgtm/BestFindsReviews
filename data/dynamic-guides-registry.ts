@@ -1226,6 +1226,11 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-compact-countertop-dishwashers": () => import("./guides/best-compact-countertop-dishwashers"),
   "best-portable-countertop-dishwashers": () => import("./guides/best-portable-countertop-dishwashers"),
   "best-hava-countertop-dishwashers": () => import("./guides/best-hava-countertop-dishwashers"),
+  "best-farberware-countertop-dishwashers": () => import("./guides/best-farberware-countertop-dishwashers"),
+  "best-countertop-dishwashers-with-water-tanks": () => import("./guides/best-countertop-dishwashers-with-water-tanks"),
+  "best-danby-countertop-dishwashers": () => import("./guides/best-danby-countertop-dishwashers"),
+  "best-small-countertop-dishwashers": () => import("./guides/best-small-countertop-dishwashers"),
+  "best-mini-countertop-dishwashers": () => import("./guides/best-mini-countertop-dishwashers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
