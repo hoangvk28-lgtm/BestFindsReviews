@@ -1221,6 +1221,11 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-ninja-bread-makers": () => import("./guides/best-ninja-bread-makers"),
   "best-bread-makers-under-50": () => import("./guides/best-bread-makers-under-50"),
   "best-bread-makers-under-100": () => import("./guides/best-bread-makers-under-100"),
+  "best-countertop-dishwashers": () => import("./guides/best-countertop-dishwashers"),
+  "best-comfee-countertop-dishwashers": () => import("./guides/best-comfee-countertop-dishwashers"),
+  "best-compact-countertop-dishwashers": () => import("./guides/best-compact-countertop-dishwashers"),
+  "best-portable-countertop-dishwashers": () => import("./guides/best-portable-countertop-dishwashers"),
+  "best-hava-countertop-dishwashers": () => import("./guides/best-hava-countertop-dishwashers"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
