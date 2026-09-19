@@ -68,7 +68,7 @@ const fullUrlList = [
 ];
 
 // Try to scope the ping down to only what changed since the previous commit.
-// Falls back to the full URL list (previous behavior) whenever the diff
+// Skips the ping entirely (never bulk-submits the full list) whenever the diff
 // can't be computed — e.g. shallow clone with no parent commit, or a change
 // to data/guides.ts / data/categories.ts itself (slug list changed, safest
 // to resubmit the lot rather than guess which entries are new).
@@ -83,8 +83,8 @@ function computeChangedUrlList() {
       .map((f) => f.trim())
       .filter(Boolean);
   } catch (err) {
-    console.warn("[indexnow-postbuild] git diff unavailable, falling back to full URL list:", err.message);
-    return fullUrlList;
+    console.warn("[indexnow-postbuild] git diff unavailable, skipping ping, never bulk-submit:", err.message);
+    return [];
   }
 
   if (changedFiles.length === 0) {
@@ -113,8 +113,8 @@ function computeChangedUrlList() {
   if (changedFiles.includes("data/guides.ts")) {
     const added = addedSlugsIn("data/guides.ts");
     if (added === null) {
-      console.log("[indexnow-postbuild] Could not diff data/guides.ts — falling back to full URL list.");
-      return fullUrlList;
+      console.log("[indexnow-postbuild] Could not diff data/guides.ts — skipping ping, never bulk-submit.");
+      return [];
     }
     added.forEach((s) => changedSlugs.add(s));
   }
@@ -127,8 +127,8 @@ function computeChangedUrlList() {
   if (changedFiles.includes("data/categories.ts")) {
     const added = addedSlugsIn("data/categories.ts");
     if (added === null) {
-      console.log("[indexnow-postbuild] Could not diff data/categories.ts — falling back to full URL list.");
-      return fullUrlList;
+      console.log("[indexnow-postbuild] Could not diff data/categories.ts — skipping ping, never bulk-submit.");
+      return [];
     }
     added.forEach((s) => changedCategorySlugs.add(s));
   }
