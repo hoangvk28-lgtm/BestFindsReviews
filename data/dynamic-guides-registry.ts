@@ -2013,6 +2013,23 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-compact-washers-for-rvs": () => import("./guides/best-compact-washers-for-rvs"),
   "best-24-inch-compact-washers": () => import("./guides/best-24-inch-compact-washers"),
   "quietest-compact-washers": () => import("./guides/quietest-compact-washers"),
+  "best-mattress-vacuums": () => import("./guides/best-mattress-vacuums"),
+  "best-mattress-vacuum-cleaners": () => import("./guides/best-mattress-vacuum-cleaners"),
+  "best-teant-mattress-vacuums": () => import("./guides/best-teant-mattress-vacuums"),
+  "best-jimmy-mattress-vacuums": () => import("./guides/best-jimmy-mattress-vacuums"),
+  "best-handheld-mattress-vacuums": () => import("./guides/best-handheld-mattress-vacuums"),
+  "best-mattress-vacuums-with-uv-light": () => import("./guides/best-mattress-vacuums-with-uv-light"),
+  "best-cordless-mattress-vacuums": () => import("./guides/best-cordless-mattress-vacuums"),
+  "best-feppo-mattress-vacuums": () => import("./guides/best-feppo-mattress-vacuums"),
+  "best-jigoo-mattress-vacuums": () => import("./guides/best-jigoo-mattress-vacuums"),
+  "best-belife-mattress-vacuums": () => import("./guides/best-belife-mattress-vacuums"),
+  "best-raycop-mattress-vacuums": () => import("./guides/best-raycop-mattress-vacuums"),
+  "best-mattress-vacuums-for-couches-and-upholstery": () => import("./guides/best-mattress-vacuums-for-couches-and-upholstery"),
+  "best-mattress-vacuums-with-hepa-filters": () => import("./guides/best-mattress-vacuums-with-hepa-filters"),
+  "best-powerful-mattress-vacuums": () => import("./guides/best-powerful-mattress-vacuums"),
+  "best-ultrasonic-mattress-vacuums": () => import("./guides/best-ultrasonic-mattress-vacuums"),
+  "best-heated-mattress-vacuums": () => import("./guides/best-heated-mattress-vacuums"),
+  "best-mattress-vacuums-for-pet-hair": () => import("./guides/best-mattress-vacuums-for-pet-hair"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
