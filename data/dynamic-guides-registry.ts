@@ -1980,6 +1980,20 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-sun-joe-wood-chippers": () => import("./guides/best-sun-joe-wood-chippers"),
   "best-wood-chippers-for-seniors": () => import("./guides/best-wood-chippers-for-seniors"),
   "wood-chipper-vs-chipper-shredder": () => import("./guides/wood-chipper-vs-chipper-shredder"),
+  "best-digital-magnifiers": () => import("./guides/best-digital-magnifiers"),
+  "best-digital-magnifying-glasses": () => import("./guides/best-digital-magnifying-glasses"),
+  "best-portable-digital-magnifiers": () => import("./guides/best-portable-digital-magnifiers"),
+  "best-handheld-digital-magnifiers": () => import("./guides/best-handheld-digital-magnifiers"),
+  "best-smartlux-digital-magnifiers": () => import("./guides/best-smartlux-digital-magnifiers"),
+  "best-digital-video-magnifiers": () => import("./guides/best-digital-video-magnifiers"),
+  "best-digital-magnifiers-for-reading": () => import("./guides/best-digital-magnifiers-for-reading"),
+  "best-digital-magnifiers-with-cameras": () => import("./guides/best-digital-magnifiers-with-cameras"),
+  "best-eschenbach-digital-magnifiers": () => import("./guides/best-eschenbach-digital-magnifiers"),
+  "best-eyoyo-digital-magnifiers": () => import("./guides/best-eyoyo-digital-magnifiers"),
+  "best-vevor-digital-magnifiers": () => import("./guides/best-vevor-digital-magnifiers"),
+  "best-desktop-digital-magnifiers": () => import("./guides/best-desktop-digital-magnifiers"),
+  "best-digital-magnifiers-with-large-screens": () => import("./guides/best-digital-magnifiers-with-large-screens"),
+  "best-digital-magnifiers-for-coins": () => import("./guides/best-digital-magnifiers-for-coins"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
