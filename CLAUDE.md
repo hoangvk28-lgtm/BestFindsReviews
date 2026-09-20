@@ -33,6 +33,13 @@
 
 **Before generating content at scale (any script-driven batch of guides/products), write and eyeball ONE full sample article end-to-end against this bar first** — don't run the same thin template across dozens of articles and only discover the problem after publishing. If a templated approach can't produce this depth without hand-authored per-product prose, don't template it; write it directly instead.
 
+**Never let raw Amazon feature-bullet text reach published prose, even after "mining" it.** In September 2026, a 312-guide batch shipped with literal seller ad copy embedded in descriptions, pros/cons, and spec chips — e.g. `【Compact Size, Big Efficiency】 the upgraded 2025 Waykar dehumidifier features...` and `【smart dehumidifier using ai algorithm: your 24/7 climate sensei】abandon manual humidity tinkering forever`. Root cause: the mining script's label-stripping regex only matched ASCII `LABEL:`/`LABEL -` prefixes; it had no handling for the full-width bracket labels (`【...】`) that many Amazon sellers (especially non-US brands) use instead, so that text — including raw marketing copy following the bracket — passed straight through into "reviewer voice" prose untouched. A second bug: forcing pros/cons and spec chips to hard-truncate at a character cap produced ugly mid-sentence/mid-word fragments (`"...comfortable home by"`, `"...included 3"` — the last one because a decimal like `3.3-ft` has a `.` that a naive sentence-boundary regex misreads as an end-of-sentence period). Fixes now baked into the mining pipeline (`shortPhrase()`/`stripBracketLabels()` in the batch-pipeline scratchpad, see the Appendix runbook):
+- Strip `【...】` (and `[...]`) bracket labels wherever they appear in a feature string, not just at the start — handle both the closed case and the case where Amazon's API truncates a feature bullet mid-label with no closing bracket at all (strip from the stray bracket to end of string in that case).
+- Reject (don't paste) any fragment that starts with obvious ad-copy phrasing ("Tired of...", "Abandon...", "Introducing...", "Experience...", etc.) after the bracket is stripped — a label removed but ad-copy sentence remaining is still not reviewer voice.
+- Sentence-boundary detection for `.`/`;`/`!` must exclude a period inside a decimal number (digit`.`digit) — don't cut `"3.3-ft"` at the `.`.
+- Spec chips (short pill/badge text, not paragraph prose) must be rejected outright if they don't fit the cap naturally — never hard-truncate a chip mid-sentence, since a cut-off fragment as a UI pill reads as broken, not just thin.
+- **Before shipping any batch sourced from Amazon feature data, grep the built output for `【` and `[` (as literal characters) across all generated `data/guides/*.ts` files — zero hits required.** This is now also part of the Appendix runbook's checklist.
+
 ---
 
 ## 1. Project Overview
@@ -831,3 +838,87 @@ Run this checklist before every commit that touches pages, metadata, content, or
 - [ ] No secrets in staged files (`.env.local`, JWT tokens, passwords)
 - [ ] Admin routes have `noIndex: true` in metadata
 - [ ] `robots.ts` still blocks `/admin`, `/api/`, `/_next/`
+
+---
+
+## Appendix: Batch Content Pipeline Runbook (adapted from DeskFinds)
+
+This is the standard pipeline for deploying a large batch of new guide articles from a keyword/topic CSV, adapted from the process proven on the DeskFinds (smartspace-picks) project and customized for WorthRated's stricter content-depth and no-price rules above. Follow this checklist whenever a new keyword batch arrives instead of re-deriving the approach from scratch.
+
+### 1. Core philosophy
+
+- **Never hand-write per-article prose for hundreds of rows.** Instead build a small number of reusable **content pools** per product category (criteria explanations, FAQ entries, how-to-choose logic), then have code assemble a unique-enough article per row by deterministically sampling from the pool.
+- **"Deterministic per-slug" beats "random."** The same slug must always produce the same selection on every re-run (idempotent builds, reviewable diffs, no silent content drift). Achieve this with a hash of the slug as the seed, never `Math.random()`.
+- **Depth must be real, not templated filler.** Every pooled criterion/FAQ entry is written once, by hand, grounded in actual competitor research (WebSearch) for that category, and is *reused* across many articles, but each entry must independently satisfy WorthRated's Content Depth Standard (Section 0.1) on its own, since it will appear verbatim (with product names substituted) in multiple articles.
+
+### 2. Five-layer architecture
+
+1. **Sourcing** — batch PA-API/Creators API calls (`search_generic.mjs` pattern): dedupe all `(primaryKeyword, mainKeyword)` pairs across the whole CSV into one `queries.json`, then run one resumable script that writes incrementally to `search_results.json` (skips already-present queries on re-run), with a fixed delay between calls (900ms) to avoid rate limits.
+2. **Content pool** — one `content_templates.mjs` per project, with a `POOLS` object keyed by category slug (e.g. `dehumidifier`, `snowblower`). Each pool has a `criteria[]` array and an `faq[]` array. Every criteria entry is `{ id, criterion, explain: (p0, pMin, pMax, pAlt) => "..." }`, where `explain` is a function, not a static string, so it binds real per-article product names/badges/numbers at build time. This is what makes "real named product + real number" possible at scale instead of one-off.
+3. **Mining** — turn real Amazon `itemInfo.features` data into WorthRated-depth prose: 8-10 sentence / 3-paragraph descriptions, ~60-90 character short pros/cons bullets, rewritten in reviewer voice, never raw/truncated Amazon bullets copy-pasted in. Never populate `rating`/`reviews` fields; never state an exact star rating or review count anywhere in prose (WorthRated-specific, stricter than DeskFinds).
+4. **Anti-duplicate layer** — before building anything: (a) diff every planned slug against `data/guides.ts`'s existing registry and drop collisions; (b) within the pool-selection step, use a seeded shuffle (`seededShuffle(pool, hashStr(row.slug))`) so neighboring articles in the same category don't draw the same criteria/FAQ entries in the same order; (c) filter obviously off-topic sourced products per category (accessory/wrong-product regex excludes) before they can contaminate a guide's product lineup.
+5. **Verify** — `npx tsc --noEmit`, spot-check rendered pages, and run WorthRated's own self-check from Section 0.1: pick 3 random sentences from `buyingCriteria`/`howToChoose` output, if none name a real product + a real number, the content is too thin and the pool entry needs rewriting, not the pipeline.
+
+### 3. Real code patterns (as implemented this batch)
+
+```js
+// hash-seed shuffle: deterministic per slug, no Math.random()
+function hashStr(s) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return h >>> 0; }
+function mixHash(h) { return (h ^ 0x9e3779b9) >>> 0; }
+function seededShuffle(arr, seed) {
+  const a = [...arr]; let s = seed;
+  for (let i = a.length - 1; i > 0; i--) {
+    s = (s * 1103515245 + 12345) & 0x7fffffff;
+    const j = s % (i + 1);
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function buildCriteria(row, products) {
+  const pool = POOLS[row.cat].criteria;
+  const shuffled = seededShuffle(pool, hashStr(row.slug));
+  const picked = shuffled.slice(0, 6);
+  const p0 = products[0];
+  const pMin = products.find(p => p.badge === "Best Value") ?? products[1];
+  const pMax = products.find(p => p.badge === "Best Premium Pick") ?? products[products.length - 1];
+  const pAlt = products[Math.floor(products.length / 2)];
+  return picked.map(c => ({ criterion: c.criterion, explanation: c.explain(p0, pMin, pMax, pAlt) }));
+}
+
+function buildFaq(row) {
+  const pool = POOLS[row.cat].faq;
+  const shuffled = seededShuffle(pool, mixHash(hashStr(row.slug)));
+  return shuffled.slice(0, Math.max(5, Math.min(7, pool.length)));
+}
+```
+
+- `PRIORITY_MAP` (per-category, keyed by criterion `id`) can be used to force certain criteria to appear first for a subset of articles (e.g. safety-critical criteria always shown for a "for kids/seniors" variant title) before the seeded shuffle fills the remaining slots: pin the priority ids, then seed-shuffle only the remainder.
+- `check_dup`-equivalent: before calling `build-guide.mjs`, diff the planned slug list against `data/guides.ts` in one pass up front (not per-row), and log every collision explicitly rather than silently skipping, since the user needs to see what was dropped and why.
+
+### 4. Why this saves tokens
+
+Writing 18 category pools once (roughly 7-10 criteria + 7 FAQ entries each, hand-grounded in real research) costs a fixed, one-time token budget. Generating 700+ unique articles by re-deriving prose per row would cost roughly 700x that. The pool + seeded-shuffle + `explain()`-function-with-real-product-binding approach gets genuine per-article specificity (a real product name and a real number in every criterion) without paying the per-row authoring cost. The only recurring cost is the sourcing API calls and the final assembly step, both cheap script execution, not model generation.
+
+### 5. Seven real failures hit in the batch immediately preceding this note (avoid repeating)
+
+1. **Wrong-content extraction** — a loose substring match when recovering a large pasted CSV from transcript accidentally grabbed the extraction script's own source instead of the CSV. Fix: match on a long, highly-specific, unlikely-to-collide substring, and always sanity-check line count / structure of the extracted result before trusting it.
+2. **Naive CSV parsing on quoted fields** — `split(',')` silently produced garbage column alignment because of commas inside quoted note fields and comma-decimal values. Fix: always use a real character-state-machine CSV parser (tracks quote state, handles escaped quotes) for any pasted CSV with free-text or currency columns, never a naive split.
+3. **Vercel "Secret"-type env vars are permanently unrecoverable** — `vercel env pull` returns a literal redacted placeholder string for any var saved as Type=Secret, and this is not a permissions issue, it cannot ever be revealed again by anyone, including the owner. Fix: diagnose by printing lengths of pulled secrets (never the values) as a first check whenever an API call fails with an auth error right after an env pull, since a suspiciously short fixed-length value is the tell.
+4. **Silent wrong-value failure via fallback masking** — a script's `env.X || 'fallback'` pattern didn't trigger even though the real intent was "use the fallback if X is broken," because the redacted placeholder is a truthy non-empty string, not falsy/undefined. This caused every API call to silently send a garbage value and return zero results for every query with no thrown error. Fix: for any env var that might be a Vercel-redacted secret, explicitly check its value/length rather than relying on truthy-fallback logic.
+5. **Off-topic product contamination** — generic keyword search can return accessories, replacement parts, or wrong-category items alongside the real product. Fix: maintain a category-specific exclude regex (e.g. replacement blade/filter/bag, accessory kit) applied to every sourced item's title before it's allowed into a guide's product lineup, not just a manual eyeball pass.
+6. **Content pool exhaustion on shared pools** — if a category pool has too few entries relative to how many articles draw from it, the seeded shuffle starts repeating near-identical criteria/FAQ selections across neighboring articles despite different seeds, since slicing a small pool has limited combinatorics. Fix: budget at least 8-10 criteria entries and 7+ FAQ entries per category pool when the category will produce 15+ articles, not the bare minimum needed to pass the depth checklist once.
+7. **Raw Amazon ad copy leaking into "mined" prose** — see the "Never let raw Amazon feature-bullet text reach published prose" callout in Section 0.1 above for the full story (bracket-label sellers, decimal-period false sentence-boundaries, ugly hard-truncated spec chips). Fix already baked into `shortPhrase()`/`stripBracketLabels()`/`buildSpecs()` in the mining step — reuse that logic rather than re-deriving it, and always grep built output for literal `【` / `[` before shipping.
+
+### 6. Checklist for applying this pipeline to a new site or new batch
+
+1. Read the target site's own CLAUDE.md content-depth rules in full; do not assume they match another project's rules (WorthRated's "never show a price" and "never state exact rating/review numbers" rules are stricter than DeskFinds and must shape the mining step differently).
+2. Parse the incoming CSV with a real character-state-machine parser; confirm row/column counts look sane before proceeding.
+3. Diff every planned slug against the site's existing guide registry in one batch pass; log and drop collisions explicitly.
+4. Group rows by product-category cluster; run one WebSearch competitor-research pass per cluster before writing any pool content, never template first and research later.
+5. Dedupe all `(primaryKeyword, mainKeyword)` pairs across the batch into a single `queries.json`; run a resumable, incrementally-saving sourcing script with a fixed inter-request delay.
+6. If any env var used for the sourcing API returns an auth error, check for a Vercel-redacted placeholder value (by length, never by printing the value) before assuming a credential is genuinely wrong.
+7. Write one content pool per category with 8-10+ criteria entries (as `explain()` functions binding real product names/numbers) and 7+ FAQ entries, grounded in the WebSearch research from step 4.
+8. Write the deterministic seeded-shuffle assembly layer (`hashStr`/`seededShuffle`/`buildCriteria`/`buildFaq`), plus a category-specific off-topic exclude filter applied to sourced products before they enter any guide's lineup.
+9. Assemble each row's full spec JSON and run it through the site's own guide-build script (e.g. `build-guide.mjs`), never hand-roll a different file shape than what the site's existing tooling expects.
+10. Verify: `tsc --noEmit`, spot-check rendered pages, run the site's own content-depth self-check (pick 3 random sentences from criteria/how-to-choose output and confirm each names a real product + real number), confirm no site-specific compliance rule (price display, rating numbers, dash usage, etc.) was violated, grep all generated guide files for literal `【` and `[` (zero hits required — see failure #7 above), then register and commit.
