@@ -1,0 +1,213 @@
+{
+ "guideTitle": "5 Best Motion Sensor Light Socket Adapters in 2026",
+ "metaTitle": "Best Motion Sensor Light Socket Adapters 2026",
+ "metaDescription": "Five motion sensor light socket adapters compared on sensor type, timer range and head adjustment, so any E26 or E27 lamp can switch itself.",
+ "introParagraphs": [
+  "A motion sensor light socket is the cheapest and quietest way to automate a lamp you already own. You screw the adapter into the existing fixture, screw your bulb into the other end, and the light now turns on when someone is near and off when they leave. There is no wiring, no new fixture to buy and nothing to remount, which makes it ideal for renters and for anyone who simply does not want an electrician in the house.",
+  "The five picks here all use the common E26 or E27 screw base, but they sense differently. Most rely on a PIR sensor that reads body heat, while two use a radar sensor that can detect motion through thin non-metal surfaces. They also differ in timer range, whether the sensor head can be aimed and how many come in the box.",
+  "We evaluated each from product specs and buyer feedback, focusing on sensing method, adjustability and how easily it turns an everyday lamp into an automatic one. A few simple checks, such as bulb heat and how deep the fixture is, matter more than any single spec."
+ ],
+ "products": [
+  {
+   "i": 7,
+   "badge": "Best Radar Sensing",
+   "name": "eSenlite Smart Radar Motion Sensor Light Socket",
+   "specs": ["E26/E27 screw-in add-on", "5.8GHz radar sensor", "Dusk-to-dawn operation", "Smart Moonlight mode", "About 1W standby, 80 lumens"],
+   "specList": [{"label": "Base", "value": "E26/E27"}, {"label": "Sensor", "value": "5.8GHz Doppler radar"}, {"label": "Standby", "value": "About 1W, 80 lumens"}],
+   "description": "The eSenlite screws into a standard E26 or E27 socket and takes your existing bulb on the other side. Instead of a PIR sensor it uses a 5.8GHz Doppler radar that the listing says can sense through non-metallic surfaces such as glass or wood. It offers two modes, a SMART Moonlight mode and an AUTO motion on and off mode.\n\nThe Moonlight mode holds a faint glow of about 1W and 80 lumens while the room is empty, then jumps to full brightness when someone enters. That is the most useful trick in this group, since it removes the dark first step into a hallway. Radar sensing is more sensitive than infrared, so it can pick up movement behind a light shade, though it may also notice motion you did not intend.\n\nInstallation takes seconds, and the dusk-to-dawn feature keeps it from switching on in daylight. Compared with the eLEDing radar adapter, the eSenlite puts the faint standby glow front and center. Choose it when you want a lamp that never sits fully dark and always responds quickly.",
+   "bestFor": "Hallways and entries that benefit from a faint standing glow.",
+   "pros": ["Moonlight mode holds a faint glow around 80 lumens", "Radar senses through thin non-metal surfaces", "Dusk-to-dawn feature stays off in daylight", "Works with LED and other common bulb types"],
+   "cons": ["Radar may sense movement beyond the room you intend", "Standby glow draws a small amount of power all night"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Bulb Compatibility",
+   "name": "eLEDing Radar Motion Sensor Retrofit Socket",
+   "specs": ["Radar motion screw base", "Works with LED, CFL, incandescent", "Selectable lighting profiles", "SMART-MOONLIGHT mode", "Photocell dusk-to-dawn"],
+   "specList": [{"label": "Sensor", "value": "Radar"}, {"label": "Bulb types", "value": "LED, CFL, incandescent"}, {"label": "Daylight control", "value": "Photocell"}],
+   "description": "The eLEDing adapter is a radar motion screw base designed to retrofit lamps that take LED, CFL or incandescent bulbs. It offers selectable lighting profiles, and the listing recommends its SMART-MOONLIGHT mode. A built-in photocell lets it follow true dusk-to-dawn behavior. The bulb is not included.\n\nBulb flexibility is its calling card, because many older lamps still hold incandescent or CFL bulbs that other adapters do not clearly support. The selectable profiles let you choose between steady light and motion response, so you can tune it to a hallway or a garage. As with any radar sensor, it can react to movement behind walls or thin partitions, so aim it away from busy areas.\n\nThere is no installation beyond screwing it in, and the bulb choice remains yours. Against the Hortsun six-pack, the eLEDing is a single, more feature-rich radar unit. It suits owners whose lamps already hold a mix of bulb types and who want one adapter to handle them all.",
+   "bestFor": "Lamps that hold a mix of LED, CFL and incandescent bulbs.",
+   "pros": ["Listing names LED, CFL and incandescent bulb support", "Photocell enables true dusk-to-dawn operation", "Selectable profiles tune the behavior to the room", "Screws into an existing E26 socket without tools"],
+   "cons": ["Radar can pick up movement beyond a thin wall", "Bulb is not included, so you must supply one"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Simple PIR",
+   "name": "Taigeguang PIR Motion Sensor Light Socket E26/E27",
+   "specs": ["E26/E27 screw base", "PIR infrared sensor", "Adjustable time delay", "Day and night detection", "Converts any ordinary lamp"],
+   "specList": [{"label": "Base", "value": "E26/E27"}, {"label": "Sensor", "value": "PIR infrared"}, {"label": "Controls", "value": "Two adjustments"}],
+   "description": "The Taigeguang is a PIR motion sensor socket for E26 and E27 screw-in bulbs. It senses the infrared heat of a person and can tell day from night. It has two adjustments, including a time button that sets how long the light stays on after you leave.\n\nThe simplicity is the appeal, since there are only two controls to understand. Because it relies on body heat, it does not mistake a swaying curtain for a person the way a radar can. The flip side is that a PIR sensor cannot see through walls or glass, so it needs a clear line of sight to the area you want covered.\n\nThe seller offers several versions, including one marked for indoor use only, so read the listing carefully before placing it in a garage or porch. Ownership is as easy as screwing it in. Compared with the Generic adjustable-head socket that adds a swivel, the Taigeguang keeps things simple. Pick it for a closet, basement stairs or any spot where you want an automatic lamp with no fuss.",
+   "bestFor": "Closets, basements and stairwells that need simple automatic lighting.",
+   "pros": ["Two adjustments are easy to understand and set", "PIR heat sensing avoids reacting to moving curtains", "Day and night detection saves needless daytime use", "Screw-in design converts any ordinary lamp"],
+   "cons": ["Fixed sensor head limits where it can aim", "Some versions are indoor-use only, so check the listing"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Adjustable Head",
+   "name": "Generic E26/E27 Motion Light Socket, Adjustable Head",
+   "specs": ["Head rotates 160 degrees sideways", "Head tilts 160 degrees up and down", "Three adjustments", "E26/E27 screw base", "Auto on and off"],
+   "specList": [{"label": "Side rotation", "value": "160 degrees"}, {"label": "Tilt", "value": "160 degrees"}, {"label": "Controls", "value": "Three adjustments"}],
+   "description": "This unbranded socket adapter has a sensor head that swivels 160 degrees left and right and 160 degrees front and back. It fits E26 and E27 screw-in bulbs and offers three adjustments, including a time button. The light switches on and off automatically as someone approaches or leaves.\n\nThe moving head is its main advantage, because a fixture mounted in a corner or in a ceiling socket often points the sensor the wrong way. You can aim the sensor at a door or a path while the bulb stays where it is. The extra adjustments mean more to set up, and an unbranded product gives you less support information than a known label.\n\nOwnership is easy once you spend a minute angling the head, and the three controls let you tune how long the light stays on. Compared with the Taigeguang, which has two adjustments and a fixed head, this one trades simplicity for flexibility. Choose it when your socket is in an awkward spot and you need to aim the sensor independently.",
+   "bestFor": "Sockets in corners or ceilings where the sensor must be aimed.",
+   "pros": ["Head swivels 160 degrees side to side", "Head tilts 160 degrees forward and back", "Three adjustments let you tune timing and response", "Screws into a standard E26 or E27 socket"],
+   "cons": ["Unbranded, so support information is thin", "More settings means a few minutes of setup"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Multi-Pack",
+   "name": "Hortsun 6-Pack Motion Sensor Light Socket E26/E27",
+   "specs": ["6 adapters in the pack", "Screw into existing socket", "10 seconds to 5 minutes timer", "Adjustable light sensitivity", "Built-in motion sensor"],
+   "specList": [{"label": "Pack size", "value": "6 adapters"}, {"label": "Timer", "value": "10 seconds to 5 minutes"}, {"label": "Base", "value": "E26/E27"}],
+   "description": "The Hortsun comes as a six-pack of adapters that screw into an existing socket, with the bulb screwed into the other end. The listing states an adjustable illumination time from 10 seconds to 5 minutes. It also lets you set the light level at which the sensor becomes active. A built-in motion sensor identifies moving objects and switches the bulb.\n\nSix adapters means you can automate a whole run of closets, a basement and a garage without buying separately. The 10 second to 5 minute timer is generous, which suits places where you linger such as a laundry room. The tradeoff is that this is a basic product with fewer extras than the radar models.\n\nAll six are installed the same way, so once you learn one, you have learned them all. Compared with the single eLEDing radar adapter, the Hortsun gives you quantity rather than features. Choose it when the job is coverage across many lamps, and you value a timer range you can tune.",
+   "bestFor": "Automating many lamps around the house with a tunable timer.",
+   "pros": ["Six adapters cover closets, basement and garage together", "Timer runs from 10 seconds up to 5 minutes", "Light-level setting keeps it quiet in daylight", "Screw-in install uses the lamps you already have"],
+   "cons": ["Basic feature set with no moonlight standby mode", "Six units means more adapters to keep track of"]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "PIR or radar sensing",
+   "explanation": "The sensor type changes how the adapter behaves in daily use. A PIR sensor reads body heat and generally stays quiet, while radar senses motion and can pass through thin non-metal surfaces. The Taigeguang and Hortsun use motion sensing of the heat type, whereas the eSenlite uses a 5.8GHz radar and the eLEDing is also radar based. If you want fewer false triggers, choose PIR, and if you want to sense behind a shade or glass, choose radar."
+  },
+  {
+   "criterion": "Time delay range",
+   "explanation": "The delay decides how long the light stays on after the last movement. A short delay saves energy, and a long one avoids the light dropping out while you are still working. The Hortsun lists a range from 10 seconds to 5 minutes. For a closet, 30 to 60 seconds is plenty, and for a laundry room or workshop go longer so you are not left waving your arms."
+  },
+  {
+   "criterion": "Adjustable sensor head",
+   "explanation": "A fixed head points wherever the socket points, which may be at a wall. A swivel head lets you aim the sensor independently of the bulb. The Generic adapter rotates 160 degrees side to side and tilts 160 degrees front to back. If your socket is in a ceiling fixture or a corner, an adjustable head is the feature that prevents missed triggers."
+  },
+  {
+   "criterion": "Bulb type and heat",
+   "explanation": "Check that your bulb type works with the adapter, and keep an eye on heat inside enclosed fixtures. The eLEDing lists LED, CFL and incandescent bulbs, and the eSenlite lists LED among its options. Incandescent bulbs run hot, so prefer LED when the adapter sits in a closed globe. The adapter adds length to the socket, so confirm that the whole stack still fits under the shade."
+  },
+  {
+   "criterion": "Standby glow and light sensing",
+   "explanation": "A standby glow keeps the room from being fully dark between triggers. The eSenlite Moonlight mode holds about 1W and 80 lumens, and the eLEDing offers a similar SMART-MOONLIGHT profile. Both also use light sensing so they stay off in daylight. If you want a lamp that never goes fully dark, choose these, and if you prefer total darkness, choose a simple PIR socket."
+  },
+  {
+   "criterion": "Indoor or outdoor rating",
+   "explanation": "Many socket adapters are designed for indoor use only, and an exposed porch needs a covered fixture. Some Taigeguang versions are marked for indoor use, while the eLEDing mentions indoor and other settings. Read the listing for your exact variant before putting an adapter in a garage or porch. When in doubt, keep it inside a covered fixture away from direct rain."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Sensor approach",
+   "description": "We compared how each adapter detects people. The Taigeguang and Hortsun use motion sensing of the common heat type, while the eSenlite uses a 5.8GHz radar and the eLEDing uses radar too. The radar models scored higher on sensitivity and lower on predictability."
+  },
+  {
+   "title": "Adjustability",
+   "description": "Controls were rated by how much you can tune. The Generic adapter has three adjustments and a head that moves 160 degrees in two directions. The Hortsun adds a timer from 10 seconds to 5 minutes, and the Taigeguang offers two simple controls."
+  },
+  {
+   "title": "Bulb and fixture compatibility",
+   "description": "We looked at which bulbs and sockets each adapter claims to support. The eLEDing leads by naming LED, CFL and incandescent, and all five use E26 or E27 bases. Adapters that make the stack too long for a shade lost points."
+  },
+  {
+   "title": "Standby behavior",
+   "description": "Some people want total darkness, and others want a faint glow. The eSenlite holds about 1W and 80 lumens in Moonlight mode, and the eLEDing offers a similar profile. The Taigeguang, Generic and Hortsun are simpler on and off."
+  },
+  {
+   "title": "Value in the box",
+   "description": "Pack size mattered for households with many lamps. The Hortsun delivers six adapters, while the others are single units. We counted the Taigeguang versions as one product, since they share the same sensing."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lamp Location",
+   "intro": "Where the socket sits is the best clue to which adapter fits.",
+   "table": {
+    "headers": ["Situation", "Pick", "Reason"],
+    "rows": [
+     ["Hallway that should never be fully dark", "eSenlite Smart Radar Motion Sensor Light Socket", "Moonlight mode holds about 1W and 80 lumens"],
+     ["Closet or basement stairs", "Taigeguang PIR Motion Sensor Light Socket E26/E27", "Two simple adjustments"],
+     ["Ceiling or corner socket", "Generic E26/E27 Motion Light Socket, Adjustable Head", "Head swivels 160 degrees in two directions"],
+     ["Mixed bulb types", "eLEDing Radar Motion Sensor Retrofit Socket", "Names LED, CFL and incandescent bulbs"],
+     ["Many lamps around the house", "Hortsun 6-Pack Motion Sensor Light Socket E26/E27", "Six adapters in one pack"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers are relative, and the multi-pack changes the per-lamp cost.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Hortsun 6-Pack Motion Sensor Light Socket E26/E27", "Six basic adapters with a 5 minute timer"],
+     ["Entry", "Taigeguang PIR Motion Sensor Light Socket E26/E27", "A single PIR adapter with two controls"],
+     ["Mid", "Generic E26/E27 Motion Light Socket, Adjustable Head", "Three adjustments and a swivel head"],
+     ["Premium", "eLEDing Radar Motion Sensor Retrofit Socket", "Radar and multiple bulb types"],
+     ["Premium", "eSenlite Smart Radar Motion Sensor Light Socket", "5.8GHz radar and Moonlight mode"]
+    ]
+   }
+  },
+  {
+   "subheading": "PIR vs Radar Sensing",
+   "intro": "The sensor technology shapes how predictable the light feels.",
+   "cards": [
+    {"label": "PIR heat sensing", "text": "A PIR sensor reads the infrared heat of a body, so it triggers when a person crosses its view. The Taigeguang and Hortsun fall on this side, and the Generic adapter lets you aim the sensor. Choose this if you want predictable behavior and few surprises."},
+    {"label": "Radar sensing", "text": "A radar sensor sends out high-frequency waves and notices movement, even through thin glass or wood. The eSenlite uses 5.8GHz radar, and the eLEDing is also radar based. Choose this if you want a very responsive light and can aim it away from unwanted movement."}
+   ]
+  },
+  {
+   "subheading": "By Timer and Standby Needs",
+   "intro": "How long the light stays on and what it does between triggers affects daily comfort.",
+   "table": {
+    "headers": ["Need", "Pick", "Reason"],
+    "rows": [
+     ["Long timer for a laundry room", "Hortsun 6-Pack Motion Sensor Light Socket E26/E27", "Timer up to 5 minutes"],
+     ["Faint glow between triggers", "eSenlite Smart Radar Motion Sensor Light Socket", "About 1W and 80 lumens in Moonlight"],
+     ["Dusk-to-dawn only", "eLEDing Radar Motion Sensor Retrofit Socket", "Photocell dusk-to-dawn operation"],
+     ["Fine-tune three settings", "Generic E26/E27 Motion Light Socket, Adjustable Head", "Three adjustments including a time button"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Closets Specifically",
+   "intro": "A closet is small, dark and often has a bare bulb, so it is the classic place for these adapters.",
+   "cards": [
+    {"label": "Look for", "text": "A short to medium timer, a sensor that sees the doorway and a bulb that stays cool. Check that the stacked adapter and bulb still clear the shelf above. PIR sensing is usually calm enough for a small closet."},
+    {"label": "In this comparison", "text": "The Taigeguang PIR socket is the simplest fit, and the Hortsun six-pack covers a row of closets. The Generic adjustable-head socket helps if the fixture is in an odd corner. Radar models such as the eSenlite may notice movement in the hall."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Pay for features only where they fix a real problem.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want a faint glow, so the eSenlite with 80 lumens of Moonlight earns its place", "You are happy with total darkness, so the Taigeguang is enough"],
+     ["Your lamps use mixed bulbs, so the eLEDing helps", "You use LED only, so the Hortsun works"],
+     ["Your socket points the wrong way, so the Generic swivel head solves it", "Your socket faces the room, so a fixed head works"],
+     ["You need long delays, so the Hortsun up to 5 minutes helps", "You only need short bursts, so any default timer is fine"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do motion sensor light sockets work?",
+   "a": "You screw the adapter into your existing E26 or E27 socket, then screw a bulb into the other end. The sensor in the adapter switches the bulb on when it detects movement. Most allow you to set how long the light stays on, and some, like the Hortsun, run from 10 seconds to 5 minutes. No wiring is needed."
+  },
+  {
+   "q": "Which sensor is better, PIR or radar?",
+   "a": "It depends on the space. PIR models such as the Taigeguang react to body heat and rarely misfire. Radar models such as the eSenlite are more sensitive and can sense through thin glass or wood, which is a plus or a minus depending on your layout. Pick PIR for predictability and radar for reach."
+  },
+  {
+   "q": "Will it work with any bulb?",
+   "a": "Not always, so check the listing. The eLEDing names LED, CFL and incandescent bulbs, and the eSenlite lists LED among its options. Avoid very hot bulbs in closed fixtures. Remember that the adapter adds height to the socket."
+  },
+  {
+   "q": "Can I use one outdoors?",
+   "a": "Only if the listing says so and the fixture is covered. Some Taigeguang versions are marked indoor use only. A porch needs a sealed, covered fixture, and an exposed socket is not suitable. When in doubt, keep the adapter indoors."
+  },
+  {
+   "q": "Why does my light turn on when no one is there?",
+   "a": "Radar sensors can detect movement through thin walls or glass, which may include a hallway or a window. Reposition the sensor or choose a PIR model. An adjustable head like the Generic adapter helps aim the sensor away from busy areas. Also check for pets and heat vents."
+  },
+  {
+   "q": "Do these adapters save energy?",
+   "a": "They can, because the light only runs when someone is present. The eSenlite Moonlight mode uses about 1W while idle, which is small but not zero. Plain PIR sockets draw very little when waiting. The saving comes mostly from not leaving a bulb on."
+  }
+ ]
+}

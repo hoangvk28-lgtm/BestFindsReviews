@@ -1,0 +1,311 @@
+{
+ "guideTitle": "5 Best Bluetooth Item Trackers in 2026",
+ "metaTitle": "Best Bluetooth Item Trackers (2026)",
+ "metaDescription": "We compared five Bluetooth item trackers for keys, bags and luggage on phone compatibility, battery type, water resistance and pack options for easy use.",
+ "introParagraphs": [
+  "A Bluetooth item tracker is a small tag that rings from your phone when it is nearby and reports its last known location when it is not. For anyone who spends ten minutes a week hunting for keys, a wallet or a TV remote, that is a simple fix, and it is also a comfortable gift for a parent who travels. The confusing part is that trackers do not all work with every phone.",
+  "We evaluated five current options based on product specs and buyer feedback, focusing on which phone each one supports, battery type, water resistance, ring volume and how the packs are sold. Three of the five are tied to Apple's Find My network and work with iPhone only, one works with both Android and iPhone through the Tile app, and one pairs with either Apple or Google's network, but not both at once.",
+  "Start with your phone type, because that single fact removes most of the list, then use the buying criteria and decision tables to choose a pack size and style."
+ ],
+ "products": [
+  {
+   "i": 1,
+   "badge": "Best Overall for Any Phone",
+   "name": "Life360 Tile Bluetooth Tracker, iOS and Android",
+   "specs": ["Works with iOS and Android", "Ring from the app", "Finds your phone", "SOS alert", "Sold in 1, 2 and 4 packs"],
+   "specList": [
+    {"label": "Compatibility", "value": "iOS and Android"},
+    {"label": "Find phone", "value": "Rings even when silenced"},
+    {"label": "Safety", "value": "Discreet SOS alert"},
+    {"label": "App", "value": "Free Tile app, Life360 link"},
+    {"label": "Packs", "value": "1, 2 and 4 packs"}
+   ],
+   "description": "The Tile is the only pick here that works on both iPhone and Android with the same app, which makes it the safest choice when a household mixes phones. You can ring a misplaced tag from the free app or track it down on a map, and the tag works in reverse too: press it to make your phone ring, even when the phone is silenced. It can be attached to keys, bags or a water bottle.\n\nIt also carries a discreet SOS alert that notifies loved ones, and it plugs into the Life360 family safety app so tags show on the same map as family members. That extra layer is useful for families, but the listing does not describe battery type, water resistance or loudness figures, so we do not claim any. The tradeoff against the Find My tags is that you rely on the Tile network rather than Apple's.\n\nOwnership is easy: attach it, pair it in the app and use it. It is sold as a single, a 2-pack and a 4-pack in black, white or other colors, so you can cover keys, a wallet and a bag in one purchase. Compared with the ATUVOS 4-pack, which is limited to iPhone, the Tile suits mixed households, and next to the Tile Essentials set it is the plain single-style tag.",
+   "bestFor": "Households with a mix of iPhone and Android users who want one simple app.",
+   "pros": [
+    "Works with both iOS and Android through the same free Tile app",
+    "Press the tag to ring your phone, even when the phone is silenced",
+    "Discreet SOS alert can notify your loved ones if you feel unsafe",
+    "Sold in 1, 2 and 4 packs so you can cover keys, wallet and bag"
+   ],
+   "cons": [
+    "Relies on the Tile network, not the larger Apple Find My network",
+    "Listing gives no battery type, so replacement plans are unclear",
+    "The SOS and Life360 extras only help if family members use the app"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best for Android and iPhone Choice",
+   "name": "coioc Air Tracker Tags 4 Pack, Find Hub and Find My",
+   "specs": ["Android Find Hub or iOS Find My", "Replaceable battery", "IP67 waterproof", "Built-in speaker", "4-pack"],
+   "specList": [
+    {"label": "Networks", "value": "Google Find Hub or Apple Find My"},
+    {"label": "Battery", "value": "Replaceable"},
+    {"label": "Water resistance", "value": "IP67"},
+    {"label": "Range to ring", "value": "Up to 120 feet"},
+    {"label": "Pack", "value": "4 tags"}
+   ],
+   "description": "The coioc 4-pack is the one that gives Android users a modern, network-based tracker at all. It is described as certified by Apple and Google, so a tag can use Google's Find Hub app on Android or Apple's Find My on iPhone. Within Bluetooth range of up to 120 feet you can ring the built-in speaker, and the listing says you can share a tag with family members.\n\nThere are important limits. A single tag cannot pair with both an Android and an iOS device at the same time, so it is not the answer for a mixed household unless you assign tags per person. The battery is replaceable, which keeps a tag going for years, and the IP67 rating covers splashes and brief immersion. The listing does not give a ring loudness figure.\n\nIn practice you pick a network at setup and stay with it, and the 4-pack covers keys, a bag, luggage and a backpack. Compared with the Tile, it uses the big phone-maker networks but gives up the single cross-platform app, and next to the ATUVOS 4-pack it adds Android support and a replaceable battery.",
+   "bestFor": "Android users, or anyone who wants a replaceable battery and IP67 protection in a 4-pack.",
+   "pros": [
+    "Pairs with Google Find Hub on Android or Apple Find My on iPhone",
+    "Replaceable battery means the tag can run for years, not be tossed",
+    "IP67 rating handles splashes and brief immersion in everyday use",
+    "Ring the built-in speaker within about 120 feet of Bluetooth range"
+   ],
+   "cons": [
+    "A single tag cannot pair with an Android and an iOS device together",
+    "Listing gives no ring volume figure, so loudness is hard to judge",
+    "Setup is a little more involved than a single-app Tile tag setup"
+   ]
+  },
+  {
+   "i": 0,
+   "badge": "Best Loud iPhone 4-Pack",
+   "name": "ATUVOS Air Tracker Tags 4 Pack, Apple Find My",
+   "specs": ["Apple Find My, iOS only", "80 to 100 dB ring", "No monthly fees", "Within 200 feet to play sound", "4-pack"],
+   "specList": [
+    {"label": "Compatibility", "value": "Apple Find My, iOS only"},
+    {"label": "Ring volume", "value": "80 to 100 dB"},
+    {"label": "Fees", "value": "None monthly or annual"},
+    {"label": "Sound range", "value": "Within 200 feet"},
+    {"label": "Pack", "value": "4 tags"}
+   ],
+   "description": "The ATUVOS 4-pack is built for iPhone owners who want AirTag-style tracking in a multi-pack. It works with Apple's Find My app, rings through a built-in speaker at 80 to 100 decibels and can also be found by asking Siri. When a tag is further away it can be located through the Find My network of Apple devices, with no monthly or annual fees.\n\nIt is strictly iOS only, so an Android user cannot use it at all, and the listing warns about this clearly. Within about 200 feet you can play a sound from the Find My app, and pairing follows the usual Add Item flow in the app. The listing states that location data is encrypted, though you should still use your phone's unwanted-tracking alerts as a safeguard.\n\nSetup takes a minute and the four tags cover keys, luggage, a bag and a backpack. Compared with the Fortunepro 4-pack it makes a more specific loudness claim, and against the coioc it lacks Android support but is aimed squarely at the large Apple network. The Tile is the better choice if anyone in the family uses Android.",
+   "bestFor": "iPhone owners who want a loud, fee-free 4-pack on Apple's Find My network.",
+   "pros": [
+    "Works with Apple Find My and can be asked for by name through Siri",
+    "States an 80 to 100 dB ring that helps in a noisy house or bag",
+    "No monthly or annual fees to find items through the Find My network",
+    "Four tags cover keys, luggage, a bag and a backpack in one pack"
+   ],
+   "cons": [
+    "iOS only, so it will not work at all with any Android phone or tablet",
+    "Listing does not state battery type or a water resistance rating",
+    "Sound can only be played from the app when within about 200 feet"
+   ]
+  },
+  {
+   "i": 6,
+   "badge": "Best Keychain Style iPhone Pack",
+   "name": "Fortunepro Tracker Tag 4 Pack, Apple Find My",
+   "specs": ["Apple Find My, iOS only", "Key rings included", "Separation alarm", "4-pack", "Bluetooth Low Energy"],
+   "specList": [
+    {"label": "Compatibility", "value": "Apple Find My, iOS only"},
+    {"label": "Pack", "value": "4 tags"},
+    {"label": "Included", "value": "Key rings"},
+    {"label": "Alert", "value": "Alarm when out of preset range"},
+    {"label": "Technology", "value": "Bluetooth Low Energy"}
+   ],
+   "description": "The Fortunepro 4-pack is a keychain-oriented tag that links to an iPhone's Find My app. Key rings are included in the package, so a tag can go straight onto keys, a bag zipper or a pet collar. The listing also describes an alarm that sounds on the phone when a tag leaves a preset safe range, which is a helpful nudge before you walk out the door.\n\nThe tradeoff is clarity. The listing is heavy on general marketing, and it gives no ring volume, battery type or water rating, so we do not claim any. It is iOS only, like the ATUVOS pack, and does not support Android. If you want to know exactly what you are buying, the specifics here are thinner than on the coioc or ATUVOS listings.\n\nSetup uses the Find My app and the key rings make attaching easy. Compared with the ATUVOS at 80 to 100 dB it offers fewer stated specs, and against the coioc it is iPhone only. It suits someone who wants a simple 4-pack of keychain tags and is happy with the Apple ecosystem.",
+   "bestFor": "iPhone owners who want a simple keychain-style 4-pack with included key rings.",
+   "pros": [
+    "Key rings are included, so tags go on keys and bags right away",
+    "A phone alarm sounds when a tag leaves a preset safe range from you",
+    "Links to the Find My app already built into a current iPhone",
+    "Four tags cover keys, a bag, a backpack and a wallet in one pack"
+   ],
+   "cons": [
+    "iOS only, so it will not pair with any Android phone or tablet",
+    "No ring volume, battery type or water rating is given in the listing",
+    "Heavy on marketing wording and light on hard specs to compare"
+   ]
+  },
+  {
+   "i": 2,
+   "badge": "Best Variety Set",
+   "name": "Life360 Tile Essentials Variety Tracker Set",
+   "specs": ["Works with iOS and Android", "Mixed Tile styles", "Multi-pack options", "Finds your phone", "SOS alert"],
+   "specList": [
+    {"label": "Compatibility", "value": "iOS and Android"},
+    {"label": "Contents", "value": "Selection of Tile styles"},
+    {"label": "Use", "value": "Keys, wallets, remotes"},
+    {"label": "Find phone", "value": "Rings even when silenced"},
+    {"label": "Safety", "value": "Discreet SOS alert"}
+   ],
+   "description": "The Tile Essentials is a mixed set of Tile trackers meant for different jobs: keys, wallets, remotes and more. Like the single Tile it works on both iPhone and Android, rings from the free app, can ring your phone even when silenced, and offers a discreet SOS alert. It is sold in multi-packs, and the listing positions it as a way to track more for less or to give as a gift.\n\nThe benefit is variety. Instead of buying four identical keychain tags, you get a selection designed for different uses, and it ties into the Life360 family safety app like the other Tiles. The tradeoff is that the listing does not specify exactly which styles are in the box, how big each is, or the battery type, so we do not state those details here.\n\nSetup is the same simple app pairing as the single Tile, and the set works well as a gift for a relative who travels. Compared with the plain Tile it trades a single known style for a bundle, and next to the coioc 4-pack it gives up the Find Hub option in favor of one simple Tile app.",
+   "bestFor": "Gift buyers and families who want a mixed set for keys, wallets and remotes.",
+   "pros": [
+    "Mixed styles are meant for keys, wallets, remotes and other items",
+    "Works with iOS and Android through the one same free Tile app",
+    "Multi-pack options give coverage for several household items",
+    "Ring your phone from the tag even when the phone is silenced"
+   ],
+   "cons": [
+    "Listing does not say exactly which tag styles come in the box",
+    "No battery type or water rating is given anywhere in the listing",
+    "Relies on the Tile network, not Apple Find My or Google Find Hub"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Phone compatibility first",
+   "explanation": "Your phone decides which trackers even work. Apple Find My tags need an iPhone and do not work with Android at all. The ATUVOS and Fortunepro 4-packs are iOS only, the coioc pairs with Google Find Hub or Apple Find My, and the two Tile options work on both phones. If anyone in the household uses Android, start with the Tile or the coioc and cross the other two off the list."
+  },
+  {
+   "criterion": "Which finding network",
+   "explanation": "A tracker only finds a far-away item if other phones can relay its signal. Find My uses Apple devices, Find Hub uses Android devices, and Tile uses its own network linked to Life360. The ATUVOS says items can be found through hundreds of millions of Apple devices with no monthly or annual fees. In a busy city any network works, but in a rural area a larger network gives better odds."
+  },
+  {
+   "criterion": "Battery type and life",
+   "explanation": "A replaceable coin cell lets a tag run for years, while a sealed battery means replacing the whole tag. The coioc lists a replaceable battery, and the ATUVOS says it will alert you to replace its battery when low. The Tile, Tile Essentials and Fortunepro listings give no battery details, so check the product page before buying. For a tag on keys you use daily, a replaceable battery avoids a surprise dead tag."
+  },
+  {
+   "criterion": "Ring volume and water rating",
+   "explanation": "A tag you cannot hear is not much use, and a keychain tag will get wet. The ATUVOS states an 80 to 100 dB ring, which is loud enough to find a bag under a pile of coats, and the coioc carries an IP67 rating for splashes and brief immersion. The Fortunepro listing gives neither. For tags on keys or a backpack, look for a stated rating and a stated volume rather than general wording."
+  },
+  {
+   "criterion": "Range and separation alerts",
+   "explanation": "Bluetooth has limited range, so ringing works near the item and the network does the rest. The ATUVOS plays sound within about 200 feet, and the coioc rings within up to 120 feet. The Fortunepro describes an alarm when a tag leaves a preset range. Separation alerts help prevent leaving a bag behind, but they can also be annoying at home, so check that you can turn them off."
+  },
+  {
+   "criterion": "Pack size and tag style",
+   "explanation": "How many tags you need depends on what you lose. Four-packs from the ATUVOS, coioc and Fortunepro cover keys, a bag, luggage and a backpack, while the Tile is sold in 1, 2 and 4 packs and the Tile Essentials gives a mix of styles. A thin card style fits a wallet better than a keychain tag, and the listing for the plain Tile does not describe the shape. Count the items you actually lose, then buy that many tags."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Phone and network compatibility",
+   "description": "We checked which phones and networks each tracker supports, because this decides whether it works at all. The Tile and Tile Essentials work on iOS and Android, the coioc supports Google Find Hub or Apple Find My, and the ATUVOS and Fortunepro are iOS only. We weighted clear compatibility statements heavily."
+  },
+  {
+   "title": "Battery and durability",
+   "description": "We compared battery type and water resistance as stated by each listing. The coioc leads with a replaceable battery and IP67 rating, and the ATUVOS mentions a low-battery alert. Where a listing was silent, as with the Tile, Fortunepro and Tile Essentials pages, we did not assume a spec."
+  },
+  {
+   "title": "Ring volume and range",
+   "description": "We looked at how each tag is found nearby. The ATUVOS states 80 to 100 dB and a 200 foot sound range, while the coioc states a 120 foot Bluetooth range. All figures are manufacturer claims, so we treated them as relative and weighed them against buyer feedback."
+  },
+  {
+   "title": "Ease of setup and use",
+   "description": "We considered how simple pairing is and how many apps you need. The Tile uses one free app on any phone, the Find My tags pair through Apple's Add Item flow, and the coioc requires choosing one network at setup. Included key rings, as on the Fortunepro, counted as a small convenience."
+  },
+  {
+   "title": "Lineup positioning and value",
+   "description": "We placed each pick by what it offers in this group, not by price figures. The Tile leads on cross-phone support, the coioc on battery and water rating, the ATUVOS on stated loudness, the Fortunepro on included key rings and the Tile Essentials on variety. We did not rank on popularity or review counts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Your Phone",
+   "intro": "Your phone type narrows the field faster than any other factor.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["Everyone has an iPhone", "ATUVOS Air Tracker Tags 4 Pack, Apple Find My", "Uses Find My with an 80 to 100 dB ring and four tags."],
+     ["Android phone", "coioc Air Tracker Tags 4 Pack, Find Hub and Find My", "Works with Google Find Hub and has a replaceable battery."],
+     ["Mixed iPhone and Android family", "Life360 Tile Bluetooth Tracker, iOS and Android", "One Tile app works on both kinds of phone."],
+     ["Gift for a relative who travels", "Life360 Tile Essentials Variety Tracker Set", "A mixed set covers keys, wallets and remotes."],
+     ["Keychain tags with rings included", "Fortunepro Tracker Tag 4 Pack, Apple Find My", "Key rings come in the box for an iPhone owner."]
+    ]
+   },
+   "note": "Check which phone each family member uses before you buy a pack."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Spend based on how many tags you need and which extras matter.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Fortunepro Tracker Tag 4 Pack, Apple Find My", "Four iPhone tags with key rings included."],
+     ["Entry to mid", "ATUVOS Air Tracker Tags 4 Pack, Apple Find My", "Four iPhone tags with a stated 80 to 100 dB ring."],
+     ["Mid", "Life360 Tile Bluetooth Tracker, iOS and Android", "A cross-platform tag sold in 1, 2 and 4 packs."],
+     ["Mid to premium", "coioc Air Tracker Tags 4 Pack, Find Hub and Find My", "Four IP67 tags with a replaceable battery."],
+     ["Premium", "Life360 Tile Essentials Variety Tracker Set", "A mixed set of Tile styles for different items."]
+    ]
+   },
+   "note": "Tiers here are relative, since pack sizes and listings vary."
+  },
+  {
+   "subheading": "Find My vs Tile Network",
+   "intro": "The network that relays your tag's location matters when it is far from you.",
+   "cards": [
+    {
+     "label": "Apple Find My or Google Find Hub",
+     "text": "These networks use the phones of a huge number of strangers to relay your tag's location, with no monthly fees on the ATUVOS. The ATUVOS and Fortunepro use Find My on iPhone, while the coioc uses Find Hub on Android. Choose this route if everyone in the household uses the same phone type."
+    },
+    {
+     "label": "Tile network",
+     "text": "Tile works across iPhone and Android through its own app and ties into Life360 for family maps. The Life360 Tile and Tile Essentials both use it. Choose it when phone types are mixed, and accept that the network is a different size than Apple's."
+    }
+   ],
+   "note": "Pick the network that matches the phones your family already carries."
+  },
+  {
+   "subheading": "By What You Track",
+   "intro": "The item decides how loud, tough and big the tag needs to be.",
+   "table": {
+    "headers": ["Item", "Pick", "Why"],
+    "rows": [
+     ["House keys", "Fortunepro Tracker Tag 4 Pack, Apple Find My", "Key rings are included and an alarm warns on leaving."],
+     ["Backpack or gym bag", "coioc Air Tracker Tags 4 Pack, Find Hub and Find My", "IP67 handles splashes and the battery is replaceable."],
+     ["Luggage", "ATUVOS Air Tracker Tags 4 Pack, Apple Find My", "The 80 to 100 dB ring helps in a pile of bags."],
+     ["Wallet and remotes", "Life360 Tile Essentials Variety Tracker Set", "A mixed set suits different item shapes."],
+     ["Just one thing, any phone", "Life360 Tile Bluetooth Tracker, iOS and Android", "A single tag is sold on its own."]
+    ]
+   },
+   "note": "A tag on a wallet should be slim, so check the listing for dimensions first."
+  },
+  {
+   "subheading": "For Keys and Luggage Specifically",
+   "intro": "Keys and bags are the two things most people lose.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A ring loud enough to hear through a bag, a tag that survives rain, a key ring or hole to attach it, and a replaceable battery for daily-use keys. For luggage, a longer network reach matters more than a short Bluetooth range."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ATUVOS states 80 to 100 dB, the coioc offers IP67 and a replaceable battery, the Fortunepro includes key rings, and the Tile works on any phone. Pick the one that matches your phone first, then the feature that matters most."
+    }
+   ],
+   "note": "Put one tag on the item you lose most often rather than spreading all four at once."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Upgrade only when a feature solves a real annoyance.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["Your household mixes phones, choose the Life360 Tile for one app on both.", "Everyone has an iPhone, where the ATUVOS 4-pack is enough."],
+     ["You want a replaceable battery and IP67, choose the coioc 4-pack.", "You use tags indoors only, where the Fortunepro 4-pack will do."],
+     ["You want a mix of styles, choose the Tile Essentials set.", "You only lose your keys, where a single Tile or a Fortunepro tag is enough."],
+     ["You want a stated loud ring, choose the ATUVOS at 80 to 100 dB.", "You live in a small flat, where any ring is easy to hear."]
+    ]
+   },
+   "note": "A tag you remember to attach beats an expensive one left in a drawer."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which Bluetooth tracker is best for most people?",
+   "a": "It depends on your phone first. The Tile works on both iPhone and Android with one free app, so it is the safest choice for a mixed household. iPhone-only homes can use the ATUVOS 4-pack with its 80 to 100 dB ring, and Android owners should look at the coioc with Find Hub support."
+  },
+  {
+   "q": "Will an iPhone tracker work with Android?",
+   "a": "No. The ATUVOS and Fortunepro packs are built on Apple's Find My network and only work with iOS. The listings for both say so. Android users should choose the coioc, which supports Google Find Hub, or a Tile, which works on both phone types."
+  },
+  {
+   "q": "Do these trackers need a monthly fee?",
+   "a": "The ATUVOS listing says there are no monthly or annual fees to use the Find My network. The other listings do not describe a subscription in the text we reviewed. Check the product page and the app for any optional premium features before you buy."
+  },
+  {
+   "q": "Is a tracker the same as GPS?",
+   "a": "No, this is a common misconception. These tags use Bluetooth to ring nearby and rely on other phones passing by to report a far-away location. If nobody with a compatible phone walks past, the location may be old. They are great for keys and bags, but not live tracking."
+  },
+  {
+   "q": "Can the tags be used to track me?",
+   "a": "Phones are designed to warn you about unknown tags traveling with you, as a privacy safeguard. The ATUVOS listing says location data is encrypted and private to you. If you get an unknown-tracker alert, follow your phone's prompts. Never place a tag on another person or their property without consent."
+  },
+  {
+   "q": "How long does the battery last?",
+   "a": "The listings we reviewed do not give battery life figures. The coioc lists a replaceable battery and the ATUVOS says it will alert you when the battery is low. Plan to check the tag occasionally, especially on keys you rely on every day, and keep a spare battery if yours is replaceable."
+  },
+  {
+   "q": "How many tags do I need?",
+   "a": "Count the things you actually lose. A 4-pack from the ATUVOS, coioc or Fortunepro covers keys, a bag, luggage and a backpack. If you only lose keys, a single Tile is enough. For a wallet, TV remote and keys together, the Tile Essentials set is built for that mix."
+  }
+ ]
+}

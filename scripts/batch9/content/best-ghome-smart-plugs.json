@@ -1,0 +1,198 @@
+{
+ "guideTitle": "5 Best GHome Smart Plugs in 2026",
+ "metaTitle": "5 Best GHome Smart Plugs in 2026",
+ "metaDescription": "Five GHome smart plugs compared, covering the standard plug, the mini, a dual-band 15A model, a dual-outlet design and a Matter version for mixed homes.",
+ "introParagraphs": [
+  "GHome keeps its smart plug range tidy, with a handful of distinct designs sold in single and multi-pack listings. They share a few traits worth knowing up front, namely Bluetooth-assisted setup, an app with schedules and timers, and voice control through Alexa and Google Assistant. The differences are in connection band, power rating, outlet count and platform support.",
+  "Our five picks are the standard GHome Smart Plug, the Mini, the 5G 15A dual-band model, the Dual Smart Plug with two outlets, and the 15A Matter plug. Listings that only change pack size, such as the four pack of the dual plug, were treated as the same product. We evaluated them from product specs and buyer feedback, looking at setup, compatibility and the kind of device each suits.",
+  "People shopping for this brand are often replacing an older plug that kept dropping off Wi-Fi, so connection behavior gets extra attention here. Expect a practical guide instead of a hype sheet."
+ ],
+ "products": [
+  {
+   "i": 7,
+   "badge": "Best Overall",
+   "name": "GHome 15A Matter Smart Plug",
+   "specs": ["Matter with Bluetooth setup", "15A rating", "2.4GHz Wi-Fi", "Works with Apple Home and Siri"],
+   "specList": [
+    {"label": "Current rating", "value": "15A"},
+    {"label": "Standard", "value": "Matter"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Platforms", "value": "Alexa, Apple Home, Google Home, SmartThings"},
+    {"label": "Extra apps", "value": "GHome, Smart Life, Tuya"}
+   ],
+   "description": "The GHome 15A Matter Smart Plug is the most flexible plug in the brand's lineup. It supports Bluetooth and 2.4GHz Wi-Fi, and the Matter layer lets it work with Alexa, Apple Home, Google Home and SmartThings. The listing also says it can be controlled from the GHome, Smart Life and Tuya apps, with a Matter code that can be shared across ecosystems.\n\nVoice control covers Alexa, Siri, Google Assistant and SmartThings, which is the widest reach of any GHome product here. Matter is also the best answer for a household that has bought into one assistant but might switch, because the plug does not need replacing. The tradeoff is that using several apps at once can feel cluttered, and Matter setup asks for a little more patience than a basic plug. The listing does not mention energy monitoring.\n\nIn daily use it behaves like any plug, with schedules and remote control through whichever app was used to set it up. Compared with the GHome 5G 15A Wi-Fi Smart Plug, it trades 5GHz support for platform reach, since this model is described as 2.4GHz. It is also the best match for homes that mix Apple devices with Alexa speakers. People who only own one Echo and want the quickest start can do well with a cheaper standard model.",
+   "bestFor": "Mixed Apple, Alexa and Google homes that want one plug to work with all of them.",
+   "pros": ["Works with Alexa, Apple Home, Google Home and SmartThings", "Matter code can be shared across ecosystems", "Bluetooth and 2.4GHz Wi-Fi help with setup", "15A rating suits lamps, fans and small appliances"],
+   "cons": ["Several app options can feel cluttered at first", "Specs do not mention energy monitoring", "Limited to the 2.4GHz Wi-Fi band"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Dual-Band 15A",
+   "name": "GHome 5G 15A Wi-Fi Smart Plug",
+   "specs": ["Dual-band 2.4GHz and 5GHz", "120V 15A (1800W)", "ETL and FCC certified", "Bluetooth setup"],
+   "specList": [
+    {"label": "Rating", "value": "120V / 15A (1800W)"},
+    {"label": "Wi-Fi bands", "value": "2.4GHz and 5GHz"},
+    {"label": "Certification", "value": "ETL and FCC"},
+    {"label": "Voice", "value": "Alexa, Google Home"},
+    {"label": "Setup", "value": "Bluetooth"}
+   ],
+   "description": "The GHome 5G 15A Wi-Fi Smart Plug is the one to pick when a router's 5GHz band is already the main network. It is rated 120V and 15A, which works out to 1800W, and it carries ETL and FCC certification. The listing says Bluetooth setup is easy and that dual-band Wi-Fi stays reliable.\n\nThe maker suggests the 5GHz band for peak performance when the plug sits near the router and the 2.4GHz band for longer distance. That gives a clear way to match the band to the room. The 15A rating means it is meant for heavier things such as coffee makers, though anyone plugging in a heat-producing appliance should still read the label on the device. Voice control works with Alexa and Google Home.\n\nBecause the plug supports both bands, it avoids the classic problem where a phone on 5GHz fails to pair. Compared with the GHome Smart Plug Mini, which is 2.4GHz only, this one is easier for people who do not want to touch router settings. It does not list Matter, so the GHome 15A Matter Smart Plug is better for Apple Home. Choose this plug when the router is close and the load is the heaviest in the lineup.",
+   "bestFor": "Homes where the router uses a combined or 5GHz-focused network and loads are heavier.",
+   "pros": ["Supports 5GHz as well as 2.4GHz Wi-Fi", "Rated 120V and 15A, or 1800W", "ETL and FCC certification are listed", "Bluetooth setup avoids router tweaking"],
+   "cons": ["No Matter support listed, so platform reach is narrower", "5GHz travels less far through walls", "Apple Home users need a different pick"]
+  },
+  {
+   "i": 6,
+   "badge": "Best for Two Devices",
+   "name": "GHome Dual Smart Plug 15A",
+   "specs": ["Two independent outlets", "15A / 1800W rating", "2.4GHz Wi-Fi plus Bluetooth", "Compact 2-in-1 body"],
+   "specList": [
+    {"label": "Outlets", "value": "2, independently controlled"},
+    {"label": "Rating", "value": "15A / 1800W"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Voice", "value": "Alexa, Google Home"},
+    {"label": "Pack sizes", "value": "Single and 4 pack"}
+   ],
+   "description": "The GHome Dual Smart Plug 15A packs two fully independent outlets into a compact body. Each can be switched on its own, which is the big difference from a plug that simply offers a pair of sockets under one switch. The listing rates it for 15A and 1800W and lists fast setup over Bluetooth and Wi-Fi on a 2.4GHz network.\n\nIt also works with Alexa and Google Home voice commands, so a bedside lamp and a fan can be handled by name. Using one plug for two devices reduces the cost per controlled device and saves a wall socket. The tradeoff is that both loads share the plug's overall rating, so two heavy appliances at once is a bad idea. The listing is also sold as a four pack, which is the same product.\n\nSetup follows the 2.4GHz rule, so a phone on a 5GHz network may need to switch during pairing. Compared with the GHome Smart Plug Mini, this one is bigger but replaces two plugs, and compared with the GHome 5G 15A Wi-Fi Smart Plug it is limited to a single band. It is not a Matter product, which matters if you want Apple Home. For a desk, bedside table or entertainment shelf, it is the most efficient design in the family.",
+   "bestFor": "Desks and nightstands where two small devices should switch separately.",
+   "pros": ["Two outlets switch independently from one plug", "Rated 15A and 1800W for a wide range of loads", "Bluetooth and Wi-Fi setup is quick", "Also sold in a four pack for several rooms"],
+   "cons": ["Limited to 2.4GHz Wi-Fi only", "Two heavy loads share the same overall rating", "No Matter support is listed"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Compact Pick",
+   "name": "GHome Smart Plug Mini",
+   "specs": ["Mini form factor", "2.4GHz Wi-Fi plus Bluetooth", "Schedules and auto-off timer", "Alexa and Google Home"],
+   "specList": [
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Setup", "value": "Wi-Fi with Bluetooth"},
+    {"label": "Timers", "value": "Schedules and auto-off"},
+    {"label": "Voice", "value": "Alexa, Google Home"},
+    {"label": "Control", "value": "App remote control"}
+   ],
+   "description": "The GHome Smart Plug Mini is the straightforward choice for people who just want a small plug that does the basics well. It connects to a stable 2.4GHz network, with Bluetooth helping the initial pairing. The listing highlights easy timers, schedules that repeat or vary randomly, and an auto-off function.\n\nThose scheduling features make it useful for lamps while traveling, since a random schedule can mimic someone being home. Voice control through Alexa and Google Home covers hands-free use. The listing is sold in more than one title but describes the same mini design, so we counted it once. It does not list Matter, a 5GHz band, or an energy meter.\n\nSetup is the simplest in the group because it asks for a 2.4GHz network only and does not complicate things with extra standards. Next to the GHome Smart Plug, which highlights remote monitoring and control, the Mini leans toward timers and compactness. If a second outlet on the wall must stay accessible, a mini body helps, though the Dual plug covers both sockets in a different way. The Mini fits anyone with a simple Alexa or Google setup and no appetite for extras.",
+   "bestFor": "Lamps, fans and small appliances that need reliable schedules without extra features.",
+   "pros": ["Random and repeating schedules for lamps while away", "Auto-off timer is part of the app", "Bluetooth helps pairing on a 2.4GHz network", "Works with Alexa and Google Home voice"],
+   "cons": ["2.4GHz only, with no 5GHz support", "No Matter support is listed", "Listing shows no energy monitoring feature"]
+  },
+  {
+   "i": 0,
+   "badge": "Best for Remote Monitoring",
+   "name": "GHome Smart Plug",
+   "specs": ["Bluetooth or Wi-Fi connection", "App remote control from anywhere", "Alexa and Google Assistant", "Multi-pack listings"],
+   "specList": [
+    {"label": "Connection", "value": "Bluetooth or Wi-Fi"},
+    {"label": "Remote control", "value": "Through the app"},
+    {"label": "Voice", "value": "Alexa, Google Assistant"},
+    {"label": "Setup", "value": "Quick connection"},
+    {"label": "Form", "value": "Standard single plug"}
+   ],
+   "description": "The GHome Smart Plug is the core model in the line, with a quick connection that supports Bluetooth or Wi-Fi. The listing says the improved Wi-Fi tech helps it stay stable once paired. App remote control lets owners manage outlet timers from anywhere, including when away from home.\n\nVoice commands work with Alexa and Google Assistant, so there is no hub to buy. The product is listed in several packs and titles, but they describe the same design and we treated them as one. It is a sensible default for a first smart plug, and nothing in the listing suggests extra complexity. The main limits are the missing Matter label and the absence of a stated power rating in the details we reviewed.\n\nCompared with the GHome 5G 15A Wi-Fi Smart Plug, it lacks a stated 1800W rating, so confirm the label before connecting anything demanding. Compared with the GHome Smart Plug Mini, it emphasizes remote monitoring rather than schedule variety. For a lamp, fan or phone charger setup, the plug does the job with few surprises. Buyers who think they will expand into Apple Home should step up to the Matter model.",
+   "bestFor": "First-time buyers who want basic remote control and voice for everyday lamps.",
+   "pros": ["Bluetooth or Wi-Fi connection during setup", "App control works away from home", "Alexa and Google Assistant need no hub", "Sold in multi-packs for several rooms"],
+   "cons": ["Power rating is not stated in the listing", "No Matter or Apple Home support listed", "Specs do not mention an energy meter"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Which Wi-Fi band you need", "explanation": "Nearly all Wi-Fi plugs connect to 2.4GHz only, and a phone on 5GHz can fail to pair until the router splits its bands. In this lineup the GHome 5G 15A Wi-Fi Smart Plug is the one that lists both 2.4GHz and 5GHz, while the Mini, the Dual and the Matter plug all describe 2.4GHz. The 5GHz band is faster near the router, but 2.4GHz reaches farther through walls. If your router combines both bands under one name, the dual-band model avoids a setup headache. If the plug will sit in a far bedroom, 2.4GHz is the safer bet."},
+  {"criterion": "Power rating and what you plug in", "explanation": "Most North American smart plugs are rated 15A and 1800W, and the listings for the GHome Dual Smart Plug 15A and the GHome 5G 15A Wi-Fi Smart Plug state exactly that. A rating is a ceiling, not a target, so do not run space heaters through any plug unless the label clearly covers them. Look for ETL or UL certification on the housing, which the 5G model lists as ETL and FCC. Lamps, fans and chargers use only a small slice of the limit. Check the appliance label for watts before assuming it is safe."},
+  {"criterion": "Matter and ecosystem lock-in", "explanation": "Matter lets one plug work with Alexa, Apple Home, Google Home and SmartThings, and it can keep local control if the internet drops. The GHome 15A Matter Smart Plug is the only pick here that lists Matter, which makes it the best choice for homes that mix assistants. Plugs without Matter usually go through the Smart Life or Tuya app before linking to a voice assistant. That extra step is fine for one-ecosystem homes, but it creates friction for Apple users. Energy data often does not pass through Matter, so a brand app may still be needed."},
+  {"criterion": "One outlet or two", "explanation": "A plug with two independent outlets cuts the number of devices you have to buy, plug in and name. The GHome Dual Smart Plug 15A has two outlets, each controlled on its own, inside one compact body. That helps on a nightstand or desk where a lamp and a fan live together. It also leaves other wall sockets free, which is useful in older rooms with few receptacles. A single-outlet plug like the GHome Smart Plug Mini is easier to explain and move around the house."},
+  {"criterion": "Schedules, timers and random modes", "explanation": "Scheduling is the feature most owners use every day, so check how flexible it is. The GHome Smart Plug Mini highlights repeating and random schedules plus an auto-off timer, which suits a lamp meant to look lived in while traveling. A sunset trigger is helpful for porch lights, but confirm it in the app. Remember that smart plugs only help for devices with a physical switch left in the on position. A coffee maker that needs a button press after power returns will not restart on its own."},
+  {"criterion": "Setup method and app burden", "explanation": "Bluetooth-assisted setup, listed across the GHome family, makes pairing faster than typing passwords on a plug. The GHome 15A Matter Smart Plug also mentions Smart Life and Tuya control, so decide on one app early to avoid clutter. White-label style plugs often pair through Smart Life or Tuya before linking to Alexa, and the extra step surprises first-time buyers. If an older relative will manage the plug, favor one app and a short device name like Lamp. Multi-packs lower the cost per plug, but only if you will really use several."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Connection and band support", "description": "We evaluated which Wi-Fi bands each plug lists and how setup is handled. The GHome 5G 15A Wi-Fi Smart Plug is the only one with both 2.4GHz and 5GHz in its listing. The other four lean on 2.4GHz, with Bluetooth assisting pairing on most of them. Plugs that avoid 5GHz pairing failures earned extra credit."},
+  {"title": "Power and safety ratings", "description": "This category checks stated amperage and certifications. The GHome Dual Smart Plug 15A and the 5G model both state 15A and 1800W, and the 5G listing names ETL and FCC. The Matter plug states 15A but no wattage. The standard plug and Mini do not state a rating in the text we reviewed, so they scored lower here."},
+  {"title": "Platform reach", "description": "We compared how many assistants each plug can serve. The GHome 15A Matter Smart Plug leads with Alexa, Apple Home, Google Home, SmartThings and Siri access. The other four list Alexa and Google voice only. For mixed households, that gap is the biggest single difference in the lineup."},
+  {"title": "Ease of daily use", "description": "We looked at schedules, timers and remote control. The GHome Smart Plug Mini stands out for random and repeating schedules, and the GHome Smart Plug stands out for remote control wording. The Dual plug adds convenience through independent outlets. None of the five lists a built-in energy meter."},
+  {"title": "Value for what you plug in", "description": "We weighed how much each plug does relative to how much a typical buyer needs. The Dual Smart Plug 15A replaces two plugs, which is strong value on a desk. The standard plug and Mini are the sensible picks for a single lamp. The Matter model earns its place only where platform flexibility is worth the extra setup."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Router and Wi-Fi Setup",
+   "intro": "Your router's band behavior should drive the first decision.",
+   "table": {
+    "headers": ["Situation", "Pick", "Reason"],
+    "rows": [
+     ["Router uses a combined network name", "GHome 5G 15A Wi-Fi Smart Plug", "Lists 2.4GHz and 5GHz, so pairing is easier"],
+     ["Plug sits far from the router", "GHome Smart Plug Mini", "2.4GHz reaches through walls farther than 5GHz"],
+     ["Phone keeps failing to pair", "GHome Smart Plug", "Bluetooth or Wi-Fi connection gives two routes"],
+     ["Several ecosystems share one router", "GHome 15A Matter Smart Plug", "Matter works across assistants over 2.4GHz"],
+     ["Bedside table with two devices", "GHome Dual Smart Plug 15A", "Two outlets on one 2.4GHz connection"]
+    ]
+   },
+   "note": "If pairing fails, switch the phone to 2.4GHz and try again within a few feet of the plug."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers here are relative and avoid dollar figures.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "GHome Smart Plug", "A basic remote-control plug in single and multi-pack listings"],
+     ["Entry", "GHome Smart Plug Mini", "A small body with random schedules and auto-off"],
+     ["Mid", "GHome Dual Smart Plug 15A", "Two independent outlets with a 15A and 1800W rating"],
+     ["Mid-upper", "GHome 5G 15A Wi-Fi Smart Plug", "Dual-band Wi-Fi and ETL certification"],
+     ["Premium", "GHome 15A Matter Smart Plug", "Cross-platform Matter support for mixed homes"]
+    ]
+   },
+   "note": "A multi-pack only saves money if each plug has a job."
+  },
+  {
+   "subheading": "Matter vs Standard Wi-Fi Plugs",
+   "intro": "The core mechanism difference is who the plug talks to.",
+   "cards": [
+    {"label": "Matter plug", "text": "A Matter plug joins a shared standard, so Alexa, Apple Home, Google Home and SmartThings can all see it and local control can continue during an internet outage. In this lineup that is the GHome 15A Matter Smart Plug. Pick this side if the household mixes devices or might switch assistants. Expect a slightly longer first setup and possible app clutter."},
+    {"label": "Standard Wi-Fi plug", "text": "A standard plug uses the maker's cloud and the GHome app, then links to Alexa or Google Assistant. The GHome Smart Plug, the Mini, the Dual and the 5G model fall here. Pick this side for a one-assistant home where quick setup matters most. A cloud service shutting down would end remote control, which is the main long-term risk."}
+   ],
+   "note": "Households with Apple devices should choose the Matter plug."
+  },
+  {
+   "subheading": "One Outlet vs Two Outlets",
+   "intro": "Counting devices tells you whether a dual design pays off.",
+   "table": {
+    "headers": ["Situation", "Pick", "Reason"],
+    "rows": [
+     ["Only a lamp needs automation", "GHome Smart Plug Mini", "A compact body for one device"],
+     ["Lamp and fan beside each other", "GHome Dual Smart Plug 15A", "Each outlet switches independently"],
+     ["A coffee maker with a physical switch", "GHome 5G 15A Wi-Fi Smart Plug", "Stated 15A and 1800W rating"],
+     ["Multiple rooms need basic control", "GHome Smart Plug", "Multi-pack listings serve several rooms"]
+    ]
+   },
+   "note": "Check that both loads together stay under the plug's rating."
+  },
+  {
+   "subheading": "For Lamps While Traveling Specifically",
+   "intro": "A lived-in look is a common reason to buy a plug at all.",
+   "cards": [
+    {"label": "Look for", "text": "Look for random or varied scheduling, remote control from the app, and a reliable connection that stays up when you are away. A lamp with a physical switch left on is required. Test the schedule for a few days before leaving."},
+    {"label": "In this comparison", "text": "The GHome Smart Plug Mini is the best match thanks to repeating and random schedules plus an auto-off timer. The GHome Smart Plug offers remote control from anywhere as a backup. The GHome Dual Smart Plug 15A can handle two lamps in one room."}
+   ],
+   "note": "Set one schedule per lamp so they do not all switch at the same minute."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Pay for extra capability only when you will use it.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You use Apple Home or several assistants: GHome 15A Matter Smart Plug", "You own only Echo speakers: GHome Smart Plug"],
+     ["You need a stated 1800W rating and 5GHz: GHome 5G 15A Wi-Fi Smart Plug", "You run a lamp only: GHome Smart Plug Mini"],
+     ["You want two devices on one socket: GHome Dual Smart Plug 15A", "You have free wall outlets: GHome Smart Plug"]
+    ]
+   },
+   "note": "None of these plugs list built-in energy monitoring, so look elsewhere if usage data matters."
+  }
+ ],
+ "faq": [
+  {"q": "Which GHome smart plug is best for a first-time buyer?", "a": "The GHome Smart Plug or the GHome Smart Plug Mini suits most first-time buyers. Both pair over Bluetooth or Wi-Fi and work with Alexa and Google Assistant. The Mini adds clear scheduling features, while the standard plug leans on remote control. Neither requires a hub."},
+  {"q": "Do GHome plugs work on 5GHz Wi-Fi?", "a": "Only the GHome 5G 15A Wi-Fi Smart Plug lists 5GHz support alongside 2.4GHz. The other models describe 2.4GHz, so a phone on 5GHz may fail during pairing. Switch the phone to 2.4GHz temporarily or split the router's bands. After pairing, the phone can go back to any band."},
+  {"q": "Is the dual smart plug really two independent plugs?", "a": "Yes, according to the listing, which describes two fully independent controlled outlets in one body. That lets a lamp and a fan be scheduled separately. Both outlets share the plug's 15A and 1800W rating, so avoid running two heavy appliances at once. It is sold singly and as a four pack."},
+  {"q": "Can I use the plug with a space heater or air conditioner?", "a": "Treat those as a no unless the label clearly allows it. A 15A and 1800W rating is a ceiling, and continuous heating loads strain any plug. Look for ETL or UL marks and read the appliance label first. Space heaters are safest in a wall outlet."},
+  {"q": "Why does the app ask me to use Smart Life or Tuya?", "a": "Many white-label style plugs share the same underlying cloud, so the GHome 15A Matter Smart Plug lists GHome, Smart Life and Tuya as control options. Pick one app and stay with it to avoid duplicate devices. Matter lets you add the plug to Apple Home or Google Home without a separate account. A single app also makes things easier for relatives."},
+  {"q": "Will the plug turn my device back on after a power cut?", "a": "Only if the device has a physical on switch that stays in the on position. Items that need a button press after power returns will not restart. Lamps and fans are the safest picks. A coffee maker with a rocker switch may work, but check how it behaves first."},
+  {"q": "Does Matter mean local control and energy data?", "a": "Matter can keep local control working when the internet is down, which is a benefit of the GHome 15A Matter Smart Plug. Energy data often does not pass through Matter, and none of these listings advertises a meter. If you want usage numbers, choose a plug built for monitoring. Otherwise, Matter is mostly about platform freedom."}
+ ]
+}

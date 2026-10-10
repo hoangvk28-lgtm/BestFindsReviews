@@ -1,0 +1,546 @@
+{
+ "guideTitle": "6 Best Rechargeable Bluetooth Trackers in 2026",
+ "metaTitle": "Best Rechargeable Bluetooth Trackers (2026)",
+ "metaDescription": "Six rechargeable Bluetooth trackers compared on charging port, battery life, network and water rating, for anyone who is tired of buying coin cells.",
+ "introParagraphs": [
+  "A rechargeable tracker swaps a small recurring errand, buying and fitting coin cells, for a different one: plugging the tag in about once a year. That trade is worth it for some people and a nuisance for others, so it helps to know exactly what each tag asks of you before you commit.",
+  "We evaluated six trackers based on product specs and buyer feedback, and every one of them has a built-in rechargeable battery. Two charge over USB-C, two charge wirelessly on a Qi pad, and the group splits between key tags, a four-pack and thin wallet cards. Some work only with iPhone, while others work with Apple Find My or Google Find Hub.",
+  "Check the charging method first, since a tag that needs a pad you do not own adds a hidden step, then compare battery life and network."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best Overall",
+   "name": "Pebblebee Clip 5 Bluetooth Tracker",
+   "specs": [
+    "USB-C rechargeable",
+    "Up to 12 months per charge",
+    "130 dB siren",
+    "IP66, 10 g",
+    "Find My or Find Hub"
+   ],
+   "specList": [
+    {
+     "label": "Charging",
+     "value": "USB-C"
+    },
+    {
+     "label": "Battery",
+     "value": "Up to 12 months per charge"
+    },
+    {
+     "label": "Alert",
+     "value": "130 dB siren with LED strobe"
+    },
+    {
+     "label": "Rating",
+     "value": "IP66 water resistant"
+    },
+    {
+     "label": "Weight",
+     "value": "10 g"
+    }
+   ],
+   "description": "The Pebblebee Clip 5 is the most complete rechargeable tag in this group. One USB-C charge is described as lasting up to 12 months, and the listing quotes a 130 dB siren with an ultra-bright LED strobe, so you can hear it and see it. It works with either Apple Find My on an iPhone or Google Find Hub on Android.\n\nA safety mode starts a siren, flashing lights and location sharing with a Safety Circle when you press the button rapidly. At 10 g with an IP66 water rating it is light and sturdy enough for keys or a bag. The tradeoffs are that it commits to one network at setup and that you must remember the annual charge.\n\nOwnership is easy because USB-C cables are everywhere. At 130 dB it is louder than the TECKNET at 100 dB, and its IP66 rating is a step below the TECKNET's IP67 for immersion. Compared with the UGREEN Finder Duo it is a single premium tag rather than a four-pack.",
+   "bestFor": "Anyone who wants one loud, bright key tag that charges over USB-C.",
+   "pros": [
+    "Quoted 130 dB siren plus LED strobe is easy to hear and spot",
+    "One USB-C charge is described as lasting up to 12 months daily",
+    "Works with Apple Find My or Google Find Hub, picked at setup",
+    "Light at 10 g with an IP66 water rating for keys and bags daily"
+   ],
+   "cons": [
+    "A tag joins one network, so it cannot serve both phone types",
+    "Needs a yearly charge, so a reminder is worth setting early for some",
+    "Sealed battery means the whole tag is replaced if it fails for some"
+   ]
+  },
+  {
+   "i": 6,
+   "badge": "Best Dual-Network Four-Pack",
+   "name": "UGREEN Finder Duo Air Tracker Tags 4 Pack",
+   "specs": [
+    "iPhone and Android",
+    "Find My or Find Hub",
+    "365 days per charge",
+    "USB-C charging",
+    "4-pack"
+   ],
+   "specList": [
+    {
+     "label": "Networks",
+     "value": "Apple Find My or Google Find Hub"
+    },
+    {
+     "label": "Battery",
+     "value": "365 days per charge"
+    },
+    {
+     "label": "Charging",
+     "value": "Universal USB-C port"
+    },
+    {
+     "label": "Certification",
+     "value": "Apple and Google"
+    },
+    {
+     "label": "Pack",
+     "value": "4 tags"
+    }
+   ],
+   "description": "The UGREEN Finder Duo is the rechargeable pack for households that do not all use the same phone. Each tag charges over a universal USB-C port, so no magnetic pad is needed, and the listing says a full charge gives 365 days of battery. It pairs with iPhone through Apple Find My or with Android through Google Find Hub and is described as certified by both Apple and Google.\n\nLost item alerts report the last known location when a tag leaves range, and Lost Mode lets you leave contact details for whoever finds it. Privacy is described as end-to-end encrypted. The tradeoff is four batteries to keep track of, and the listing gives no ring volume or water rating.\n\nFour tags cover keys, a bag, a backpack and a pet or luggage tag. It lists the same 365 days as the UGREEN FineTrack iOS set but adds Android support, and next to the single Pebblebee Clip 5 at 130 dB it spreads the effort across more tags with no stated loudness.",
+   "bestFor": "Mixed iPhone and Android households that want several rechargeable tags.",
+   "pros": [
+    "Charges from a universal USB-C port with no special pad needed",
+    "Listing states 365 days of battery from a single full charge",
+    "Certified for Apple Find My and Google Find Hub in one box daily",
+    "Four tags cover keys, bags, luggage and a pet in one pack daily"
+   ],
+   "cons": [
+    "Four batteries means four annual charges to remember for some",
+    "Listing gives no ring volume or water rating to compare for some",
+    "Each tag still joins only one network once it is paired for some"
+   ]
+  },
+  {
+   "i": 0,
+   "badge": "Best Waterproof Tag for iPhone",
+   "name": "TECKNET Rechargeable Air Tracker Tags",
+   "specs": [
+    "MFi certified, iOS only",
+    "USB-C rechargeable",
+    "IP67 waterproof",
+    "100 dB alarm",
+    "Motion tamper alert"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "Apple Find My, iOS only"
+    },
+    {
+     "label": "Charging",
+     "value": "Built-in USB-C"
+    },
+    {
+     "label": "Rating",
+     "value": "IP67 waterproof"
+    },
+    {
+     "label": "Alarm",
+     "value": "100 dB"
+    },
+    {
+     "label": "Extras",
+     "value": "Motion-triggered tamper alert"
+    }
+   ],
+   "description": "The TECKNET is the rechargeable pick for iPhone owners who want a stated waterproof rating. It has a built-in USB-C battery with no disposable cells, and battery level shows inside the Find My app so you know when to plug it in. The listing gives an IP67 rating that handles splashes, rain and outdoor use.\n\nA 100 dB alarm helps find items buried in bags or laundry, and a motion-triggered tamper alert adds a travel angle. It is MFi certified, location data is end-to-end encrypted, and sharing with family happens through Find My. The tradeoff is that it is iPhone only, so an Android phone cannot use it.\n\nIt asks for a USB-C cable once in a while, which is simpler than a Qi pad. Against the Pebblebee Clip 5 at 130 dB it rings softer but has a higher IP67 rating than the Pebblebee's IP66, and unlike the Chipolo CARD it is a tag for keys and luggage rather than a wallet.",
+   "bestFor": "iPhone owners who want a rechargeable tag that handles rain and luggage.",
+   "pros": [
+    "Stated IP67 rating covers splashes, rain and outdoor wear daily",
+    "Battery level appears inside the Find My app before it runs down",
+    "A 100 dB alarm helps find tags buried in a bag or a laundry pile",
+    "Motion-triggered tamper alert adds a useful layer for luggage"
+   ],
+   "cons": [
+    "iPhone only, with no support for Android phones at all for some",
+    "Listing does not state how long one charge lasts in days for some",
+    "Sealed battery means the whole tag has to be replaced at the end"
+   ]
+  },
+  {
+   "i": 1,
+   "badge": "Best Wallet Card",
+   "name": "Chipolo CARD Wallet Tracker",
+   "specs": [
+    "Wallet card shape",
+    "Qi magnetic charging",
+    "Up to 1 year per charge",
+    "Find My or Find Hub",
+    "2-year warranty"
+   ],
+   "specList": [
+    {
+     "label": "Shape",
+     "value": "Thin wallet card"
+    },
+    {
+     "label": "Battery",
+     "value": "Up to 1 year per charge"
+    },
+    {
+     "label": "Charging",
+     "value": "Qi magnetic charger, not included"
+    },
+    {
+     "label": "Networks",
+     "value": "Apple Find My or Google Find Hub"
+    },
+    {
+     "label": "Warranty",
+     "value": "2 years"
+    }
+   ],
+   "description": "The Chipolo CARD is the rechargeable pick that disappears into a wallet. It is thin enough to slide in with your cards or into a passport pouch, and it works with Apple Find My or Google Find Hub. You ring it from the app when it is hidden nearby, or open the map when it is farther away.\n\nThe battery recharges on a Qi magnetic wireless charger and lasts up to a year on one charge. The listing says the charger is not included, which is the main gotcha for anyone who does not own a Qi pad. It also gives no ring volume or water rating for the card.\n\nChipolo adds a 2-year warranty and free replacement through the seller. Its up to 1 year per charge is effectively the same as the UGREEN Finder Duo's 365 days, and unlike the Pebblebee Clip 5 at 130 dB it is meant for a wallet, not for hanging from keys. Next to the Ultrbeka Wallet Tracker Card it adds Android support through Find Hub.",
+   "bestFor": "People who lose a wallet and own or will buy a Qi charger.",
+   "pros": [
+    "Thin card body slides into a wallet or passport pouch easily",
+    "Works with Apple Find My and Google Find Hub networks",
+    "Recharges wirelessly and runs up to a year between charges daily",
+    "Two-year warranty with free replacement through the Amazon seller"
+   ],
+   "cons": [
+    "Qi magnetic charger is not included, so you must supply one for some",
+    "No keyring hole, so it does not fit a bunch of house keys for some",
+    "Listing gives no ring volume or water rating for the card for some"
+   ]
+  },
+  {
+   "i": 7,
+   "badge": "Best iPhone Four-Pack to Charge",
+   "name": "UGREEN FineTrack Air Tracker Tags 4 Pack",
+   "specs": [
+    "iOS only, Apple MFi",
+    "USB-C rechargeable",
+    "Up to 12 months per charge",
+    "Lost Mode",
+    "4-pack"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "Apple Find My, iOS only"
+    },
+    {
+     "label": "Charging",
+     "value": "USB-C"
+    },
+    {
+     "label": "Battery",
+     "value": "Up to 12 months per charge"
+    },
+    {
+     "label": "Alerts",
+     "value": "Out of range alert and Lost Mode"
+    },
+    {
+     "label": "Pack",
+     "value": "4 tags"
+    }
+   ],
+   "description": "The UGREEN FineTrack 4-pack is the iPhone-only version of the rechargeable multi-pack. Each tag charges over USB-C and the listing says a charge gives up to 12 months of continuous use, which it frames as more durable and eco-friendly than disposable cells. It pairs in one tap through the Find My Items tab.\n\nWhen a tag moves out of range, Find My sends a lost alert with the last known location, and Lost Mode lets you leave your contact information. The tags are Apple MFi certified and use end-to-end encryption. The tradeoff is that it supports iPhone and iPad only and the listing gives no ring volume or water rating.\n\nIt makes sense when everyone at home has an iPhone. Compared with the UGREEN Finder Duo, which lists 365 days and adds Android, this set trades flexibility for a simpler Apple-only setup, and next to the TECKNET it brings four tags where the TECKNET offers an IP67 rating and a 100 dB alarm.",
+   "bestFor": "All-iPhone households that want four tags to charge together.",
+   "pros": [
+    "USB-C charging gives up to 12 months of continuous use per tag",
+    "Out of range alerts show the last known location in Find My daily",
+    "Apple MFi certified with end-to-end encrypted location data daily",
+    "Four tags in one box cover keys, bags, luggage and a remote daily"
+   ],
+   "cons": [
+    "iOS only, so no Android phone in the family can use them for some",
+    "Listing gives no ring volume or water rating to compare for some",
+    "All four tags need their own yearly charge to stay active for some"
+   ]
+  },
+  {
+   "i": 2,
+   "badge": "Best Card with IP68",
+   "name": "Ultrbeka Wallet Tracker Card",
+   "specs": [
+    "MFi, Apple Find My only",
+    "Qi wireless charging",
+    "IP68 waterproof",
+    "Card-shaped",
+    "Separation alerts"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "Apple Find My, MFi"
+    },
+    {
+     "label": "Charging",
+     "value": "Qi wireless charging"
+    },
+    {
+     "label": "Rating",
+     "value": "IP68 waterproof"
+    },
+    {
+     "label": "Shape",
+     "value": "Ultra-thin card"
+    },
+    {
+     "label": "Alerts",
+     "value": "Separation alerts"
+    }
+   ],
+   "description": "The Ultrbeka Wallet Tracker Card is a rechargeable card for iPhone users who want an IP68 rating on a wallet tracker. It is described as ultra-thin and credit-card shaped, so it slips into a wallet, card holder or passport sleeve without much bulk. It is Apple MFi certified and works with the Find My app.\n\nIt powers up on a Qi wireless charger, so you simply place it on a pad rather than plug it in. Separation alerts help reduce the chance of leaving a wallet behind, and you can ring it when it is nearby. The listing does not state how long a charge lasts or give a ring volume, so we do not claim either.\n\nIt is also sold in several pack sizes, which we count as one product. Against the Chipolo CARD it has a stated IP68 rating but works only with iPhone and lists no battery duration, and next to the UGREEN FineTrack set it is a single flat card rather than keyring tags.",
+   "bestFor": "iPhone users who want a rated-waterproof, charge-on-a-pad wallet card.",
+   "pros": [
+    "Stated IP68 waterproof rating is the highest in this group daily",
+    "Ultra-thin card shape slides into wallets and passport sleeves",
+    "Qi wireless charging means a pad is all that is needed daily",
+    "Separation alerts help reduce the chance of leaving a wallet"
+   ],
+   "cons": [
+    "Works with Apple Find My only, so Android users are left out",
+    "Listing does not say how long one charge actually lasts for some",
+    "No keyring hole, so it cannot ride on a ring of house keys for some"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Charging method and hardware",
+   "explanation": "How a tag charges decides how often you actually do it. USB-C is the easiest because most homes already own a cable, while Qi magnetic or wireless charging needs a pad you may not have. The Pebblebee Clip 5, UGREEN Finder Duo, TECKNET and UGREEN FineTrack charge over USB-C. The Chipolo CARD and Ultrbeka Wallet Tracker Card use Qi, and Chipolo states its charger is not included. Check what is in the box before you buy."
+  },
+  {
+   "criterion": "Battery life between charges",
+   "explanation": "Listings in this group cluster around one year per charge, and real life depends on how often a tag rings. The Pebblebee Clip 5 lists up to 12 months, the UGREEN Finder Duo lists 365 days, and the Chipolo CARD lists up to 1 year. The TECKNET and Ultrbeka listings do not state a duration. Set a yearly reminder and top up a tag when the app shows a low battery. A tag you forget to charge is just a keychain charm."
+  },
+  {
+   "criterion": "Network and phone match",
+   "explanation": "Rechargeable does not change the rule that a tag needs your phone's network. The TECKNET, UGREEN FineTrack and Ultrbeka are Apple Find My only. The Pebblebee Clip 5, UGREEN Finder Duo and Chipolo CARD let you choose Apple Find My or Google Find Hub. A tag joins one network at a time, so pick before pairing. If your phone type might change, a dual-network tag keeps the purchase useful."
+  },
+  {
+   "criterion": "Sound and visibility",
+   "explanation": "A rechargeable tag still has to be found under a cushion. The Pebblebee Clip 5 lists a 130 dB siren with an LED strobe, the TECKNET lists 100 dB, and the UGREEN and Chipolo CARD listings give no figure. Decibel numbers are manufacturer claims, so use them as a rough guide. A strobe is useful in a dark car or bag. Favor louder tags if high-pitched sounds are hard for you to hear."
+  },
+  {
+   "criterion": "Water and dust rating",
+   "explanation": "A sealed rechargeable tag cannot be opened, so its seal matters more than on a coin-cell model. The Ultrbeka card lists IP68, the TECKNET lists IP67, and the Pebblebee Clip 5 lists IP66. The UGREEN and Chipolo CARD listings state no rating. IP67 and IP68 are rated for brief or longer immersion, while IP66 is aimed at strong splashes. Pick a stated rating for a bag that rides in the rain."
+  },
+  {
+   "criterion": "Shape and number of tags",
+   "explanation": "Cards and tags solve different problems, and pack size changes the effort. The Chipolo CARD and Ultrbeka card fit a wallet, while the Pebblebee Clip 5 clips to keys and bags at 10 g. The UGREEN Finder Duo and UGREEN FineTrack arrive as four-packs, which means four charges a year. Buy as many tags as you will genuinely charge. One tag you maintain beats four you ignore."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Charging and battery",
+   "description": "We looked at how each tag charges and how long the listing says a charge lasts. The Pebblebee Clip 5 claims up to 12 months over USB-C, the UGREEN Finder Duo claims 365 days, and the Chipolo CARD claims up to 1 year on a Qi charger. Where the TECKNET and Ultrbeka listings gave no duration, we did not assume one."
+  },
+  {
+   "title": "Network and phone support",
+   "description": "We checked which phones each tag works with, since a tag on the wrong network is useless. The Pebblebee Clip 5, UGREEN Finder Duo and Chipolo CARD support Find My or Find Hub. The TECKNET, UGREEN FineTrack and Ultrbeka are iPhone only."
+  },
+  {
+   "title": "Alarm and finding tools",
+   "description": "We compared how each tag helps you find it nearby. The Pebblebee Clip 5 lists 130 dB with a strobe, the TECKNET lists 100 dB with a motion tamper alert, and the others give no figure. These are manufacturer claims, so we balanced them against buyer feedback."
+  },
+  {
+   "title": "Water rating and build",
+   "description": "We weighed stated ratings and form. The Ultrbeka lists IP68, the TECKNET IP67 and the Pebblebee Clip 5 IP66 at 10 g. A published rating counted for more than a general claim of toughness, since a sealed battery cannot be opened or repaired."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "We placed each pick by what it does best, not by price or popularity. The Pebblebee Clip 5 leads on volume and battery, the UGREEN Finder Duo on dual-network packs, the TECKNET on iPhone waterproofing, the Chipolo CARD on dual-network wallet use, the UGREEN FineTrack on iPhone four-packs and the Ultrbeka on IP68. We did not rank on popularity or review counts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Charging Habit",
+   "intro": "How you prefer to plug things in is the fastest way to narrow the list.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Best pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You own USB-C cables everywhere",
+      "Pebblebee Clip 5 Bluetooth Tracker",
+      "Charges over USB-C for up to 12 months."
+     ],
+     [
+      "You already have a Qi pad",
+      "Chipolo CARD Wallet Tracker",
+      "Qi charging gives up to 1 year per charge."
+     ],
+     [
+      "Four tags, one cable",
+      "UGREEN Finder Duo Air Tracker Tags 4 Pack",
+      "Universal USB-C and 365 days per charge."
+     ],
+     [
+      "iPhone only, simple routine",
+      "UGREEN FineTrack Air Tracker Tags 4 Pack",
+      "USB-C charging for up to 12 months."
+     ],
+     [
+      "Place and forget on a pad",
+      "Ultrbeka Wallet Tracker Card",
+      "Qi wireless charging on any pad."
+     ]
+    ]
+   },
+   "note": "Set a calendar reminder for the same week each year."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Think in tiers based on tag count and features rather than a single price.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "What you get"
+    ],
+    "rows": [
+     [
+      "Entry",
+      "Ultrbeka Wallet Tracker Card",
+      "A single IP68 card for iPhone."
+     ],
+     [
+      "Entry to mid",
+      "UGREEN FineTrack Air Tracker Tags 4 Pack",
+      "Four iPhone tags at up to 12 months each."
+     ],
+     [
+      "Mid",
+      "TECKNET Rechargeable Air Tracker Tags",
+      "IP67, 100 dB and a tamper alert."
+     ],
+     [
+      "Mid to premium",
+      "UGREEN Finder Duo Air Tracker Tags 4 Pack",
+      "Four dual-network tags at 365 days."
+     ],
+     [
+      "Premium",
+      "Pebblebee Clip 5 Bluetooth Tracker",
+      "130 dB siren, strobe and 12 months."
+     ]
+    ]
+   },
+   "note": "Tiers are relative, since pack sizes differ between listings."
+  },
+  {
+   "subheading": "USB-C vs Qi Charging",
+   "intro": "The two charging styles feel very different in daily use.",
+   "cards": [
+    {
+     "label": "USB-C cable",
+     "text": "A port on the tag takes the same cable as your phone or earbuds. The Pebblebee Clip 5, UGREEN Finder Duo, TECKNET and UGREEN FineTrack all use USB-C. Choose it if you want no extra gear."
+    },
+    {
+     "label": "Qi wireless or magnetic",
+     "text": "A flat card cannot hold a port, so card trackers charge on a pad. The Chipolo CARD uses a Qi magnetic charger that is not included, and the Ultrbeka card uses Qi wireless charging. Choose it if you own a pad and want a thin body."
+    }
+   ],
+   "note": "Slim wallet cards almost always need a pad."
+  },
+  {
+   "subheading": "By Phone and Network",
+   "intro": "The phone in your pocket decides which tags can work at all.",
+   "table": {
+    "headers": [
+     "Phone",
+     "Best pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Android only",
+      "Pebblebee Clip 5 Bluetooth Tracker",
+      "Supports Google Find Hub with a 130 dB siren."
+     ],
+     [
+      "iPhone only",
+      "TECKNET Rechargeable Air Tracker Tags",
+      "MFi certified with IP67 and battery level in Find My."
+     ],
+     [
+      "Mixed household, many tags",
+      "UGREEN Finder Duo Air Tracker Tags 4 Pack",
+      "Certified for both Apple and Google."
+     ],
+     [
+      "Either phone, wallet",
+      "Chipolo CARD Wallet Tracker",
+      "Supports Find My or Find Hub."
+     ],
+     [
+      "iPhone, four tags",
+      "UGREEN FineTrack Air Tracker Tags 4 Pack",
+      "Apple-only set with USB-C charging."
+     ]
+    ]
+   },
+   "note": "Check that the listing names your phone's network before you buy."
+  },
+  {
+   "subheading": "For Wallets and Keys Specifically",
+   "intro": "These two items need different shapes, and both exist in rechargeable form.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "For keys, look for a loud ring and an easy USB-C charge. For a wallet, look for a flat card and a pad you can use. Confirm the network matches your phone."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Pebblebee Clip 5 handles keys with 130 dB and 12 months. The Chipolo CARD handles wallets at up to 1 year per charge. The Ultrbeka card adds IP68 for iPhone users."
+    }
+   ],
+   "note": "A card plus a key tag covers most people's daily losses."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Pay for a feature only when it fixes a real problem.",
+   "table": {
+    "headers": [
+     "Spend more if",
+     "Save if"
+    ],
+    "rows": [
+     [
+      "You lose keys in a loud house, choose the Pebblebee Clip 5 at 130 dB.",
+      "Your home is quiet, where the TECKNET at 100 dB is enough."
+     ],
+     [
+      "You travel in the rain, choose the Ultrbeka card at IP68.",
+      "You rarely get wet, where the UGREEN FineTrack set works."
+     ],
+     [
+      "Your family mixes phones, choose the UGREEN Finder Duo.",
+      "Everyone has an iPhone, where the UGREEN FineTrack set is simpler."
+     ],
+     [
+      "You want a strobe and safety mode, choose the Pebblebee Clip 5.",
+      "You only need a ring, where the Chipolo CARD is enough."
+     ]
+    ]
+   },
+   "note": "A charged tag on your keys beats a better one in a drawer."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a rechargeable tracker better than a coin cell one?",
+   "a": "It depends on which chore you prefer. Rechargeable tags such as the Pebblebee Clip 5 and the UGREEN Finder Duo avoid buying cells but need a yearly charge. Coin cell tags can be swapped in seconds with no cable. Neither is universally better, so match the design to your habits."
+  },
+  {
+   "q": "How often do I need to charge them?",
+   "a": "The listings here state about once a year. The Pebblebee Clip 5 says up to 12 months, the UGREEN Finder Duo says 365 days, and the Chipolo CARD says up to 1 year. Actual time depends on how often a tag rings, so set a yearly reminder and check battery level in the app."
+  },
+  {
+   "q": "Do I need a special charger?",
+   "a": "The USB-C tags use an ordinary cable, which the listings do not include. The Chipolo CARD needs a Qi magnetic charger that is not included, and the Ultrbeka card needs a Qi wireless pad. If you do not own a pad, factor that into the choice."
+  },
+  {
+   "q": "What happens when the sealed battery wears out?",
+   "a": "Rechargeable cells lose capacity over many cycles, and in a sealed tag you cannot swap them. Chipolo's 2-year warranty on the CARD covers some failures with a free replacement through the seller. Other listings here do not describe a warranty, so ask the seller before relying on one."
+  },
+  {
+   "q": "Is a Bluetooth tracker the same as a GPS tracker?",
+   "a": "No, and that is the most common misconception. These tags ring over Bluetooth when you are close and rely on passing phones to report a last known location. They do not give live GPS. Treat them as finders for keys, wallets and bags."
+  },
+  {
+   "q": "Can one tag work on iPhone and Android together?",
+   "a": "Not at the same time. The Pebblebee Clip 5, UGREEN Finder Duo and Chipolo CARD support both networks, but each tag joins only one at setup. If your family mixes phones, buy a pack and pair each tag to the network of the person who will use it."
+  }
+ ]
+}

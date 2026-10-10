@@ -1,0 +1,212 @@
+{
+ "guideTitle": "6 Best Wi-Fi Extenders for Gaming in 2026",
+ "metaTitle": "Best Wi-Fi Extenders for Gaming in 2026",
+ "metaDescription": "Six Wi-Fi extenders for gaming compared on Ethernet ports, Wi-Fi 6 support, band speeds, and placement, so a console far from the router stays online.",
+ "introParagraphs": [
+  "Gamers care about three things from a network: low delay, steady delivery, and no dropouts in the middle of a match. A Wi-Fi extender can help with the last two when a console or PC sits in a room the router barely reaches, but it will never be as steady as a cable. Every wireless hop adds some delay, and an extender that shares one radio between the router and your device adds more.",
+  "That is why this list leans on features that matter in play. An Ethernet port lets the console connect by wire to the extender, which removes one wireless leg from the path. Wi-Fi 6 helps crowded households where several devices compete. Dual band hardware keeps the fast 5 GHz band available for the console.",
+  "We evaluated six models using product specs and buyer feedback, without claiming any measured ping figures. Where a listing is silent on a feature that gamers care about, we say so plainly. Use the guidance below to pick the best balance for the room where the console actually lives."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best Overall for Gaming",
+   "name": "TP-Link RE615X AX1800 WiFi 6 Extender with Ethernet",
+   "specs": ["Wi-Fi 6 AX1800", "1.8 Gbps total", "Ethernet port", "Up to 2,100 sq ft"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 6 (AX1800)"},
+    {"label": "Total bandwidth", "value": "1.8 Gbps"},
+    {"label": "Wired port", "value": "Ethernet"},
+    {"label": "Rated coverage", "value": "Up to 2,100 sq ft"}
+   ],
+   "description": "The RE615X is the cleanest fit for a console player because it combines Wi-Fi 6 with a built-in Ethernet port. It reaches 1.8 Gbps of total bandwidth and a rated 2,100 square feet. Two high-gain directional antennas with beamforming steer the signal toward your devices, which helps a laptop or phone that sits in one consistent spot.\n\nThe Ethernet port is the feature that matters most here. Plug a console or gaming PC into it and that device no longer depends on a wireless link to the extender, leaving only the single hop back to the router. The listing is honest that all extenders improve coverage and are not designed to increase speed. The tradeoff is that the single hop back to the router is still wireless, so a poorly placed unit will still hurt response time.\n\nInstallation is the usual plug-in affair, and you should place it where it hears a strong router signal. Compared with the TP-Link AX3000 at 3 Gbps and 2,400 square feet, you give up bandwidth and range but gain the Ethernet port. For many players, that tradeoff is the right one.",
+   "bestFor": "A console or desktop that can be cabled to the extender.",
+   "pros": ["Built-in Ethernet port plugs in a console or PC", "Wi-Fi 6 helps when many devices compete", "Beamforming directional antennas aim at devices", "Rated for up to 2,100 sq ft of coverage"],
+   "cons": ["The hop back to the router is still wireless", "Fewer bandwidth headroom than the AX3000"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Wi-Fi 6 Bandwidth",
+   "name": "TP-Link AX3000 WiFi 6 Dual-Band Range Extender",
+   "specs": ["Wi-Fi 6 AX3000", "Up to 2,404 Mbps on 5 GHz", "3 Gbps total", "Beamforming"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 6 (AX3000)"},
+    {"label": "Total bandwidth", "value": "3 Gbps"},
+    {"label": "5 GHz speed", "value": "Up to 2,404 Mbps"},
+    {"label": "Rated coverage", "value": "Up to 2,400 sq ft"}
+   ],
+   "description": "This is the highest bandwidth model in the gaming lineup. It is a Wi-Fi 6 dual band unit with 3 Gbps total and up to 2,404 Mbps on the 5 GHz band, backed by two high-gain directional antennas and beamforming. TP-Link rates it for up to 2,400 square feet, the largest of the TP-Link units here.\n\nFor a household where several people stream while one person games, that headroom keeps the console from fighting over the radio. The brief for this model does not list an Ethernet port, which is a notable gap for a gamer who wants to cable a console. If your device must connect wirelessly, the extra bandwidth and beamforming partly make up for it.\n\nSetup is quick, and the listing carries the CISA cybersecurity statement common to TP-Link models. Against the RE615X at 1.8 Gbps, you gain more throughput and range but lose the confirmed wired port. Choose it when your console connects by Wi-Fi and the router is also Wi-Fi 6.",
+   "bestFor": "Busy Wi-Fi 6 homes where a console connects wirelessly.",
+   "pros": ["Reaches 2,404 Mbps on the 5 GHz band", "3 Gbps total leaves room for other devices", "Beamforming aims the signal at a console", "Rated for up to 2,400 sq ft"],
+   "cons": ["Brief does not list an Ethernet port", "Little benefit behind a Wi-Fi 5 router"]
+  },
+  {
+   "i": 2,
+   "badge": "Best Wi-Fi 5 Headroom",
+   "name": "TP-Link AC1900 Range Extender RE550",
+   "specs": ["Wi-Fi 5 AC1900", "1.9 Gbps total", "3 adjustable antennas", "Up to 2,100 sq ft"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1900)"},
+    {"label": "Total bandwidth", "value": "1.9 Gbps"},
+    {"label": "Antennas", "value": "3 adjustable external"},
+    {"label": "Rated coverage", "value": "Up to 2,100 sq ft"}
+   ],
+   "description": "The RE550 suits a gamer whose router is still Wi-Fi 5 and whose console lives a floor away. It brings 1.9 Gbps of total bandwidth, three adjustable external antennas, and a rated 2,100 square feet. The antennas can be angled toward the console, which is a small but practical lever when a player knows exactly where the gaming room sits.\n\nBecause the router is Wi-Fi 5, there is no need to spend on a Wi-Fi 6 extender that the router cannot match. The weakness is that the brief lists no Ethernet port, so a wired console is off the table with this model. It is also bulkier than the compact RE315, which can crowd a power strip.\n\nIt asks for little upkeep, and TP-Link notes its CISA cybersecurity commitment. Compared with the RE315 at 1.2 Gbps and 1,500 square feet, you get roughly 700 Mbps more headroom and more range. Pick it when a wireless-only console needs the strongest Wi-Fi 5 link in this group.",
+   "bestFor": "Players on a Wi-Fi 5 router with a wireless-only console.",
+   "pros": ["AC1900 provides 1.9 Gbps of total bandwidth", "Three antennas can be aimed at the gaming room", "Rated for up to 2,100 sq ft", "Matches a Wi-Fi 5 router without waste"],
+   "cons": ["Brief lists no Ethernet port for a console", "Bulky body can crowd a power strip"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Compact Pick",
+   "name": "TP-Link AC1200 WiFi Extender RE315",
+   "specs": ["AC1200 dual band", "867 Mbps on 5 GHz", "Up to 1,500 sq ft", "Adaptive Path Selection"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1200)"},
+    {"label": "Total bandwidth", "value": "1.2 Gbps"},
+    {"label": "Rated coverage", "value": "Up to 1,500 sq ft"},
+    {"label": "Feature", "value": "Adaptive Path Selection"}
+   ],
+   "description": "The RE315 is the entry choice for a bedroom gaming setup that does not need heavy bandwidth. It is an AC1200 dual band unit with 867 Mbps on the 5 GHz band, two adjustable external antennas, and coverage rated for up to 1,500 square feet. The listing mentions Adaptive Path Selection, meant to choose a better route between router and devices.\n\nThat feature is relevant to a player because a stable path matters more than a peak number. A single AC1200 radio pair still limits total throughput, so a household with many simultaneous streams will feel it. The brief does not mention an Ethernet port for this model, which is a missed opportunity for wired play.\n\nIt is the simplest unit to place and leave. Next to the RE550 at 1.9 Gbps and 2,100 square feet, you give up headroom but keep a smaller body. It makes sense for a single gamer with a modest router and a modest need. If you later outgrow it, the unit is easy to retire to a guest room, so the risk of buying small is low. Check that the router offers a 5 GHz network before pairing, because the whole point of the 867 Mbps figure is to keep the console on that faster band.",
+   "bestFor": "A single gaming bedroom with light household traffic.",
+   "pros": ["867 Mbps on 5 GHz suits one player", "Adaptive Path Selection aims for a steadier route", "Two antennas can be angled", "Rated for up to 1,500 sq ft"],
+   "cons": ["No Ethernet port listed in the brief", "AC1200 caps total throughput for busy homes"]
+  },
+  {
+   "i": 7,
+   "badge": "Best Wired Option from a Lesser Brand",
+   "name": "Eboous WiFi Extender Signal Booster with Ethernet",
+   "specs": ["Claims up to 15,000 sq ft", "Ethernet port", "Up to 65+ devices", "Next-gen performance claim"],
+   "specList": [
+    {"label": "Claimed coverage", "value": "Up to 15,000 sq ft"},
+    {"label": "Wired port", "value": "Ethernet"},
+    {"label": "Device limit", "value": "65+"},
+    {"label": "Positioning", "value": "Lag and buffering reduction"}
+   ],
+   "description": "Eboous markets its extender around less buffering and lag, and its title confirms an Ethernet port. The listing claims coverage of up to 15,000 square feet and support for 65 or more devices at once. For a gamer, the wired port is what counts, because it lets a console connect by cable.\n\nThe brief does not publish a Wi-Fi generation or band speeds, so you cannot judge the wireless side the way you can with the TP-Link models. The coverage figure is a best-case claim that no single plug-in box will match through real walls. The tradeoff is clear: you get a wired port at a lesser-known brand with thin specs.\n\nIf you mainly want a cable to the console, the port may be enough, and the wireless side is less critical. Compared with the TP-Link RE615X at 1.8 Gbps, the Eboous publishes far less about speed. Choose it for a basic wired setup when the bigger names are out of reach. One more caution applies to the lag claims in the title. No extender removes delay, and the honest benefit is a steadier connection where the router signal was patchy. Keep your expectations modest, try the cable first, and return the unit if the console still drops during online matches.",
+   "bestFor": "A basic console cable setup where brand name matters less.",
+   "pros": ["Title confirms an Ethernet port for a console", "Handles 65 or more connected devices", "Claims reduced lag and buffering", "Wide claimed coverage figure"],
+   "cons": ["No Wi-Fi generation or band speeds in the brief", "Coverage figure is unrealistic through walls"]
+  },
+  {
+   "i": 6,
+   "badge": "Best Four-Antenna Budget Pick",
+   "name": "Mekupc AC1200 WiFi Extender, 4 Antennas",
+   "specs": ["AC1200 dual band", "4 high-gain antennas", "Up to 12,980 sq ft claimed", "2.4 and 5 GHz"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1200)"},
+    {"label": "Bands", "value": "2.4 GHz and 5 GHz"},
+    {"label": "Antennas", "value": "4 high-gain"},
+    {"label": "Claimed coverage", "value": "Up to 12,980 sq ft"}
+   ],
+   "description": "The Mekupc covers the middle ground with four high-gain antennas on an AC1200 dual band platform. It supports both 2.4 GHz and 5 GHz, and the listing claims coverage of up to 12,980 square feet for upstairs rooms and basements. Four antennas give you more freedom to point the signal around a room.\n\nThat design is useful for a gamer whose console sits in a basement or a corner room. The bandwidth class is the same AC1200 as the TP-Link RE315, so the real advantage is antenna flexibility rather than a faster ceiling. The brief does not list an Ethernet port, so a wired console may not be possible.\n\nSetup is basic, with no app mentioned. In comparison with the Eboous, the Mekupc publishes a clearer standard and band list but omits a wired port. Choose it for a wireless console in an awkward room at a low tier. In use, remember that more antennas do not add bandwidth. They give you more ways to aim the same AC1200 radios, so spend a few minutes rotating them while watching the signal lights. A console that reads strong in the basement after that effort is a better result than any claimed square footage.",
+   "bestFor": "A wireless console in a basement or awkward corner room.",
+   "pros": ["Four high-gain antennas offer flexible aiming", "Dual band AC1200 keeps 5 GHz available", "Listing targets basements and upstairs rooms", "Clearer standard than most budget rivals"],
+   "cons": ["No Ethernet port listed in the brief", "AC1200 ceiling matches smaller TP-Link units"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "A wired port for the console", "explanation": "The strongest gaming upgrade on an extender is an Ethernet port, because it replaces one wireless leg with a cable between the console and the extender. The TP-Link RE615X and the Eboous list the feature, while the TP-Link AX3000, RE550, and RE315 briefs do not. If your console has an Ethernet jack, make this a must-have rather than a nice-to-have. A cable also avoids the interference that Wi-Fi suffers near microwaves and baby monitors. Check the port count and speed rating before you buy."},
+  {"criterion": "Wi-Fi 6 for crowded homes", "explanation": "Wi-Fi 6 handles many simultaneous devices more efficiently, which matters when a console shares the network with phones, TVs, and laptops. The TP-Link AX3000 offers 3 Gbps total and the RE615X offers 1.8 Gbps, both on Wi-Fi 6. A Wi-Fi 5 unit like the RE550 at 1.9 Gbps is fine when your router is also Wi-Fi 5. Do not buy Wi-Fi 6 for a Wi-Fi 5 router just for the label. Match the generation to what you already own."},
+  {"criterion": "The hop back to the router", "explanation": "Every extender talks to the router over a wireless link, and a weak link is the biggest cause of lag. Place the unit where it still sees a strong router signal, roughly halfway to the gaming room. A dual band unit with 867 Mbps on 5 GHz, like the TP-Link RE315, handles that hop better than a single band one. Tri-band models dedicate a radio to this hop, which is a separate premium category. If the link is poor, no gaming feature will fix it."},
+  {"criterion": "Bandwidth headroom", "explanation": "Total bandwidth tells you how much room remains once several devices share the radios. The TP-Link AX3000 at 3 Gbps leaves the most room, the RE550 at 1.9 Gbps leaves a fair amount, and the RE315 at 1.2 Gbps leaves the least. A single gamer on a quiet network does well with any of these. A household of streamers and gamers benefits from the higher tiers. Remember that the extender cannot exceed the speed of your internet plan."},
+  {"criterion": "Antenna design", "explanation": "Antennas decide how well the signal reaches a specific room. Directional antennas with beamforming, as on the TP-Link AX3000 and RE615X, aim toward devices. The Mekupc has four high-gain antennas that you can angle, and the RE550 has three. If the console never moves, directional aiming is an advantage. If you move around the house with a laptop, wider coverage may serve you better."},
+  {"criterion": "Honest claims and support", "explanation": "Be wary of listings that promise 15,000 square feet or zero lag, because physics limits any plug-in box. The TP-Link units publish clear bandwidth figures and cite the CISA cybersecurity commitment, which makes them easier to judge. The Eboous and Mekupc offer more flexibility on paper but fewer verifiable specs. A familiar brand also makes returns and support easier. Treat any huge claim as marketing."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Wired connection", "description": "A built-in Ethernet port was the heaviest factor, since it lets a console bypass one wireless link. The TP-Link RE615X and Eboous list a port in the brief and the others do not. Picks without a confirmed port were limited to a wireless-only role."},
+  {"title": "Wi-Fi generation and bandwidth", "description": "We compared standards and total bandwidth as the ceiling for shared use. The TP-Link AX3000 leads at 3 Gbps on Wi-Fi 6, followed by the RE550 at 1.9 Gbps, the RE615X at 1.8 Gbps, and the AC1200 class units. Scores are based on published specs and buyer feedback."},
+  {"title": "Signal direction", "description": "Antenna design affects how reliably a fixed gaming spot is covered. Beamforming directional antennas on the TP-Link AX3000 and RE615X scored well for fixed rooms, while the Mekupc's four adjustable antennas offer flexibility. Compact two-antenna models scored lower for tricky rooms."},
+  {"title": "Setup simplicity", "description": "Gamers want a unit that pairs quickly and then stays out of the way. WPS style pairing and clear instructions were favored, and models with documented features such as Adaptive Path Selection on the RE315 earned a small credit. Brands that publish few details lost ground."},
+  {"title": "Claim credibility", "description": "Large coverage and device-count claims were discounted. The Eboous at 15,000 square feet and the Mekupc at 12,980 square feet are best-case figures, while the TP-Link ratings of 1,500 to 2,400 square feet are more believable. Trusted specs weighed more than marketing numbers."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By How the Console Connects",
+   "intro": "Whether the console can use a cable changes the best pick more than any other factor.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Console with Ethernet jack, Wi-Fi 6 router", "TP-Link RE615X AX1800 WiFi 6 Extender with Ethernet", "Wired port plus 1.8 Gbps Wi-Fi 6"],
+     ["Console with Ethernet jack, basic need", "Eboous WiFi Extender Signal Booster with Ethernet", "Confirmed wired port, wide device limit"],
+     ["Wireless-only console, Wi-Fi 6 router", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender", "3 Gbps and 2,404 Mbps on the 5 GHz band"],
+     ["Wireless-only console, Wi-Fi 5 router", "TP-Link AC1900 Range Extender RE550", "1.9 Gbps and three antennas"],
+     ["Wireless console in a basement", "Mekupc AC1200 WiFi Extender, 4 Antennas", "Four antennas to aim at an awkward room"]
+    ]
+   },
+   "note": "If the console has an Ethernet jack, always prefer the cable."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers are relative and reflect brand and generation more than gaming features.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Mekupc AC1200 WiFi Extender, 4 Antennas", "Four antennas on AC1200 dual band"],
+     ["Entry", "Eboous WiFi Extender Signal Booster with Ethernet", "Wired port from a lesser-known brand"],
+     ["Mid", "TP-Link AC1200 WiFi Extender RE315", "Compact, with 867 Mbps on 5 GHz"],
+     ["Mid to premium", "TP-Link AC1900 Range Extender RE550", "1.9 Gbps and three antennas"],
+     ["Premium", "TP-Link RE615X AX1800 WiFi 6 Extender with Ethernet", "Wi-Fi 6 with a confirmed wired port"]
+    ]
+   },
+   "note": "Paying more buys a newer standard and a known support record, not lower ping on its own."
+  },
+  {
+   "subheading": "Wired Port vs Wireless Only",
+   "intro": "The two approaches create very different paths from console to router.",
+   "cards": [
+    {"label": "Wired port", "text": "A cable from the console to the extender removes one wireless link and its interference. The TP-Link RE615X and the Eboous list an Ethernet port, which makes them the natural choices for consoles and gaming PCs. The remaining hop from extender to router is still wireless, so placement matters. Pick this route when the console is stationary."},
+    {"label": "Wireless only", "text": "A console that connects by Wi-Fi depends on strong bandwidth and a clean signal. The TP-Link AX3000, RE550, and RE315 and the Mekupc fall here, with no confirmed port in the brief. Prefer higher bandwidth and beamforming, as on the AX3000. Pick this route when a cable cannot reach the console."}
+   ],
+   "note": "Wired is steadier; wireless is more flexible. Choose by whether the console ever moves."
+  },
+  {
+   "subheading": "Household Traffic Level",
+   "intro": "How busy the network is decides how much bandwidth headroom you need.",
+   "table": {
+    "headers": ["Household", "Pick", "Reasoning"],
+    "rows": [
+     ["One gamer, quiet network", "TP-Link AC1200 WiFi Extender RE315", "867 Mbps on 5 GHz is plenty for one player"],
+     ["Two gamers, some streaming", "TP-Link AC1900 Range Extender RE550", "1.9 Gbps leaves room to share"],
+     ["Family with many streams", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender", "3 Gbps and Wi-Fi 6 efficiency"],
+     ["Gaming plus wired console", "TP-Link RE615X AX1800 WiFi 6 Extender with Ethernet", "Offloads the console to a cable"],
+     ["Many smart devices", "Eboous WiFi Extender Signal Booster with Ethernet", "Lists support for 65+ devices"]
+    ]
+   },
+   "note": "The router and your internet plan still set the overall limit."
+  },
+  {
+   "subheading": "For Console and PC Play Specifically",
+   "intro": "Competitive play values consistency over peak speed.",
+   "cards": [
+    {"label": "Look for", "text": "An Ethernet port, Wi-Fi 6 where your router supports it, and an extender placed halfway between the router and the console. Avoid placing it behind metal furniture or next to a microwave. Prefer a dual band unit so the console can use the 5 GHz band."},
+    {"label": "In this comparison", "text": "The TP-Link RE615X is the best all-round match with its wired port and Wi-Fi 6. The TP-Link AX3000 gives the most bandwidth for a wireless console. The RE550 is the sensible choice for a Wi-Fi 5 router, and the Mekupc is the flexible-antenna option for odd rooms."}
+   ],
+   "note": "Good placement of the extender often matters more than the model."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Upgrades help only when they remove a specific weakness.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You can cable the console, then the TP-Link RE615X with Ethernet is worth it", "You cannot cable it, then the RE550 at 1.9 Gbps works wirelessly"],
+     ["Your router is Wi-Fi 6, then the TP-Link AX3000 at 3 Gbps keeps pace", "Your router is Wi-Fi 5, then the RE315 at 1.2 Gbps is enough"],
+     ["Many people share the network, then higher bandwidth helps", "You game alone, then the RE315 is adequate"],
+     ["You want documented specs, then pick a TP-Link", "You accept sparse specs, then the Mekupc or Eboous fits a tight tier"],
+     ["The console is in a far room, then the AX3000's 2,400 sq ft helps", "The room is close, then the RE315's 1,500 sq ft is enough"]
+    ]
+   },
+   "note": "Spend where a feature removes lag, not where a number looks bigger."
+  }
+ ],
+ "faq": [
+  {"q": "Will a Wi-Fi extender reduce my ping?", "a": "Usually not. An extender adds a wireless hop, so ping typically rises slightly compared with sitting next to the router. What it can do is replace a weak or dropping signal with a steady one, which feels better in play. A wired port on the extender, as on the TP-Link RE615X, limits the added delay."},
+  {"q": "Should I connect my console by Ethernet to the extender?", "a": "Yes if the extender has a port and the console has a jack. It removes one wireless link and its interference. The TP-Link RE615X and the Eboous list an Ethernet port. The link back to the router is still wireless, so place the unit with a strong router signal."},
+  {"q": "Is Wi-Fi 6 necessary for gaming?", "a": "It is helpful but not required. Wi-Fi 6 handles many devices more efficiently, which helps in busy homes. If your router is Wi-Fi 5, a unit like the TP-Link RE550 at 1.9 Gbps is a good match. Do not pay for Wi-Fi 6 that your router cannot use."},
+  {"q": "Where should I put the extender for gaming?", "a": "Place it roughly halfway between the router and the gaming room, where the router signal is still strong. Putting it in the gaming room itself only rebroadcasts a weak signal. Stay away from microwaves and large metal objects. Test a few outlets if you can."},
+  {"q": "Is a mesh system better for gaming?", "a": "Often yes, especially for several dead rooms, because mesh offers one network name and smoother handoff. A single extender is a cheaper fix for one weak area. If an extender still gives you drops, consider mesh or a wired backhaul."},
+  {"q": "Do long coverage claims matter for gaming?", "a": "Not much. Numbers like 15,000 square feet describe best-case open space. The TP-Link ratings of 1,500 to 2,400 square feet are more realistic. For gaming, link quality and a wired port matter more than area."},
+  {"q": "Can an extender fix a slow internet plan?", "a": "No. Extenders improve coverage and do not raise the speed of your plan. TP-Link says so directly in the RE615X listing. If speeds are low even next to the router, the issue lies with the plan or modem."}
+ ]
+}

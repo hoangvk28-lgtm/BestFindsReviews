@@ -1,0 +1,208 @@
+{
+ "guideTitle": "6 Best Energizer Motion Sensor Lights in 2026",
+ "metaTitle": "Best Energizer Motion Sensor Lights",
+ "metaDescription": "Six Energizer motion sensor lights compared by lumens, detection range and power source, from path and ceiling lights to plug-in and cabinet models.",
+ "introParagraphs": [
+  "Energizer is best known for batteries, so it makes sense that most of its motion sensor lights are designed to run on them. That choice removes the need for wiring or an electrician. You can drop a light into a closet, hang one in a garage or stake one beside a walkway in the time it takes to load a few cells.",
+  "The lineup is wider than people expect, covering a soft path light, an outdoor security light, plug-in night lights, a battery ceiling light, a two head flood light and a rechargeable cabinet bar. Lumen output ranges from a gentle 20 lumens up to 800, so picking the wrong one means either a light that cannot be seen or a beam that floods the neighbor's window.",
+  "We evaluated six distinct models based on product specs and buyer feedback, comparing lumens, detection range, shutoff timing and how each one is powered. Where Energizer sells the same light in two brightness versions, we list it once."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best Overall",
+   "name": "Energizer Motion Sensor Ceiling Light 300 Lumens",
+   "specs": ["300 lumen LED", "360 degree detection", "Up to 15 ft range", "90 second auto-off"],
+   "specList": [
+    {"label": "Brightness", "value": "300 lumens"},
+    {"label": "Detection", "value": "360 degrees, up to 15 ft"},
+    {"label": "Auto-off", "value": "After 90 seconds"},
+    {"label": "Power", "value": "Battery operated"}
+   ],
+   "description": "This battery ceiling light is the most broadly useful model in the lineup. It delivers 300 lumens of diffused white illumination, which is plenty for closets, laundry rooms, garages, sheds and basements. A 360 degree sensor reaches up to 15 ft in every direction.\n\nThe auto-off battery saver switches the light off 90 seconds after motion stops, which protects the batteries without leaving you in the dark mid task. The compromise is that 90 seconds can feel short if you stand still folding laundry, and you will need to wave a hand to wake it. It is also a ceiling light, so it is not an outdoor choice.\n\nInstallation requires no wiring because the batteries power everything. Energizer also sells a 100 lumen version of the same light, which suits smaller closets and which we count as the same model. Against the 800 lumen flood light, this light is far gentler, and that is exactly why it works indoors."
+   ,
+   "bestFor": "Closets, laundry rooms and basements that need bright, wire-free overhead light.",
+   "pros": ["300 lumens of diffused light fills a small room", "360 degree sensor reaches up to 15 ft", "Auto-off after 90 seconds saves batteries", "Wire-free battery power suits any ceiling"],
+   "cons": ["90 second shutoff can catch you standing still", "Indoor use only, so not for the porch"]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Security",
+   "name": "Energizer LED Motion-Activated Security Light 40 Lumens",
+   "specs": ["40 lumen LED", "15 ft detection range", "IP54 rated", "Uses 3 AA batteries"],
+   "specList": [
+    {"label": "Brightness", "value": "40 lumens"},
+    {"label": "Detection", "value": "15 ft"},
+    {"label": "Rating", "value": "IP54"},
+    {"label": "Power", "value": "3 AA batteries (not included)"}
+   ],
+   "description": "The security light is a compact outdoor-ready model with a 40 lumen LED and a 15 ft detection range. It is IP54 rated, which the listing describes as dustproof, windproof and splashproof, so it can sit on a covered porch or in a garage. An easy-open battery compartment makes changing its 3 AA batteries simple.\n\nIt is a modest light by design, aimed at letting you see who or what is nearby rather than lighting a whole yard. That means 40 lumens will not clear a dark driveway the way the 800 lumen flood light will. It also needs batteries that are not included, which is one more purchase.\n\nBecause it is small and wire free, you can mount it at a gate, shed door or side entry. For a larger zone, step up to the two head flood light. For a modest entry, this one is easier to live with and gentler on the neighbors."
+   ,
+   "bestFor": "Side doors, sheds and covered porches that need a small weather-ready light.",
+   "pros": ["IP54 rating handles dust and splashes", "15 ft detection range covers a doorway", "Battery door opens easily for quick swaps", "Auto-shutoff keeps battery use low"],
+   "cons": ["40 lumens only lights a small area", "Batteries are not included in the box"]
+  },
+  {
+   "i": 4,
+   "badge": "Best for Outdoor Areas",
+   "name": "Energizer LED Flood Light Outdoor 2 Head 800 Lumens",
+   "specs": ["800 lumen output", "Two adjustable heads", "Head rotates 280 degrees", "120 degree detection"],
+   "specList": [
+    {"label": "Brightness", "value": "800 lumens"},
+    {"label": "Heads", "value": "Two, adjustable"},
+    {"label": "Rotation", "value": "280 degree head, 180 degree base"},
+    {"label": "Detection angle", "value": "120 degrees"}
+   ],
+   "description": "This is the brightest light in the family, a wireless two head spotlight producing 800 lumens. Each head rotates 280 degrees and the base swivels 180 degrees horizontally, so you can aim light exactly where it is needed. Motion detection spans 120 degrees and the lights shut off 20 seconds after movement stops.\n\nThe adjustable heads are the key advantage, because an 800 lumen beam is only helpful if it lands on the path and not in a window. The cost is more brightness than a small entry needs, and a wireless flood light will use its batteries faster than the dim 40 lumen model. Aiming takes a few tries, so test it at dusk.\n\nIt works best on a garage corner, a back yard or a driveway edge where wide coverage matters. Compared with the 300 lumen ceiling light, it delivers well over twice the output but is built for outdoors. If you only need a doorway glow, it is more than you need."
+   ,
+   "bestFor": "Driveways, garages and yards that need a wide, aimable beam.",
+   "pros": ["800 lumens is the brightest output here", "Heads rotate 280 degrees for precise aiming", "Base swivels 180 degrees horizontally", "Shuts off 20 seconds after motion ends"],
+   "cons": ["Overkill for a small porch or doorway", "Aiming two heads takes some trial and error"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Rechargeable",
+   "name": "Energizer 9.5 inch Rechargeable Under Cabinet Lights 2 Pack",
+   "specs": ["9.5 inch light bars", "850mAh lithium polymer battery", "Detects motion within 15 ft", "Warm white light"],
+   "specList": [
+    {"label": "Bar length", "value": "9.5 inches"},
+    {"label": "Battery", "value": "3.7V 850mAh lithium polymer"},
+    {"label": "Detection", "value": "Within 15 ft"},
+    {"label": "Shutoff", "value": "30 seconds after motion stops"}
+   ],
+   "description": "The cabinet bars are the only rechargeable model here, with ultra-thin 9.5 inch bars and an 850mAh lithium polymer battery in each. They sense motion within 15 ft and turn off 30 seconds after motion stops. A power button cycles through always on, motion sensing and off.\n\nA separate dimming button adjusts the warm white output, which suits a kitchen or a pantry. The drawback is a small 850mAh battery, so these will need charging more often than a ceiling light on AA cells. They are also slim, which makes them easy to hide but means each bar lights a short stretch of counter.\n\nThe two pack gives you a bar for each cabinet, and the rechargeable design removes the cost of disposable batteries. Compared with the 3 AA security light, these trade water protection for convenience. They are a neat pick for the kitchen or a dark shelf."
+   ,
+   "bestFor": "Kitchen cabinets and shelves where thin, rechargeable lighting looks tidy.",
+   "pros": ["Rechargeable 850mAh battery avoids disposable cells", "Ultra-thin bars hide easily under cabinets", "Always on, motion and off modes on one button", "Separate dimming button adjusts the warm white"],
+   "cons": ["850mAh battery needs more frequent charging", "9.5 inch bars cover a short stretch"]
+  },
+  {
+   "i": 2,
+   "badge": "Best Plug-In",
+   "name": "Energizer LED Motion Sensor Night Lights Dusk to Dawn 2 Pack",
+   "specs": ["Two plug-in lights", "Motion and dusk to dawn sensing", "Soft white LED", "Compact square design"],
+   "specList": [
+    {"label": "Pack size", "value": "2 lights"},
+    {"label": "Power", "value": "Plugs into wall"},
+    {"label": "Sensing", "value": "Motion and dusk to dawn"},
+    {"label": "Light", "value": "Soft white LED"}
+   ],
+   "description": "These are classic wall night lights with a modern twist. Two compact units plug straight into an outlet, and each has a built-in motion sensor that switches on in low light. The square design with rounded corners covers only one outlet slot, which saves space.\n\nThe soft white light suits bedrooms, bathrooms and laundry rooms. A dusk to dawn sensor keeps them off in bright rooms. The limit is that they depend on outlet placement, so you cannot put them in the middle of a long hallway or a staircase unless an outlet is there.\n\nBecause they plug in, there are no batteries to replace or charge. Compared with the 20 lumen path light, these stay at the wall and cannot be moved to a garden. They are a simple, low maintenance pick for indoor routes."
+   ,
+   "bestFor": "Bedrooms, bathrooms and laundry rooms with an outlet near the path.",
+   "pros": ["Plugs in, so batteries never need replacing", "Dusk to dawn sensor stays off in bright rooms", "Compact design leaves the second outlet free", "Soft white light suits sleeping areas"],
+   "cons": ["Depends on outlet placement along the route", "Cannot be moved to a garden or porch"]
+  },
+  {
+   "i": 0,
+   "badge": "Best for Pathways",
+   "name": "Energizer Motion Sensor Path Light 20 Lumens",
+   "specs": ["20 lumen soft white LED", "Battery powered", "Indoor or outdoor use", "Long-life LED"],
+   "specList": [
+    {"label": "Brightness", "value": "20 lumens"},
+    {"label": "Power", "value": "Battery powered"},
+    {"label": "Use", "value": "Indoor or outdoor"},
+    {"label": "Light", "value": "Soft white"}
+   ],
+   "description": "The path light is the gentlest model in the lineup, producing 20 lumens of soft white light. It is meant for hallways, entryways, stairs, patios, decks, basements, sheds and garages. A long-life LED means there are no bulbs to replace.\n\nBecause it works indoors or outdoors, you can move it as needs change. The trade-off is that 20 lumens is a guide glow rather than a work light, so it will not help you find something in a closet. It also runs on batteries, so plan for periodic replacements.\n\nIt is easy to set in a hallway or beside a step without any tools. Next to the 40 lumen security light, it is half as bright but much softer on the eyes at night. Choose it when you want to see the path, not light the room."
+   ,
+   "bestFor": "Hallways, stairs and patios that need a gentle guide glow.",
+   "pros": ["Soft 20 lumen glow does not startle sleepers", "Works both indoors and outdoors", "Long-life LED has no bulbs to replace", "Wireless placement needs no tools"],
+   "cons": ["20 lumens is too dim for task lighting", "Battery powered, so cells need replacing"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Lumens that match the job", "explanation": "Lumen output decides whether a light guides you or lights up a space. Under 50 lumens suits a glow along a route, while a closet or garage wants 100 to 300. The path light puts out 20 lumens and the security light 40, while the ceiling light reaches 300 and the flood light 800. Choosing too bright is as common a mistake as choosing too dim. Lumens measure total output, while the beam shape and head adjustability decide where the light actually lands. A 40 lumen light aimed well often beats a poorly aimed brighter one."},
+  {"criterion": "Detection range and angle", "explanation": "Range tells you how early the light wakes, and angle tells you how wide it watches. For a doorway, 15 ft is generous, and for a closet, anything near 15 ft in every direction is enough. The ceiling light offers 360 degree detection up to 15 ft, while the flood light watches a 120 degree angle. The cabinet bars sense within 15 ft. Passive infrared sensors cannot see through glass or around corners, so a light in a frosted hall window alcove may miss you. Walking across the sensor's field triggers it sooner than walking straight at it."},
+  {"criterion": "Auto-off timing", "explanation": "Shutoff time balances battery life against being left in the dark. Thirty seconds is fine for a pass-through, while a task like folding laundry wants longer. The ceiling light shuts off after 90 seconds, the cabinet bars after 30 seconds and the flood light after 20 seconds. If you linger, pick the longer timer. A short timer is a feature outdoors, where a light that stays on for minutes will drain its cells quickly. Indoors, a timer that is too short is the most common complaint, so lean toward the 90 second model for chores."},
+  {"criterion": "Power source choice", "explanation": "Batteries give placement freedom, plug-ins remove upkeep and rechargeables remove disposable cells. Think about how reachable the light will be when it needs attention. The security light uses 3 AA batteries, the night lights plug into the wall, and the cabinet bars use an 850mAh rechargeable battery. A ceiling light that is hard to reach should avoid frequent battery swaps. Alkaline cells lose power faster in cold garages, so expect shorter life there. Keeping a spare set on a shelf near the light makes changes quick."},
+  {"criterion": "Weather resistance", "explanation": "An outdoor light needs a rating, not just a promise. IP54 means protection against dust and splashes, which suits a covered area but not a fully exposed spot in heavy rain. The security light carries IP54, and the flood light is designed for outdoors. Indoor models such as the night lights should stay inside. Even a splashproof light should be mounted under an eave when possible. Standing water and direct hose spray go beyond what IP54 promises."},
+  {"criterion": "Aiming and adjustability", "explanation": "A beam that cannot be aimed often lights the wrong thing. Look for swivel and rotation if the light covers a broad area. The flood light rotates its heads 280 degrees and swivels 180 degrees, which is far more than the fixed path light. For a closet, a fixed ceiling light with 360 degree sensing needs no aiming."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Brightness and spread", "description": "We compared lumen output against the intended space. The flood light leads at 800 lumens, the ceiling light follows at 300 and the path light is the gentlest at 20. A light was marked down if its output did not suit the job named in the listing."},
+  {"title": "Sensor coverage", "description": "We reviewed detection range, angle and shutoff timing. The ceiling light has 360 degree coverage up to 15 ft, and the flood light watches 120 degrees. Longer reach and a sensible shutoff timer earned higher marks."},
+  {"title": "Power and upkeep", "description": "We looked at how each model is powered and how often it asks for attention. The night lights plug in, the cabinet bars recharge and the security light uses 3 AA batteries. Models that depend on frequent battery swaps were marked as more hands on."},
+  {"title": "Durability and weather use", "description": "We checked stated ratings and intended locations. The security light has an IP54 rating and the flood light is built for outdoor use. Indoor-only models were judged for indoor performance alone."},
+  {"title": "Ease of installation", "description": "We favored lights that go up without tools or wiring. The ceiling, path and security lights are wire free, and the night lights simply plug in. Our scores reflect product specs and buyer feedback."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Location",
+   "intro": "Where the light lives is the first filter, because ratings and brightness differ a lot.",
+   "table": {"headers": ["Location", "Pick", "Why"], "rows": [
+    ["Closet or laundry room", "Energizer Motion Sensor Ceiling Light 300 Lumens", "360 degree sensing and 300 lumens overhead"],
+    ["Covered porch or side door", "Energizer LED Motion-Activated Security Light 40 Lumens", "IP54 rating and 15 ft range"],
+    ["Driveway or back yard", "Energizer LED Flood Light Outdoor 2 Head 800 Lumens", "800 lumens with aimable heads"],
+    ["Kitchen cabinets", "Energizer 9.5 inch Rechargeable Under Cabinet Lights 2 Pack", "Thin rechargeable bars with dimming"],
+    ["Bedroom or bathroom outlet", "Energizer LED Motion Sensor Night Lights Dusk to Dawn 2 Pack", "Plug-in soft white with dusk to dawn sensing"]
+   ]},
+   "note": "If a spot is damp or exposed, check the rating before anything else."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "These tiers are relative, based on size and capability rather than a price.",
+   "table": {"headers": ["Tier", "Pick", "What you get"], "rows": [
+    ["Entry", "Energizer Motion Sensor Path Light 20 Lumens", "Simple guide glow for indoor or outdoor"],
+    ["Entry", "Energizer LED Motion Sensor Night Lights Dusk to Dawn 2 Pack", "Two plug-in lights with no upkeep"],
+    ["Mid", "Energizer LED Motion-Activated Security Light 40 Lumens", "IP54 rating and a 15 ft range"],
+    ["Mid", "Energizer 9.5 inch Rechargeable Under Cabinet Lights 2 Pack", "Two rechargeable bars with 850mAh batteries"],
+    ["Premium", "Energizer Motion Sensor Ceiling Light 300 Lumens", "Bright overhead light with 360 degree sensing"],
+    ["Premium", "Energizer LED Flood Light Outdoor 2 Head 800 Lumens", "Two adjustable heads at 800 lumens"]
+   ]},
+   "note": "Brighter and more adjustable lights sit in the upper tiers."
+  },
+  {
+   "subheading": "Battery vs Plug-In vs Rechargeable",
+   "intro": "The way a light is powered shapes how you will live with it.",
+   "cards": [
+    {"label": "Battery powered", "text": "Battery models can go anywhere and need no outlet, but they need fresh cells from time to time. The path light, security light, ceiling light and flood light fall here. The security light takes 3 AA batteries. Choose these for placement freedom."},
+    {"label": "Plug-in or rechargeable", "text": "The night lights plug into an outlet and need no upkeep, while the cabinet bars recharge through their 850mAh batteries. These avoid disposable cells but tie you to an outlet or a charging routine. Choose them for indoor spots you visit daily."}
+   ],
+   "note": "Pick battery for flexibility and plug-in for zero maintenance."
+  },
+  {
+   "subheading": "By Brightness Need",
+   "intro": "Lumen output is the clearest way to separate these models.",
+   "table": {"headers": ["Need", "Pick", "Reason"], "rows": [
+    ["Gentle guide glow", "Energizer Motion Sensor Path Light 20 Lumens", "20 lumens of soft white"],
+    ["Small entry light", "Energizer LED Motion-Activated Security Light 40 Lumens", "40 lumens within 15 ft"],
+    ["Room lighting", "Energizer Motion Sensor Ceiling Light 300 Lumens", "300 lumens of diffused light"],
+    ["Wide outdoor beam", "Energizer LED Flood Light Outdoor 2 Head 800 Lumens", "800 lumens with two heads"],
+    ["Task counter light", "Energizer 9.5 inch Rechargeable Under Cabinet Lights 2 Pack", "Dimmable warm white bars"]
+   ]},
+   "note": "More lumens is not automatically better, so match output to the space."
+  },
+  {
+   "subheading": "For Garage and Outdoor Use Specifically",
+   "intro": "Garages and yards are where weather rating and range matter most.",
+   "cards": [
+    {"label": "Look for", "text": "An IP rating or outdoor label, a range of at least 15 ft and a shutoff timer you can live with. Brighter output helps in open areas. Adjustable heads let you avoid shining light into windows."},
+    {"label": "In this comparison", "text": "The 800 lumen flood light is built for the yard with aimable heads and a 20 second shutoff. The security light adds an IP54 rating for a covered door. The 300 lumen ceiling light fits the garage interior."}
+   ],
+   "note": "Aim outdoor lights at dusk so you can see exactly where the beam lands."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A bigger or more flexible light pays off in a few clear cases.",
+   "table": {"headers": ["Spend more if", "Save if"], "rows": [
+    ["You light a large yard, choose the Energizer LED Flood Light Outdoor 2 Head 800 Lumens", "You light a doorway, so the Energizer LED Motion-Activated Security Light 40 Lumens is enough"],
+    ["You need a bright closet or garage, choose the Energizer Motion Sensor Ceiling Light 300 Lumens", "You only need a soft guide, so the Energizer Motion Sensor Path Light 20 Lumens is enough"],
+    ["You hate swapping batteries, choose the Energizer 9.5 inch Rechargeable Under Cabinet Lights", "You have an outlet nearby, so the Energizer LED Motion Sensor Night Lights work"],
+    ["You want to cover several rooms, add more plug-in night lights", "You have one dark corner, so a single path light does the job"]
+   ]},
+   "note": "Match the light to the space instead of buying the brightest one."
+  }
+ ],
+ "faq": [
+  {"q": "Which Energizer light is best for a closet?", "a": "The 300 lumen ceiling light is the best fit because it spreads diffused light and senses motion in 360 degrees up to 15 ft. A 100 lumen version of the same light also exists for smaller closets. Because it runs on batteries, it needs no wiring. The 90 second auto-off is a battery saver, so wave a hand if you stand still."},
+  {"q": "Are Energizer motion lights waterproof?", "a": "Not all of them. The security light is IP54 rated, which covers dust and splashes, and the flood light is made for outdoor use. The ceiling light and the plug-in night lights are indoor choices. Always match the rating to how exposed the location is. A covered porch is a gentler environment than a post in an open yard. When in doubt, mount the light under an overhang and keep the battery door facing down so water cannot pool."},
+  {"q": "How long do the batteries last?", "a": "The listings do not give a single runtime, because it depends on how often motion triggers the light. Brighter lights and busier spots drain batteries faster. The 800 lumen flood light will use more than the 20 lumen path light. Auto-off timers of 20 to 90 seconds help control usage. Treat any runtime promise as a best case that assumes only a few triggers each night. Checking the cells every season is a sensible habit."},
+  {"q": "Is brighter always better for security?", "a": "No. A very bright beam can blind you as much as an intruder and annoy neighbors. A 40 lumen security light at a door is often enough to reveal movement. The 800 lumen flood light is better for large open areas. Aim any bright light away from windows. Wide beams also wash out your own night vision, which makes the surrounding dark areas feel darker. A modest light at the right height usually reveals movement more clearly than a floodlight does."},
+  {"q": "Do I need an electrician to install these?", "a": "No. The battery models need no wiring, and the night lights plug into a standard outlet. The cabinet bars recharge and stick under a shelf. The only job is loading batteries or setting up the mount. Most people finish a whole home in under an hour."},
+  {"q": "What does dusk to dawn sensing mean?", "a": "It means the light checks the room's brightness and stays off when it is already bright. The night lights use it together with motion sensing so they only react in low light. This avoids wasting power in the daytime. It does not mean the light stays on all night unless you choose that mode."},
+  {"q": "What is a common mistake with motion lights?", "a": "Buying by lumens alone and forgetting the shutoff timer. A 20 second timer on the flood light is fine for passing through but short for work. Another mistake is mounting a light where the sensor sees a swaying branch or a heater vent. Place it so you cross its field and keep it away from heat sources."},
+  {"q": "Why does my motion light turn on when nobody is there?", "a": "Passive infrared sensors react to changes in heat, so a swaying branch, a pet, a dryer vent or a sunny window can set them off. Moving the light, aiming it away from vents and shading it from direct sun usually fixes the problem. Fresh batteries also help, because weak cells can make a sensor behave oddly. If it persists, try a different mounting height."},
+  {"q": "Can I use the path light in a bedroom?", "a": "Yes, the path light works indoors as a soft guide light, and its 20 lumens is gentle enough for sleeping areas. It will not light up the whole room, which is a plus at night. Place it low along the route to the bathroom. For a plug-in alternative, the dusk to dawn night lights do a similar job, though they stay at outlet height."}
+ ]
+}

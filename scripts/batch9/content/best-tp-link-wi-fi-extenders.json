@@ -1,0 +1,263 @@
+{
+  "guideTitle": "6 Best TP-Link Wi-Fi Extenders in 2026",
+  "metaTitle": "Best TP-Link Wi-Fi Extenders (2026)",
+  "metaDescription": "Six TP-Link range extenders compared, from the AC1200 RE315 to the Wi-Fi 6 AX3000, with coverage, ports, speeds and setup advice for each.",
+  "introParagraphs": [
+    "TP-Link sells so many extenders that the model numbers blur together: RE315, RE550, RE515X, RE615X, and a Wi-Fi 6 AX3000 that carries no RE name in its listing. The labels hide a simple structure. The numbers after AC and AX are combined speed ratings, and the X at the end of a model name means Wi-Fi 6.",
+    "This guide lines up six TP-Link plug-in extenders so you can see how they differ on the three things that matter: how far they claim to reach, which Wi-Fi generation they use, and whether they offer an Ethernet port. They run from a modest AC1200 unit to a three-gigabit Wi-Fi 6 model.",
+    "We evaluated them from TP-Link's published specs and feature lists, and we ranked them by how well each suits a household that wants a weak room fixed with a single plug-in step."
+  ],
+  "products": [
+    {
+      "i": 2,
+      "badge": "Best Overall",
+      "name": "TP-Link AX3000 WiFi 6 Dual-Band Range Extender",
+      "specs": ["Wi-Fi 6 AX3000", "3 Gbps total", "2404 Mbps on 5 GHz", "Up to 2,400 sq ft"],
+      "specList": [
+        {"label": "Wi-Fi standard", "value": "Wi-Fi 6 (AX3000)"},
+        {"label": "Total bandwidth", "value": "3 Gbps"},
+        {"label": "5 GHz speed", "value": "Up to 2404 Mbps"},
+        {"label": "Coverage", "value": "Up to 2,400 sq ft"},
+        {"label": "Antennas", "value": "Two high-gain directional with beamforming"}
+      ],
+      "description": "At the top of TP-Link's plug-in range sits the AX3000, a dual-band Wi-Fi 6 extender with 3 Gbps of total bandwidth. Its 5 GHz band is rated at up to 2404 Mbps, and two high-gain directional antennas with beamforming push signal toward your devices. The listing claims coverage up to 2,400 sq ft, the largest of the six.\n\nThat makes it the natural pick for a large home with a Wi-Fi 6 router and many connected gadgets. The listing also carries a note about a PCMag Editor's Choice mention and TP-Link's U.S. cybersecurity commitment, which are small trust signals for a box that stays on all day. The price of the capability is size and cost, so a one-bedroom fix does not need it.\n\nIn use it is the same routine as the others: pair it, then move it halfway between the router and the weak area. Compared with the RE615X at 1.8 Gbps and 2,100 sq ft, the AX3000 adds roughly 1.2 Gbps and 300 sq ft of claimed reach. Compared with the older AC1900 RE550, it adds Wi-Fi 6 but gives up that model's three antennas for two directional ones.",
+      "bestFor": "Large homes with a Wi-Fi 6 router and many devices.",
+      "pros": ["Fastest TP-Link here at 2404 Mbps on 5 GHz", "Largest stated reach at 2,400 sq ft", "Beamforming aims signal at devices", "Listing cites a U.S. cybersecurity commitment"],
+      "cons": ["More capability than a small flat needs", "Lacks an Ethernet port in the listing"]
+    },
+    {
+      "i": 5,
+      "badge": "Best Wi-Fi 6 with Ethernet",
+      "name": "TP-Link RE615X AX1800 WiFi 6 Range Extender",
+      "specs": ["Wi-Fi 6 AX1800", "1.8 Gbps total", "Up to 2,100 sq ft", "Ethernet port", "Beamforming"],
+      "specList": [
+        {"label": "Wi-Fi standard", "value": "Wi-Fi 6 (AX1800)"},
+        {"label": "Total bandwidth", "value": "1.8 Gbps"},
+        {"label": "Coverage", "value": "Up to 2,100 sq ft"},
+        {"label": "Wired port", "value": "Ethernet port"},
+        {"label": "Antennas", "value": "Two high-gain directional"}
+      ],
+      "description": "The RE615X sits one step beneath the AX3000, offering Wi-Fi 6 at AX1800 with 1.8 Gbps of total bandwidth. It lists up to 2,100 sq ft of coverage, an Ethernet port for a wired device, and two high-gain directional antennas with beamforming.\n\nFor many homes this is the sweet spot of the Wi-Fi 6 line. It reaches as far as the older RE550 yet adds the newer standard and a LAN port, so a smart TV or desktop can connect by cable. The listing is also clear that extenders improve coverage rather than increase speed, which is an honest framing buyers should keep in mind.\n\nThe tradeoff against the AX3000 is a lower speed ceiling and 300 sq ft less claimed coverage. The tradeoff against the RE515X at 1.5 Gbps and 1,800 sq ft is that you pay for a bit more of both. Set it midway between your router and the weak room, run a cable to the TV if you have one nearby, and it will serve a medium-sized home well.",
+      "bestFor": "Medium to large Wi-Fi 6 homes that also want a wired port.",
+      "pros": ["Wi-Fi 6 with 1.8 Gbps of total bandwidth", "Up to 2,100 sq ft of listed coverage", "Ethernet port connects a TV or computer", "Directional antennas use beamforming"],
+      "cons": ["Lower speed ceiling than the AX3000", "Wi-Fi 6 benefit needs a Wi-Fi 6 router"]
+    },
+    {
+      "i": 4,
+      "badge": "Best Mid-Range Wi-Fi 6",
+      "name": "TP-Link RE515X AX1500 WiFi 6 Range Extender",
+      "specs": ["Wi-Fi 6 AX1500", "1.5 Gbps total", "Up to 1,800 sq ft", "Ethernet port"],
+      "specList": [
+        {"label": "Wi-Fi standard", "value": "Wi-Fi 6 (AX1500)"},
+        {"label": "Total bandwidth", "value": "1.5 Gbps"},
+        {"label": "Coverage", "value": "Up to 1,800 sq ft"},
+        {"label": "Wired port", "value": "Ethernet port"},
+        {"label": "Antennas", "value": "Two high-gain directional"}
+      ],
+      "description": "The RE515X is a Wi-Fi 6 dual-band extender with 1.5 Gbps total bandwidth and up to 1,800 sq ft of listed coverage. It includes an Ethernet port, and two high-gain directional antennas with beamforming are meant to improve signal strength and stability.\n\nIt is the budget-friendly way to enter Wi-Fi 6 within the TP-Link line. For a house of moderate size with a Wi-Fi 6 router, it offers the newer standard without the extra reach of the RE615X. Like every extender on this list, it will not raise your internet plan's speed, a point the listings from this maker state plainly.\n\nIn day-to-day use it is a simple install, and the port is helpful for a streaming box. Against the RE615X, it gives up 300 sq ft and 0.3 Gbps in exchange for a smaller step in price. Against the AC1200 RE315 at 1,500 sq ft, it adds 300 sq ft, the Ethernet port and Wi-Fi 6, which makes it a sensible upgrade for a household that is replacing an older plug-in.",
+      "bestFor": "Moderate homes moving to Wi-Fi 6 without overspending.",
+      "pros": ["Wi-Fi 6 with 1.5 Gbps of total bandwidth", "Up to 1,800 sq ft of listed coverage", "Ethernet port for a TV or console", "Beamforming with directional antennas"],
+      "cons": ["Reaches 300 sq ft less than the RE615X", "Not the fastest Wi-Fi 6 option in the range"]
+    },
+    {
+      "i": 1,
+      "badge": "Best Wi-Fi 5 for Reach",
+      "name": "TP-Link AC1900 WiFi Range Extender RE550",
+      "specs": ["Wi-Fi 5 AC1900", "1.9 Gbps total", "Up to 2,100 sq ft", "Three antennas"],
+      "specList": [
+        {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1900)"},
+        {"label": "Total bandwidth", "value": "1.9 Gbps"},
+        {"label": "Coverage", "value": "Up to 2,100 sq ft"},
+        {"label": "Antennas", "value": "Three adjustable external"}
+      ],
+      "description": "The RE550 is TP-Link's larger Wi-Fi 5 repeater, with 1.9 Gbps of total bandwidth and a claimed 2,100 sq ft of coverage. Three adjustable external antennas let you tilt the signal toward the stairs or along a corridor.\n\nIt appeals to households with an older router that has no plan to upgrade, since a Wi-Fi 6 extender would be limited by the router anyway. The listing also notes TP-Link's participation in a U.S. cybersecurity commitment, a nice assurance for a device that stays powered on. Without an Ethernet port, though, it cannot feed a wired TV the way the RE615X or RE515X can.\n\nBulk is the main ownership complaint, since three antennas take more space at the outlet. Compared with the RE315 at 1,500 sq ft, it extends your reach by 600 sq ft. Compared with the RE615X, which claims the same 2,100 sq ft, it lacks Wi-Fi 6 and the LAN port but suits buyers who prefer the extra antenna adjustment.",
+      "bestFor": "Older Wi-Fi 5 routers in two-story or long homes.",
+      "pros": ["Three antennas for flexible aiming", "Up to 2,100 sq ft of listed coverage", "1.9 Gbps of dual-band bandwidth", "Maker cites a U.S. cybersecurity commitment"],
+      "cons": ["No Ethernet port in the listing", "Bulkier body than the plug-in AC1200 model"]
+    },
+    {
+      "i": 0,
+      "badge": "Best Value Pick",
+      "name": "TP-Link AC1200 WiFi Extender RE315",
+      "specs": ["Wi-Fi 5 AC1200", "867 Mbps on 5 GHz", "Up to 1,500 sq ft", "Two antennas"],
+      "specList": [
+        {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1200)"},
+        {"label": "5 GHz speed", "value": "867 Mbps"},
+        {"label": "Coverage", "value": "Up to 1,500 sq ft"},
+        {"label": "Smart feature", "value": "Adaptive Path Selection"}
+      ],
+      "description": "The RE315 is TP-Link's approachable AC1200 plug-in, with 867 Mbps on the 5 GHz band and a claimed 1,500 sq ft of coverage. Adaptive Path Selection chooses a better route between your router and your devices, and two adjustable external antennas help with aiming.\n\nIt works well in apartments and single-floor houses with an older router. HD streaming, browsing and calls all sit comfortably within its range. It does not provide the Wi-Fi 6 capacity or the Ethernet port found on the RE515X, so a household with many devices or a wired TV may outgrow it quickly.\n\nSetup is quick, and the antennas tilt to suit awkward outlets. Compared with the RE515X at 1,800 sq ft, the RE315 reaches 300 sq ft less and lacks the newer standard. Compared with the RE550 at 2,100 sq ft, it covers 600 sq ft less but takes less space on the wall, which is why it stays a favorite starting point.",
+      "bestFor": "Apartments and small homes with an older router.",
+      "pros": ["Dual band with 867 Mbps on 5 GHz", "Adaptive Path Selection picks a better route", "Antennas tilt for awkward outlets", "Up to 1,500 sq ft of listed coverage"],
+      "cons": ["Wi-Fi 5 caps newer devices", "No Ethernet port in the listing"]
+    },
+    {
+      "i": 3,
+      "badge": "Best Wired Entry Model",
+      "name": "TP-Link Dual Band WiFi Extender with Ethernet Port",
+      "specs": ["Dual band 5 GHz/2.4 GHz", "Up to 1,200 sq ft", "Ethernet port", "44% more than N300"],
+      "specList": [
+        {"label": "Bands", "value": "Dual band 5 GHz and 2.4 GHz"},
+        {"label": "Coverage", "value": "Up to 1,200 sq ft"},
+        {"label": "Wired port", "value": "Ethernet port"},
+        {"label": "Bandwidth gain", "value": "Up to 44% over single-band N300"}
+      ],
+      "description": "This TP-Link entry model pairs a dual-band radio with a wired LAN port. TP-Link says it offers up to 44% more bandwidth than single-band N300 extenders and covers up to 1,200 sq ft. It is the smallest coverage rating of the six.\n\nThe wired port is the reason to consider it over a plain plug. A smart TV or game console beside the extender can use a cable and avoid competing for wireless time. For a studio or a small apartment with one stubborn corner, that wired link can matter more than a bigger coverage figure.\n\nThe tradeoff is headroom. At 1,200 sq ft, it trails the RE315 by 300 sq ft and the RE550 by 900 sq ft, and the listing provides no model number to compare. Compared with the RE515X, it lacks Wi-Fi 6 but offers an equally useful port at a lower tier. Verify the listing title when you order, and place it midway to the room you want to fix.",
+      "bestFor": "Small apartments that want a cable to a TV or console.",
+      "pros": ["Ethernet port gives a TV a steady wired link", "Dual band beats single-band N300 by up to 44%", "Compact plug-in body", "Straightforward entry into the TP-Link range"],
+      "cons": ["Smallest stated coverage of the six", "Listing gives no model number to verify"]
+    }
+  ],
+  "buyingCriteria": [
+    {
+      "criterion": "Decode the AC and AX numbers",
+      "explanation": "TP-Link names its extenders by combined speed, so AC1200 means 1.2 Gbps across two bands and AX1800 means 1.8 Gbps. The X in a model like RE615X marks Wi-Fi 6, while the AC models are Wi-Fi 5. The TP-Link AX3000 at 3 Gbps leads the range, and the RE315 at 867 Mbps on 5 GHz anchors the low end. These are combined ratings, so a single phone will see less than the headline number."
+    },
+    {
+      "criterion": "Pick the generation to match your router",
+      "explanation": "A Wi-Fi 6 extender needs a Wi-Fi 6 router to shine. If your router is older, the TP-Link RE550 at 1.9 Gbps or the RE315 at 1,500 sq ft will serve you just as well and cost less. If your router is Wi-Fi 6, the RE615X at 1.8 Gbps or the AX3000 at 3 Gbps use the capacity. Look at the label on the router before ordering. If it is a TP-Link Deco or another mesh router, read the listing for add-on guidance first. Buying one tier too high wastes budget, but buying a generation too low only costs a little speed, so lean toward matching rather than leading your router."
+    },
+    {
+      "criterion": "Coverage in square feet, honestly",
+      "explanation": "Listed coverage runs from 1,200 sq ft on the Ethernet-port entry model to 2,400 sq ft on the AX3000, with the RE615X and RE550 both at 2,100 sq ft. These describe open space and shrink when walls and floors intervene. Choose by the layout of your home and not by the biggest figure. Sketch the floor plan and mark the router and the weak room; if there are more than two walls between them, add a margin. A two-story house gains most from the 2,100 sq ft pair, while a flat can stay at 1,500 sq ft."
+    },
+    {
+      "criterion": "Ethernet ports for TVs and consoles",
+      "explanation": "The RE515X and RE615X list an Ethernet port, as does the entry model at 1,200 sq ft. A cable to a smart TV or a game console removes one wireless hop and often fixes buffering that extra coverage cannot. The RE550 and RE315 listings do not mention a port. If a wired device sits close to the planned outlet, favor one of the models that have a port. A short flat cable runs neatly along a baseboard, and for a parent's living room it is a more dependable arrangement than hoping a TV holds a wireless link."
+    },
+    {
+      "criterion": "Extenders extend, they do not speed up",
+      "explanation": "TP-Link's listings for the RE500X and RE615X say plainly that extenders improve coverage and do not increase speed. A slow internet plan will stay slow, and an extender can even trim a little throughput by relaying the signal. Test speed beside the router before blaming coverage. If the number is poor there, the plan or the router is the problem."
+    },
+    {
+      "criterion": "Setup, placement and security notes",
+      "explanation": "Place the unit roughly halfway between the router and the weak area, where it still sees a good signal. The RE550 has three antennas to adjust, the AX3000 and RE615X use two directional ones, and the RE315 uses Adaptive Path Selection. TP-Link says it signs a cybersecurity commitment from CISA, which is reassuring for always-on gear. Keep the firmware updated and change default passwords during setup. Choose a password you can recall, and note it with the router's details so that a future helper does not have to reset the unit."
+    }
+  ],
+  "howWeEvaluated": [
+    {
+      "title": "Wi-Fi generation and speed",
+      "description": "We compared AC and AX ratings, from the RE315 at 867 Mbps on 5 GHz to the AX3000 at 2404 Mbps. We weighted speed against what typical home routers can deliver, so the top number earned credit only for Wi-Fi 6 households. The RE500X at 1201 Mbps on 5 GHz sits between them as a sibling of the RE515X."
+    },
+    {
+      "title": "Coverage claims",
+      "description": "We reviewed stated coverage from 1,200 sq ft on the Ethernet-port entry unit to 2,400 sq ft on the AX3000. We treated each as a best-case figure and favored models that match common layouts. The RE550 and RE615X tied at 2,100 sq ft."
+    },
+    {
+      "title": "Wired port and flexibility",
+      "description": "We noted which models list an Ethernet port, including the RE515X, RE615X and the entry unit. A wired link helps a TV or console more than extra wireless speed would. Models without a listed port lost points for households with such a device."
+    },
+    {
+      "title": "Antenna design",
+      "description": "Three adjustable antennas on the RE550, two high-gain directional antennas with beamforming on the AX3000, RE615X and RE515X, and two adjustable antennas on the RE315 each change how easily you can aim the signal. We rewarded designs that give a helper clear steps for placement."
+    },
+    {
+      "title": "Value across the range",
+      "description": "We judged how much capability each tier adds over the one below it. The RE315 leads on balance for small homes, the RE615X leads for Wi-Fi 6 with a port, and the AX3000 leads for headroom. Conclusions come from published specs and buyer feedback."
+    }
+  ],
+  "howToChoose": [
+    {
+      "subheading": "By Wi-Fi Generation",
+      "intro": "The generation of your router decides which tier makes sense.",
+      "table": {
+        "headers": ["Your router", "Pick", "Why"],
+        "rows": [
+          ["Older Wi-Fi 5, small home", "TP-Link AC1200 WiFi Extender RE315", "867 Mbps on 5 GHz and 1,500 sq ft."],
+          ["Older Wi-Fi 5, larger home", "TP-Link AC1900 WiFi Range Extender RE550", "1.9 Gbps and 2,100 sq ft."],
+          ["Wi-Fi 6, moderate home", "TP-Link RE515X AX1500 WiFi 6 Range Extender", "1.5 Gbps and 1,800 sq ft with a port."],
+          ["Wi-Fi 6, bigger home", "TP-Link RE615X AX1800 WiFi 6 Range Extender", "1.8 Gbps and 2,100 sq ft."],
+          ["Wi-Fi 6, largest home and many devices", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender", "3 Gbps and 2,400 sq ft."]
+        ]
+      },
+      "note": "If you cannot find your router's generation, look for the words Wi-Fi 6 or AX on its label or box. A router with only AC on the label is Wi-Fi 5, and the RE315 or RE550 will match it without wasted spend. When in doubt, the RE615X is a safe middle that works with either."
+    },
+    {
+      "subheading": "By Budget",
+      "intro": "Tiers are relative within the TP-Link range.",
+      "table": {
+        "headers": ["Tier", "Pick", "What you get"],
+        "rows": [
+          ["Entry", "TP-Link Dual Band WiFi Extender with Ethernet Port", "Dual band, 1,200 sq ft and a port."],
+          ["Entry to mid", "TP-Link AC1200 WiFi Extender RE315", "A dependable Wi-Fi 5 plug."],
+          ["Mid", "TP-Link RE515X AX1500 WiFi 6 Range Extender", "Wi-Fi 6 at 1,800 sq ft."],
+          ["Upper mid", "TP-Link RE615X AX1800 WiFi 6 Range Extender", "Wi-Fi 6 at 2,100 sq ft."],
+          ["Premium", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender", "The fastest and widest."]
+        ]
+      }
+    },
+    {
+      "subheading": "Wi-Fi 5 vs Wi-Fi 6 TP-Link Extenders",
+      "intro": "The two families suit different homes.",
+      "cards": [
+        {"label": "Wi-Fi 5 (AC) models", "text": "The TP-Link RE315, RE550 and the Ethernet-port entry unit cover older routers and simple needs. They usually cost less, and they pair well with devices that are not new. Pick these if your router is a few years old and you need a quick fix."},
+        {"label": "Wi-Fi 6 (AX) models", "text": "The TP-Link RE515X, RE615X and AX3000 add capacity for many devices, beamforming antennas and, on two models, an Ethernet port. They make sense when your router is Wi-Fi 6. Pick these if you are upgrading soon or already own a modern router."}
+      ]
+    },
+    {
+      "subheading": "By Home Layout",
+      "intro": "Layout drives how much reach you need.",
+      "table": {
+        "headers": ["Layout", "Pick", "Reason"],
+        "rows": [
+          ["Studio or one-bedroom", "TP-Link Dual Band WiFi Extender with Ethernet Port", "1,200 sq ft is plenty."],
+          ["Single-floor house", "TP-Link AC1200 WiFi Extender RE315", "1,500 sq ft covers the whole floor."],
+          ["Two-story home", "TP-Link RE615X AX1800 WiFi 6 Range Extender", "2,100 sq ft and Wi-Fi 6."],
+          ["Large sprawling house", "TP-Link AX3000 WiFi 6 Dual-Band Range Extender", "2,400 sq ft of listed reach."]
+        ]
+      },
+      "note": "Even the largest listed figure cannot beat a thick masonry wall or a metal-lined utility room. If the weak space sits behind such a barrier, plan to put the unit on the router side of it, and treat the RE550's three antennas as a way to fine tune the angle."
+    },
+    {
+      "subheading": "For Smart TVs Specifically",
+      "intro": "TVs work best on a steady link, ideally a wired one.",
+      "cards": [
+        {"label": "Look for", "text": "An Ethernet port so the TV can connect by cable, plus a decent 5 GHz band for the times it must use wireless. Place the extender close enough to the TV for a short cable run."},
+        {"label": "In this comparison", "text": "The TP-Link RE515X, RE615X and the entry unit with an Ethernet port all offer a LAN connection. The RE615X at 1.8 Gbps is the strongest of those, while the RE315 and RE550 rely on wireless."}
+      ]
+    },
+    {
+      "subheading": "When to Spend More",
+      "intro": "Move up a tier only for a specific reason.",
+      "table": {
+        "headers": ["Spend more if", "Save if"],
+        "rows": [
+          ["Your router is Wi-Fi 6: the TP-Link RE615X uses it.", "Your router is Wi-Fi 5: the TP-Link RE315 is enough."],
+          ["You have a very large home: the AX3000 claims 2,400 sq ft.", "You live in a flat: the Ethernet-port entry model works."],
+          ["You wire a TV or console: choose the RE515X or RE615X.", "You use wireless only: the RE550 covers more area."],
+          ["Many devices stream at once: the AX3000 at 3 Gbps has headroom.", "A few devices browse: the RE515X at 1.5 Gbps is plenty."]
+        ]
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which TP-Link extender is best for most people?",
+      "a": "For an older router and a modest home, the TP-Link RE315 is the easiest recommendation. For a Wi-Fi 6 router, the RE615X adds a LAN port and 2,100 sq ft of claimed coverage. The AX3000 only makes sense when you have a large house with many devices."
+    },
+    {
+      "q": "What does the X in RE615X mean?",
+      "a": "The X marks Wi-Fi 6, while the models without it, such as the RE315 and RE550, are Wi-Fi 5. The number after AX or AC is the combined speed rating, so AX1800 means 1.8 Gbps across two bands. These are totals, not what one device will see."
+    },
+    {
+      "q": "How is the RE500X different from the RE515X?",
+      "a": "Both are AX1500 Wi-Fi 6 extenders with 1.5 Gbps total bandwidth, and the RE500X lists up to 1201 Mbps on 5 GHz and 300 Mbps on 2.4 GHz. They are close siblings, so choose whichever matches your listing and port needs. The RE515X listing mentions an Ethernet port and 1,800 sq ft."
+    },
+    {
+      "q": "Will a TP-Link extender make my internet faster?",
+      "a": "No. TP-Link states that its extenders improve coverage and do not increase speed. A far room can finally reach your connection, but the plan's speed stays the same. If speeds are poor beside the router, contact your provider."
+    },
+    {
+      "q": "Where should I plug in the extender?",
+      "a": "Put it about halfway between the router and the dead zone, in a spot where the signal is still good. A unit inside the dead zone only repeats a weak signal. Try one outlet, check the status light, and move closer to the router if the link is poor."
+    },
+    {
+      "q": "Is mesh better than a TP-Link extender?",
+      "a": "Mesh is better when several rooms have dead spots, because it replaces coverage across the whole house with one network. An extender suits one or two weak areas. If your router is already a TP-Link Deco, check which add-on units work with it before buying a standalone extender."
+    },
+    {
+      "q": "Do I need an Ethernet port?",
+      "a": "Only if a device near the extender works better on a cable, such as a smart TV, game console or desktop computer. The RE515X, RE615X and the entry unit with an Ethernet port can supply that. If everything is wireless, the RE315 or RE550 is simpler and covers just as much."
+    }
+  ]
+}

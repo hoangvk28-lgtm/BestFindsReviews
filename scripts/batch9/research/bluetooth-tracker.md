@@ -1,0 +1,15 @@
+# Seed: bluetooth tracker
+- Bluetooth trackers ring when near and report location through a crowd network when far.
+- Apple Find My network is the largest; Find My trackers work with iPhone only and need no subscription.
+- Android users should look for Find Hub (Google) compatible trackers; many listings are iOS only.
+- Tile works on both Android and iPhone through its own app and network, now tied to Life360.
+- Some trackers certify for only one network; a tag cannot pair with both Find My and Find Hub at once.
+- Replaceable coin-cell batteries last about a year and keep the tag going; sealed batteries last 2 to 3 years then the tag is replaced.
+- Bluetooth range is limited (roughly 100 to 400 ft depending on model and walls); far finding relies on nearby phones.
+- Speaker loudness and IP rating matter: IP67 handles splashes and brief immersion.
+- Unwanted tracking alerts exist on phones for certified trackers; they protect privacy.
+- Slim card trackers suit wallets; keyring tags suit keys and bags.
+- Multi-packs lower the per-tag cost and cover keys, wallet, bag, remote.
+- Unbranded tags often reuse the Find My platform; check for the Works with Apple Find My certification.
+- Ring the tag from the app; some can also ring the phone from the tag.
+- Trackers locate items, they do not prevent theft or serve as real-time GPS.

@@ -1,0 +1,373 @@
+{
+ "guideTitle": "6 Best Bluetooth Trackers for Wallets in 2026",
+ "metaTitle": "Best Bluetooth Trackers for Wallets (2026)",
+ "metaDescription": "Six slim wallet tracker cards compared on thickness, ring volume, charging and phone support, so you can pick a card that fits your wallet and your phone.",
+ "introParagraphs": [
+  "A wallet is the one item you cannot easily replace in an afternoon, and it is also the item that slides under a car seat or into a coat you forgot you owned. A wallet tracker is built differently from a keychain tag: it is a flat card that sits with your other cards, so thickness and charging matter more than a keyring hole.",
+  "We evaluated six cards based on product specs and buyer feedback, comparing thickness, ring volume, how long a charge lasts and which phone network each one needs. Three work with either Apple Find My or Google Find Hub, one is Apple only, one runs on Tile's own app, and one lists a very long sealed battery life.",
+  "Check the thickness and the charging method first, because a card that bulges the wallet or needs a pad you do not own gets left behind."
+ ],
+ "products": [
+  {
+   "i": 8,
+   "badge": "Best Overall Wallet Card",
+   "name": "UQO Wallet Tracker Card, Find My or Find Hub",
+   "specs": [
+    "Apple Find My or Google Find Hub",
+    "85.6 x 54 x 2.85 mm, 13.6 g",
+    "85 dB+ ringer",
+    "Qi charging, 2 to 3 months",
+    "Separation alerts"
+   ],
+   "specList": [
+    {"label": "Networks", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Size", "value": "85.6 x 54 x 2.85 mm"},
+    {"label": "Weight", "value": "13.6 g"},
+    {"label": "Sound", "value": "85 dB+"},
+    {"label": "Battery", "value": "About 1 hour charges 2 to 3 months"}
+   ],
+   "description": "The UQO card is the best all-rounder because it matches a standard credit card footprint and works on either phone network. The listing gives exact numbers: 85.6 x 54 x 2.85 mm and 13.6 g, so it fits most wallets, card holders and passport sleeves. It pairs through Apple Find My as an Other Supported Item or through the Google Find Hub prompt, with no separate UQO app or subscription.\n\nPower is rechargeable on any compatible Qi pad. About 1 hour of charging buys roughly 2 to 3 months, and an orange or green light shows charging or full. The ringer is rated 85 dB or more, separation alerts are available, and Lost Mode and sharing are supported. The tradeoff is the frequent top up, since 2 to 3 months is shorter than some rivals.\n\nIf you already own a Qi pad the routine is painless. Compared with the Spotminders PRO at up to 8 months per charge it needs charging more often, but it works on Android too, which the Spotminders does not. Against the Ridge at 95 dB it is a little quieter.",
+   "bestFor": "Anyone who wants a credit card sized tracker that works on iPhone or Android.",
+   "pros": [
+    "Works with Apple Find My or Google Find Hub, so either phone is covered",
+    "Credit card footprint at 2.85 mm and 13.6 g fits most wallet slots",
+    "About 1 hour on a Qi pad gives 2 to 3 months of use per the listing",
+    "Separation alerts, Lost Mode and sharing are all supported in the app"
+   ],
+   "cons": [
+    "Needs a charge every 2 to 3 months, more often than some rivals do",
+    "At 85 dB or more it is quieter than the Ridge's 95 dB or KIUP's 120 dB",
+    "Requires a Qi wireless pad, which is not stated as being in the box"
+   ]
+  },
+  {
+   "i": 9,
+   "badge": "Best Battery per Charge",
+   "name": "Spotminders Wallet Tracker PRO, Apple MFi Certified",
+   "specs": [
+    "Apple Find My, iOS only",
+    "100 dB speaker",
+    "Up to 8 months per charge",
+    "IP68, 0.07 in thin",
+    "Left-behind alerts"
+   ],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My (iOS only)"},
+    {"label": "Certification", "value": "Apple MFi"},
+    {"label": "Sound", "value": "100 dB"},
+    {"label": "Battery", "value": "Up to 8 months per charge"},
+    {"label": "Thickness", "value": "0.07 in"}
+   ],
+   "description": "The Spotminders PRO is the card for iPhone owners who hate charging. The listing says one wireless charge delivers up to 8 months of use, and that the card is designed to last over 5 years. It is Apple MFi certified, pairs in one tap with the Find My app, and you can ask Siri to find your wallet or play a sound. The card is described as 0.07 in thin and looks like a regular credit card.\n\nA 100 dB speaker and left-behind alerts handle the lost-in-a-restaurant case, and the IP68 rating covers splashes and spills. The listing also mentions a Bluetooth range, but the figure is cut off, so we do not quote one. The tradeoff is platform lock, since an Android phone cannot use it, and charging needs a wireless pad.\n\nOwnership is simple once it is in the card slot. At up to 8 months it outlasts the UQO at 2 to 3 months and the Ridge at 5 months. At 100 dB it rings louder than the UQO at 85 dB, though the KIUP lists 120 dB for Android users who need more.",
+   "bestFor": "iPhone owners who want the longest stated time between charges and a loud ring.",
+   "pros": [
+    "Listing states up to 8 months per charge, the longest rechargeable claim",
+    "Apple MFi certified with one tap pairing and Siri support for finding",
+    "A 100 dB speaker is louder than the UQO's 85 dB and the Ridge's 95 dB",
+    "IP68 protection and left-behind alerts guard against spills and taxis"
+   ],
+   "cons": [
+    "Apple Find My only, so Android owners cannot use this card at all",
+    "Needs a wireless charging pad, so plan for one before you buy it",
+    "The Bluetooth range figure in the listing is cut off, so it is unknown"
+   ]
+  },
+  {
+   "i": 7,
+   "badge": "Best for Cash Strap Wallets",
+   "name": "Ridge Tracker Card, Find My and Find Hub",
+   "specs": [
+    "Apple Find My or Google Find Hub",
+    "95 dB locator ringer",
+    "300 ft (90 m) range",
+    "155 mAh, up to 5 months",
+    "IP68 rated"
+   ],
+   "specList": [
+    {"label": "Networks", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Sound", "value": "Up to 95 dB"},
+    {"label": "Range", "value": "Up to 300 ft (90 m)"},
+    {"label": "Battery", "value": "155 mAh, up to 5 months"},
+    {"label": "Water rating", "value": "IP68"}
+   ],
+   "description": "The Ridge card comes from a wallet maker, and it shows in how the listing describes placement. It works with Apple Find My or Google Find Hub, so one product serves iPhone and Android owners. The ringer reaches 95 dB with up to 300 ft (90 m) of range, and the listing suggests placing the card under a cash strap or money clip for the best performance. In open areas it carries well.\n\nA 155 mAh battery charges through any Qi or MagSafe charger and lasts up to 5 months, with no replacement needed. IP68 covers splashes and spills, proximity alerts warn you when the wallet moves out of range, and Siri can find it on iPhone. The tradeoff is placement: the note about the cash strap implies a thick stack of cards can dull the signal.\n\nIt suits minimalist wallets best. Next to the UQO at 2 to 3 months it holds a charge longer, and it rings louder than the UQO at 85 dB. The Spotminders PRO outlasts it at 8 months and rings at 100 dB, but that card works only on iPhone.",
+   "bestFor": "Cash strap or money clip wallet users who may switch between iPhone and Android.",
+   "pros": [
+    "Lists 95 dB and 300 ft (90 m) range, strong numbers for a slim card",
+    "Charges on any Qi or MagSafe pad and runs up to 5 months per charge",
+    "Works on Apple Find My or Google Find Hub, so either phone is fine",
+    "IP68 rating and proximity alerts help in spills and busy places"
+   ],
+   "cons": [
+    "Best signal needs placement under a cash strap, not buried in cards",
+    "5 months per charge trails the Spotminders PRO's 8 months by a lot",
+    "Needs a Qi or MagSafe charger, with no charger stated in the box"
+   ]
+  },
+  {
+   "i": 15,
+   "badge": "Best Warranty Pick",
+   "name": "Chipolo CARD Rechargeable Wallet Tracker",
+   "specs": [
+    "Apple Find My or Google Find Hub",
+    "Qi magnetic charging",
+    "Up to 1 year per charge",
+    "2-year warranty",
+    "Slim wallet shape"
+   ],
+   "specList": [
+    {"label": "Networks", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Battery", "value": "Rechargeable, up to 1 year"},
+    {"label": "Charging", "value": "Qi magnetic, not included"},
+    {"label": "Warranty", "value": "2 years"},
+    {"label": "Use", "value": "Wallet, passport pouch, ID"}
+   ],
+   "description": "The Chipolo CARD is the quiet, dependable choice among the wallet trackers. Its streamlined slim design suits a wallet, passport pouch or ID holder, and it works with Apple Find My or Google Find Hub, so Android owners are covered. You ring it from the app when it is hidden nearby, or look it up on a map using the global network when it is far away.\n\nThe headline number is the battery. It charges on a Qi magnetic wireless charger and the listing says it lasts up to 1 year per charge, the longest rechargeable claim among the dual network cards here. The listing states clearly that the charger is not included, so you must supply one. Chipolo also offers a 2-year warranty with free replacement through the Amazon seller.\n\nThe listing gives no thickness, ring volume or water rating, so we avoid guessing. Compared with the UQO at 2 to 3 months per charge, the Chipolo goes far longer between top ups. Against the Spotminders PRO at 8 months it lasts longer still, though the Spotminders lists 100 dB and IP68 where the Chipolo is silent.",
+   "bestFor": "People who want the fewest charges and the reassurance of a 2-year warranty.",
+   "pros": [
+    "Lists up to 1 year per charge, the fewest top ups among dual network cards",
+    "Works with Apple Find My or Google Find Hub, so any phone is supported",
+    "A 2-year warranty with free replacement through the Amazon seller",
+    "Slim design suits wallets, passport pouches and ID holders alike"
+   ],
+   "cons": [
+    "The Qi magnetic charger is not included, so you must supply one",
+    "No thickness, ring volume or water rating is given in the listing",
+    "Only the CARD shape is offered, so it will not clip onto a keyring"
+   ]
+  },
+  {
+   "i": 0,
+   "badge": "Best for Families on Any Phone",
+   "name": "Life360 Tile Slim Wallet Tracker, iOS and Android",
+   "specs": [
+    "Works with iOS and Android",
+    "Tile's thinnest tracker",
+    "Rings your phone too",
+    "Discreet SOS alert",
+    "Life360 family map"
+   ],
+   "specList": [
+    {"label": "Compatibility", "value": "iOS and Android"},
+    {"label": "Form", "value": "Tile's thinnest tracker"},
+    {"label": "Find phone", "value": "Rings even when silenced"},
+    {"label": "Safety", "value": "Discreet SOS alert"},
+    {"label": "App", "value": "Free Tile app and Life360"}
+   ],
+   "description": "The Tile Slim is Tile's thinnest tracker, meant for wallets, passports and luggage tags. It works through the free Tile app on both iPhone and Android, so a mixed household can use one app. You can ring the card from the app or track it on a map. Press the tag to ring your phone, even when the phone is silenced.\n\nTwo extras set it apart from the Find My cards: a discreet SOS alert can message your loved ones, and the card can be added to the Life360 app so things and people show on one family map. The tradeoff is that it runs on Tile's own network rather than Apple or Google, and the listing gives no thickness, battery, volume or water rating. The SOS and map features also need family on Life360.\n\nIt is the easy gift for a family with different phones. Compared with the UQO and Ridge, which use Apple or Google networks, the Tile uses its own crowd. Against the Spotminders PRO at 100 dB it offers fewer published specs but covers Android, which the Spotminders does not.",
+   "bestFor": "Families on different phones who want one app and a discreet SOS option.",
+   "pros": [
+    "One free app works for both iPhone and Android users in a household",
+    "Press the card to ring your phone, even when the phone is silenced",
+    "Discreet SOS alert can notify loved ones in an unsafe situation",
+    "Can be added to Life360 so cards and family share one map view"
+   ],
+   "cons": [
+    "Runs on Tile's own network rather than Apple Find My or Google Find Hub",
+    "Listing gives no thickness, battery, volume or water rating figures",
+    "SOS and shared map only help when family members also use Life360"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best Long-Life Sealed Card",
+   "name": "KIUP Wallet Tracker Card 0.06in Slim",
+   "specs": [
+    "Apple Find My and Google Find Hub",
+    "0.06 in slim card",
+    "120 dB speaker",
+    "5 to 10 years of battery",
+    "IP68 with UWB distance"
+   ],
+   "specList": [
+    {"label": "Networks", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Thickness", "value": "0.06 in"},
+    {"label": "Sound", "value": "Up to 120 dB"},
+    {"label": "Battery", "value": "5 to 10 years claimed"},
+    {"label": "Water rating", "value": "IP68"}
+   ],
+   "description": "The KIUP card is the thinnest and loudest on paper. The listing describes a 0.06 in slim card with a speaker up to 120 dB, which is louder than any rechargeable card here. It works with both Google Find Hub and Apple Find My, and the listing adds UWB distance display within Bluetooth range. It is IP68 rated against rain and splashes.\n\nThe unusual claim is the battery: the listing says 5 to 10 years of life on Android and iOS, with no charging mentioned. That removes the pad entirely, but it is a manufacturer claim we cannot verify, and a sealed card means you replace the whole tag when the cell is spent. The listing notes it is not for GPS or Huawei phones, so check your handset.\n\nOwnership is the easiest of the group if the claim holds, since there is no pad to buy. At 120 dB it outshouts the Ridge at 95 dB and the Spotminders PRO at 100 dB. Compared with the Chipolo CARD at up to 1 year per charge, the KIUP promises far longer, but the Chipolo adds a 2-year warranty that the KIUP listing does not mention.",
+   "bestFor": "Buyers who want no charging pad, a loud ring and a very slim card.",
+   "pros": [
+    "Listing quotes a 120 dB speaker, louder than any other card in this group",
+    "At 0.06 in thin it slips into a wallet slot with almost no bulk added",
+    "A claimed 5 to 10 years of battery avoids charging pads and cables",
+    "Works with Apple Find My and Google Find Hub, plus IP68 protection"
+   ],
+   "cons": [
+    "The 5 to 10 year battery claim is unverified and the cell is sealed",
+    "Not compatible with GPS tracking or Huawei phones, per the listing",
+    "No warranty is mentioned in the listing, unlike the Chipolo CARD"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Thin enough for your wallet",
+   "explanation": "A wallet tracker that bulges your pocket gets left at home. The KIUP lists 0.06 in, the Spotminders PRO 0.07 in, and the UQO gives 2.85 mm at 13.6 g on a standard 85.6 x 54 mm card footprint. Slim wallets and card holders with a single slot are the real test. Compare thickness against your thickest existing card, and remember that a bill fold adds bulk of its own."
+  },
+  {
+   "criterion": "Charging routine you will keep",
+   "explanation": "Most cards recharge on a Qi pad, and the gap between charges varies widely. The UQO lists 2 to 3 months, the Ridge up to 5 months, the Spotminders PRO up to 8 months and the Chipolo CARD up to 1 year. The KIUP claims 5 to 10 years sealed, with no charging at all. Pick the cycle you will remember, and confirm you own the pad, since the Chipolo lists its charger as not included."
+  },
+  {
+   "criterion": "Which phone network",
+   "explanation": "Apple Find My works only with iPhones, and Google Find Hub works only with Android. The UQO, Ridge, Chipolo CARD and KIUP support either, chosen when you pair, while the Spotminders PRO is Apple only and the Tile uses its own network. A single card joins only one network at a time. If the household might switch phones, a dual network card keeps your options open."
+  },
+  {
+   "criterion": "Ring volume inside a bag",
+   "explanation": "A wallet is often buried under coats, and a thin card has a small speaker. The KIUP lists up to 120 dB, the Spotminders PRO 100 dB, the Ridge 95 dB and the UQO 85 dB or more. The Tile and Chipolo CARD listings give no figure. Quieter cards still work in a car or a quiet room, but a loud one helps in a noisy house."
+  },
+  {
+   "criterion": "Placement inside the wallet",
+   "explanation": "Metal clips, thick stacks of cards and cash straps can dull a small antenna. The Ridge listing says to place the card under the cash strap or money clip for the best performance. Keep the card near the outside of a stack where possible and test the ring once after you load the wallet. A card that rings clearly on a table may sound muffled in a full wallet."
+  },
+  {
+   "criterion": "Water rating and warranty",
+   "explanation": "Wallets get rained on and sit in pockets with drinks. The UQO lists none, but the Spotminders PRO, Ridge and KIUP list IP68, which the listings describe as handling splashes and spills. The Chipolo CARD instead lists a 2-year warranty with free replacement through the seller. Where a card gives neither, plan on keeping it in a dry pocket."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Thickness and fit",
+   "description": "We checked how closely each card matches a real credit card. The UQO gives exact figures of 85.6 x 54 x 2.85 mm and 13.6 g, the KIUP lists 0.06 in and the Spotminders PRO 0.07 in. Cards with stated dimensions earned more trust than those with only a word like slim."
+  },
+  {
+   "title": "Charging and battery life",
+   "description": "We compared how long a charge is claimed to last and how it is topped up. The Chipolo CARD claims up to 1 year, the Spotminders PRO up to 8 months, the Ridge up to 5 months, and the UQO 2 to 3 months from about an hour on a Qi pad. We treated the KIUP's 5 to 10 years as a claim, not a fact."
+  },
+  {
+   "title": "Ring volume and range",
+   "description": "We looked at how each card helps you find it close by. The KIUP lists up to 120 dB, the Spotminders PRO 100 dB, the Ridge 95 dB with a 300 ft range, and the UQO 85 dB or more. These are manufacturer claims, so we used them to rank cards against each other rather than as absolutes."
+  },
+  {
+   "title": "Phone network support",
+   "description": "We checked which phones can actually use each card. The UQO, Ridge, Chipolo CARD and KIUP support Apple Find My or Google Find Hub, the Spotminders PRO is Apple only, and the Tile Slim runs on its own app. Clear, stated support counted heavily because a wrong network makes a card useless."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "We placed each card by what it does best, not by popularity. The UQO leads on balanced fit and dual network support, the Spotminders PRO on charge interval for iPhone, the Ridge on range and cash strap use, the Chipolo CARD on warranty, the Tile Slim on family tools and the KIUP on volume and thinness."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Phone Type",
+   "intro": "Your phone decides which cards will work before anything else.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["iPhone only, want longest charge gap", "Spotminders Wallet Tracker PRO, Apple MFi Certified", "Lists up to 8 months per charge and 100 dB."],
+     ["Android phone", "KIUP Wallet Tracker Card 0.06in Slim", "Works with Google Find Hub and lists up to 120 dB."],
+     ["Either phone, balanced card", "UQO Wallet Tracker Card, Find My or Find Hub", "Exact 2.85 mm size and both networks."],
+     ["Phone might change soon", "Ridge Tracker Card, Find My and Find Hub", "One card works on Apple or Google networks."],
+     ["Family on different brands", "Life360 Tile Slim Wallet Tracker, iOS and Android", "Free Tile app runs on every phone."]
+    ]
+   },
+   "note": "A card pairs with only one network at a time, so decide before setup."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Think in tiers, since pack and listing details vary.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Life360 Tile Slim Wallet Tracker, iOS and Android", "A single slim card for any phone with a free app."],
+     ["Entry to mid", "KIUP Wallet Tracker Card 0.06in Slim", "A 120 dB card claiming 5 to 10 years of battery."],
+     ["Mid", "UQO Wallet Tracker Card, Find My or Find Hub", "A credit card sized card for 2 to 3 months per charge."],
+     ["Mid to premium", "Ridge Tracker Card, Find My and Find Hub", "A 95 dB, 300 ft card from a wallet brand."],
+     ["Premium", "Spotminders Wallet Tracker PRO, Apple MFi Certified", "Up to 8 months per charge for iPhone owners."]
+    ]
+   },
+   "note": "The Chipolo CARD fits the mid tier and adds a 2-year warranty."
+  },
+  {
+   "subheading": "Rechargeable vs Long-Life Sealed",
+   "intro": "How the battery is handled decides whether a pad belongs in your routine.",
+   "cards": [
+    {
+     "label": "Rechargeable on a Qi pad",
+     "text": "These cards top up wirelessly and last from 2 to 3 months on the UQO to up to 1 year on the Chipolo CARD. The Ridge gives up to 5 months and the Spotminders PRO up to 8 months. Choose this side if you already own a Qi or MagSafe pad and will remember a reminder."
+    },
+    {
+     "label": "Long-life sealed",
+     "text": "The KIUP claims 5 to 10 years with no charging, which removes a chore but is an unverified manufacturer claim, and the whole card is replaced when the cell dies. Choose this side if you never want to touch a pad and accept the risk."
+    }
+   ],
+   "note": "Pick the routine you are most likely to keep."
+  },
+  {
+   "subheading": "By Wallet Style",
+   "intro": "How you carry cards decides how loud and how slim the tracker should be.",
+   "table": {
+    "headers": ["Wallet style", "Pick", "Why"],
+    "rows": [
+     ["Cash strap or money clip", "Ridge Tracker Card, Find My and Find Hub", "The listing says to place it under the strap."],
+     ["Slim minimalist wallet", "KIUP Wallet Tracker Card 0.06in Slim", "At 0.06 in it adds almost no bulk."],
+     ["Standard bifold with many slots", "UQO Wallet Tracker Card, Find My or Find Hub", "Matches the 85.6 x 54 mm card footprint."],
+     ["Passport pouch for travel", "Chipolo CARD Rechargeable Wallet Tracker", "Suits passport pouches and has a 2-year warranty."],
+     ["Wallet shared with kids or a partner", "Life360 Tile Slim Wallet Tracker, iOS and Android", "Adds to a Life360 family map."]
+    ]
+   },
+   "note": "Test the ring once after loading the wallet to check for muffling."
+  },
+  {
+   "subheading": "For Everyday Wallets Specifically",
+   "intro": "A daily-carry wallet works hard, so durability and charging matter most.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a card around 3 mm or thinner, a published IP68 rating and a charge gap you can live with. Confirm that the network matches your phone. Skip cards that give no thickness at all unless a warranty backs them."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The UQO gives the clearest numbers at 2.85 mm and 13.6 g. The Ridge adds IP68 and 95 dB, and the Spotminders PRO adds IP68 and 100 dB for iPhone. The Chipolo CARD covers the person who wants a 2-year warranty and up to 1 year per charge."
+    }
+   ],
+   "note": "A card in the wallet is useless if the wallet itself stays on the table, so pair it with a habit."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Pay up only where a feature solves a problem you have.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You hate charging, choose the Spotminders PRO at up to 8 months or the Chipolo CARD at up to 1 year.", "You already keep a Qi pad nearby, so the UQO at 2 to 3 months is fine."],
+     ["You lose a wallet in noisy places, choose the KIUP at 120 dB.", "Your wallet usually hides in a quiet home, where the UQO at 85 dB is enough."],
+     ["You carry a cash strap wallet, choose the Ridge at 95 dB and 300 ft.", "You use a plain slim wallet, so the Life360 Tile Slim covers it."],
+     ["You want a warranty, choose the Chipolo CARD with 2 years of cover.", "You will replace the card yourself, so the KIUP's sealed design is fine."]
+    ]
+   },
+   "note": "The best wallet tracker is the one that ends up in the wallet."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which wallet tracker is best for most people?",
+   "a": "The UQO card is the best all-round pick because it works with Apple Find My or Google Find Hub and gives exact figures of 2.85 mm and 13.6 g. iPhone owners who hate charging may prefer the Spotminders PRO at up to 8 months. Families on mixed phones can use the Life360 Tile Slim."
+  },
+  {
+   "q": "Will a wallet tracker fit with all my cards?",
+   "a": "Usually yes, but thickness decides. The UQO lists 2.85 mm, the Spotminders PRO 0.07 in and the KIUP 0.06 in. A standard bifold with several cards adds up quickly, so measure the thickest slot and add the card thickness. Test the wallet closed before relying on it for a trip."
+  },
+  {
+   "q": "Do wallet trackers need a subscription?",
+   "a": "The cards here that use Apple Find My or Google Find Hub, including the UQO, Ridge and Spotminders PRO, are described without a monthly plan. The Tile and Life360 apps may offer optional paid extras. Check the app before buying, because we only know what the listings state."
+  },
+  {
+   "q": "Is a wallet tracker the same as GPS?",
+   "a": "No, and this is the most common misconception. These cards use Bluetooth to ring nearby and depend on passing phones to report their last location. If no compatible phone passes by, the position can be old. They help you recover a wallet, not stop theft."
+  },
+  {
+   "q": "How often will I need to charge it?",
+   "a": "It depends on the model. The UQO lists 2 to 3 months from about an hour on a Qi pad, the Ridge up to 5 months, the Spotminders PRO up to 8 months and the Chipolo CARD up to 1 year. Set a reminder, and test the ring when you charge to confirm the card is healthy."
+  },
+  {
+   "q": "Can metal or cash dull the signal?",
+   "a": "It can. The Ridge listing advises placing the card under the cash strap or money clip for best performance, which hints that thick stacks and clips may affect a slim antenna. Keep the card toward the outside of a stack where you can, and test the ring after you load the wallet."
+  },
+  {
+   "q": "Can a tracker be used to follow me without my knowing?",
+   "a": "Certified trackers are designed so phones warn you about an unknown tracker traveling with you, which is a privacy safeguard. If you see an alert, follow the prompts on your phone. Never place a card in another person's wallet or bag without their consent."
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "guideTitle": "6 Best Bluetooth Trackers for Android in 2026",
+ "metaTitle": "Best Bluetooth Trackers for Android (2026)",
+ "metaDescription": "Six Bluetooth trackers for Android compared on Find Hub support, ring volume, battery life and size, so you can pick a tag that suits your phone and keys.",
+ "introParagraphs": [
+  "An Android phone changes which tracker you should buy, because the big crowd network behind it is Google's Find Hub, formerly called Find My Device. A tag that only speaks Apple's language will sit in a drawer, and plenty of listings are written for iPhone first. The good news is that Find Hub tags need no subscription and no second app.",
+  "We evaluated six trackers based on product specs and buyer feedback, sorting them by which network they use, how loud they ring, how the battery works and what shape they take. Four are built for Android and Google Find Hub alone, one pairs with either Apple or Google networks, and one runs on its own Tile network for every phone.",
+  "Start with the compatibility notes, since that decides what will work at all, then use the tables to settle on battery style, pack size and the item you lose most."
+ ],
+ "products": [
+  {
+   "i": 7,
+   "badge": "Best Overall for Android",
+   "name": "Lifemate Air Tracker Tags for Android",
+   "specs": [
+    "Google Find Hub, Android 9+",
+    "Up to 120 dB sound",
+    "150 m Bluetooth range",
+    "Dust and water resistant",
+    "No subscription fee"
+   ],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Phone support", "value": "Android 9 or later"},
+    {"label": "Sound", "value": "Up to 120 dB"},
+    {"label": "Bluetooth range", "value": "150 m (500 ft)"},
+    {"label": "Water test", "value": "30 minutes at 3 ft"}
+   ],
+   "description": "The Lifemate Air Tracker is the clearest Android-first tag in this group. It works through the Google Find My Device app, now called Find Hub, on phones running Android 9 or later, so there is no extra app to install. The listing quotes a sound as loud as 120 dB and a Bluetooth range of 150 m (500 ft), the strongest figures here. Away from home, the hundreds of millions of Android devices in the Find Hub network can update its location.\n\nIt is built for everyday splashes: the listing calls it dust-resistant and says it survives up to 30 minutes underwater at 3 ft. The tradeoff is that it is Android only, so an iPhone cannot use it, and the listing names no battery type or battery life. A household with mixed phones needs a different tag.\n\nSetup is a pairing prompt in the app, after which you ring it from your phone or by voice. At 120 dB it is louder than the XJQX pair at 105 dB, and its 500 ft range is longer than the 350 ft quoted for the XJQX. Unlike the XJQX bundle, the listing mentions no cases or spare batteries.",
+   "bestFor": "Android owners who want the loudest ring and longest range from a simple Find Hub tag.",
+   "pros": [
+    "Listing quotes a sound as loud as 120 dB for hunting under couch cushions",
+    "Works through Google Find Hub on Android 9 or later with no extra app",
+    "Bluetooth range of 150 m (500 ft) is the longest stated in this group",
+    "Survives 30 minutes underwater at 3 ft according to the listing"
+   ],
+   "cons": [
+    "Android only, so an iPhone cannot pair with this tag at all, ever",
+    "Listing gives no battery type or battery life to plan swaps around",
+    "No cases or spare batteries are mentioned for attaching to keys"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best Simple Single Tag",
+   "name": "MiLi Air Tracker Tags for Android, 1 Pack",
+   "specs": [
+    "Android 9+, Google Find Hub",
+    "150 m Bluetooth range",
+    "Rings by voice command",
+    "CR2032, up to 1 year",
+    "IP67 waterproof"
+   ],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Phone support", "value": "Android 9 or later"},
+    {"label": "Bluetooth range", "value": "150 m (500 ft)"},
+    {"label": "Battery", "value": "CR2032, up to 1 year"},
+    {"label": "Water rating", "value": "IP67"}
+   ],
+   "description": "The MiLi Air Tracker is a one-pack tag aimed squarely at Android owners. It connects to the Google Find Hub network and the listing says it supports Android 9 and above, with no iOS support. Within a Bluetooth range of 150 m (500 ft) you can trigger a loud sound from the app or by voice command. Outside that range, nearby Android devices in the network update its last detected location.\n\nPrivacy is a selling point: the listing describes the network as encrypted and anonymous and says location history is not stored on the tracker. Power comes from a CR2032 coin cell that the listing says lasts up to 1 year, depending on temperature and use, and the tag is rated IP67. The catch is a yearly battery chore and no decibel figure on the listing.\n\nSetup follows the usual Find Hub pairing prompt, and swapping the coin cell is the only upkeep. Against the Lifemate it matches the 150 m range but states no volume, while its IP67 rating is a firm number where the Lifemate gives a 30 minute, 3 ft claim. Compared with the XJQX pair, which lists more than 2 years per CR2032, the MiLi asks for battery changes more often on paper.",
+   "bestFor": "Android owners who want one plain tag with a clear IP67 rating and voice ringing.",
+   "pros": [
+    "Rings by app or voice command within a 150 m (500 ft) Bluetooth range",
+    "Listing states IP67 water and dust protection, a firm and checkable rating",
+    "Uses a replaceable CR2032 cell rated for up to 1 year per battery",
+    "Location history is not stored on the tag, per the listing's privacy note"
+   ],
+   "cons": [
+    "Android only, with no support for iPhone or iPad owners at all",
+    "No decibel figure is given, so loudness is hard to compare with others",
+    "About 1 year per coin cell means a yearly swap, the shortest here"
+   ]
+  },
+  {
+   "i": 2,
+   "badge": "Best Two-Pack Bundle",
+   "name": "XJQX 2-Pack Bluetooth Tracker Tags for Android",
+   "specs": [
+    "2 tags, black and white",
+    "105 dB alarm",
+    "350 ft Bluetooth range",
+    "4 CR2032 cells in the box",
+    "2 silicone key cases"
+   ],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Pack", "value": "2 tags, black and white"},
+    {"label": "Alarm", "value": "105 dB"},
+    {"label": "Bluetooth range", "value": "350 ft"},
+    {"label": "Batteries", "value": "2 installed, 2 spare CR2032"}
+   ],
+   "description": "The XJQX pack is the bundle for couples and roommates. It includes one black and one white tag so each person can tell theirs apart, plus two silicone cases with keyring loops. The tags pair with Google Find Hub through the Find My Device app, and the listing says there is no subscription or extra app. A 105 dB alarm and a 350 ft Bluetooth range handle the nearby search.\n\nBatteries are generous: two CR2032 cells come pre-installed and two spares are in the box, and the listing says each cell gives more than 2 years. That is the longest stated life among the coin cell tags here. The tradeoff is that the listing is written for Android and Google Find Hub only, and the 105 dB figure is a manufacturer claim.\n\nThe cases mean you can clip a tag onto keys, a bag or a pet collar right away. Compared with the Lifemate at 120 dB it is quieter, but it ships two tags with spare cells while the MiLi comes as a single tag at about 1 year per cell. For a household with two Android users it is the most ready-to-use box in this lineup.",
+   "bestFor": "Two Android users who want matching tags, cases and spare batteries in one box.",
+   "pros": [
+    "Black and white tags let two people tell their own trackers apart",
+    "Two spare CR2032 cells are included with the two installed ones",
+    "Listing states more than 2 years per battery, the longest coin cell life",
+    "Silicone cases with keyring loops are in the box for keys or collars"
+   ],
+   "cons": [
+    "The 105 dB alarm is quieter than the Lifemate at up to 120 dB",
+    "Listing targets Android and Google Find Hub only, so no iPhone support",
+    "Loudness and battery life are manufacturer claims, not independent data"
+   ]
+  },
+  {
+   "i": 8,
+   "badge": "Best for Mixed Households",
+   "name": "UGREEN Finder Duo Air Tracker Tags 4 Pack",
+   "specs": [
+    "Find My or Find Hub",
+    "4 tags in the pack",
+    "365 days per charge",
+    "USB-C rechargeable",
+    "Lost Mode and alerts"
+   ],
+   "specList": [
+    {"label": "Networks", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Pack", "value": "4 tags"},
+    {"label": "Battery", "value": "Rechargeable, 365 days"},
+    {"label": "Charging", "value": "USB-C"},
+    {"label": "Privacy", "value": "End-to-end encryption"}
+   ],
+   "description": "The UGREEN Finder Duo is the four-pack that lets an Android phone and an iPhone share a household. Each tag pairs with either Apple Find My or the Google Find Hub app, and the listing says it is certified by both Apple and Google. One tag still joins only one network at a time.\n\nPower is rechargeable: a USB-C port charges the sealed cell, and the listing says a charge lasts 365 days. That removes coin cells but adds a yearly charging task. Lost alerts send a last known location when a tag moves out of range, Lost Mode lets you leave contact details for a finder, and the privacy claim is end-to-end encryption. The listing gives no ring volume or water rating, so those are unknowns.\n\nFour tags cover keys, a bag, a backpack and a spare for a partner. Compared with the XJQX pair, you get two more tags and USB-C charging instead of coin cells, but no stated decibel level. Against the Lifemate's 120 dB it is a flexibility pick, not a loudness pick.",
+   "bestFor": "Families with both Android and iPhone users who want four rechargeable tags.",
+   "pros": [
+    "Pairs with Apple Find My or Google Find Hub, so any phone in a home works",
+    "USB-C charging means no coin cells to buy, with 365 days per charge",
+    "Four tags in one box cover keys, bags and a spare for a partner",
+    "Out of range alerts and Lost Mode add safety nets beyond a plain ring"
+   ],
+   "cons": [
+    "Each tag still joins only one network, so you must choose at setup",
+    "Sealed rechargeable cell needs a yearly charge and cannot be swapped",
+    "Listing gives no ring volume or water rating to compare with others"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Best Wallet Card for Android",
+   "name": "Ajblg Wallet Tracker Card 2 Pack for Android",
+   "specs": [
+    "Android 9+, Google Find Hub",
+    "80 to 100 dB buzzer",
+    "IP68 waterproof",
+    "Ultra thin card shape",
+    "2 cards in the pack"
+   ],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Phone support", "value": "Android 9 or later, not iOS"},
+    {"label": "Buzzer", "value": "80 to 100 dB"},
+    {"label": "Water rating", "value": "IP68"},
+    {"label": "Pack", "value": "2 cards"}
+   ],
+   "description": "The Ajblg card is a slim tracker for wallets, passports and luggage tags. It connects directly to Google Find Hub, and the listing says it needs Android 9 or later and does not work with iOS. A built-in buzzer of 80 to 100 dB handles close range searches in sofa gaps and drawers. Data is described as moving over encrypted anonymous networks with no location history stored.\n\nThe card is rated IP68, which the listing says handles rain splashes and brief submersion. Pairing is a quick step in the Find Hub app. The tradeoff is the lowest stated volume here, and the listing gives no battery type or battery life, so we cannot say how long it runs or whether it can be replaced.\n\nA card shape does not hang from a keyring, so treat it as a second tag rather than a replacement for a key fob. Compared with the Lifemate at 120 dB, its 80 to 100 dB is clearly quieter, but a wallet is a smaller space to search. Next to the MiLi at IP67, the Ajblg lists a higher IP68 rating.",
+   "bestFor": "Android users who lose a wallet or passport more often than their keys.",
+   "pros": [
+    "Ultra thin card shape slides into a wallet, passport holder or luggage tag",
+    "Listing states an IP68 rating, higher than the IP67 on the MiLi",
+    "Buzzer of 80 to 100 dB helps with drawers, bags and sofa gaps",
+    "Two cards in the pack cover a wallet plus a passport pouch at once"
+   ],
+   "cons": [
+    "Quietest stated sound in this group, well below the Lifemate's 120 dB",
+    "Listing gives no battery type or life, so upkeep is unclear to us",
+    "Android only and no keyring hole, so it cannot replace a key tag"
+   ]
+  },
+  {
+   "i": 1,
+   "badge": "Best Cross-Phone Option",
+   "name": "Life360 Tile Bluetooth Tracker, iOS and Android",
+   "specs": [
+    "Works with iOS and Android",
+    "Rings your phone too",
+    "Discreet SOS alert",
+    "Life360 family map",
+    "Free Tile app"
+   ],
+   "specList": [
+    {"label": "Compatibility", "value": "iOS and Android"},
+    {"label": "Network", "value": "Tile app and network"},
+    {"label": "Find phone", "value": "Rings even when silenced"},
+    {"label": "Safety", "value": "Discreet SOS alert"},
+    {"label": "Pack", "value": "1-pack (black)"}
+   ],
+   "description": "The Life360 Tile is the pick when family members use different phone brands. It runs through its own free app and network rather than Google Find Hub, so it works on Android and iPhone alike. You can ring the tag from the app, or press it to ring your phone even when the phone is silenced.\n\nExtras set it apart: a discreet SOS alert can notify loved ones, and Tiles can be added to the Life360 app to show things and people on one map. The tradeoff is that the Tile network is a separate crowd from Android's Find Hub network, which matters when a tag is far away, and the listing gives no battery type, range, water rating or volume. The SOS and map features also depend on family members using Life360.\n\nSetup is an app download and a pairing step. Compared with the UGREEN Finder Duo, which also works on both phone types but through Apple and Google networks, the Tile uses its own network and sells here as a single tag. Against the Lifemate it offers less data on volume and range but more family tools, so it suits a mixed household more than a solo Android user.",
+   "bestFor": "Families mixing Android and iPhone who want one app and a safety alert.",
+   "pros": [
+    "One free app works for Android and iPhone users in the same family",
+    "Press the tag to ring your phone, even when the phone is silenced",
+    "Discreet SOS alert can notify loved ones when someone feels unsafe",
+    "Add tags to the Life360 app to see things and people on one map"
+   ],
+   "cons": [
+    "Runs on the Tile network instead of Google Find Hub's Android crowd",
+    "Listing gives no battery, range, water rating or loudness figures",
+    "SOS and map extras only help if family members also use Life360"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Check Find Hub support first",
+   "explanation": "Android phones use Google's Find Hub network, so a tag must say it works with Find Hub or Find My Device. Many listings are iPhone only, and a tag can only join one network at a time. The Lifemate, MiLi, XJQX and Ajblg are Android and Find Hub only, while the UGREEN Finder Duo lets you choose Find My or Find Hub. Check that your phone runs Android 9 or later, the floor named on the Lifemate, MiLi and Ajblg listings."
+  },
+  {
+   "criterion": "Ring volume you can hear",
+   "explanation": "A tag you cannot hear under a cushion only helps with the map. Stated figures are manufacturer claims, but they rank the tags usefully: the Lifemate lists up to 120 dB, the XJQX 105 dB and the Ajblg 80 to 100 dB. The MiLi, UGREEN Finder Duo and Tile give no decibel number. If your hearing is weaker in high pitches, lean toward the loudest tag."
+  },
+  {
+   "criterion": "Coin cell or rechargeable",
+   "explanation": "Coin cells are cheap and swappable, while rechargeable tags need a cable once a year. The MiLi lists a CR2032 lasting up to 1 year, the XJQX lists more than 2 years per cell with spares included, and the UGREEN Finder Duo lists 365 days per USB-C charge. Pick the chore you will actually do. A yearly phone reminder works for any of them."
+  },
+  {
+   "criterion": "Shape that fits the item",
+   "explanation": "A round tag belongs on a keyring and a card belongs in a wallet. The XJQX includes two silicone cases with keyring loops, so it clips onto keys, bags or collars straight away. The Ajblg card is thin enough for a wallet or passport but cannot hang from keys. Buy the shape for the thing you lose most, then add a second tag for the rest."
+  },
+  {
+   "criterion": "Water and dust protection",
+   "explanation": "Keys and bags get rained on, so a published rating is worth having. The Ajblg lists IP68 and the MiLi lists IP67, which the listings describe as handling splashes and brief submersion. The Lifemate gives a different test, 30 minutes underwater at 3 ft. The XJQX, UGREEN Finder Duo and Tile list no rating, so keep those in a pocket or bag."
+  },
+  {
+   "criterion": "Range and the Find Hub crowd",
+   "explanation": "Bluetooth only reaches so far, then the Find Hub crowd of passing Android devices reports a last known location. The Lifemate and MiLi both list 150 m (500 ft) and the XJQX lists 350 ft. Far finding works best in busy areas and can be stale in empty ones. Treat any tag as a locator, not live GPS."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Android network support",
+   "description": "We first checked which tags clearly work with Google Find Hub and which Android versions they name. The Lifemate, MiLi and Ajblg list Android 9 or later, while the UGREEN Finder Duo adds Apple Find My. A clear, stated compatibility line earned the most weight because the wrong network makes a tag useless."
+  },
+  {
+   "title": "Ring volume and range",
+   "description": "We compared the loudness and Bluetooth reach each listing states. The Lifemate leads with up to 120 dB and 150 m, the XJQX offers 105 dB and 350 ft, and the Ajblg gives 80 to 100 dB. These are manufacturer claims, so we balanced them against buyer feedback and treated them as relative."
+  },
+  {
+   "title": "Battery design",
+   "description": "We looked at battery type and stated life as written. The XJQX lists more than 2 years per CR2032 with spares, the MiLi lists up to 1 year, and the UGREEN Finder Duo lists 365 days per USB-C charge. Where a listing was silent, as with the Lifemate, Ajblg and Tile, we did not assume a figure."
+  },
+  {
+   "title": "Form, durability and extras",
+   "description": "We considered whether the shape suits the job and what is in the box. The Ajblg is wallet thin at IP68, the MiLi lists IP67, and the XJQX bundles cases and spare cells. Stated ratings and included accessories counted for more than general claims of toughness."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "We placed each pick by what it does best here, not by popularity. The Lifemate leads on volume and range, the MiLi on a simple IP67 single tag, the XJQX on bundle value, the UGREEN Finder Duo on dual network flexibility, the Ajblg on wallet fit and the Tile on cross-phone family tools."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Phone Setup",
+   "intro": "Your household's phones decide which tags can work at all.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["Only Android phones, want the loudest tag", "Lifemate Air Tracker Tags for Android", "Lists up to 120 dB and 150 m on Google Find Hub."],
+     ["Android phone, want a plain single tag", "MiLi Air Tracker Tags for Android, 1 Pack", "Voice ringing, IP67 and one CR2032 for up to 1 year."],
+     ["Two Android users sharing a purchase", "XJQX 2-Pack Bluetooth Tracker Tags for Android", "Two tags, two cases and four CR2032 cells in the box."],
+     ["Android and iPhone in one home", "UGREEN Finder Duo Air Tracker Tags 4 Pack", "Each tag joins Apple Find My or Google Find Hub."],
+     ["Family on different phone brands, want SOS", "Life360 Tile Bluetooth Tracker, iOS and Android", "One free app runs on both phone types."]
+    ]
+   },
+   "note": "If you may switch phones later, the UGREEN Finder Duo is the least likely to be stranded."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Think in tiers based on how many tags you need and which extras you will use.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "MiLi Air Tracker Tags for Android, 1 Pack", "One IP67 Find Hub tag with a CR2032 for up to 1 year."],
+     ["Entry", "Ajblg Wallet Tracker Card 2 Pack for Android", "Two IP68 cards with an 80 to 100 dB buzzer."],
+     ["Mid", "Lifemate Air Tracker Tags for Android", "The loudest listing at up to 120 dB and 150 m range."],
+     ["Mid", "XJQX 2-Pack Bluetooth Tracker Tags for Android", "Two tags with 105 dB, cases and spare cells."],
+     ["Premium", "UGREEN Finder Duo Air Tracker Tags 4 Pack", "Four rechargeable tags at 365 days per charge."]
+    ]
+   },
+   "note": "Tiers are relative, because pack sizes differ between listings."
+  },
+  {
+   "subheading": "Android Only vs Both Phone Types",
+   "intro": "A tag locked to Google Find Hub is simple, while a dual network tag trades simplicity for flexibility.",
+   "cards": [
+    {
+     "label": "Android only, Google Find Hub",
+     "text": "These tags use the Android crowd and need no second app. The Lifemate, MiLi, XJQX and Ajblg all fall here, and the XJQX adds two cases and four CR2032 cells. Choose this side if every phone in the home runs Android 9 or later."
+    },
+    {
+     "label": "Works on both phone types",
+     "text": "The UGREEN Finder Duo pairs with Apple Find My or Google Find Hub, and the Life360 Tile runs on its own network for any phone. Each costs you either a rechargeable sealed cell or a different crowd network. Choose this side if an iPhone user will ever hold the tag."
+    }
+   ],
+   "note": "Android-only households get the most volume and range from the first group."
+  },
+  {
+   "subheading": "By Item You Track",
+   "intro": "What you lose most decides the shape and toughness you need.",
+   "table": {
+    "headers": ["Item", "Pick", "Why"],
+    "rows": [
+     ["House and car keys", "XJQX 2-Pack Bluetooth Tracker Tags for Android", "Included silicone cases have keyring loops."],
+     ["Wallet or passport", "Ajblg Wallet Tracker Card 2 Pack for Android", "Thin IP68 card slides in with the cards."],
+     ["Bag left in a noisy room", "Lifemate Air Tracker Tags for Android", "Up to 120 dB cuts through background noise."],
+     ["Backpack in the rain", "MiLi Air Tracker Tags for Android, 1 Pack", "Listing states IP67 water and dust protection."],
+     ["Family bags and keys together", "UGREEN Finder Duo Air Tracker Tags 4 Pack", "Four tags with Lost Mode and out of range alerts."]
+    ]
+   },
+   "note": "Trackers find objects. Do not rely on one for a person's safety."
+  },
+  {
+   "subheading": "For Keys and Wallets Specifically",
+   "intro": "Keys and wallets are the most lost items, and each wants a different shape.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "For keys, look for a keyring loop and a loud ring. For a wallet, look for a flat card body and a published water rating. Confirm that the tag names Google Find Hub and Android 9 or later."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The XJQX covers keys with 105 dB and silicone cases, and the Lifemate adds up to 120 dB. The Ajblg Wallet Tracker Card covers wallets with IP68 and an 80 to 100 dB buzzer. The UGREEN Finder Duo can do both if you want four tags in one box."
+    }
+   ],
+   "note": "Many people end up with a XJQX tag on keys and an Ajblg card in the wallet."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Pay up only when a feature fixes a problem you actually have.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You search noisy rooms, choose the Lifemate at up to 120 dB.", "Your home is small and quiet, so the MiLi will do."],
+     ["You have an iPhone user at home, choose the UGREEN Finder Duo.", "Everyone uses Android, so the XJQX pair covers it."],
+     ["You hate buying coin cells, choose the UGREEN Finder Duo at 365 days per charge.", "You are happy swapping a CR2032, as on the MiLi or XJQX."],
+     ["You want family SOS and a shared map, choose the Life360 Tile.", "You only need a ring, where the Ajblg card is enough."]
+    ]
+   },
+   "note": "A tag you remember to attach beats an expensive one left in a drawer."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which Bluetooth tracker is best for an Android phone?",
+   "a": "For most Android owners the Lifemate Air Tracker is the strongest all-round pick because it works with Google Find Hub and lists up to 120 dB and 150 m of range. The MiLi suits people who want a single IP67 tag. If an iPhone user lives in the house, the UGREEN Finder Duo is the safer buy."
+  },
+  {
+   "q": "Do Android trackers need a subscription?",
+   "a": "The Find Hub tags here, including the Lifemate, MiLi and XJQX, are described without a subscription or extra app. Locations come through the Google Find My Device app on your phone. Check the app for optional extras before buying, since we only know what the listings state."
+  },
+  {
+   "q": "Can I use an Apple AirTag with Android?",
+   "a": "No, and this is a common misconception. Apple's AirTag is built around the Find My network and needs an iPhone, so it will not work as a full tracker on Android. Pick a Find Hub tag, or a dual network tag like the UGREEN Finder Duo, if you want the Android side to work."
+  },
+  {
+   "q": "Do I have to change the battery?",
+   "a": "It depends on the design. The MiLi lists a CR2032 lasting up to 1 year, the XJQX lists more than 2 years per cell with two spares in the box, and the UGREEN Finder Duo recharges over USB-C every 365 days. Set a yearly reminder and test the ring when you swap or charge a tag."
+  },
+  {
+   "q": "Is a Bluetooth tracker the same as GPS?",
+   "a": "No. These tags ring over Bluetooth when nearby and rely on passing Android phones in the Find Hub network to report where they last were. If no compatible phone walks by, the location can be old. They suit keys, wallets and bags, not live tracking."
+  },
+  {
+   "q": "Will it work with older Android phones?",
+   "a": "The Lifemate, MiLi and Ajblg listings name Android 9 or later as the minimum. A phone older than that may not run the Find Hub app properly. Check your Settings for the Android version before buying, and keep Bluetooth and location services switched on."
+  },
+  {
+   "q": "Can a tag be used to follow me without my knowing?",
+   "a": "Certified tags are designed so phones can warn you about an unknown tracker traveling with you, which is a privacy safeguard. If you see an unknown tracker alert, follow the prompts on your phone. Never place a tag on another person or their property without their consent."
+  }
+ ]
+}

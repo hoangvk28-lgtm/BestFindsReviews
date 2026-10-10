@@ -1,0 +1,217 @@
+{
+ "guideTitle": "6 Best Smart Plugs for Google Home in 2026",
+ "metaTitle": "Best Smart Plugs for Google Home in 2026",
+ "metaDescription": "Six smart plugs that work with Google Home, compared on setup, Matter support, apps and scheduling, so you can pick one that is easy to live with.",
+ "introParagraphs": [
+  "If your home already runs on Google Assistant or a Nest speaker, a smart plug is one of the simplest ways to get started. You plug a lamp or fan into the plug, link the plug to Google Home, and then say a short phrase or tap a button on your phone. The catch is that not every plug links to Google the same way, and the differences show up during setup rather than on the box.",
+  "Some plugs, such as the Kasa models, use their own app and then connect to Google in a second step. Others, like the EIGHTREE, route through the Smart Life app first. A Matter plug such as the Tapo Mini can be added to Google Home more directly and can keep working on your local network when the internet drops. We looked at how each of these paths feels for someone who wants things to just work.",
+  "We evaluated six plugs based on product specs and buyer feedback, weighing setup effort, app quality, scheduling tools and pack size. None of them need a hub, and all of them use the common 15A rating. The picks below cover a Matter plug, two Kasa options and three value choices."
+ ],
+ "products": [
+  {
+   "i": 8,
+   "badge": "Best Overall",
+   "name": "Tapo Matter Smart Plug Mini",
+   "specs": ["Matter certified", "15A / 1800W max", "Local network control", "Works with Google Home"],
+   "specList": [
+    {"label": "Load rating", "value": "15A / 1800W max"},
+    {"label": "Standard", "value": "Matter"},
+    {"label": "Platforms", "value": "Apple Home, Google Home and others"},
+    {"label": "Design", "value": "Compact mini body"}
+   ],
+   "description": "The Tapo Matter Smart Plug Mini is the pick for anyone who wants a plug that is less tied to one company. Matter lets it work with certified platforms, so Google Home, Apple Home and others can all control it. The compact body is rated for 15A and 1800W, which is the standard ceiling for plug-in smart devices.\n\nMatter also changes what happens when the internet fails. Certified devices on the same network can keep talking to each other directly, so a lamp can still respond even if your connection is down. The product details frame this as a future-proofing benefit, because Matter devices should keep working as platforms update. The trade-off is that Matter setup uses a code or QR scan, which is a few more steps than a plug that links through a single app.\n\nIn ownership, the mini body is meant to leave the second outlet free on a wall duplex, which matters in rooms with limited sockets. Compared with the Kasa Smart Plug Ultra Mini at 15A, the Tapo gives you broader platform support and local control, while the Kasa leans on a mature single app. We rank it first because it is the least likely plug here to feel stuck if you ever switch from Google to another system."
+   ,
+   "bestFor": "Someone who wants Google Home now and the freedom to change platforms later.",
+   "pros": ["Matter support works across Google, Apple and others", "Can keep local control when the internet drops", "Compact body leaves the second outlet usable", "15A and 1800W rating covers lamps and fans"],
+   "cons": ["Matter setup takes a few more steps than app-only plugs", "Energy data may need the brand app, not Google"]
+  },
+  {
+   "i": 4,
+   "badge": "Best 4-Pack Value",
+   "name": "Kasa Smart Plug HS103P4",
+   "specs": ["4 plugs in the box", "Touch actuator", "No hub required", "Alexa and Google Home"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Load rating", "value": "15A"},
+    {"label": "Hub", "value": "Not required"},
+    {"label": "Controls", "value": "Touch actuator on the plug"}
+   ],
+   "description": "The Kasa HS103P4 is a four-pack of Wi-Fi plugs built for people who want several rooms covered without juggling brands. Each plug has a touch actuator, which means you can switch it on or off with your finger when your phone is across the room. No hub is needed, and the Kasa app handles timers, countdowns and control from anywhere.\n\nThe Kasa app is the main reason this plug has a loyal following. Setup requires the Kasa app, after which you link the plug to Google Home from the Google side. That is two steps instead of one, but the app is straightforward and the schedules are easy to build. The weak point is that this model is Wi-Fi only, so it lacks the Matter local control of the Tapo Matter Smart Plug Mini.\n\nDay to day, the touch button is the feature that sets this plug apart from the others. A person who does not want to use a phone can press the plug itself, and a family member visiting can understand it at once. Compared with the EIGHTREE four-pack, which sends you through the Smart Life app, the Kasa path is more direct and better documented. It is the plug we would hand to a relative who wants four rooms working this week."
+   ,
+   "bestFor": "Households that want four plugs, a polished app and a physical button on each one.",
+   "pros": ["Touch actuator allows manual switching at the plug", "Four plugs cover several rooms in one box", "Kasa app makes timers and countdowns easy", "No hub needed for Google Home control"],
+   "cons": ["Wi-Fi only, no Matter local control", "Requires two apps during setup, Kasa then Google Home"]
+  },
+  {
+   "i": 7,
+   "badge": "Best Compact Kasa",
+   "name": "Kasa Smart Plug Ultra Mini 15A",
+   "specs": ["15A rating", "2.4GHz Wi-Fi", "Kasa app required", "Timers and countdowns"],
+   "specList": [
+    {"label": "Load rating", "value": "15A"},
+    {"label": "Wi-Fi band", "value": "2.4GHz only"},
+    {"label": "App", "value": "Kasa app required"},
+    {"label": "Scheduling", "value": "Timer and countdown"}
+   ],
+   "description": "The Kasa Smart Plug Ultra Mini trims the plug down to a smaller body while keeping the 15A rating. It works with Alexa and Google Home voice assistants, and it uses the Kasa app for setup and scheduling. The product notes say a 2.4GHz Wi-Fi connection is required, which is worth checking against your router before you start.\n\nSetup is described as simple: plug it in, open the app and follow the instructions. Scheduling covers both timers and countdowns, which lets you run a lamp on a routine or turn a fan off after a set number of minutes. There is no hub, and the body is slim enough to avoid blocking the neighboring socket in many cases.\n\nThe main limitation is that it is a plain Wi-Fi plug without Matter, so it will not offer the local control of the Tapo Matter Smart Plug Mini at 1800W. It also lacks the touch actuator on the Kasa Smart Plug HS103P4, so you rely on the app or voice for control. We think it is a good fit for a lamp or a fan in a room where outlet space is tight. Buyers who already like the Kasa app will find the experience familiar."
+   ,
+   "bestFor": "Small rooms where a slim plug and the Kasa app matter more than Matter.",
+   "pros": ["Slim body helps leave the neighboring socket free", "Timers and countdowns are simple to set", "Works with Alexa and Google Home voice control", "Setup is guided through the Kasa app"],
+   "cons": ["Needs 2.4GHz Wi-Fi, so 5GHz-only setups will fail", "No touch button like the HS103P4 model"]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Groups and Schedules",
+   "name": "Govee Smart Plug 4-Pack",
+   "specs": ["4 plugs in the box", "WiFi and Bluetooth", "Group controller", "Custom schedules"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Connectivity", "value": "WiFi and Bluetooth"},
+    {"label": "Voice", "value": "Alexa and Google Assistant"},
+    {"label": "Features", "value": "Schedules and group controller"}
+   ],
+   "description": "The Govee four-pack combines Wi-Fi and Bluetooth, which the maker says is faster and more stable than plugs that rely on Wi-Fi alone. Bluetooth can help during pairing, and it gives you a way to reach the plug when your home network is being difficult. The listing mentions that the plugs work with Alexa and Google Assistant, so voice commands are covered.\n\nScheduling and grouping are the headline features. You can create customized schedules to turn appliances on and off automatically, and the group controller lets you bundle several plugs so one command changes a whole set of lamps. That gives it more organizational tools than a basic plug, though you also take on a bit more to learn in the Govee Home app.\n\nOwnership is mostly about deciding how to group things. Compared with the Kasa Smart Plug Ultra Mini, the Govee gives you groups and Bluetooth, while the Kasa is simpler and has a smaller body. Compared with the EIGHTREE four-pack, the Govee uses its own app instead of the Smart Life route. Choose it when you plan to run several lamps from one tap and want a more hands-on automation tool."
+   ,
+   "bestFor": "People who want to control several lamps together and set custom schedules.",
+   "pros": ["Group controller switches several plugs with one tap", "Bluetooth plus Wi-Fi helps with pairing", "Four plugs in the box cover multiple rooms", "Custom schedules save repeated manual switching"],
+   "cons": ["Govee Home app has more options to learn", "Not a Matter plug, so no local-only control"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Budget Multi-Pack",
+   "name": "EIGHTREE Smart Plug 4-Pack",
+   "specs": ["4 plugs in the box", "15A rating", "Smart Life app", "Bluetooth-assisted setup"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Load rating", "value": "15A"},
+    {"label": "App", "value": "Smart Life"},
+    {"label": "Voice", "value": "Alexa and Google Home"}
+   ],
+   "description": "The EIGHTREE is a four-pack with a 15A rating that works with Alexa and Google Home. It is controlled through the Smart Life app, and the listing is open about the fact that voice control requires setting up the plug in that app first. Once the plug is connected, you add it as a third-party service in Google Home or Alexa, using the Me and Third-Party path described in the product notes.\n\nThe Bluetooth detail is a handy simplification. When you open the Smart Life app, your phone can find the plug automatically, which spares you the usual pairing dance. After that the experience is the typical Wi-Fi plug: schedules, voice commands and app control.\n\nThe cost of that extra step is some confusion, especially for a first-time user. Compared with the Kasa Smart Plug HS103P4, the EIGHTREE sends you through a generic app that many brands share, rather than a dedicated brand app. Plugs that depend on a shared cloud service also depend on that service staying online. It is a workable budget option, but you should be comfortable with a few extra steps to link Google."
+   ,
+   "bestFor": "Buyers who want four plugs at a modest tier and do not mind a two-stage setup.",
+   "pros": ["Four plugs in one pack for multi-room use", "15A rating suits lamps, fans and small devices", "Phone Bluetooth can find the plug during setup", "Works with both Alexa and Google Home"],
+   "cons": ["Google linking happens inside the Smart Life app", "Shared white-label app depends on cloud service"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Simple Timer Plug",
+   "name": "GHome Smart Plug Mini",
+   "specs": ["2.4GHz Wi-Fi", "Bluetooth assisted", "Schedules and auto-off", "Alexa and Google Home"],
+   "specList": [
+    {"label": "Wi-Fi band", "value": "2.4GHz only"},
+    {"label": "Connectivity", "value": "WiFi and Bluetooth"},
+    {"label": "Features", "value": "Schedules and auto-off timer"},
+    {"label": "Voice", "value": "Alexa and Google Home"}
+   ],
+   "description": "The GHome Smart Plug Mini is a straightforward timer outlet with app control and voice assistant support. It runs on 2.4GHz Wi-Fi and uses Bluetooth to speed up the connection, which the listing says makes it more stable. Voice control works with Alexa and Google Home, so a short phrase can switch a lamp.\n\nThe feature that stands out is the pairing of schedules with an auto-off timer. You can set routines that run in a fixed pattern, repeat on certain days or occur randomly to simulate occupancy. That makes it useful for a lamp that you want to come on in the evening or for a fan that should shut off on its own.\n\nIn ownership terms, it is the simplest plug here for a person who mostly wants schedules. Compared with the Govee Smart Plug 4-Pack, the GHome offers fewer group tools but a lighter setup. Compared with the Tapo Matter Smart Plug Mini, it lacks Matter and local control. It is a sensible pick for one or two lamps when you want automation without a large system."
+   ,
+   "bestFor": "Someone who mainly wants a lamp or fan to follow a schedule or shut off on a timer.",
+   "pros": ["Schedules can repeat or run randomly for lived-in looks", "Auto-off timer shuts a device down on its own", "Bluetooth plus Wi-Fi helps keep connection steady", "Voice control works with Alexa and Google Home"],
+   "cons": ["Fewer grouping tools than the Govee four-pack", "No Matter support or local control"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "How it links to Google", "explanation": "Some plugs link to Google Home in one step, while others need their own app first. The Kasa Smart Plug HS103P4 and Kasa Smart Plug Ultra Mini 15A use the Kasa app and then connect to Google, and the EIGHTREE Smart Plug 4-Pack requires the Smart Life app before you add it as a third-party service. The Tapo Matter Smart Plug Mini uses Matter, which is designed for direct cross-platform pairing. If you dislike installing extra apps, prefer Matter or a brand with a clear guided setup."},
+  {"criterion": "Matter and local control", "explanation": "Matter certification means a plug can work across Google Home, Apple Home and other platforms, and it can keep working on your local network if the internet drops. The Tapo Matter Smart Plug Mini is the only Matter plug in this lineup. Plugs without Matter, such as the Govee Smart Plug 4-Pack, depend on a cloud connection for remote and voice control. If you care about reliability during outages, Matter is the strongest reason to pay for it."},
+  {"criterion": "2.4GHz Wi-Fi requirement", "explanation": "Nearly all smart plugs connect only to the 2.4GHz band, and a phone that is on 5GHz can fail during setup. The Kasa Smart Plug Ultra Mini 15A and the GHome Smart Plug Mini both specify 2.4GHz. Before you start, check that your router broadcasts a 2.4GHz network, or temporarily switch your phone to it. Bluetooth-assisted pairing, as on the Govee and GHome plugs, can make this step less painful."},
+  {"criterion": "Pack size and plug count", "explanation": "Multi-packs lower the cost per plug but only help if you will use them. The Kasa Smart Plug HS103P4, Govee Smart Plug 4-Pack and EIGHTREE Smart Plug 4-Pack each include four plugs, which covers a lamp in every main room. A single plug such as the GHome Smart Plug Mini is easier to start with if you only want one automated lamp. Count the devices you will actually plug in before choosing a bundle."},
+  {"criterion": "Physical control on the plug", "explanation": "A button on the plug lets anyone switch the device without a phone. The Kasa Smart Plug HS103P4 has a touch actuator, which suits households where not everyone uses an app. Slim plugs like the Kasa Ultra Mini rely on voice or app control. If a spouse, parent or visitor needs to turn the lamp off, prefer a plug with a visible manual button."},
+  {"criterion": "Scheduling and automation tools", "explanation": "Basic plugs offer simple on and off, while better ones add timers, countdowns and groups. The GHome Smart Plug Mini pairs schedules with an auto-off timer, and the Govee Smart Plug 4-Pack adds a group controller for several plugs. The Kasa plugs offer timers and countdowns in a clean app. Decide whether you want a lamp to follow a routine or only respond to your voice, and choose the tool set that matches."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Google Home setup path", "description": "We looked at how many steps each plug requires before it appears in Google Home. The Tapo Matter Smart Plug Mini uses a Matter scan, the Kasa plugs link from their own app, and the EIGHTREE goes through Smart Life. Fewer separate apps and clearer instructions earned a higher score for this category."},
+  {"title": "Platform flexibility", "description": "Plugs were compared on whether they stay useful if you leave Google Home. Matter support gave the Tapo Matter Smart Plug Mini the lead here, while Wi-Fi only plugs such as the Kasa Smart Plug Ultra Mini 15A scored lower. This category rewards plugs that will not trap you in one ecosystem."},
+  {"title": "Scheduling and app quality", "description": "We reviewed the timer, countdown, group and schedule tools described for each plug. The Govee Smart Plug 4-Pack leads on grouping, the GHome Smart Plug Mini on schedules with an auto-off timer, and the Kasa plugs on a clean, familiar app. Buyer feedback about app stability informed the final scores."},
+  {"title": "Physical design and control", "description": "This category considered body size, outlet blocking and any manual control. The Kasa Smart Plug HS103P4 has a touch actuator, and the slim Kasa Smart Plug Ultra Mini 15A is built to leave the neighboring socket usable. Plugs with no manual button scored lower for shared households."},
+  {"title": "Value and pack size", "description": "We compared what each box includes, from single plugs to the four-packs from Kasa, Govee and EIGHTREE. A bigger pack scored well only if the setup quality matched. Value here means getting the right number of plugs without unnecessary complexity."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Setup Preference",
+   "intro": "How you want to set the plug up matters more than the spec sheet.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["You want the least locked-in plug", "Tapo Matter Smart Plug Mini", "Matter works across Google, Apple and others"],
+     ["You want a polished brand app", "Kasa Smart Plug HS103P4", "Kasa app with timers and a touch button"],
+     ["You want a slim plug with a simple app", "Kasa Smart Plug Ultra Mini 15A", "Compact body and guided setup"],
+     ["You like Bluetooth-assisted pairing", "Govee Smart Plug 4-Pack", "WiFi plus Bluetooth for easier connection"],
+     ["You just want a timer", "GHome Smart Plug Mini", "Schedules and an auto-off timer"]
+    ]
+   },
+   "note": "If an app feels like a chore, choose a plug with a clear guided setup."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Think about cost in tiers instead of exact amounts, since prices move.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "EIGHTREE Smart Plug 4-Pack", "Four plugs at 15A through Smart Life"],
+     ["Entry", "GHome Smart Plug Mini", "A simple timer plug with Bluetooth help"],
+     ["Mid", "Govee Smart Plug 4-Pack", "Four plugs with groups and schedules"],
+     ["Mid", "Kasa Smart Plug Ultra Mini 15A", "Slim body and the Kasa app"],
+     ["Premium", "Tapo Matter Smart Plug Mini", "Matter support and local control"]
+    ]
+   },
+   "note": "A Matter plug costs more but can outlast a change of smart home platform."
+  },
+  {
+   "subheading": "Matter vs Wi-Fi Only",
+   "intro": "The biggest technical difference in this lineup is whether a plug uses Matter or a brand cloud.",
+   "cards": [
+    {"label": "Matter plugs", "text": "A Matter plug joins your network using the shared standard, so Google Home can control it directly and it can keep working locally when the internet is down. The Tapo Matter Smart Plug Mini is the pick here, and it is rated at 15A and 1800W. Setup uses a code or QR scan, which is a couple more steps. Choose Matter if you might change platforms or you value outage resilience."},
+    {"label": "Wi-Fi only plugs", "text": "These plugs use a brand app and a cloud connection, then link to Google as a service. The Kasa Smart Plug HS103P4, Kasa Smart Plug Ultra Mini 15A, Govee Smart Plug 4-Pack, EIGHTREE Smart Plug 4-Pack and GHome Smart Plug Mini all work this way. They are usually easy to use but depend on the brand staying online. Choose these if you want a proven app and a lower tier."}
+   ],
+   "note": "Matter is better insurance, Wi-Fi only is usually simpler on day one."
+  },
+  {
+   "subheading": "By Number of Plugs",
+   "intro": "The size of the box often decides the best pick.",
+   "table": {
+    "headers": ["Need", "Pick", "Reason"],
+    "rows": [
+     ["One lamp only", "GHome Smart Plug Mini", "Single plug with schedules and an auto-off timer"],
+     ["One or two lamps, future-proof", "Tapo Matter Smart Plug Mini", "Matter support and a compact body"],
+     ["Four rooms, easiest app", "Kasa Smart Plug HS103P4", "Four plugs and a touch button on each"],
+     ["Four plugs with grouping", "Govee Smart Plug 4-Pack", "Group controller for sets of lamps"],
+     ["Four plugs, lowest tier", "EIGHTREE Smart Plug 4-Pack", "Four plugs through Smart Life"]
+    ]
+   },
+   "note": "Buy the pack size you will really use."
+  },
+  {
+   "subheading": "For Voice Control Specifically",
+   "intro": "Google Assistant voice control is the reason most people buy these plugs.",
+   "cards": [
+    {"label": "Look for", "text": "Choose a plug whose listing names Google Home or Google Assistant, and give each plug a short, clear name such as Living Room Lamp. Check that your phone is on 2.4GHz during setup. A plug with a clear, guided linking process, such as the Kasa models, will avoid frustration."},
+    {"label": "In this comparison", "text": "The Tapo Matter Smart Plug Mini offers the most direct Google pairing through Matter. The Kasa Smart Plug HS103P4 and Kasa Smart Plug Ultra Mini 15A link from the Kasa app in two steps. The Govee Smart Plug 4-Pack, GHome Smart Plug Mini and EIGHTREE Smart Plug 4-Pack all list both Alexa and Google voice support."}
+   ],
+   "note": "Short, distinct names make voice commands more reliable."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A higher tier only pays off when the extra features match your home.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You may change platforms, which favors the Tapo Matter Smart Plug Mini", "You are committed to Google, so a Kasa plug is enough"],
+     ["You want a touch button, as on the Kasa Smart Plug HS103P4", "Everyone in the home uses voice or an app"],
+     ["You want grouped control, as with the Govee Smart Plug 4-Pack", "You only run one lamp on the GHome Smart Plug Mini"],
+     ["You want a dedicated brand app, as Kasa provides", "You are fine with Smart Life on the EIGHTREE Smart Plug 4-Pack"]
+    ]
+   },
+   "note": "Pay for features you will use, not for ones that look good on the box."
+  }
+ ],
+ "faq": [
+  {"q": "Do I need a hub to use a smart plug with Google Home?", "a": "None of the plugs here require a hub. The Kasa Smart Plug HS103P4 states no hub is required, and the others connect over Wi-Fi directly. The Tapo Matter Smart Plug Mini uses Matter, which works over your existing network. A Google speaker or display makes voice control easier but is not needed for app control."},
+  {"q": "Why does setup keep failing on my phone?", "a": "The most common cause is a phone on the 5GHz Wi-Fi band while the plug supports only 2.4GHz. The Kasa Smart Plug Ultra Mini 15A and GHome Smart Plug Mini both specify 2.4GHz. Switch your phone to the 2.4GHz network during setup, then switch back afterward. Bluetooth-assisted plugs can sometimes pair more smoothly."},
+  {"q": "Is a Matter plug worth it for Google Home?", "a": "It is worth it if you might change platforms, or if you want the plug to keep working locally when the internet goes out. The Tapo Matter Smart Plug Mini is the Matter option here, rated for 15A and 1800W. If you are happy with Google and a brand app, a Kasa plug will be simpler. Matter is insurance, not a necessity."},
+  {"q": "Can a smart plug turn on any appliance?", "a": "Only devices with a physical on switch that is left in the on position will work. An appliance that needs a button press after power returns will not restart on its own. Check the 15A rating on each plug before connecting anything heavy. Avoid heat-producing loads such as space heaters unless the rating clearly covers them."},
+  {"q": "Will the plug stop working if the brand shuts down its service?", "a": "Plugs that rely on a cloud account can lose remote control if the maker ends the service. White-label plugs that route through a shared app, such as the EIGHTREE Smart Plug 4-Pack, carry that risk. Matter plugs like the Tapo Matter Smart Plug Mini can keep local control. Choosing established brands lowers the risk."},
+  {"q": "How many plugs should I buy?", "a": "Start with the number of devices you want to automate today. A four-pack like the Kasa Smart Plug HS103P4 or Govee Smart Plug 4-Pack suits a home with lamps in several rooms. If you only want one lamp, a single plug such as the GHome Smart Plug Mini is enough. You can always add more later."},
+  {"q": "Does a smart plug use a lot of power?", "a": "A plug draws a very small amount of standby power to stay connected. The bigger question is the load you connect, which must stay under the plug rating of 15A. Using timers and auto-off, as the GHome Smart Plug Mini offers, can reduce the time a device stays on."}
+ ]
+}

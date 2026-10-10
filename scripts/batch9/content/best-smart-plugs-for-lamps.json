@@ -1,0 +1,217 @@
+{
+ "guideTitle": "6 Best Smart Plugs for Lamps in 2026",
+ "metaTitle": "Best Smart Plugs for Lamps in 2026",
+ "metaDescription": "Six smart plugs that turn an ordinary lamp into one you can switch by voice, timer or phone, compared on setup, size and ecosystem fit for easy daily use.",
+ "introParagraphs": [
+  "A lamp is the classic smart plug job, and it is also the one where the plug tends to disappear into the background. You plug the lamp into the smart plug, leave the lamp switch on, and from then on a voice command, a schedule or a phone tap handles the rest. The goal is a lamp that comes on at dusk and goes off at bedtime without anyone reaching behind a sofa.",
+  "What separates a good lamp plug from an annoying one is mostly setup and size. A plug that fights you for twenty minutes during pairing will not feel like a convenience, and a bulky plug can block the second socket that your phone charger needs. The best choices here work from the first evening and stay out of the way.",
+  "We evaluated six plugs based on product specs and buyer feedback, weighing setup, compatibility, scheduling and how neatly each one fits a wall socket. The lineup includes two Amazon options for Echo households, two Kasa models, a Matter plug and a budget Wi-Fi plug."
+ ],
+ "products": [
+  {
+   "i": 2,
+   "badge": "Best Overall",
+   "name": "Amazon Smart Plug",
+   "specs": ["Works with Alexa", "No hub required", "Guided Alexa app setup", "Physical on switch devices"],
+   "specList": [
+    {"label": "Ecosystem", "value": "Amazon Alexa"},
+    {"label": "Hub", "value": "Not required"},
+    {"label": "Setup", "value": "Alexa app, guided"},
+    {"label": "Suited to", "value": "Lamps, fans, coffee makers"}
+   ],
+   "description": "The Amazon Smart Plug is built around one idea, which is making Alexa voice control available on any outlet. It works with the Alexa app and compatible Alexa devices, so a lamp can respond to a spoken command from an Echo speaker. The product notes say no hub is needed, and that the setup is just plugging it in, opening the Alexa app and following the directions.\n\nThat tight match with Alexa is the main strength and the main limit. If your home runs on Echo devices, this is likely to be the least fussy way to automate a lamp. If you ever move to another voice assistant, the plug will not follow you, and it does not offer a Matter standard the way the Linkind Matter Smart Plug does.\n\nThe listing specifically calls out lamps, fans and coffee makers with a physical on and off switch, which is the same rule that applies to every plug: the lamp switch must stay on. Day to day, you use the Alexa app to build routines and schedules, so there is no separate brand app to learn. Compared with the Amazon Basics Smart Plug, which is Alexa only and focused on compact size, this one is the more direct choice for a simple lamp. We rank it first because it makes the least demanding path to a working lamp."
+   ,
+   "bestFor": "Echo households that want the simplest route to a voice-controlled lamp.",
+   "pros": ["Guided setup inside the Alexa app takes minutes", "No hub needed, just plug in and follow the steps", "Built around lamps, fans and coffee makers", "Routines and schedules live in one familiar app"],
+   "cons": ["Tied to Alexa, with no Google Home path", "Offers no Matter support for switching platforms"]
+  },
+  {
+   "i": 7,
+   "badge": "Best Compact Alexa Option",
+   "name": "Amazon Basics Smart Plug",
+   "specs": ["Alexa only", "Compact single-socket body", "Scheduling built in", "Zero touch setup option"],
+   "specList": [
+    {"label": "Ecosystem", "value": "Alexa only"},
+    {"label": "Footprint", "value": "Fits 1 socket"},
+    {"label": "Setup", "value": "Link device to Alexa option"},
+    {"label": "Features", "value": "Voice, app control, schedule"}
+   ],
+   "description": "The Amazon Basics Smart Plug is described as Alexa only, which tells you exactly what you are getting. It offers voice control, remote app control and scheduling, and the body is compact enough to fit one socket and leave the others free. The setup includes a zero touch option that appears when you select Link device to Alexa, which simplifies pairing.\n\nFor a lamp, the compact shape matters. Many bedside outlets are a standard duplex, and a slim plug leaves room for a charger or a clock. The plug can be used with lamps, fans and holiday lights, and the schedule feature lets you set a routine so you never have to think about it.\n\nIn ownership terms, you are committing to the Alexa ecosystem, and the plug will not respond to Google Home commands. Compared with the Amazon Smart Plug, the Basics model puts more emphasis on the compact design, while the Amazon version leans on brand-level integration. If you have Echo speakers and want a cleaner look on the wall, this is a practical pick. It is not the plug to buy if there is any chance you will move to a different assistant."
+   ,
+   "bestFor": "Alexa users who want a slim plug that leaves neighboring sockets free.",
+   "pros": ["Compact body fits one socket and spares the other", "Zero touch setup option shortens pairing", "Schedules automate a lamp without voice", "App control works away from home"],
+   "cons": ["Alexa only, no Google Home or Apple support", "Cloud-based control, not a Matter plug"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Multi-Room Pack",
+   "name": "Kasa Smart Plug HS103P4",
+   "specs": ["4 plugs in the box", "Touch actuator", "Alexa and Google Home", "No hub required"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Control", "value": "Touch actuator plus app"},
+    {"label": "Voice", "value": "Alexa and Google Home"},
+    {"label": "Hub", "value": "Not required"}
+   ],
+   "description": "The Kasa HS103P4 puts four plugs in one box, which is enough for a lamp in the living room, bedroom, hallway and den. Each plug has a touch actuator, so you can switch the lamp by pressing the plug if your phone is not nearby. The Kasa app covers timers, countdowns and control from anywhere, and voice commands work with both Alexa and Google Home.\n\nThe touch button is a quiet advantage for a lamp. Visitors and family members who do not use smart home apps can still understand what the plug does, and you have a backup if the Wi-Fi misbehaves. The cost of the multi-pack is that you take on four devices to name and organize.\n\nCompared with the Kasa Smart Plug Ultra Mini, this model is the bigger, more manual-friendly choice. Compared with the GHome Smart Plug, the Kasa app has a more established reputation for steady scheduling. Pair it with a lamp that has a simple rocker switch and leave that switch in the on position. It is the right choice if you want several lamps automated and prefer to set them up once."
+   ,
+   "bestFor": "Homes with lamps in several rooms and someone who prefers a physical button.",
+   "pros": ["Touch actuator lets anyone switch the lamp by hand", "Four plugs cover lamps in several rooms", "Timers and countdowns are easy to set in the app", "Works with both Alexa and Google Home"],
+   "cons": ["Four identical plugs need clear names in the app", "Wi-Fi only, so no Matter local control"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Slim Wi-Fi Plug",
+   "name": "Kasa Smart Plug Ultra Mini 15A",
+   "specs": ["15A rating", "2.4GHz Wi-Fi", "Timer and countdown", "Alexa and Google Home"],
+   "specList": [
+    {"label": "Load rating", "value": "15A"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Scheduling", "value": "Timer and countdown"},
+    {"label": "App", "value": "Kasa app"}
+   ],
+   "description": "The Kasa Smart Plug Ultra Mini is the slimmer sibling in the Kasa line, and it keeps a 15A rating that covers any ordinary lamp. It connects over 2.4GHz Wi-Fi and uses the Kasa app, and it works with Alexa and Google Home voice assistants. Setup is described as plug in, open the app and follow the instructions.\n\nFor lamps, the timer and countdown tools are the useful part. A countdown lets you switch a reading lamp off after a set number of minutes, and a timer sets the lamp to follow a daily pattern. The smaller body suits crowded outlets, though the product details do not describe a touch button the way the Kasa Smart Plug HS103P4 does.\n\nIt is a good choice when you want just one or two lamps controlled and prefer a sturdy brand app. Compared with the Linkind Matter Smart Plug, it lacks Matter and offline local control. Compared with the Amazon Basics Smart Plug, it supports both voice assistants rather than only Alexa. For many households that flexibility is the deciding factor."
+   ,
+   "bestFor": "Buyers who want a slim lamp plug that works with both Alexa and Google Home.",
+   "pros": ["Slim body fits crowded wall outlets", "Countdown timer turns a lamp off after a set time", "Works with Alexa and Google Home voice control", "Kasa app setup is guided from start to finish"],
+   "cons": ["Needs 2.4GHz Wi-Fi to complete setup", "No manual button on the plug itself"]
+  },
+  {
+   "i": 8,
+   "badge": "Best Cross-Platform Matter",
+   "name": "Linkind Matter Smart Plug",
+   "specs": ["Matter compatible", "Apple Home, Alexa, Google", "Works on local network", "Remote app control"],
+   "specList": [
+    {"label": "Standard", "value": "Matter"},
+    {"label": "Platforms", "value": "Apple Home, Alexa, Siri, Google Home"},
+    {"label": "Local control", "value": "Works on the LAN"},
+    {"label": "Remote", "value": "App control from anywhere"}
+   ],
+   "description": "The Linkind Matter Smart Plug is meant for a household that mixes assistants or might change them. Matter lets one plug work with Apple Home, Alexa, Siri and Google Home, and the listing says you can skip downloading a new manufacturer app each time you add a device. Once it is set up, Matter devices on the home network can talk to each other directly, so a lamp still responds if the internet goes down.\n\nThat resilience is a genuine benefit for lamps, which are the devices you most want working at night. You can also use the app to turn a lamp on before you arrive home and off after you leave. The trade-off is that Matter setup involves scanning a code and may need a compatible hub or controller on your chosen platform.\n\nCompared with the Amazon Smart Plug, the Linkind is far less tied to one voice assistant. Compared with the Kasa Smart Plug Ultra Mini, it gives up the polished Kasa app in exchange for platform freedom. It makes the most sense for a mixed household, such as one person on an iPhone and another using Alexa. We rank it here because the cross-platform promise is the strongest in this group."
+   ,
+   "bestFor": "Mixed households using Apple, Alexa and Google devices together.",
+   "pros": ["One plug works across Apple Home, Alexa and Google", "Local network control keeps lamps responsive offline", "Remote control lets you switch a lamp from anywhere", "Skips repeated brand app downloads"],
+   "cons": ["Matter setup takes a code scan and sometimes a hub", "Less established app than the Kasa plugs"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Simple Alternative",
+   "name": "GHome Smart Plug",
+   "specs": ["Bluetooth or WiFi", "Alexa and Google Home", "App remote control", "Timers from anywhere"],
+   "specList": [
+    {"label": "Connectivity", "value": "Bluetooth or WiFi"},
+    {"label": "Voice", "value": "Alexa and Google Assistant"},
+    {"label": "Control", "value": "App from anywhere"},
+    {"label": "Scheduling", "value": "Outlet timers in the app"}
+   ],
+   "description": "The GHome Smart Plug supports a Bluetooth or Wi-Fi connection, and the listing says the improved Wi-Fi approach stays stable and connects quickly. It responds to voice commands from Alexa or Google Assistant, and the app can control outlet timers from anywhere. For a lamp, that means a scheduled evening light and a quick check from your phone if you forgot to turn it off.\n\nThe plug is a practical companion for a plain lamp, and it avoids the heavier feature set of larger systems. You get the basics, which are voice control, timers and remote app control. That is often exactly what a bedside lamp needs and nothing more.\n\nThe limits are about polish and standards. It is not a Matter device like the Linkind Matter Smart Plug, so it does not offer local-only control, and it lacks the touch button of the Kasa Smart Plug HS103P4. Compared with the Amazon Smart Plug, it speaks to both Alexa and Google rather than one. If you want a lamp that follows a timer without a big system, it does the job."
+   ,
+   "bestFor": "People who want a basic voice and timer plug for one lamp with either assistant.",
+   "pros": ["Bluetooth or Wi-Fi gives two ways to connect", "Works with both Alexa and Google Assistant", "App timers can be managed from anywhere", "Keeps features simple for single-lamp use"],
+   "cons": ["No Matter support or offline local control", "No touch button like the Kasa HS103P4"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Match the voice assistant", "explanation": "The plug has to speak the same language as the speaker in your living room. The Amazon Smart Plug and Amazon Basics Smart Plug work with Alexa, and the Amazon Basics model is described as Alexa only. The Kasa Smart Plug HS103P4, Kasa Smart Plug Ultra Mini 15A and GHome Smart Plug support both Alexa and Google. For a household that may change assistants, the Linkind Matter Smart Plug covers Apple Home, Alexa and Google Home."},
+  {"criterion": "Leave the lamp switch on", "explanation": "A smart plug only controls power to the lamp, so the lamp switch must stay in the on position. If a lamp needs a button press after power returns, such as a touch lamp that remembers nothing, the plug will not bring it back on. Before you buy, check that your lamp turns on the moment it is plugged in. Plain rocker or toggle switches work best with every plug in this guide."},
+  {"criterion": "Body size on a duplex", "explanation": "A bedside outlet usually has two sockets, and a chunky plug can cover both. The Amazon Basics Smart Plug is described as fitting a single socket, and the Kasa Smart Plug Ultra Mini 15A is built slim for the same reason. A bigger body like the Kasa HS103P4 may be fine on a wall but awkward behind a nightstand. Look at your outlet clearance before choosing."},
+  {"criterion": "Setup effort and Wi-Fi band", "explanation": "Most Wi-Fi plugs connect only to a 2.4GHz network, so a phone on 5GHz can cause setup to fail. The Kasa Smart Plug Ultra Mini 15A states the 2.4GHz requirement, and the GHome Smart Plug helps with Bluetooth assistance. The Amazon Smart Plug offers a guided Alexa app setup with no hub. If you dislike troubleshooting, choose a plug with a guided flow and a simple app."},
+  {"criterion": "Manual control on the plug", "explanation": "A lamp is often used by more than one person, and not everyone wants to open an app. The Kasa Smart Plug HS103P4 adds a touch actuator so you can switch a lamp by hand. Slim plugs like the Amazon Basics Smart Plug rely on voice or app control only. If a guest or relative must be able to turn the lamp off, favor a plug with a visible button."},
+  {"criterion": "Scheduling and offline behavior", "explanation": "A lamp usually runs on a schedule, so timers matter more than fancy features. The Kasa Smart Plug Ultra Mini 15A offers timers and countdowns, and the GHome Smart Plug lets you manage outlet timers from anywhere. The Linkind Matter Smart Plug adds local control that can keep a lamp responding when the internet fails. Decide whether you want a lamp that follows a routine or one that mainly answers your voice."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Fit with a single lamp", "description": "We looked at which plugs are built around lamps, fans and similar loads. The Amazon Smart Plug explicitly names lamps, fans and coffee makers with physical switches, and the Amazon Basics Smart Plug highlights holiday lights. Plugs that fit lamps neatly and stay out of the way scored higher."},
+  {"title": "Setup simplicity", "description": "This category covered how many steps stand between the box and a working lamp. The Amazon Smart Plug and Amazon Basics Smart Plug use guided Alexa setup, while the Kasa plugs use a dedicated app and the Linkind needs a Matter code scan. Fewer steps and fewer separate apps earned better scores."},
+  {"title": "Ecosystem flexibility", "description": "We compared how many assistants each plug supports. The Linkind Matter Smart Plug leads by covering Apple Home, Alexa, Siri and Google Home, the Kasa and GHome plugs cover Alexa and Google, and the Amazon Basics Smart Plug is Alexa only. Flexibility mattered most for mixed households."},
+  {"title": "Physical design and manual control", "description": "We assessed body size, socket blocking and any manual button. The Kasa Smart Plug HS103P4 has a touch actuator, and the Amazon Basics Smart Plug and Kasa Smart Plug Ultra Mini 15A are built to be compact. Plugs that leave neighboring sockets free ranked higher."},
+  {"title": "Scheduling and reliability", "description": "Timers, countdowns and offline behavior were compared across the group. The Kasa Smart Plug Ultra Mini 15A leads on timers and countdowns, the Linkind Matter Smart Plug on offline-ready local control, and the GHome Smart Plug on remote timer management. Buyer feedback about steady Wi-Fi connections informed the scoring."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Voice Assistant",
+   "intro": "The speaker you already own is usually the strongest clue.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Echo speakers only", "Amazon Smart Plug", "Guided Alexa app setup and no hub"],
+     ["Echo and a tight outlet", "Amazon Basics Smart Plug", "Alexa only with a single-socket body"],
+     ["Google and Alexa in one home", "Kasa Smart Plug Ultra Mini 15A", "Supports both voice assistants"],
+     ["Apple, Alexa and Google together", "Linkind Matter Smart Plug", "Matter works across all of them"],
+     ["Basic voice and timers", "GHome Smart Plug", "Alexa and Google with app timers"]
+    ]
+   },
+   "note": "If you are unsure which assistant you will keep, lean toward Matter."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Think in relative tiers, since prices change often.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "GHome Smart Plug", "Voice, timers and app control for one lamp"],
+     ["Entry", "Amazon Basics Smart Plug", "Compact Alexa-only plug with schedules"],
+     ["Mid", "Amazon Smart Plug", "Alexa setup without a hub"],
+     ["Mid", "Kasa Smart Plug Ultra Mini 15A", "Slim body and a polished app"],
+     ["Premium", "Linkind Matter Smart Plug", "Cross-platform Matter with local control"]
+    ]
+   },
+   "note": "A four-pack such as the Kasa Smart Plug HS103P4 can lower the cost per lamp."
+  },
+  {
+   "subheading": "Alexa-Only vs Cross-Platform",
+   "intro": "The key trade-off is simplicity today against flexibility later.",
+   "cards": [
+    {"label": "Alexa-focused plugs", "text": "These plugs are built to be as easy as possible with Echo devices, with guided setup inside the Alexa app. The Amazon Smart Plug and Amazon Basics Smart Plug fall on this side. You get a short setup and no extra brand app, but you are tied to Alexa. Choose them if your home already runs on Echo."},
+    {"label": "Cross-platform plugs", "text": "These plugs work with more than one assistant. The Kasa Smart Plug Ultra Mini 15A, Kasa Smart Plug HS103P4 and GHome Smart Plug support Alexa and Google, and the Linkind Matter Smart Plug adds Apple Home and Siri. You trade a little setup simplicity for freedom to change devices. Choose them if more than one assistant lives in your home."}
+   ],
+   "note": "Alexa-only is simpler, cross-platform is safer over time."
+  },
+  {
+   "subheading": "By Number of Lamps",
+   "intro": "The number of lamps you want to automate decides which box to buy.",
+   "table": {
+    "headers": ["Need", "Pick", "Reason"],
+    "rows": [
+     ["One bedside lamp", "Amazon Basics Smart Plug", "Compact body that fits one socket"],
+     ["One lamp with a touch backup", "Kasa Smart Plug HS103P4", "Touch actuator on the plug"],
+     ["Two lamps, flexible voice", "Kasa Smart Plug Ultra Mini 15A", "Works with Alexa and Google"],
+     ["Lamps in every room", "Kasa Smart Plug HS103P4", "Four plugs in one box"],
+     ["Lamps and mixed devices", "Linkind Matter Smart Plug", "Matter across Apple, Alexa and Google"]
+    ]
+   },
+   "note": "Start small and add plugs only for lamps you use daily."
+  },
+  {
+   "subheading": "For Bedside Lamps Specifically",
+   "intro": "A bedside outlet is crowded and the lamp is used half asleep.",
+   "cards": [
+    {"label": "Look for", "text": "Pick a slim plug that leaves the second socket free for a charger, and prefer a plug with a physical button so you are not hunting for a phone in the dark. Set a short countdown if you tend to fall asleep reading. Name the plug something simple such as Bedroom Lamp."},
+    {"label": "In this comparison", "text": "The Amazon Basics Smart Plug and Kasa Smart Plug Ultra Mini 15A have the slimmest bodies. The Kasa Smart Plug HS103P4 adds a touch actuator, which is useful for a lamp you switch by hand. The Amazon Smart Plug works well if an Echo sits on the nightstand."}
+   ],
+   "note": "Keep the lamp switch on so the plug always has the last word."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A higher tier is only worth it when you will use the extra capability.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You mix assistants, as the Linkind Matter Smart Plug supports", "You only own Echo devices, so the Amazon Smart Plug is enough"],
+     ["You want a touch button, as on the Kasa Smart Plug HS103P4", "You always use voice, so the GHome Smart Plug will do"],
+     ["You want a trusted brand app, as Kasa provides", "Alexa routines are enough, as with the Amazon Basics Smart Plug"],
+     ["You expect to change platforms later", "You have no plans to switch from your current speaker"]
+    ]
+   },
+   "note": "Most lamps need nothing more than a timer and a voice command."
+  }
+ ],
+ "faq": [
+  {"q": "Can any lamp be used with a smart plug?", "a": "Most lamps with a simple on and off switch work well. The switch must stay on so power reaches the bulb when the plug turns on. Touch lamps and lamps that need a button press after power returns will not restart by themselves. Check that your lamp lights as soon as it is plugged in."},
+  {"q": "Which is better for a lamp, Alexa or Google?", "a": "Neither is better, so choose the one your speaker already uses. The Amazon Smart Plug and Amazon Basics Smart Plug are built for Alexa, while the Kasa Smart Plug Ultra Mini 15A supports both. For a home that might change, the Linkind Matter Smart Plug is the safest bet. Match the plug to your assistant first."},
+  {"q": "Will a smart plug dim my lamp?", "a": "No, a smart plug only switches power fully on or off. Dimming needs a smart bulb or a dimmer built for the purpose. If you want brightness control, a plug is the wrong tool. For simple on and off schedules it works perfectly."},
+  {"q": "Does the plug block the other outlet?", "a": "It depends on the body. The Amazon Basics Smart Plug is described as fitting one socket, and the Kasa Smart Plug Ultra Mini 15A is slim for the same reason. Check clearance behind furniture before you buy. A bulky plug can cover both sockets of a duplex."},
+  {"q": "What happens when the internet goes down?", "a": "Most Wi-Fi plugs lose voice and remote control until the connection returns, though schedules stored on the plug may still run. The Linkind Matter Smart Plug is designed to keep local control on your network. Manual buttons, such as the touch actuator on the Kasa Smart Plug HS103P4, still work. Decide how much outage resilience you need."},
+  {"q": "How long do these plugs last?", "a": "Smart plugs have no moving parts apart from the internal relay, so they tend to last many years in normal use. The main risk is a brand ending its cloud service, which affects plugs that depend on one. Matter plugs hold up better in that case. Keep them in dry indoor spots and under their load rating."},
+  {"q": "Can I use a smart plug for a lamp in another room?", "a": "Yes, as long as the plug has a Wi-Fi signal. App control from anywhere lets you check a lamp from your phone, which the GHome Smart Plug and Linkind Matter Smart Plug both list. Move the plug closer to the router if it keeps dropping off. A weak signal is the usual cause of unreliable behavior."}
+ ]
+}

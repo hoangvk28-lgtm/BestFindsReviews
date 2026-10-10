@@ -1,0 +1,12 @@
+# Seed: motion sensor light
+- PIR sensors detect heat signatures; typical outdoor range 40 to 70 ft with up to 180 degree arc.
+- 40 ft covers a standard driveway; 69 to 72 ft suits large yards or long walkways.
+- PIR does not see through glass or around corners.
+- Walking straight toward a PIR sensor triggers later than crossing its field; mount so paths cross the beam.
+- Lumens measure total output; beam pattern and head adjustability decide where light lands.
+- Sensitivity dials reduce false triggers from branches, wind and pets.
+- Dusk-to-dawn photocells keep motion detection off in daylight.
+- Solar units need direct sun on the panel; shade cuts runtime.
+- Plug-in and battery night lights suit hallways, stairs and closets.
+- Hardwired switches differ on neutral and ground wire requirements; check the wallbox first.
+- Minimum load matters for LED loads on some switches (flicker with very low-wattage lights).

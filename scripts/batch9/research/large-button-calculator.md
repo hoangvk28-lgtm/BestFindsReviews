@@ -1,0 +1,11 @@
+# Seed: large button calculator
+- Large readable numerals and strong contrast (dark digits on a light LCD) matter most for low vision; macular degeneration and cataracts make small digits hard to read.
+- Oversized tactile keys cut wrong-key presses; recessed or raised keytops help fingers find keys.
+- Tilted or angled displays (30 to 45 degrees in these listings) reduce neck strain on a flat desk.
+- Talking calculators read each digit and result aloud, helping low vision users verify entries; volume control matters.
+- Dual-line displays show the entry and the previous result together.
+- Solar plus battery dual power keeps the display alive in dim rooms; auto power-off saves cells.
+- Basic 4-function models avoid menus; fewer keys means less to learn.
+- Mechanical-switch keys give audible click and tactile feedback but can be louder.
+- Large 10-key layout mirrors a computer keypad, which helps those used to numeric keypads.
+- Anti-slip feet keep the unit from sliding while pressing hard on keys.

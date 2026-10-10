@@ -1,0 +1,338 @@
+{
+ "guideTitle": "6 Best Ultrasonic Cleaners for Airbrushes in 2026",
+ "metaTitle": "Best Ultrasonic Cleaners for Airbrushes",
+ "metaDescription": "We compared six ultrasonic cleaners for airbrush nozzles, needles and small hobby parts on tank size, frequency, timers and heat, for easy bench use.",
+ "introParagraphs": [
+  "Dried acrylic and enamel paint packs into an airbrush nozzle, needle cap and paint cup in places no brush can reach, and scrubbing those tiny parts is slow, fiddly work for tired hands. An ultrasonic cleaner does the reaching for you. Microscopic bubbles lift dried paint out of threads and crevices while you do something else, which is why it has become a quiet favorite on hobby benches.",
+  "We evaluated six current machines based on product specs and buyer feedback, looking at tank size, frequency, timers, heating and how simple each one is to fill and empty. The lineup runs from a 350 ml jewelry-style tub with a 48 kHz output to a 15 L, 240W workshop tank, and only the VEVOR listings name airbrush tips directly, so most picks here are general-purpose machines that suit small hobby parts.",
+  "Use the picks below as a starting point, then work through the buying criteria and decision tables to match a machine to your airbrush, your bench space and how often you spray."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best Overall for Airbrush Parts",
+   "name": "VEVOR 6L 40kHz Ultrasonic Cleaner, 120W with Heater",
+   "specs": ["6 L stainless tank", "40 kHz ultrasonic", "120W power", "Heat 0 to 80°C", "Basket and digital display"],
+   "specList": [
+    {"label": "Tank", "value": "6 L stainless steel"},
+    {"label": "Frequency", "value": "40 kHz"},
+    {"label": "Power", "value": "120W"},
+    {"label": "Temperature", "value": "0 to 80°C adjustable"},
+    {"label": "Basket", "value": "Included"}
+   ],
+   "description": "The VEVOR 6L is the pick that most directly fits the job, because its listing names airbrush tips alongside carburetors, watch bands and lab components. It runs at 40 kHz with 120W of ultrasonic power, and a digital display sets both timer and temperature, which can be adjusted from 0 to 80°C. The stainless steel tank and basket are corrosion resistant, and the basket keeps parts from scratching the tank floor.\n\nThat power is more than a nozzle and needle strictly need, and 40 kHz is a more aggressive setting than the gentle jewelry tubs in this lineup. It is a sensible choice if you also clean other hobby hardware, such as small engine parts or model kit tools, and if you have a bench where a larger machine can live. Heat helps dissolve dried paint, but you should check that any plastic, rubber seal or glued part in your airbrush can handle it before you raise the temperature.\n\nOwnership is simple but not tiny: fill, set time and temperature, drop the basket in and walk away. Plan on draining several liters afterward and wiping the tank dry. Against the 15L VEVOR at 240W it is far easier to store, while compared with the 20 oz Magnasonic at 600 ml it holds roughly ten times the volume and adds heating that the smaller tubs lack.",
+   "bestFor": "Airbrush users who also clean other hobby parts and want heat plus a roomy tank.",
+   "pros": [
+    "Listing names airbrush tips among the parts it is built to clean",
+    "Adjustable heat from 0 to 80°C helps loosen dried paint residue",
+    "The 6 L tank holds a full airbrush set plus other hobby parts",
+    "Stainless basket keeps small parts off the tank floor and easy to lift"
+   ],
+   "cons": [
+    "At 40 kHz it is rougher than the gentler jewelry-style tubs here",
+    "Takes real bench space and needs several liters filled and drained",
+    "Far more machine than a single nozzle and needle really require"
+   ]
+  },
+  {
+   "i": 8,
+   "badge": "Best Compact With Degas",
+   "name": "LifeBasis 600ml Ultrasonic Cleaner, 45kHz with Degas",
+   "specs": ["45 kHz ultrasonic", "600 ml (20 oz) tank", "20-second degas cycle", "5 timed cycles", "Built-in cooling fan"],
+   "specList": [
+    {"label": "Frequency", "value": "45 kHz"},
+    {"label": "Tank", "value": "600 ml (20 oz) stainless"},
+    {"label": "Cycles", "value": "90, 180, 300, 480, 600 seconds"},
+    {"label": "Degas", "value": "Automatic 20 seconds"},
+    {"label": "Cooling", "value": "Built-in fan"}
+   ],
+   "description": "The LifeBasis is the most feature-rich of the compact tubs. It runs at 45 kHz, holds 600 ml (20 oz) and offers five preset cycles of 90, 180, 300, 480 and 600 seconds on a digital display with auto shut-off. A 20-second degassing cycle runs before cleaning begins to remove trapped air from the water, so the ultrasonic energy goes into your parts, not aerated water. A built-in cooling fan and overheating protection help it cope with repeated runs.\n\nThe five timed cycles suit airbrush work well, since a nozzle with light paint residue may need only a short run while a clogged needle cap may want the longest one. The tradeoff is that there is no heater, so heavy dried paint relies on time and a suitable cleaning solution. The tank is also much smaller than the VEVOR units, so a large airbrush body would need to be cleaned in pieces.\n\nSetup is easy: add water to the line, choose a cycle and lift items out when it stops. The removable power cord makes it simpler to store on a shelf. Next to the 800 ml VisiClean it gives up a little capacity but adds the automatic degas step, and at 600 ml it matches the Magnasonic's tank while offering its own 45 kHz output.",
+   "bestFor": "Hobbyists who want presets, a degas step and a tidy tank for nozzles and needles.",
+   "pros": [
+    "Automatic 20-second degas step clears trapped air before each cycle",
+    "Five presets from 90 to 600 seconds fit light and heavy paint jobs",
+    "Built-in cooling fan and overheat protection suit repeated runs",
+    "Removable power cord makes it easy to put the unit away on a shelf"
+   ],
+   "cons": [
+    "No heater, so dried paint relies on time and cleaning solution",
+    "A 600 ml tank means larger airbrush bodies go in as separate parts",
+    "Presets top out at 600 seconds, which may be short for stubborn buildup"
+   ]
+  },
+  {
+   "i": 7,
+   "badge": "Best Dual-Transducer Tub",
+   "name": "VisiClean 800ml Dual Transducer Ultrasonic Cleaner",
+   "specs": ["Dual transducers", "42,000 Hz output", "800 ml stainless tank", "5 preset settings", "Cooling fan"],
+   "specList": [
+    {"label": "Frequency", "value": "42,000 Hz"},
+    {"label": "Tank", "value": "800 ml (27 oz) stainless"},
+    {"label": "Transducers", "value": "2"},
+    {"label": "Presets", "value": "5"},
+    {"label": "Lid", "value": "Removable, non-hinged"}
+   ],
+   "description": "The VisiClean pairs a 42,000 Hz output with two ultrasonic transducers, which the listing says doubles the cleaning power of a single-transducer tub. Its 800 ml (27 oz) stainless tank is the largest of the household-sized units here, and it adds a built-in cooling fan, touch controls and a waterproofed interior. Five presets cover quick refreshes through longer runs.\n\nFor airbrush parts the dual transducers are the draw, because dried paint is tougher than skin oil. The maker is clear on limits, though: do not use hot water and do not run it longer than 30 minutes. That means you cannot warm the bath to soften cured paint, and a very stubborn clog may need a soak first or repeated short runs. It also costs more bench space than the compact tubs.\n\nIn use, the removable, non-hinged lid and detachable power cord make filling and emptying easy. Against the 6L VEVOR it is much smaller but needs no drain planning, and it holds 200 ml more than the LifeBasis at 600 ml. Compared with the 350 ml OSLTWI it handles a longer airbrush body, though the OSLTWI is lighter to carry.",
+   "bestFor": "Airbrush users who want stronger output than a single-transducer tub without a workshop tank.",
+   "pros": [
+    "Two transducers add cleaning power at a moderate 42,000 Hz setting",
+    "The 800 ml tank is the roomiest of the household-sized machines",
+    "Detachable cord and removable lid make filling and storage easier",
+    "Built-in cooling fan helps the unit handle longer cleaning cycles"
+   ],
+   "cons": [
+    "The maker advises against hot water, so you cannot warm the bath",
+    "It should not run beyond 30 minutes at a time, so plan short cycles",
+    "Bulkier than the small jewelry tubs for a crowded hobby shelf"
+   ]
+  },
+  {
+   "i": 9,
+   "badge": "Best Simple Everyday Pick",
+   "name": "Magnasonic 20oz Stainless Steel Ultrasonic Cleaner",
+   "specs": ["42,000 Hz ultrasonic", "600 ml stainless tank", "5 cleaning modes", "Digital timer", "Basket included"],
+   "specList": [
+    {"label": "Frequency", "value": "42,000 Hz"},
+    {"label": "Tank", "value": "20 oz (600 ml) stainless steel"},
+    {"label": "Modes", "value": "5 cleaning cycles"},
+    {"label": "Controls", "value": "Digital display and timer"},
+    {"label": "Basket", "value": "Included"}
+   ],
+   "description": "The Magnasonic is a straightforward machine with few surprises. It generates 42,000 Hz ultrasonic waves, holds 20 oz (600 ml) in an anti-corrosion stainless tank and gives you five cleaning cycles from quick to deep on a digital display. A basket is included, so small parts can be lowered in and lifted out without fishing around the tank floor.\n\nThe listing is aimed at jewelry, glasses, tools and similar household and light commercial items rather than airbrushes specifically, so it works for nozzles, needles and caps as a general-purpose machine. It has no heater and the listing notes it does not remove tarnish, which is a reminder that it lifts dirt but does not chemically strip finishes. Dried paint will need the longer cycle and likely a suitable cleaning solution.\n\nAdd tap water to the line, pick a mode and you are done. Compared with the LifeBasis at 600 ml and 45 kHz it has the same tank size but no degas step, and next to the 6L VEVOR it is far easier to keep on a shelf. If your hobby is mostly airbrushing with the odd jewelry or glasses clean, it is the least fussy way in.",
+   "bestFor": "Casual airbrushers who also clean glasses and jewelry and want a no-fuss machine.",
+   "pros": [
+    "Five cleaning modes from quick to deep with a clear digital display",
+    "A 600 ml stainless tank handles a nozzle, needle and cap together",
+    "Basket included for lowering small parts in and lifting them out",
+    "The 42,000 Hz output stays gentler than a 40 kHz workshop machine"
+   ],
+   "cons": [
+    "No heater, so cured paint relies on the longer cycle and a solution",
+    "Listing is about jewelry and household items, not airbrush parts",
+    "Does not remove tarnish, and has no degas or cooling fan feature"
+   ]
+  },
+  {
+   "i": 6,
+   "badge": "Best Lightweight Tub",
+   "name": "OSLTWI 48kHz Ultrasonic Cleaner, 350ml Stainless Tank",
+   "specs": ["48 kHz ultrasonic", "350 ml 304 stainless tank", "Dual cleaning modes", "0.57 kg", "One-touch selector"],
+   "specList": [
+    {"label": "Frequency", "value": "48 kHz"},
+    {"label": "Tank", "value": "350 ml, 304 stainless steel"},
+    {"label": "Weight", "value": "0.57 kg"},
+    {"label": "Modes", "value": "2, one-touch selector"},
+    {"label": "Heater", "value": "None listed"}
+   ],
+   "description": "The OSLTWI is built around a 48 kHz frequency, the highest in this lineup, with a 304 stainless tank holding 350 ml and a body that weighs only 0.57 kg. A single one-touch selector switches between two cleaning modes, so there is almost nothing to learn. It is the lightest and simplest machine here.\n\nFor airbrush parts the small tank is the main limit. A nozzle, needle and cap fit comfortably, but a full airbrush body will not, and the 48 kHz output is gentle, so cured paint will clean more slowly than on the 40 kHz VEVOR units. The listing is written around jewelry, eyeglasses and watch bands, so treat it as a light-duty option for an occasional quick clean of loose parts.\n\nBecause it is so light it can live in a drawer and come out after a spray session. Fill with water, press the button and rinse the parts. Against the 600 ml LifeBasis it offers two modes versus five timed cycles, and next to the 800 ml VisiClean it trades capacity and power for a far smaller footprint.",
+   "bestFor": "Occasional airbrushers who only need to clean a nozzle, needle and cap quickly.",
+   "pros": [
+    "Weighs only 0.57 kg so it is easy to move and store in a drawer",
+    "One-touch selector means there are almost no settings to learn",
+    "At 48 kHz it is the gentlest frequency in this whole lineup of six",
+    "The 304 stainless tank resists wear, scratches and corrosion"
+   ],
+   "cons": [
+    "The 350 ml tank cannot take a full airbrush body in one load",
+    "Only two modes, so you get much less control over cycle length",
+    "Gentle 48 kHz output is slower on dried, cured paint residue"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Best for Large Batches",
+   "name": "VEVOR 15L 40kHz Ultrasonic Cleaner, 240W with Heater",
+   "specs": ["15 L stainless tank", "40 kHz ultrasonic", "240W power", "Heat 0 to 80°C", "Basket and digital display"],
+   "specList": [
+    {"label": "Tank", "value": "15 L stainless steel"},
+    {"label": "Frequency", "value": "40 kHz"},
+    {"label": "Power", "value": "240W"},
+    {"label": "Temperature", "value": "0 to 80°C adjustable"},
+    {"label": "Basket", "value": "Included"}
+   ],
+   "description": "The VEVOR 15L is the heavyweight of the group, with a 15 L stainless tank, 240W of power and the same 40 kHz output as its smaller sibling. A digital display sets timer and temperature up to 80°C, and the listing names airbrush tips among the parts it is meant to clean. A corrosion-resistant stainless basket and an upgraded handle help with moving a full tank.\n\nFor most airbrush users it is far more tank than the job needs. It makes sense only if you run a shared workshop, clean many airbrushes in a batch or also handle larger parts such as engine components or tool sets. It needs a dedicated bench, a place to drain 15 L of water and care with any parts that should not be heated or shaken hard.\n\nSetup is the same fill, set and start routine as the 6L VEVOR, but everything takes longer because the tank is larger. At 240W it has twice the stated power of the 120W 6L model, and compared with the 800 ml VisiClean it holds nearly twenty times the volume. If you only spray a few times a month, one of the compact tubs is the more practical choice.",
+   "bestFor": "Workshops and clubs that clean many airbrushes and larger hobby parts at once.",
+   "pros": [
+    "The 15 L tank takes several airbrushes and bigger parts at once",
+    "240W output is double the stated power of the smaller 120W 6L model",
+    "Adjustable heat to 80°C helps with greasy and paint-laden parts",
+    "Upgraded handle and stainless basket ease moving a full tank"
+   ],
+   "cons": [
+    "Far too large for a hobbyist who cleans one airbrush at a time",
+    "Needs a dedicated bench and a plan to drain 15 L of water after use",
+    "At 40 kHz and 240W it is too aggressive for delicate finishes"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Tank size and part fit",
+   "explanation": "The tank decides whether you can clean a whole airbrush or only the loose parts. Airbrushes are best cleaned disassembled, so the nozzle, needle, cap and paint cup are what you really need to fit. A 350 ml tank like the OSLTWI handles loose parts, 600 to 800 ml such as the Magnasonic and VisiClean give room for a longer body, and the VEVOR 6L and 15L suit batches. Measure your longest part before you buy and leave room around it so it does not touch the tank walls."
+  },
+  {
+   "criterion": "Frequency and aggression",
+   "explanation": "Lower frequencies produce larger, harder bubbles that work better on stubborn grime, while higher frequencies are gentler. The VEVOR units run at 40 kHz, the Magnasonic and VisiClean at 42,000 Hz, the LifeBasis at 45 kHz and the OSLTWI at 48 kHz. Dried paint favors the lower end, while a plastic cup or fine needle tip favors the higher end. If you spray often and let paint cure, 40 to 42 kHz is the practical range."
+  },
+  {
+   "criterion": "Heat and paint residue",
+   "explanation": "Warmth softens dried paint and speeds cleaning, but not every part tolerates it. Only the two VEVOR models offer heat, adjustable from 0 to 80°C, while the VisiClean maker advises against hot water and the LifeBasis and Magnasonic list none. If your airbrush has rubber seals or plastic parts, start cool and increase gradually. Heat is a real advantage for cured acrylic, but it is optional for light daily cleaning."
+  },
+  {
+   "criterion": "Timer and cycle control",
+   "explanation": "Paint residue varies from a thin film to a hard plug, so being able to pick cycle length matters. The LifeBasis offers five cycles from 90 to 600 seconds and the Magnasonic and VisiClean each have five modes, while the OSLTWI has just two. The VEVOR models give a digital timer you set yourself. For hobby use, a short cycle for daily upkeep and a long one for neglected parts is the pattern to look for."
+  },
+  {
+   "criterion": "Degassing and cooling",
+   "explanation": "Fresh water holds trapped air that absorbs ultrasonic energy, and long runs warm small tubs. The LifeBasis runs an automatic 20-second degas before cleaning and has a built-in cooling fan, and the VisiClean also has a fan. The VisiClean maker says not to exceed 30 minutes, so cooling and run limits go together. If you run repeated cycles after a spray session, degas and cooling make the machine more consistent."
+  },
+  {
+   "criterion": "Indirect cleaning habits",
+   "explanation": "Many hobbyists place parts in a small glass jar of cleaning solution and set that jar in the water bath, which protects the tank and uses less solution. That approach needs a tank wide enough for the jar, which favors the 800 ml VisiClean, the 6 L VEVOR or the 15 L VEVOR over the 350 ml OSLTWI. Always follow your airbrush maker's guidance about solvents, and never put flammable liquids directly in an ultrasonic tank."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Tank size and part fit",
+   "description": "We compared tank capacity and how many airbrush parts each machine can take at once. The VEVOR 15L leads on volume, the 6L VEVOR follows, and the VisiClean at 800 ml is the largest household tub. We also looked at whether the tank is wide enough for a small jar, since many airbrush users clean that way."
+  },
+  {
+   "title": "Frequency and power",
+   "description": "We compared stated frequency, transducer count and wattage. The VEVOR 15L offers 240W and the 6L model 120W at 40 kHz, the VisiClean doubles its transducers at 42,000 Hz, and the OSLTWI leads on gentleness at 48 kHz. All figures are manufacturer claims, so we weighed them against buyer feedback."
+  },
+  {
+   "title": "Heat, degas and run limits",
+   "description": "We looked at heating, degassing, cooling and stated run limits, because paint residue behaves differently from jewelry grime. Only the VEVOR models heat, the LifeBasis adds a 20-second degas and a cooling fan, and the VisiClean states a 30-minute limit. Machines that explain their limits clearly earned more credit."
+  },
+  {
+   "title": "Controls and ease of use",
+   "description": "We compared presets, timers and how simple each machine is to fill, empty and store. The LifeBasis offers five timed cycles from 90 to 600 seconds, the Magnasonic five modes, and the OSLTWI a single selector with two modes. Removable lids and cords, as on the VisiClean and LifeBasis, counted in their favor."
+  },
+  {
+   "title": "Lineup positioning and fit",
+   "description": "We placed each model by how well it fits airbrush work, not by price figures. The two VEVOR listings name airbrush tips directly, the LifeBasis, VisiClean and Magnasonic are all-round tubs, and the 0.57 kg OSLTWI is the lightest. We did not rank on popularity or review counts, only on specs and described features."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Airbrush Cleaning Habit",
+   "intro": "Match the machine to how often you spray and how long paint sits before cleaning.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["Quick clean after every session", "LifeBasis 600ml Ultrasonic Cleaner, 45kHz with Degas", "The 90 second cycle and degas step keep daily upkeep fast."],
+     ["Occasional cleaning of nozzle and needle", "OSLTWI 48kHz Ultrasonic Cleaner, 350ml Stainless Tank", "The 0.57 kg tub with two modes fits a drawer."],
+     ["Dried, cured paint on caps and cups", "VEVOR 6L 40kHz Ultrasonic Cleaner, 120W with Heater", "Heat to 80°C and 40 kHz work on stubborn residue."],
+     ["Jar-in-bath indirect cleaning", "VisiClean 800ml Dual Transducer Ultrasonic Cleaner", "The 800 ml tank has room for a small jar of solution."],
+     ["Cleaning several airbrushes at once", "VEVOR 15L 40kHz Ultrasonic Cleaner, 240W with Heater", "The 15 L tank and 240W output suit batches."]
+    ]
+   },
+   "note": "Disassemble the airbrush and remove the needle before cleaning, and check your maker's guidance on seals."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Spend based on how often you clean, not on spec lists.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "OSLTWI 48kHz Ultrasonic Cleaner, 350ml Stainless Tank", "A light 350 ml tub with two modes for loose parts."],
+     ["Entry to mid", "Magnasonic 20oz Stainless Steel Ultrasonic Cleaner", "A 600 ml tank with five modes and a basket."],
+     ["Mid", "LifeBasis 600ml Ultrasonic Cleaner, 45kHz with Degas", "Five timed cycles, a degas step and a cooling fan."],
+     ["Mid to premium", "VisiClean 800ml Dual Transducer Ultrasonic Cleaner", "Two transducers and an 800 ml tank at 42,000 Hz."],
+     ["Premium", "VEVOR 6L 40kHz Ultrasonic Cleaner, 120W with Heater", "A 6 L tank with 120W output and adjustable heat."]
+    ]
+   },
+   "note": "The VEVOR 15L sits at the top of the range for batch and workshop use."
+  },
+  {
+   "subheading": "Compact Tub vs Workshop Tank",
+   "intro": "Size changes how the machine fits your bench and what it can hold.",
+   "cards": [
+    {
+     "label": "Compact tub (350 to 800 ml)",
+     "text": "A small tank is light, uses little water and fits on a shelf, but it limits part length. The OSLTWI holds 350 ml, the Magnasonic and LifeBasis 600 ml and the VisiClean 800 ml. Choose one if you clean a nozzle, needle and cap after each session."
+    },
+    {
+     "label": "Workshop tank (6 to 15 L)",
+     "text": "A large tank adds heat, more power and room for baskets of parts, but needs bench space and water to drain. The VEVOR 6L offers 120W and the VEVOR 15L 240W, both with heating. Choose one if you clean other hobby hardware or several airbrushes together."
+    }
+   ],
+   "note": "Pick a compact tub for one airbrush, and a workshop tank only if you really have the volume."
+  },
+  {
+   "subheading": "By Frequency",
+   "intro": "Frequency sets how hard the bubbles hit.",
+   "table": {
+    "headers": ["Frequency", "Pick", "Best for"],
+    "rows": [
+     ["40 kHz", "VEVOR 6L 40kHz Ultrasonic Cleaner, 120W with Heater", "Cured paint on metal parts."],
+     ["40 kHz", "VEVOR 15L 40kHz Ultrasonic Cleaner, 240W with Heater", "Batches of airbrushes and larger parts."],
+     ["42,000 Hz", "VisiClean 800ml Dual Transducer Ultrasonic Cleaner", "Mixed hobby and household loads."],
+     ["42,000 Hz", "Magnasonic 20oz Stainless Steel Ultrasonic Cleaner", "General-purpose cleaning."],
+     ["45 kHz", "LifeBasis 600ml Ultrasonic Cleaner, 45kHz with Degas", "Nozzles and caps, with a gentler touch."],
+     ["48 kHz", "OSLTWI 48kHz Ultrasonic Cleaner, 350ml Stainless Tank", "Light residue on delicate parts."]
+    ]
+   },
+   "note": "Frequencies are manufacturer figures, so treat them as relative."
+  },
+  {
+   "subheading": "For Hobby Painters Specifically",
+   "intro": "Paint residue and tiny parts call for particular features.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A basket or room for a jar, a timer you can set to several minutes, a tank of at least 600 ml, and a frequency around 40 to 45 kHz. Heat is useful for cured paint if your parts tolerate it. A cooling fan helps if you run repeated cycles."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The VEVOR 6L names airbrush tips and adds heat to 80°C, the LifeBasis offers 45 kHz with a 20-second degas, and the VisiClean gives dual transducers at 800 ml. The OSLTWI is the lightest at 0.57 kg."
+    }
+   ],
+   "note": "Rinse every part after the cycle and let it dry fully before reassembly."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Upgrade only when a feature solves a real annoyance.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["Paint cures hard on your parts, choose the VEVOR 6L with heat up to 80°C.", "You clean right after spraying, where the 350 ml OSLTWI is enough."],
+     ["You want presets and a degas step, choose the LifeBasis with five cycles.", "You are happy to set one timer, where the Magnasonic with five modes works."],
+     ["You use jar-in-bath cleaning, choose the VisiClean at 800 ml.", "You clean loose parts directly, where a 600 ml tank is enough."],
+     ["You clean many airbrushes together, choose the VEVOR 15L at 240W.", "You own one airbrush, where a compact tub is plenty."]
+    ]
+   },
+   "note": "A smaller machine you use after every session beats a large one that stays in a cupboard."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which ultrasonic cleaner is best for airbrushes?",
+   "a": "The VEVOR 6L is the best fit because its listing names airbrush tips and it adds heat up to 80°C. If you only clean a nozzle, needle and cap, the 600 ml LifeBasis with a 20-second degas step is easier to live with. The 350 ml OSLTWI is enough for occasional light cleaning."
+  },
+  {
+   "q": "Can I put a whole airbrush in the tank?",
+   "a": "It is better to disassemble it and clean the nozzle, needle, cap and cup separately. Small tubs such as the OSLTWI at 350 ml cannot take a full body, while the VisiClean at 800 ml and the VEVOR models can handle longer parts. Remove rubber seals if your maker advises it, and follow their cleaning guidance."
+  },
+  {
+   "q": "Do I need heat to remove dried paint?",
+   "a": "Heat helps but is not required for fresh residue. Only the VEVOR 6L and 15L offer it, adjustable from 0 to 80°C. The VisiClean maker advises against hot water, so for that machine use longer cycles and a suitable cleaning solution. Check that plastic and rubber parts tolerate heat before warming the bath."
+  },
+  {
+   "q": "Does a higher frequency clean paint better?",
+   "a": "No, higher frequency is gentler rather than stronger. A 40 kHz machine like the VEVOR hits harder on cured paint, while the 48 kHz OSLTWI is gentler on delicate parts. Power, tank design and cleaning solution matter as much as the frequency number."
+  },
+  {
+   "q": "Should I put solvent directly in the tank?",
+   "a": "No, avoid flammable liquids in an ultrasonic tank. A common method is to place parts in a small glass jar with cleaning solution and set the jar in the water bath. Follow the airbrush maker's guidance about which cleaners suit your parts. Wider tanks like the VisiClean at 800 ml make this easier."
+  },
+  {
+   "q": "How long should I run a cycle?",
+   "a": "Start with a short run of a few minutes and extend as needed. The LifeBasis offers cycles from 90 to 600 seconds, and the VisiClean maker says not to run beyond 30 minutes. Long runs warm small tubs, so rest the machine between cycles rather than leaving it running."
+  },
+  {
+   "q": "How do I keep the machine in good shape?",
+   "a": "Empty and dry the tank after each session and never run it without liquid. Use the basket so parts do not rest on the tank floor. Wipe the control panel with a damp cloth. The removable lid and cord on the VisiClean and the cord on the LifeBasis make cleaning and storage easier."
+  }
+ ]
+}

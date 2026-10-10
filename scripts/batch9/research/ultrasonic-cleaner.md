@@ -1,0 +1,14 @@
+# Seed: ultrasonic cleaner
+- Ultrasonic cleaners use high-frequency sound to create cavitation bubbles that lift grime from crevices without scrubbing.
+- 35 to 40 kHz is standard for general jewelry and parts; 42 to 50 kHz is gentler and suits fine detail and stones.
+- Lower frequency means more aggressive cavitation; higher frequency means smaller bubbles and a gentler clean.
+- Avoid soft or porous stones: pearls, opals, turquoise, emeralds, amber, coral can crack or cloud.
+- Treated or fracture-filled stones, loose stones and antique or worn prong settings can be shaken loose.
+- Tank sizes of about 1 to 3 L suit home use; 5 L and up suit workshops and parts.
+- Water alone works for light dirt; a mild solution helps with oils and heavier grime.
+- Do not run hot water in small consumer units unless the maker allows it; heaters exist on larger units.
+- Items sit in a basket, not on the tank floor, to protect the tank and the item.
+- Tarnish is chemical, not dirt, so ultrasonic cleaning will not remove it.
+- Watch crystals, some watches and glued items should not be immersed unless water resistant.
+- Oral appliance cleaners add UV or gentle cycles; they do not replace dentist guidance.
+- Long continuous runs overheat small units; short cycles of a few minutes are normal.

@@ -1,0 +1,337 @@
+{
+ "guideTitle": "6 Best Key Finder Tags in 2026",
+ "metaTitle": "Best Key Finder Tags for Keychains (2026)",
+ "metaDescription": "Six key finder tags compared on how they attach, how loud they ring, which phone they need and how the battery works, for iPhone, Android and no-phone setups.",
+ "introParagraphs": [
+  "A key finder tag lives on your key ring, so how it attaches, how much bulk it adds and how long it survives matter as much as how it finds things. A tag that falls off or is too thick for a pocket ends up in a drawer, which defeats the point.",
+  "We evaluated six tags based on product specs and buyer feedback. Five are Bluetooth tags: the AirTag, Chipolo POP, Chipolo Loop, NVQ and Life360 Tile. The sixth is the Esky, a radio receiver tag that is 0.2 inches thick and needs no phone. We compared attachment, ring volume, phone support, water rating and battery plan.",
+  "Pick the phone first, then use the tables to choose between a built-in hole, a holder and a stick-on receiver."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best for iPhone Precision",
+   "name": "Apple AirTag (2nd Generation)",
+   "specs": ["Apple Find My network", "Precision Finding", "50% louder speaker", "Upgraded Ultra Wideband", "Share with trusted contacts"],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My"},
+    {"label": "Directions", "value": "Precision Finding on iPhone and Apple Watch"},
+    {"label": "Speaker", "value": "50% louder, new chime"},
+    {"label": "Chips", "value": "Upgraded Ultra Wideband and Bluetooth"},
+    {"label": "Sharing", "value": "Trusted contacts and 50+ airline partners"}
+   ],
+   "description": "The second generation AirTag is the tag for iPhone owners who like arrows on a screen. Precision Finding gives step by step directions on iPhone and Apple Watch, and upgraded Ultra Wideband and Bluetooth chips let you ping the tag from farther away. Apple describes a 50% louder speaker with a new chime that is easier to recognize.\n\nLocation can be shared temporarily with trusted contacts, third parties or over 50 airline partners. The tradeoff is that the tag works only with Apple devices and has no keyring hole, so a separate holder is required. The listing gives no water rating, battery type or decibel figure.\n\nPairing is a one-tap flow on iPhone or iPad. Once it is on a holder it adds some thickness to a key ring, which matters if pockets are tight. Compared with the Chipolo POP, which has a built-in hole and rings up to 120 dB, the AirTag offers more precise iPhone finding but needs an accessory, and next to the NVQ it states no IP rating.",
+   "bestFor": "iPhone and Apple Watch owners who want arrows to a lost key tag.",
+   "pros": [
+    "Precision Finding guides you to the tag on iPhone or Apple Watch",
+    "Speaker is 50% louder with a new, distinctive chime",
+    "Share location with trusted contacts or airline partners",
+    "One-tap setup on iPhone or iPad in the Find My app"
+   ],
+   "cons": [
+    "Apple devices only, so Android phones cannot use it",
+    "No keyring hole, so a holder must be added to keys",
+    "No water rating, battery type or decibel figure is listed"
+   ]
+  },
+  {
+   "i": 15,
+   "badge": "Best Built-In Hole for Any Phone",
+   "name": "Chipolo POP Tracker Tag, iOS and Android",
+   "specs": ["Built-in keyring hole", "Rings up to 120 dB", "Find My or Find Hub", "Bright colors", "2 year warranty"],
+   "specList": [
+    {"label": "Attachment", "value": "Built-in keyring hole"},
+    {"label": "Ring volume", "value": "Up to 120 dB"},
+    {"label": "Network", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Warranty", "value": "2 years"},
+    {"label": "Design", "value": "Colorful body"}
+   ],
+   "description": "The Chipolo POP is the tag that needs nothing else to hang on a key ring, because the keyring hole is built in. The listing states a ring of up to 120 dB, loud enough to hear from rooms away, and the bright body is easy to see on a dark table. It works with Apple Find My on iPhone or Google Find Hub on Android, so it fits either phone.\n\nA single tag runs on one network at a time, so a couple on different phones should buy two. Far away location uses the global network behind your phone. A 2 year warranty is listed, with replacements handled through the seller.\n\nThe listing does not give a water rating or battery type, so we do not state either. Compared with the AirTag, the POP needs no holder but offers no directional arrows, and next to the Chipolo Loop at up to 125 dB it is slightly quieter and does not state rechargeable power.",
+   "bestFor": "Anyone who wants a clip-on tag that works with iPhone or Android.",
+   "pros": [
+    "Built-in keyring hole means no holder or extra accessory",
+    "Rings at up to 120 dB, easy to hear from another room",
+    "Works with Apple Find My or Google Find Hub networks",
+    "Bright colors make the tag easy to spot on a table"
+   ],
+   "cons": [
+    "No water resistance rating appears in the listing",
+    "Battery type and life are not stated in the product text",
+    "One network at a time, so mixed pairs need two tags"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Best Water Resistant Tag",
+   "name": "NVQ Key Finder, Works with Apple Find My",
+   "specs": ["Apple Find My, iPhone only", "IP67 water resistant", "Rings up to 80 dB", "Lost Mode", "Low battery alert"],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My, iOS only"},
+    {"label": "Ring volume", "value": "Up to 80 dB"},
+    {"label": "Water resistance", "value": "IP67"},
+    {"label": "Battery", "value": "Low battery alert"},
+    {"label": "Pack", "value": "1 pack, black"}
+   ],
+   "description": "The NVQ is a single Find My tag with a published IP67 water rating, which is rare in this group. That rating covers dust and brief immersion, so a wet coat pocket or a dropped key ring is less of a worry. The listing states a ring of up to 80 dB and a low battery alert that tells you when to replace the cell.\n\nLost Mode shows your contact details to a finder and sends a notice when the tag is spotted on the network. The listing says privacy is encrypted and anonymous, with no location history stored on the tag. It is clear that it does not work with Android, and it is one tag per pack.\n\nSetup uses the Add Item flow in the Find My app. Compared with the Chipolo POP at up to 120 dB, the NVQ rings quieter but states its water protection, and compared with the AirTag it names a ring figure and an IP rating that Apple's listing leaves out. The listing does not describe how it attaches, so check for a hole or add a holder.",
+   "bestFor": "iPhone owners whose keys get wet or dropped in bad weather.",
+   "pros": [
+    "IP67 rating handles rain, splashes and brief dunks",
+    "States a ring of up to 80 dB for a clear figure",
+    "Low battery alert warns you before the tag goes quiet",
+    "Lost Mode lets a finder see your contact details"
+   ],
+   "cons": [
+    "iPhone only, with no Android support at all",
+    "Rings quieter than the 120 dB Chipolo POP",
+    "Listing does not describe how it attaches to keys"
+   ]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Mixed Phones and Families",
+   "name": "Life360 Tile Bluetooth Tracker",
+   "specs": ["Works with iOS and Android", "Rings your phone too", "SOS alert", "Life360 link", "1, 2 and 4 packs"],
+   "specList": [
+    {"label": "Compatibility", "value": "iOS and Android"},
+    {"label": "Find phone", "value": "Rings even when silenced"},
+    {"label": "Safety", "value": "Discreet SOS alert"},
+    {"label": "App", "value": "Free Tile app"},
+    {"label": "Packs", "value": "1, 2 and 4 packs"}
+   ],
+   "description": "The Life360 Tile is a tag that two different phones can share, because the free Tile app runs on both iPhone and Android. You can ring the tag, follow it on a map, or press the tag to ring your phone, even when the phone is on silent. It clips to keys, bags or a water bottle.\n\nA discreet SOS alert can notify loved ones, and the tag links to the Life360 app so family members and tagged items appear on one map. The tradeoff is that the listing does not state ring volume, water resistance, battery type or attachment details, so we cannot rank those. The family extras are useful only if everyone uses Life360.\n\nTiles come in 1, 2 and 4 packs. Compared with the Chipolo POP at up to 120 dB, the Tile gives less hard data but adds the phone finding button, and next to the AirTag it works on Android, which the AirTag cannot.",
+   "bestFor": "Couples or families who mix iPhone and Android and want a shared app.",
+   "pros": [
+    "One free app works on both iPhone and Android",
+    "Press the tag to ring your phone, even on silent",
+    "Comes in 1, 2 and 4 pack sizes to cover more keys",
+    "Optional Life360 link puts family and items on one map"
+   ],
+   "cons": [
+    "No ring volume or water rating is given in the listing",
+    "SOS and map extras need family members on Life360",
+    "Uses the Tile network, not Find My or Find Hub"
+   ]
+  },
+  {
+   "i": 14,
+   "badge": "Best Rechargeable Tag",
+   "name": "Chipolo Loop Rechargeable Bluetooth Tracker",
+   "specs": ["Rechargeable over USB-C", "Rings up to 125 dB", "Battery up to 1 year", "iPhone or Android", "2 year warranty"],
+   "specList": [
+    {"label": "Ring volume", "value": "Up to 125 dB"},
+    {"label": "Battery", "value": "Rechargeable, up to 1 year per charge"},
+    {"label": "Charging", "value": "Any USB-C charger, not included"},
+    {"label": "Network", "value": "Apple Find My or Google Find Hub"},
+    {"label": "Warranty", "value": "2 years"}
+   ],
+   "description": "The Chipolo Loop is a rechargeable tag that charges from any USB-C charger and runs for up to a year per charge, according to the listing. The charger is not included. It rings at up to 125 dB, the loudest figure in this group, and it works with Apple Find My on iPhone or Google Find Hub on Android.\n\nA single tag runs on one network at a time, so two people on different phones need two tags. Far away finding uses the global network behind your phone. A 2 year warranty is listed with easy replacement through the seller.\n\nThe tradeoff is a sealed cell that you must remember to charge, and the listing gives no water rating, so we do not state one. Compared with the Chipolo POP at up to 120 dB, the Loop is slightly louder and rechargeable, and next to the Esky it needs a phone whereas the Esky does not. The listing does not describe how it attaches to keys.",
+   "bestFor": "People who want the loudest ring and never want to buy coin cells.",
+   "pros": [
+    "Rings at up to 125 dB, the loudest figure in this group",
+    "Rechargeable over USB-C, so no coin cells to buy",
+    "Works with iPhone or Android through the matching network",
+    "Two year warranty and replacement through the seller"
+   ],
+   "cons": [
+    "Charger is not included and the tag needs charging yearly",
+    "No water resistance rating appears in the listing",
+    "One network at a time, so mixed pairs need two tags"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best Slim Tag With No Phone",
+   "name": "Esky Key Finder Locator, 85 dB, 6 Receivers",
+   "specs": ["Radio remote, no app", "Receivers 0.2 inches thick", "Up to 85 dB beep", "100 ft range", "6 receivers"],
+   "specList": [
+    {"label": "Type", "value": "RF remote with 6 slim receivers"},
+    {"label": "Thickness", "value": "0.2 inches"},
+    {"label": "Beep", "value": "Up to 85 dB"},
+    {"label": "Range", "value": "Up to 100 ft"},
+    {"label": "Battery", "value": "CR2032 per receiver, up to 1 year"}
+   ],
+   "description": "The Esky is a different kind of tag: six slim receivers that beep when you press a button on a handheld remote. Each receiver is about 0.2 inches thick, so it can slide onto a key ring or stick to the back of a TV remote. The listing states up to 85 dB with a flashing LED light, and a range of 100 ft through walls, doors and furniture.\n\nNo phone, app or account is needed, which suits older users. The tradeoff is that it only works near the remote, with no map and no help for keys left in a shop. If the remote is lost the receivers cannot be triggered, so the remote needs a fixed home.\n\nEach receiver has a CR2032 coin cell that the listing says lasts up to a year. Six receivers cover keys, wallet, glasses and remotes. Compared with the Chipolo POP at 120 dB, the Esky is quieter at 85 dB but needs no phone, and against the NVQ it offers no location away from home but needs no app setup.",
+   "bestFor": "Anyone who wants slim tags without a phone or app.",
+   "pros": [
+    "Receivers are only 0.2 inches thick, slim on a key ring",
+    "Stated 85 dB beep with a flashing LED on each receiver",
+    "Six receivers cover keys, wallet, glasses and remotes",
+    "No phone, app or account needed, just press a button"
+   ],
+   "cons": [
+    "Works only within about 100 ft, with no map outside",
+    "A lost remote leaves all six receivers silent",
+    "Coin cells need replacing about once a year per receiver"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How the tag attaches",
+   "explanation": "A tag only helps if it stays on the keys. The Chipolo POP has a built-in keyring hole, so nothing extra is needed. The AirTag is a bare disc and requires a separate holder, and the NVQ, Tile and Chipolo Loop listings here do not describe an attachment. The Esky receivers are 0.2 inches thick and slide onto rings. Budget for a holder when the listing is silent."
+  },
+  {
+   "criterion": "Bulk on the key ring",
+   "explanation": "Thick tags tear pockets and drag at a lock. The Esky receivers measure about 0.2 inches, while a Bluetooth tag in a holder is thicker. None of the Bluetooth listings state exact dimensions, so check the product page. If you carry a slim wallet and light keys, prefer the thinnest option you can find."
+  },
+  {
+   "criterion": "Which phone you have",
+   "explanation": "The AirTag and NVQ are iPhone only, the Chipolo POP and Loop work with Find My or Google Find Hub, and the Tile works on both through its own app. The Esky needs no phone. A single Chipolo tag runs on one network at a time. If anyone in the home has Android, skip the AirTag and NVQ."
+  },
+  {
+   "criterion": "Ring volume",
+   "explanation": "Keys end up under cushions and in coat pockets, so the ring needs to carry. The Chipolo Loop claims up to 125 dB, the POP up to 120 dB, the Esky up to 85 dB and the NVQ up to 80 dB. The AirTag has a 50% louder speaker but no figure, and the Tile lists none. For poor hearing, favor the Chipolo tags."
+  },
+  {
+   "criterion": "Water and daily wear",
+   "explanation": "A key tag is rained on and dropped. The NVQ states IP67, which covers dust and brief immersion. The Chipolo, Tile, AirTag and Esky listings here give no rating, so treat them as pocket use. If your keys ride in a garden coat, the NVQ is the safest published bet."
+  },
+  {
+   "criterion": "Battery you will remember",
+   "explanation": "The Chipolo Loop recharges for up to a year per charge but needs your own USB-C charger. The Esky uses a CR2032 per receiver for up to a year, and the NVQ alerts you when its cell is low. The AirTag, POP and Tile listings give no battery detail here. Write the swap date on a calendar so a tag does not die unnoticed."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Attachment and size",
+   "description": "We looked at how each tag fastens to keys. The Chipolo POP has a keyring hole, the AirTag needs a holder, and the Esky receivers are 0.2 inches thick. Where a listing was silent on attachment, as with the NVQ, Tile and Chipolo Loop, we noted it instead of guessing."
+  },
+  {
+   "title": "Sound and finding tools",
+   "description": "We compared how each tag announces itself. The Chipolo Loop claims up to 125 dB, the POP up to 120 dB, the Esky up to 85 dB and the NVQ up to 80 dB, while the AirTag adds Precision Finding. All figures are manufacturer claims, so we used them as relative guides."
+  },
+  {
+   "title": "Phone and network support",
+   "description": "We checked which phones each tag supports. The AirTag and NVQ are iPhone only, the Chipolo POP and Loop use Find My or Find Hub, the Tile works on both through its own app, and the Esky needs no phone. Clear compatibility statements counted heavily."
+  },
+  {
+   "title": "Battery and durability",
+   "description": "We looked at battery plans and ratings. The Chipolo Loop recharges, the Esky uses a CR2032 for up to a year, and the NVQ lists IP67 with a low battery alert. Where listings were silent, as with the AirTag and Tile on battery, we did not assume a spec."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "We placed each pick by what it does best. The AirTag leads on iPhone directions, the POP on a built-in hole, the NVQ on IP67, the Tile on mixed phones, the Loop on volume and charging, and the Esky on slimness without a phone. We did not rank on popularity."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Phone Type",
+   "intro": "Your phone decides the shortlist before anything else does.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["iPhone with Apple Watch", "Apple AirTag (2nd Generation)", "Precision Finding works on iPhone and Apple Watch."],
+     ["Android phone", "Chipolo POP Tracker Tag, iOS and Android", "Works with Google Find Hub and rings up to 120 dB."],
+     ["Mixed iPhone and Android", "Life360 Tile Bluetooth Tracker", "One free app runs on both phone types."],
+     ["iPhone, rain-proof", "NVQ Key Finder, Works with Apple Find My", "IP67 rating handles splashes."],
+     ["No smartphone", "Esky Key Finder Locator, 85 dB, 6 Receivers", "Slim receivers with a remote and no app."]
+    ]
+   },
+   "note": "If any household member uses Android, rule out the AirTag and NVQ first."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Think in relative tiers based on features and pack size.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Esky Key Finder Locator, 85 dB, 6 Receivers", "Six slim receivers with no phone needed."],
+     ["Entry to mid", "Life360 Tile Bluetooth Tracker", "A cross-phone tag in 1, 2 or 4 packs."],
+     ["Mid", "NVQ Key Finder, Works with Apple Find My", "One IP67 tag with map finding."],
+     ["Mid to premium", "Chipolo POP Tracker Tag, iOS and Android", "A 120 dB tag with a built-in hole."],
+     ["Premium", "Chipolo Loop Rechargeable Bluetooth Tracker", "A 125 dB rechargeable tag and 2 year warranty."]
+    ]
+   },
+   "note": "Tiers are relative, since pack sizes and listings vary."
+  },
+  {
+   "subheading": "Built-In Hole vs Holder or Receiver",
+   "intro": "How a tag attaches changes how likely you are to keep it on.",
+   "cards": [
+    {
+     "label": "Built-in or slide-on attachment",
+     "text": "The Chipolo POP has a keyring hole and the Esky receivers slide onto rings. Both are thin and need nothing else. Choose it if you want to clip on and forget."
+    },
+    {
+     "label": "Holder required",
+     "text": "The AirTag has no hole, so a holder adds cost and some bulk. The NVQ, Tile and Chipolo Loop listings here do not describe their attachment. Choose it only if you already own a holder or want AirTag features."
+    }
+   ],
+   "note": "Check the product page for the hole before you buy a multi-pack."
+  },
+  {
+   "subheading": "By Where You Lose Them",
+   "intro": "The usual hiding place tells you what feature matters.",
+   "table": {
+    "headers": ["Where keys go missing", "Pick", "Why"],
+    "rows": [
+     ["Under cushions at home", "Esky Key Finder Locator, 85 dB, 6 Receivers", "85 dB beep and an LED light."],
+     ["Outside in the rain", "NVQ Key Finder, Works with Apple Find My", "IP67 rating handles splashes."],
+     ["Behind furniture", "Apple AirTag (2nd Generation)", "Precision Finding shows arrows on iPhone."],
+     ["Deep in a bag", "Chipolo Loop Rechargeable Bluetooth Tracker", "Rings up to 125 dB."],
+     ["Left at a shop", "Life360 Tile Bluetooth Tracker", "Map location on iPhone and Android."]
+    ]
+   },
+   "note": "Put the tag on the keys you lose most, then cover the spare set."
+  },
+  {
+   "subheading": "For Android Users Specifically",
+   "intro": "Many tags are iPhone only, so Android needs a short list.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A tag that supports Google Find Hub or has its own Android app, and a clear statement of compatibility. Avoid any listing that says iOS only."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Chipolo POP and Loop work with Google Find Hub, and the Life360 Tile has an Android app. The Esky needs no phone at all. The AirTag and NVQ do not work on Android."
+    }
+   ],
+   "note": "A Chipolo tag runs on one network at a time, so pick Find Hub when you set it up."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Upgrade only when a feature fixes a problem you actually have.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want arrows to your keys, choose the Apple AirTag.", "A loud ring is enough, where the Chipolo POP at 120 dB works."],
+     ["Your keys get wet, choose the NVQ with IP67.", "They stay dry, where the Esky works."],
+     ["Your home mixes phones, choose the Life360 Tile.", "Everyone has an iPhone, where the NVQ fits."],
+     ["You want the loudest ring, choose the Chipolo Loop at 125 dB.", "You prefer no phone, where the Esky at 85 dB works."]
+    ]
+   },
+   "note": "A tag you actually clip on beats a better one left in a drawer."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which key finder tag is best overall?",
+   "a": "For iPhone users who want arrows, the AirTag has Precision Finding. For any phone, the Chipolo POP rings up to 120 dB and has a built-in keyring hole. For a no-phone setup, the Esky offers six slim receivers at up to 85 dB."
+  },
+  {
+   "q": "Do I need a holder for the tag?",
+   "a": "The Chipolo POP has a built-in keyring hole and the Esky receivers slide onto rings. The AirTag is a bare disc and needs a holder. The NVQ, Tile and Chipolo Loop listings do not describe their attachment, so check before buying."
+  },
+  {
+   "q": "Do these tags work with Android?",
+   "a": "The Chipolo POP and Loop work with Google Find Hub, and the Tile has an Android app. The AirTag and NVQ are iPhone only. The Esky needs no phone, so it works for anyone."
+  },
+  {
+   "q": "Is a key finder tag the same as GPS?",
+   "a": "No, this is the most common misconception. A Bluetooth tag rings when it is nearby and relies on other people's phones to report where it was last seen. In a quiet area the location can be old, and it will not stop theft."
+  },
+  {
+   "q": "How long do the batteries last?",
+   "a": "The Chipolo Loop lists up to a year per charge, and the Esky lists up to a year per CR2032 receiver cell. The NVQ sends a low battery alert. The AirTag, POP and Tile listings here give no figure, so check the product page."
+  },
+  {
+   "q": "Can a tag survive in the rain?",
+   "a": "Only the NVQ states a rating, IP67, which covers dust and brief immersion. The other listings give no rating, so treat them as pocket use. If your keys get wet often, pick the NVQ or add a case."
+  },
+  {
+   "q": "Can someone use a tag to track me?",
+   "a": "Certified trackers are built so phones warn you about unknown tags moving with you. If you see an unknown tracker alert, follow the prompts on your phone. Never hide a tag on another person or their belongings without their consent."
+  }
+ ]
+}

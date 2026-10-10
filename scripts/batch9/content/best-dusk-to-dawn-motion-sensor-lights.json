@@ -1,0 +1,225 @@
+{
+ "guideTitle": "6 Best Dusk-to-Dawn Motion Sensor Lights in 2026",
+ "metaTitle": "Best Dusk-to-Dawn Motion Sensor Lights 2026",
+ "metaDescription": "Six dusk-to-dawn motion sensor lights compared, from screw-in bulbs and plug-in night lights to wall sconces and floodlights for outdoor use.",
+ "introParagraphs": [
+  "Dusk to dawn describes a light that decides for itself whether it is dark enough to work. A photocell reads the ambient light, keeps the light off during the day and wakes up the motion sensor after sunset, so you never have to flip a switch or set a timer. Combined with motion detection, you get a light that does nothing for hours and then responds the moment someone moves.",
+  "The six picks here show how many forms that combination takes. Two are screw-in bulbs that upgrade an existing fixture, one is a plug-in night light for hallways, one is a decorative wall sconce, and two are outdoor floods. They differ in brightness, sensor range and how much they ask of you at install.",
+  "We evaluated each from product specs and buyer feedback, focusing on how the daylight sensor and the motion sensor cooperate. A dusk-to-dawn light with a poor daylight threshold is the one that annoys people most, either firing at twilight or refusing to wake in the dark."
+ ],
+ "products": [
+  {
+   "i": 1,
+   "badge": "Best Overall",
+   "name": "LUTEC 72W 7500LM 3-Head LED Security Light",
+   "specs": ["72W, 7500 lumens", "5000K daylight white", "IP65 waterproof", "180 degrees, up to 69 ft", "4 lighting modes"],
+   "specList": [{"label": "Output", "value": "7500 lumens"}, {"label": "Rating", "value": "IP65"}, {"label": "Modes", "value": "4"}],
+   "description": "The LUTEC is a three-head hardwired security light rated at 72W and 7500 lumens in 5000K daylight white. Its sensor covers 180 degrees and reaches up to 69 feet, and the housing is rated IP65. Four modes include test, security, dusk to dawn and manual override.\n\nA dedicated dusk-to-dawn mode is the reason it leads this guide, because the light handles the daylight check on its own and lets motion drive the output. The test mode helps you set up the sensor in the daytime, which is a feature many simpler lights lack. At this power level it suits a large yard or a barn more than a small porch.\n\nBeing hardwired, it needs a proper connection and a sturdy mount for three heads. Compared with the UME at 2000 lumens, the LUTEC delivers more than three times the output and a longer 69 foot range. Choose it for big outdoor areas where you want the most capable dusk-to-dawn behavior.",
+   "bestFor": "Large yards and barns that need powerful, fully automatic lighting.",
+   "pros": ["Dedicated dusk-to-dawn mode among four modes", "7500 lumens covers a large outdoor area", "Test mode makes sensor setup easy in daylight", "IP65 housing is built for outdoor weather"],
+   "cons": ["Needs wiring and a sturdy mount for three heads", "More light than a small entry or patio needs"]
+  },
+  {
+   "i": 6,
+   "badge": "Best Mid-Size Flood",
+   "name": "UME 19W LED Flood Light, Motion Sensor Outdoor",
+   "specs": ["19W, 2000 lumens", "5000K daylight white", "2 adjustable heads", "Up to 50 ft sensing", "IP65 waterproof"],
+   "specList": [{"label": "Output", "value": "2000 lumens"}, {"label": "Detection", "value": "Up to 50 ft"}, {"label": "Rating", "value": "IP65"}],
+   "description": "The UME is a hardwired two-head LED flood light that makes 2000 lumens from just 19W in 5000K daylight white. The listing compares it to a 120W halogen. Its PIR sensor reaches up to 50 feet, and you can choose among three lighting-time modes. It carries an IP65 waterproof rating and a dusk-to-dawn function.\n\nThe 19W draw is the efficiency story here, and 50 feet of range is plenty for a garage front or side door. Two adjustable heads let you split the light between two spots. The listing is clear that it is hardwired only, with no battery, solar or plug-in option.\n\nOnce mounted it needs little attention beyond keeping the sensor lens clean. Against the LUTEC, the UME gives up output but is easier to mount, with two heads instead of three. Choose it for a garage, a side yard or a back door where you want strong, efficient, fully automatic light.",
+   "bestFor": "Garage fronts and back doors that need efficient, automatic floodlight.",
+   "pros": ["19W power draw for a stated 2000 lumens", "Sensor reaches up to 50 ft for early notice", "Three lighting-time modes suit different needs", "IP65 rating covers rain and spray"],
+   "cons": ["Hardwired only, with no solar or plug-in option", "Two heads cover less ground than three or four"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Screw-In Bulb",
+   "name": "Torkase Motion Sensor Light Bulb, E26 Dusk to Dawn",
+   "specs": ["E26 screw-in base", "1100 lumens, 100W equivalent", "Detects at 8 to 16 ft", "Dusk-to-dawn activation", "20,000 hour life"],
+   "specList": [{"label": "Output", "value": "1100 lumens"}, {"label": "Detection", "value": "8 to 16 ft"}, {"label": "Life", "value": "20,000 hours"}],
+   "description": "The Torkase is an E26 screw-in LED bulb that combines PIR motion sensing with dusk-to-dawn activation. It produces 1100 lumens, which the listing equates to a 100W traditional bulb, and lasts for 20,000 hours. In the dark it lights when it detects motion within 8 to 16 feet.\n\nThe bulb format is the easiest upgrade here, because you simply replace the bulb in a lamp, porch fixture or garage socket. There is no wiring, no mounting and no new fixture. The sensor is built into the bulb, which means it points wherever the bulb points, and a bulb in a recessed or enclosed fixture may see poorly.\n\nOwnership is the same as any bulb, apart from checking the fixture is open enough for the sensor. Compared with the Aovpex bulb, the Torkase states a clear detection range of 8 to 16 feet and a life figure. Choose it when you want a plug-and-play upgrade for an existing socket.",
+   "bestFor": "Existing porch or garage sockets that need a no-wiring upgrade.",
+   "pros": ["Screws into a standard E26 socket with no wiring", "1100 lumens matches a 100W traditional bulb", "Stated detection range of 8 to 16 ft", "20,000 hour life figure is clearly stated"],
+   "cons": ["Sensor is stuck pointing wherever the bulb points", "Enclosed fixtures may block the sensor's view"]
+  },
+  {
+   "i": 7,
+   "badge": "Best Daylight Threshold",
+   "name": "Aovpex Motion Sensor Light Bulb, Dusk to Dawn 100W Equivalent",
+   "specs": ["100W equivalent", "Daylight color", "Plug and play", "Off above 40 lux", "Indoor or outdoor use"],
+   "specList": [{"label": "Equivalent", "value": "100W"}, {"label": "Daylight cutoff", "value": "Above 40 lux"}, {"label": "Use", "value": "Indoor or outdoor"}],
+   "description": "The Aovpex is a plug-and-play screw-in bulb equivalent to a 100W traditional bulb, in a daylight tone. It detects heat waves from moving objects and switches on when it senses movement. Its dusk-to-dawn function turns the motion detection off in daylight above 40 lux and reactivates it only when the surroundings get darker.\n\nThe 40 lux threshold is a rare stated number, and it tells you how dark the space must be before the bulb responds. That is useful in a garage or a shaded porch, where a bulb that waits for full darkness might never fire. The listing says it suits indoor or outdoor use, though it does not state a detection distance or lumen figure.\n\nAs with all bulbs, keep it in an open fixture so the sensor can see out. Compared with the Torkase at 8 to 16 feet of range, the Aovpex shares the same basic idea but gives less range information. Choose it for dim garages and shaded entries where the daylight cutoff is the deciding factor.",
+   "bestFor": "Dim garages and shaded entries where the light threshold matters.",
+   "pros": ["Stated 40 lux cutoff shows when the sensor wakes", "Screw-in bulb needs no wiring", "100W equivalent brightness lights a garage well", "Works in indoor or outdoor fixtures"],
+   "cons": ["No detection distance or lumen figure in the listing", "Sensor view blocked by enclosed shades"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Decorative Sconce",
+   "name": "Edvivi Outdoor Wall Light, Dusk to Dawn Motion Sensor",
+   "specs": ["12 inch height", "Black geometric body", "Water glass shade", "Dusk-to-dawn with motion", "Anti-rust metal"],
+   "specList": [{"label": "Height", "value": "12 inches"}, {"label": "Shade", "value": "Water glass"}, {"label": "Material", "value": "Metal"}],
+   "description": "The Edvivi is a 12 inch outdoor wall sconce with a black finish and a geometric body. Its water glass shade softens the glow, and it is equipped with a dusk-to-dawn sensor and a motion sensor that detects movement within a significant range. The listing describes it as anti-rust and waterproof metal.\n\nThis is the pick when appearance matters as much as automation, because it looks like a normal decorative porch light rather than a security box. The water glass diffuses light into a warm, textured glow. The listing does not give a lumen figure or a range number, so you are trusting the design rather than the specs.\n\nInstallation replaces an existing fixture and then it runs on its own. Compared with the LUTEC, the Edvivi trades output for appearance, and it suits an entry rather than a yard. Choose it for the front door when you want automatic dusk-to-dawn behavior without a utilitarian look.",
+   "bestFor": "Front entries where the fixture should look like decor.",
+   "pros": ["Looks like a decorative sconce, not a security box", "Water glass shade gives a soft, textured glow", "Dusk-to-dawn and motion sensors in one unit", "Anti-rust metal body for outdoor mounting"],
+   "cons": ["No lumen or range figures in the listing", "Output suits an entry, not a yard"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Indoor Night Light",
+   "name": "AUVON Plug-in LED Backlit Night Light, 4-Pack",
+   "specs": ["4 lights in the pack", "16 diffuse backlit LEDs", "3 to 5 m, 120 degree sensing", "AUTO and NIGHT modes", "Plug-in design"],
+   "specList": [{"label": "Pack size", "value": "4 lights"}, {"label": "Detection", "value": "3 to 5 m, 120 degrees"}, {"label": "Modes", "value": "AUTO and NIGHT"}],
+   "description": "The AUVON is a four-pack of plug-in night lights with 16 LEDs that bounce light off the housing to produce a diffuse backlit glow. In AUTO mode the motion sensor detects movement across 3 to 5 meters and 120 degrees. In NIGHT mode the dusk-to-dawn sensor reads the room light and acts accordingly.\n\nHaving two clear modes is the appeal, since one setting responds to motion and the other responds to darkness. Four lights let you cover a bedroom, a hallway, a bathroom and the stairs for a single decision. They are indoor lights that use an outlet, so they suit nighttime navigation but not outdoor security.\n\nOwnership is minimal, with nothing to charge and nothing to mount. Compared with the Torkase bulb at 1100 lumens, the AUVON is far dimmer by design, since it aims at comfort, not security. Choose it for a house with several dark corridors where a gentle, sensor-driven glow is enough.",
+   "bestFor": "Indoor hallways and bedrooms that need gentle automatic light.",
+   "pros": ["Four lights cover several rooms in one purchase", "Diffuse backlit glow avoids harsh glare", "NIGHT mode reads room light for dusk-to-dawn behavior", "Plug-in design needs no charging or mounting"],
+   "cons": ["Indoor use only, with no outdoor security role", "Needs an outlet in each spot you want lit"]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How the daylight sensor behaves",
+   "explanation": "The photocell is what makes a light dusk-to-dawn, and its threshold decides when the light wakes. The Aovpex states that motion detection turns off above 40 lux and returns when it gets darker, which is a clear number. The AUVON NIGHT mode reads room light, and the LUTEC has a dedicated dusk-to-dawn mode. In a shaded space, favor a model with a low threshold so it still wakes."
+  },
+  {
+   "criterion": "Motion range and angle",
+   "explanation": "A sensor must see you in time to light the way. The LUTEC reaches 69 feet at 180 degrees, the UME reaches 50 feet and the Torkase reaches 8 to 16 feet. Walking straight toward a PIR sensor triggers it later than crossing its field. Pick range to suit the space, because a long drive needs reach and a closet does not."
+  },
+  {
+   "criterion": "Form: bulb, plug-in or fixture",
+   "explanation": "The format decides your installation effort. A bulb such as the Torkase or Aovpex screws into an existing socket, a plug-in like the AUVON needs only an outlet and a hardwired fixture such as the UME or LUTEC needs wiring. Choose the lightest option that does the job. Bulbs are simplest, but they point wherever the socket points."
+  },
+  {
+   "criterion": "Brightness for the job",
+   "explanation": "Output should match the space and the purpose. The LUTEC delivers 7500 lumens, the UME 2000 and the Torkase 1100, while the AUVON gives only a gentle glow. Security needs high output, and navigation needs comfort. Too much light indoors is as unhelpful as too little outdoors."
+  },
+  {
+   "criterion": "Weather rating",
+   "explanation": "Outdoor dusk-to-dawn lights live in rain, snow and heat. The LUTEC and UME both list IP65, and the Edvivi is described as anti-rust and waterproof. The bulbs and the plug-in lights should stay in sheltered or indoor locations. Check the rating before choosing a place."
+  },
+  {
+   "criterion": "Modes and manual override",
+   "explanation": "Sometimes you want a light to stay on regardless of the sensor. The LUTEC includes a manual override mode, the UME offers three lighting-time modes, and the AUVON has AUTO and NIGHT settings. A test mode, as on the LUTEC, saves you from waiting until dark to check aim. Look for at least one override in any light you mount high."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Daylight and motion cooperation",
+   "description": "We looked at how clearly each listing explains the daylight threshold and the motion behavior. The Aovpex states a 40 lux cutoff, the LUTEC provides a dedicated dusk-to-dawn mode, and the AUVON separates AUTO and NIGHT modes. Clear behavior scored higher."
+  },
+  {
+   "title": "Sensor reach",
+   "description": "Stated range decided this score. The LUTEC leads at 69 feet, the UME follows at 50 feet, and the AUVON covers 3 to 5 meters. The Torkase at 8 to 16 feet suits close-range sockets."
+  },
+  {
+   "title": "Output and efficiency",
+   "description": "We compared lumens and power draw. The LUTEC delivers 7500 lumens at 72W, the UME 2000 lumens from 19W, and the Torkase 1100 lumens in a bulb. The AUVON aims at comfort, not output."
+  },
+  {
+   "title": "Ease of installation",
+   "description": "Bulbs and plug-ins scored highest, since they need no wiring. The Torkase and Aovpex screw in, the AUVON plugs in, and the UME, LUTEC and Edvivi require hardwiring."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The six picks cover different jobs. The LUTEC is the large-area leader, the UME suits mid-size spots, the bulbs upgrade sockets, the Edvivi leads on looks and the AUVON handles indoor corridors."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Where You Will Use It",
+   "intro": "The location tells you which format makes sense.",
+   "table": {
+    "headers": ["Situation", "Pick", "Reason"],
+    "rows": [
+     ["Large yard or barn", "LUTEC 72W 7500LM 3-Head LED Security Light", "7500 lumens and 69 ft reach"],
+     ["Garage front or side door", "UME 19W LED Flood Light, Motion Sensor Outdoor", "2000 lumens from 19W with 50 ft sensing"],
+     ["Existing porch socket", "Torkase Motion Sensor Light Bulb, E26 Dusk to Dawn", "Screws in with no wiring"],
+     ["Dim garage or shaded entry", "Aovpex Motion Sensor Light Bulb, Dusk to Dawn 100W Equivalent", "Wakes once light drops below 40 lux"],
+     ["Indoor hallways", "AUVON Plug-in LED Backlit Night Light, 4-Pack", "Four plug-in lights with a NIGHT mode"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers are relative, and bulbs and plug-ins avoid wiring costs.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "AUVON Plug-in LED Backlit Night Light, 4-Pack", "Four gentle indoor lights"],
+     ["Entry", "Aovpex Motion Sensor Light Bulb, Dusk to Dawn 100W Equivalent", "A simple bulb upgrade"],
+     ["Mid", "Torkase Motion Sensor Light Bulb, E26 Dusk to Dawn", "1100 lumens with stated range and life"],
+     ["Mid", "Edvivi Outdoor Wall Light, Dusk to Dawn Motion Sensor", "A decorative sconce with sensors"],
+     ["Premium", "UME 19W LED Flood Light, Motion Sensor Outdoor", "Efficient hardwired flood"],
+     ["Premium", "LUTEC 72W 7500LM 3-Head LED Security Light", "Four modes and 7500 lumens"]
+    ]
+   }
+  },
+  {
+   "subheading": "Bulb vs Fixed Fixture",
+   "intro": "A bulb upgrade and a new fixture solve the same problem very differently.",
+   "cards": [
+    {"label": "Smart bulb", "text": "A sensor bulb replaces the bulb you already have, so installation takes seconds. The Torkase and Aovpex work this way, but the sensor points wherever the socket does. Choose it for an open fixture that already faces the right way."},
+    {"label": "Dedicated fixture", "text": "A fixture such as the UME, LUTEC or Edvivi has its own sensor head, so it can be aimed independently of the lamp. It needs wiring and mounting. Choose it when you want long range, adjustable aim and weather protection."}
+   ]
+  },
+  {
+   "subheading": "By Mode Preference",
+   "intro": "How the light behaves between triggers decides how it feels to live with.",
+   "table": {
+    "headers": ["Preference", "Pick", "Reason"],
+    "rows": [
+     ["Manual override and test mode", "LUTEC 72W 7500LM 3-Head LED Security Light", "Four modes including override"],
+     ["Choose lighting time", "UME 19W LED Flood Light, Motion Sensor Outdoor", "Three lighting-time modes"],
+     ["Motion or darkness trigger", "AUVON Plug-in LED Backlit Night Light, 4-Pack", "AUTO and NIGHT modes"],
+     ["Known lux cutoff", "Aovpex Motion Sensor Light Bulb, Dusk to Dawn 100W Equivalent", "40 lux threshold"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Security Specifically",
+   "intro": "Security lighting should wake early, shine brightly and stay reliable.",
+   "cards": [
+    {"label": "Look for", "text": "Long sensor range, high lumens, an explicit weather rating and a manual override. Avoid bulbs in enclosed fixtures, since they see poorly. Mount high enough to avoid tampering."},
+    {"label": "In this comparison", "text": "The LUTEC at 7500 lumens and 69 feet is the strongest choice, followed by the UME at 2000 lumens and 50 feet. The Torkase bulb works as an entry-level upgrade at 1100 lumens. The Edvivi suits a front door."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Spend where the extra capability matches a real need.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["Your property is large, so the LUTEC at 7500 lumens fits", "You only have a side door, so the UME at 2000 lumens is enough"],
+     ["You want aimable sensing, so a fixture like the UME helps", "Your socket faces the right way, so the Torkase works"],
+     ["Looks matter at the front door, so the Edvivi earns its place", "Function matters most, so a bulb is fine"],
+     ["You need several rooms covered, so the AUVON four-pack helps", "You need one hallway, so a single light is enough"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does dusk to dawn actually mean on a motion light?",
+   "a": "It means a built-in light sensor keeps the unit inactive during the day and switches it on after dark. Some lights then stay on all night, and others wait for motion. The Aovpex states that motion detection stays off above 40 lux. Check which behavior your pick uses."
+  },
+  {
+   "q": "Is a motion sensor bulb as good as a fixture?",
+   "a": "It is easier but less flexible. A bulb such as the Torkase screws in and is done, but its sensor points wherever the socket points. A fixture like the UME lets you aim the sensor separately. Pick a bulb for convenience and a fixture for control."
+  },
+  {
+   "q": "Why does my light turn on in the evening before it is dark?",
+   "a": "The light threshold may be set too high, or a nearby lamp may be fooling the photocell. Some models have a dial to adjust it. Make sure the sensor does not face a bright window or a streetlight. A test mode, as on the LUTEC, helps you check."
+  },
+  {
+   "q": "Can I use a motion sensor bulb in an enclosed fixture?",
+   "a": "Usually it works poorly, because the shade blocks the sensor's view and traps heat. Choose an open fixture. If the fixture is enclosed, consider the Edvivi or another dedicated light. Always follow the bulb's fixture guidance."
+  },
+  {
+   "q": "Are brighter lights better for security?",
+   "a": "Not necessarily, since glare can create deep shadows and annoy neighbors. A well-aimed 2000 lumen light like the UME can outperform a poorly aimed brighter one. The LUTEC at 7500 lumens suits large areas. Aim matters as much as output."
+  },
+  {
+   "q": "Do these lights save energy?",
+   "a": "They run only when needed, so they usually use far less than an always-on light. The UME makes 2000 lumens from 19W. LED sources in the Torkase also last 20,000 hours by the listing. The savings come mostly from not burning light all night."
+  }
+ ]
+}

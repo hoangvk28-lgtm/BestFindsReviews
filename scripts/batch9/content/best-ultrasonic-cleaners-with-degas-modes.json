@@ -1,0 +1,311 @@
+{
+ "guideTitle": "5 Best Ultrasonic Cleaners With Degas Modes in 2026",
+ "metaTitle": "Best Ultrasonic Cleaners With Degas (2026)",
+ "metaDescription": "Five ultrasonic cleaners with a degas feature compared on tank size, heater power, gentle modes and controls, from a 2 L home unit to a 10 L workshop tank.",
+ "introParagraphs": [
+  "Fresh tap water is full of dissolved air, and that trapped gas soaks up ultrasonic energy before it can do any cleaning. A degas mode runs the transducers to drive that air out so the cavitation bubbles act on your items instead. It is a feature that once belonged to lab equipment and is now common on home-sized machines, which is why it is worth sorting the models that actually have it from those that only imply it.",
+  "We evaluated five cleaners that list a degas function, based on product specs and buyer feedback. They range from a 600 ml jewelry tub with an automatic 20-second pre-cycle to a 10 L workshop machine with a 600W heater, and they differ in whether degassing runs automatically or as a mode you choose.",
+  "Use the picks as a starting point, then work through the criteria and tables to match a degas machine to your items, your counter space and how much control you want."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best Overall",
+   "name": "CREWORKS 2L Digital Ultrasonic Cleaner, 150W Heater",
+   "specs": ["2 L 304 stainless tank", "60W, 40 kHz ultrasonic", "150W heater", "Degas and gentle modes", "1 to 30 minute timer"],
+   "specList": [
+    {"label": "Tank", "value": "2 L (0.5 gal), 304 stainless steel with basket"},
+    {"label": "Ultrasonic", "value": "60W at 40 kHz"},
+    {"label": "Heater", "value": "150W, 32 to 176°F"},
+    {"label": "Modes", "value": "Degas and gentle"},
+    {"label": "Timer", "value": "1 to 30 minutes"}
+   ],
+   "description": "This CREWORKS is the best all-round degas machine for a home. It pairs 60W of ultrasonic power at 40 kHz with a 150W heater, a digital panel and a 1 to 30 minute timer in a 2 L (half gallon) 304 stainless tank. A dedicated degas mode quickly removes gas bubbles from the solution and from porous objects, which makes the cavitation more effective.\n\nIt also includes a gentle mode that halves the ultrasonic power for fragile surfaces such as circuit boards, aligners, rings and necklaces. The tradeoff is that degassing is a mode you must remember to run, rather than an automatic step, and 40 kHz is more aggressive than the 45 kHz units. The temperature range of 32 to 176°F lets you run cool or warm cleaning.\n\nSetup is fill, run degas, load the basket, set time and temperature and start. Compared with the knob model it adds a digital readout and a bigger heater, while the LifeBasis at 600 ml automates the degas step. For most households this is the sensible default.",
+   "bestFor": "Households wanting a degas mode, a gentle mode and a heater in one 2 L machine.",
+   "pros": [
+    "A dedicated degas mode clears bubbles from the solution and porous items",
+    "Gentle mode halves the 60W output for rings, aligners and circuit boards",
+    "A 150W heater with a 32 to 176°F range covers cold and warm cleaning",
+    "The 304 stainless tank and basket suit regular, frequent use"
+   ],
+   "cons": [
+    "Degassing is a separate mode you must remember to run before each batch",
+    "At 40 kHz it is harder on soft stones and glued pieces than 45 kHz tubs",
+    "At 2 L it needs more counter space and water than a drawer-size tub"
+   ]
+  },
+  {
+   "i": 0,
+   "badge": "Best Simple Controls",
+   "name": "CREWORKS 2L Knob Ultrasonic Cleaner, 100W Heater",
+   "specs": ["2 L 304 stainless tank", "60W ultrasonic power", "100W heater", "Degas and gentle modes", "Toggle switches and knobs"],
+   "specList": [
+    {"label": "Tank", "value": "2 L (0.5 gal), 304 stainless steel with basket"},
+    {"label": "Ultrasonic", "value": "60W"},
+    {"label": "Heater", "value": "100W, 70 to 175°F"},
+    {"label": "Modes", "value": "Degas and gentle (semi-wave)"},
+    {"label": "Controls", "value": "Toggle switches and adjustment knobs"}
+   ],
+   "description": "The knob version of the CREWORKS has the same 2 L tank, 60W ultrasonic output and degas and gentle modes as the digital models. The difference is the interface, where toggle switches and adjustment knobs set time up to 30 minutes and temperature between 70 and 175°F. The built-in heater is rated at 100W, and the tank and basket are 304 stainless steel.\n\nThe gentle mode, which the listing calls semi-wave, halves the power to protect circuit boards, jewelry, rings and necklaces. The knobs are easy to turn and read without menus, which suits people who find small screens fussy. The tradeoff is the smallest heater of the CREWORKS group and less exact numbers than a digital readout.\n\nDay to day, flip the degas switch, wait for it to finish, load the basket and set the knobs. Against the 150W digital model it gives up precision and some warm-up speed, and against the 3.2 L Granbo at 120W it has half the output in a smaller tank. It is the easiest degas machine to operate by feel.",
+   "bestFor": "People who prefer switches and dials and want degas and gentle options at home.",
+   "pros": [
+    "Toggle switches and knobs set a cycle without menus or small screens",
+    "Degas and a semi-wave gentle mode both come on this simple version",
+    "A 100W heater covering 70 to 175°F gives warm cleaning when needed",
+    "The 304 stainless tank and basket keep the build sturdy and durable"
+   ],
+   "cons": [
+    "The 100W heater is the smallest of the heated models in this guide",
+    "Knobs give less exact readings than a digital time and temperature panel",
+    "You must run the degas switch yourself before each new batch of water"
+   ]
+  },
+  {
+   "i": 6,
+   "badge": "Best Automatic Degas",
+   "name": "LifeBasis CDS-100 Ultrasonic Cleaner, 600 ml",
+   "specs": ["45 kHz ultrasonic", "600 ml SUS 304 tank", "20-second auto degas", "5 cycles, 90 to 600 s", "Built-in cooling fan"],
+   "specList": [
+    {"label": "Frequency", "value": "45 kHz"},
+    {"label": "Transducers", "value": "35W"},
+    {"label": "Tank", "value": "600 ml (20 oz), SUS 304 stainless"},
+    {"label": "Degas", "value": "20-second automatic pre-cycle"},
+    {"label": "Cycles", "value": "90, 180, 300, 480 and 600 seconds"}
+   ],
+   "description": "The LifeBasis CDS-100 is the only machine here where degassing happens on its own. A 20-second degassing cycle starts automatically before every clean, removing air bubbles from the water so the ultrasonic energy reaches your items. It runs at 45 kHz with 35W transducers in a 600 ml (20 oz) SUS 304 stainless tank, with five cycles of 90, 180, 300, 480 and 600 seconds.\n\nA built-in cooling fan and overheating protection are listed, along with automatic shut-off and a removable power cord. The tradeoff is that the degas step is listed as a fixed 20 seconds, and there is no heater or gentle mode, so delicate items rely on shorter cycles. At 45 kHz it is gentler than the 40 kHz units for rings, glasses and retainers.\n\nUse is as simple as it gets: fill, choose a cycle, press start. Compared with the 2 L CREWORKS it is smaller and unheated, but you never have to remember a degas switch. Next to the 3.2 L Granbo it has about a fifth of the tank volume and far less power, yet it is much easier to store.",
+   "bestFor": "Anyone who wants better results from plain water without managing a degas mode.",
+   "pros": [
+    "A 20-second degas starts every cycle so energy reaches your items",
+    "At 45 kHz it is a gentler choice than the 40 kHz units for fine pieces",
+    "A cooling fan and overheat protection help it handle longer cycles",
+    "A removable power cord makes changing water and storing it simple"
+   ],
+   "cons": [
+    "The 20-second degas is fixed, so heavily gassed water may need a rerun",
+    "There is no heater or gentle mode, only shorter cycles for fragile items",
+    "The 600 ml tank is too small for tool trays, circuit boards or parts"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best Mid-Size Heated Pick",
+   "name": "Granbo 3.2L Ultrasonic Cleaner with Heater and Degas",
+   "specs": ["3.2 L 304 stainless tank", "120W, 40 kHz ultrasonic", "150W heater", "Degas mode", "LED timer to 30 minutes"],
+   "specList": [
+    {"label": "Tank", "value": "3.2 L, 304 stainless steel"},
+    {"label": "Tank size", "value": "9.4 x 5.3 x 4 in"},
+    {"label": "Ultrasonic", "value": "120W at 40 kHz"},
+    {"label": "Heater", "value": "150W"},
+    {"label": "Timer", "value": "0 to 30 minutes, LED display"}
+   ],
+   "description": "The Granbo is the middle step between the 2 L home units and the 10 L workshop machine. It delivers 120W of ultrasonic power at 40 kHz, a 150W heater and an LED digital timer for 0 to 30 minutes, in a 3.2 L 304 stainless tank measuring 9.4 by 5.3 by 4 inches. A degas mode is listed to remove gas from the liquid and improve cleaning efficiency.\n\nThe tank is four inches deep, which is deeper than the shallow jewelry tubs and handles taller items better. The tradeoff is that the listing describes no gentle mode, so at 40 kHz and 120W it is a stronger machine than delicate jewelry needs. It suits tools, small parts, glasses and similar hardy items better than fine stones.\n\nSetup is fill, run degas, set time and temperature and start. Compared with the 2 L CREWORKS it doubles the stated ultrasonic power at 120W against 60W, though it lacks the half-power gentle option. Against the 10 L VEVOR it is much smaller and lighter to lift when full, with far less heating power.",
+   "bestFor": "Hobbyists and households cleaning tools, glasses and parts who want degas and heat in a mid tank.",
+   "pros": [
+    "A stated 120W at 40 kHz is double the output of the 2 L CREWORKS units",
+    "A 150W heater and an LED timer to 30 minutes are easy to set",
+    "The 3.2 L tank is 4 inches deep, which suits taller items better",
+    "A listed degas mode clears gas to improve cleaning efficiency"
+   ],
+   "cons": [
+    "No gentle or half-power mode is listed for fragile jewelry or aligners",
+    "At 40 kHz and 120W it is more aggressive than delicate items need",
+    "The 3.2 L tank takes more water and storage space than a 2 L unit"
+   ]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Workshops",
+   "name": "VEVOR 10L 600W Heated Ultrasonic Cleaner, Degas and Gentle",
+   "specs": ["10 L 304 stainless tank", "40 kHz ultrasonic", "600W heating power", "4 transducers", "Upgraded degas and gentle mode"],
+   "specList": [
+    {"label": "Tank", "value": "10 L, 304 stainless with basket"},
+    {"label": "Frequency", "value": "40 kHz"},
+    {"label": "Heating", "value": "600W, 0 to 80°C"},
+    {"label": "Transducers", "value": "4"},
+    {"label": "Modes", "value": "Upgraded degassing and gentle mode"}
+   ],
+   "description": "The VEVOR 10L is the workshop answer, with four transducers, a 600W heating system and a 10 L 304 stainless tank with basket. It runs at 40 kHz and heats from 0 to 80°C. The listing calls out an upgraded degassing function that clears trapped air so the solution can reach inner holes and seams, plus dual power switching between a gentle mode and a stronger setting.\n\nIt is the most capable degas machine here and also the most demanding. A full 10 L tank is heavy, the 40 kHz setting is harsh on soft stones and glued items, and the size makes it overkill for a few rings or a retainer. The built-in drain and portable handle help, but it needs a bench and a nearby sink.\n\nIn use you fill, degas, set time and temperature and clean. Against the 3.2 L Granbo it offers roughly three times the tank volume and a gentle mode that the Granbo lacks. Compared with the 600 ml LifeBasis it adds heat and power, but costs you the simplicity of an automatic 20-second step.",
+   "bestFor": "Workshop and hobby users cleaning parts and tools in bulk who want strong degassing.",
+   "pros": [
+    "Upgraded degassing helps the solution reach inner holes and seams",
+    "A 600W heater takes a large 10 L tank up to a working 80°C quickly",
+    "A gentle mode and dual power switching cover delicate and heavy loads",
+    "A built-in drain and portable handle ease emptying the big tank"
+   ],
+   "cons": [
+    "A full 10 L tank is heavy and needs a sturdy bench near a sink",
+    "At 40 kHz it is harsh on soft stones, glued items and fine jewelry",
+    "Far more machine than a household needs for rings or glasses"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Automatic or manual degas",
+   "explanation": "Degassing removes dissolved air so ultrasonic energy goes into cleaning instead of into aerated water. The LifeBasis CDS-100 runs a 20-second degas automatically before every cycle, while the CREWORKS models and VEVOR 10L offer degas as a mode you select. Automatic is easier and harder to forget, and manual gives you control of how long to run it. If you want set-and-forget results from fresh tap water, pick the LifeBasis."
+  },
+  {
+   "criterion": "Gentle mode availability",
+   "explanation": "A degas mode is not the same as a gentle mode, and many buyers confuse the two. The three CREWORKS and VEVOR 10L listings include a gentle option, with the CREWORKS version halving its 60W output. The Granbo and LifeBasis list none. If you clean aligners, circuit boards or fine jewelry, choose a model with a gentle mode, and otherwise shorten cycles."
+  },
+  {
+   "criterion": "Tank size and depth",
+   "explanation": "Degas matters most in large tanks, where more water holds more trapped air. The LifeBasis holds 600 ml, the CREWORKS units 2 L, the Granbo 3.2 L at 4 inches deep and the VEVOR 10 L. Items must sit under the liquid and clear of the walls. Measure your largest item first, and favor the Granbo if you clean taller pieces."
+  },
+  {
+   "criterion": "Heater power and temperature range",
+   "explanation": "Warm water speeds up cleaning of greasy items. The CREWORKS family lists 100W on the knob model and 150W on the digital model, the Granbo has 150W, and the VEVOR 10L has 600W. The LifeBasis has no heater. Choose 150W or more for greasy items, and skip heat for glued or plastic pieces."
+  },
+  {
+   "criterion": "Frequency and ultrasonic power",
+   "explanation": "Lower frequency cleans harder, and higher frequency is gentler. The CREWORKS, Granbo and VEVOR all run at 40 kHz, while the LifeBasis runs at 45 kHz with 35W transducers. The Granbo states 120W and the CREWORKS 60W. Pick the 45 kHz LifeBasis for rings and glasses, and the 40 kHz units for tools and parts."
+  },
+  {
+   "criterion": "Controls and handling",
+   "explanation": "Degas adds a step, so the controls should make it easy. The CREWORKS knob model uses switches and dials, the 150W CREWORKS and Granbo use digital panels, and the LifeBasis uses a touch button. A full VEVOR 10L tank is heavy, though its built-in drain helps. Match the interface to how often and how carefully you will use it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Degas implementation",
+   "description": "We compared how each machine delivers degassing. The LifeBasis runs a fixed 20-second automatic step, the CREWORKS models and Granbo offer a degas mode you select, and the VEVOR 10L lists upgraded degassing. We treated efficiency claims as manufacturer statements."
+  },
+  {
+   "title": "Gentleness and modes",
+   "description": "We checked which models offer a gentle option. The three CREWORKS units and the VEVOR 10L list one, with the CREWORKS version halving its 60W, while the Granbo and LifeBasis list none. Gentle options carried extra weight for mixed households."
+  },
+  {
+   "title": "Power, heat and tank",
+   "description": "We compared stated wattage, heater power and capacity. The VEVOR leads on tank and heating at 10 L and 600W, the Granbo on stated ultrasonic output at 120W, and the LifeBasis is the only unit without a heater. Capacity ran from 600 ml to 10 L."
+  },
+  {
+   "title": "Controls and handling",
+   "description": "We looked at knobs, digital panels, baskets, drains and weight. The CREWORKS knob model uses switches, the 150W CREWORKS and Granbo use digital panels, and the VEVOR adds a drain. Simple operation scored higher, since degas adds a step."
+  },
+  {
+   "title": "Ownership and value",
+   "description": "We considered footprint, cords, fans and what each model offers for its class. The LifeBasis has a removable cord and a cooling fan, the CREWORKS units suit home counters, and the VEVOR suits benches. We did not rank on price, only on features per size."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Clean",
+   "intro": "Match the degas machine to the items you clean most often.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["Rings, glasses and retainers", "LifeBasis CDS-100 Ultrasonic Cleaner, 600 ml", "The 20-second auto degas and 45 kHz keep it simple and gentle."],
+     ["A mix of jewelry and fragile items", "CREWORKS 2L Digital Ultrasonic Cleaner, 150W Heater", "Degas plus a half-power gentle mode on a 60W unit."],
+     ["Users who dislike menus", "CREWORKS 2L Knob Ultrasonic Cleaner, 100W Heater", "Switches and knobs set a 70 to 175°F cycle without screens."],
+     ["Tools, glasses and small parts", "Granbo 3.2L Ultrasonic Cleaner with Heater and Degas", "120W at 40 kHz and a 4 inch deep tank suit hardy items."],
+     ["Engine parts and bulk loads", "VEVOR 10L 600W Heated Ultrasonic Cleaner, Degas and Gentle", "The 10 L tank and 600W heater handle large batches."]
+    ]
+   },
+   "note": "Run degas before loading items, and keep soft stones and glued pieces out of the tank."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Spend on the features you will use, not the longest spec list.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "LifeBasis CDS-100 Ultrasonic Cleaner, 600 ml", "An automatic 20-second degas in a compact 600 ml tub."],
+     ["Entry to mid", "CREWORKS 2L Knob Ultrasonic Cleaner, 100W Heater", "Degas, gentle mode and a 100W heater on dials."],
+     ["Mid", "CREWORKS 2L Digital Ultrasonic Cleaner, 150W Heater", "Digital control, degas, gentle mode and a 150W heater."],
+     ["Mid to premium", "Granbo 3.2L Ultrasonic Cleaner with Heater and Degas", "120W at 40 kHz, a 150W heater and a 3.2 L tank."],
+     ["Premium", "VEVOR 10L 600W Heated Ultrasonic Cleaner, Degas and Gentle", "Four transducers, a 600W heater and a 10 L tank."]
+    ]
+   },
+   "note": "Tiers are relative, so compare current listings before you buy."
+  },
+  {
+   "subheading": "Automatic Degas vs Manual Degas",
+   "intro": "How the machine handles degassing changes how often you get the benefit.",
+   "cards": [
+    {
+     "label": "Automatic degas",
+     "text": "The machine runs a degas step before every clean, so you never forget it. The LifeBasis CDS-100 does this with a fixed 20-second cycle at 45 kHz. Choose it if you want consistent results from fresh water without extra steps."
+    },
+    {
+     "label": "Manual degas mode",
+     "text": "You pick degas as a mode and decide how long to run it. The CREWORKS 2L models, Granbo 3.2L and VEVOR 10L work this way. Choose these if you want control over the step and are happy to run it each time you change the water."
+    }
+   ],
+   "note": "Automatic suits simplicity, while manual suits larger tanks where gas takes longer to clear."
+  },
+  {
+   "subheading": "By Tank Size",
+   "intro": "Tank volume decides how much you can clean per batch.",
+   "table": {
+    "headers": ["Tank", "Pick", "Best for"],
+    "rows": [
+     ["600 ml", "LifeBasis CDS-100 Ultrasonic Cleaner, 600 ml", "Glasses, rings and retainers."],
+     ["2 L", "CREWORKS 2L Digital Ultrasonic Cleaner, 150W Heater", "Glasses plus a tray of jewelry."],
+     ["2 L", "CREWORKS 2L Knob Ultrasonic Cleaner, 100W Heater", "The same load with simple dials."],
+     ["3.2 L", "Granbo 3.2L Ultrasonic Cleaner with Heater and Degas", "Taller items and small parts."],
+     ["10 L", "VEVOR 10L 600W Heated Ultrasonic Cleaner, Degas and Gentle", "Tool trays and bulk parts."]
+    ]
+   },
+   "note": "Larger tanks hold more dissolved air, so degassing matters more as the tank grows."
+  },
+  {
+   "subheading": "For Jewelry and Glasses Specifically",
+   "intro": "Fine items reward a gentle mode and a short, well-degassed cycle.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A degas function, a gentle or half-power mode, a frequency near 45 kHz or a gentle setting at 40 kHz, and a basket. Avoid heat for glued items and stones."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The LifeBasis at 45 kHz auto-degasses every cycle, and the CREWORKS 2L models add a gentle mode that halves 60W. The Granbo at 120W and the VEVOR 10L suit hardy items better than fragile jewelry."
+    }
+   ],
+   "note": "Rinse and dry items after every cycle, and skip soft stones such as pearls and opals."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Upgrade only when a feature solves a real annoyance.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want a gentle mode and heat, choose the CREWORKS 150W digital model.", "You only clean glasses and rings, where the LifeBasis is enough."],
+     ["You clean tools and small parts, choose the Granbo at 120W.", "You clean fragile items, where a gentle CREWORKS is the better fit."],
+     ["You clean parts in bulk, choose the VEVOR 10L with its 600W heater.", "You only clean at home, where a 2 L tank is plenty."],
+     ["You hate menus, choose the CREWORKS knob model.", "You like exact numbers, where the 150W digital version suits."]
+    ]
+   },
+   "note": "A smaller machine you use weekly beats a large one that stays in the cupboard."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does a degas mode actually do?",
+   "a": "Fresh water holds dissolved air that absorbs ultrasonic energy and weakens the cavitation that does the cleaning. A degas mode runs the transducers to drive that air out before you clean. The CREWORKS listing says it also removes gas from porous objects, which makes cavitation more effective."
+  },
+  {
+   "q": "Is automatic degas better than a degas mode?",
+   "a": "Automatic degas is easier because it runs every time, as on the LifeBasis with its 20-second step. A selectable mode, as on the CREWORKS and VEVOR 10L, gives you control over how long to run it. Large tanks benefit from the manual option, and small tubs benefit from the automatic one."
+  },
+  {
+   "q": "Which degas ultrasonic cleaner is best for most homes?",
+   "a": "The CREWORKS 2L Digital with the 150W heater is the best balance, since it adds degas, a gentle mode and a 32 to 176°F range. If you want a simpler machine for rings and glasses, the 600 ml LifeBasis degasses on its own. For parts and tools, the 3.2 L Granbo at 120W is the sensible step up."
+  },
+  {
+   "q": "Do I need a gentle mode as well as degas?",
+   "a": "Degas and gentle mode solve different problems. Degas improves how well cavitation works, and gentle mode reduces how hard it works. If you clean aligners, circuit boards or fine jewelry, a gentle option like the CREWORKS half-power mode adds a real safety margin."
+  },
+  {
+   "q": "Is 40 kHz safe for jewelry?",
+   "a": "It can be, with care. The CREWORKS, Granbo and VEVOR run at 40 kHz, which is harder than the 45 kHz LifeBasis. Avoid soft or porous stones such as pearls, opals and emeralds, along with treated or loose stones. Use a gentle mode, cool water and short cycles."
+  },
+  {
+   "q": "How often should I degas?",
+   "a": "Degas whenever you put fresh water in the tank, since new water holds the most dissolved air. The LifeBasis does this automatically for every cycle. On manual models, run the degas mode before loading your items, and repeat it if you top up with fresh water."
+  },
+  {
+   "q": "How do I look after an ultrasonic cleaner with a heater?",
+   "a": "Never run it without liquid, and let the heater cool before you pour out hot water. Empty and dry the tank after each session, and keep items in the basket. The VEVOR 10L has a built-in drain, which helps with a heavy tank. Wipe the panel with a damp cloth rather than spraying it."
+  }
+ ]
+}

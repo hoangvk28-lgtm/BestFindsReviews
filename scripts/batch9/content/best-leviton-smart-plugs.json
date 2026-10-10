@@ -1,0 +1,235 @@
+{
+ "guideTitle": "4 Best Leviton Smart Plugs in 2026",
+ "metaTitle": "Best Leviton Smart Plugs in 2026",
+ "metaDescription": "Four Leviton Decora smart plugs compared: Wi-Fi, dimmer, outdoor Matter and Z-Wave, with ratings, voice support and who each one suits.",
+ "introParagraphs": [
+  "Leviton is best known for wall switches and outlets, and its plug-in Decora line brings that electrical background to the smart plug category. Instead of one generic model, the brand offers four distinct plugs that each solve a different problem: a standard Wi-Fi plug, a dimmer plug for lamps, a weather-resistant outdoor plug and a Z-Wave plug for hub-based homes. That variety is the reason a short list works better than a long one here.",
+  "We evaluated these plugs based on product specs and buyer feedback, paying attention to the compatibility details each listing states. Voice control, Matter support, load ratings and operating temperature differ enough between them that picking by the label alone can lead to a plug that does not fit your lamp or your system. The sections below explain what each model does well and where it asks for compromises.",
+  "If you are choosing for a parent or relative, the most useful question is how the plug will be controlled day to day. A quiet schedule that turns a lamp on at dusk needs very little from the user, while a hub-based setup needs a more involved first install."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "Leviton Decora Smart Plug, Wi-Fi 2nd Gen",
+   "specs": ["No hub required", "2.4GHz Wi-Fi", "15A general use", "Alexa, Google, Siri", "Standard 120V outlet"],
+   "specList": [
+    {"label": "Model", "value": "D215P-1RW"},
+    {"label": "General use rating", "value": "15A"},
+    {"label": "LED/CFL rating", "value": "5A"},
+    {"label": "Incandescent/halogen", "value": "1500W"},
+    {"label": "Voice assistants", "value": "Alexa, Google, Siri"}
+   ],
+   "description": "The Decora Smart Plug in its second generation Wi-Fi version is the straightforward all rounder of the Leviton lineup. It connects over 2.4GHz Wi-Fi with no hub, and works with Hey Google, Amazon Alexa and Apple Siri to turn connected devices on or off. The listing gives a clear set of load ratings: 15A for general use, 5A for LED and CFL lighting, and 1500W for incandescent and halogen. It plugs into a standard 120V outlet, including AFCI and GFCI outlets as long as they are not controlled outlets.\n\nThose published ratings are a genuine strength, because they tell you exactly what the plug can handle. A lamp with an LED bulb sits comfortably within the 5A lighting rating, and an old halogen floor lamp stays within the 1500W limit. The tradeoff is that this is an on and off plug, so it cannot dim a lamp or change brightness in steps. It also stays inside a single outlet slot, which matters when you want the second slot on a wall duplex for something else.\n\nSetup is handled through the My Leviton app, and the plug asks only for a 2.4GHz connection rather than a hub. Compared with the Leviton Decora Smart Dimmer Plug, it gives up brightness control but accepts a wider range of loads, from fans to small appliances. Compared with the Leviton Decora Smart Plug, Z-Wave, it removes the hub requirement completely. If you want one dependable plug that works with Apple, Google and Amazon voice assistants, this is the model to start with.",
+   "bestFor": "Lamps, fans and small appliances in a home using any major voice assistant.",
+   "pros": ["Works with Alexa, Google and Apple Siri", "Published 15A, 5A LED and 1500W ratings", "No hub needed, just 2.4GHz Wi-Fi", "Fits standard, AFCI and GFCI outlets"],
+   "cons": ["On and off control only, no dimming", "Requires 2.4GHz network to finish setup", "Cannot go on a controlled outlet"]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Lamp Dimming",
+   "name": "Leviton Decora Smart Dimmer Plug, Wi-Fi 2nd Gen",
+   "specs": ["Dims plug-in lamps", "Adjustable fade rates", "Bulb type settings", "Matter by firmware update", "No hub required"],
+   "specList": [
+    {"label": "Model", "value": "D23LP-1RW"},
+    {"label": "Function", "value": "Dim and brighten lamps"},
+    {"label": "Settings", "value": "Fade rate, bulb type"},
+    {"label": "Matter", "value": "Firmware update via My Leviton app"},
+    {"label": "Voice assistants", "value": "Alexa, Google, Siri"}
+   ],
+   "description": "The Decora Smart Dimmer Plug is the pick when a lamp should glow softly in the evening rather than simply switch on at full brightness. It dims and brightens plug-in lamps through custom settings for fade rates and bulb types, so the behavior can be tuned to the bulb in the lamp. It requires no hub, and it works with Hey Google, Amazon Alexa and Apple Siri for voice control. The listing also notes that a firmware update through the My Leviton app can enable Matter connectivity.\n\nThe bulb type setting is the feature that makes this more than a cosmetic upgrade. Dimming works differently for incandescent and LED bulbs, and a plug that lets you pick the type avoids flicker or an uneven fade. The tradeoff is that it is meant for dimmable lamps, so it is the wrong tool for a fan or a coffee maker. Leviton lists no general appliance rating here, which is a good reason to keep it on lighting.\n\nOwnership is mostly about matching the right bulb to the right setting during the first setup. Compared with the Leviton Decora Smart Plug, Wi-Fi 2nd Gen, it adds brightness control but narrows the kinds of devices you can connect. Compared with the Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug, it stays indoors and focuses on mood and comfort rather than weather. For a bedroom or reading chair lamp that should fade up gently each morning, this is the most pleasant plug in the family.",
+   "bestFor": "Bedside and reading lamps where gentle brightness changes matter.",
+   "pros": ["Dims and brightens plug-in lamps", "Fade rate and bulb type settings are adjustable", "Matter is available by firmware update", "Works with Alexa, Google and Siri"],
+   "cons": ["Meant for lamps, not fans or appliances", "Dimming quality depends on a compatible bulb", "Matter needs a manual app update first"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Outdoor Plug",
+   "name": "Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug",
+   "specs": ["IP65 rated", "-20F to 122F operation", "Matter supported", "Black housing", "Alexa, Google, Apple Home"],
+   "specList": [
+    {"label": "Model", "value": "D215O-1RE"},
+    {"label": "Weather rating", "value": "IP65"},
+    {"label": "Operating range", "value": "-20F to 122F"},
+    {"label": "Matter", "value": "Supported"},
+    {"label": "Platforms", "value": "Alexa, Google Home, Apple Home"}
+   ],
+   "description": "The outdoor Decora plug is aimed at string lights, holiday decorations, inflatables, landscape lighting and fountains. Its housing is IP65 rated, which Leviton describes as protection from dirt and dust and water, and it operates from -20F to 122F for cold and hot climates. It supports Matter, so it works with Alexa, Google Home, Apple Home and other certified platforms. The black color is a practical choice that blends in against dark siding and outdoor receptacles.\n\nMatter support is a meaningful advantage outdoors, where changing ecosystems is more disruptive than indoors. If you replace a speaker or switch phones, a Matter plug is far more likely to keep working with the new setup. The tradeoff is that it has a single plug configuration and is built for lighting and decor rather than heavy machinery. You should still keep it as protected as possible, even with its rating, by using a cover where the outlet is exposed.\n\nPlanning the position matters as much as the plug itself, since outdoor Wi-Fi reach can be weak. Compared with the Leviton Decora Smart Plug, Wi-Fi 2nd Gen, it trades the broad indoor load ratings for weather protection and Matter support. Compared with the Leviton Decora Smart Plug, Z-Wave, it does not need a hub. For a porch, patio or garden display that has to survive winter, this is the only Leviton plug on the list built for the job.",
+   "bestFor": "Holiday lights, patio decor and fountains in cold or hot climates.",
+   "pros": ["IP65 rating protects against dust and water", "Operates from -20F to 122F", "Matter works with Alexa, Google and Apple", "No hub needed for standard control"],
+   "cons": ["Single plug unit, no extra outlets", "Outdoor Wi-Fi range can be limited", "Not meant for heavy outdoor machinery"]
+  },
+  {
+   "i": 5,
+   "badge": "Best for Z-Wave Homes",
+   "name": "Leviton Decora Smart Plug, Z-Wave",
+   "specs": ["Z-Wave Plus certified", "Hub required", "15A 120VAC receptacle", "NEMA 5-15R grounding", "Alexa through hub"],
+   "specList": [
+    {"label": "Model", "value": "DZPA1-2BW"},
+    {"label": "Protocol", "value": "Z-Wave Plus"},
+    {"label": "Hub", "value": "Required, such as SmartThings or Wink"},
+    {"label": "Rating", "value": "15A, 120 VAC"},
+    {"label": "Receptacle", "value": "NEMA 5-15R grounding"}
+   ],
+   "description": "This is the plug for homes that already run a Z-Wave hub, not the one to buy as a first smart device. It is Z-Wave Plus certified and requires a hub such as SmartThings or Wink. The receptacle is a 15A, 120 VAC NEMA 5-15R grounding type, built for a wide variety of lamps and appliances. Voice control works through Alexa, but the listing makes clear that a Z-Wave hub, an Alexa device and the hub are all sold separately.\n\nThe hub requirement is both the weakness and the strength of this model. A Z-Wave network uses its own radio rather than your Wi-Fi, so it avoids the 2.4GHz setup stage that frustrates many first time owners. The tradeoff is cost and complexity, because you need the hub before the plug does anything. For someone with no hub, the Wi-Fi model delivers the same lamp control with far less to buy.\n\nOwnership is easy once the hub is in place, since each plug joins the network like any other Z-Wave device. Compared with the Leviton Decora Smart Plug, Wi-Fi 2nd Gen, it adds mesh style reliability at the expense of a more demanding setup. It is the only Leviton pick that depends on a hub, and the only one without Matter or Apple Siri in its listing. Choose it to extend an existing Z-Wave system, not to start a new one.",
+   "bestFor": "Homes with an existing Z-Wave hub adding another controlled outlet.",
+   "pros": ["Z-Wave Plus certified for hub-based homes", "15A 120 VAC NEMA 5-15R grounding receptacle", "Does not rely on 2.4GHz Wi-Fi setup", "Suits lamps and many small appliances"],
+   "cons": ["Needs a separate Z-Wave hub to work at all", "Alexa also needs hub and speaker bought separately", "Overkill for a home with one or two plugs"]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Wi-Fi, Matter or Z-Wave",
+   "explanation": "The connection type decides how easy the plug is to set up and how long it will stay useful. The Leviton Decora Smart Plug, Wi-Fi 2nd Gen connects on 2.4GHz with no hub, while the Leviton Decora Smart Plug, Z-Wave needs a hub such as SmartThings or Wink. The outdoor plug supports Matter directly, and the dimmer can gain Matter with a firmware update. For a first smart plug, pick Wi-Fi or Matter and skip the hub. Choose Z-Wave only when you already own the hub and want to extend it."
+  },
+  {
+   "criterion": "Load rating for your device",
+   "explanation": "A plug is only as useful as the loads it can switch safely. The Leviton Decora Smart Plug, Wi-Fi 2nd Gen lists 15A for general use, 5A for LED and CFL lighting, and 1500W for incandescent and halogen loads. The Z-Wave plug is described as a 15A, 120 VAC receptacle. Read the label on the lamp or appliance and compare it to these numbers before plugging in anything large. Motors and heaters deserve extra caution even when they fall inside the number."
+  },
+  {
+   "criterion": "Dimming versus simple switching",
+   "explanation": "Decide whether you want a lamp to switch or to glow. The Leviton Decora Smart Dimmer Plug dims and brightens with adjustable fade rates and bulb types, while the standard Wi-Fi plug only turns a device on and off. A dimmer is best used only with dimmable bulbs, so check the bulb packaging before buying. For fans, coffee makers and radios, dimming is irrelevant and a standard plug is the right tool. Choosing the dimmer for a non dimmable lamp is the most common mistake in this category."
+  },
+  {
+   "criterion": "Outdoor weather protection",
+   "explanation": "Indoor plugs and outdoor plugs are not interchangeable, and Leviton makes the distinction clear. The Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug carries an IP65 rating and operates from -20F to 122F. None of the other three plugs in this lineup are described as weather resistant. If a plug will live on a porch, patio or in an unheated outbuilding, choose the outdoor model rather than protecting an indoor plug with a cover. Temperature range matters as much as the rain rating in cold climates."
+  },
+  {
+   "criterion": "Voice assistant compatibility",
+   "explanation": "Make sure the plug works with the speaker or phone you already use. The Leviton Decora Smart Plug, Wi-Fi 2nd Gen works with Hey Google, Amazon Alexa and Apple Siri, which is the broadest coverage in this lineup. The outdoor plug supports Alexa, Google Home and Apple Home through Matter. The Z-Wave plug works with Alexa only through its hub, so a household on Apple Home has less reason to choose it. Matching the plug to your assistant avoids a frustrating setup."
+  },
+  {
+   "criterion": "Outlet type it plugs into",
+   "explanation": "Where the plug sits can affect whether it works at all. The Leviton Decora Smart Plug, Wi-Fi 2nd Gen is listed for 120V standard, AFCI or GFCI outlets that are non-controlled, so avoid outlets switched by a wall switch. Plugging into a switched outlet can cut power to the plug and break your schedule whenever the switch is off. The Z-Wave plug uses a NEMA 5-15R grounding receptacle, the standard three prong shape in most homes. Check the outlet before you buy, not after."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Setup and connection type",
+   "description": "We compared how each plug connects and what it needs before it works, based on product specs and buyer feedback. The Wi-Fi plug and the dimmer need only 2.4GHz Wi-Fi and the My Leviton app. The Z-Wave plug needs a separate hub. Fewer prerequisites earned a higher score."
+  },
+  {
+   "title": "Load and compatibility",
+   "description": "We looked at which devices each plug is designed to handle, using the stated ratings. The Leviton Decora Smart Plug, Wi-Fi 2nd Gen publishes 15A, 5A LED and 1500W figures, which gives it the clearest answer for general use. The dimmer is limited to dimmable lamps. Published ratings counted for more than vague claims."
+  },
+  {
+   "title": "Weather and environment",
+   "description": "Environmental fit was scored using the stated protections. The Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug lists IP65 and -20F to 122F operation, making it the only outdoor pick. The other three are indoor plugs and were scored against indoor use. Using an indoor plug outside lost points outright."
+  },
+  {
+   "title": "Ecosystem and future-proofing",
+   "description": "We favored plugs that work across assistants and standards. The outdoor plug supports Matter and works with Alexa, Google Home and Apple Home, and the dimmer can add Matter by firmware update. The Z-Wave plug depends on a hub and lists Alexa only. Flexibility mattered more than any single integration."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "Each pick had to solve a different problem. The Wi-Fi 2nd Gen plug leads for general use, the Dimmer Plug leads for lamp comfort, the Outdoor Plug leads for weather and Matter, and the Z-Wave plug leads for existing hub homes. Four distinct jobs justified four picks. We did not pad the list with unrelated brands."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use Case",
+   "intro": "Start with the device you want to control and the room it lives in.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Reason"],
+    "rows": [
+     ["Fan, radio or small appliance indoors", "Leviton Decora Smart Plug, Wi-Fi 2nd Gen", "15A general use rating, no hub"],
+     ["Bedside lamp that fades up gently", "Leviton Decora Smart Dimmer Plug, Wi-Fi 2nd Gen", "Adjustable fade rate and bulb type"],
+     ["Porch string lights in winter", "Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug", "IP65 and -20F to 122F operation"],
+     ["Extending an existing SmartThings setup", "Leviton Decora Smart Plug, Z-Wave", "Z-Wave Plus certified, hub based"],
+     ["Apple Home household with a lamp", "Leviton Decora Smart Plug, Wi-Fi 2nd Gen", "Works with Siri, no extra hub"]
+    ]
+   },
+   "note": "If a lamp bulb is not labeled dimmable, use the standard plug rather than the dimmer."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative cost follows features and the extra equipment each plug demands.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Leviton Decora Smart Plug, Wi-Fi 2nd Gen", "Simple switching with three voice assistants"],
+     ["Mid", "Leviton Decora Smart Dimmer Plug, Wi-Fi 2nd Gen", "Dimming with fade and bulb settings"],
+     ["Mid to premium", "Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug", "Weather rating plus Matter support"],
+     ["Premium in total cost", "Leviton Decora Smart Plug, Z-Wave", "Cheap alone, but the hub adds to the total"]
+    ]
+   },
+   "note": "The Z-Wave plug looks inexpensive until you count the hub it depends on."
+  },
+  {
+   "subheading": "Wi-Fi vs Z-Wave",
+   "intro": "The two protocols reach the same goal by different routes.",
+   "cards": [
+    {"label": "Wi-Fi and Matter plugs", "text": "These plugs join your router directly on 2.4GHz and need no extra box. The Leviton Decora Smart Plug, Wi-Fi 2nd Gen, the Dimmer Plug and the Outdoor Plug fall on this side. They are quicker to start and work with Alexa, Google and Siri, but they depend on the router signal."},
+    {"label": "Z-Wave plug", "text": "Z-Wave uses its own radio and a hub to manage devices. The Leviton Decora Smart Plug, Z-Wave is the only pick here. It makes sense when you already own a hub like SmartThings, but it is more to buy and configure for a beginner."}
+   ],
+   "note": "Most households should choose Wi-Fi, and keep Z-Wave for existing hub owners."
+  },
+  {
+   "subheading": "By Voice Assistant",
+   "intro": "Your speaker or phone narrows the choice quickly.",
+   "table": {
+    "headers": ["Assistant", "Pick", "Why"],
+    "rows": [
+     ["Alexa, Google and Siri together", "Leviton Decora Smart Plug, Wi-Fi 2nd Gen", "Listed for all three"],
+     ["Apple Home with outdoor use", "Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug", "Matter works with Apple Home"],
+     ["Alexa with an existing hub", "Leviton Decora Smart Plug, Z-Wave", "Alexa works through the Z-Wave hub"],
+     ["Google Home with dimming", "Leviton Decora Smart Dimmer Plug, Wi-Fi 2nd Gen", "Listed for Hey Google"]
+    ]
+   },
+   "note": "Smart plugs do not include a microphone, so voice needs a separate speaker or phone."
+  },
+  {
+   "subheading": "For Outdoor Lighting Specifically",
+   "intro": "Outdoor use puts the most stress on a smart plug.",
+   "cards": [
+    {"label": "Look for", "text": "Look for a clear weather rating, a stated temperature range, and a plug that will not need replacement when you change phones or speakers. Matter support helps with that last point. Mount it where the Wi-Fi signal still reaches and keep connections as sheltered as you can."},
+    {"label": "In this comparison", "text": "The Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug is the only match, with IP65 protection and operation from -20F to 122F. The Leviton Decora Smart Dimmer Plug and the standard Wi-Fi plug are indoor products. The Z-Wave plug is also indoor and needs a hub."}
+   ],
+   "note": "Do not use any indoor Leviton plug outside, even under a cover."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Extra features only help in particular situations.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want gentle lamp fades, so the Leviton Decora Smart Dimmer Plug is worth the step up", "You only need on and off, so the Leviton Decora Smart Plug, Wi-Fi 2nd Gen is enough"],
+     ["You need winter proof lighting, so the Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug earns its place", "Your lights stay indoors, so skip the outdoor rating"],
+     ["You already own a SmartThings or Wink hub, so the Z-Wave plug adds a node cheaply", "You have no hub, so a Wi-Fi plug avoids buying one"],
+     ["You want Matter for easier ecosystem changes later, so the Outdoor Plug or an updated Dimmer Plug fits", "You never plan to switch platforms, so standard Wi-Fi control is enough"]
+    ]
+   },
+   "note": "Buy the simplest plug that fits the device, then add features only where they matter."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which Leviton smart plug is best for most people?",
+   "a": "The Leviton Decora Smart Plug, Wi-Fi 2nd Gen is the best starting point for most homes. It needs no hub, works with Alexa, Google and Siri, and publishes clear load ratings. Choose the dimmer only for lamps, the outdoor model only for outdoors, and Z-Wave only if you own a hub. That rule covers most buying decisions."
+  },
+  {
+   "q": "Does the Leviton dimmer plug work with any lamp?",
+   "a": "It works with plug-in lamps that use dimmable bulbs, and you can set the bulb type in the app. A non dimmable LED bulb can flicker or buzz when dimmed, so check the packaging first. If the lamp is not dimmable, use the standard Wi-Fi plug instead. The dimmer is not intended for fans or appliances."
+  },
+  {
+   "q": "Do Leviton smart plugs need a hub?",
+   "a": "The Wi-Fi plugs do not need a hub and connect to a 2.4GHz network directly. The Z-Wave plug does need a hub, with SmartThings and Wink given as examples. Alexa control of the Z-Wave plug also requires a hub and an Alexa device, all sold separately. This is the main reason to skip the Z-Wave version unless you already have the gear."
+  },
+  {
+   "q": "Is the Leviton outdoor plug safe in winter?",
+   "a": "It is listed for operation from -20F to 122F and carries an IP65 rating for dirt, dust and water. That makes it suitable for cold climates, but it is still sensible to keep connections sheltered where you can. Check the plug and cord after heavy storms. Outdoor use is only appropriate for the outdoor model."
+  },
+  {
+   "q": "What is Matter and do I need it?",
+   "a": "Matter is a standard that lets certified devices work across Alexa, Google Home, Apple Home and other platforms. The Leviton Decora Smart Wi-Fi Weather-Resistant Outdoor Plug supports it, and the dimmer can add it by firmware update through the My Leviton app. You do not need it to use a plug today. It mainly helps if you switch ecosystems later."
+  },
+  {
+   "q": "Can I use these plugs in a switched outlet?",
+   "a": "That is not recommended, since the Wi-Fi plug is listed for non-controlled outlets. If a wall switch cuts power to the outlet, the plug goes offline and your schedules stop working. Use an outlet that is always on, and standard, AFCI and GFCI outlets are listed as fine. This is a common cause of plugs that seem to randomly stop responding."
+  },
+  {
+   "q": "Why will my plug not connect during setup?",
+   "a": "The most common reason is a phone connected to a 5GHz band, since these Wi-Fi plugs need 2.4GHz. Switch your phone to 2.4GHz for pairing, or use a router that splits the bands, then switch back. Make sure you are close to the router while pairing. If it still fails, restart the plug and try the app again."
+  }
+ ]
+}

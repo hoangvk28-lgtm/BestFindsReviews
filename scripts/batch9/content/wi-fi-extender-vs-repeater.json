@@ -1,0 +1,212 @@
+{
+ "guideTitle": "Wi-Fi Extender vs Repeater: 6 Models Compared in 2026",
+ "metaTitle": "Wi-Fi Extender vs Repeater: 6 Models (2026)",
+ "metaDescription": "Wi-Fi extender or repeater? See what the two labels really mean, then compare six plug-in models from AC1200 to Wi-Fi 6 for dead rooms at home.",
+ "introParagraphs": [
+  "Shoppers type wifi extender or repeater into the search box expecting two different devices, and the shelf rarely clears it up. In practice the two names describe the same kind of plug-in box, which listens to your router and rebroadcasts the signal into a room it cannot reach. Some listings say repeater, some say extender, and a few say booster, yet the radios inside work the same way.",
+  "What actually separates one box from another is the hardware under the label. Band count, antenna design, Wi-Fi generation, and whether there is an Ethernet port decide how well a unit behaves once it is plugged in down the hall. We compared six models, two of which carry the word repeater in their listing titles and four that use extender, based on product specs and buyer feedback rather than the label.",
+  "Read the picks below with one rule in mind: an extender fixes coverage, not the speed of your internet plan. If the signal is strong in the middle of the house and weak in one bedroom, any of these can help. If three rooms are dead, the buying guidance further down will tell you when to stop shopping for one box."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "TP-Link AC1200 WiFi Extender RE315",
+   "specs": ["AC1200 dual band", "867 Mbps on 5 GHz", "Up to 1,500 sq ft", "2 adjustable antennas"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1200)"},
+    {"label": "Total bandwidth", "value": "1.2 Gbps"},
+    {"label": "Rated coverage", "value": "Up to 1,500 sq ft"},
+    {"label": "Antennas", "value": "2 adjustable external"}
+   ],
+   "description": "The RE315 is the cleanest example of what people mean when they say extender. It is an AC1200 dual band box that carries 867 Mbps on the 5 GHz band alongside a slower 2.4 GHz band, and TP-Link lists coverage of up to 1,500 square feet. Two external antennas can be angled by hand, which is a small but useful way to aim the signal at the room you care about.\n\nThe listing highlights Adaptive Path Selection, a feature meant to choose the better route between the router and your devices. That matters because a single plug-in box always has to juggle two jobs, talking to the router and talking to your phone. The tradeoff is that this is still a Wi-Fi 5 unit, so a newer Wi-Fi 6 router will be paired with a slightly older partner.\n\nOwnership is simple. You plug it into an outlet roughly halfway between the router and the weak room, pair it with the router, and leave it alone. Compared with the TP-Link AC1900 RE550 at 1.9 Gbps and 2,100 square feet, the RE315 gives up headroom but suits an apartment or a single dead bedroom better. It is the pick to start with when the problem is one weak spot and not the whole house.",
+   "bestFor": "A single weak bedroom or office in a small to mid-size home.",
+   "pros": ["Dual band AC1200 gives 867 Mbps on the 5 GHz band", "Two antennas can be angled toward the weak room", "Rated for up to 1,500 sq ft of open space", "Straightforward plug-in design with no wiring"],
+   "cons": ["Wi-Fi 5 only, so it trails newer routers", "Coverage drops fast behind thick interior walls"]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Larger Homes",
+   "name": "TP-Link AC1900 Range Extender RE550",
+   "specs": ["AC1900 dual band", "1.9 Gbps total", "Up to 2,100 sq ft", "3 adjustable antennas"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1900)"},
+    {"label": "Total bandwidth", "value": "1.9 Gbps"},
+    {"label": "Rated coverage", "value": "Up to 2,100 sq ft"},
+    {"label": "Antennas", "value": "3 adjustable external"}
+   ],
+   "description": "This model is a good proof that the repeater label and the extender label mean the same thing. The listing title calls it a dual band wireless repeater, while the product itself is sold as a range extender, and both names point to one box. It reaches 1.9 Gbps of total bandwidth and a rated 2,100 square feet, with three adjustable external antennas.\n\nThe extra antenna and higher AC1900 rating help in homes where the dead room is two floors away or behind several walls. TP-Link also notes its commitment to the CISA cybersecurity pledge, which is a small point of reassurance for a device that sits permanently on your network. The weakness is size, because three antennas make a bulkier plug than the compact units that blend into an outlet.\n\nSetup follows the usual pair-and-place routine, and the guidance to find an outlet midway between router and dead zone applies even more strongly here. If you compare it with the TP-Link RE315 at 1,500 square feet, you gain about 600 more rated square feet, though real walls trim both numbers. Pick this over the RE315 only when the room you are fixing is genuinely far from the router.",
+   "bestFor": "Larger homes or dead rooms several walls from the router.",
+   "pros": ["Three antennas and 1.9 Gbps give extra headroom", "Rated for up to 2,100 sq ft of coverage", "Listing cites TP-Link's CISA cybersecurity pledge", "Title uses repeater while the product is an extender"],
+   "cons": ["Bulkier plug may block a neighboring outlet", "Still Wi-Fi 5, with no Wi-Fi 6 efficiency gains"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Guided Setup",
+   "name": "NETGEAR WiFi Extender EX5000 AC1200",
+   "specs": ["Wi-Fi 5 AC1200", "1.2 Gbps across two bands", "Up to 1,500 sq ft", "Nighthawk app or WPS"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 5 (AC1200)"},
+    {"label": "Total bandwidth", "value": "1.2 Gbps"},
+    {"label": "Rated coverage", "value": "Up to 1,500 sq ft"},
+    {"label": "Setup", "value": "Nighthawk app or WPS"}
+   ],
+   "description": "NETGEAR pitches the EX5000 as a fix for bedrooms, garages, basements, and even the backyard, and it covers up to 1,500 square feet with Wi-Fi 5 across two bands at 1.2 Gbps. The standout is its setup flow, which offers two routes. You can follow the Nighthawk app for a guided walkthrough, or press WPS on both the router and the extender.\n\nFor a buyer who is nervous about network settings, that app is the real selling point because it names each step instead of leaving you in a browser menu. The tradeoff is that the headline specs are almost identical to the TP-Link RE315, so you are paying for the software experience and the brand ecosystem more than for extra range. Streaming HD video and calls are the use cases the listing leans on, and that is a realistic target for AC1200.\n\nIn daily use there is little to maintain beyond picking a sensible outlet. Against the PEDUMMY at 1200 Mbps and 5,200 square feet the NETGEAR claims far less area, but it comes from a name-brand support line. If you want guidance more than raw coverage numbers, this is the safer fit.",
+   "bestFor": "First-time buyers who want an app to walk them through setup.",
+   "pros": ["Nighthawk app offers guided step by step setup", "WPS button pairing works as a backup route", "AC1200 gives 1.2 Gbps across two bands", "Aimed at bedrooms, garages, and basements"],
+   "cons": ["Specs closely match cheaper AC1200 rivals", "Rated area of 1,500 sq ft is modest"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Wi-Fi 6 Upgrade",
+   "name": "TP-Link AX3000 WiFi 6 Range Extender",
+   "specs": ["Wi-Fi 6 AX3000", "Up to 2,404 Mbps on 5 GHz", "Up to 2,400 sq ft", "Beamforming antennas"],
+   "specList": [
+    {"label": "Wi-Fi standard", "value": "Wi-Fi 6 (AX3000)"},
+    {"label": "Total bandwidth", "value": "3 Gbps"},
+    {"label": "Rated coverage", "value": "Up to 2,400 sq ft"},
+    {"label": "Antennas", "value": "2 high-gain directional"}
+   ],
+   "description": "The AX3000 is the one pick here built on Wi-Fi 6, with 3 Gbps of total bandwidth and speeds of up to 2,404 Mbps on the faster band. Two high-gain directional antennas use beamforming to concentrate the signal toward your devices rather than spreading it evenly. TP-Link rates it for up to 2,400 square feet, the largest area of the TP-Link models in this lineup.\n\nWhy does that matter for the extender versus repeater question? Because the real divide in this category is generation, not name. An AX3000 paired with a Wi-Fi 6 router keeps newer phones and laptops running efficiently, while an older AC unit can become the bottleneck for them. The cost of this approach is price tier and size, since you only benefit if your router can also speak Wi-Fi 6.\n\nSetup is the same plug-pair-place routine, and the CISA cybersecurity statement appears here as well. Compared with the AC1900 RE550 at 1.9 Gbps and 2,100 square feet, you gain a newer standard and more throughput, though the antenna count drops from three to two. Buy it when your router is Wi-Fi 6 and you want the extender to keep up.",
+   "bestFor": "Homes with a Wi-Fi 6 router that need the extender to keep pace.",
+   "pros": ["Wi-Fi 6 with 3 Gbps of total bandwidth", "Reaches 2,404 Mbps on its faster band", "Beamforming aims signal at connected devices", "Rated up to 2,400 sq ft, top of the TP-Link group"],
+   "cons": ["Little benefit if your router is Wi-Fi 5", "Only two antennas versus three on the RE550"]
+  },
+  {
+   "i": 2,
+   "badge": "Best with Ethernet and AP Mode",
+   "name": "PEDUMMY WiFi Extender Booster 1200Mbps",
+   "specs": ["867 Mbps on 5 GHz", "300 Mbps on 2.4 GHz", "Up to 5,200 sq ft", "Ethernet port and AP mode"],
+   "specList": [
+    {"label": "Total bandwidth", "value": "1200 Mbps"},
+    {"label": "5 GHz speed", "value": "867 Mbps"},
+    {"label": "2.4 GHz speed", "value": "300 Mbps"},
+    {"label": "Wired option", "value": "LAN port plus AP mode"}
+   ],
+   "description": "Here is where the terminology debate gets practical. The PEDUMMY works as an extender, but it also has an Ethernet port and an access point mode, so the same box can rebroadcast wirelessly or serve as a wired entry point. Its listing gives 1200 Mbps total, split as 867 Mbps on 5 GHz and 300 Mbps on 2.4 GHz, with a claimed coverage of up to 5,200 square feet.\n\nThe LAN port lets a smart TV, desktop, or console plug in with a cable, which tends to be steadier than a wireless link for streaming. The listing itself carries a note that wireless extenders do not raise your internet plan speed, which is honest and worth remembering. The tradeoff is that the 5,200 square foot figure is a best case, and the brand is less established than the TP-Link or NETGEAR names.\n\nIf you already have a spare network jack in the weak room, AP mode is the cleaner route because it avoids the wireless hop. Next to the NETGEAR EX5000 at 1,500 square feet, the claimed area is more than three times larger, though the same AC1200 class bandwidth applies. Choose it when a wired device is the reason you are shopping at all.",
+   "bestFor": "Households wanting one wired device or an access point option.",
+   "pros": ["Ethernet port connects a TV or console by cable", "AP mode adds a wired network option", "867 Mbps on 5 GHz plus 300 Mbps on 2.4 GHz", "Listing candidly says it does not raise plan speed"],
+   "cons": ["Claimed 5,200 sq ft is a best-case figure", "Lesser-known brand with thinner support record"]
+  },
+  {
+   "i": 7,
+   "badge": "Best Plain Repeater Label",
+   "name": "FRWRJQ WiFi Repeater and Booster, 10000 Sq.ft",
+   "specs": ["Sold as repeater and booster", "Up to 10,000 sq ft claimed", "Connects up to 80 devices", "2 high-gain antennas"],
+   "specList": [
+    {"label": "Product label", "value": "Repeater and booster"},
+    {"label": "Claimed coverage", "value": "Up to 10,000 sq ft"},
+    {"label": "Device limit", "value": "Up to 80"},
+    {"label": "Antennas", "value": "2 external high-gain"}
+   ],
+   "description": "If you want to see the repeater name at its most literal, this is the listing. The title stacks the words extender, repeater, and booster, and the product behaves like the other plug-in units: it captures the router signal and sends it again. It claims coverage of up to 10,000 square feet and supports up to 80 devices, including phones, laptops, tablets, speakers, and IP cameras.\n\nTwo high-gain external antennas handle the rebroadcast, and one-touch WPS pairing gets it onto the network without a manual login. Those are the right basics for the job. The tradeoff is that the brief does not list a Wi-Fi generation or a speed rating beyond the claim of being fast, so you have less to compare against the stated specs of the TP-Link units.\n\nBecause it relies on WPS, you should confirm that your router has the push-button feature before you buy. Against the RAGOAT at 12,880 square feet it claims less area, but it pairs with a simpler two-antenna design. It suits a budget-minded buyer who only needs the label and the basic function.",
+   "bestFor": "Buyers who want a basic plug-in repeater with WPS pairing.",
+   "pros": ["Pairs with the router using one touch WPS", "Supports up to 80 connected devices", "Two high-gain antennas rebroadcast the signal", "Handles phones, cameras, and smart speakers"],
+   "cons": ["No Wi-Fi generation or speed class is listed", "Marketing claims are bold and unproven in homes"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Know what the label means", "explanation": "The words extender, repeater, and booster all describe a device that receives your router's Wi-Fi and sends it out again from a new spot. Do not treat repeater as an older or weaker category, because the TP-Link AC1900 RE550 is listed with the word repeater in its title and is still a modern dual band unit at 1.9 Gbps. The FRWRJQ also stacks all three labels in one listing title. Spend your attention on bands, antennas, and generation instead of the name on the box. A listing that explains its hardware clearly is a better sign than one that merely uses the preferred word."},
+  {"criterion": "Dual band or better", "explanation": "A single band unit uses one radio to talk to the router and to your devices at once, which roughly halves throughput. Dual band units add a second radio, so 5 GHz carries speed and 2.4 GHz carries range through walls. The TP-Link RE315 gives 867 Mbps on 5 GHz and the PEDUMMY gives 867 Mbps on 5 GHz plus 300 Mbps on 2.4 GHz. Avoid anything that does not list both bands clearly. If you want a dedicated link back to the router, that points toward tri-band models, which are a separate shopping category."},
+  {"criterion": "Match the Wi-Fi generation", "explanation": "An extender that is older than your router becomes the bottleneck for every device behind it. If your router is Wi-Fi 6, the TP-Link AX3000 at 3 Gbps and up to 2,404 Mbps on its fast band is the sensible partner. If your router is Wi-Fi 5, the NETGEAR EX5000 at 1.2 Gbps or the TP-Link RE315 is perfectly adequate. Paying for Wi-Fi 6 on a Wi-Fi 5 router wastes the upgrade. Look up your router model before comparing listings."},
+  {"criterion": "Read coverage claims carefully", "explanation": "Square footage numbers describe open space with no obstacles, and walls, floors, and appliances reduce them quickly. The TP-Link RE315 says 1,500 square feet, the RE550 says 2,100, and the FRWRJQ says 10,000, but those are not comparable on the same footing. Treat anything above roughly 5,000 square feet as marketing language, since a single plug-in box does not realistically cover that area. A better test is whether the unit is placed where it still hears a strong router signal. Use the number to rank siblings from the same brand rather than to predict real room coverage."},
+  {"criterion": "Check for an Ethernet port", "explanation": "A wired port turns the extender into a way to connect one stationary device with a cable, which is steadier than Wi-Fi for streaming and console play. The PEDUMMY includes a LAN port and AP mode, while the NETGEAR EX5000 listing in this lineup does not mention one. If you plan to plug in a TV, confirm the port exists before you buy. A port also lets you use the unit as an access point where you already have a network cable run. Skip this feature only if every device in the weak room connects wirelessly."},
+  {"criterion": "Choose the setup path", "explanation": "Most plug-in extenders pair through WPS, a push button on both the router and the extender that connects them in about two minutes. The NETGEAR EX5000 adds the Nighthawk app for guided setup, which helps anyone uneasy about browser menus. The FRWRJQ leans on WPS alone, so check that your router has the button. If you cannot find one, expect to use a browser or app route. A clear setup flow often matters more to a satisfied owner than a few extra Mbps."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Hardware over label", "description": "We grouped every pick by what the box does, not by whether the listing says extender or repeater. The TP-Link RE550 and FRWRJQ carry repeater wording while the TP-Link RE315 and NETGEAR EX5000 use extender wording, and they were judged by the same measures. Anything that did not list its bands or Wi-Fi generation was marked down for missing detail."},
+  {"title": "Wireless capability", "description": "Wi-Fi generation and band design were the main weight. The TP-Link AX3000 leads with Wi-Fi 6 and 3 Gbps, the TP-Link RE550 follows at 1.9 Gbps, and the AC1200 group of RE315, EX5000, and PEDUMMY sits in the middle. This is based on published specs and buyer feedback, not bench measurement."},
+  {"title": "Coverage claims", "description": "Rated area was scored, but with a deliberate discount for unrealistic numbers. The RE315 at 1,500 square feet, RE550 at 2,100, and AX3000 at 2,400 were trusted more than the 5,200 and 10,000 square foot claims from lesser-known brands. We also looked at antenna count and design."},
+  {"title": "Setup and wired options", "description": "A pick earned points for a clear setup path and for useful connections. The NETGEAR EX5000 leads on guided app setup, while the PEDUMMY leads on its Ethernet port and AP mode. WPS support was treated as the baseline."},
+  {"title": "Trust and support", "description": "Established brands with documented security statements scored higher than anonymous listings. The TP-Link RE550 and AX3000 cite the CISA cybersecurity commitment, and NETGEAR offers an app-based support path. We weighed that against the chance of a device that sits on your network for years."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Router Generation",
+   "intro": "The best match depends on the router you already own, because the extender should not be slower than the router it repeats.",
+   "table": {
+    "headers": ["Your situation", "Pick", "Why"],
+    "rows": [
+     ["Wi-Fi 6 router, mid-size home", "TP-Link AX3000 WiFi 6 Range Extender", "3 Gbps and 2,404 Mbps on the fast band keep pace with the router"],
+     ["Wi-Fi 5 router, one weak bedroom", "TP-Link AC1200 WiFi Extender RE315", "867 Mbps on 5 GHz suits one room without extra cost"],
+     ["Wi-Fi 5 router, dead room far away", "TP-Link AC1900 Range Extender RE550", "1.9 Gbps and three antennas reach up to 2,100 sq ft"],
+     ["Older router, want help with setup", "NETGEAR WiFi Extender EX5000 AC1200", "Nighthawk app guides each step of pairing"],
+     ["Router has no free Ethernet jack nearby", "PEDUMMY WiFi Extender Booster 1200Mbps", "LAN port serves a wired TV in the weak room"]
+    ]
+   },
+   "note": "If you are unsure of your router generation, look for the model sticker on the bottom and search it by name."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers here are relative, because the lineup spans basic AC1200 boxes and a Wi-Fi 6 model.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "FRWRJQ WiFi Repeater and Booster", "Basic WPS pairing and up to 80 devices, with few listed specs"],
+     ["Entry to mid", "PEDUMMY WiFi Extender Booster 1200Mbps", "Dual band plus Ethernet port and AP mode"],
+     ["Mid", "TP-Link AC1200 WiFi Extender RE315", "Established brand at 867 Mbps on 5 GHz"],
+     ["Mid", "NETGEAR WiFi Extender EX5000 AC1200", "App guided setup with the same 1.2 Gbps class"],
+     ["Premium", "TP-Link AX3000 WiFi 6 Range Extender", "Wi-Fi 6, 3 Gbps, and up to 2,400 sq ft"]
+    ]
+   },
+   "note": "Moving up a tier mostly buys a newer standard or better support, not a bigger guaranteed coverage area."
+  },
+  {
+   "subheading": "Extender vs Repeater",
+   "intro": "Here is the plain comparison, because the two words are used loosely across the whole category.",
+   "cards": [
+    {"label": "Extender", "text": "Usually the wording on products from brand names that sell range extenders, such as the TP-Link RE315, the NETGEAR EX5000, and the TP-Link AX3000. The word often hints at better documentation, app support, and security statements. The mechanism is identical to a repeater, because the box still receives the router signal and retransmits it. People who value a clear brand and support route should lean this way."},
+    {"label": "Repeater", "text": "Often used on listings that stack several names together, such as the FRWRJQ, or as a descriptor on a branded model like the TP-Link RE550. It describes the same rebroadcast job. A repeater label alone tells you nothing about speed, bands, or generation, so read the spec lines. Choose by those lines and not by the noun."}
+   ],
+   "note": "In short, pick on bands, generation, and support, because the label never changes how the box works."
+  },
+  {
+   "subheading": "Single Dead Room or Several",
+   "intro": "How many rooms are weak decides whether one plug-in box is the right fix at all.",
+   "table": {
+    "headers": ["Situation", "Pick", "Reasoning"],
+    "rows": [
+     ["One weak room", "TP-Link AC1200 WiFi Extender RE315", "A single targeted fix at 1,500 sq ft"],
+     ["Two rooms in one direction", "TP-Link AC1900 Range Extender RE550", "Three antennas and 2,100 sq ft rating"],
+     ["Whole floor weak, Wi-Fi 6 router", "TP-Link AX3000 WiFi 6 Range Extender", "2,400 sq ft rating with beamforming"],
+     ["Dead rooms in opposite directions", "None, consider mesh instead", "A single extender cannot aim two ways, so mesh is better"],
+     ["Wired TV in weak room", "PEDUMMY WiFi Extender Booster 1200Mbps", "Ethernet port skips the wireless hop"]
+    ]
+   },
+   "note": "When more than two rooms are weak, a mesh system gives one network name and smoother handoff."
+  },
+  {
+   "subheading": "For Streaming and Video Calls Specifically",
+   "intro": "Streaming and calls need stable throughput more than a headline coverage number.",
+   "cards": [
+    {"label": "Look for", "text": "A dual band design with a strong 5 GHz link and a placement that still hears the router well. A wired port is a bonus for a fixed TV. Beamforming, as on the TP-Link AX3000, helps aim the signal toward moving laptops and phones. Avoid placing the box inside the dead zone itself."},
+    {"label": "In this comparison", "text": "The TP-Link AX3000 at 3 Gbps is the strongest pick for steady streaming on a Wi-Fi 6 router. The NETGEAR EX5000 at 1.2 Gbps is the easy choice for HD video and calls on a Wi-Fi 5 router. The PEDUMMY with its LAN port suits a living room TV that can take a cable."}
+   ],
+   "note": "Use the 5 GHz band on devices that stay close, and 2.4 GHz for those far away."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A higher tier pays off only in specific cases.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["Your router is Wi-Fi 6, then the TP-Link AX3000 at 3 Gbps prevents a bottleneck", "Your router is Wi-Fi 5, then the TP-Link RE315 at 1.2 Gbps matches it"],
+     ["The dead room is far away, then the TP-Link RE550 and its 2,100 sq ft rating helps", "The dead room is next door, then the NETGEAR EX5000 at 1,500 sq ft is enough"],
+     ["You value app guidance, then the NETGEAR EX5000 saves frustration", "You are comfortable with WPS, then the FRWRJQ pairs in one touch"],
+     ["You need a wired port, then the PEDUMMY covers it", "Every device is wireless, then skip the extra port"],
+     ["You want documented security, then the TP-Link models cite CISA", "You accept a plain listing, then lesser-known brands work as a basic fix"]
+    ]
+   },
+   "note": "Spend on the generation and support you can actually use, not on bigger coverage claims."
+  }
+ ],
+ "faq": [
+  {"q": "Is a Wi-Fi extender the same as a repeater?", "a": "In everyday shopping, yes. Both receive your router's signal and rebroadcast it from a new location, which is why the TP-Link RE550 can be titled a repeater while being sold as an extender. Some people reserve repeater for older single radio boxes, but modern dual band units use both words. Compare bands and generation instead of the name."},
+  {"q": "Will an extender make my internet faster?", "a": "No. An extender improves coverage in rooms with a weak signal, but it does not raise the speed of your internet plan. TP-Link states this directly in its listings for several models. You may notice fewer drops and better video in the weak room, which can feel faster even though the plan speed has not changed."},
+  {"q": "Where should I plug the extender in?", "a": "Place it roughly halfway between the router and the dead zone, where the signal is still strong. Putting it inside the dead zone only rebroadcasts a weak signal. An outlet at chest height, away from metal objects and microwaves, gives the cleanest result. Many models have lights that show signal quality while you move them."},
+  {"q": "Do I need the same brand as my router?", "a": "Standalone extenders from third parties generally pair with any router that has Wi-Fi. That includes the TP-Link, NETGEAR, and PEDUMMY units here. Brand-specific pods from internet providers are different and may work only with the provider's own gateway. Check compatibility notes if your router is a rented unit."},
+  {"q": "Why does my extender create a second network name?", "a": "Many extenders broadcast their own network name, which means your devices may cling to the weaker router signal as you walk. Mesh systems avoid this with one name and seamless handoff. If the double name bothers you, name the extender clearly and connect devices to it by room. Several rooms of this problem is a sign to consider mesh."},
+  {"q": "Is a bigger coverage number always better?", "a": "No. Figures like 10,000 or 12,880 square feet are best-case numbers measured in open space. Walls and floors reduce them sharply. The ratings on the TP-Link models, 1,500 to 2,400 square feet, are a more realistic guide to what one plug-in box can do."},
+  {"q": "When should I choose mesh instead?", "a": "Choose mesh when you have several dead rooms, especially in opposite directions, or when you want a single network name with smooth handoff. An extender is a cheap fix for one weak area. If you buy two extenders and still feel patchy, mesh is the better next step."}
+ ]
+}

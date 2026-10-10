@@ -1,0 +1,210 @@
+{
+ "guideTitle": "6 Best Voice-Control Smart Plugs in 2026",
+ "metaTitle": "Best Voice-Control Smart Plugs in 2026",
+ "metaDescription": "Six voice-control smart plugs that work with Alexa and Google Assistant, compared on setup, ecosystem fit and schedules so you can switch lamps hands-free.",
+ "introParagraphs": [
+  "A voice-control smart plug does one useful job: it lets you say a short sentence and a lamp, fan or radio turns on or off without you crossing the room. For anyone who would rather not bend behind a sofa to find a cord, or who simply likes lights that are already on when they walk in, the idea is simple and the hardware is inexpensive to try.",
+  "The catch is that not every plug talks to every assistant. Some work only with Alexa, some need a second phone app before Google Assistant will see them, and a few add Bluetooth so pairing is less fussy. We evaluated six plugs based on product specs and buyer feedback, focusing on which assistants they support, how setup works and what you can control without speaking at all.",
+  "Each pick below is a Wi-Fi plug that needs no separate hub. Read the criteria section before you buy so you match the plug to the speaker or phone you already own."
+ ],
+ "products": [
+  {
+   "i": 8,
+   "badge": "Best Overall",
+   "name": "Kasa Smart Plug HS103P4 (4-Pack)",
+   "specs": ["15A Wi-Fi outlet", "Alexa and Google Home", "Touch actuator button", "No hub required"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Rating", "value": "15A"},
+    {"label": "Voice assistants", "value": "Alexa, Google Home"},
+    {"label": "Manual control", "value": "Touch actuator"},
+    {"label": "App", "value": "Kasa"}
+   ],
+   "description": "The Kasa Smart Plug HS103P4 is a four-pack of Wi-Fi outlets rated at 15 amps that work with Alexa, Echo and Google Home without a hub. Each plug has a touch actuator, which is a physical button on the housing that switches the outlet by hand. Control runs through the Kasa app, and timers or countdown schedules live in the same place as the on and off buttons.\n\nVoice control is the headline feature, yet the button matters just as much for guests and for the moments when the router is down. Setup needs the Kasa app and a 2.4GHz network, which is the one step that trips up people whose phone is sitting on 5GHz. This is the plug we would hand to a household that wants both major assistants supported and a manual fallback built in.\n\nIn practice, four plugs cover a living room lamp, a bedroom fan and a hallway light in a single afternoon. Check how the body sits on your wall plate before committing to the whole pack, because bulky plugs can crowd a second outlet. Compared with the Amazon Smart Plug, which supports Alexa only, the Kasa speaks to two assistants, and compared with the EIGHTREE 4-Pack it skips the extra Smart Life account step.",
+   "bestFor": "Households that use either Alexa or Google Assistant and want a button on the plug as a backup.",
+   "pros": ["Works with both Alexa and Google Home directly", "Touch actuator lets you switch it by hand", "Four plugs in the pack cover several rooms", "Timers and countdowns sit inside the Kasa app"],
+   "cons": ["Setup demands a 2.4GHz Wi-Fi network", "Needs the Kasa app before voice linking works"]
+  },
+  {
+   "i": 5,
+   "badge": "Best for Echo Households",
+   "name": "Amazon Smart Plug",
+   "specs": ["Works with Alexa", "No hub required", "Alexa app setup", "Lamps, fans, coffee makers"],
+   "specList": [
+    {"label": "Voice assistant", "value": "Alexa"},
+    {"label": "Hub needed", "value": "No"},
+    {"label": "Setup app", "value": "Alexa app"},
+    {"label": "Pack size", "value": "1 plug"}
+   ],
+   "description": "The Amazon Smart Plug adds voice control to any outlet through the Alexa app and compatible Alexa devices. Amazon describes the setup as plug it in, open the Alexa app and follow the directions, with no smart home hub involved. It is meant for lamps, fans, coffee makers and other devices that have a physical on and off switch.\n\nThe reason it earns a place here is how little there is to learn. You use one app you may already have, and the plug shows up as a device you can name and group with the others in your Alexa setup. The tradeoff is that it works with Alexa only, so a Google Home household or a mixed family of phones will be better served by the Kasa or the Govee.\n\nOwnership is quiet. There is no second brand app to maintain and no account to create beyond the Amazon one you already have. Because the listing is a single plug, it is the easiest way to try the idea on one lamp before buying a larger pack such as the four-plug Govee or the four-plug EIGHTREE. Remember that anything it controls must be left in its on position, so a coffee maker with a push button needs to be one that starts brewing when power arrives.",
+   "bestFor": "Echo owners who want the shortest possible setup and are happy staying with Alexa.",
+   "pros": ["Setup runs entirely inside the Alexa app", "No smart home hub needed to get started", "Single plug is a low-commitment way to try it", "Names and groups like any other Alexa device"],
+   "cons": ["Alexa only, so Google Home is not supported", "No mention of a button on the plug body"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Compact Alexa Plug",
+   "name": "Amazon Basics Smart Plug (Alexa Only)",
+   "specs": ["Works with Alexa only", "Compact single-socket body", "Zero touch setup option", "Schedules and remote app"],
+   "specList": [
+    {"label": "Voice assistant", "value": "Alexa only"},
+    {"label": "Schedules", "value": "Yes"},
+    {"label": "Remote control", "value": "Alexa app"},
+    {"label": "Footprint", "value": "One socket"}
+   ],
+   "description": "The Amazon Basics Smart Plug is another Alexa-only option, and its main selling point is a compact design that fits into a single socket and leaves the remaining sockets free. It supports voice control, remote control from the Alexa app and automatic schedules for lights, fans and holiday displays. Setup includes a zero touch path when you choose the option to link the device to your account during checkout.\n\nThe zero touch route is helpful for anyone who dislikes typing Wi-Fi passwords into a small screen. Compared with the plain Amazon Smart Plug, the listing leans harder on schedules and the slim body, which matters if your wall outlet is already crowded with a charger. It still shares the same limit, namely that Google Assistant is not an option.\n\nAs a daily-use device it behaves like its sibling: turn the lamp on by voice, let a schedule do the evening routine, and check on it from the phone when you are out. If you are comparing it with the Kasa HS103P4, the Kasa gives you two assistants and a button, while this one trades those for a lower-friction Alexa path. Think of it as the tidy choice for a plug that will live behind a desk or beside a bed where space is tight.",
+   "bestFor": "Alexa users with crowded outlets who want a slim plug and automatic schedules.",
+   "pros": ["Body takes only one socket on a duplex outlet", "Zero touch setup skips manual Wi-Fi entry", "Schedules turn lights on and off automatically", "Remote control works through the Alexa app"],
+   "cons": ["Alexa only, with no Google Assistant support", "Features overlap the standard Amazon Smart Plug"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Multi-Pack Flexibility",
+   "name": "Govee Smart Plug, 4-Pack",
+   "specs": ["Bluetooth or Wi-Fi connection", "Alexa and Google Assistant", "Schedules and group control", "Four plugs included"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Connection", "value": "Bluetooth or Wi-Fi"},
+    {"label": "Voice assistants", "value": "Alexa, Google Assistant"},
+    {"label": "Extras", "value": "Schedules, group controller"}
+   ],
+   "description": "The Govee Smart Plug comes as four pieces and supports a Bluetooth or Wi-Fi connection, which the maker says is more stable and faster than plugs that rely on Wi-Fi alone. It works with Amazon Alexa and Google Assistant, so a single voice sentence can turn on a lamp, a fan or a string of lights. The listing also highlights customized schedules and a group controller.\n\nThe group feature is what sets it apart in this lineup. You can bundle several plugs into one set, so one command can switch a whole room of lamps rather than naming each plug in turn. That is handy for a living room with three lights, and it saves breath for anyone who finds long command lists tiring.\n\nPairing over Bluetooth first can ease the setup step, though you still need a compatible network later for remote control. Relative to the EIGHTREE 4-Pack, which requires the Smart Life app as a middle step, the Govee uses its own app and feels more self-contained. Compared with the Kasa HS103P4, we have no confirmation of an on-body button in the listing, so factor that in if guests will visit.",
+   "bestFor": "People who want several plugs, group commands and Bluetooth-assisted pairing.",
+   "pros": ["Bluetooth or Wi-Fi pairing eases first setup", "Group controller switches many plugs at once", "Works with both Alexa and Google Assistant", "Custom schedules cover daily routines"],
+   "cons": ["Listing does not mention a button on the plug", "Group setup adds a few steps in the app"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Bluetooth Setup",
+   "name": "GHome Smart Plug (Wi-Fi and Bluetooth)",
+   "specs": ["Bluetooth or Wi-Fi connection", "Alexa and Google Assistant", "App timers from anywhere", "Hands-free voice control"],
+   "specList": [
+    {"label": "Connection", "value": "Bluetooth or Wi-Fi"},
+    {"label": "Voice assistants", "value": "Alexa, Google Assistant"},
+    {"label": "Remote control", "value": "App, from anywhere"},
+    {"label": "Timers", "value": "App-based"}
+   ],
+   "description": "The GHome Smart Plug supports both Bluetooth and Wi-Fi connections, and the maker pitches the upgraded Wi-Fi handling as quicker to connect and steadier afterward. It works with Alexa and Google Assistant for hands-free commands, and the app lets you manage outlet timers from outside the house. The pitch is a plug that gets out of the way once it is paired.\n\nThe main strength is the simplicity of pairing for a first-time buyer. Bluetooth discovery means the phone can find the plug without you hunting for a temporary hotspot, which is where many beginners stall. The main weakness is that the listing says little about an on-body button, so manual control may depend on the app.\n\nIn a home, the GHome fits easy jobs like a reading lamp or a window fan. Versus the Govee 4-Pack it offers a very similar feature set, and the Govee adds a group controller that the GHome listing does not mention. Next to the Kasa HS103P4, it asks you to trust a lesser-known brand in exchange for the same pairing simplicity.",
+   "bestFor": "First-time buyers who want Bluetooth-assisted pairing and basic timers.",
+   "pros": ["Bluetooth pairing helps first-time setup", "Works with Alexa and Google Assistant", "App timers can run while you are away", "Simple feature set avoids menu overload"],
+   "cons": ["No on-body button is mentioned in the listing", "Brand is less established than Kasa or Amazon"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Four-Pack Alternative",
+   "name": "EIGHTREE Smart Plug WiFi Outlet, 4-Pack",
+   "specs": ["15A rated outlet", "Alexa and Google Home", "Smart Life app setup", "Four-pack"],
+   "specList": [
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Rating", "value": "15A"},
+    {"label": "Voice assistants", "value": "Alexa, Google Assistant"},
+    {"label": "Setup app", "value": "Smart Life"}
+   ],
+   "description": "The EIGHTREE Smart Plug is a four-pack of 15 amp Wi-Fi outlets that works with Alexa and Google Assistant. Its listing is upfront about a required step: you connect the plug through the Smart Life app first, then go into the third-party services section of that app to link Alexa or Google. Once that is done, a short sentence such as asking Alexa to turn on the lamp does the rest.\n\nBluetooth on your phone helps the Smart Life app find the plug during setup, which the maker describes as a simplified connection. The extra link between apps is the price of using a white-label plug, and it is the clearest difference from the Kasa, where voice linking is part of one brand experience. If you can tolerate that single extra step, you get a full set of plugs and two assistants.\n\nDaily use is straightforward after setup, and the four plugs spread across lamps and fans just like the Govee set does. Because the voice sentence depends on the cloud app staying available, the plug is only as durable as that service, so keep that in mind. For someone who does not want to manage two accounts, the Amazon Smart Plug is the easier route, while the EIGHTREE suits the person who enjoys the control the Smart Life app provides.",
+   "bestFor": "Buyers who want four plugs, two assistants and do not mind a second app.",
+   "pros": ["Four 15A plugs cover multiple rooms", "Works with Alexa and Google Assistant", "Bluetooth helps the phone find the plug", "Smart Life app adds familiar scheduling tools"],
+   "cons": ["Voice linking needs an extra step in Smart Life", "Depends on a third-party app staying online"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Which assistant you already own", "explanation": "A voice plug is only useful if it speaks to the speaker or phone already in your home. The Amazon Smart Plug and the Amazon Basics Smart Plug both work with Alexa only, which is perfect for an Echo household and a dead end for a Google Home one. The Kasa HS103P4, Govee, GHome and EIGHTREE all list Alexa and Google support, so they are safer if the family mixes devices. Decide this first, because switching assistants later means buying plugs again."},
+  {"criterion": "How many steps setup takes", "explanation": "Setup is where most beginners give up, so count the apps involved. The Amazon Smart Plug runs entirely inside the Alexa app, and the Amazon Basics model adds a zero touch option for even less typing. The Kasa HS103P4 uses one Kasa app and then links to your assistant, while the EIGHTREE 4-Pack needs the Smart Life app plus a third-party link step. A good rule is that two apps is the ceiling for a plug you want to forget about."},
+  {"criterion": "A button on the plug itself", "explanation": "Voice control fails now and then, for example when the router restarts or a guest does not know the wake word. A physical control lets anyone turn the device on without a phone. The Kasa HS103P4 includes a touch actuator, which is the clearest example in this lineup, while most of the others do not mention a button in their listings. If a relative or visitor will use the lamp, prefer the plug with a manual option."},
+  {"criterion": "Load rating and what you plug in", "explanation": "Most plugs here are rated at 15 amps, as the Kasa HS103P4 and the EIGHTREE both state, which covers lamps, fans and small appliances comfortably. Do not assume the rating invites heat-producing loads such as a space heater, because those draw close to the limit for long periods. Look for UL or ETL marks on the housing before using any plug on something that warms up. A lamp or radio is a very safe first test."},
+  {"criterion": "Pack size versus real needs", "explanation": "The Kasa, Govee and EIGHTREE listings each supply four plugs, while the Amazon Smart Plug, the Amazon Basics model and the GHome listing are reviewed here as single plugs. A four-pack makes sense only if you can name four devices that benefit, such as a lamp, a fan, a radio and a string of lights. Buying more than you will install leaves plugs in a drawer. If you are unsure, start with one plug and add more once you trust the routine."},
+  {"criterion": "Schedules and group commands", "explanation": "Voice is only half of the value, because schedules turn lamps on at dusk without any sentence at all. The Govee 4-Pack lists customized schedules and a group controller, so one phrase can run several plugs together. The Amazon Basics Smart Plug highlights schedules for lights and fans, and the GHome listing stresses app timers from anywhere. If your goal is a home that looks lived in while you travel, prioritize the plug with scheduling over the one with the fanciest wake word."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Assistant compatibility", "description": "We checked which assistants each listing names and whether support is direct or routed through another app. The Kasa HS103P4, Govee, GHome and EIGHTREE support both Alexa and Google, while the two Amazon plugs are Alexa only. Compatibility carried the most weight because a plug that cannot hear your speaker has no purpose."},
+  {"title": "Setup path", "description": "Setup was scored by counting apps, accounts and special steps that the listings describe. The Amazon Smart Plug and Amazon Basics Smart Plug rate best, and the EIGHTREE scores lower for its Smart Life middle step. Bluetooth discovery on the Govee and GHome earned credit for easing the first connection."},
+  {"title": "Manual and app control", "description": "We looked at what you can do when you are not speaking: a button on the plug, remote control, timers and group commands. The Kasa HS103P4 leads on manual control with its touch actuator, and the Govee leads on grouping. Plugs with neither feature depend on the phone more heavily."},
+  {"title": "Load rating and safety notes", "description": "Specs such as the 15A rating on the Kasa and the EIGHTREE were taken from listings, and we favored plugs whose limits are stated clearly. We did not credit any plug for handling heaters, since that depends on the appliance and local codes. Buyers should confirm certification marks on the unit itself."},
+  {"title": "Lineup positioning", "description": "Within the group, the Kasa HS103P4 is the broadest all-rounder, the Amazon Smart Plug is the simplest for Echo owners, and the Govee 4-Pack is the strongest for group scenes. The EIGHTREE and GHome fill the white-label end with similar features. Each pick is placed by the job it does best rather than by a single total score."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Voice Assistant",
+   "intro": "Your speaker or phone decides the shortlist more than any feature does.",
+   "table": {
+    "headers": ["Your situation", "Pick", "Why"],
+    "rows": [
+     ["Echo speakers in every room", "Amazon Smart Plug", "Sets up inside the Alexa app with no hub"],
+     ["Echo and you want a slim body", "Amazon Basics Smart Plug (Alexa Only)", "Single-socket footprint plus zero touch setup"],
+     ["Google Home in the kitchen, Alexa upstairs", "Kasa Smart Plug HS103P4 (4-Pack)", "Lists Alexa, Echo and Google Home support"],
+     ["Android phone and Google Assistant", "Govee Smart Plug, 4-Pack", "Supports Google Assistant and group commands"],
+     ["Mixed assistants and comfortable with two apps", "EIGHTREE Smart Plug WiFi Outlet, 4-Pack", "Works with both after Smart Life linking"]
+    ]
+   },
+   "note": "If you may change speakers within a year, choose a plug that lists two assistants."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers here are relative, because pack size changes the cost per plug more than the brand does.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Amazon Smart Plug", "A single plug to test the idea on one lamp"],
+     ["Entry", "GHome Smart Plug (Wi-Fi and Bluetooth)", "Bluetooth pairing and app timers"],
+     ["Mid", "EIGHTREE Smart Plug WiFi Outlet, 4-Pack", "Four 15A plugs with two assistants"],
+     ["Mid", "Govee Smart Plug, 4-Pack", "Four plugs with groups and schedules"],
+     ["Premium", "Kasa Smart Plug HS103P4 (4-Pack)", "Touch actuator and an established app"]
+    ]
+   },
+   "note": "Buying one plug first costs less than a pack that sits unopened."
+  },
+  {
+   "subheading": "Alexa-Only vs Cross-Assistant Plugs",
+   "intro": "This choice decides how flexible your setup stays later.",
+   "cards": [
+    {"label": "Alexa-only plugs", "text": "These plugs link straight to the Alexa app, so there is no second account and no linking step. In this comparison that means the Amazon Smart Plug and the Amazon Basics Smart Plug (Alexa Only). They are the best fit for a household that is committed to Echo speakers and wants the least setup possible."},
+    {"label": "Cross-assistant plugs", "text": "These plugs use their own app and then connect to both Alexa and Google Assistant. The Kasa Smart Plug HS103P4 (4-Pack), Govee Smart Plug, 4-Pack, GHome Smart Plug (Wi-Fi and Bluetooth) and EIGHTREE Smart Plug WiFi Outlet, 4-Pack all fall here. Pick this side if you might change speakers or share the home with people on different phones."}
+   ],
+   "note": "Echo-only home: choose Alexa-only. Anything else: choose cross-assistant."
+  },
+  {
+   "subheading": "By Setup Style",
+   "intro": "How you prefer to connect devices narrows the field quickly.",
+   "table": {
+    "headers": ["Setup preference", "Pick", "Reason"],
+    "rows": [
+     ["Stay inside one app I know", "Amazon Smart Plug", "Alexa app only, no hub"],
+     ["Avoid typing Wi-Fi details", "Amazon Basics Smart Plug (Alexa Only)", "Zero touch setup option"],
+     ["Pair by Bluetooth first", "GHome Smart Plug (Wi-Fi and Bluetooth)", "Bluetooth or Wi-Fi connection"],
+     ["Pair by Bluetooth and group later", "Govee Smart Plug, 4-Pack", "Bluetooth pairing plus group controller"],
+     ["One brand app that also links voice", "Kasa Smart Plug HS103P4 (4-Pack)", "Kasa app handles timers and linking"]
+    ]
+   },
+   "note": "Always confirm your phone is on 2.4GHz before starting, whichever plug you choose."
+  },
+  {
+   "subheading": "For Hands-Free Lamp Control Specifically",
+   "intro": "A bedside or living room lamp is the most common first use, and it asks for different things than a fan does.",
+   "cards": [
+    {"label": "Look for", "text": "A slim body that leaves the second socket free, a lamp that stays switched on at its own base, and a plug that remembers its state after a power cut. A schedule that runs at dusk is also worth having, so the room is lit before you arrive. A manual button helps when someone else uses the room."},
+    {"label": "In this comparison", "text": "The Amazon Basics Smart Plug (Alexa Only) is the slimmest option and suits tight outlets. The Kasa Smart Plug HS103P4 (4-Pack) gives you a touch actuator for guests. The Govee Smart Plug, 4-Pack lets one sentence switch every lamp in the living room."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Paying more only pays off in a few situations.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want a button for guests: Kasa Smart Plug HS103P4 (4-Pack)", "Only you use the lamp: Amazon Smart Plug"],
+     ["You run many lamps as one scene: Govee Smart Plug, 4-Pack", "You only control one fan: GHome Smart Plug (Wi-Fi and Bluetooth)"],
+     ["You use both Alexa and Google at home: Kasa Smart Plug HS103P4 (4-Pack)", "You live in an all-Echo home: Amazon Basics Smart Plug (Alexa Only)"],
+     ["You value one tidy app: Kasa Smart Plug HS103P4 (4-Pack)", "You accept a second app: EIGHTREE Smart Plug WiFi Outlet, 4-Pack"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {"q": "Do voice-control smart plugs need a hub?", "a": "None of the six plugs here requires a hub. The Amazon Smart Plug states plainly that no smart home hub is needed, and the Kasa HS103P4 says the same. They connect to your home Wi-Fi and then link to Alexa or Google Assistant. A hub only becomes relevant if you move to other standards later."},
+  {"q": "Which plug is easiest for a first-time user?", "a": "For Echo households the Amazon Smart Plug is the simplest because everything happens in the Alexa app. The Amazon Basics Smart Plug adds a zero touch path that skips manual Wi-Fi entry. If you use Google Home or mixed devices, the Kasa HS103P4 is the easiest cross-assistant choice. Ask a family member to help with the first plug, and the rest will go quickly."},
+  {"q": "Why does my plug fail to connect during setup?", "a": "The usual cause is a phone connected to 5GHz while the plug only supports 2.4GHz. Switch your phone to the 2.4GHz network for the pairing, or turn on a router setting that splits the bands. Bluetooth-assisted plugs like the Govee and GHome can sidestep some of this. After pairing, you can switch your phone back."},
+  {"q": "Can I plug a space heater or coffee maker into a smart plug?", "a": "Most plugs here are rated at 15 amps, so many small appliances are fine. Space heaters draw heavy current for long periods and are the main risk, so avoid them unless the plug clearly says it is rated for them. A coffee maker works only if it starts brewing when power is applied, since the plug cannot press a button. Look for UL or ETL marks on the housing."},
+  {"q": "Will the plug still work if the internet goes down?", "a": "Voice commands through Alexa or Google rely on the internet, so they usually stop when the connection drops. Local features vary by brand, and the listings in this guide do not promise offline control. A plug with a physical button, such as the Kasa HS103P4, still lets you switch it by hand. Schedules stored on a plug may or may not run, so test yours."},
+  {"q": "Is it a problem that some plugs need a second app?", "a": "It is not unsafe, but it adds a step and a dependency. The EIGHTREE 4-Pack needs the Smart Life app before Alexa or Google can see it. If that service ever closes, remote features could stop working. If you want fewer moving parts, pick a plug tied to one app, like the Amazon Smart Plug."},
+  {"q": "How many plugs should I buy?", "a": "Count the devices you would actually switch every week, then buy that many. A four-pack from Kasa, Govee or EIGHTREE makes sense for a living room, bedroom and hall. If you are not sure, try a single plug first and add more later. Unused plugs do not earn their keep."}
+ ]
+}

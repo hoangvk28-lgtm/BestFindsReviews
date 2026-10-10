@@ -1,0 +1,12 @@
+# garden auger research (b)
+- Match bit size to drill torque: 2.5-3 inch bits want at least an 18V drill; 3.5-4 inch or 24 inch plus lengths want a 20V drill with a side handle.
+- Wider flighting moves more soil per turn but needs more torque; clay stalls weak drills.
+- A pointed tip keeps the bit centered and helps it bite without walking.
+- Hex shanks grip the chuck; round shanks slip under high torque.
+- Use low-speed, high-torque gear; high speed only flings dirt.
+- Pulse the trigger: drill about three inches, lift to clear soil, repeat; avoids overheating.
+- Do not lean full body weight; the bit can bury and the drill cannot pull it back.
+- Use a side handle or clutch setting; a bit that catches a root or rock can twist the wrist.
+- Wear safety glasses; soil is thrown upward.
+- Keep feet clear of the bit when lifting it out.
+- Check for buried utilities before digging deeper holes.

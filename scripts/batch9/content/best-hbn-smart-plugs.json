@@ -1,0 +1,254 @@
+{
+ "guideTitle": "5 Best HBN Smart Plugs in 2026",
+ "metaTitle": "Best HBN Smart Plugs in 2026",
+ "metaDescription": "Compare five HBN smart plugs, from the 4-pack indoor mini to outdoor 2, 3 and 6 outlet models, with setup, voice control and weather notes.",
+ "introParagraphs": [
+  "HBN sells a small but surprisingly varied family of Wi-Fi plugs, and the differences between them matter more than the name on the box. One model is a compact indoor mini sold as a four pack, while the rest are weather-rated outdoor units with one, two, three or six outlets. Picking the wrong one usually means a plug that blocks a second socket, or an outdoor timer with too few outlets for the job.",
+  "We evaluated each plug here based on product specs and buyer feedback, focusing on how easy it is to set up, how clearly the outlets are controlled, and whether the housing suits the place you will actually use it. HBN plugs work through a phone app and also respond to Alexa and Google Home voice commands, so a lamp, a fan or a string of patio lights can follow a schedule without any hub.",
+  "Every plug on this list needs a 2.4GHz Wi-Fi network, which is the single most common cause of a failed first setup. The sections below match each model to a real situation, from a bedroom lamp to a backyard with a pump and a pair of lights, so you can buy once and use it."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "HBN 15A Mini Smart Plug, 4 Pack",
+   "specs": ["15A rated", "4 plugs included", "2.4GHz Wi-Fi only", "Smart Life compatible", "Alexa and Google voice"],
+   "specList": [
+    {"label": "Rating", "value": "15A"},
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Location", "value": "Indoor"},
+    {"label": "Voice assistants", "value": "Alexa, Google Home"}
+   ],
+   "description": "The HBN 15A Mini is the one most households should start with, because it covers the everyday jobs a smart plug exists for. Each of the four plugs turns a lamp, a fan or a small appliance on and off from your phone, from anywhere, once it joins your 2.4GHz network. It works through the Smart Life style app and answers to Alexa or Google Home voice commands, so the same lamp can be switched by a tap or a spoken sentence. The mini body is designed to take up less room than older bulky plugs.\n\nThe four pack format is the real strength, since most people find a use for three or four plugs within a week of owning one. Timer and countdown schedules let you set a bedroom lamp for evening, a fan to stop after an hour, or a coffee maker switch to cut power later in the day. The tradeoff is that it is an indoor plug only, so it should not go on a porch or near a garden hose. It also offers on and off control rather than any dimming or energy readout, which is fine for most lamps but limiting if you want usage data.\n\nSetup follows the usual pattern of plugging in, opening the app and joining 2.4GHz Wi-Fi, which is the step that trips up phones locked to 5GHz. Because there are four identical plugs, naming each one clearly in the app, such as Living Room Lamp, saves confusion when you start speaking commands. Compared with the HBN Outdoor Smart Plug 1 Grounded Outlet, this pack costs you weather protection but gives you four separate controllers instead of one. If you only need two or three plugs indoors, it is still the most flexible HBN option in this lineup.",
+   "bestFor": "Anyone adding schedules and voice control to lamps and fans around the home.",
+   "pros": ["Four plugs cover a whole room or several rooms", "Works with Alexa and Google Home voice commands", "Timers and countdowns need no extra hub", "Compact body leaves room for a second plug"],
+   "cons": ["Indoor use only, no weather protection", "On and off control only, no dimming", "Needs a 2.4GHz network to finish setup"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Outdoor Dual Outlet",
+   "name": "HBN Outdoor Smart Plug, 2 Outlet Timer",
+   "specs": ["2 independent outlets", "Heavy duty housing", "2.4GHz Wi-Fi only", "App and voice control", "Timer scheduling"],
+   "specList": [
+    {"label": "Outlets", "value": "2, individually controlled"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Location", "value": "Outdoor"},
+    {"label": "App", "value": "HBN Smart or BN-HUB"},
+    {"label": "Voice assistants", "value": "Alexa, Google Home"}
+   ],
+   "description": "This is the outdoor plug that fits the most common yard setup, where two things need independent control. Its two outlets switch separately, so you can run patio lights on an evening schedule while a fountain pump follows a different timetable. The heavy duty housing is built for exposed locations, and it connects to a 2.4GHz network and responds to the HBN Smart app and to Alexa or Google Home commands. For a porch, deck or garden wall, that combination of two outlets and weather construction is hard to beat in this family.\n\nThe independent control is the feature that separates it from a simple outdoor timer. You can set one outlet to follow a schedule for holiday lights and leave the other for a charger or pump you switch by hand. The tradeoff is range, because an outdoor wall far from the router may struggle to hold the connection, and a repeater or a closer router position can help. The plug also adds bulk to a wall outlet, which matters when the cover must still close properly.\n\nOnce installed, it is a set and forget device that mostly needs a quick check each season. Compared with the HBN Outdoor Smart WiFi Plug with one grounded outlet, it gives you a second switchable outlet in the same footprint. The three outlet model is more flexible, but the two outlet version is easier to fit on a standard porch wall. If your outdoor plan involves exactly two devices, this is the sensible default and the easiest model to explain to another family member.",
+   "bestFor": "A porch or deck with two outdoor devices needing separate schedules.",
+   "pros": ["Two outlets switch on separate schedules", "Heavy duty housing built for outdoor spots", "Works with the HBN app and voice assistants", "Sunrise-style timers suit lights and pumps"],
+   "cons": ["Weak Wi-Fi at the wall can drop control", "Bulky body can crowd a covered outlet", "Only two outlets, no room to expand"]
+  },
+  {
+   "i": 2,
+   "badge": "Best Simple Outdoor Pick",
+   "name": "HBN Outdoor Smart Plug, 1 Grounded Outlet",
+   "specs": ["1 grounded outlet", "Weatherproof design", "Keep 2 feet off ground", "App and voice control", "Smart schedules"],
+   "specList": [
+    {"label": "Outlets", "value": "1 grounded"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Location", "value": "Outdoor"},
+    {"label": "Mounting note", "value": "At least 2 feet above ground"},
+    {"label": "Voice assistants", "value": "Alexa, Google Home"}
+   ],
+   "description": "The single outlet outdoor plug is the plain, no surprises option for one job done well. It adds a grounded outlet that you control from the HBN Smart app or by voice, and the weatherproof design is built for rain and harsh weather. Its smart schedules can switch outdoor lights, a heated pet bowl or a small pump on at set times, and the connection runs over 2.4GHz Wi-Fi. If you have one outdoor device that currently relies on someone remembering to plug it in, this solves it directly.\n\nThe product notes ask you to mount the plug at least 2 feet off the ground, which is a real installation detail rather than marketing. That keeps the outlet clear of puddles and snow, so plan the position before you buy, especially if your outdoor socket sits near the foundation. The tradeoff of a single outlet is that you cannot split two devices across it, and heavy loads need a check against the stated rating. For a setup with only one thing to automate, though, simplicity is an advantage.\n\nThis model is also the easiest to explain to someone who is not comfortable with technology. There is one outlet, one schedule and one device to name in the app. Compared with the HBN Outdoor Smart Plug 3 Outlet, it offers fewer sockets but a smaller footprint on the wall. Choose it if your list ends with the front porch light, and step up to the multi-outlet versions only when you can name a second or third device.",
+   "bestFor": "One outdoor light, pump or decoration that needs a reliable schedule.",
+   "pros": ["Single grounded outlet keeps setup simple", "Weatherproof design for rain and harsh weather", "Smart schedules automate lights hands free", "Alexa and Google Home voice support included"],
+   "cons": ["One outlet only, nothing to share", "Must be mounted well above the ground", "Needs steady 2.4GHz Wi-Fi outdoors"]
+  },
+  {
+   "i": 4,
+   "badge": "Best for Multiple Devices",
+   "name": "HBN Outdoor Smart Plug, 3 Independent Outlets",
+   "specs": ["3 independent outlets", "Heavy duty electronics", "Sunrise and sunset timers", "Alexa and Google voice", "2.4GHz Wi-Fi"],
+   "specList": [
+    {"label": "Outlets", "value": "3, individually controlled"},
+    {"label": "Wi-Fi band", "value": "2.4GHz"},
+    {"label": "Location", "value": "Outdoor"},
+    {"label": "Scheduling", "value": "Sunrise and sunset options"},
+    {"label": "Voice assistants", "value": "Alexa, Google Home"}
+   ],
+   "description": "The three outlet outdoor plug is the most capable wall-mounted model in the family. Each of the three sockets is controlled on its own, so garden lights, a fountain and a charging station can each have a distinct schedule. The listing highlights sunrise and sunset timing, which suits path lights that should follow the day rather than a fixed clock. It works with Alexa and Google Home, and it uses the same 2.4GHz Wi-Fi connection as the rest of the HBN family.\n\nThe benefit of three independent outlets is consolidation, because one plug replaces what would otherwise be a stack of single devices. That means one app listing to manage and one connection to keep stable. The tradeoff is size and exposure, since a bigger body on a wall outlet is more likely to collide with a cover or a neighboring fixture. If one outlet will always run a heavy device, check that load against the rating before filling the other sockets.\n\nOwnership is easy once the layout is planned, because you label each outlet in the app after what it runs. Compared with the HBN Outdoor Smart Plug 2 Outlet, it adds a third switchable socket for a modest bump in bulk. It also stops short of the power stake style, which gives you six outlets but needs a different installation approach. This is the pick for a patio or backyard where three things need attention and a wall outlet is within reach of your router.",
+   "bestFor": "Patios and yards with three devices needing separate outdoor schedules.",
+   "pros": ["Three outlets run on separate schedules", "Sunrise and sunset timing suits path lights", "One app entry replaces several single plugs", "Alexa and Google Home voice commands work"],
+   "cons": ["Larger body can conflict with outlet covers", "Heavy loads must be checked against rating", "A weak router signal outdoors can interrupt it"]
+  },
+  {
+   "i": 6,
+   "badge": "Best for Yard Setups",
+   "name": "HBN Outdoor Smart Plug Timer, 6 Outlet Power Stake",
+   "specs": ["6 grounded outlets", "6 ft green cord", "IP44 waterproof", "Overload protection", "Timer and app control"],
+   "specList": [
+    {"label": "Outlets", "value": "6 grounded"},
+    {"label": "Cord length", "value": "6 feet"},
+    {"label": "Weather rating", "value": "IP44"},
+    {"label": "Protection", "value": "Overload protection"},
+    {"label": "Voice assistants", "value": "Alexa, Google Home"}
+   ],
+   "description": "The power stake is a different style of product, built to stand in the ground rather than sit on a wall. It offers six grounded outlets on a 6 foot green extension cord, with IP44 waterproofing and overload protection described in the listing. The timer is intended for the kind of yard where several things need power at once, such as landscape lights, a pump and holiday displays. It supports the HBN Smart and BN-HUB apps and works with Alexa and Google Home voice control.\n\nSix outlets in one unit mean a single schedule point for a large display, and the stake keeps the plugs raised from wet ground. The tradeoff is that you are managing the stake as one timer, so it suits groups of devices that share a schedule more than devices that need fully separate control. The cord also means the stake must sit within reach of an outdoor outlet, and the green color helps it blend into a garden bed. For heavy equipment, the overload protection is reassuring, but the total load should still stay within the rating.\n\nPlacement matters more than setup with this model, since you must choose a spot with Wi-Fi coverage and drainage. Compared with the HBN Outdoor Smart Plug 3 Outlet, it offers double the sockets at the cost of individual outlet flexibility. If your plan is a big holiday display or a garden with a full set of lights, the stake gives you the capacity the wall models cannot match. For a small porch, it is more equipment than the job needs.",
+   "bestFor": "Large yard displays and garden setups with many powered items.",
+   "pros": ["Six grounded outlets handle large displays", "Six foot cord reaches beyond the wall outlet", "IP44 waterproofing and overload protection", "Stake design keeps plugs off wet ground"],
+   "cons": ["Outlets share one timer, not full separate control", "Needs a spot with good Wi-Fi and drainage", "Too much equipment for a small porch"]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Indoor or outdoor housing",
+   "explanation": "A smart plug that is not built for weather will fail quickly on a porch, so match the housing to the location before anything else. The HBN 15A Mini Smart Plug 4 Pack is indoor only, while the HBN Outdoor Smart Plug 2 Outlet and the 1 Grounded Outlet model are designed for rain and harsh conditions. The listing for the single outlet model asks you to mount it at least 2 feet off the ground, which is a good threshold to use for any outdoor plug. The power stake lists an IP44 rating, which suits splashes but is not a reason to submerge anything. Never place an indoor plug in a damp garage or a covered patio just because it is sheltered."
+  },
+  {
+   "criterion": "Number of outlets needed",
+   "explanation": "Count the devices you actually want to automate and add one spare, because needs grow after the first week. The HBN Outdoor Smart Plug 1 Grounded Outlet offers one socket, the 2 Outlet model offers two, and the 3 Independent Outlets model offers three. The power stake raises that to six grounded outlets on a 6 foot cord. Buying more outlets than you will use wastes space on a wall, while buying too few means a second plug and a second app listing later."
+  },
+  {
+   "criterion": "Independent versus shared control",
+   "explanation": "Some plugs switch each outlet separately, and others treat the whole unit as one timer, which changes what you can schedule. The 2 Outlet and 3 Independent Outlets models let each socket follow its own timetable, so lights and a pump can run at different hours. The 6 outlet power stake is better thought of as one timer that supports a group of devices. If two items need different on and off times, choose an independent model rather than hoping a shared schedule will fit. Check this detail in the listing before buying, because it is easy to assume independence when there is none."
+  },
+  {
+   "criterion": "2.4GHz Wi-Fi compatibility",
+   "explanation": "Every HBN plug here connects only to 2.4GHz Wi-Fi, so a phone sitting on a 5GHz band can stall the first setup. Switch your phone to 2.4GHz during pairing or use a router that splits the bands, then switch back afterward. The HBN 15A Mini Smart Plug 4 Pack is simplest to troubleshoot because it sits near your router indoors. Outdoor models such as the HBN Outdoor Smart Plug 3 Outlet may sit far from the router, so a weak signal is the usual cause of dropouts. A Wi-Fi extender placed halfway to the porch often fixes it."
+  },
+  {
+   "criterion": "App and voice assistant support",
+   "explanation": "Check which app runs the plug and which voice assistants it answers to, since that decides how you will use it day to day. The HBN plugs here work with Alexa and Google Home, and the outdoor listings mention the HBN Smart and BN-HUB apps, while the mini mentions Smart Life. You need a separate Alexa or Google speaker to speak commands, since the plug itself has no microphone. If you only want schedules, the app alone is enough and voice is a bonus. Avoid assuming Apple Home support, because none of these listings claim it."
+  },
+  {
+   "criterion": "Load rating and device type",
+   "explanation": "A smart plug can only switch what its rating allows, and the HBN 15A Mini Smart Plug 4 Pack is stated at 15A. The outdoor listings describe heavy duty use, but the sensible habit is to read the rating label on the actual plug before connecting anything large. The power stake adds overload protection, which gives a small margin of safety on a crowded display. Treat motors, heaters and anything that draws a lot of power with extra caution and check the device label first. A lamp or a string of lights is well within what any of these plugs handle."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Setup effort",
+   "description": "We looked at how many steps each plug needs from the wall to a working schedule, based on product specs and buyer feedback. The HBN 15A Mini Smart Plug 4 Pack follows a simple plug in, open the app, join 2.4GHz Wi-Fi sequence. Outdoor models add the extra step of choosing a mounting spot with signal. Plugs that need fewer decisions ranked higher."
+  },
+  {
+   "title": "Weather suitability",
+   "description": "Outdoor plugs were judged on the housing details the listings describe. The HBN Outdoor Smart Plug 1 Grounded Outlet is described as weatherproof with a 2 foot off the ground mounting note, and the power stake lists IP44. The indoor mini was scored only against indoor use. A plug sold for the wrong environment lost points quickly."
+  },
+  {
+   "title": "Outlet flexibility",
+   "description": "This criterion rewards plugs that let you control more than one device in a sensible way. The HBN Outdoor Smart Plug 3 Independent Outlets leads on independent control, while the 6 Outlet Power Stake leads on raw capacity with six sockets. The single outlet model scores lower here but is easier to understand. We weighted independence above raw outlet count."
+  },
+  {
+   "title": "Control and automation",
+   "description": "We checked what each plug offers for timers, schedules and voice assistants. All five list Alexa and Google Home support, and the 3 outlet model adds sunrise and sunset options in its description. The mini adds the convenience of four identical plugs for room by room control. Automation depth mattered more than app polish."
+  },
+  {
+   "title": "Lineup fit and value",
+   "description": "We placed the five plugs against each other by use case rather than by price. The HBN 15A Mini Smart Plug 4 Pack leads for indoor value, the 2 Outlet model leads for a typical porch, and the 6 Outlet Power Stake leads for large yard displays. Each pick had to solve a distinct problem. Duplicate pack sizes of the same plug were treated as one product."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Location",
+   "intro": "Where the plug will live decides the model more than any feature does.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Reason"],
+    "rows": [
+     ["Bedroom lamp and living room fan", "HBN 15A Mini Smart Plug, 4 Pack", "Indoor rated, four plugs, compact body"],
+     ["Porch light plus a doorbell charger", "HBN Outdoor Smart Plug, 2 Outlet Timer", "Two independent outdoor outlets"],
+     ["Single holiday light string", "HBN Outdoor Smart Plug, 1 Grounded Outlet", "One weatherproof outlet, simple schedule"],
+     ["Patio lights, fountain and charger", "HBN Outdoor Smart Plug, 3 Independent Outlets", "Three outlets on separate timers"],
+     ["Large garden or holiday display", "HBN Outdoor Smart Plug Timer, 6 Outlet Power Stake", "Six grounded outlets on a 6 foot cord"]
+    ]
+   },
+   "note": "Check the mounting note on the single outlet model, which asks for a position at least 2 feet off the ground."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative cost tiers follow the number of outlets and the physical size of each unit.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "HBN Outdoor Smart Plug, 1 Grounded Outlet", "One weatherproof outlet for a single job"],
+     ["Entry to mid", "HBN 15A Mini Smart Plug, 4 Pack", "Four indoor plugs for several rooms"],
+     ["Mid", "HBN Outdoor Smart Plug, 2 Outlet Timer", "Two independently controlled outdoor outlets"],
+     ["Mid to premium", "HBN Outdoor Smart Plug, 3 Independent Outlets", "Three outlets with sunrise and sunset timing"],
+     ["Premium", "HBN Outdoor Smart Plug Timer, 6 Outlet Power Stake", "Six outlets, cord and overload protection"]
+    ]
+   },
+   "note": "Multi-pack and multi-outlet models cost more up front but replace several single plugs."
+  },
+  {
+   "subheading": "Wall-Mounted vs Power Stake",
+   "intro": "The two outdoor formats solve different problems.",
+   "cards": [
+    {"label": "Wall-mounted plugs", "text": "These plug directly into an outdoor receptacle and add smart control at the wall. The HBN Outdoor Smart Plug 1 Grounded Outlet, 2 Outlet Timer and 3 Independent Outlets models fall on this side. They suit porches, decks and walls near an existing outlet, and the 2 and 3 outlet versions control sockets individually. Choose a wall model when your devices sit close to the outlet."},
+    {"label": "Power stake", "text": "The stake stands in the ground and extends the reach with a 6 foot cord and six grounded outlets. The HBN Outdoor Smart Plug Timer, 6 Outlet Power Stake is the only pick on this side. It suits garden beds and large displays where devices are spread out, but the outlets share one timer. Choose the stake when you need capacity and reach more than separate schedules."}
+   ],
+   "note": "Wall models for few devices near the outlet, the stake for many devices spread across a yard."
+  },
+  {
+   "subheading": "By Number of Smart Devices",
+   "intro": "Your device count narrows the field quickly.",
+   "table": {
+    "headers": ["Devices to automate", "Pick", "Why"],
+    "rows": [
+     ["1 outdoor", "HBN Outdoor Smart Plug, 1 Grounded Outlet", "One outlet, no wasted sockets"],
+     ["2 outdoor", "HBN Outdoor Smart Plug, 2 Outlet Timer", "Separate control for each device"],
+     ["3 outdoor", "HBN Outdoor Smart Plug, 3 Independent Outlets", "Three independent schedules"],
+     ["4 indoor lamps or fans", "HBN 15A Mini Smart Plug, 4 Pack", "One plug per device across rooms"],
+     ["5 or more outdoor", "HBN Outdoor Smart Plug Timer, 6 Outlet Power Stake", "Six outlets from a single stake"]
+    ]
+   },
+   "note": "Leave one spare outlet if you tend to add decorations each season."
+  },
+  {
+   "subheading": "For Holiday Lighting Specifically",
+   "intro": "Holiday displays are the most common reason people buy an outdoor smart plug.",
+   "cards": [
+    {"label": "Look for", "text": "Look for a weather-rated housing, enough outlets for each light string, and sunrise or sunset scheduling so lights come on without manual timers. Make sure the plug sits above ground level and within Wi-Fi range of your router. Keep the total load of the connected strings inside the plug rating."},
+    {"label": "In this comparison", "text": "The HBN Outdoor Smart Plug, 3 Independent Outlets offers sunrise and sunset options, the 6 Outlet Power Stake handles large displays with six outlets, and the 1 Grounded Outlet model suits a single string. The HBN Outdoor Smart Plug, 2 Outlet Timer is the balanced choice for a porch and a tree. The indoor mini is only for an indoor tree."}
+   ],
+   "note": "Test the schedule a few days before the display goes up."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A larger or more capable unit pays off only in certain situations.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You run three or more outdoor devices, so the HBN Outdoor Smart Plug, 3 Independent Outlets saves buying extra plugs", "You only have one porch light, so the HBN Outdoor Smart Plug, 1 Grounded Outlet is enough"],
+     ["Your display covers a yard, so the HBN Outdoor Smart Plug Timer, 6 Outlet Power Stake gives reach and capacity", "Your devices cluster near one wall outlet, so the 2 Outlet Timer fits"],
+     ["You want smart control in many rooms, so the HBN 15A Mini Smart Plug, 4 Pack covers them in one purchase", "You only need one or two indoor lamps and can skip the full pack"],
+     ["Your devices need different schedules, so independent outlets on the 2 or 3 outlet models are worth it", "All devices share a schedule, so a shared timer or the power stake works"]
+    ]
+   },
+   "note": "Buy for the devices you have now plus one, not for a hypothetical future setup."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which HBN smart plug should I buy first?",
+   "a": "Start with the HBN 15A Mini Smart Plug 4 Pack if your use is indoors, since four plugs cover most rooms and teach you the app. If your goal is outdoor lights, pick by outlet count instead, one, two or three outlets for wall models. Counting the devices you want to control is the fastest way to decide. Most people end up happier with one extra outlet than one too few."
+  },
+  {
+   "q": "Do HBN smart plugs work with 5GHz Wi-Fi?",
+   "a": "No, the listings for these plugs state 2.4GHz only. If setup fails, check that your phone is on a 2.4GHz network during pairing and move it back afterward. Many routers can split the two bands under different names to make this easier. Once paired, the plug stays on 2.4GHz even if your other devices use 5GHz."
+  },
+  {
+   "q": "Can I leave an outdoor HBN plug outside all year?",
+   "a": "The outdoor models are built for rain and harsh weather, but the listings still advise sensible placement. The single outlet model asks to be mounted at least 2 feet off the ground, and the power stake lists IP44, which is rated for splashes. Check the plug and its cover each season, especially after storms or freezing weather. Do not rely on any outdoor plug if water pools around the outlet."
+  },
+  {
+   "q": "Is a smart plug the same as a smart power strip?",
+   "a": "No, a smart plug controls one or a few outlets from a single body, while a power strip spreads many outlets across a cord. The HBN 6 Outlet Power Stake sits between the two ideas, offering six outlets on a 6 foot cord with a shared timer. It does not give every outlet its own schedule, which the 2 and 3 outlet wall models do. Pick based on whether you need reach or separate control."
+  },
+  {
+   "q": "Do I need an Alexa or Google speaker to use these?",
+   "a": "You can use the app alone to set schedules and switch devices from your phone. Voice control requires a separate Alexa or Google Home speaker, because the plug has no microphone. Once linked, you can say a device name to switch it on or off. Many owners use only schedules and never bother with voice."
+  },
+  {
+   "q": "What happens when the power or internet goes out?",
+   "a": "When power returns, most plugs restore to a default state, so check the app behavior for your model. Schedules run from the cloud app, so a long internet outage can pause remote control and some timers. Devices that need a button press after power loss will not restart on their own. Keep a manual way to switch anything important."
+  },
+  {
+   "q": "Can I plug a space heater into an HBN smart plug?",
+   "a": "It is safer not to, since heaters draw a lot of power and the HBN 15A Mini is rated at 15A. Read the label on the heater and compare it to the plug rating before trying. Lamps, fans, string lights and small appliances are the intended loads. When in doubt, choose a plug with a clear rating or skip smart control for that device."
+  }
+ ]
+}

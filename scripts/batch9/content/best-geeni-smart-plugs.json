@@ -1,0 +1,242 @@
+{
+ "guideTitle": "5 Best Geeni Smart Plugs in 2026",
+ "metaTitle": "Best Geeni Smart Plugs in 2026",
+ "metaDescription": "Five Geeni smart plugs compared, from a four-pack of minis to a four-outlet surge model and weatherproof outdoor duos, for simple Wi-Fi control.",
+ "introParagraphs": [
+  "Geeni built its name on affordable Wi-Fi plugs that skip the hub and run through one friendly app. The brand's range stretches from tiny single outlet minis to a four outlet surge protected unit and weatherproof outdoor models. That spread means the right Geeni pick depends heavily on where the plug will live and how many things you want to control. This guide covers five distinct Geeni plugs, with repeat listings of the same model counted once.",
+  "We evaluated each plug based on product specs and buyer feedback, looking at setup effort, voice assistant support, outlet coverage and weather readiness. Every plug here works with Alexa and Google Home through the Geeni app, and every one needs a 2.4 GHz Wi-Fi network. None of the comparisons here come from lab work, and no pick is paid placement. The goal is to help you match a plug to a real job such as a reading lamp, a living room cluster or a patio.",
+  "Read the quick tables below first if you already know your room. Otherwise the buying criteria explain what separates a good smart plug from a frustrating one."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "Geeni Smart Plug Mini 15A, 4 Pack",
+   "specs": ["15A mini outlet", "No hub required", "UL listed", "Alexa and Google Home", "Four plugs per box"],
+   "specList": [
+    {"label": "Rating", "value": "15A"},
+    {"label": "Pack size", "value": "4 plugs"},
+    {"label": "Hub", "value": "Not required"},
+    {"label": "Wi-Fi band", "value": "2.4 GHz"},
+    {"label": "Certification", "value": "UL"}
+   ],
+   "description": "The Geeni Smart Plug Mini 15A is the all purpose pick, sold as a four pack in white. It is rated at 15A, carries a UL listing and needs no hub, so it plugs straight into a standard outlet and joins your 2.4 GHz network through the Geeni app. Alexa and Google Assistant voice control are both supported, which means lamps, fans and humidifiers can be handled by voice or by schedule.\n\nThe app lets you build timers, schedules and automation routines, and you can set different on and off times for each plug. That flexibility suits a household that wants the porch lamp to come on at dusk, the bedroom fan to switch off at midnight and the living room lamp to follow a different pattern. The tradeoff is that it is a basic single outlet plug, so it does not expand the number of outlets you have. It is also a Wi-Fi only model, so a weak signal at the outlet can cause dropouts.\n\nOwnership is straightforward because there are no refills, hubs or batteries to manage. Compared with the Geeni Switch Duo Double Smart Plug, it uses one socket per device instead of two. Compared with the Geeni Smart Wi-Fi 4 Outlet Plug, it controls less per outlet but keeps the wall duplex tidier. For most homes, the four pack covers the first round of lamps and fans.",
+   "bestFor": "First time buyers who want several simple plugs for lamps and fans.",
+   "pros": [
+    "UL listed 15A rating suits lamps, fans and humidifiers",
+    "No hub required, joins 2.4 GHz Wi-Fi directly",
+    "Alexa and Google Assistant voice control both supported",
+    "Four plugs per box cover several rooms"
+   ],
+   "cons": [
+    "Only one controlled outlet per plug",
+    "2.4 GHz Wi-Fi only, no 5 GHz support",
+    "Weak router signal can cause dropouts"
+   ]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Many Devices",
+   "name": "Geeni Smart Wi-Fi 4 Outlet Plug with Surge Protection",
+   "specs": ["Four controlled outlets", "Surge protection", "Individual outlet control", "Alexa and Google Home", "2.4 GHz Wi-Fi"],
+   "specList": [
+    {"label": "Outlets", "value": "4"},
+    {"label": "Control", "value": "Each outlet individually"},
+    {"label": "Protection", "value": "Surge protection"},
+    {"label": "Wi-Fi band", "value": "2.4 GHz"},
+    {"label": "Pack size", "value": "1 unit"}
+   ],
+   "description": "The Geeni Smart Wi-Fi 4 Outlet Plug turns one standard wall outlet into 4, and the listing says each outlet can be controlled individually. It adds surge protection, so it suits a desk, a TV stand or a workshop corner where several devices share one spot. Setup is simple: plug it in, add it to the Geeni app over 2.4 GHz Wi-Fi and name each outlet.\n\nIt works with Alexa and Google Home, and the schedules and routines let you switch a lamp on at dusk while a fan stays on a separate timer. The tradeoff is size: it is a bulky unit that takes over a full wall duplex rather than hiding in a single socket. It is also a single unit, so the price of one pick covers one location rather than many rooms. For someone who wants to tame a cable cluster, it replaces a power strip and a handful of single plugs.\n\nOwnership is fairly relaxed, since you only configure it once and then adjust schedules in the app. Compared with the Geeni Smart Plug Mini 15A four pack, it offers more outlets in one place but fewer locations. Compared with the Geeni Switch Duo Double Smart Plug, it doubles the number of controlled devices at the same wall outlet. Keep it away from moisture, since it is an indoor model.",
+   "bestFor": "A desk, TV stand or workshop corner with several devices to control.",
+   "pros": [
+    "Turns one outlet into four independently controlled ones",
+    "Built-in surge protection for plugged in devices",
+    "Replaces a power strip and several single plugs",
+    "Works with Alexa and Google Home on 2.4 GHz Wi-Fi"
+   ],
+   "cons": [
+    "Bulky body covers a whole wall duplex",
+    "Covers only one location per unit",
+    "Indoor use only, no weather rating"
+   ]
+  },
+  {
+   "i": 3,
+   "badge": "Best Single Outdoor Plug",
+   "name": "Geeni Indoor/Outdoor Smart Plug, Weatherproof",
+   "specs": ["Weatherproof design", "One controlled socket", "Alexa and Google Home", "Works with Cortana", "Weather-resistant cover"],
+   "specList": [
+    {"label": "Sockets", "value": "1"},
+    {"label": "Weather protection", "value": "Weather-resistant cover"},
+    {"label": "Voice", "value": "Alexa, Google Assistant, Cortana"},
+    {"label": "Hub", "value": "Not required"}
+   ],
+   "description": "The Geeni Indoor/Outdoor Smart Plug is a one socket weatherproof model for lights, pumps and other outdoor devices. It uses the Geeni app for remote control and timers, and the listing mentions holiday lights and sprinklers as typical jobs. Voice control works with Alexa and Google Assistant, and the listing also names Microsoft Cortana.\n\nThe design includes a weather-resistant cover that protects unused sockets, which matters if you leave the plug outside through rain. It needs no hub and works over your home Wi-Fi, so signal strength at the outdoor outlet is the main thing to check. The tradeoff is that it controls one device, so a patio with lights and a pump needs a second plug or a dual model. It is a simple outdoor plug, not an IP rated heavy duty unit, so mount it out of standing water.\n\nOwnership is mostly about placement: keep it off the ground and under cover where possible. Compared with the Geeni Outdoor Duo Wi-Fi Smart Plug, it is smaller and covers one device instead of two sockets. Compared with the Geeni Smart Plug Mini 15A four pack, it is the only single plug here designed to live outside.",
+   "bestFor": "One string of lights or one pump on a porch or in a yard.",
+   "pros": [
+    "Weather-resistant cover protects unused sockets",
+    "Voice support for Alexa, Google Assistant and Cortana",
+    "Suited to holiday lights and sprinkler timers",
+    "No hub required, uses home Wi-Fi directly"
+   ],
+   "cons": [
+    "Controls only one device at a time",
+    "Outdoor Wi-Fi signal can limit where it works",
+    "No IP rating listed for heavy exposure"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Best Dual Outdoor Plug",
+   "name": "Geeni Outdoor Duo Wi-Fi Smart Plug",
+   "specs": ["Weatherproof dual socket", "Alexa and Google Home", "2.4 GHz Wi-Fi", "Socket covers", "Remote smartphone control"],
+   "specList": [
+    {"label": "Sockets", "value": "2"},
+    {"label": "Weather protection", "value": "Weather-resistant socket covers"},
+    {"label": "Wi-Fi band", "value": "2.4 GHz"},
+    {"label": "Voice", "value": "Alexa and Google Home"}
+   ],
+   "description": "The Geeni Outdoor Duo is a dual socket weatherproof plug that manages outdoor lighting, pumps and other devices from a smartphone. The listing highlights holiday lights and sprinklers, and you can schedule them from anywhere through the Geeni app. Both sockets have weather-resistant covers, so unused sockets stay protected when only one device is plugged in.\n\nThe plug connects to 2.4 GHz Wi-Fi and supports Alexa and Google Home voice commands, which makes it quick to add to a household that already uses either assistant. The tradeoff is similar to the single outdoor model: your outdoor Wi-Fi signal has to reach it, and you need to place it where water will not pool. It has two sockets, which gives it more reach than the single Geeni Indoor/Outdoor Smart Plug, but it is bulkier and will not suit a tight spot.\n\nOwnership is mostly seasonal, since many people install it for holiday lights and then reuse it for a patio lamp or fountain pump. Compared with the Geeni Indoor/Outdoor Smart Plug, it adds a second socket. Compared with the Geeni Smart Wi-Fi 4 Outlet Plug, it has fewer outlets but handles weather. Mount it on a covered wall where possible.",
+   "bestFor": "A patio with two outdoor devices such as lights and a fountain pump.",
+   "pros": [
+    "Two weather-covered sockets in one outdoor plug",
+    "Schedule holiday lights and sprinklers from anywhere",
+    "Alexa and Google Home voice control on 2.4 GHz",
+    "Covers keep unused sockets protected from rain"
+   ],
+   "cons": [
+    "Bulkier than a single socket outdoor plug",
+    "Needs a good Wi-Fi signal at the outlet",
+    "Only works on 2.4 GHz networks"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best Space Saver",
+   "name": "Geeni Switch Duo Double Smart Plug",
+   "specs": ["Two plugs in one outlet", "No hub required", "2.4 GHz Wi-Fi only", "Geeni app control", "Remote on and off"],
+   "specList": [
+    {"label": "Devices controlled", "value": "2"},
+    {"label": "Hub", "value": "Not required"},
+    {"label": "Wi-Fi band", "value": "2.4 GHz only"},
+    {"label": "App", "value": "Geeni"}
+   ],
+   "description": "The Geeni Switch Duo fits two plugs into one outlet, so you can control two devices from a single wall socket. It does not require a hub and works with your home Wi-Fi after you install the Geeni app. It is aimed at the nightstand, the reading nook and any spot where two small devices share one outlet.\n\nIt is only compatible with 2.4 GHz Wi-Fi networks, and the listing describes installation as easy. The tradeoff is that you commit a whole duplex outlet to a single unit, so it pays off when both devices need smart control. If you only have one lamp to automate, a mini plug uses space more sensibly. It is also an indoor unit, and it relies on the app for schedules and remote switching.\n\nOwnership is simple, because you only plug it in, pair it and name the two devices. Compared with the Geeni Smart Plug Mini 15A four pack, it concentrates control in one place instead of spreading plugs across rooms. Compared with the Geeni Smart Wi-Fi 4 Outlet Plug, it controls two devices instead of four and skips surge protection claims. It is a good middle path for a tidy bedside setup.",
+   "bestFor": "A bedside or desk outlet where two small devices need smart control.",
+   "pros": [
+    "Controls two devices from a single wall outlet",
+    "No hub required, joins home Wi-Fi directly",
+    "Simple Geeni app install and pairing",
+    "Frees the second outlet for another purpose"
+   ],
+   "cons": [
+    "Works only on 2.4 GHz Wi-Fi networks",
+    "Occupies the whole duplex outlet",
+    "Indoor use only with no weather rating"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Count Outlets You Need", "explanation": "Start by counting how many devices you want to control in each location. A single lamp or fan is happy with the Geeni Smart Plug Mini 15A, which is a one outlet plug sold in a pack of 4. A pair of bedside devices suits the Geeni Switch Duo Double Smart Plug, which controls 2 devices from one wall outlet. A cluster of 4 or more devices points to the Geeni Smart Wi-Fi 4 Outlet Plug. Buying the wrong format means either wasted outlets or a stack of plugs crowding the wall."},
+  {"criterion": "Indoor Versus Outdoor Use", "explanation": "Outdoor plugs need a weather-resistant cover, and an indoor plug should never be used outside. The Geeni Indoor/Outdoor Smart Plug has 1 socket and a cover for unused sockets, while the Geeni Outdoor Duo adds a second socket with its own cover. The listings do not state an IP rating, so mount either one under shelter and off the ground. Indoor models like the Geeni Smart Plug Mini 15A have no weather protection at all. If you plan holiday lights outside, choose an outdoor model from the start."},
+  {"criterion": "Power Rating and Certification", "explanation": "Check the amp rating and the safety listing before you plug anything heavy in. The Geeni Smart Plug Mini 15A is rated for 15A and carries a UL listing, which is the baseline to look for. A 15A rating suits lamps, fans and humidifiers, while heat producing appliances deserve extra caution. Avoid running a space heater or a coffee maker through a mini plug unless the rating clearly covers it. When in doubt, plug high draw devices directly into the wall."},
+  {"criterion": "Surge Protection Value", "explanation": "Surge protection matters when electronics share an outlet. The Geeni Smart Wi-Fi 4 Outlet Plug adds surge protection across its 4 outlets, which makes it a sensible home for a TV, a console and a streaming box. A mini plug like the Geeni Smart Plug Mini 15A does not advertise that feature. If expensive electronics are involved, look for surge protection rather than relying on a basic smart plug. For lamps and fans, surge protection is less important."},
+  {"criterion": "Wi-Fi Band and Signal", "explanation": "All of the plugs in this lineup need a 2.4 GHz network, and several listings say so explicitly. The Geeni Switch Duo Double Smart Plug is described as compatible with 2.4 GHz networks only. Phones on 5 GHz can fail during pairing, so switch your phone to 2.4 GHz while you add the plug. Outdoor plugs like the Geeni Outdoor Duo are the most exposed to weak signal, since a patio can sit far from the router. Check bars at the outlet before you mount anything outside."},
+  {"criterion": "Voice Assistant Support", "explanation": "Every Geeni plug here works with Alexa and Google Assistant, so the choice rarely changes your assistant. The Geeni Indoor/Outdoor Smart Plug also names Microsoft Cortana, though that is rarely used at home today. Confirm the plug links to the assistant you own, because some brands support Alexa only. A pack of 4 means you can name each plug after a room or lamp, which makes voice commands feel natural. Keep names short and distinct so the assistant never mixes them up."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Outlet coverage", "description": "We compared how many devices each plug can control and how much wall space it takes. The Geeni Smart Wi-Fi 4 Outlet Plug leads with 4 outlets, the Geeni Switch Duo Double Smart Plug controls 2, and the Geeni Smart Plug Mini 15A controls 1 per plug. Bigger coverage earned credit only when it matched a realistic home setup."},
+  {"title": "Weather readiness", "description": "Outdoor models were judged on the listed covers and how well the listing describes weather use. The Geeni Indoor/Outdoor Smart Plug has 1 socket and the Geeni Outdoor Duo has 2, both with weather-resistant covers. Because no IP rating is given for either, we treated them as sheltered outdoor plugs, not for exposed ground level use."},
+  {"title": "Setup and daily use", "description": "We looked at the listed setup steps, the hub requirement and the app that runs the plug. Every pick runs through the Geeni app and joins 2.4 GHz Wi-Fi without a hub. The Geeni Smart Plug Mini 15A four pack is the easiest to scale, because each plug follows the same steps. Judgments came from specs and buyer feedback, not hands on work."},
+  {"title": "Safety and protection", "description": "We checked the listed amp ratings, certifications and protection claims. The Geeni Smart Plug Mini 15A lists 15A and a UL listing, and the Geeni Smart Wi-Fi 4 Outlet Plug adds surge protection. Picks without protection claims were scored lower when they involve plugged in electronics."},
+  {"title": "Value for the job", "description": "Value was weighed by how well each plug fits one clear job, without quoting prices. The four pack leads for general use, the 4 outlet unit leads for clusters, and the dual outdoor model leads for patios. A plug that is too big or too small for the job scored lower even if its features were strong."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Number of Devices",
+   "intro": "The number of things you want to control is the clearest way to narrow the field.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["One reading lamp or fan per room", "Geeni Smart Plug Mini 15A, 4 Pack", "One compact plug per device with four plugs in the box"],
+     ["Two bedside devices on one outlet", "Geeni Switch Duo Double Smart Plug", "Controls 2 devices from a single wall outlet"],
+     ["TV, console and streaming box together", "Geeni Smart Wi-Fi 4 Outlet Plug with Surge Protection", "4 controlled outlets plus surge protection"],
+     ["One string of porch lights", "Geeni Indoor/Outdoor Smart Plug, Weatherproof", "Single weather-covered socket for one device"],
+     ["Patio lights plus a fountain pump", "Geeni Outdoor Duo Wi-Fi Smart Plug", "Two covered sockets for two outdoor devices"]
+    ]
+   },
+   "note": "Buy for the busiest spot first, then add singles elsewhere."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers show where the cost goes in this lineup without quoting store prices.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Geeni Smart Plug Mini 15A, 4 Pack", "Four basic plugs for lamps and fans"],
+     ["Mid", "Geeni Switch Duo Double Smart Plug", "Two controlled devices from one outlet"],
+     ["Mid to premium", "Geeni Indoor/Outdoor Smart Plug, Weatherproof", "Weather cover for one outdoor device"],
+     ["Premium", "Geeni Smart Wi-Fi 4 Outlet Plug with Surge Protection", "Four outlets with surge protection"],
+     ["Premium outdoor", "Geeni Outdoor Duo Wi-Fi Smart Plug", "Two weather-covered sockets"]
+    ]
+   },
+   "note": "Spread the budget only as far as you have real devices to control."
+  },
+  {
+   "subheading": "Single Plug vs Multi-Outlet",
+   "intro": "Both formats add smart control, but they scale in opposite directions.",
+   "cards": [
+    {"label": "Single plugs", "text": "A single plug controls one device per outlet and can be placed in any room, so you scale by buying more plugs. This side includes the Geeni Smart Plug Mini 15A four pack and the Geeni Indoor/Outdoor Smart Plug. Choose this when your devices are spread out through the home."},
+    {"label": "Multi-outlet units", "text": "A multi-outlet unit puts several controlled sockets in one place, so you scale by choosing a bigger unit. This side includes the Geeni Smart Wi-Fi 4 Outlet Plug, the Geeni Switch Duo Double Smart Plug and the Geeni Outdoor Duo. Choose this when your devices cluster around one outlet."}
+   ],
+   "note": "Spread out devices want singles, while clusters want multi-outlet units."
+  },
+  {
+   "subheading": "By Weather Exposure",
+   "intro": "Where the plug lives decides whether an indoor or outdoor model is safe.",
+   "table": {
+    "headers": ["Location", "Pick", "Reason"],
+    "rows": [
+     ["Living room lamp", "Geeni Smart Plug Mini 15A, 4 Pack", "Indoor mini fits behind furniture"],
+     ["Covered porch", "Geeni Indoor/Outdoor Smart Plug, Weatherproof", "Weather-resistant cover for the unused socket"],
+     ["Open patio wall", "Geeni Outdoor Duo Wi-Fi Smart Plug", "Two covered sockets for lights and a pump"],
+     ["Garage workshop bench", "Geeni Smart Wi-Fi 4 Outlet Plug with Surge Protection", "Four outlets with surge protection indoors"],
+     ["Nightstand", "Geeni Switch Duo Double Smart Plug", "Two devices from one outlet"]
+    ]
+   },
+   "note": "Never move an indoor plug outside, even for a weekend."
+  },
+  {
+   "subheading": "For Holiday Lights Specifically",
+   "intro": "Holiday lights are a seasonal job that rewards the right plug.",
+   "cards": [
+    {"label": "Look for", "text": "Look for a weather-resistant cover, enough sockets for each string and a schedule that follows dusk. Keep the plug off the ground and check your outdoor Wi-Fi signal first. Remember that many light strings draw less power than a lamp, but confirm the rating."},
+    {"label": "In this comparison", "text": "The Geeni Indoor/Outdoor Smart Plug is the pick for one string, and the Geeni Outdoor Duo Wi-Fi Smart Plug handles two. Indoors, the Geeni Smart Plug Mini 15A four pack covers a tree and a mantel, and the Geeni Switch Duo Double Smart Plug fits two windows from one outlet."}
+   ],
+   "note": "Test the schedule before the season starts, not on the first cold night."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A bigger unit only pays off when it solves a problem you actually have.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You have a TV, console and streaming box together, so the Geeni Smart Wi-Fi 4 Outlet Plug with 4 outlets earns its place", "You only automate a lamp, where the Geeni Smart Plug Mini 15A is enough"],
+     ["You need two outdoor devices controlled from one spot with the Geeni Outdoor Duo", "You only have one outdoor string, where the Geeni Indoor/Outdoor Smart Plug works"],
+     ["Two bedside devices should share one outlet, favoring the Geeni Switch Duo Double Smart Plug", "Your devices live in different rooms, favoring the four pack"],
+     ["You want surge protection on electronics", "Your devices are simple lamps and fans"]
+    ]
+   },
+   "note": "Match the unit to the job and ignore extra features."
+  }
+ ],
+ "faq": [
+  {"q": "Which Geeni smart plug is best for most people?", "a": "The Geeni Smart Plug Mini 15A four pack is the best starting point for most homes. It is rated for 15A, carries a UL listing and needs no hub. Four plugs let you cover several rooms with the same setup steps. Move to a multi-outlet or outdoor model only when you have a specific job for it."},
+  {"q": "Do Geeni plugs need a hub?", "a": "No. The Geeni plugs in this guide work over your 2.4 GHz Wi-Fi network and use the Geeni app for setup. You do not need a separate bridge or controller. A voice speaker is optional, and it is only required for voice commands. Check your router signal at each outlet before you buy a multipack."},
+  {"q": "Can I use an indoor Geeni plug outside?", "a": "No. Indoor models like the Geeni Smart Plug Mini 15A and the Geeni Switch Duo Double Smart Plug have no weather protection. Use the Geeni Indoor/Outdoor Smart Plug or the Geeni Outdoor Duo for outdoor jobs. Even those should sit under cover and off the ground because the listings do not state an IP rating. Moisture is the fastest way to ruin a plug."},
+  {"q": "What is the difference between the Switch Duo and the 4 outlet plug?", "a": "The Geeni Switch Duo Double Smart Plug fits two plugs into one wall outlet and controls 2 devices. The Geeni Smart Wi-Fi 4 Outlet Plug turns one outlet into 4 and adds surge protection. The Switch Duo is smaller and tidier for a nightstand. The 4 outlet unit is better for a media center or workbench."},
+  {"q": "Why will my plug not connect?", "a": "Most connection failures come from a phone on a 5 GHz network, since these plugs need 2.4 GHz. Switch your phone to 2.4 GHz during setup, then switch back afterward. Stand near the plug so the signal is strong. If it still fails, reboot the router and try again."},
+  {"q": "Will a smart plug restart my appliance after a power cut?", "a": "Only if the appliance turns itself on when power returns. Devices that need a button press will stay off even when the plug restores power. Lamps and fans with a physical switch left in the on position are the safest fit. Confirm this before you rely on a plug for anything important."},
+  {"q": "Are smart plugs safe with heaters or big appliances?", "a": "Be careful. A 15A rating covers lamps, fans and humidifiers, but heat producing appliances draw far more power and deserve extra care. Avoid running a space heater through a mini plug unless the rating clearly covers it. Plug high draw devices straight into the wall. If in doubt, check the appliance label against the plug's rating."}
+ ]
+}

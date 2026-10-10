@@ -1,0 +1,14 @@
+# Seed: key finder
+- Two families exist: radio frequency (RF) kits with a handheld remote plus beeping receivers, and Bluetooth tags that use a phone app.
+- RF kits need no phone, app or account; press a color-coded button and the matching receiver beeps and flashes.
+- RF finders only work near the remote (listings state roughly 98 to 131 ft through walls and cushions) and show no map.
+- If the RF remote is lost, the receivers are useless, so the remote needs a fixed home such as a hook by the door.
+- RF receivers use CR2032 coin cells that listings say last about 9 to 12 months; plan a yearly swap.
+- RF receivers are bulkier than slim Bluetooth tags; some are about 0.2 inches thick.
+- Bluetooth tags ring nearby and report a last known location through a crowd network when far away.
+- Apple Find My tags work with iPhone only; Tile works on iPhone and Android; Chipolo supports Find My or Google Find Hub, one network at a time.
+- Bluetooth tags are not GPS and do not prevent theft; far finding depends on nearby phones.
+- Replaceable coin cells last about a year; rechargeable tags need a charger and a habit of charging.
+- Water resistance (IP67 or IPX4) and ring volume (80 dB to 125 dB) are the practical differentiators for key tags.
+- Unknown tracker alerts on phones protect privacy; never hide a tag on another person.
+- Some listings state decibels, others give none; treat figures as manufacturer claims.
