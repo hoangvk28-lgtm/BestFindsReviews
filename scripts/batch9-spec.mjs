@@ -8,7 +8,7 @@ import { execFileSync } from "child_process";
 import { loadArticles } from "./batch9-fetch.mjs";
 import { isRelevant } from "./batch9-relevance.mjs";
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
-const B = resolve(ROOT, "scripts/batch9");
+const B = resolve(ROOT, `scripts/${process.env.BATCH || "batch9"}`);
 const TAG = "worthrated-20";
 const CAT = { "Easy Cleaning": "easy-cleaning", "Simple Tech": "simple-tech", "Garden & Yard": "garden-yard", "Easy Kitchen": "easy-kitchen" };
 const [cmd, from, to] = process.argv.slice(2);
@@ -18,6 +18,8 @@ const pool = (slug) => JSON.parse(readFileSync(resolve(B, "pool", `${slug}.json`
 const clip = (s, n) => (s && s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + "..." : s || "");
 
 if (cmd === "brief") {
+  const prior = new Map();
+  for (const f of readdirSync(resolve(ROOT, "data/guides"))) { const t = readFileSync(resolve(ROOT, "data/guides", f), "utf-8"); for (const m of t.matchAll(/dp\/([A-Z0-9]{10})[^\n]*?specs: \[([^\]]*)\]/g)) if (!prior.has(m[1]) && m[2].length > 10) { const line = t.slice(m.index, t.indexOf("\n", m.index)); const pc = (k) => ((line.match(new RegExp(k + ": \\[([^\\]]*)\\]")) || [])[1] || "").replace(/"/g, "").slice(0, 300); prior.set(m[1], m[2].replace(/"/g, "").slice(0, 200) + (pc("pros") ? " | prior pros: " + pc("pros") : "") + (pc("cons") ? " | prior cons: " + pc("cons") : "")); } }
   mkdirSync(resolve(B, "briefs"), { recursive: true });
   let md = "";
   for (const a of range) {
@@ -30,7 +32,7 @@ if (cmd === "brief") {
       if (shown >= Number(process.env.MAXITEMS || 10)) return;
       if (!process.env.NOFILTER && p.relevantCount !== undefined && rel >= 5 && !isRelevant(it.title, a.seed)) return;
       shown++;
-      md += `[${i}] ${clip(it.title, 120)} | brand: ${it.brand || "-"}\n${it.features.slice(0, 3).map((f) => "   - " + clip(f, 150)).join("\n")}\n`;
+      md += `[${i}] ${clip(it.title, 120)} | brand: ${it.brand || "-"}\n${prior.has(it.asin) ? `   known specs (from an existing guide): ${prior.get(it.asin)}\n` : ""}${it.features.slice(0, 3).map((f) => "   - " + clip(f, 150)).join("\n")}\n`;
     });
   }
   const out = resolve(B, "briefs", `${from}-${to}.md`);

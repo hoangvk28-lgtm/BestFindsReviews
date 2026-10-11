@@ -17,7 +17,7 @@ for (const q of qs) {
   await new Promise((r) => setTimeout(r, 1100));
 }
 for (const a of loadArticles().filter((x) => (re.startsWith("slug:") ? x.slug === re.slice(5) : new RegExp(re, "i").test(x.seed)))) {
-  const f = resolve(ROOT, "scripts/batch9/pool", `${a.slug}.json`); const p = JSON.parse(readFileSync(f, "utf-8"));
+  const f = resolve(ROOT, `scripts/${process.env.BATCH || "batch9"}/pool`, `${a.slug}.json`); const p = JSON.parse(readFileSync(f, "utf-8"));
   const seen = new Set(p.items.map((x) => x.asin));
   const add = extra.filter((x) => !seen.has(x.asin) && seen.add(x.asin));
   p.items = [...p.items.slice(0, 10), ...add].slice(0, 16); writeFileSync(f, JSON.stringify(p, null, 1));

@@ -43,7 +43,7 @@ For each article write `scripts/batch9/content/<slug>.json` with the Write tool.
   5. "For <common use case> Specifically", 2 cards: "Look for" and "In this comparison".
   6. "When to Spend More", a table with headers ["Spend more if", "Save if"], reasons tied to named picks.
 - **faq**: 6-7 entries, each answer 3-4 sentences. Cover choose-between, budget, maintenance and durability, a common misconception, and category-specific gotchas from research.
-- **Length target**: each article should land around 3,500 words of content. Short articles (under 3,000) are rejected.
+- **Length target**: each article should land around 3,000 words of content (2,900 minimum).
 - **Self-check before writing each file**: pick 3 sentences from buyingCriteria and howToChoose. Each must contain a real product name and a real number. If not, rewrite.
 
 ## Hard rules

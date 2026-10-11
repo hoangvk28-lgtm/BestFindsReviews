@@ -26,6 +26,10 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch10") {
+    const rows = parseCsv(readFileSync(resolve(ROOT, "seniors_best_kitchen_keyword_plan_second_audit_251.csv"), "utf-8").replace(/^﻿/, ""));
+    return rows.slice(1).filter((r) => /^\d+$/.test(r[0])).map((r) => ({ id: Number(r[0]), cluster: "Easy Kitchen", seed: r[5], title: r[3].replace(/\s*\(2026\)$/, ""), slug: r[15].replace(/^\/|\/$/g, ""), keyword: r[4], supporting: [r[9], r[10]].filter(Boolean).join(" | "), type: /\bvs\b/i.test(r[3]) ? "Comparison" : "Best", status: r[20], niche: r[2], why: r[16], note: r[19] }));
+  }
   const rows = parseCsv(readFileSync(resolve(ROOT, "WorthRated Keyword - Batch 9 - All Articles.csv"), "utf-8"));
   return rows.slice(3).filter((r) => r[0] && /^\d+$/.test(r[0])).map((r) => ({
     id: Number(r[0]), cluster: r[1], seed: r[2], title: r[3], slug: r[4].replace(/^\/|\/$/g, ""),
@@ -36,7 +40,7 @@ export function loadArticles() {
 if (process.argv[1] && fileURLToPath(import.meta.url) === resolve(process.argv[1])) {
   if (!id || !secret || !tag) throw new Error("Missing AMAZON_PAAPI_* in .env.local");
   const [from = 1, to = 9999] = process.argv.slice(2).map(Number);
-  const dir = resolve(ROOT, "scripts/batch9/pool"); mkdirSync(dir, { recursive: true });
+  const dir = resolve(ROOT, `scripts/${process.env.BATCH || "batch9"}/pool`); mkdirSync(dir, { recursive: true });
   const tok = await (await fetch("https://api.amazon.com/auth/o2/token", { method: "POST", headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ grant_type: "client_credentials", client_id: id, client_secret: secret, scope: "creatorsapi::default" }) })).json();
   if (!tok.access_token) throw new Error("Token failed");

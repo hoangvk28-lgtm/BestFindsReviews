@@ -32,7 +32,7 @@ async function search(q) {
     img: i.images?.primary?.large?.url || "", features: (i.itemInfo?.features?.displayValues || []).slice(0, 5) })).filter((p) => p.asin && p.title && p.img);
 }
 for (const a of loadArticles().filter((x) => x.id >= from && x.id <= to)) {
-  const f = resolve(ROOT, "scripts/batch9/pool", `${a.slug}.json`);
+  const f = resolve(ROOT, `scripts/${process.env.BATCH || "batch9"}/pool`, `${a.slug}.json`);
   const p = JSON.parse(readFileSync(f, "utf-8"));
   const relevant = () => p.items.filter((it) => isRelevant(it.title, a.seed)).length;
   if (relevant() < 6 && !p.refetched) {

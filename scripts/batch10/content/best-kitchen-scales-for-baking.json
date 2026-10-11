@@ -1,0 +1,162 @@
+{
+ "guideTitle": "6 Best Kitchen Scales for Baking in 2026",
+ "metaTitle": "Best Kitchen Scales for Baking in 2026",
+ "metaDescription": "Six digital kitchen scales compared for baking, covering gram precision, capacity, tare, platform size and power, from basic 11 lb models to dual-platform units.",
+ "introParagraphs": [
+  "Baking is the one kitchen job where guessing costs you the result. A cup of flour can swing noticeably depending on how it was scooped, while a scale reads the same grams every time, so bread, cakes and cookies come out the same on a Tuesday as they did last month. That consistency is the main reason bakers move from measuring cups to a digital scale.",
+  "The six scales below cover the useful range for a home baker. Three of them stop at 11 lb or 22 lb with 1 g steps, which handles flour, sugar and butter without fuss. The Letron Dual Platform adds a second mini platform reading to 0.01 g for yeast and salt, and the Etekcity 22 lb USB-C trades batteries for a rechargeable cell and a waterproof body.",
+  "We evaluated these picks based on product specs and buyer feedback, weighing precision, tare behavior, capacity, platform size and how easy each display is to read mid-recipe. No prices are listed because they shift often. Start with the smallest ingredient you weigh, then use the picks below to match it."
+ ],
+ "products": [
+  {
+   "i": 8,
+   "badge": "Best for Precision",
+   "name": "Letron Dual Platform 33 lb",
+   "specs": ["33 lb main platform", "1.1 lb mini platform", "0.01 g mini accuracy", "Dual-line LCD"],
+   "specList": [{"label": "Main capacity", "value": "33 lb"}, {"label": "Mini platform", "value": "1.1 lb / 500 g"}, {"label": "Mini accuracy", "value": "0.01 g"}, {"label": "Display", "value": "Dual-line LCD"}],
+   "description": "The Letron is two scales in one housing. A large stainless platform handles up to 33 lb for flour, water and heavy mixing bowls, while a small side platform reads to 0.01 g (0.001 oz) up to 1.1 lb for spices, yeast and similar tiny additions.\n\nA dual-line LCD shows both platforms at once and can add them together, which suits formulas where a gram of yeast matters as much as a kilo of flour. That is a real advantage for bread bakers who follow percentage recipes, and it is the main reason this pick leads the lineup on precision.\n\nThe cost is complexity. There are more buttons to learn than on the Etekcity 11 lb, and the housing takes more counter room than the Amazon Basics 11 lb. Once you know which platform to use for which ingredient, the workflow is quick, but a cook who only needs flour and sugar will never touch the second platform.",
+   "bestFor": "Bread and pastry bakers who weigh tiny amounts of yeast or salt.",
+   "pros": ["Mini platform reads to 0.01 g for yeast and salt", "One screen shows both platform weights together", "33 lb main platform holds a heavy dough bowl", "Stainless steel platform wipes clean quickly"],
+   "cons": ["More buttons to learn than a basic scale", "Larger body needs more counter space", "Second platform is unused for simple recipes"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Rechargeable",
+   "name": "Etekcity 22 lb USB-C",
+   "specs": ["22 lb / 10 kg capacity", "USB-C rechargeable", "IPX6 waterproof", "2 g minimum, 1 g steps"],
+   "specList": [{"label": "Capacity", "value": "22 lb / 10 kg"}, {"label": "Power", "value": "USB-C rechargeable, 300mAh"}, {"label": "Water rating", "value": "IPX6"}, {"label": "Increment", "value": "1 g"}],
+   "description": "This Etekcity swaps disposable batteries for a 300mAh rechargeable cell and ships with a USB-C cable. It weighs from 2 g up to 22 lb in 1 g steps and shows five units, including milk and water.\n\nThe IPX6 rating means spills of liquid ingredients rinse off rather than ruin the electronics. For bakers who measure milk, oil and honey by weight, that is a practical safeguard, since sticky messes are part of the job.\n\nThe lower limit is 2 g, so it will not resolve a half gram of yeast the way the Letron Dual Platform at 0.01 g can. It also lacks the large platform of the Nicewell 22 lb. For day to day cakes, cookies and loaves, the rechargeable power and easy cleanup make it the lowest-maintenance choice here.",
+   "bestFor": "Bakers who want no battery changes and easy cleanup after sticky ingredients.",
+   "pros": ["USB-C cable included, no battery swaps", "IPX6 body rinses clean after liquid spills", "Reads 2 g up to 22 lb in 1 g steps", "Five units including milk and water"],
+   "cons": ["2 g minimum limits tiny yeast amounts", "Needs periodic charging to stay ready", "Platform is smaller than the Nicewell 22 lb"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Display",
+   "name": "Greater Goods 22 lb",
+   "specs": ["22 lb / 10 kg capacity", "1 g precision", "Hi-Def LCD", "6 weighing units"],
+   "specList": [{"label": "Capacity", "value": "22 lb / 10 kg"}, {"label": "Precision", "value": "1 g"}, {"label": "Units", "value": "g, ml, fl oz, oz, lb, lb:oz"}, {"label": "Display", "value": "Hi-Def LCD"}],
+   "description": "The Greater Goods scale is built around a bright Hi-Def LCD that extends beyond the weighing platform, so a wide mixing bowl does not hide the numbers. It reads to 1 g up to 22 lb (10 kg) and covers grams, milliliters, fluid ounces, ounces, pounds and lb:oz.\n\nThe visible readout is the big win for baking, because you are often pouring from a bag into a large bowl and watching the screen at an angle. Readability also helps anyone who dislikes squinting at small digits while following a recipe.\n\nIt has the same 1 g precision as the Etekcity 11 lb and Amazon Basics 11 lb, but twice their capacity at 22 lb. It lacks the Etekcity 22 lb USB-C battery and waterproofing, so it is a straightforward battery model. If your top complaint with a scale is that the bowl covers the screen, this is the one to pick.",
+   "bestFor": "Bakers who weigh into wide bowls and need a display they can always see.",
+   "pros": ["Display extends past the platform edge", "Reads to 1 g across the full 22 lb range", "Six units including lb:oz and fl oz", "Handles large dough batches and bulk prep"],
+   "cons": ["No rechargeable battery or waterproof rating", "1 g steps are too coarse for yeast", "Smaller specification set than the dual-platform Letron"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Compact",
+   "name": "Etekcity 11 lb",
+   "specs": ["11 lb / 5 kg capacity", "1 g increments", "5 units", "2 AAA batteries included"],
+   "specList": [{"label": "Capacity", "value": "11 lb / 5 kg"}, {"label": "Increment", "value": "1 g"}, {"label": "Units", "value": "oz, lb:oz, fl oz, g, ml"}, {"label": "Power", "value": "2 AAA included"}],
+   "description": "The Etekcity 11 lb is the slim, no-nonsense choice. It weighs up to 11 lb (5 kg) in 1 g increments, includes a tare function and supports five units, and it ships with two AAA batteries so you can start weighing the day it arrives.\n\nIts small footprint is the point. It slides into a cabinet or a drawer, which suits bakers with limited counter room who only bring out a scale for recipes. For most home baking, 5 kg covers a full bread dough plus a bowl.\n\nThe tradeoff is headroom. A large stand mixer bowl with heavy dough can push toward that 5 kg ceiling, where the Greater Goods 22 lb has plenty to spare. It also has no rechargeable battery like the Etekcity 22 lb USB-C. For a small-space baker, it remains a dependable everyday scale.",
+   "bestFor": "Small-kitchen bakers who store the scale in a drawer between uses.",
+   "pros": ["Slim body stores easily in a cabinet", "Two AAA batteries included in the box", "Five units cover most recipe styles", "Tare function zeroes out any bowl"],
+   "cons": ["11 lb limit is tight with a heavy mixer bowl", "Runs on disposable AAA batteries only", "Gram steps cannot resolve small leavener amounts"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Simple Pick",
+   "name": "Amazon Basics 11 lb",
+   "specs": ["11 lb capacity", "2 g minimum reading", "Stainless platform", "Wide LCD screen"],
+   "specList": [{"label": "Capacity", "value": "11 lb"}, {"label": "Minimum reading", "value": "2 g"}, {"label": "Platform", "value": "Stainless steel"}, {"label": "Units", "value": "lb, oz, g, fl oz, ml"}],
+   "description": "The Amazon Basics scale pairs a stainless steel platform with a wide LCD and food-safe, BPA-free plastic components. It weighs up to 11 lb with a 2 g minimum reading and displays pounds, ounces, grams, fluid ounces and milliliters.\n\nThe design is plain on purpose. A stainless top wipes clean after butter and flour, and the wide screen keeps recipes readable. There is no app, no extra platform and no rechargeable battery to worry about.\n\nThe 2 g minimum means very small additions may not register, which is a limit the Letron Dual Platform removes with its 0.01 g mini platform. It also stops at 11 lb, the same as the Etekcity 11 lb. Buyers who want a simple, wipeable scale for weekly baking get exactly what they need here, and nothing they will not use.",
+   "bestFor": "Occasional bakers who want a plain wipeable scale with a wide screen.",
+   "pros": ["Stainless platform wipes clean after baking", "Wide LCD stays easy to read at a glance", "Food-safe BPA-free plastic components", "Five units including fluid ounces and ml"],
+   "cons": ["2 g minimum can miss tiny additions", "No rechargeable power option offered", "Capacity stops at 11 lb for big batches"]
+  },
+  {
+   "i": 2,
+   "badge": "Best Large Platform",
+   "name": "Nicewell 22 lb",
+   "specs": ["22 lb capacity", "9 x 6.3 in platform", "Four load sensors", "Tempered glass top"],
+   "specList": [{"label": "Capacity", "value": "22 lb"}, {"label": "Platform", "value": "9 x 6.3 in"}, {"label": "Sensors", "value": "Four load sensors"}, {"label": "Increment", "value": "1 g / 0.1 oz"}],
+   "description": "The Nicewell uses four high-precision load sensors under a tempered glass platform that measures 9 by 6.3 inches. It reads in 1 g or 0.1 oz steps up to 22 lb and offers grams, kilograms, pounds and ounces, fluid ounces and milliliters.\n\nThe broad platform is useful when you set a large mixing bowl or a sheet pan on top, because the load spreads over a bigger area and the bowl sits stable. A stainless steel surface resists fingerprints and a large LCD keeps the numbers clear.\n\nIt has the same 1 g resolution as the Greater Goods 22 lb, so choose between them by platform feel and display style rather than precision. Compared with the Letron Dual Platform it lacks a fine-measurement platform. It makes a solid all-round pick for bakers who regularly weigh into big bowls.",
+   "bestFor": "Bakers who set big bowls and pans on the scale.",
+   "pros": ["Four load sensors support a 22 lb range", "9 x 6.3 in platform steadies large bowls", "Tempered glass and steel resist fingerprints", "Reads in either 1 g or 0.1 oz steps"],
+   "cons": ["No fine platform for tiny ingredients", "Larger footprint than the Etekcity 11 lb", "Glass top needs careful handling when cleaning"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Gram resolution you actually need", "explanation": "Baking recipes written in grams are more consistent than cup measurements, but the scale has to read finely enough to follow them. Look for 1 g steps at minimum, which every pick here offers. For yeast, salt and baking soda under 5 g, a 0.01 g reading is better, and in this lineup only the Letron Dual Platform at 0.01 g supplies it. The Etekcity 22 lb USB-C has a 2 g minimum, so it is better for flour and sugar than for leavener."},
+  {"criterion": "Capacity versus bowl weight", "explanation": "Capacity includes the bowl you place on the scale, so a heavy stand mixer bowl eats into the limit before any ingredients are added. Aim for at least 11 lb for casual baking and 22 lb if you mix large batches or use a ceramic bowl. The Etekcity 11 lb and Amazon Basics 11 lb sit at the lower end, while the Greater Goods 22 lb and Nicewell 22 lb give roughly double the headroom. The Letron's 33 lb main platform is the most generous."},
+  {"criterion": "Display visibility around bowls", "explanation": "A display hidden by a wide bowl forces you to lean in or lift the bowl to read it. Choose a screen that extends beyond the platform or sits at an angle you can see. The Greater Goods 22 lb is built around a Hi-Def LCD that extends past the weighing platform, which directly solves this problem. The Amazon Basics 11 lb uses a wide LCD as well, but a bowl larger than the platform can still cover part of it."},
+  {"criterion": "Tare and unit switching", "explanation": "Baking relies on the tare function more than any other kitchen task, because you add flour, then sugar, then liquid into the same bowl and zero between each. A responsive tare button is non-negotiable. Unit switching matters if you work from American and European recipes, and all six picks here cover grams and ounces. The Greater Goods 22 lb adds lb:oz, which suits older family recipes written in pounds and ounces."},
+  {"criterion": "Power source and cleanup", "explanation": "Disposable batteries are cheap to replace but easy to forget, and baking sessions are the wrong time for a dead scale. A rechargeable cell removes that problem. The Etekcity 22 lb USB-C includes a cable and an IPX6 body, so milk and oil spills wipe away. The Etekcity 11 lb ships with two AAA batteries, which is fine if you keep spares in a drawer."},
+  {"criterion": "Platform size and stability", "explanation": "A platform smaller than your bowl wobbles, which can throw off readings and send flour across the counter. Look for a platform at least wide enough to hold your most-used bowl flat. The Nicewell 22 lb lists a 9 by 6.3 inch platform with four load sensors, and the Letron Dual Platform pairs a large main surface with a small one. A compact scale like the Etekcity 11 lb suits small bowls and cups instead."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Gram precision", "description": "We evaluated the stated resolution of each scale, since baking depends on small, repeatable steps. Most picks read in 1 g increments, the Etekcity 22 lb USB-C has a 2 g minimum, and the Letron Dual Platform stands alone with a 0.01 g mini platform. Scores favor scales that can handle both bulk flour and a pinch of yeast."},
+  {"title": "Capacity and headroom", "description": "Capacity is judged against realistic bowl and batch weights. The 11 lb Etekcity and Amazon Basics models are scored for everyday cakes and cookies, while the 22 lb Greater Goods, Nicewell and Etekcity USB-C picks score higher for bread dough in heavy bowls. The Letron at 33 lb leads this category."},
+  {"title": "Readability and controls", "description": "Display size, visibility around bowls and tare responsiveness all count here, based on product specs and buyer feedback. The Greater Goods Hi-Def LCD that extends past the platform scores well, as does the Letron dual-line screen. A plain wide LCD, as on the Amazon Basics, earns a solid but simpler mark."},
+  {"title": "Power and cleanup", "description": "We looked at how each scale is powered and how easily it cleans. The USB-C Etekcity 22 lb with IPX6 protection leads, followed by stainless platforms that wipe down quickly. AAA models are scored lower for battery upkeep but still rated reliable when batteries are included."},
+  {"title": "Lineup positioning", "description": "The Letron Dual Platform leads on precision and capacity, the Etekcity 22 lb USB-C leads on convenience, and the Greater Goods 22 lb leads on display visibility. The Etekcity 11 lb and Amazon Basics 11 lb are the compact, simple options, and the Nicewell 22 lb leads on platform size among the single-platform models."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Bake",
+   "intro": "Match the scale to the smallest and largest amounts in your usual recipes.",
+   "table": {"headers": ["Situation", "Pick", "Why"], "rows": [
+    ["Sourdough and yeast breads with 2 to 5 g of yeast or salt", "Letron Dual Platform 33 lb", "Mini platform reads to 0.01 g"],
+    ["Weekly cakes and cookies in small bowls", "Etekcity 11 lb", "5 kg range and slim cabinet storage"],
+    ["Large batches in a heavy stand mixer bowl", "Greater Goods 22 lb", "22 lb range with a display past the platform"],
+    ["Recipes using milk, oil and honey", "Etekcity 22 lb USB-C", "IPX6 body wipes clean after spills"],
+    ["Sheet pans and wide mixing bowls", "Nicewell 22 lb", "9 x 6.3 in platform with four load sensors"]
+   ]}
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers are relative, so compare within this lineup rather than against a number.",
+   "table": {"headers": ["Tier", "Pick", "What you get"], "rows": [
+    ["Entry", "Amazon Basics 11 lb", "Stainless platform and wide LCD, 11 lb range"],
+    ["Entry", "Etekcity 11 lb", "Compact body with batteries included"],
+    ["Mid", "Nicewell 22 lb", "Larger platform and 22 lb capacity"],
+    ["Mid", "Greater Goods 22 lb", "Display that extends past the platform"],
+    ["Premium", "Etekcity 22 lb USB-C", "Rechargeable cell and IPX6 water protection"],
+    ["Premium", "Letron Dual Platform 33 lb", "Two platforms and 0.01 g fine reading"]
+   ]}
+  },
+  {
+   "subheading": "Single Platform vs Dual Platform",
+   "cards": [
+    {"label": "Single platform", "text": "One platform keeps operation simple: place a bowl, tare, add. The Etekcity 11 lb, Amazon Basics 11 lb, Greater Goods 22 lb, Nicewell 22 lb and Etekcity 22 lb USB-C all work this way, reading to 1 g or 2 g. Pick this if your recipes never call for less than about 5 g of any ingredient."},
+    {"label": "Dual platform", "text": "The Letron Dual Platform adds a 1.1 lb mini platform reading to 0.01 g beside its 33 lb main platform, and one screen shows both. It suits bread and pastry bakers whose formulas list yeast or salt in single grams. Choose this when precision on small ingredients matters more than simplicity."}
+   ]
+  },
+  {
+   "subheading": "By Power and Storage",
+   "intro": "How the scale lives in your kitchen decides whether you actually use it.",
+   "table": {"headers": ["Situation", "Pick", "Why"], "rows": [
+    ["Scale stays on the counter and gets splashed", "Etekcity 22 lb USB-C", "Rechargeable with IPX6 protection"],
+    ["Scale lives in a drawer between bakes", "Etekcity 11 lb", "Slim body, two AAA batteries included"],
+    ["You want a stainless top without extras", "Amazon Basics 11 lb", "Stainless platform and plain controls"],
+    ["You bake and prep meals in bulk", "Greater Goods 22 lb", "22 lb range for bulk cooking and prep"],
+    ["You want one tool for baking and portioning", "Nicewell 22 lb", "Glass platform holds big containers"]
+   ]}
+  },
+  {
+   "subheading": "For Bread Dough Specifically",
+   "cards": [
+    {"label": "Look for", "text": "Look for a platform that holds your proofing bowl flat, a capacity above the combined weight of bowl and dough, and a way to measure yeast and salt accurately. A display that is not hidden by the bowl also saves mistakes mid-recipe."},
+    {"label": "In this comparison", "text": "The Letron Dual Platform 33 lb has the precision for yeast and a platform that handles heavy bowls. The Greater Goods 22 lb pairs 22 lb capacity with a visible display, and the Nicewell 22 lb gives a 9 x 6.3 in platform for stability."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "table": {"headers": ["Spend more if", "Save if"], "rows": [
+    ["You weigh yeast or salt in single grams, so the Letron Dual Platform 33 lb is worth it", "Your recipes list ingredients above 5 g, so the Amazon Basics 11 lb is enough"],
+    ["You hate swapping batteries, so the Etekcity 22 lb USB-C is worth it", "You keep spares handy, so the Etekcity 11 lb with AAAs is enough"],
+    ["You use large heavy bowls, so the Greater Goods 22 lb or Nicewell 22 lb is worth it", "You mix in small bowls, so an 11 lb model is enough"],
+    ["You want a bright display that is never covered, so the Greater Goods 22 lb is worth it", "You can lift your bowl to read it, so the Amazon Basics 11 lb is enough"]
+   ]},
+   "note": "A scale you reach for every bake beats a more capable one that stays in a cabinet."
+  }
+ ],
+ "faq": [
+  {"q": "Why weigh flour instead of using cups?", "a": "A cup of flour can vary in weight depending on how packed it is, which changes the dough's hydration. Weighing in grams removes that variable. Every scale in this guide reads in grams, and the Greater Goods 22 lb also shows lb:oz for older recipes."},
+  {"q": "How precise does a baking scale need to be?", "a": "For flour, sugar and butter, 1 g steps are enough, and the Etekcity 11 lb, Amazon Basics 11 lb and Greater Goods 22 lb all provide that. For yeast, salt and baking soda under 5 g, a finer reading helps. The Letron Dual Platform reads to 0.01 g on its mini platform."},
+  {"q": "Does a bigger capacity mean a more accurate scale?", "a": "Not automatically. Capacity and resolution are separate specs. The Greater Goods 22 lb and Etekcity 11 lb both read in 1 g steps despite a different range. A higher capacity just gives you headroom for heavy bowls, as with the 33 lb Letron."},
+  {"q": "Can I weigh liquids like milk and honey?", "a": "Yes, and many bakers prefer it because it is faster and cleaner than a measuring cup. Use the tare function with the container on the scale, then pour. The Etekcity 22 lb USB-C has an IPX6 body that handles splashes, and most picks display milliliters or fluid ounces."},
+  {"q": "How do I keep a kitchen scale accurate?", "a": "Keep it on a flat, hard surface, start from zero each time and never exceed the stated capacity. Replace batteries early, because a low battery can cause odd readings. Wipe the platform with a damp cloth and avoid submerging any model unless it carries a water rating like the Etekcity 22 lb USB-C."},
+  {"q": "Is a rechargeable scale better for baking?", "a": "It removes the risk of a dead battery mid-recipe and suits frequent bakers. The Etekcity 22 lb USB-C is the rechargeable pick here. If you bake only occasionally, the Etekcity 11 lb with included AAA batteries works well and stays ready when stored."},
+  {"q": "Do I need a scale with a timer for sourdough?", "a": "A timer is a convenience rather than a requirement, since you can use a phone or kitchen timer for fermentation. Focus on yeast-level precision and a stable platform instead. The Letron Dual Platform covers the precision, and a larger platform such as the Nicewell 22 lb keeps heavy proofing bowls steady."}
+ ]
+}
