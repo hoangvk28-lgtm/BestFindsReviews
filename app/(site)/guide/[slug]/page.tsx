@@ -25,6 +25,7 @@ import { categories, getCategoryBySlug } from "@/data/categories";
 import { authorToSlug, getAuthorByName } from "@/data/authors";
 import { dynamicGuideSlugs, dynamicGuideLoaders } from "@/data/dynamic-guides-registry";
 import { RichGuidePage, type RichGuideModule } from "@/components/guide/RichGuidePage";
+import { InfoGuidePage, type InfoGuideModule } from "@/components/guide/InfoGuidePage";
 
 export const revalidate = 604800;
 
@@ -138,8 +139,9 @@ export default async function BuyingGuidePage({ params }: Props) {
 
   // ── Rich static-data-backed guide, served dynamically (no literal route dir) ──
   if (dynamicGuideSlugs.includes(slug)) {
-    const mod = (await dynamicGuideLoaders[slug]()) as unknown as RichGuideModule;
-    return <RichGuidePage slug={slug} guide={mod} />;
+    const mod = (await dynamicGuideLoaders[slug]()) as unknown as RichGuideModule | InfoGuideModule;
+    if ("kind" in mod && mod.kind === "info") return <InfoGuidePage slug={slug} guide={mod} />;
+    return <RichGuidePage slug={slug} guide={mod as RichGuideModule} />;
   }
 
   // ── Category listing page ─────────────────────────────────────────────────
