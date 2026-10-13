@@ -29,6 +29,6 @@ export const faq = [{"q":"How do I choose between these jar openers?","a":"Begin
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Bottle Openers for Arthritis in 2026", href: "/guide/best-bottle-openers-for-arthritis" },
   { title: "6 Best Electric Can Openers for Arthritis in 2026", href: "/guide/best-electric-can-openers-for-arthritis" },
-  { title: "6 Best Adaptive Utensils for Arthritis in 2026", href: "/guide/best-adaptive-utensils-for-arthritis" },
-  { title: "6 Best Adaptive Utensils for Rheumatoid Arthritis in 2026", href: "/guide/best-adaptive-utensils-for-rheumatoid-arthritis" }
+  { title: "6 Best Jar Openers for Arthritis in 2026", href: "/guide/best-electric-jar-openers-for-arthritis" },
+  { title: "6 Best Adaptive Utensils for Arthritis in 2026", href: "/guide/best-adaptive-utensils-for-arthritis" }
 ];

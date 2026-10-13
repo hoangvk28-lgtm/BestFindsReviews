@@ -57,7 +57,7 @@
    "description": "Hepside builds a compact 8.7 inch hardwired fixture around an 18W LED and a built-in PIR sensor. It sees across a 120 degree angle and senses movement within 10 to 20 ft, which is a generous reach for a small light. Three color temperatures sit in one fixture at 3000K, 4000K and 6500K.\n\nThree sensing modes adapt the light to different situations, including an on mode that keeps it lit without waiting for motion. The simple design means fewer parts to fail, but also no remote and no dimming mentioned. It is a good example of a no-frills fixture that gets the basics right.\n\nIt is smaller than the Matane and about the same diameter as the BLNAN, yet its range figure is clearer. If you want a neat, hardwired light for a pantry or hall and care about reach, it is a sensible middle option. It is the pick to choose when you want a cleaner look and fewer controls.",
    "bestFor": "Pantries, hallways and closets that want a plain, compact fixture.",
    "pros": ["10 to 20 ft detection range is clearly stated", "Compact 8.7 inch body suits small rooms", "Three color temperatures in one fixture", "Three sensing modes include a constant on"],
-   "cons": ["No remote or dimming mentioned in the brief", "PIR needs a clear sightline to the entry", "Smaller face lights less area than the Matane"]
+   "cons": ["No remote or dimming mentioned in the listing", "PIR needs a clear sightline to the entry", "Smaller face lights less area than the Matane"]
   },
   {
    "i": 6,
@@ -74,7 +74,7 @@
    "description": "BLNAN is the slimmest fixture of the group, with an 8.7 inch diameter and a thickness of only 0.99 inch in a black finish. That low profile is aimed at low ceilings, attics and lofts where a bulky dome would hang too low. A built-in PIR detector spans up to 120 degrees.\n\nA slide switch next to the sensor selects among three modes: AUTO, which uses both motion and the light sensor, ON, and a third mode labeled G. Color temperature can be chosen from 3000K, 4000K or 5000K. The black body is a style choice that stands out against a white ceiling, so it suits modern or industrial rooms more than traditional ones.\n\nIt is the best fixture here for height-restricted spaces, whereas the Matane suits tall rooms. Compared with the hepside it matches the diameter but is clearly thinner. If a bulky white dome would look wrong in your hallway, this one is the visual alternative.",
    "bestFor": "Low ceilings, lofts and attics that need a thin, modern fixture.",
    "pros": ["Only 0.99 inch thick for low ceilings", "Black finish gives a modern, industrial look", "Slide switch chooses AUTO, ON or G mode", "Three color temperatures from 3000K to 5000K"],
-   "cons": ["Black finish may not suit traditional decor", "Brightness in lumens is not in the brief", "Hardwired install needs a ceiling box"]
+   "cons": ["Black finish may not suit traditional decor", "Brightness in lumens is not in the listing", "Hardwired install needs a ceiling box"]
   },
   {
    "i": 5,
@@ -91,7 +91,7 @@
    "description": "LOTMOS is a porch-style wall fixture rather than a ceiling light, built for dusk to dawn use at an entry or patio. A CCT knob selects among 3000K, 4000K and 6500K color temperatures, so you can choose between warm and daylight tones. A built-in PIR sensor with a maximum 120 degree detection angle offers three sensor modes and a timer function.\n\nIts black and white minimalist design is meant to suit modern exteriors, and it uses an energy-saving LED. The timer lets you decide how long it stays on after someone passes. Dusk to dawn behaviour means it will not waste power in the day.\n\nIt differs from the FNYUSLET by offering a color knob and a timer, while the FNYUSLET offers a defined 20 ft range. It is not an indoor product and should not be used in place of the Matane or slochi. For a front door or garage wall, it is the more adjustable of the two outdoor fixtures.",
    "bestFor": "Front doors and patio walls that want adjustable color and timing.",
    "pros": ["CCT knob selects warm to daylight color", "Three sensor modes with a timer function", "Dusk to dawn use saves daytime power", "Minimalist black and white styling"],
-   "cons": ["Detection range is not stated in the brief", "Outdoor wall fixture only", "Brightness in lumens is not listed"]
+   "cons": ["Detection range is not stated in the listing", "Outdoor wall fixture only", "Brightness in lumens is not listed"]
   },
   {
    "i": 7,
@@ -105,10 +105,10 @@
     {"label": "Use", "value": "Outdoor wall mount"},
     {"label": "Daytime", "value": "Turns off automatically"}
    ],
-   "description": "FNYUSLET sells two small outdoor wall lanterns in one pack, each 10.24 inches tall. Its sensing distance is stated at 20 ft with a wide angle, and the light turns on instantly when it detects movement. During the day or when nothing is moving at night, it switches off automatically.\n\nTwo fixtures are handy for flanking a garage door or lighting both a front and a back entry. The listing positions them as small front porch lights, so they are modest in scale. Details such as color temperature and lumens are not given in the brief.\n\nCompared with the LOTMOS, you get a pair and a firm range figure but no color or timer choices. It is a more basic pair, which suits buyers who want matching lights and do not need extra settings. A pair also helps you keep a symmetrical look on both sides of a door.",
+   "description": "FNYUSLET sells two small outdoor wall lanterns in one pack, each 10.24 inches tall. Its sensing distance is stated at 20 ft with a wide angle, and the light turns on instantly when it detects movement. During the day or when nothing is moving at night, it switches off automatically.\n\nTwo fixtures are handy for flanking a garage door or lighting both a front and a back entry. The listing positions them as small front porch lights, so they are modest in scale. Details such as color temperature and lumens are not given in the listing.\n\nCompared with the LOTMOS, you get a pair and a firm range figure but no color or timer choices. It is a more basic pair, which suits buyers who want matching lights and do not need extra settings. A pair also helps you keep a symmetrical look on both sides of a door.",
    "bestFor": "Matching lights on either side of a garage or porch door.",
    "pros": ["Two fixtures in one pack for symmetrical use", "20 ft stated detection range is clear", "Compact 10.24 inch height suits small porches", "Switches off automatically in daytime"],
-   "cons": ["No color or lumen details in the brief", "No timer or color options like the LOTMOS", "Outdoor use only"]
+   "cons": ["No color or lumen details in the listing", "No timer or color options like the LOTMOS", "Outdoor use only"]
   }
  ],
  "buyingCriteria": [

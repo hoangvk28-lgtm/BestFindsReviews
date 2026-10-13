@@ -29,6 +29,6 @@ export const faq = [{"q":"Which egg cooker with auto-shutoff should I choose?","
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Cordless Electric Kettles With Auto-Shutoff in 2026", href: "/guide/best-cordless-electric-kettles-with-auto-shutoff" },
   { title: "6 Best Gooseneck Electric Kettles With Auto-Shutoff in 2026", href: "/guide/best-gooseneck-electric-kettles-with-auto-shutoff" },
-  { title: "Best Automatic Dustpans Without Central Vacuums (2026)", href: "/guide/best-automatic-dustpans-without-central-vacuums" },
-  { title: "Best Rice Cookers With Steamers (2026)", href: "/guide/best-rice-cookers-with-steamers" }
+  { title: "5 Best Temperature-Control Electric Kettles With Auto-Shutoff in 2026", href: "/guide/best-temperature-control-electric-kettles-with-auto-shutoff" },
+  { title: "Best Automatic Dustpans Without Central Vacuums (2026)", href: "/guide/best-automatic-dustpans-without-central-vacuums" }
 ];

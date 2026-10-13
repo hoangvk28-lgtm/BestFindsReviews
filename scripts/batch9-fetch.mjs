@@ -26,6 +26,10 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch11") {
+    const rows = parseCsv(readFileSync(resolve(ROOT, "seniors_best_batch2_mobility_accessibility_deep_audit.csv"), "utf-8").replace(/^\uFEFF/, ""));
+    return rows.slice(1).filter((r) => /^\d+$/.test(r[0])).map((r) => ({ id: Number(r[0]), cluster: "", seed: r[6], title: r[4].replace(/\s*\(2026\)$/, ""), slug: r[16].replace(/^\/|\/$/g, ""), keyword: r[5], supporting: [r[10], r[11]].filter(Boolean).join(" | "), type: /\bvs\b/i.test(r[4]) ? "Comparison" : "Best", status: r[23], niche: r[2], why: [r[17], r[18] === "High" ? "SAFETY-CRITICAL topic: be conservative." : ""].filter(Boolean).join(" "), note: r[21] }));
+  }
   if (process.env.BATCH === "batch10") {
     const rows = parseCsv(readFileSync(resolve(ROOT, "seniors_best_kitchen_keyword_plan_second_audit_251.csv"), "utf-8").replace(/^﻿/, ""));
     return rows.slice(1).filter((r) => /^\d+$/.test(r[0])).map((r) => ({ id: Number(r[0]), cluster: "Easy Kitchen", seed: r[5], title: r[3].replace(/\s*\(2026\)$/, ""), slug: r[15].replace(/^\/|\/$/g, ""), keyword: r[4], supporting: [r[9], r[10]].filter(Boolean).join(" | "), type: /\bvs\b/i.test(r[3]) ? "Comparison" : "Best", status: r[20], niche: r[2], why: r[16], note: r[19] }));

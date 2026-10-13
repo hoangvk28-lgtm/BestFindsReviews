@@ -86,7 +86,7 @@
    "description": "The EIGHTREE 5GHz Outdoor Smart Plug is the only outdoor choice in this lineup, and it carries two outlets that work independently. That lets you run patio lights on one socket and a fountain on the other, each with its own schedule. It supports 5GHz and 2.4GHz Wi-Fi and switches between the bands automatically in dual-band unified mode.\n\nThe IP44 rating protects against splashes and light moisture, which suits a covered porch or a protected outdoor wall. It is a splash rating rather than a heavy-weather rating, so place it under cover and off the ground. Timer functions let you set the lights to come on in the evening and shut off at a set hour.\n\nThe tradeoff is that this unit is outdoors only in intent, and it is bulkier than the slim indoor plugs. The listing does not give an amperage, so check the rating before connecting heavy loads. Compared with the standard EIGHTREE 5GHz Smart Plug 15A, which is made for indoor appliances, this one trades slimness for weather protection. If your need is a backyard, this is the only pick here that fits.",
    "bestFor": "A covered patio or deck where lights and a fountain need separate schedules on a 5GHz network.",
    "pros": ["Two outlets run on separate schedules", "IP44 rating resists splashes and light moisture", "Dual-band unified mode hops between bands", "Suits patio lights and small fountains"],
-   "cons": ["Amperage is not listed in the brief", "Larger body than slim indoor plugs"]
+   "cons": ["Amperage is not listed in the listing", "Larger body than slim indoor plugs"]
   }
  ],
  "buyingCriteria": [
@@ -100,7 +100,7 @@
   },
   {
    "criterion": "Safety certifications on the housing",
-   "explanation": "Marks like ETL and FCC indicate third-party testing and radio compliance. The GHome Smart 5G lists both, and the EIGHTREE energy-monitoring four-pack lists them too. The NOUS A9 listing does not state them in the brief, so look at the product itself when it arrives. A plug powering a coffee maker or fan should carry visible certification, not just a marketing claim."
+   "explanation": "Marks like ETL and FCC indicate third-party testing and radio compliance. The GHome Smart 5G lists both, and the EIGHTREE energy-monitoring four-pack lists them too. The NOUS A9 listing does not state them in the listing, so look at the product itself when it arrives. A plug powering a coffee maker or fan should carry visible certification, not just a marketing claim."
   },
   {
    "criterion": "Energy monitoring usefulness",
@@ -122,7 +122,7 @@
   },
   {
    "title": "Power rating and safety marks",
-   "description": "We favored plugs that state a 120V and 15A rating and show ETL or FCC listing. The GHome 5G and the energy-monitoring EIGHTREE four-pack lead on visible certification. The NOUS A9 lost points for listing fewer compliance details in the brief."
+   "description": "We favored plugs that state a 120V and 15A rating and show ETL or FCC listing. The GHome 5G and the energy-monitoring EIGHTREE four-pack lead on visible certification. The NOUS A9 lost points for listing fewer compliance details in the listing."
   },
   {
    "title": "Extra features",

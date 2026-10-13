@@ -29,6 +29,6 @@ export const faq = [{"q":"Can adaptive utensils help someone with dementia eat?"
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Adaptive Eating Utensils in 2026", href: "/guide/best-adaptive-eating-utensils" },
   { title: "6 Best Adaptive Utensils for Adults in 2026", href: "/guide/best-adaptive-utensils-for-adults" },
-  { title: "Best Simple Communication Tablets for Dementia Support (2026)", href: "/guide/best-simple-communication-tablets-for-dementia-support" },
-  { title: "Best Digital Day Clocks for Dementia (2026)", href: "/guide/best-digital-day-clocks-for-dementia" }
+  { title: "6 Best Adaptive Utensils for Arthritis in 2026", href: "/guide/best-adaptive-utensils-for-arthritis" },
+  { title: "6 Best Adaptive Utensils for Parkinson’s in 2026", href: "/guide/best-adaptive-utensils-for-parkinsons" }
 ];

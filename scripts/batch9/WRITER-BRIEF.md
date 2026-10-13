@@ -54,3 +54,4 @@ For each article write `scripts/batch9/content/<slug>.json` with the Write tool.
 - If the brief lacks true matches (for example brand-named keywords with no products from that brand), do not pad with other products. Write `{"skip": "reason"}` as the file content instead.
 - Valid JSON with escaped quotes.
 - Final reply: only the slugs written, slugs skipped with reasons, and the research notes created. No summaries.
+- Never mention "the brief", "our brief", research notes, indexes or any internal input in the article text. Refer to "the listing", "the product page" or "the maker" instead.

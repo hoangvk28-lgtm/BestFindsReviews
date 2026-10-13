@@ -29,5 +29,5 @@ export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Garden Augers for Drills in 2026", href: "/guide/best-garden-augers-for-drills" },
   { title: "6 Best Garden Auger Drill Bits in 2026", href: "/guide/best-garden-auger-drill-bits" },
   { title: "5 Best 2-Inch Garden Augers in 2026", href: "/guide/best-2-inch-garden-augers" },
-  { title: "Best 1/2-Inch Garden Hoses (2026)", href: "/guide/best-1-2-inch-garden-hoses" }
+  { title: "5 Best 4-Inch Garden Augers in 2026", href: "/guide/best-4-inch-garden-augers" }
 ];

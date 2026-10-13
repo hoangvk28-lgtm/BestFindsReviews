@@ -67,7 +67,7 @@
    "description": "The MEDCENTER lets you speak and record personalised medication alarms, and it shows a bold white extra-large display for low vision. Its loud, clear talking alarms are aimed at people with dementia or hearing impairment, and the interface is described as intuitive. It is aimed squarely at seniors, caregivers and anyone managing multiple doses.\n\nWhat the listing leaves out is the exact number of recordable alarms and the power type, so check the product page if those details matter. White numerals on a dark background tend to give strong contrast, which helps in a dim bedroom. The risk is overpromising, since the maker's wording is broad.\n\nSet up involves recording each message and testing it. Compared with the Simpl Rosie, which states 25 reminders, the MEDCENTER is vague on count. Compared with the Bovintex, it offers a much larger screen, though the Bovintex states its three recording slots clearly.",
    "bestFor": "Caregivers who want recorded medication alarms on a bold, easy-to-read screen.",
    "pros": ["Record medication alarms in a familiar voice", "Bold white display reads well for low vision", "Loud alarms suit hearing difficulty", "Interface is described as intuitive"],
-   "cons": ["Listing omits the number of recordings", "Power type is not stated in the brief"]
+   "cons": ["Listing omits the number of recordings", "Power type is not stated in the listing"]
   },
   {
    "i": 6,
@@ -164,7 +164,7 @@
     "rows": [
      ["Plugged in permanently", "ORKA Voice Recordable Pill Reminder Clock", "AC powered, not battery operated"],
      ["Portable and rechargeable", "Bovintex Rechargeable Talking Pill Reminder Clock", "USB charge lasts up to 6 months"],
-     ["Check power details first", "MEDCENTER Talking Alarm Clock for Medication", "Power type is not stated in the brief"],
+     ["Check power details first", "MEDCENTER Talking Alarm Clock for Medication", "Power type is not stated in the listing"],
      ["Bedside with a screen to dim", "Top Life Talking Alarm Clock with Pill Reminder", "Long press turns off the LED display"]
     ]
    },

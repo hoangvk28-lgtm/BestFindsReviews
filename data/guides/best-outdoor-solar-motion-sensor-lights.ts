@@ -29,6 +29,6 @@ export const faq = [{"q":"How do I choose between the TECKNET and the daphino?",
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Outdoor Motion Sensor Lights in 2026", href: "/guide/best-outdoor-motion-sensor-lights" },
   { title: "6 Best Solar Motion Sensor Lights in 2026", href: "/guide/best-solar-motion-sensor-lights" },
-  { title: "Best Motion Sensor Light Under $25 (2026)", href: "/guide/best-motion-sensor-light-under-25" },
-  { title: "Best Motion Sensor Light Under $50 (2026)", href: "/guide/best-motion-sensor-light-under-50" }
+  { title: "6 Best Outdoor Motion Sensor Light Bulbs in 2026", href: "/guide/best-outdoor-motion-sensor-light-bulbs" },
+  { title: "6 Best Waterproof Solar Motion Sensor Lights in 2026", href: "/guide/best-waterproof-solar-motion-sensor-lights" }
 ];

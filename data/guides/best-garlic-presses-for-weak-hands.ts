@@ -29,6 +29,6 @@ export const faq = [{"q":"Which garlic press is easiest for weak hands?","a":"A 
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "5 Best Jar Openers for Weak Hands in 2026", href: "/guide/best-jar-openers-for-weak-hands" },
   { title: "6 Best Garlic Presses for Arthritis in 2026", href: "/guide/best-garlic-presses-for-arthritis" },
-  { title: "Best French Press Coffee Makers", href: "/guide/best-french-press-coffee-makers" },
-  { title: "Coffee Maker vs French Press", href: "/guide/coffee-maker-vs-french-press" }
+  { title: "6 Best Easy-to-Use Garlic Presses in 2026", href: "/guide/best-easy-to-use-garlic-presses" },
+  { title: "6 Best Garlic Presses for Seniors in 2026", href: "/guide/best-garlic-presses-for-seniors" }
 ];

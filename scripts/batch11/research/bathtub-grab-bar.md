@@ -1,0 +1,6 @@
+- Stud-mounted bars commonly rated up to 500 lb; clamp-on about 250-300 lb.
+- Clamp weak point is clamping force on the tub wall.
+- Wall anchors made for grab bars can work when no stud.
+- Suction bars are not recommended for full weight support.
+- Most flanges have 3 holes but only 2 hit a 1.5 in stud.
+- Clamp-ons depend on tub edge thickness; fiberglass and curved tubs often reject them.

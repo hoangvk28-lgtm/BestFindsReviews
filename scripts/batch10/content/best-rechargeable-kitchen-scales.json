@@ -24,7 +24,7 @@
    "description": "This Etekcity scale weighs from 2 g up to 22 lb in 1 g increments and charges through a USB-C port with a cable in the box. The battery is listed at 300mAh, which is small but sufficient for a device that sleeps most of the day. An IPX6 waterproof design lets you wipe it down or measure liquids without worrying about splashes.\n\nFive units are on offer: ounces, pounds and ounces, grams, milliliters for milk and water, and fluid ounces for the same two liquids. That range makes it useful for both baking and coffee-adjacent jobs. The 22 lb ceiling is generous for a compact scale.\n\nThe listing gives a battery size but no hours of life, so you cannot plan around a number. It tops out below the 33 lb models, which matters only if you weigh heavy items. Compared with the Ultrean IPX7 33lb Rechargeable Food Scale, it has a lower water rating and a smaller cell, while the CROWNFUL 33lb Rechargeable Stainless Kitchen Scale gives you an AAA backup that the Etekcity lacks.",
    "bestFor": "Everyday cooks who want a splash-resistant, USB-C rechargeable scale with a balanced 22 lb range.",
    "pros": ["USB-C rechargeable with cable included", "IPX6 design wipes clean after spills", "Weighs from 2 g all the way up to 22 lb", "Five units including milk and water"],
-   "cons": ["Brief lists no battery life in hours", "Lower capacity than the 33 lb models", "IPX6 is not rated for full immersion"]
+   "cons": ["Listing lists no battery life in hours", "Lower capacity than the 33 lb models", "IPX6 is not rated for full immersion"]
   },
   {
    "i": 6,
@@ -56,10 +56,10 @@
     {"label": "Power", "value": "Type-C cable or 2 AAA batteries"},
     {"label": "Panel", "value": "304 stainless steel"}
    ],
-   "description": "The CROWNFUL runs on a Type-C charging connector or two AAA batteries, and both the USB cable and batteries are included. That dual power is its main selling point. If the built-in pack runs low in the middle of a bake, you can drop in AAAs instead of hunting for a charger.\n\nThe platform is a large 304 stainless steel panel meant to hold bigger containers. Measuring runs from 3 g to 33 lb or 15 kg with 1 g steps. A larger panel helps when you weigh in a stockpot or a mixing bowl.\n\nThe 3 g minimum is a little higher than the 2 g floors on the Etekcity and Ultrean, so very small additions are less precise. There is no water rating listed in the brief, so keep spills off it. Compared with the Diyife 33lb Rechargeable Stainless Kitchen Scale, the CROWNFUL highlights its 304 steel and the AAA fallback.",
+   "description": "The CROWNFUL runs on a Type-C charging connector or two AAA batteries, and both the USB cable and batteries are included. That dual power is its main selling point. If the built-in pack runs low in the middle of a bake, you can drop in AAAs instead of hunting for a charger.\n\nThe platform is a large 304 stainless steel panel meant to hold bigger containers. Measuring runs from 3 g to 33 lb or 15 kg with 1 g steps. A larger panel helps when you weigh in a stockpot or a mixing bowl.\n\nThe 3 g minimum is a little higher than the 2 g floors on the Etekcity and Ultrean, so very small additions are less precise. There is no water rating listed in the listing, so keep spills off it. Compared with the Diyife 33lb Rechargeable Stainless Kitchen Scale, the CROWNFUL highlights its 304 steel and the AAA fallback.",
    "bestFor": "Cooks who like a safety net of AAA batteries and a big steel platform for large containers.",
    "pros": ["Runs on Type-C or two AAA batteries", "Large 304 stainless steel weighing panel", "Cable and batteries both included", "Measures from 3 g all the way up to 33 lb"],
-   "cons": ["Higher 3 g minimum than some rivals", "No water rating given in the brief", "Steel panel shows fingerprints and splashes"]
+   "cons": ["Higher 3 g minimum than some rivals", "No water rating given in the listing", "Steel panel shows fingerprints and splashes"]
   },
   {
    "i": 7,
@@ -73,7 +73,7 @@
     {"label": "Platform size", "value": "7.5 x 5.5 inches"},
     {"label": "Display", "value": "Backlit, white digits"}
    ],
-   "description": "The Diyife is a 304 stainless steel scale that uses four high-precision sensors to read up to 33 lb. The platform measures 7.5 by 5.5 inches and is only 0.5 inches thick. A backlit LCD with white lettering shows the weight in a 2.2 by 0.9 inch window.\n\nTwo power options are offered: standard batteries or a USB rechargeable pack with the cable included. You turn it on with a single button. The thin profile slides into a drawer, and the metal top is easy to wipe.\n\nThe display window is smaller than on some rivals, and the brief lists no water rating or battery hours. That means you should treat it as a basic daily scale. Compared with the CROWNFUL 33lb Rechargeable Stainless Kitchen Scale, its platform is smaller, and compared with the GGQ 33lb Rechargeable Digital Kitchen Scale it has no glass panel or touch controls.",
+   "description": "The Diyife is a 304 stainless steel scale that uses four high-precision sensors to read up to 33 lb. The platform measures 7.5 by 5.5 inches and is only 0.5 inches thick. A backlit LCD with white lettering shows the weight in a 2.2 by 0.9 inch window.\n\nTwo power options are offered: standard batteries or a USB rechargeable pack with the cable included. You turn it on with a single button. The thin profile slides into a drawer, and the metal top is easy to wipe.\n\nThe display window is smaller than on some rivals, and the listing lists no water rating or battery hours. That means you should treat it as a basic daily scale. Compared with the CROWNFUL 33lb Rechargeable Stainless Kitchen Scale, its platform is smaller, and compared with the GGQ 33lb Rechargeable Digital Kitchen Scale it has no glass panel or touch controls.",
    "bestFor": "Cooks with limited drawer space who want a thin steel scale with a backlit display.",
    "pros": ["Slim half-inch body slides into drawers", "Backlit LCD with clear white digits", "Four high-precision weighing sensors", "Battery or USB charging both available"],
    "cons": ["Compact 7.5 by 5.5 inch platform", "No water rating or battery hours listed", "Small display window of 2.2 by 0.9 inches"]
@@ -90,10 +90,10 @@
     {"label": "Units", "value": "g, kg, lb:oz, oz, ml"},
     {"label": "Controls", "value": "Screen touch with LCD"}
    ],
-   "description": "The GGQ scale has a waterproof, anti-collision glass weighing panel over four high-precision load sensors. Screen touch controls and a large LCD make it feel more modern than the button-based models. It covers five units: grams, kilograms, pounds and ounces, ounces and milliliters.\n\nThe tare button subtracts the weight of a mug, plate or bowl so you can add food without doing math. Glass is smooth and wipes clean, and it suits a kitchen with a sleek counter. It is rechargeable, though the brief does not list the port type or battery life.\n\nGlass can chip if you drop a pan on it, and touch controls can be fussy with wet fingers. Compared with the Etekcity 22lb Rechargeable Kitchen Scale, IPX6, it lacks a stated IP rating and a USB-C cable detail. Against the Diyife, it offers a glass top rather than steel.",
+   "description": "The GGQ scale has a waterproof, anti-collision glass weighing panel over four high-precision load sensors. Screen touch controls and a large LCD make it feel more modern than the button-based models. It covers five units: grams, kilograms, pounds and ounces, ounces and milliliters.\n\nThe tare button subtracts the weight of a mug, plate or bowl so you can add food without doing math. Glass is smooth and wipes clean, and it suits a kitchen with a sleek counter. It is rechargeable, though the listing does not list the port type or battery life.\n\nGlass can chip if you drop a pan on it, and touch controls can be fussy with wet fingers. Compared with the Etekcity 22lb Rechargeable Kitchen Scale, IPX6, it lacks a stated IP rating and a USB-C cable detail. Against the Diyife, it offers a glass top rather than steel.",
    "bestFor": "Cooks who prefer a smooth glass top with touch controls for a modern counter.",
    "pros": ["Smooth glass panel wipes clean quickly", "Four high-precision load sensors inside", "Touch controls with a large LCD", "Tare subtracts mug or plate weight"],
-   "cons": ["Brief lists no port type or battery hours", "Glass can chip if struck by a pan", "Touch controls can be fussy when wet"]
+   "cons": ["Listing lists no port type or battery hours", "Glass can chip if struck by a pan", "Touch controls can be fussy when wet"]
   },
   {
    "i": 9,
@@ -111,7 +111,7 @@
    "description": "The izeyu scale measures up to 15 kg or 33 lb in 1 g or 0.1 oz steps and offers six measuring ranges. A stainless steel top is described, along with automatic and manual shutoff. Its battery recharges over USB.\n\nThe headline number is over 120 days of standby, which suggests you can charge it only a few times a year if it mostly sits idle. That is a standby figure, not a count of weighing sessions. Weighing for long stretches will drain it faster.\n\nSix units help with international recipes. The listing does not state a water rating, so avoid soaking it. Next to the Ultrean IPX7 33lb Rechargeable Food Scale, the izeyu gives a standby figure while the Ultrean gives a figure tied to daily use, and next to the CROWNFUL it has no AAA backup.",
    "bestFor": "Occasional bakers who want a large-capacity scale that holds charge for months in a drawer.",
    "pros": ["Over 120 days of stated standby", "Six measuring ranges for varied recipes", "Automatic and manual shutoff included", "Stainless steel top with 33 lb capacity"],
-   "cons": ["Standby days are not weighing sessions", "No water rating listed in the brief", "No AAA backup if the pack runs flat"]
+   "cons": ["Standby days are not weighing sessions", "No water rating listed in the listing", "No AAA backup if the pack runs flat"]
   }
  ],
  "buyingCriteria": [
@@ -203,7 +203,7 @@
  "faq": [
   {"q": "Is a rechargeable scale better than a battery scale?", "a": "It is more convenient if you weigh often, since you skip replacing cells. A built-in pack can degrade over years, though, so a model with AAA backup like the CROWNFUL offers insurance. Choose based on how reliably you remember to charge."},
   {"q": "How do I choose between Type-C and standard USB?", "a": "Type-C is easier to plug in and widely shared with phones and tablets. The Etekcity, Ultrean and CROWNFUL list Type-C explicitly. For others, check the listing before assuming a cable standard."},
-  {"q": "Can I use the scale while it charges?", "a": "The brief does not say for most models, so do not assume it. If cooking while plugged in matters, look for a dual power design such as the Diyife or CROWNFUL. Otherwise charge between uses."},
+  {"q": "Can I use the scale while it charges?", "a": "The listing does not say for most models, so do not assume it. If cooking while plugged in matters, look for a dual power design such as the Diyife or CROWNFUL. Otherwise charge between uses."},
   {"q": "Does IPX7 mean I can wash it in the dishwasher?", "a": "No. IPX7 refers to brief immersion in water, not heat, detergent or pressure jets. The Ultrean is described as sink-safe, so rinse it by hand and dry the port."},
   {"q": "Why do minimum weights matter?", "a": "A scale below its minimum may read unreliably or show nothing. The Etekcity and Ultrean list 2 g, and the CROWNFUL lists 3 g. If you weigh small spice amounts, choose a lower minimum or use a dedicated precision scale."},
   {"q": "How long will the battery last overall?", "a": "Listings give different kinds of figures. Ultrean lists up to 4 months of light daily use, and izeyu lists over 120 days of standby. Neither is a guarantee, and the pack will fade over years like any lithium cell."},

@@ -30,5 +30,5 @@ export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Kitchen Scales With Bowls in 2026", href: "/guide/best-kitchen-scales-with-bowls" },
   { title: "6 Best Rechargeable Kitchen Scales in 2026", href: "/guide/best-rechargeable-kitchen-scales" },
   { title: "6 Best Waterproof Kitchen Scales in 2026", href: "/guide/best-waterproof-kitchen-scales" },
-  { title: "Best Kitchenaid Toaster Ovens (2026)", href: "/guide/best-kitchenaid-toaster-ovens" }
+  { title: "6 Best Kitchen Scales for Sourdough in 2026", href: "/guide/best-kitchen-scales-for-sourdough" }
 ];

@@ -28,6 +28,6 @@ export const faq = [{"q":"Can I leave an automatic pot stirrer running while I l
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "5 Best Variable-Speed Automatic Pot Stirrers in 2026", href: "/guide/best-variable-speed-automatic-pot-stirrers" },
   { title: "6 Best Automatic Pan Stirrers in 2026", href: "/guide/best-automatic-pan-stirrers" },
-  { title: "Best Automatic Litter Box Under $300 (2026)", href: "/guide/best-automatic-litter-box-under-300" },
-  { title: "Best Automatic Litter Box Under $400 (2026)", href: "/guide/best-automatic-litter-box-under-400" }
+  { title: "6 Best Cordless Automatic Pot Stirrers in 2026", href: "/guide/best-cordless-automatic-pot-stirrers" },
+  { title: "6 Best Electric Automatic Pot Stirrers in 2026", href: "/guide/best-electric-automatic-pot-stirrers" }
 ];

@@ -28,6 +28,6 @@ export const faq = [{"q":"Is a 2 inch auger big enough for most planting?","a":"
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Garden Augers for Drills in 2026", href: "/guide/best-garden-augers-for-drills" },
   { title: "6 Best Garden Auger Drill Bits in 2026", href: "/guide/best-garden-auger-drill-bits" },
-  { title: "Best 1/2-Inch Garden Hoses (2026)", href: "/guide/best-1-2-inch-garden-hoses" },
-  { title: "Best 3/4-Inch Garden Hoses (2026)", href: "/guide/best-3-4-inch-garden-hoses" }
+  { title: "5 Best 3-Inch Garden Augers in 2026", href: "/guide/best-3-inch-garden-augers" },
+  { title: "5 Best 4-Inch Garden Augers in 2026", href: "/guide/best-4-inch-garden-augers" }
 ];

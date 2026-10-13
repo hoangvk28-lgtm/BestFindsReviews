@@ -1,0 +1,5 @@
+- Sock aid lets user dress without bending forward; classic rigid cradle with looped ropes, one-handed use
+- Check soft lining, flexible shape for different feet, loop handles for weak grip, durability
+- Orthopedic rehab guides pair sock aid with long shoehorn to avoid bending or crossing legs
+- Follow surgeon and therapist instructions; compression sock fit and duration are individual; not covered by search
+- Slightly larger or stretchier socks are easier to don (retail advice)

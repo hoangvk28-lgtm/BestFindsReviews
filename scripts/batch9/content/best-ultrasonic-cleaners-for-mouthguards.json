@@ -46,7 +46,7 @@
     {"label": "Warranty", "value": "12 months"},
     {"label": "Support", "value": "Reply within one business day"}
    ],
-   "description": "The Zima Dental Pod is built specifically for oral appliances: retainers, aligners, mouth guards, night guards, dentures and braces. Its frequency adjusts on its own between 42 and 47 kHz, and it offers a standard cycle for daily use plus a Max Clean cycle for heavier buildup after travel or a break in routine. The listing describes the design as non-abrasive and compact enough for a bathroom counter.\n\nThat focus means fewer extras. There are no UV lamps listed and only two cycles, so it is less feature-rich than the Cakiyn or Clelifove, and it does not give a tank volume in the brief we reviewed. A 12-month warranty with a reply promised within one business day adds some reassurance, though the awards cited in the listing are marketing and we did not rely on them.\n\nOwnership is a rinse-and-go routine that suits a bathroom counter. Compared with the Cakiyn at 42 to 48 kHz and three modes, the Zima has a narrower sweep and fewer options but a simpler decision. If you want UV or a longer warranty, the Clelifove at two years offers more.",
+   "description": "The Zima Dental Pod is built specifically for oral appliances: retainers, aligners, mouth guards, night guards, dentures and braces. Its frequency adjusts on its own between 42 and 47 kHz, and it offers a standard cycle for daily use plus a Max Clean cycle for heavier buildup after travel or a break in routine. The listing describes the design as non-abrasive and compact enough for a bathroom counter.\n\nThat focus means fewer extras. There are no UV lamps listed and only two cycles, so it is less feature-rich than the Cakiyn or Clelifove, and it does not give a tank volume in the listing. A 12-month warranty with a reply promised within one business day adds some reassurance, though the awards cited in the listing are marketing and we did not rely on them.\n\nOwnership is a rinse-and-go routine that suits a bathroom counter. Compared with the Cakiyn at 42 to 48 kHz and three modes, the Zima has a narrower sweep and fewer options but a simpler decision. If you want UV or a longer warranty, the Clelifove at two years offers more.",
    "bestFor": "Guard, retainer and aligner wearers who want a simple, dental-focused routine.",
    "pros": [
     "Frequency auto-adjusts from 42 to 47 kHz on its own during a cycle",
@@ -150,7 +150,7 @@
     {"label": "Tank", "value": "200 ml, SUS304 food-grade steel"},
     {"label": "Control", "value": "Digital display with touch"}
    ],
-   "description": "The LOVELAB runs 48 kHz ultrasonic cleaning with UV-C modules in the lid and three timed cycles on a digital touch display, starting with a 3 minute quick rinse. The inner tank is food-grade SUS304 stainless steel with a 200 ml maximum. It is designed for retainers, aligners and similar oral appliances, and the listing includes clear safety notes.\n\nThose safety notes are worth reading: do not submerge the unit, do not let water into the housing, and always add water before turning on the power. The tradeoff is that the listing does not give a noise figure or a warranty term, and its other cycle lengths are cut off in the brief we reviewed, so we left them out rather than guess. Touch controls can also be less satisfying than a physical button if your fingertips are dry or numb.\n\nDay to day it is straightforward and the stainless tank wipes clean easily. Compared with the UMPOPO, which also uses UV-C at 48 kHz, it offers a clearer three-cycle display and a stainless tank. Against the Beser at 45 kHz it lacks the IPX6 and certification detail, but it adds UV.",
+   "description": "The LOVELAB runs 48 kHz ultrasonic cleaning with UV-C modules in the lid and three timed cycles on a digital touch display, starting with a 3 minute quick rinse. The inner tank is food-grade SUS304 stainless steel with a 200 ml maximum. It is designed for retainers, aligners and similar oral appliances, and the listing includes clear safety notes.\n\nThose safety notes are worth reading: do not submerge the unit, do not let water into the housing, and always add water before turning on the power. The tradeoff is that the listing does not give a noise figure or a warranty term, and its other cycle lengths are cut off in the listing, so we left them out rather than guess. Touch controls can also be less satisfying than a physical button if your fingertips are dry or numb.\n\nDay to day it is straightforward and the stainless tank wipes clean easily. Compared with the UMPOPO, which also uses UV-C at 48 kHz, it offers a clearer three-cycle display and a stainless tank. Against the Beser at 45 kHz it lacks the IPX6 and certification detail, but it adds UV.",
    "bestFor": "People who like a digital display and a quick 3 minute rinse option.",
    "pros": [
     "A 3 minute quick cycle suits a fast daily rinse of a night guard",
@@ -272,7 +272,7 @@
      ["No stated noise figure", "Zima Dental Pod Ultrasonic Cleaner for Oral Appliances", "A dental-focused routine."]
     ]
    },
-   "note": "The Cakiyn also lists no decibel figure in the brief we reviewed."
+   "note": "The Cakiyn also lists no decibel figure in the listing."
   },
   {
    "subheading": "For Night Guards and Mouthguards Specifically",

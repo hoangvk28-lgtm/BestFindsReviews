@@ -29,6 +29,6 @@ export const faq = [{"q":"What makes a ceramic set lightweight?","a":"The body m
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "5 Best Lightweight Cookware Sets in 2026", href: "/guide/best-lightweight-cookware" },
   { title: "5 Best Lightweight Cookware Picks for Seniors in 2026", href: "/guide/best-lightweight-cookware-for-seniors" },
-  { title: "Best Lightweight Lawn Mowers", href: "/guide/best-lightweight-lawn-mowers" },
-  { title: "Best Ceramic Air Fryers", href: "/guide/best-ceramic-air-fryers" }
+  { title: "6 Best Lightweight Cookware Sets in 2026", href: "/guide/best-lightweight-cookware-sets" },
+  { title: "6 Best Lightweight Nonstick Cookware Sets in 2026", href: "/guide/best-lightweight-nonstick-cookware" }
 ];

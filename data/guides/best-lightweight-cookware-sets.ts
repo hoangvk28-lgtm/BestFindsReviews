@@ -29,6 +29,6 @@ export const faq = [{"q":"Which set is the lightest?","a":"No weights are listed
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "5 Best Lightweight Cookware Sets in 2026", href: "/guide/best-lightweight-cookware" },
   { title: "5 Best Lightweight Cookware Picks for Seniors in 2026", href: "/guide/best-lightweight-cookware-for-seniors" },
-  { title: "Best Lightweight Lawn Mowers", href: "/guide/best-lightweight-lawn-mowers" },
-  { title: "Best Lightweight Electric Kettles (2026)", href: "/guide/best-lightweight-electric-kettles" }
+  { title: "6 Best Lightweight Ceramic Cookware Sets in 2026", href: "/guide/best-lightweight-ceramic-cookware" },
+  { title: "6 Best Lightweight Nonstick Cookware Sets in 2026", href: "/guide/best-lightweight-nonstick-cookware" }
 ];

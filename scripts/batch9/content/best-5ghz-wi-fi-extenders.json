@@ -124,7 +124,7 @@
   },
   {
    "criterion": "Ethernet port and wired uses",
-   "explanation": "A wired connection removes wireless contention for fixed devices like a TV or console. The RE615X, PEDUMMY and VERMEYEN all list an Ethernet port, while the AC1900 RE550 and RE315 listings in our brief do not. A cable is often the most reliable fix for a streaming box that stutters on 5GHz. Check that the port speed suits your device before planning a wired setup."
+   "explanation": "A wired connection removes wireless contention for fixed devices like a TV or console. The RE615X, PEDUMMY and VERMEYEN all list an Ethernet port, while the AC1900 RE550 and RE315 listings do not. A cable is often the most reliable fix for a streaming box that stutters on 5GHz. Check that the port speed suits your device before planning a wired setup."
   },
   {
    "criterion": "Setup route and ownership",

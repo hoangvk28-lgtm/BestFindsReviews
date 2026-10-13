@@ -1,0 +1,7 @@
+- Choose rated capacity above user weight; check label, not listing.
+- Standard chairs often rated to about 300 lb; bariatric models higher.
+- Seat height range must match user height; chair topping out under 17 in fails tall users.
+- Seat should be wider than hip measurement; measure stall or tub first.
+- Small stalls suit compact or folding seats; walk-in showers fit arms and backs.
+- Non-slip feet and drainage holes matter. Tubs may need a transfer bench.
+- OT/PT can advise on fit.

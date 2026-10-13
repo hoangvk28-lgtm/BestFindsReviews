@@ -30,5 +30,5 @@ export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Adaptive Utensils for Parkinson’s in 2026", href: "/guide/best-adaptive-utensils-for-parkinsons" },
   { title: "6 Best Weighted Utensils for Essential Tremor in 2026", href: "/guide/best-weighted-utensils-for-essential-tremor" },
   { title: "6 Best Weighted Utensils for Hand Tremors in 2026", href: "/guide/best-weighted-utensils-for-hand-tremors" },
-  { title: "6 Best Adaptive Eating Utensils in 2026", href: "/guide/best-adaptive-eating-utensils" }
+  { title: "6 Best Weighted Utensils for Tremors in 2026", href: "/guide/best-weighted-utensils-for-tremors" }
 ];

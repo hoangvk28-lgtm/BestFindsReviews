@@ -58,7 +58,7 @@
    "name": "Letron Dual-Platform",
    "specs": ["33 lb main platform", "1.1 lb mini platform", "0.01 g mini accuracy", "Dual-line LCD"],
    "specList": [{"label": "Main platform", "value": "33 lb"}, {"label": "Mini platform", "value": "1.1 lb / 500 g, 0.01 g"}, {"label": "Display", "value": "Dual-line LCD"}, {"label": "Material", "value": "Stainless steel"}],
-   "description": "The Letron combines a large platform rated to 33 lb with a small side platform that reads to 0.01 g up to 1.1 lb. A dual-line LCD shows both at once and can add the two weights.\n\nPlatform dimensions are not given in the brief, so judge its main deck by the stated capacity and its stainless steel build. What sets it apart is the second surface, which lets you weigh a large bowl and a tiny seasoning without switching scales.\n\nIt costs counter space like the Atogou 110 lb Wide Deck but delivers finer control than the Nicewell 22 lb Glass at the low end. A mini platform reading to 0.01 g beats the 5 g minimum of the Atogou by a wide margin. Choose it if your cooking mixes big and tiny amounts.",
+   "description": "The Letron combines a large platform rated to 33 lb with a small side platform that reads to 0.01 g up to 1.1 lb. A dual-line LCD shows both at once and can add the two weights.\n\nPlatform dimensions are not given in the listing, so judge its main deck by the stated capacity and its stainless steel build. What sets it apart is the second surface, which lets you weigh a large bowl and a tiny seasoning without switching scales.\n\nIt costs counter space like the Atogou 110 lb Wide Deck but delivers finer control than the Nicewell 22 lb Glass at the low end. A mini platform reading to 0.01 g beats the 5 g minimum of the Atogou by a wide margin. Choose it if your cooking mixes big and tiny amounts.",
    "bestFor": "Cooks who weigh large batches and tiny seasonings together.",
    "pros": ["Mini platform reads to 0.01 g up to 500 g", "Dual-line LCD adds both weights together", "33 lb main platform handles big bowls", "Stainless steel construction wipes down easily"],
    "cons": ["Main platform dimensions are not stated here", "Two surfaces take more counter room", "More buttons than a single-platform scale"]
@@ -72,7 +72,7 @@
    "description": "The Deweywei offers 33 lb of capacity and two power sources: USB charging or two AAA batteries. An automatic unit button cycles through kilograms, grams, pounds and ounces, fluid ounces and milliliters.\n\nThe brief frames it as handling both your largest and smallest cooking projects. That makes it a general-purpose scale with a sensible capacity rather than a niche tool, and the two power routes mean it is rarely out of action.\n\nPlatform size is not listed, so the Diyife 33 lb 9 in, which states 9.05 by 6.29 inches, is the safer pick when surface matters. The Deweywei matches its capacity and adds power flexibility. It suits cooks who prize reliability over a measured platform spec.",
    "bestFor": "Cooks who want flexible power and a 33 lb ceiling.",
    "pros": ["Charges by USB or runs on two AAA batteries", "33 lb capacity matches the Diyife", "One button cycles through five units", "Tare removes the weight of any container"],
-   "cons": ["Platform dimensions are not given in the brief", "Fewer large-platform credentials than rivals", "No stated fine platform for small amounts"]
+   "cons": ["Platform dimensions are not given in the listing", "Fewer large-platform credentials than rivals", "No stated fine platform for small amounts"]
   }
  ],
  "buyingCriteria": [

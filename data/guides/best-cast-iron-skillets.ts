@@ -30,5 +30,5 @@ export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Enameled Cast Iron Skillets in 2026", href: "/guide/best-enameled-cast-iron-skillets" },
   { title: "6 Best Small Cast Iron Skillets in 2026", href: "/guide/best-small-cast-iron-skillets" },
   { title: "6 Best Lightweight Cast Iron Skillets in 2026", href: "/guide/best-lightweight-cast-iron-skillets" },
-  { title: "Best Induction Cooktops for Cast Iron (2026)", href: "/guide/best-induction-cooktops-for-cast-iron" }
+  { title: "6 Best Cast Iron Skillets With Lids in 2026", href: "/guide/best-cast-iron-skillets-with-lids" }
 ];

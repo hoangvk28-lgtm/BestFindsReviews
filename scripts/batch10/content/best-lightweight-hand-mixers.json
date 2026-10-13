@@ -70,7 +70,7 @@
      "value": "One-handed button"
     }
    ],
-   "description": "The KitchenAid Ultra Power is about control. Five speeds run from folding in nuts and chocolate chips at speed one up to whipping meringues at the top end. A lockable swivel cord lets you point the cord left or right so it stays out of the bowl path.\n\nAccessories release with a single-handed press of a button, which saves fiddling when you change beaters. The listing does not state a weight, so we cannot say how it compares on lightness, and the brief does not mention a storage case. Next to the lightest model it is likely a step up in build, but we cannot quantify that.\n\nCompared with the Proctor Silex it adds cord control and a one-hand release, at the cost of an unspecified weight. Compared with the Hamilton Beach QuickBurst it has fewer speeds but a cleaner cord setup. Choose it if cord position bothers you most.",
+   "description": "The KitchenAid Ultra Power is about control. Five speeds run from folding in nuts and chocolate chips at speed one up to whipping meringues at the top end. A lockable swivel cord lets you point the cord left or right so it stays out of the bowl path.\n\nAccessories release with a single-handed press of a button, which saves fiddling when you change beaters. The listing does not state a weight, so we cannot say how it compares on lightness, and the listing does not mention a storage case. Next to the lightest model it is likely a step up in build, but we cannot quantify that.\n\nCompared with the Proctor Silex it adds cord control and a one-hand release, at the cost of an unspecified weight. Compared with the Hamilton Beach QuickBurst it has fewer speeds but a cleaner cord setup. Choose it if cord position bothers you most.",
    "bestFor": "Cooks who want a swivel cord and an easy one-hand beater release.",
    "pros": [
     "Lockable swivel cord keeps the cord out of the bowl",
@@ -79,8 +79,8 @@
     "Top speed whips meringues to peaks"
    ],
    "cons": [
-    "Weight is not stated in the brief",
-    "No storage case is mentioned in the brief",
+    "Weight is not stated in the listing",
+    "No storage case is mentioned in the listing",
     "Only five speeds, fewer than some rivals"
    ]
   },
@@ -117,7 +117,7 @@
     "Beaters and whisk are dishwasher safe"
    ],
    "cons": [
-    "Weight is not stated in the brief",
+    "Weight is not stated in the listing",
     "Traditional beaters can clog on sticky mixes",
     "Fewer attachments than the Easy Clean set"
    ]
@@ -184,7 +184,7 @@
      "value": "2 stainless beaters"
     }
    ],
-   "description": "The Ovente is a basic five-speed mixer with 150 watts of motor power and two stainless steel beater attachments. A storage case holds the attachments, a feature that keeps the kit tidy. The listing says the shape is crafted for a comfortable grip and speed changes are simple.\n\nIts motor power is the lowest listed in this group, which fits light jobs such as pancake batter, eggs and whipped cream. It will not be the right choice for thick doughs. The brief gives no weight, so the lightness claim rests on its compact design rather than a number.\n\nCompared with the Showvigor at 180 watts it has less power but a more traditional layout. Compared with the KitchenAid it lacks a swivel cord. It makes sense for occasional baking when you want a case and a basic tool.",
+   "description": "The Ovente is a basic five-speed mixer with 150 watts of motor power and two stainless steel beater attachments. A storage case holds the attachments, a feature that keeps the kit tidy. The listing says the shape is crafted for a comfortable grip and speed changes are simple.\n\nIts motor power is the lowest listed in this group, which fits light jobs such as pancake batter, eggs and whipped cream. It will not be the right choice for thick doughs. The listing gives no weight, so the lightness claim rests on its compact design rather than a number.\n\nCompared with the Showvigor at 180 watts it has less power but a more traditional layout. Compared with the KitchenAid it lacks a swivel cord. It makes sense for occasional baking when you want a case and a basic tool.",
    "bestFor": "Occasional bakers who want a basic mixer with a storage case.",
    "pros": [
     "Five speeds from lowest to highest",
@@ -194,7 +194,7 @@
    ],
    "cons": [
     "Lowest motor power listed in this group",
-    "Weight is not stated in the brief",
+    "Weight is not stated in the listing",
     "No dough hooks or whisk in the box"
    ]
   },
@@ -222,7 +222,7 @@
      "value": "5 stainless steel"
     }
    ],
-   "description": "The Showvigor offers the widest speed range here, with seven speeds and a turbo boost button. It runs at 180 watts and comes with five stainless steel accessories. The listing describes a compact, lightweight design that is easy to carry and store.\n\nThe extra speeds give fine control, from slow folding to fast whipping, and the turbo boost adds a burst when a mix thickens. It is a good match for cooks who like to dial in precisely. No exact weight is given in the brief, so the lightness claim is a description rather than a measurement.\n\nCompared with the Ovente it adds two speeds, a turbo button and more power. Compared with the Hamilton Beach QuickBurst it offers more speed steps but no snap-on case is mentioned. It fits cooks who prefer more speed choices in a compact mixer.",
+   "description": "The Showvigor offers the widest speed range here, with seven speeds and a turbo boost button. It runs at 180 watts and comes with five stainless steel accessories. The listing describes a compact, lightweight design that is easy to carry and store.\n\nThe extra speeds give fine control, from slow folding to fast whipping, and the turbo boost adds a burst when a mix thickens. It is a good match for cooks who like to dial in precisely. No exact weight is given in the listing, so the lightness claim is a description rather than a measurement.\n\nCompared with the Ovente it adds two speeds, a turbo button and more power. Compared with the Hamilton Beach QuickBurst it offers more speed steps but no snap-on case is mentioned. It fits cooks who prefer more speed choices in a compact mixer.",
    "bestFor": "Cooks who like finer speed control and a turbo button in a compact body.",
    "pros": [
     "Seven speeds give fine mixing control",
@@ -231,8 +231,8 @@
     "Five stainless steel accessories included"
    ],
    "cons": [
-    "Weight is not stated in the brief",
-    "No storage case is mentioned in the brief",
+    "Weight is not stated in the listing",
+    "No storage case is mentioned in the listing",
     "More speeds mean a busier control dial"
    ]
   }
@@ -266,7 +266,7 @@
  "howWeEvaluated": [
   {
    "title": "Weight and handling",
-   "description": "We looked at the stated weight and described grip of each mixer. The Proctor Silex Easy Mix leads at 1.25 pounds, and the Showvigor and Ovente describe compact designs without numbers. Where the brief gives no weight, we say so rather than guess."
+   "description": "We looked at the stated weight and described grip of each mixer. The Proctor Silex Easy Mix leads at 1.25 pounds, and the Showvigor and Ovente describe compact designs without numbers. Where the listing gives no weight, we say so rather than guess."
   },
   {
    "title": "Speed control",

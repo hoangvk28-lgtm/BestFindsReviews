@@ -1,0 +1,7 @@
+- Foam: lightest, lowest cost, compresses over time; compressed foam can create pressure points.
+- Gel: foam base with gel layer; spreads load, runs cooler, heavier, slower to mould.
+- Air: most adjustable, needs inflation checks (daily), leak-prone; foam backup cushion is wise.
+- Foam/air hybrids balance stability and adjustability.
+- Thickness and contour depend on user weight and posture; contoured versions hold pelvis neutral.
+- Results vary by body and seating position; mapping several cushions with a qualified therapist is advised when pressure is the main concern.
+- Retailer blogs dominate sources; product claims need caution. Alternating pressure and formal clinical guidance not covered.

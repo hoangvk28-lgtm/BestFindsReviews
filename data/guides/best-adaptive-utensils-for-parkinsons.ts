@@ -29,5 +29,6 @@ export const faq = [{"q":"Do weighted utensils reduce tremor?","a":"Some listing
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Adaptive Eating Utensils in 2026", href: "/guide/best-adaptive-eating-utensils" },
   { title: "6 Best Adaptive Utensils for Adults in 2026", href: "/guide/best-adaptive-utensils-for-adults" },
-  { title: "6 Best Adaptive Utensil Cuffs in 2026", href: "/guide/best-adaptive-utensil-cuffs" }
+  { title: "6 Best Adaptive Utensils for Arthritis in 2026", href: "/guide/best-adaptive-utensils-for-arthritis" },
+  { title: "6 Best Adaptive Utensils for Dementia in 2026", href: "/guide/best-adaptive-utensils-for-dementia" }
 ];

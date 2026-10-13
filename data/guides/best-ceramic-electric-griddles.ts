@@ -30,5 +30,5 @@ export const relatedGuides: { title: string; href: string }[] = [
   { title: "5 Best Cool-Touch Electric Griddles in 2026", href: "/guide/best-cool-touch-electric-griddles" },
   { title: "6 Best Extra-Large Electric Griddles in 2026", href: "/guide/best-extra-large-electric-griddles" },
   { title: "6 Best Small Electric Griddles in 2026", href: "/guide/best-small-electric-griddles" },
-  { title: "Best Electric Percolators", href: "/guide/best-electric-percolators" }
+  { title: "6 Best Easy-Clean Electric Griddles in 2026", href: "/guide/best-easy-clean-electric-griddles" }
 ];

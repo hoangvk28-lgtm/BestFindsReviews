@@ -29,6 +29,6 @@ export const faq = [{"q":"Which safety mandoline should I choose first?","a":"St
 export const relatedGuides: { title: string; href: string }[] = [
   { title: "6 Best Mandoline Slicers With Hand Guards in 2026", href: "/guide/best-mandoline-slicers-with-hand-guards" },
   { title: "6 Best Easy-to-Use Mandoline Slicers in 2026", href: "/guide/best-easy-to-use-mandoline-slicers" },
-  { title: "Best Drinking-Water-Safe Garden Hoses (2026)", href: "/guide/best-drinking-water-safe-garden-hoses" },
-  { title: "Best Electric Pruning Shears With Safety Locks (2026)", href: "/guide/best-electric-pruning-shears-with-safety-locks" }
+  { title: "6 Best Mandoline Slicers With Containers in 2026", href: "/guide/best-mandoline-slicers-with-containers" },
+  { title: "6 Best Julienne Mandoline Slicers in 2026", href: "/guide/best-julienne-mandoline-slicers" }
 ];

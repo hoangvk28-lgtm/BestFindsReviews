@@ -1,0 +1,4 @@
+- Key criteria: height range (30-46 in typical; at least 40 in span suggested), base shape (H, C, U), footprint, bed clearance about 5 in
+- Look for at least two locking casters; casters 1.5 in or taller roll better on carpet; hardwood can drag
+- Tilt adds moving parts; split or double tilt keeps one section flat; some tilt one side only; do not tilt too far or items slide
+- Reach of 30 in or more over the bed; check weight capacity and storage when not in use

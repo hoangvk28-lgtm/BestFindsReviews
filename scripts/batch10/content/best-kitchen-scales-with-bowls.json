@@ -40,7 +40,7 @@
    "description": "The THINKSCALE has the most thoughtful bowl in this group. It is a non-stick removable bowl with a pouring spout and a graduated scale on the side. Residue wipes off quickly, and the spout makes pouring batter or liquids cleaner.\n\nThe scale reads in 1 g or 0.1 oz steps up to 11 lb, with a backlit LCD that is easy to read in a dim kitchen. Multiple sensors are credited with refined accuracy. A tare button zeroes out the bowl weight so you see the net amount of the ingredient.\n\nA built-in calibration function is a rare extra and helps keep readings honest over time. The tradeoff is that the bowl is plastic, so it is not the right vessel for hot pans or hard use. Next to the Weighmax 2810-2KG Electronic Kitchen Scale, it adds a spout and calibration, while the FOLIND Digital Kitchen Scale, 2.5L Bowl offers a larger bowl and a timer.",
    "bestFor": "Cooks who pour liquids and batters often and want a spout plus the option to recalibrate.",
    "pros": ["Pouring spout with a graduated scale", "Non-stick bowl wipes clean in seconds", "Backlit LCD reads clearly in dim light", "Built-in calibration function included"],
-   "cons": ["Plastic bowl is not for hot pans", "Bowl size is not listed in the brief", "Stated 1 g step limits tiny measurements"]
+   "cons": ["Plastic bowl is not for hot pans", "Bowl size is not listed in the listing", "Stated 1 g step limits tiny measurements"]
   },
   {
    "i": 4,
@@ -87,10 +87,10 @@
     {"label": "Display", "value": "Blue backlit LCD"},
     {"label": "Use", "value": "Fruits, vegetables, flour, sugar"}
    ],
-   "description": "The Weighmax is a straightforward electronic scale with a removable transparent bowl. The clear bowl lets you see the food level from the side, which helps when you are adding ingredients by sight as well as weight. A blue backlit LCD shows readings clearly.\n\nIt is marketed for fruits, vegetables, flour and sugar, so it sits in the everyday category rather than the precision baking category. The model name references 2KG, but the brief gives no further capacity or increment detail, so check the listing before assuming a figure. That limited spec sheet is the main reason it ranks lower than the Etekcity.\n\nIts simplicity is a plus for people who dislike menus and want to just weigh and pour. There is no timer or sensor to confuse things. Compared with the FOLIND Digital Kitchen Scale, 2.5L Bowl, it offers fewer extras, and compared with the GRAM PRES it has a lighter plastic bowl.",
+   "description": "The Weighmax is a straightforward electronic scale with a removable transparent bowl. The clear bowl lets you see the food level from the side, which helps when you are adding ingredients by sight as well as weight. A blue backlit LCD shows readings clearly.\n\nIt is marketed for fruits, vegetables, flour and sugar, so it sits in the everyday category rather than the precision baking category. The model name references 2KG, but the listing gives no further capacity or increment detail, so check the listing before assuming a figure. That limited spec sheet is the main reason it ranks lower than the Etekcity.\n\nIts simplicity is a plus for people who dislike menus and want to just weigh and pour. There is no timer or sensor to confuse things. Compared with the FOLIND Digital Kitchen Scale, 2.5L Bowl, it offers fewer extras, and compared with the GRAM PRES it has a lighter plastic bowl.",
    "bestFor": "Casual cooks who want a plain scale with a see-through bowl and little to learn.",
    "pros": ["Transparent bowl shows the food level", "Blue backlit LCD is easy to read", "Simple layout with few extras to learn", "Removable bowl pours and washes easily"],
-   "cons": ["Brief gives little capacity detail", "No timer or temperature extras", "Plastic bowl is lightweight for heavy mixing"]
+   "cons": ["Listing gives little capacity detail", "No timer or temperature extras", "Plastic bowl is lightweight for heavy mixing"]
   },
   {
    "i": 2,
@@ -120,7 +120,7 @@
  ],
  "howWeEvaluated": [
   {"title": "Bowl usefulness", "description": "We judged how large each bowl is, what it is made of, and how it detaches. The FOLIND offers the largest listed volume at 2.5 liters, and the GRAM PRES offers a 21 cm steel bowl. The Etekcity 0.1g model scored for its flip-up storage."},
-  {"title": "Weighing range and steps", "description": "We compared stated capacity and increments. The FOLIND leads at 12 lb or 5.5 kg, while the Etekcity and THINKSCALE models top out at 11 lb with 1 g or 0.1 oz steps. The Weighmax was scored cautiously because the brief lists no further numbers."},
+  {"title": "Weighing range and steps", "description": "We compared stated capacity and increments. The FOLIND leads at 12 lb or 5.5 kg, while the Etekcity and THINKSCALE models top out at 11 lb with 1 g or 0.1 oz steps. The Weighmax was scored cautiously because the listing lists no further numbers."},
   {"title": "Ease of use", "description": "We looked at tare, unit conversion and display clarity. The Etekcity Kitchen Scale with Bowl, 11lb/5kg offers tare and auto-zero, and the THINKSCALE adds calibration. Simpler layouts, like the Weighmax, earned credit for approachability."},
   {"title": "Cleanup and storage", "description": "We considered how easily the bowl wipes clean and how much cabinet space it needs. The THINKSCALE bowl is non-stick, and the Etekcity 0.1g bowl flips flat. A steel bowl on the GRAM PRES is durable but bulkier."},
   {"title": "Extra features", "description": "We weighed extras such as timers and volume modes. The FOLIND adds an alarm timer and ambient temperature sensor, and the Etekcity pair add milk and water modes. Extras were treated as a bonus, never a reason to forgive weak basics."}
