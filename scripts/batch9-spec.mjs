@@ -19,7 +19,7 @@ const clip = (s, n) => (s && s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "")
 
 if (cmd === "brief") {
   const prior = new Map();
-  for (const f of readdirSync(resolve(ROOT, "data/guides"))) { const t = readFileSync(resolve(ROOT, "data/guides", f), "utf-8"); for (const m of t.matchAll(/dp\/([A-Z0-9]{10})[^\n]*?specs: \[([^\]]*)\]/g)) if (!prior.has(m[1]) && m[2].length > 10) { const line = t.slice(m.index, t.indexOf("\n", m.index)); const pc = (k) => ((line.match(new RegExp(k + ": \\[([^\\]]*)\\]")) || [])[1] || "").replace(/"/g, "").slice(0, 300); prior.set(m[1], m[2].replace(/"/g, "").slice(0, 200) + (pc("pros") ? " | prior pros: " + pc("pros") : "") + (pc("cons") ? " | prior cons: " + pc("cons") : "")); } }
+  for (const f of readdirSync(resolve(ROOT, "data/guides"))) { const t = readFileSync(resolve(ROOT, "data/guides", f), "utf-8"); for (const m of t.matchAll(/dp\/([A-Z0-9]{10})[^\n]*?specs: \[([^\]]*)\]/g)) if (!prior.has(m[1]) && m[2].length > 10) { const line = t.slice(m.index, t.indexOf("\n", m.index)); const pc = (k) => ((line.match(new RegExp(k + ": \\[([^\\]]*)\\]")) || [])[1] || "").replace(/"/g, "").slice(0, 300); prior.set(m[1], m[2].replace(/"/g, "").slice(0, 200) + (pc("pros") ? " | prior pros: " + pc("pros") : "") + (pc("cons") ? " | prior cons: " + pc("cons") : "") + (process.env.PRIOR_DESC ? ((d) => d ? " | prior overview: " + d.slice(0, 600) : "")(((line.match(/description: "((?:[^"\\]|\\.)*)"/) || [])[1] || "").split("\\n\\n")[0]) : "")); } }
   mkdirSync(resolve(B, "briefs"), { recursive: true });
   let md = "";
   for (const a of range) {
@@ -46,7 +46,11 @@ if (cmd === "build") {
   const titles = Object.fromEntries([...registry.matchAll(/title: "([^"]+)",\s*\n\s*slug: "([^"]+)"/g)].map((m) => [m[2], m[1]]));
   const built = [], errs = [];
   const paraSeen = new Map();
-  for (const f of readdirSync(resolve(B, "content"))) { try { const o = JSON.parse(readFileSync(resolve(B, "content", f), "utf-8")); if (!o.skip && !range.some((r) => r.slug + ".json" === f)) for (const p of o.products) for (const para of p.description.split(/\n\n/)) paraSeen.set(para, f); } catch {} }
+  // Compare against every batch's content, not just the current one, so text copied from older guides is caught too
+  for (const dir of readdirSync(resolve(ROOT, "scripts")).filter((d) => /^batch\d+$/.test(d) && existsSync(resolve(ROOT, "scripts", d, "content")))) {
+    const cdir = resolve(ROOT, "scripts", dir, "content");
+    for (const f of readdirSync(cdir)) { try { const o = JSON.parse(readFileSync(resolve(cdir, f), "utf-8")); if (!o.skip && !(resolve(cdir) === resolve(B, "content") && range.some((r) => r.slug + ".json" === f))) for (const p of o.products) for (const para of p.description.split(/\n\n/)) paraSeen.set(para, dir + "/" + f); } catch {} }
+  }
   mkdirSync(resolve(B, "specs"), { recursive: true });
   for (const a of range) {
     const cf = resolve(B, "content", `${a.slug}.json`);

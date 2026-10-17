@@ -1,0 +1,215 @@
+{
+ "guideTitle": "6 Best Motion Sensor Lights Under $30 in 2026",
+ "metaTitle": "Best Motion Sensor Lights Under $30 (2026)",
+ "metaDescription": "Six motion sensor lights under $30, from no-neutral wall switches to a waterproof outdoor light and a rechargeable cabinet pair, with wiring notes.",
+ "introParagraphs": [
+  "Near the top of this budget range, motion sensor shopping changes character. Instead of tiny stick-on night lights, you start to see proper wall switches with wattage ratings, wiring options and sensing coverage measured in square feet. That makes the choice less about brightness and more about whether the product fits the wallbox, the bulbs and the room you have.",
+  "Our six picks lean toward installation-grade hardware: four wall switches that each solve a slightly different wiring problem, a rechargeable pair of cabinet bars and a waterproof battery light for a gate or patio post. We evaluated them from listing specs and buyer feedback, paying close attention to amp ratings, bulb compatibility, neutral-wire needs and how forgiving each product is for a first-time installer.",
+  "If you already read a guide at a lower cap, expect fewer gadgets here and more hardware you will leave in place for years. The right pick depends mostly on what is behind your existing switch plate."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall Switch",
+   "name": "Leviton Motion Sensor Light Switch, 5A",
+   "specs": ["No neutral wire required", "300W LED/CFL load", "600W incandescent load", "180 degree, 900 sq ft view", "Shallow wallbox design"],
+   "specList": [
+    {"label": "Amp rating", "value": "5A"},
+    {"label": "LED/CFL load", "value": "300W"},
+    {"label": "Incandescent load", "value": "600W"},
+    {"label": "Coverage", "value": "180 degrees, 900 sq ft"},
+    {"label": "Neutral wire", "value": "Not required"}
+   ],
+   "description": "The Leviton is the one switch here that is explicitly designed to work without a neutral wire, which is the problem that blocks many older homes from adding a motion switch at all. It handles 300W of LED or CFL and 600W of incandescent or halogen, so a vanity bar with several bulbs is no trouble. A 180 degree view over about 900 sq ft covers a typical bedroom, bathroom or office from the door.\n\nYou can set it to turn lights on automatically or require a manual press first, which is a useful choice in bedrooms. A shallow body helps it fit crowded wallboxes. The tradeoff is that a ground wire is still required, so a very old box with no ground needs an electrician, and the listing mentions no dimming or fan control. For a single-bulb closet it is overkill.\n\nIn practice it is the most flexible, lowest-risk switch of the group, because it removes the neutral-wire question. Compared with the Lutron at 2 amps, the Leviton at 5 amps carries far more load, and compared with the Maxxima it asks for less wiring knowledge. Spend your time checking the ground wire, not the settings.",
+   "bestFor": "Older homes where the wallbox has no neutral wire.",
+   "pros": ["No neutral wire is needed for installation", "300W LED/CFL capacity handles several bulbs", "Choose auto-on or manual-on per room", "Shallow body fits crowded wallboxes"],
+   "cons": ["A ground wire is still required in the box", "No dimming or fan control is listed", "More switch than a one-bulb closet needs"]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Small Loads",
+   "name": "Lutron Motion Sensor Light Switch, 2A",
+   "specs": ["2 amp single pole", "Works with any bulb", "XCT fine-motion sensing", "Auto-on and auto-off", "Bathroom and closet use"],
+   "specList": [
+    {"label": "Amp rating", "value": "2A"},
+    {"label": "Circuit", "value": "Single pole only"},
+    {"label": "Bulb types", "value": "Any bulb"},
+    {"label": "Sensing", "value": "XCT technology"},
+    {"label": "Typical rooms", "value": "Bathroom, laundry, closet"}
+   ],
+   "description": "Lutron built this switch around its XCT technology, which watches for small movements such as typing or turning pages instead of waiting for you to wave your arms. That makes it the best fit for rooms where you sit still, because the light is far less likely to switch off while you read in the tub or fold laundry. It works with any bulb, from old incandescent to modern LED, and the install is a straightforward single pole swap.\n\nThe weakness is its modest 2 amp rating, so it suits light loads such as a closet bulb or a small vanity, not big fixtures or fans. It is also single pole only, so a hallway with switches at both ends needs a different product. Within those limits it is a polished, low-fuss switch, and it avoids the nuisance of lights going dark on a seated person.\n\nDaily ownership is mostly invisible, which is the aim. Against the Leviton at 5 amps, it sacrifices capacity for fine-motion sensing, and against the AH Lighting at 120/277VAC it keeps the wiring simple. If you only need one small fixture handled well, this is the cleaner option.",
+   "bestFor": "Bathrooms, laundry rooms and closets where people often sit still.",
+   "pros": ["XCT sensing catches small movements like typing", "Works with any bulb from incandescent to LED", "Straightforward single pole replacement", "Auto-on and auto-off with no daily effort"],
+   "cons": ["2 amp rating limits it to light loads", "Single pole only, no two-switch circuits", "Not meant for heavy fixtures or fans"]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Hallways",
+   "name": "AH Lighting 3-Way Motion Sensor Light Switch",
+   "specs": ["Single pole or 3-way", "Occupancy and vacancy modes", "120/277VAC, 60Hz", "Adjustable time delay", "Manual or automatic switching"],
+   "specList": [
+    {"label": "Circuits", "value": "Single pole or 3-way"},
+    {"label": "Voltage", "value": "120/277VAC"},
+    {"label": "Frequency", "value": "60Hz"},
+    {"label": "Modes", "value": "Occupancy and vacancy"},
+    {"label": "3-way wiring", "value": "Five wires connected"}
+   ],
+   "description": "The AH Lighting switch earns its place by supporting both single pole and 3-way circuits, which means it can replace one of two switches on a long hallway or a staircase. It is rated for 120 and 277 volts, so it also fits in some garages and small commercial spaces. Occupancy mode turns the light on and off for you, and vacancy mode requires a manual press to start, so one unit covers two room behaviours.\n\nThe sticking point is wiring. If you want 3-way function, all five wires must be connected correctly, and the listing warns buyers not to do that for a simple single pole job, so mistakes are easy to make and hard to diagnose. The listing also gives no time-delay range, which is a missing spec for something you set by feel.\n\nExpect a short learning curve at install and then almost no maintenance. Compared with the Lutron, which is single pole only, this is the one for circuits with a second switch, and compared with the Maxxima it gives the same 3-way flexibility with a voltage rating that goes higher. If you are not comfortable matching five wires, hand it to an electrician.",
+   "bestFor": "Hallways and stairs with switches at both ends.",
+   "pros": ["Works as a single pole or a 3-way switch", "Rated for both 120 and 277 volts", "Occupancy and vacancy behaviour in one unit", "Adjustable time delay fits different rooms"],
+   "cons": ["Five-wire connection is easy to get wrong", "Listing gives no time-delay range"]
+  },
+  {
+   "i": 3,
+   "badge": "Most Adjustable Switch",
+   "name": "Maxxima PIR Motion Sensor Wall Switch",
+   "specs": ["3-way or single pole", "180 degree PIR sensor", "1 to 30 minute delay", "Adjustable sensitivity and light level", "Green LED backlight"],
+   "specList": [
+    {"label": "Circuits", "value": "Single pole or 3-way"},
+    {"label": "View", "value": "180 degrees"},
+    {"label": "Time delay", "value": "1 to 30 minutes"},
+    {"label": "Settings", "value": "Sensitivity, light level"},
+    {"label": "Extras", "value": "Wall plate, wire nuts"}
+   ],
+   "description": "Maxxima gives you the most dials for the money: a time delay from 1 to 30 minutes, adjustable sensitivity and an ambient light threshold so the sensor ignores a sunny room. Dual operation lets you pick fully automatic or manual-on with automatic-off, and it fits single pole or 3-way circuits. A green LED backlight marks the switch location at night, and a plate and wire nuts come with it.\n\nThose controls let you fix problems other switches cannot, such as a light that clicks off while you sit at a desk or one that fires every time sunlight moves. The price is setup time, because the interacting settings need a few trial runs, and the listing leaves the neutral-wire question unanswered.\n\nOnce tuned, the Maxxima is a set-and-forget fixture. At 3-way capability with a wider delay range than the AH Lighting, it suits owners who like to tweak. If you prefer a no-fuss install with no neutral risk, the Leviton wins; if you want control, this is the one.",
+   "bestFor": "Owners who like to fine-tune delay, sensitivity and ambient light.",
+   "pros": ["Delay runs 1 to 30 minutes with light-level control", "Fits single pole and 3-way circuits", "Green LED backlight finds the switch in the dark", "Plate and wire nuts come in the package"],
+   "cons": ["Many settings take trial and error to tune", "Neutral wire need is not stated on the listing"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Rechargeable Pair",
+   "name": "MCGOR 10 Inch Rechargeable Motion Under Cabinet Lights",
+   "specs": ["10 inch bar, 2 pack", "40 energy-saving LEDs", "5 dimmable levels", "Magnetic mount", "Rechargeable with always-on mode"],
+   "specList": [
+    {"label": "Length", "value": "10 inches"},
+    {"label": "Pack size", "value": "2 bars"},
+    {"label": "LEDs", "value": "40 per bar"},
+    {"label": "Dimming", "value": "5 levels"},
+    {"label": "Mounting", "value": "Magnetic"}
+   ],
+   "description": "MCGOR packs 40 LEDs behind a frosted, non-glare cover into each of the two 10 inch bars, which hides the individual diodes and keeps the glow even. Five dimming levels cover everything from a soft pantry night light to a brighter counter. A magnetic mount lets you pop the bar off to recharge or move it, and the always-on mode overrides the sensor when you want steady light for chopping or reading.\n\nThe rechargeable battery is the clearest advantage here, because there are no AAA cells to buy and the bars feel modern and tidy. The cost is a cable every so often, and a pair covers only a modest stretch of cabinet, so a long kitchen run wants more than one pack.\n\nTo own, you rotate the bars through a charger, perhaps once a few weeks depending on use. Against the ProGreen at 100 lumens on AAA cells, the MCGOR is dimmable and indoor-only, and against the wired switches it needs no electrician. For a renter who cannot rewire anything, this is the cleaner answer.",
+   "bestFor": "Renters and kitchens that need removable, rechargeable cabinet lighting.",
+   "pros": ["Five dimming levels cover pantry and counter use", "Always-on mode overrides the sensor on demand", "Magnetic mount makes repositioning quick", "Frosted cover hides LEDs and cuts glare"],
+   "cons": ["Rechargeable, so it needs a cable now and then", "Only two bars in the pack for a larger kitchen"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Outdoor Battery Light",
+   "name": "ProGreen 6000K Waterproof Battery Motion Sensor Light",
+   "specs": ["9 LEDs, 100 lumens", "6000K cool white", "Waterproof housing", "3 AAA batteries", "Auto-off after 30 seconds"],
+   "specList": [
+    {"label": "Output", "value": "100 lumens"},
+    {"label": "Color", "value": "6000K cool white"},
+    {"label": "LEDs", "value": "9"},
+    {"label": "Power", "value": "3 AAA, not included"},
+    {"label": "Rating", "value": "Waterproof"}
+   ],
+   "description": "ProGreen is the only outdoor-rated pick here: nine LEDs make up to 100 lumens of cool 6000K light, and the housing is waterproof, so it belongs on a gate, fence post or shed wall. It runs on three AAA batteries, which means no wiring or outlet, and it offers two modes. In auto mode it lights when it detects motion in the dark and goes off 30 seconds after the movement stops.\n\nThe 100 lumens is enough for a keyhole or a step, but it will not flood a driveway, and the cool white tone suits security more than ambience. Batteries are not in the box, so the real first cost includes the cells. The lack of wiring is the plus; the tradeoff is that you will climb a ladder to swap cells on a high mount.\n\nUnlike the indoor-only options, it survives rain, and unlike the wired switches it works at any spot. Compared with the MCGOR at five dimming levels, the ProGreen offers one fixed level but more raw light. Place it where you walk across the beam instead of straight at it, and the sensor will respond more quickly.",
+   "bestFor": "Gates, patio posts and sheds where no wiring is available.",
+   "pros": ["Waterproof build suits gates and patio posts", "100 lumens is brighter than the indoor battery lights", "Needs no wiring or outlet to install", "Auto mode shuts off after 30 seconds"],
+   "cons": ["Batteries are not included in the box", "100 lumens covers only a small area", "Cool 6000K light can feel harsh"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Neutral wire and ground", "explanation": "Most motion switches need a neutral wire in the box, and many older homes do not have one. The Leviton is the only switch here built to work without one, though it still requires a ground wire. The Maxxima and AH Lighting listings say nothing about neutral requirements, so check the wires behind your plate before buying. If you see only a hot and a switched wire, favour the Leviton."},
+  {"criterion": "Load rating and bulb type", "explanation": "A switch must carry the total wattage of the bulbs it controls. The Leviton handles 300W of LED or CFL and 600W of incandescent, while the Lutron is limited to 2 amps, which suits a single bulb or a small vanity. LED loads can flicker on some switches if the wattage is very low, so a one-bulb closet is easier with the Lutron than the Leviton. Add up your bulb wattage and leave a margin."},
+  {"criterion": "Single pole versus 3-way", "explanation": "A circuit with switches at both ends of a hall is 3-way, and a plain switch cannot control it. The AH Lighting and Maxxima both work as single pole or 3-way, but the AH Lighting needs five wires connected for 3-way use. The Lutron and Leviton are single pole in this lineup. Identify your circuit type by counting the switches that control the same fixture."},
+  {"criterion": "Sensing style for still rooms", "explanation": "Standard PIR sensing can turn lights off on someone sitting at a desk or soaking in a tub. The Lutron uses XCT sensing aimed at small movements, and the Maxxima lets you extend the delay to 30 minutes and adjust sensitivity. In bathrooms or home offices, favour one of those over a fixed timer. A 180 degree view like the Leviton's over 900 sq ft helps in larger rooms."},
+  {"criterion": "Battery and weather needs", "explanation": "Outdoor lights need a waterproof housing, and indoor ones rarely have it. The ProGreen is waterproof and runs on three AAA batteries that are not included. The MCGOR bars recharge, which saves buying cells but means an occasional cable. For a hard-to-reach outdoor spot, remember that every battery change is a ladder trip."},
+  {"criterion": "Automatic versus manual-on", "explanation": "Occupancy mode turns the light on for you, and vacancy mode makes you press a button to start. Vacancy saves energy and avoids bright surprises in a bedroom, which is why the Leviton, Maxxima and AH Lighting offer both. Choose automatic for hallways and laundry rooms where hands are full. Pick manual-on for bedrooms and nurseries."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Wiring flexibility", "description": "We checked which switches support single pole, 3-way and no-neutral installs. The Leviton leads on neutral flexibility, the AH Lighting and Maxxima lead on 3-way, and the Lutron stays single pole. Fewer wiring restrictions lifted the score."},
+  {"title": "Load capacity", "description": "We compared stated amp and wattage ratings, such as the Leviton at 5A with 300W LED and the Lutron at 2A. Higher capacity scored better for multi-bulb rooms. Small loads were not penalised when the switch suits a closet."},
+  {"title": "Sensing behaviour", "description": "We read the sensing claims, including the Lutron's XCT detection and the Leviton's 180 degree, 900 sq ft view. Sensors that cope with sitting still earned extra credit. Fixed timers with no adjustment were marked down."},
+  {"title": "Installer friendliness", "description": "We judged how easy the install is for a first-time owner. Included hardware such as the Maxxima's plate and wire nuts helped, and the five-wire AH Lighting hook-up lowered its score. Clear listing detail mattered as much as features."},
+  {"title": "Value near the cap", "description": "We asked what each product offers over cheaper ones. The wired switches add whole-room control, the MCGOR adds rechargeable dimmable light and the ProGreen adds weatherproofing. Picks that bought something real scored higher."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Wiring Situation",
+   "intro": "What you find behind the switch plate settles most of this decision.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["No neutral wire in the box", "Leviton Motion Sensor Light Switch, 5A", "Built to install without a neutral"],
+     ["Switches at both ends of a hall", "AH Lighting 3-Way Motion Sensor Light Switch", "Handles 3-way circuits when all five wires are connected"],
+     ["Single bulb in a closet or small bath", "Lutron Motion Sensor Light Switch, 2A", "Any bulb type and XCT sensing"],
+     ["Want to tune delay and sensitivity", "Maxxima PIR Motion Sensor Wall Switch", "1 to 30 minute delay and ambient light control"],
+     ["No wiring possible at all", "MCGOR 10 Inch Rechargeable Motion Under Cabinet Lights", "Magnetic bars charge and mount without tools"]
+    ]
+   },
+   "note": "Switch off the breaker and photograph the existing wires before you remove anything."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "The tiers inside this cap track how much hardware and flexibility you buy.",
+   "table": {
+    "headers": ["Tier within the cap", "Pick", "What you get"],
+    "rows": [
+     ["Lower end", "Lutron Motion Sensor Light Switch, 2A", "A simple single pole switch for a small load"],
+     ["Lower end", "ProGreen 6000K Waterproof Battery Motion Sensor Light", "One outdoor light with 100 lumens and no wiring"],
+     ["Middle", "Maxxima PIR Motion Sensor Wall Switch", "Many adjustments plus 3-way support"],
+     ["Middle", "AH Lighting 3-Way Motion Sensor Light Switch", "Dual voltage and occupancy or vacancy modes"],
+     ["Near the cap", "Leviton Motion Sensor Light Switch, 5A", "No-neutral install with 300W LED capacity"],
+     ["Near the cap", "MCGOR 10 Inch Rechargeable Motion Under Cabinet Lights", "Two rechargeable dimmable bars"]
+    ]
+   }
+  },
+  {
+   "subheading": "Wall Switch vs Plug-Free Light",
+   "intro": "Both can end up in the same kitchen, but they solve different problems.",
+   "cards": [
+    {"label": "Wall switch", "text": "A sensor swaps into the existing switch and controls whatever the fixture holds. The Leviton, Lutron, AH Lighting and Maxxima fit here. You gain whole-room control with ordinary bulbs and no batteries, but you accept a wiring job. Pick a switch for rooms you use every day."},
+    {"label": "Self-contained light", "text": "A sensor and LEDs sit in a bar or box that needs no wiring. The MCGOR and ProGreen are the examples. They suit renters, outdoor posts and cabinets, and they trade whole-room light for a small pool. Pick one when walls are off limits or an outlet is missing."}
+   ],
+   "note": "Many homes end up with both: switches for rooms and bars for cabinets."
+  },
+  {
+   "subheading": "By Room Type",
+   "intro": "Rooms differ in how still you sit and how many bulbs you run.",
+   "table": {
+    "headers": ["Room", "Pick", "Reason"],
+    "rows": [
+     ["Bathroom with tub", "Lutron Motion Sensor Light Switch, 2A", "XCT detects small movements so lights stay on"],
+     ["Large bedroom", "Leviton Motion Sensor Light Switch, 5A", "180 degree, 900 sq ft view and manual-on option"],
+     ["Staircase or long hall", "AH Lighting 3-Way Motion Sensor Light Switch", "Replaces one switch of a 3-way pair"],
+     ["Home office", "Maxxima PIR Motion Sensor Wall Switch", "Delay up to 30 minutes and sensitivity control"],
+     ["Pantry or kitchen cabinet", "MCGOR 10 Inch Rechargeable Motion Under Cabinet Lights", "Five dimming levels and always-on mode"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Garages and Porches Specifically",
+   "intro": "Outdoor and unheated spaces add weather and voltage questions.",
+   "cards": [
+    {"label": "Look for", "text": "For a porch or gate, look for a waterproof housing, a mounting height that lets you reach it for battery changes and a sensor angle that crosses your walking path. For a garage, check the voltage rating and the bulb type, since cold weather affects some LED drivers."},
+    {"label": "In this comparison", "text": "The ProGreen 6000K is the weatherproof battery choice at 100 lumens. The AH Lighting at 120/277VAC is the pick for a garage circuit that runs at higher voltage. Neither the MCGOR nor the Lutron lists weather protection, so keep those indoors."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Higher tiers are about control and integration, not basic sensing.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want to dim bulbs or control a fan, which the Leviton listing does not mention", "A plain on and off at 300W LED capacity is enough"],
+     ["You need app scheduling or smart-home control that these switches lack", "The 1 to 30 minute delay on the Maxxima already suits your routine"],
+     ["You want brighter outdoor floodlighting than the ProGreen's 100 lumens", "You only need a step or gate lit"],
+     ["You want a larger rechargeable set than the MCGOR's two bars", "A pantry or one cabinet run needs just two bars"]
+    ]
+   },
+   "note": "Spending more rarely improves the sensor itself; it buys control options and larger loads."
+  }
+ ],
+ "faq": [
+  {"q": "Do I need a neutral wire for a motion sensor switch?", "a": "Most need one, but the Leviton is designed to work without it. A ground wire is still required. Open the wallbox with the breaker off and look for a bundle of white wires; if there is none, choose the Leviton."},
+  {"q": "Which switch is best for a bathroom?", "a": "The Lutron is the best match because its XCT sensing picks up small movements, so the light stays on while you soak or read. Its 2 amp rating suits a normal vanity but not a big fixture with many bulbs. If you run more than 2 amps of lighting, pick the Leviton instead."},
+  {"q": "Can I use these switches with LED bulbs?", "a": "Yes, all of the wired options work with LEDs, with the Leviton rated for 300W of LED or CFL and the Lutron saying it works with any bulb. Very low-wattage LED loads can cause slight flicker on some switches. If that happens, add a second bulb to raise the load."},
+  {"q": "What does 3-way mean and which pick supports it?", "a": "A 3-way circuit has two switches that control one light, like both ends of a hallway. The AH Lighting and Maxxima both work in that setup. Count the wires and follow the listing guide, because five wires must be correct for the AH Lighting."},
+  {"q": "Will a motion switch turn off while I am sitting still?", "a": "A basic PIR sensor can, but the Lutron's XCT sensing is made to avoid it. The Maxxima lets you lengthen the delay to 30 minutes. If a light keeps shutting off, raise the sensitivity or extend the timer."},
+  {"q": "Is the ProGreen safe to leave outside all year?", "a": "It is listed as waterproof, so rain is no concern, but batteries drain faster in cold weather. Plan to swap the three AAA cells earlier in winter. Check the mounting after storms to make sure it still faces your path."},
+  {"q": "Are rechargeable bars better than battery ones?", "a": "They are if you dislike changing cells. The MCGOR recharges over a cable and offers five dimming levels, but a pair covers less ground than a larger set. Battery bars let you swap in fresh cells instantly, so choose by how you prefer to maintain things."}
+ ]
+}

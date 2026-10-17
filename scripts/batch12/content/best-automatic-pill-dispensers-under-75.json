@@ -1,0 +1,212 @@
+{
+ "guideTitle": "6 Best Automatic Pill Dispensers Under $75 in 2026",
+ "metaTitle": "Best Automatic Pill Dispensers Under $75",
+ "metaDescription": "Six no-app automatic pill dispensers compared on locking, alarm count, setup buttons and capacity, with tradeoffs of staying at the lowest budget tier.",
+ "introParagraphs": [
+  "At the lowest budget tier, an automatic pill dispenser is a simple machine: a carousel of compartments, a clock, an alarm and sometimes a lock. You will not find voice assistants, fingerprint readers or remote dashboards here, and for many households that is a feature rather than a limit. Fewer functions mean fewer menus to learn and fewer things to break, which suits someone who wants a steady daily nudge rather than a connected gadget.",
+  "We evaluated product specs and buyer feedback and did not claim hands-on testing. Every pick in this guide works without a phone app, which keeps setup within reach of anyone comfortable with a few buttons. The lineup runs from the Generic 28-day unit with a three-button setup and room for up to 672 tablets to the Fosoubb with up to nine daily alarms and a front key lock.",
+  "A dispenser supports a routine and does not replace clinical oversight. Confirm the schedule with a pharmacist or doctor, and ask who will be loading the tray, because that task is harder than most buyers expect."
+ ],
+ "products": [
+  {
+   "i": 3,
+   "badge": "Best Overall",
+   "name": "Generic 28-Day Pill Dispenser With Timed Alarms",
+   "specs": ["28-day supply", "Up to 672 tablets", "3-button setup", "Large LCD", "Slide-open dosing"],
+   "specList": [
+    {"label": "Capacity", "value": "Up to 672 tablets"},
+    {"label": "Supply", "value": "28 days"},
+    {"label": "Setup", "value": "3 buttons, no app or Wi-Fi"},
+    {"label": "Display", "value": "Large LCD"},
+    {"label": "Retrieval", "value": "One-step slide-open"}
+   ],
+   "description": "This 28-day dispenser keeps things plain: three buttons program the schedule, a large LCD shows it, and no app or Wi-Fi is involved. The listing says it holds up to 672 tablets, about 30 percent more than a standard unit, so a full month of doses can be loaded in one sitting. Retrieval is a single slide-open motion rather than a sequence of button presses.\n\nThe appeal at this budget is how little there is to learn. A caregiver can set the times once, load the carousel and walk away, while the user only has to slide the window and take the dose. The trade is a generic listing with little support detail, and there is no voice guidance or fingerprint access to lean on.\n\nCompared with the Betife 2nd Gen, which uses six buttons and a spoken setup video, it has fewer prompts but also fewer controls. Next to the Fosoubb it offers more capacity but no key lock. It suits independent users with a steady routine who want the monthly reload to be a one-time job.",
+   "bestFor": "Independent users who want a month of doses loaded at once with minimal settings.",
+   "pros": ["Three-button setup with no app or Wi-Fi", "Holds up to 672 tablets for a month", "Large LCD keeps the schedule easy to read", "One-step slide-open retrieval limits fiddly motions"],
+   "cons": ["Generic listing offers little support detail", "No voice or fingerprint features", "No lock mentioned for controlling access"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Guided Setup",
+   "name": "Betife 2nd Gen Automatic Pill Dispenser",
+   "specs": ["6-button console", "Oversized icons", "Spoken quick-start video", "Under 2 mm tray seal", "Mix-proof design"],
+   "specList": [
+    {"label": "Console", "value": "6 buttons, one task per key"},
+    {"label": "Icons", "value": "Oversized"},
+    {"label": "Setup help", "value": "Spoken quick-start video"},
+    {"label": "Tray seal", "value": "Under 2 mm"}
+   ],
+   "description": "The Betife 2nd Gen is designed around the person who dreads programming. It uses a six-button console with oversized icons, assigns one function to each key and ships with a spoken quick-start video for the first setup. A tray-to-cover seal of under 2 millimetres is intended to stop pills drifting between compartments.\n\nThat mix-proof build matters for anyone loading several tablet sizes into one slot, because loose pills can wander in cheaper designs. The cost of the guided approach is more buttons, and there is no remote family access to the schedule. The listing says little about alarm tone options, so volume is worth checking if hearing is a concern.\n\nNext to the Generic 28-day unit it is easier to learn but less roomy on paper. Against the EziMedPil locked model it has no lid lock, so it is not for households that need to restrict access. It makes sense for a user who will set the clock personally and wants clear on-screen cues.",
+   "bestFor": "People who will program the device themselves and want large icons and a setup video.",
+   "pros": ["Oversized icons with one task per key", "Spoken quick-start video for first setup", "Under 2 mm tray seal limits pill drift", "No phone or app needed to operate"],
+   "cons": ["No remote family access to the schedule", "Listing says little about alarm tones", "Six keys give more to learn than a basic unit"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Alarm Flexibility",
+   "name": "Fosoubb Pill Dispenser With 9 Alarms and Key Lock",
+   "specs": ["Up to 9 daily alarms", "Front key lock", "4-button setup", "Sound and flashing light", "No app or Wi-Fi"],
+   "specList": [
+    {"label": "Alarms", "value": "Up to 9 daily"},
+    {"label": "Lock", "value": "Front key lock"},
+    {"label": "Setup", "value": "4 buttons with symbols"},
+    {"label": "Alerts", "value": "Sound and flashing light"}
+   ],
+   "description": "The Fosoubb supports up to nine daily alarms, three more than many standard dispensers, and pairs each alert with sound and a flashing light. A front key lock holds the compartments closed between doses, and a four-button setup with clear symbol markings handles the programming. No app, Bluetooth or Wi-Fi is needed.\n\nNine alarms suit someone with a complicated day, such as a morning, midday and evening schedule with extras. The key lock helps where access needs to be limited, but the key needs a safe place and a spare. Loud alarms can unsettle some users, so this is worth discussing before you buy.\n\nCompared with the Windtrace, which uses six dosage rings, it offers more alarm slots and a lock. Next to the Generic 28-day model it has fewer stated capacity details. It is the choice for a busy schedule that also calls for restricted access.",
+   "bestFor": "Households with several doses a day and a need to keep the compartments closed.",
+   "pros": ["Up to nine customizable daily alarms", "Front key lock keeps compartments closed", "Four-button setup with clear symbol markings", "Works without an app, Bluetooth or Wi-Fi"],
+   "cons": ["Loud alarms may unsettle some users", "Key needs a safe place and a spare", "Listing gives no tablet capacity figure"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Large Compartments",
+   "name": "Windtrace Automatic Pill Dispenser With Alarm",
+   "specs": ["28 large compartments", "6 dosage rings", "Loud alarm", "Flashing blue light", "Removable tray"],
+   "specList": [
+    {"label": "Compartments", "value": "28 large"},
+    {"label": "Dosage rings", "value": "6"},
+    {"label": "Alert", "value": "Loud alarm, flashing blue light"},
+    {"label": "Tray", "value": "Removable, food-grade"}
+   ],
+   "description": "The Windtrace gives you 28 large compartments in a removable food-grade tray, with six dosage rings to match different daily patterns. When a dose is due it sounds a loud alarm and flashes a bright blue light. The removable tray lets a caregiver fill the compartments at a table instead of with the machine in hand.\n\nLarge compartments suit bigger tablets and vitamins that would crowd a smaller slot. The six rings cover most routines but stop short of the nine alarms on the Fosoubb. There is no app and no spoken setup help, and the alert may be too loud in a small room.\n\nIt competes with the Generic 28-day unit on simplicity, but its focus is compartment size rather than total capacity. Compared with the Betife 2nd Gen it has fewer setup aids. Choose it for a household with bulky supplements and a straightforward schedule.",
+   "bestFor": "Users with larger tablets or supplements who need a simple loud alert.",
+   "pros": ["Loud alarm with a bright flashing light", "Large compartments suit bigger tablets", "Removable tray simplifies refills", "Six dosage rings match the schedule"],
+   "cons": ["No app and no spoken setup help", "Alert may be too loud in small rooms", "No lock is described on the listing"]
+  },
+  {
+   "i": 6,
+   "badge": "Best Readable Display",
+   "name": "EziMedPil Pill Dispenser With Magnifier and Clear LCD",
+   "specs": ["Clear LCD display", "Built-in mini magnifier", "28 compartments", "Transparent top lid", "No app needed"],
+   "specList": [
+    {"label": "Display", "value": "Clear LCD"},
+    {"label": "Magnifier", "value": "Built-in mini"},
+    {"label": "Compartments", "value": "28"},
+    {"label": "Lid", "value": "Transparent top"}
+   ],
+   "description": "This EziMedPil model pairs a clear LCD with a small built-in magnifier, and it uses 28 compartments to cover a month of single daily doses. A transparent top lid lets you see what is left without opening anything. It runs without a phone link, so everything happens on the device.\n\nThe magnifier is the thoughtful touch for anyone who squints at small digits. Because the lid is clear, a family member can see at a glance when refills are due. The listing gives few details about the alarm tone, and there is no lit-box cue or app oversight.\n\nNext to the locked EziMedPil it is designed for visibility rather than privacy. Compared with the Windtrace it has a readable display but no stated light alert. It suits users who want to read the schedule easily and keep tabs on supply without unlocking anything.",
+   "bestFor": "Users who struggle with small digits and want to see remaining doses at a glance.",
+   "pros": ["Mini magnifier helps read the display", "Transparent lid shows remaining pills", "28 compartments cover a month of single doses", "Runs without any app or phone link"],
+   "cons": ["Alarm tone details are limited", "No lit-box cue or app oversight", "Clear lid leaves pills visible to others"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Privacy Lid",
+   "name": "EziMedPil 28-Day Locked Pill Dispenser With Frosted Lid",
+   "specs": ["Lockable frosted lid", "28-day capacity", "Locked access", "Home and caregiver use"],
+   "specList": [
+    {"label": "Capacity", "value": "28 days"},
+    {"label": "Lid", "value": "Lockable, frosted"},
+    {"label": "Access", "value": "Locked between doses"},
+    {"label": "Use", "value": "Home and caregiver"}
+   ],
+   "description": "The locked EziMedPil keeps a 28-day supply behind a lockable frosted lid, so the pills are out of sight and out of casual reach. It is aimed at home use and caregivers, with a design that keeps menus to a minimum. The frosted finish gives privacy in a shared kitchen or living room.\n\nA lock matters most where someone might take extra doses by mistake or where children or visitors are present. The price of privacy is visibility, since you cannot see how many pills remain without unlocking the lid. The listing also provides limited alarm detail, so check the product page for tone and volume.\n\nCompared with the clear-lid EziMedPil it prioritizes control, not convenience. Against the Fosoubb it does not describe multiple alarm slots. It is the pick for households where access control comes first.",
+   "bestFor": "Households that want pills out of sight and locked between doses.",
+   "pros": ["Frosted lid hides pills from view", "Lockable lid limits casual access", "28-day supply suits monthly refills", "Few menus for a caregiver to learn"],
+   "cons": ["Cannot see remaining pills without unlocking", "Listing gives limited alarm detail", "Lock key needs a safe, known spot"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Lock or open access", "explanation": "A lock keeps doses unavailable until the programmed time, which is often recommended where memory is a concern. The EziMedPil locked model uses a lockable frosted lid and the Fosoubb uses a front key lock, while the Windtrace and Generic unit describe no lock. Locks add a key to manage, so keep a spare in a known place. Choose open access for independent users and a lock where extra doses are a worry."},
+  {"criterion": "Alarm count and volume", "explanation": "Many dispensers offer around six alarms, and the Fosoubb goes up to nine daily alerts. The Windtrace combines a loud alarm with a flashing blue light, which helps users with hearing loss. Check whether the volume can be adjusted, because a loud alert in a small room is a common complaint. Count your daily dose times before choosing, and leave a margin for changes."},
+  {"criterion": "Programming effort", "explanation": "Setup is the point where many dispensers get abandoned. The Generic unit needs only three buttons, the Fosoubb uses four with symbol markings, and the Betife 2nd Gen has six keys plus a spoken video. Fewer buttons mean less to learn, while more guidance helps first-time users. Pick the one that matches who will do the programming."},
+  {"criterion": "Capacity and tablet size", "explanation": "A 28-day supply reduces refill visits, but compartments must fit your pills. The Generic dispenser lists up to 672 tablets, and the Windtrace stresses large compartments for bigger tablets. Loading the tray is the hardest step, so involve whoever will do it. Count your monthly tablets before buying."},
+  {"criterion": "Visibility of remaining pills", "explanation": "Seeing what is left helps caregivers plan refills. The clear-lid EziMedPil shows contents at a glance, whereas the frosted locked model hides them. There is a trade between privacy and visibility, and the right answer depends on who is watching. A clear lid suits family oversight, and a frosted one suits shared spaces."},
+  {"criterion": "No-app reliability", "explanation": "Every pick here works without Wi-Fi or Bluetooth, which means no setup on a phone and no outages from a router. The cost is no remote alerts to family. If you need someone to check from afar, a connected model in the next budget tier may be better. Pair a standalone unit with a phone call routine if oversight matters."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Ease of setup", "description": "We compared button counts and setup aids. The Generic unit leads with three buttons, the Fosoubb follows with four symbol-marked keys, and the Betife 2nd Gen adds a spoken video at the cost of six keys. Listings with little setup detail scored lower."},
+  {"title": "Access control", "description": "Locks and lids were weighed together. The EziMedPil locked model and the Fosoubb provide physical locks, the clear-lid EziMedPil prioritises visibility, and the Windtrace and Generic unit offer none. We did not penalise open designs for users who value independence."},
+  {"title": "Alerts and schedule flexibility", "description": "We looked at alarm count and alert type. The Fosoubb leads with up to nine alarms, and the Windtrace pairs a loud alarm with a flashing blue light. Models that give few alarm details were marked down."},
+  {"title": "Capacity and loading", "description": "The Generic dispenser's 672-tablet figure and the Windtrace's large compartments set the standard. We considered how easy it is to load, since that task often falls to a caregiver. A removable tray scored well."},
+  {"title": "Value at the lowest tier", "description": "Within this shared cap we looked at what each listing adds beyond a basic timer. Locks, magnifiers, setup videos and larger capacity all count, while missing details cost points. None replace professional guidance on medication."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Who Fills the Tray",
+   "intro": "The person loading the tray often decides which design works.",
+   "table": {
+    "headers": ["Situation", "Pick", "Reason"],
+    "rows": [
+     ["User fills and programs it alone", "Betife 2nd Gen Automatic Pill Dispenser", "Oversized icons and a spoken setup video"],
+     ["Caregiver loads a full month", "Generic 28-Day Pill Dispenser With Timed Alarms", "Up to 672 tablets in one sitting"],
+     ["Caregiver fills a removable tray", "Windtrace Automatic Pill Dispenser With Alarm", "Removable tray with 28 large compartments"],
+     ["Family wants to see what is left", "EziMedPil Pill Dispenser With Magnifier and Clear LCD", "Transparent lid shows contents"],
+     ["Pills must stay out of reach", "EziMedPil 28-Day Locked Pill Dispenser With Frosted Lid", "Lockable frosted lid"]
+    ]
+   },
+   "note": "Fill the tray with the person who will use it present, to catch confusion early."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "These tiers describe what each listing adds within the cap.",
+   "table": {
+    "headers": ["Tier within the cap", "Pick", "What it adds"],
+    "rows": [
+     ["Lower end", "Windtrace Automatic Pill Dispenser With Alarm", "Large compartments and a loud alert"],
+     ["Lower end", "EziMedPil Pill Dispenser With Magnifier and Clear LCD", "Readable display and see-through lid"],
+     ["Middle", "Generic 28-Day Pill Dispenser With Timed Alarms", "Big capacity and simple setup"],
+     ["Middle", "EziMedPil 28-Day Locked Pill Dispenser With Frosted Lid", "Lock and privacy"],
+     ["Near the cap", "Betife 2nd Gen Automatic Pill Dispenser", "Guided setup and mix-proof tray"],
+     ["Near the cap", "Fosoubb Pill Dispenser With 9 Alarms and Key Lock", "Nine alarms plus a key lock"]
+    ]
+   },
+   "note": "Near the cap you are buying either guidance or flexibility, not connectivity."
+  },
+  {
+   "subheading": "Locked vs Open Design",
+   "intro": "Access control is the biggest design fork.",
+   "cards": [
+    {"label": "Locked designs", "text": "A lock keeps doses unavailable until the programmed time. The EziMedPil locked model and the Fosoubb fall here. Choose it where memory or extra doses are a concern, and keep a spare key."},
+    {"label": "Open designs", "text": "Open dispensers rely on the user and the alarm. The Windtrace, Generic unit, Betife 2nd Gen and clear-lid EziMedPil fall here. Choose it for independent users who want less friction."}
+   ],
+   "note": "Ask the prescriber if a lock is appropriate for your situation."
+  },
+  {
+   "subheading": "By Daily Dose Count",
+   "intro": "More doses a day means more alarms and compartments.",
+   "table": {
+    "headers": ["Need", "Pick", "Why"],
+    "rows": [
+     ["Up to nine doses a day", "Fosoubb Pill Dispenser With 9 Alarms and Key Lock", "Up to nine daily alarms"],
+     ["Several doses plus bulky tablets", "Windtrace Automatic Pill Dispenser With Alarm", "Six dosage rings and large compartments"],
+     ["One dose per day for a month", "EziMedPil Pill Dispenser With Magnifier and Clear LCD", "28 compartments with a clear view"],
+     ["Large monthly total", "Generic 28-Day Pill Dispenser With Timed Alarms", "Up to 672 tablets"]
+    ]
+   },
+   "note": "Write your schedule down first and count the slots you need."
+  },
+  {
+   "subheading": "For Limited Dexterity Specifically",
+   "intro": "Stiff hands change which features matter.",
+   "cards": [
+    {"label": "Look for", "text": "Large buttons, one-step retrieval, a removable tray and few menus. Loading is often the hardest step, so ask who will do it and whether they can handle small compartments."},
+    {"label": "In this comparison", "text": "The Generic unit's slide-open window and the Betife 2nd Gen's oversized icons help. The Windtrace's removable tray eases loading. The key lock on the Fosoubb adds a small step."}
+   ],
+   "note": "An occupational therapist can advise on fit if hand strength is a concern."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Higher tiers add connectivity and oversight.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["Family needs remote alerts or an app to check doses", "A standalone alarm like the Fosoubb is enough"],
+     ["You want fingerprint or voice features", "A key lock or frosted lid meets your needs"],
+     ["You need a lit cue showing which box to open", "A clear LCD on the EziMedPil is enough"],
+     ["You want battery backup details documented", "You will check the Generic listing and test it yourself"]
+    ]
+   },
+   "note": "Connected models add Wi-Fi or Bluetooth, which also add things to maintain."
+  }
+ ],
+ "faq": [
+  {"q": "Do I need an app?", "a": "Not for these picks. Every dispenser here works on its own with buttons and a screen. An app adds remote oversight, but it needs a phone and a connection. If a family member needs to check in, consider the connected models in higher budget tiers."},
+  {"q": "Which has the most alarms?", "a": "The Fosoubb supports up to nine daily alarms, each with sound and a flashing light. The Windtrace uses six dosage rings instead. Count how many dose times you have before choosing."},
+  {"q": "Is a lock necessary?", "a": "A lock suits households where extra doses are a risk, and the EziMedPil locked model and Fosoubb provide one. Independent users may prefer open access. Ask the prescriber or pharmacist if you are unsure."},
+  {"q": "How much can these hold?", "a": "The Generic unit lists up to 672 tablets for a 28-day supply, and the EziMedPil models list 28 compartments. The Windtrace lists 28 large compartments. Check that your pills physically fit."},
+  {"q": "Can a dispenser replace medical advice?", "a": "No. A dispenser supports routine but does not replace clinical oversight. Confirm your schedule with a pharmacist or doctor and review it regularly, especially after any prescription change, so the programmed times still match what was prescribed."},
+  {"q": "What if the alarm is too loud?", "a": "The Windtrace and Fosoubb both have loud alerts, which some users find unsettling. Check whether volume is adjustable on the product page. A flashing light can help users with hearing loss."},
+  {"q": "Who should load the tray?", "a": "Loading is the hardest step for people with arthritis or limited vision. A caregiver or pharmacist can load the tray monthly. Choose a removable tray like the Windtrace's if bending over the unit is difficult."}
+ ]
+}

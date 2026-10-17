@@ -26,6 +26,9 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch12") {
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch12-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", niche: "Budget", why: `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).`, note: "" }));
+  }
   if (process.env.BATCH === "batch11") {
     const rows = parseCsv(readFileSync(resolve(ROOT, "seniors_best_batch2_mobility_accessibility_deep_audit.csv"), "utf-8").replace(/^\uFEFF/, ""));
     return rows.slice(1).filter((r) => /^\d+$/.test(r[0])).map((r) => ({ id: Number(r[0]), cluster: "", seed: r[6], title: r[4].replace(/\s*\(2026\)$/, ""), slug: r[16].replace(/^\/|\/$/g, ""), keyword: r[5], supporting: [r[10], r[11]].filter(Boolean).join(" | "), type: /\bvs\b/i.test(r[4]) ? "Comparison" : "Best", status: r[23], niche: r[2], why: [r[17], r[18] === "High" ? "SAFETY-CRITICAL topic: be conservative." : ""].filter(Boolean).join(" "), note: r[21] }));

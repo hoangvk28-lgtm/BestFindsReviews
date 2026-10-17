@@ -1,0 +1,214 @@
+{
+ "guideTitle": "6 Best Key Finders Under $20 in 2026",
+ "metaTitle": "Best Key Finders Under $20 (2026)",
+ "metaDescription": "Six key finders under $20, from app-free beeper kits to Find My and Find Hub tags, compared by phone fit, loudness, range and battery upkeep.",
+ "introParagraphs": [
+  "A key finder at the lowest budget tier is really a choice between two technologies. Radio kits give you a handheld remote and beeping receivers that need no phone, while Bluetooth tags use your phone, an app and a crowd network to report a last known location. Both can solve the daily panic of lost keys, and they suit very different households.",
+  "Our six picks cover both families. Two are RF kits with four receivers each, two are Android or Apple specific tags, one is a single iPhone tag with a very long battery claim and one supports either network. We evaluated them from listing specs and buyer feedback, looking at range, stated alarm volume, water protection and what each one asks of you in daily upkeep.",
+  "The key question is not which tag is best but which phone you carry. Start there and the shortlist drops to two or three choices."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best App-Free Kit",
+   "name": "Reyke Key Finder with Sound, 4 Receivers",
+   "specs": ["RF remote, no phone needed", "131 ft radio range", "80 dB or louder beep", "LED flashlight on receivers", "4 receivers, batteries included"],
+   "specList": [
+    {"label": "Technology", "value": "Radio frequency"},
+    {"label": "Range", "value": "Up to 131 ft"},
+    {"label": "Beep", "value": "80 dB or louder"},
+    {"label": "Receivers", "value": "4, color coded"},
+    {"label": "Phone needed", "value": "No"}
+   ],
+   "description": "The Reyke set gives you a handheld remote with color-coded buttons and four receivers that beep and flash when you press the matching button. It uses radio waves rather than Bluetooth, so no phone, app or account is involved, and the listing states a range of up to 131 ft through walls and cushions. The receivers include an LED flashlight, which helps when keys are lost in a dark corner.\n\nThe big advantage is that anyone in the house can use it. A large button and a loud beep mean there is nothing to learn, and premium batteries are included so you can start immediately. The weakness is scope: it only works near home, shows no map, and if the remote itself is misplaced the receivers are useless.\n\nIn ownership, give the remote a permanent hook by the door and clip a receiver to keys, a wallet or a remote control. Compared with the Jegoteer kit with stick-on tags at 120 ft, the Reyke has slightly more range but bulkier receivers. Compared with any Bluetooth tag, it cannot find a bag left at a cafe. It suits a household that mostly loses things indoors.",
+   "bestFor": "Households that lose keys indoors and want a phone-free solution.",
+   "pros": ["No phone, app or account is needed to use it", "Large color-coded buttons are easy for any age", "Signal reaches up to 131 ft through walls", "Receivers include a built-in LED flashlight"],
+   "cons": ["Works only near home, with no map view", "Losing the remote leaves the receivers useless", "Receivers are bulkier than slim Bluetooth tags"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Stick-On RF Kit",
+   "name": "Jegoteer Remote Control Finder, 4 Pack",
+   "specs": ["No app needed", "120 ft radio range", "80 to 85 dB beep", "0.24 inch thin tags", "Pry opener included"],
+   "specList": [
+    {"label": "Technology", "value": "Radio frequency"},
+    {"label": "Range", "value": "120 ft"},
+    {"label": "Beep", "value": "80 to 85 dB"},
+    {"label": "Tag thickness", "value": "0.24 inch"},
+    {"label": "Receivers", "value": "4"}
+   ],
+   "description": "Jegoteer takes the same press-and-beep idea and shrinks the receivers to 0.24 inches thick, with a stick-on design that attaches to a TV remote, wallet or key fob. The transmitter has large keys, which the maker says suits weak eyesight. The beep is listed as loud as 85 dB, and a small pry opener is included for changing the coin cells.\n\nThe thin receivers are the main reason to choose it over a standard RF kit, because they hide on the back of a wallet or phone case without bulk. The listing quotes two volume figures, 80 dB and 85 dB, so treat loudness as roughly the mid-80s. You get four receivers, which cover the usual suspects but not a large household.\n\nDaily use is trivial: press the coded key and follow the sound. At 120 ft it is a touch behind the Reyke's reach, and the lack of a map means a fob left at a shop is gone. Choose it when slimness and large keys matter more than a few feet of range.",
+   "bestFor": "People who want slim stick-on receivers and a big-key remote.",
+   "pros": ["Tags are only 0.24 inches thick and stick on", "Large transmitter keys suit weak eyesight", "Stated 120 ft range covers a whole house", "Pry opener is included for coin cell swaps"],
+   "cons": ["Listing gives two volume figures, 80 and 85 dB", "No map, so a fob left elsewhere is not findable"]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Android",
+   "name": "XJQX 2-Pack Find Hub Bluetooth Tracker Tags",
+   "specs": ["Google Find Hub tags", "105 dB alarm", "350 ft Bluetooth range", "2 spare CR2032 included", "2 silicone keyring cases"],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Alarm", "value": "105 dB"},
+    {"label": "Range", "value": "350 ft Bluetooth"},
+    {"label": "In the box", "value": "2 tags, 2 spare cells, 2 cases"},
+    {"label": "Platform", "value": "Android only"}
+   ],
+   "description": "This pair of tags joins Google's Find Hub network, so an Android phone can ring them and see a last known location on a map. The stated 105 dB alarm is the loudest figure among the tags here, and the Bluetooth range is listed at 350 ft. The pack is generous for the category, with two spare CR2032 cells and two silicone keyring cases included.\n\nBlack and white tags make it easy to tell yours from a partner's. There is no subscription or extra app beyond Find Hub. The limits are clear: it works with Android only, you get just two tags per pack, and the two-year battery life is a maker claim.\n\nPair them once and forget them until the coin cell wants changing. Against the Qylara pair for iPhone, this one is the Android counterpart with a louder alarm. Against the dual-network LEYMENCOJ, it commits to one network and gives more accessories. It is the straightforward choice for an Android household.",
+   "bestFor": "Android owners who want a loud tag and useful accessories included.",
+   "pros": ["Stated 105 dB alarm is very loud for a tag", "Spare cells and silicone cases come in the pack", "Black and white tags are easy to tell apart", "No subscription beyond Google Find Hub"],
+   "cons": ["Android only, with no iPhone support", "Only two tags per pack, so a larger set costs more", "Two-year battery life is a maker claim"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Two-Tag iPhone Pair",
+   "name": "Qylara 2 Pack Bluetooth Tracker for Apple Find My",
+   "specs": ["Apple Find My, iOS only", "80 to 100 dB buzzer", "400 ft Bluetooth range", "IPX4 water resistant", "Replaceable CR2032"],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My"},
+    {"label": "Buzzer", "value": "80 to 100 dB"},
+    {"label": "Range", "value": "400 ft Bluetooth"},
+    {"label": "Water rating", "value": "IPX4"},
+    {"label": "Battery", "value": "CR2032, up to 1 year"}
+   ],
+   "description": "Qylara supplies two tags that work with the Find My app on iOS 14.6 and later, giving you ring-to-find and a last seen map location through Apple's network. The buzzer is stated at 80 to 100 dB with a 400 ft Bluetooth range, and an IPX4 rating copes with rain splashes on a daily key ring. The CR2032 cell is replaceable, so you can swap it rather than buy a new tag.\n\nTwo tags in one pack mean house keys and car keys are covered right away. The listing calls it GPS tracking, which it is not: this is a Bluetooth tag that relies on nearby iPhones to report its position. IPX4 also covers splashes, not submersion, and there is no Android support.\n\nExpect a yearly battery swap. Compared with the Dailyfun single tag, the Qylara gives two tags and a louder range, but a lower water rating and a shorter battery life. It is a sensible pair for an iPhone household.",
+   "bestFor": "iPhone owners who need two tags for house and car keys.",
+   "pros": ["Two tags in one pack cover house and car keys", "States 80 to 100 dB and a 400 ft range", "IPX4 rating handles rain splashes on a key ring", "Replaceable CR2032 avoids buying a new tag"],
+   "cons": ["Works only with Apple devices, not Android", "IPX4 does not cover submersion", "Listing says GPS, but it is a Bluetooth tag"]
+  },
+  {
+   "i": 4,
+   "badge": "Longest Battery, Best Rated",
+   "name": "Dailyfun Air Tracker Tag, Apple Find My",
+   "specs": ["Apple MFi certified", "80 dB alarm", "Up to 5 years battery", "IP68 waterproof", "Steel cable attachment"],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My"},
+    {"label": "Certification", "value": "Apple MFi"},
+    {"label": "Alarm", "value": "80 dB"},
+    {"label": "Water rating", "value": "IP68"},
+    {"label": "Battery", "value": "Up to 5 years"}
+   ],
+   "description": "Dailyfun is an Apple MFi certified tag with the highest durability numbers here: an IP68 waterproof rating and a battery listed at up to five years. An 80 dB alarm helps find keys under sofas, and Left-Behind Alerts and Lost Mode work through the Find My app. A steel cable and hex screws attach it to luggage, a bike or a bag that might be pulled.\n\nIt is built more like a utility than a key fob. The steel cable design is bulkier than a slim tag on a ring, and it is sold singly, so a household needs several packs. Like all Find My tags it works with iPhone only.\n\nOwnership is mostly about leaving it alone for years. Against the Qylara at IPX4 and about one year of battery, the Dailyfun is much tougher, but you get one tag instead of two. Choose it for luggage and bags, where the cable and rating matter most.",
+   "bestFor": "iPhone owners who want a rugged, long-life tag for bags and luggage.",
+   "pros": ["Battery is listed at up to five years", "IP68 rating is stronger than IPX4 or IP67", "80 dB alarm helps under sofas and cushions", "Steel cable and screws secure it to luggage"],
+   "cons": ["Steel cable is bulkier than a slim key fob", "Sold as a single tag, so you need several", "iOS only, with no Android support"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Dual-Network Tag",
+   "name": "LEYMENCOJ Dual-System Bluetooth Tracker",
+   "specs": ["Works with Apple Find My or Google Find Hub", "Departure reminder", "Shared location", "Loss mode", "iOS or Android"],
+   "specList": [
+    {"label": "Networks", "value": "Find My or Find Hub"},
+    {"label": "Alerts", "value": "Departure reminder"},
+    {"label": "Sharing", "value": "Shared location"},
+    {"label": "Mode", "value": "Loss mode"},
+    {"label": "Platform", "value": "iOS or Android"}
+   ],
+   "description": "LEYMENCOJ is the flexible option for mixed households, because the same tag can be set up on Apple Find My or Google Find Hub depending on the phone you pair it with. The app shows its location on a map and lets you ring it. Departure reminders, shared location and a loss mode make up what the listing calls triple anti-loss protection.\n\nIts value is in not locking you to one phone brand. If a family switches from Android to iPhone, the tag can follow. The catch is that a tag runs on one network at a time, so a couple on different platforms still needs two tags, and the listing is short on decibel and battery details.\n\nSetup is a pairing step, then occasional checks. Against the XJQX at 105 dB it gives up a stated loudness figure in exchange for flexibility. Against the Dailyfun it has fewer durability specs. Pick it when you cannot be sure which phone will live in your pocket.",
+   "bestFor": "Households with mixed phones or a likely future switch.",
+   "pros": ["Pairs with Apple Find My or Google Find Hub", "Departure reminder warns when you walk away", "Shared location helps a family find a tag", "Loss mode flags a missing item on the map"],
+   "cons": ["Listing gives no decibel or water rating", "Runs on only one network at a time, not both"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Phone match first", "explanation": "A tag is only useful if it works with your phone. The Qylara and Dailyfun need an iPhone, the XJQX needs Android, and the LEYMENCOJ can be set up on either network. RF kits like the Reyke and Jegoteer need no phone at all. Decide this before looking at any other spec."},
+  {"criterion": "RF kit versus Bluetooth tag", "explanation": "Radio kits find things inside roughly 120 to 131 ft with no map. Bluetooth tags ring nearby and report a last known location through a crowd network when far. If your keys vanish inside the house, an RF kit is enough. If you lose things in cafes or cars, you need a tag."},
+  {"criterion": "Alarm volume", "explanation": "A louder alarm helps when keys are under a cushion. The XJQX states 105 dB, the Qylara 80 to 100 dB, the Dailyfun 80 dB and the Reyke 80 dB or louder. Figures are maker claims, and the LEYMENCOJ gives none. Choose at least 80 dB if your hearing is not perfect."},
+  {"criterion": "Water and wear rating", "explanation": "Keys live in rain and pockets. The Dailyfun is IP68, the Qylara IPX4 and most others list nothing. IPX4 means splashes only. For an outdoor key ring, favour a stated rating."},
+  {"criterion": "Battery type and life", "explanation": "Replaceable CR2032 cells last about a year and keep a tag going, as with the Qylara and XJQX, which includes two spares. The Dailyfun lists up to five years. RF receivers also use coin cells, usually 9 to 12 months. Mark a yearly swap on your calendar."},
+  {"criterion": "Pack size and accessories", "explanation": "The Reyke and Jegoteer come with four receivers, the XJQX and Qylara with two tags, and the Dailyfun and LEYMENCOJ with one. The XJQX adds silicone cases and spare cells. Count your keys, bag and wallet before buying so you do not need a second pack."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Phone fit and network", "description": "We checked which phones each product works with. The Qylara and Dailyfun are iOS only, the XJQX is Android only, and the LEYMENCOJ spans both. RF kits scored for needing no phone."},
+  {"title": "Alarm and range", "description": "We compared stated alarm volume and range, from the XJQX at 105 dB to the Reyke at 131 ft. Maker claims were treated cautiously. Missing figures lowered confidence."},
+  {"title": "Durability", "description": "We read water ratings and build details such as the Dailyfun's IP68 and steel cable. Products with no rating lost points. Slim tags earned credit for fit."},
+  {"title": "Upkeep burden", "description": "We looked at battery type, life and included spares. The XJQX includes two spare cells and the Dailyfun lists five years. Kits needing many coin cells scored lower."},
+  {"title": "Value at this cap", "description": "We asked what each pack delivers for little money. Four receivers, two tags with cases and a long-life single tag all do well. Single tags with few details scored lower."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Phone",
+   "intro": "Your phone decides the shortlist in seconds.",
+   "table": {
+    "headers": ["Phone", "Pick", "Why"],
+    "rows": [
+     ["iPhone, two tags", "Qylara 2 Pack Bluetooth Tracker for Apple Find My", "80 to 100 dB and 400 ft range"],
+     ["iPhone, rugged tag", "Dailyfun Air Tracker Tag, Apple Find My", "IP68 and up to 5 years of battery"],
+     ["Android", "XJQX 2-Pack Find Hub Bluetooth Tracker Tags", "105 dB and spare cells included"],
+     ["Mixed or uncertain", "LEYMENCOJ Dual-System Bluetooth Tracker", "Works on either network"],
+     ["No smartphone", "Reyke Key Finder with Sound, 4 Receivers", "RF remote with color-coded buttons"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers inside this cap reflect how many tags you get and what extras come with them.",
+   "table": {
+    "headers": ["Tier within the cap", "Pick", "What you get"],
+    "rows": [
+     ["Lower end", "Jegoteer Remote Control Finder, 4 Pack", "Four slim receivers and a big-key remote"],
+     ["Lower end", "Reyke Key Finder with Sound, 4 Receivers", "Four receivers with flashlights"],
+     ["Middle", "Qylara 2 Pack Bluetooth Tracker for Apple Find My", "Two Find My tags"],
+     ["Middle", "XJQX 2-Pack Find Hub Bluetooth Tracker Tags", "Two Find Hub tags with accessories"],
+     ["Near the cap", "Dailyfun Air Tracker Tag, Apple Find My", "One IP68 tag with five-year battery claim"],
+     ["Near the cap", "LEYMENCOJ Dual-System Bluetooth Tracker", "One flexible tag with extra alerts"]
+    ]
+   }
+  },
+  {
+   "subheading": "Radio Kit vs Bluetooth Tag",
+   "intro": "The two families differ in range, cost of failure and ease.",
+   "cards": [
+    {"label": "Radio kits", "text": "The Reyke and Jegoteer send a radio pulse to receivers within about 120 to 131 ft. No phone or account is needed, and anyone can press the button. They cannot find anything outside that radius, and losing the remote ends the system. Pick them for in-house hunts."},
+    {"label": "Bluetooth tags", "text": "The Qylara, Dailyfun, XJQX and LEYMENCOJ use your phone to ring nearby and a crowd network for far. They give a last known location. They need a compatible phone and a cell change about yearly. Pick them for bags, cars and anything that leaves home."}
+   ],
+   "note": "Many households keep one of each."
+  },
+  {
+   "subheading": "By Where You Lose Things",
+   "intro": "Where keys vanish matters more than specs.",
+   "table": {
+    "headers": ["Where", "Pick", "Reason"],
+    "rows": [
+     ["Between couch cushions", "XJQX 2-Pack Find Hub Bluetooth Tracker Tags", "105 dB alarm cuts through fabric"],
+     ["Around the house", "Reyke Key Finder with Sound, 4 Receivers", "131 ft range and flashlight"],
+     ["On luggage or a bike", "Dailyfun Air Tracker Tag, Apple Find My", "Steel cable and IP68"],
+     ["On a wallet or remote", "Jegoteer Remote Control Finder, 4 Pack", "0.24 inch stick-on tags"],
+     ["In the car and house", "Qylara 2 Pack Bluetooth Tracker for Apple Find My", "Two tags with 400 ft range"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Forgetful Keys Specifically",
+   "intro": "If keys go missing weekly, small design choices matter.",
+   "cards": [
+    {"label": "Look for", "text": "Choose a loud alarm, a strong attachment point and a way to find the remote or phone that controls it. Add a habit of hanging keys in one place. Keep spare batteries with the tag."},
+    {"label": "In this comparison", "text": "The Reyke gives a flashlight and color-coded buttons, the XJQX the loudest stated alarm, and the LEYMENCOJ a departure reminder that warns when keys leave with you absent. Combine a tag with a hook by the door."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Higher tiers add network size and precision, not simply volume.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want precision finding with direction arrows, which these tags do not list", "A ring and last seen map is enough"],
+     ["You want a famous brand network such as a bigger tag family", "The XJQX or Qylara pairs fit your needs"],
+     ["You want a rechargeable or sealed long-life tag beyond the Dailyfun's claim", "Changing a coin cell yearly is fine"],
+     ["You need a tag with a warranty and support", "The listing details here are enough"]
+    ]
+   },
+   "note": "At this cap you already get the core job of finding keys."
+  }
+ ],
+ "faq": [
+  {"q": "Do key finders need a subscription?", "a": "The tags here use Apple Find My or Google Find Hub, which have no monthly fee. The RF kits need no account at all. Check any new brand for hidden subscription tiers."},
+  {"q": "Which is better for an older relative, RF or Bluetooth?", "a": "An RF kit like the Reyke is simpler, because a large button beeps a receiver and no phone is involved. Bluetooth tags need an app and a charged phone. Choose RF if smartphones are a barrier."},
+  {"q": "Can a Bluetooth tag track my keys anywhere?", "a": "No. It rings when nearby and reports a last known location when other phones pass it. It is not GPS, as the Qylara listing wording might suggest."},
+  {"q": "How long do the batteries last?", "a": "Coin cells usually last about a year, with the Dailyfun claiming up to five. RF receivers use similar cells. Plan a yearly swap and keep spares."},
+  {"q": "Does a loud alarm matter?", "a": "Yes, when keys are under cushions or in a bag. The XJQX states 105 dB and the Qylara 80 to 100. Treat these as maker figures."},
+  {"q": "Can I use one tag for two phones?", "a": "A tag pairs with one network at a time. Apple tags share via Find My, and Android tags via Find Hub. A couple on different platforms needs two tags."},
+  {"q": "What if I lose the RF remote?", "a": "The receivers become useless until it turns up. Give it a hook by the door and avoid carrying it. Some buyers keep a spare."}
+ ]
+}

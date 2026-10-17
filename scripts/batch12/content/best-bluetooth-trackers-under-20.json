@@ -1,0 +1,215 @@
+{
+ "guideTitle": "6 Best Bluetooth Trackers Under $20 in 2026",
+ "metaTitle": "Best Bluetooth Trackers Under $20 (2026)",
+ "metaDescription": "Six Bluetooth trackers under $20, from slim wallet cards to Find My and Find Hub tags, compared on form, phone support, alarm loudness and battery type.",
+ "introParagraphs": [
+  "Bluetooth trackers at the lowest price tier come in two shapes: a keyring tag and a slim card that slides into a wallet. The tag suits keys and bags, the card suits a wallet or passport holder, and the two are not interchangeable. This guide leans into that difference, because choosing the wrong form is a more common mistake than choosing the wrong brand.",
+  "Our six picks include an iPhone pair, a rechargeable wallet card, a slim card that works with both networks, a universal tag with sharing, and two Android tags with long Bluetooth range. We evaluated them from listing specs and buyer feedback, checking network support, stated alarm volume, water protection and how each one is powered.",
+  "Whatever you pick, remember that a tracker is not a GPS device. It rings when you are near and relies on passing phones when you are not.",
+  "That limit shapes what this budget tier can promise. A tag in a quiet suburb may report a location rarely, while the same tag in a busy station updates often, because the network is made of other people's phones. Treat any tracker as a way to narrow a search, not as a guarantee. Choose a form you will actually carry, a network that matches your phone and a battery routine you will remember, and the rest of the spec sheet matters far less than it appears to. If you are unsure, start with one tag on the item you lose most often and add more once you trust how it behaves in your daily routine."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best iPhone Pair",
+   "name": "ZIMCORE 2 Pack Tracker Tags for Apple Find My",
+   "specs": ["Apple Find My, iOS only", "2-pack", "Replaceable CR2032", "Left-behind alerts", "Water resistant"],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My"},
+    {"label": "Pack", "value": "2 tags"},
+    {"label": "Battery", "value": "Replaceable CR2032"},
+    {"label": "Alerts", "value": "Left-behind alerts, Lost Mode"},
+    {"label": "Platform", "value": "iPhone only"}
+   ],
+   "description": "ZIMCORE sells two tags that link to the Find My app already on your iPhone, so there is no extra app, SIM card or subscription. You can play a sound when the tag is nearby, ask Siri for help, and see a last known location when it is far away. Left-behind alerts and Lost Mode add a safety net when a tag does not come with you.\n\nTwo tags in one pack cover the most common pair, house keys and car keys. The cell is a standard CR2032 that you can swap yourself, though the listing puts the battery at about one year. The listing gives no IP rating or ring volume, so water protection and loudness are uncertain.\n\nOwnership is a one-minute pairing followed by a yearly battery swap. Compared with the Momax universal tag, the ZIMCORE is iPhone only but pairs smoothly with Apple's network. Compared with the QUICKHORSE card, it is a tag rather than a wallet slider. It is a plain, sensible choice for iPhone users.",
+   "bestFor": "iPhone owners who want two tags for keys and a bag.",
+   "pros": ["Two tags in one pack cover house and car keys", "Left-behind alerts warn when a tag stays behind", "Tags can be shared with family in Find My", "Replaceable CR2032 avoids buying a new tag"],
+   "cons": ["Works with iPhone only, not Android", "Battery is listed at about one year", "No IP rating or ring volume in the listing"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Rechargeable Wallet Card",
+   "name": "QUICKHORSE Wallet Tracker Card for Apple Find My",
+   "specs": ["Apple MFi certified", "Ultra-thin card", "Alarm up to 80 dB", "Qi wireless charging", "Up to 4 months per charge"],
+   "specList": [
+    {"label": "Network", "value": "Apple Find My"},
+    {"label": "Certification", "value": "Apple MFi"},
+    {"label": "Alarm", "value": "Up to 80 dB"},
+    {"label": "Charging", "value": "Qi wireless"},
+    {"label": "Battery life", "value": "Up to 4 months"}
+   ],
+   "description": "QUICKHORSE is an Apple MFi certified card tracker that slides into a wallet and shows its location on the Find My map. An alarm up to 80 dB helps when the wallet is in a coat or bag. Instead of a coin cell, it recharges on any standard Qi wireless charger and is listed for up to four months of use per charge.\n\nA card is the better shape for a wallet, because a keyring tag is too thick to carry in a card slot. The tradeoff is the charging habit: four months between charges is easy to forget, and a drained card is a missing card. It is also iPhone only.\n\nIn practice, set a calendar reminder and drop it on a wireless charger every few months. Against the KIUP card, it has a lower alarm but the benefit of Apple certification. Against a keyring tag like the ZIMCORE, it can sit in a wallet unnoticed. It suits people who lose their wallet more often than their keys.",
+   "bestFor": "iPhone owners who want a wallet-sized tracker they charge wirelessly.",
+   "pros": ["Apple MFi certified card works with Find My", "Qi wireless charging needs no cable", "Alarm up to 80 dB helps find a wallet in a coat", "Ultra-thin shape slides into a card slot"],
+   "cons": ["Must be recharged about every four months", "Works only with iPhone, not with Android", "80 dB is quieter than some tags"]
+  },
+  {
+   "i": 2,
+   "badge": "Loudest, Slimmest Card",
+   "name": "KIUP Wallet Tracker Card 0.06 Inch",
+   "specs": ["Find My or Find Hub", "Up to 120 dB alarm", "5 to 10 years battery claim", "IP68 rated", "0.06 inch slim"],
+   "specList": [
+    {"label": "Networks", "value": "Find My or Find Hub"},
+    {"label": "Alarm", "value": "Up to 120 dB"},
+    {"label": "Battery claim", "value": "5 to 10 years"},
+    {"label": "Water rating", "value": "IP68"},
+    {"label": "Thickness", "value": "0.06 inch"}
+   ],
+   "description": "KIUP packs a speaker listed at up to 120 dB into a card only 0.06 inches thick, and it works with either Apple Find My or Google Find Hub. An IP68 rating suits a wallet that meets rain or a splashed table, and UWB distance view shows how close the card is within range. A battery claim of 5 to 10 years promises almost no upkeep.\n\nThe alarm figure is the loudest in this group, and the dual-network support means one product works for iPhone or Android owners. The caution is on the claims: five to ten years is likely a best case, the listing is vague about whether the battery can be replaced or recharged, and it is not for Huawei phones.\n\nDaily use is light because there is little to maintain. Against the QUICKHORSE, it is louder, waterproof and cross-platform, but it lacks Apple certification. Against the NozlaID style cards, it offers the most stated numbers. It is the best card for most buyers.",
+   "bestFor": "Buyers who want the loudest, most flexible wallet card.",
+   "pros": ["Alarm is listed at up to 120 dB, the loudest here", "Works with Google Find Hub and Apple Find My", "IP68 and 0.06 inch body suit daily wallet carry", "UWB distance view shows how close it is in range"],
+   "cons": ["Battery claim of 5 to 10 years is unverified", "Listing is vague on battery replacement or charging", "Not for Huawei phones, with no warranty described"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Universal Tag",
+   "name": "MOMAX Universal Tracker Tag for Android and iOS",
+   "specs": ["Works with Android and iOS networks", "80 dB alarm", "Share with up to 5 users", "32 tags per account", "Item precise location"],
+   "specList": [
+    {"label": "Compatibility", "value": "Google and Apple"},
+    {"label": "Alarm", "value": "80 dB"},
+    {"label": "Sharing", "value": "Up to 5 users"},
+    {"label": "Tag limit", "value": "32 per account"},
+    {"label": "Uses", "value": "Keys, wallet, luggage"}
+   ],
+   "description": "Momax makes a tag that its listing says is compatible with both Google and Apple networks, so it is one product for mixed households. A loud 80 dB alarm helps find bags, passports and purses, and an account can share access with up to five users and manage 32 tags. Real-time location updates are described for bikes, keys and wallets.\n\nSharing is the standout feature. A family can all see the same tag, which cuts the argument over who lost the keys. The caution is that the tag likely runs on one network at a time, and the listing gives little about battery life or water resistance.\n\nUse is straightforward after pairing. Against the ZIMCORE, it works on more phones. Against the KIUP card, it is a keyring tag rather than a wallet slider and has a quieter alarm. Choose it when one product must serve two phone types.",
+   "bestFor": "Mixed iPhone and Android households that share trackers.",
+   "pros": ["Works with Google and Apple finding networks", "Share access with up to 5 users", "Manage up to 32 tags per account", "80 dB alarm helps find bags and passports"],
+   "cons": ["Listing gives little on battery life or water rating", "Likely runs on one network at a time"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Android Voice Control",
+   "name": "MiLi Air Tracker Tag for Android",
+   "specs": ["Android 9+, Google Find Hub", "150 m Bluetooth range", "Rings by voice command", "CR2032, up to 1 year", "IP67 waterproof"],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Requires", "value": "Android 9 or later"},
+    {"label": "Range", "value": "150 m (500 ft)"},
+    {"label": "Battery", "value": "CR2032, about 1 year"},
+    {"label": "Water rating", "value": "IP67"}
+   ],
+   "description": "MiLi is an Android tracker that rings from the app or by voice command within a 150 m (500 ft) Bluetooth range. It uses the Google Find Hub network, so when the tag is out of range nearby Android devices help update its location. The listing states IP67 water and dust protection, a firm and checkable rating.\n\nThe replaceable CR2032 is rated for up to a year, which is the shortest battery interval among these tags but the easiest to service. The listing gives no decibel figure, so loudness is hard to compare, and it works with Android only. A privacy note says location history is not stored on the tag.\n\nIt is a calm, well-specified Android tag. Compared with the Lifemate at 120 dB, it offers a firm IP67 rating rather than a loudness claim. Compared with the KIUP card, it is a keyring shape but Android only. Choose it for an Android phone and a stated rating.",
+   "bestFor": "Android users who want IP67 protection and voice ringing.",
+   "pros": ["Rings by app or voice within 150 m", "Listing states IP67 water and dust protection", "Uses a replaceable CR2032 rated for a year", "Location history is not stored on the tag"],
+   "cons": ["Android only, with no iPhone support", "No decibel figure, so loudness is hard to compare", "About one year per coin cell means yearly swaps"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Loud Android Tag",
+   "name": "Lifemate Air Tracker Tags for Android",
+   "specs": ["Google Find Hub, Android 9+", "Up to 120 dB sound", "150 m Bluetooth range", "Dust and water resistant", "No subscription fee"],
+   "specList": [
+    {"label": "Network", "value": "Google Find Hub"},
+    {"label": "Alarm", "value": "Up to 120 dB"},
+    {"label": "Range", "value": "150 m (500 ft)"},
+    {"label": "Water test", "value": "30 min at 3 ft"},
+    {"label": "Fees", "value": "None"}
+   ],
+   "description": "Lifemate quotes a sound as loud as 120 dB, which is the highest figure among the keyring tags here, with a 150 m Bluetooth range. It works through Google Find Hub on Android 9 or later and shows items on Google Maps. The listing says it survives 30 minutes underwater at 3 ft, and there is no subscription fee.\n\nThe loud alarm is helpful for hunting under couch cushions, and the water claim goes further than most budget tags. The weak spots are details: no battery type or life is listed, and no cases or spare batteries are mentioned for attaching to keys.\n\nPlan on checking the battery behavior once it arrives. Against MiLi, Lifemate trades a firm IP rating for a stated underwater test and a louder alarm. Against Momax, it only works with Android. Pick it when you want the loudest Android tag.",
+   "bestFor": "Android owners who lose items in deep cushions and want the loudest alarm.",
+   "pros": ["Listing quotes a sound as loud as 120 dB", "Bluetooth range of 150 m is the longest stated", "Survives 30 minutes underwater at 3 ft per listing", "Works through Find Hub with no extra app"],
+   "cons": ["Android only, so an iPhone cannot pair", "Listing gives no battery type or life", "No cases or spare batteries are mentioned"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Tag or card form", "explanation": "A keyring tag suits keys and bags, while a card suits wallets and passport holders. The KIUP is 0.06 inches thick and the QUICKHORSE is a rechargeable card, whereas the ZIMCORE, Momax, MiLi and Lifemate are tags. Pick the form that matches where you lose things. A tag in a wallet bulges, and a card on a key ring slips off."},
+  {"criterion": "Phone network", "explanation": "Apple Find My tags such as the ZIMCORE and QUICKHORSE work with iPhone only. The MiLi and Lifemate work with Android through Find Hub, and the KIUP and Momax claim support for both. A tag cannot use both networks at once. Pick based on the phone you will keep for years."},
+  {"criterion": "Alarm loudness", "explanation": "A louder alarm finds things under cushions. The KIUP and Lifemate list up to 120 dB, the Momax and QUICKHORSE 80 dB, and the ZIMCORE and MiLi give no figure. Maker numbers are claims. For a wallet in a coat, even 80 dB can be enough."},
+  {"criterion": "Battery and charging", "explanation": "Coin cells last about a year, as with the ZIMCORE and MiLi, and can be swapped. The QUICKHORSE recharges every four months and the KIUP claims 5 to 10 years. A rechargeable tag needs a habit, and a sealed tag may mean replacing the whole thing. Decide which routine you prefer."},
+  {"criterion": "Water and dust rating", "explanation": "The KIUP is IP68 and the MiLi IP67, while the Lifemate quotes a 30 minute underwater test. The ZIMCORE says only water resistant. For anything that goes outdoors, look for an IP number."},
+  {"criterion": "Sharing and privacy", "explanation": "The Momax shares with up to five users, and the ZIMCORE shares through Find My. The MiLi notes that location history stays off the tag. Phones warn about unknown trackers, so never hide a tag on another person. Share with family only on purpose."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Form fit", "description": "We matched each product to its job. The KIUP and QUICKHORSE are cards, while the ZIMCORE, Momax, MiLi and Lifemate are tags. A good fit for the use scored higher than a longer spec list."},
+  {"title": "Network support", "description": "We checked which phones each product works with. The ZIMCORE and QUICKHORSE are iPhone only, the MiLi and Lifemate are Android only, and the KIUP and Momax claim both. Clear statements earned credit."},
+  {"title": "Alarm and range", "description": "We compared stated volume and range, from the Lifemate and KIUP at 120 dB to the Momax at 80 dB. The MiLi and Lifemate list 150 m. Missing figures lowered confidence."},
+  {"title": "Power and durability", "description": "We looked at battery type, replaceability and IP claims. The KIUP is IP68, the MiLi IP67 and the QUICKHORSE rechargeable. Unverified long-life claims were treated with caution."},
+  {"title": "Value at this cap", "description": "We asked what each product offers at a small budget. A two-tag pack, a loud card and a universal tag all give real value. Products with thin listings scored lower."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Lose",
+   "intro": "The object you lose should decide the form.",
+   "table": {
+    "headers": ["You lose", "Pick", "Why"],
+    "rows": [
+     ["Wallet", "KIUP Wallet Tracker Card 0.06 Inch", "Slim card with 120 dB alarm and IP68"],
+     ["Wallet, iPhone only", "QUICKHORSE Wallet Tracker Card for Apple Find My", "MFi certified and wireless charging"],
+     ["House and car keys, iPhone", "ZIMCORE 2 Pack Tracker Tags for Apple Find My", "Two tags with left-behind alerts"],
+     ["Keys, Android", "MiLi Air Tracker Tag for Android", "Voice ringing and IP67"],
+     ["Bags shared by a family", "MOMAX Universal Tracker Tag for Android and iOS", "Sharing with up to 5 users"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers inside this cap follow certification and extras.",
+   "table": {
+    "headers": ["Tier within the cap", "Pick", "What you get"],
+    "rows": [
+     ["Lower end", "ZIMCORE 2 Pack Tracker Tags for Apple Find My", "Two basic Find My tags"],
+     ["Lower end", "Lifemate Air Tracker Tags for Android", "Loud alarm and long stated range"],
+     ["Middle", "MiLi Air Tracker Tag for Android", "IP67 and voice commands"],
+     ["Middle", "MOMAX Universal Tracker Tag for Android and iOS", "Cross-platform sharing"],
+     ["Near the cap", "QUICKHORSE Wallet Tracker Card for Apple Find My", "Apple certification and Qi charging"],
+     ["Near the cap", "KIUP Wallet Tracker Card 0.06 Inch", "120 dB, IP68 and dual network"]
+    ]
+   }
+  },
+  {
+   "subheading": "Single Network vs Both Networks",
+   "intro": "Cross-platform tags solve one problem and create another.",
+   "cards": [
+    {"label": "Single network", "text": "The ZIMCORE and QUICKHORSE use Apple, and the MiLi and Lifemate use Google. They tap the biggest crowd for their platform and are simple to set up. They fail if you switch phone brands. Pick them if your phone is fixed."},
+    {"label": "Both networks", "text": "The KIUP and Momax claim Apple and Google support. They help mixed families and future switches, but a tag runs on one network at a time and listings give fewer details. Pick them for flexibility."}
+   ],
+   "note": "Check which network the tag is actually paired to."
+  },
+  {
+   "subheading": "By Power Preference",
+   "intro": "How you handle batteries should shape the choice.",
+   "table": {
+    "headers": ["Preference", "Pick", "Reason"],
+    "rows": [
+     ["Swap a coin cell yearly", "MiLi Air Tracker Tag for Android", "Replaceable CR2032"],
+     ["Swap a coin cell, iPhone", "ZIMCORE 2 Pack Tracker Tags for Apple Find My", "Replaceable CR2032"],
+     ["Charge every few months", "QUICKHORSE Wallet Tracker Card for Apple Find My", "Qi charging, about 4 months"],
+     ["Never think about it", "KIUP Wallet Tracker Card 0.06 Inch", "5 to 10 years claimed"],
+     ["Unknown battery", "Lifemate Air Tracker Tags for Android", "Check the listing before relying"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Travel Specifically",
+   "intro": "Trackers on luggage face noise and distance.",
+   "cards": [
+    {"label": "Look for", "text": "Choose a loud alarm, a strong attachment and a network with many nearby phones. Water and dust resistance help with rain. Share access with a travel partner."},
+    {"label": "In this comparison", "text": "The Lifemate at up to 120 dB and 150 m suits Android luggage. The Momax shares with up to five users, and the KIUP card fits a passport holder."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Higher tiers add precision and brand assurance.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want direction arrows or precision finding that these listings do not describe", "A ring and last seen location are enough"],
+     ["You want a well-known brand warranty", "The KIUP or Lifemate numbers satisfy you"],
+     ["You want a sealed multi-year design with support", "A yearly coin cell swap is fine"],
+     ["You need a tag for a car or a pet with extra features", "A simple tag on a bag does the job"]
+    ]
+   },
+   "note": "At this cap you get the essential function."
+  }
+ ],
+ "faq": [
+  {"q": "Is a Bluetooth tracker the same as GPS?", "a": "No. A tag rings nearby and reports a last known location when passing phones detect it. It does not follow a car in real time."},
+  {"q": "Can one tag work with iPhone and Android?", "a": "A tag runs on one network at a time. The KIUP and Momax claim support for both, but you choose one at setup. A mixed couple needs two tags."},
+  {"q": "Which is better for a wallet, a tag or a card?", "a": "A card, because a keyring tag is thick. The KIUP is 0.06 inches thin and the QUICKHORSE recharges. A card gives up a keyring hole."},
+  {"q": "How do I know the alarm figures are real?", "a": "They are maker claims. The KIUP and Lifemate list up to 120 dB. Test the ring on arrival."},
+  {"q": "Do I need a subscription?", "a": "The tags here use Apple Find My or Google Find Hub, which have no monthly fee. Check unfamiliar brands before paying."},
+  {"q": "What about unknown tracker alerts?", "a": "Phones warn when an unknown tracker travels with you. These alerts protect privacy. Never hide a tag on another person."},
+  {"q": "How often should I change batteries?", "a": "About yearly for coin cells, and every four months for the QUICKHORSE charge. Mark the date when you set the tag up, and keep a spare cell with your other batteries."}
+ ]
+}
