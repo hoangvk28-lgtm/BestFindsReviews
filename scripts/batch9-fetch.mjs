@@ -26,6 +26,9 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch13") {
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch13-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", niche: "Budget", why: `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).`, note: "" }));
+  }
   if (process.env.BATCH === "batch12") {
     return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch12-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", niche: "Budget", why: `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).`, note: "" }));
   }

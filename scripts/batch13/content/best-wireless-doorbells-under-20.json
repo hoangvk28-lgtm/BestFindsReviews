@@ -1,0 +1,171 @@
+{
+ "guideTitle": "6 Best Wireless Doorbells Under $20 in 2026",
+ "metaTitle": "Best Wireless Doorbells Under $20 (2026)",
+ "metaDescription": "Six plug-in and battery wireless doorbells compared on range, chimes, volume and visual alerts, plus one budget video model for those who want a camera.",
+ "introParagraphs": [
+  "A wireless doorbell removes the wiring job: a push button on the door sends a radio signal to a receiver you plug into a wall socket or place where you can hear it. At this budget most kits are pre-paired, so setup takes minutes, and the differences come down to range, chime choice, volume and whether the receiver also flashes a light.",
+  "We evaluated each doorbell from its product page and specs, looking at stated range, melody count, volume levels, weather rating and extras such as colored lights or a second receiver. This page leans toward the more capable end of the budget, so you will see longer range and light alerts instead of only the barest push-and-ring set.",
+  "One pick is a different animal: a budget Wi Fi video doorbell with a camera. It is included for buyers who want to see the visitor, but it comes with network and cloud trade-offs that a simple chime kit avoids. Use the pick notes to decide which route suits your door."
+ ],
+ "products": [
+  {
+   "i": 2,
+   "badge": "Best Overall",
+   "name": "AVANTEK 1300ft Wireless Doorbell with 2 Receivers",
+   "specs": ["1300ft range", "2 plug-in receivers", "115dB volume", "52 chimes", "IP55 button"],
+   "specList": [{"label": "Range", "value": "1300 ft (400 m)"}, {"label": "Receivers", "value": "2 plug-in"}, {"label": "Volume", "value": "Up to 115dB, 5 levels"}, {"label": "Button rating", "value": "IP55 dust and water resistant"}],
+   "description": "AVANTEK packs one push button and two plug-in receivers into the same box, so you can ring a chime upstairs and downstairs from a single press. The maker lists a 1300 foot open-air range, 52 chimes from a 40 mm stereo speaker, five volume levels with a top output of 115dB and an LED flash. The transmitter uses a lithium battery that the listing says can last up to three years.\n\nTwo receivers are the practical advantage, because a doorbell you cannot hear from the back garden or the basement is half useless. The IP55 rating is aimed at dust and water on the button. The chime count is higher than a basic kit needs, and the range figure is measured in open air, so walls will cut it.\n\nSetup is quick: stick or screw the button, plug the receivers in. Against the SECRUI it offers a longer stated range, while against the TECKNET it uses plug-in receivers instead of a battery chime. It is the most all-round kit here for a house with more than one living level. Plug the second receiver in the room you spend the most time in, not just the hall, and test the signal from the far end of the garden before you fix the button in place, since a transmitter at the edge of its range may ring late or not at all.",
+   "bestFor": "A house with two floors that needs a chime in more than one place.",
+   "pros": ["Two receivers cover separate floors", "Stated open-air range of 1300 feet", "Button rated IP55 for dust and water", "Five volume levels plus an LED flash"],
+   "cons": ["Range falls well below the claim indoors", "Plug-in receivers need free sockets"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Loud Pick",
+   "name": "FOVKSUC 1000ft Loud Waterproof Wireless Doorbell",
+   "specs": ["1000ft range", "110dB maximum volume", "60 melodies", "5 volume levels", "2 mute modes"],
+   "specList": [{"label": "Range", "value": "1000 ft"}, {"label": "Max volume", "value": "110dB"}, {"label": "Melodies", "value": "60 with preview mode"}, {"label": "Install", "value": "Plug-in receiver, stick-on button"}],
+   "description": "FOVKSUC leans on loudness and choice: a maximum volume of 110dB, five volume levels, two mute modes and 60 melodies with a ringtone preview mode so you can listen before you commit. The listing gives a 1000 foot reception distance, a waterproof button and a plug-and-play receiver. Installation is described as taking about three seconds for the receiver.\n\nThe preview mode is a real convenience, since scrolling through dozens of tunes blind is tedious. The loud output suits larger rooms and noisy households. The brand has less of a track record than the better-known names, so durability over several years is harder to judge from specs alone.\n\nIn use it behaves as expected: plug in, press, hear. Compared with the AVANTEK it has one receiver and a lower stated range, and it offers more melodies. It beats the ELKRTG on stated loudness, while the ELKRTG adds a coloured light. A good pick if you struggle to hear a quiet chime. Turn the volume down for evening use, because the top setting is built to cut through a large house and can be startling in a small flat, and use one of the mute modes whenever someone is sleeping or on a call nearby.",
+   "bestFor": "Noisy or large homes where volume is the main worry.",
+   "pros": ["Maximum volume of 110dB for loud rooms", "60 melodies with a preview mode", "Two mute modes for quiet periods", "Receiver plugs in with no tools"],
+   "cons": ["Less established brand, track record unclear", "Single receiver covers one spot only"]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Choice of Chimes",
+   "name": "SECRUI 58-Chime Wireless Doorbell with Colorful LED",
+   "specs": ["58 chimes", "5 volume levels", "1000ft FM range", "Colorful LED", "Pre-paired"],
+   "specList": [{"label": "Chimes", "value": "58"}, {"label": "Volume", "value": "5 levels"}, {"label": "Range", "value": "Up to 1000 ft, FM signal"}, {"label": "Alert", "value": "Colorful LED"}],
+   "description": "SECRUI sends its signal over an FM scheme the listing describes as strongly resistant to interference, and the kit arrives paired from the factory. It has 58 chimes including a seasonal tune, five volume levels and a colorful LED that flashes when the button is pressed. No wiring or electrician is needed.\n\nThe LED adds a visual alert, which helps if you are in a noisy room or have trouble hearing a chime. Because it is pre-paired, it works straight from the box. There is no camera, so you only know a visitor is there, not who.\n\nSetup involves plugging in the receiver and fixing the button with tape or screws. Compared with the AVANTEK it has one receiver and a shorter stated range, and compared with the FOVKSUC it has a light but fewer melodies. It is a sensible pick for buyers who want the visual flash. Mount the receiver where the LED can be seen from your usual chair, since a light hidden behind furniture does the job no better than a quiet chime, and check the button battery once a year to keep the signal strong.",
+   "bestFor": "A home where a light alert helps, such as a busy or noisy room.",
+   "pros": ["Colorful LED flashes with each press", "Factory pre-paired for instant use", "FM signal described as interference-resistant", "58 chimes with five volume levels"],
+   "cons": ["No camera, so no view of the visitor", "Only one receiver comes in the kit"]
+  },
+  {
+   "i": 7,
+   "badge": "Best for Battery Life",
+   "name": "TECKNET 1300ft Battery-Powered Wireless Doorbell",
+   "specs": ["1300ft range", "Battery-powered receiver", "36-month battery life", "IP66 waterproof", "RGB alert light"],
+   "specList": [{"label": "Range", "value": "1300 ft"}, {"label": "Battery life", "value": "Up to 36 months"}, {"label": "Water rating", "value": "IP66"}, {"label": "Alert", "value": "RGB light on receiver"}],
+   "description": "TECKNET builds its receiver to run on batteries, so you can place it in a room without a spare socket. The listing quotes a 36 month battery life through a sleep function that shuts the kit down after a few minutes of inactivity. It adds an RGB light indicator on the receiver and an IP66 waterproof design for the transmitter, with a stated range of 1300 feet and more than 60 chimes.\n\nThe battery receiver is the appeal: it can sit on a shelf, in a workshop or beside a bed. The long battery claim is a maker figure and depends on how often it rings. The IP66 rating is higher than the IP55 on the AVANTEK, which suits an exposed doorway.\n\nThe flexible placement also means you can carry the receiver around the house. Compared with the AVANTEK it trades a plug-in design for portability, and compared with the SECRUI it quotes a longer range. It is the best choice where sockets are scarce. Because the receiver is portable, you can carry it into the garden while you work, though a receiver left on a window ledge in the sun will age faster, so keep it somewhere shaded and dry, and fit fresh batteries before a long holiday.",
+   "bestFor": "Workshops, garages or rooms with no free outlet.",
+   "pros": ["Receiver runs on batteries, no outlet needed", "IP66 waterproof button for exposed doors", "RGB light shows when someone rings", "Sleep function aims to stretch battery life"],
+   "cons": ["Battery life claim depends on use", "Receiver needs batteries replaced eventually"]
+  },
+  {
+   "i": 8,
+   "badge": "Best Visual Alert",
+   "name": "ELKRTG 8-Color Breathing Light Wireless Doorbell",
+   "specs": ["8-color breathing light", "60 melodies", "1000ft range", "5 volume levels", "2 mute modes"],
+   "specList": [{"label": "Light", "value": "8-color breathing"}, {"label": "Melodies", "value": "60 with preview"}, {"label": "Range", "value": "1000 ft"}, {"label": "Pairing", "value": "Factory pre-paired"}],
+   "description": "ELKRTG pairs 60 melodies with a ringtone preview mode and an eight-color breathing light that pulses as a visual alert. It has five volume levels and two mute modes, and a stated range of 1000 feet that the listing says can pass through several walls. Each transmitter and receiver is paired at the factory to keep the link stable.\n\nThe breathing light is more of a design feature than the plain LED on some rivals, and it can serve as a night-light-style indicator. Two mute modes help during naps or calls. The range claim is again a best-case figure, and the listing gives less detail on weather rating.\n\nIt is a pleasant, no-fuss kit for a flat or small house. Compared with the SECRUI it has more melodies and a softer light, and compared with the FOVKSUC it adds the coloured display. Pick it when the look of the alert matters. It works well on a bedside table or a hallway shelf, where a gentle pulse is enough to catch your eye, and the mute modes let you keep the light going while the sound stays off during the night.",
+   "bestFor": "Bedrooms and flats where a soft light alert beats a loud chime.",
+   "pros": ["Breathing light in eight colors", "60 melodies and a ringtone preview mode", "Two mute modes for quiet times", "Pre-paired transmitter and receiver"],
+   "cons": ["Weather rating is not stated clearly", "Range claim is a best-case figure"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Budget Camera Option",
+   "name": "Orbitell 1080p Wi Fi Video Doorbell Camera",
+   "specs": ["1080p video", "Two-way audio", "Night vision", "AI person detection", "Cloud storage option"],
+   "specList": [{"label": "Video", "value": "1080p"}, {"label": "Audio", "value": "Two-way"}, {"label": "Network", "value": "2.4GHz Wi Fi only"}, {"label": "Storage", "value": "AES-128 encrypted cloud"}],
+   "description": "Orbitell is the only camera in this guide: a battery-powered Wi Fi video doorbell with 1080p video, two-way audio, night vision and AI that tries to identify people while filtering out vehicles and animals. Cloud recordings use AES-128 encrypted storage, and subscribers get pre-capture so the clip starts just before motion. It works on 2.4GHz networks only.\n\nSeeing the visitor on your phone is the benefit over every chime kit here, and the AI filter can cut false alerts. The catches are the network and the account: you need strong 2.4GHz Wi Fi at the door, a phone app and, for cloud features, a subscription. The brand is also less established.\n\nIt is a very different ownership experience from a plain chime. If you only want to hear a ring, the cheaper chime kits are simpler. Against the AVANTEK it adds video but loses the plug-in receivers. It suits buyers who want a basic camera at the door. Before you buy, check the signal strength where the doorbell will sit and read the cloud plan terms, because a battery camera that drops off the network is less useful than a simple chime, and recording features may require a monthly plan.",
+   "bestFor": "Buyers who want to see visitors on a phone and accept the app.",
+   "pros": ["1080p video with two-way audio", "AI person detection filters some alerts", "Night vision for evening visitors", "Encrypted cloud storage is offered"],
+   "cons": ["Works on 2.4GHz Wi Fi networks only", "Cloud features and pre-capture need a plan"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Real-world range", "explanation": "Range figures are open-air maximums. The AVANTEK and TECKNET claim 1300 feet, while the FOVKSUC, SECRUI and ELKRTG claim 1000. Walls, metal and appliances cut that sharply. Aim for a kit that claims far more than you need, and test the receiver in its final spot before sticking the button down."},
+  {"criterion": "Receiver count and placement", "explanation": "A single chime may not carry through a whole house. The AVANTEK includes two plug-in receivers, while the others come with one. The TECKNET receiver runs on batteries, so it can move to a spot without a socket. Count your living levels and decide how many places need a chime. A common mistake is placing a single receiver in the hall, then not hearing it in the garden or the loft, so think about where you actually spend your time and put the receiver as close to that spot as the layout allows."},
+  {"criterion": "Volume and mute options", "explanation": "Volume levels matter more than peak decibels. The FOVKSUC lists 110dB with five levels, the AVANTEK lists up to 115dB, and the SECRUI and ELKRTG list five levels. Two mute modes, as on the FOVKSUC and ELKRTG, help during naps. If someone in the home has hearing difficulties, prefer a kit with a light as well."},
+  {"criterion": "Visual alert lights", "explanation": "A flashing light covers the case where a chime is missed. The SECRUI has a colorful LED, the ELKRTG has an eight-color breathing light and the TECKNET has an RGB light on the receiver. The AVANTEK offers an LED flash. These help in loud rooms or for people who are hard of hearing."},
+  {"criterion": "Weather rating of the button", "explanation": "The outdoor button takes rain, dust and sun. The TECKNET lists IP66 and the AVANTEK lists IP55, while the others describe themselves only as waterproof. A higher IP number means better protection. Mount the button under an eave if possible, and use a little silicone sealant around screw holes on a bare brick or render wall. Cold weather also shortens battery life in any transmitter, so a sheltered spot helps the signal as much as it helps the casing."},
+  {"criterion": "Chime-only versus camera", "explanation": "A chime kit tells you someone is there. The Orbitell shows who, with 1080p video, two-way audio and AI detection, but needs 2.4GHz Wi Fi, an app and a plan for cloud features. If you simply want to hear a ring, a chime kit is simpler and has no recurring costs."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Range and signal reliability", "description": "We compared stated range and the signal technology on each listing. The AVANTEK and TECKNET lead at 1300 feet, while the SECRUI describes an FM scheme resistant to interference. All figures are best-case claims."},
+  {"title": "Coverage and placement", "description": "We counted receivers and checked power sources. The AVANTEK's two plug-in receivers lead, and the TECKNET's battery receiver wins on flexible placement. Single-receiver kits were scored on how well they cover a small home."},
+  {"title": "Alert flexibility", "description": "We looked at volume levels, melodies, mute modes and lights. The FOVKSUC and ELKRTG lead on melodies and mute options, and the SECRUI, ELKRTG and TECKNET offer visual alerts. Based on specs and buyer feedback, we noted which kits help with missed chimes."},
+  {"title": "Weather resistance", "description": "We compared stated ratings. The TECKNET's IP66 is the highest, followed by the AVANTEK's IP55. Others state only waterproofing, which we treated cautiously."},
+  {"title": "Value at this budget", "description": "We asked what each kit adds over a bare chime and where a buyer might spend more. The lineup positions the AVANTEK as the best all-rounder, the FOVKSUC as the loudest and the Orbitell as the only way to see visitors."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Home Layout",
+   "intro": "Where you want to hear the bell sets the choice.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Two-storey house", "AVANTEK 1300ft Wireless Doorbell with 2 Receivers", "One receiver per floor"],
+     ["Large noisy home", "FOVKSUC 1000ft Loud Waterproof Wireless Doorbell", "110dB maximum volume"],
+     ["Workshop or garage with no outlet", "TECKNET 1300ft Battery-Powered Wireless Doorbell", "Battery receiver goes anywhere"],
+     ["Flat with a bedroom nearby", "ELKRTG 8-Color Breathing Light Wireless Doorbell", "Soft light with mute modes"],
+     ["Want to see the visitor", "Orbitell 1080p Wi Fi Video Doorbell Camera", "Camera and two-way audio"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Inside the cap, tiers separate by receivers, weatherproofing and camera.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry within the cap", "SECRUI 58-Chime Wireless Doorbell with Colorful LED", "One receiver with a light"],
+     ["Lower-mid", "ELKRTG 8-Color Breathing Light Wireless Doorbell", "More melodies and a soft light"],
+     ["Upper-mid", "TECKNET 1300ft Battery-Powered Wireless Doorbell", "Battery receiver and IP66"],
+     ["Top of the cap", "AVANTEK 1300ft Wireless Doorbell with 2 Receivers", "Two receivers and long range"]
+    ]
+   },
+   "note": "The FOVKSUC and Orbitell sit between the middle tiers, depending on whether you want volume or a camera."
+  },
+  {
+   "subheading": "Plug-In vs Battery Receiver",
+   "cards": [
+    {"label": "Plug-in receiver", "text": "Never needs new batteries and usually sounds fuller. The AVANTEK, FOVKSUC, SECRUI and ELKRTG use this. Best where you have a free socket near the spot you want to hear it."},
+    {"label": "Battery receiver", "text": "Goes where you want, with no socket. The TECKNET uses this and claims 36 months. Best for workshops, shelves and bedside use."}
+   ]
+  },
+  {
+   "subheading": "By Alert Style",
+   "intro": "Pick the way you want to be told.",
+   "table": {
+    "headers": ["Alert preference", "Pick", "Reason"],
+    "rows": [
+     ["Loud chime", "FOVKSUC 1000ft Loud Waterproof Wireless Doorbell", "110dB maximum"],
+     ["Bright flashing LED", "SECRUI 58-Chime Wireless Doorbell with Colorful LED", "Colorful LED flash"],
+     ["Soft pulsing light", "ELKRTG 8-Color Breathing Light Wireless Doorbell", "Breathing light"],
+     ["Phone notification", "Orbitell 1080p Wi Fi Video Doorbell Camera", "App alerts with video"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Hard-of-Hearing Households Specifically",
+   "cards": [
+    {"label": "Look for", "text": "A strong light alert, high maximum volume and a receiver you can place close to where you sit. A phone notification can also help."},
+    {"label": "In this comparison", "text": "The SECRUI, ELKRTG and TECKNET all add visual lights, the FOVKSUC and AVANTEK give the loudest sound, and the Orbitell sends a phone alert."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want a reliable video doorbell without a subscription push, beyond the Orbitell", "A chime is enough, so the SECRUI works"],
+     ["You need coverage for a large property with several outbuildings", "One receiver covers your home, as with the ELKRTG"],
+     ["You want a hard-wired chime that matches existing decor", "A plug-in receiver such as the FOVKSUC is fine"],
+     ["You want smart-home integration", "A simple ring suits you"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {"q": "Which wireless doorbell is best for a two-storey home?", "a": "The AVANTEK kit comes with two plug-in receivers, so you can hear it on both floors. Others have one receiver, so you would buy an extra. The TECKNET is another option because its receiver can move."},
+  {"q": "How far will the signal really go?", "a": "Stated figures such as 1000 or 1300 feet are open-air numbers. Walls and metal cut them. Test the receiver in place first and move the button if needed."},
+  {"q": "Do the batteries last?", "a": "The AVANTEK lists a lithium transmitter battery of up to three years, and the TECKNET lists 36 months. Real life depends on use. Keep spares, and note the battery type on the box so you can replace it quickly. A weak transmitter battery often shows up first as a slow or missed ring at the far end of the range, so treat a patchy chime as a cue to change the battery before you blame the receiver."},
+  {"q": "What is the difference between waterproof ratings?", "a": "IP66 on the TECKNET is a stronger rating than IP55 on the AVANTEK. Kits that only say waterproof give less information. Shield the button under an eave."},
+  {"q": "Is a video doorbell worth it at this level?", "a": "The Orbitell gives video and two-way audio, but it needs 2.4GHz Wi Fi, an app and a plan for cloud features. A chime kit is simpler. Choose video only if you want to see visitors."},
+  {"q": "Can I add more receivers later?", "a": "Many kits in this style allow extra receivers to be paired, though you should check the maker's note. The AVANTEK ships with two. Confirm compatibility before buying."},
+  {"q": "Will it interfere with other devices?", "a": "The SECRUI describes an FM signal designed to resist interference. The AVANTEK says it will not interfere with other equipment. Keep the receiver away from routers and microwaves where possible, and if you live in a block of flats with several similar doorbells, check that your kit lets you change the pairing code, because a neighbour with the same model can sometimes ring your chime by accident."}
+ ]
+}

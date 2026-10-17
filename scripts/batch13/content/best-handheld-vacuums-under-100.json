@@ -1,0 +1,182 @@
+{
+ "guideTitle": "6 Best Handheld Vacuums Under $100 in 2026",
+ "metaTitle": "6 Best Handheld Vacuums Under $100 in 2026",
+ "metaDescription": "Six handheld vacuums with more headroom than entry models, compared by weight, bin size, charging dock and tools for pet hair, cars and stairs.",
+ "introParagraphs": [
+  "Move a little higher in budget and handheld vacuums start to feel like real appliances rather than novelty gadgets. You see charging docks, brushless motors, bigger bins and tools designed for specific jobs. The question stops being whether a handheld can pick up crumbs and becomes which compromise you are happy to live with: more weight for a bigger cup, or a lighter body that you empty more often.",
+  "This group is led by two Shark models. The WANDVAC WV201 weighs 1.4 pounds, has a brushless motor and sits on a charging dock, while the UltraCyclone Pro CH901 trades weight for an XL dust cup. Two BLACK+DECKER dustbusters bring tool variety and familiar controls. The Evekas and Blestan round things out with larger bins and fast-charging claims.",
+  "We evaluated each pick based on product specs and buyer feedback, concentrating on weight, bin size, tools, charging and filter care. We also noted where a model gives up detail, because several listings leave out runtime or battery figures."
+ ],
+ "products": [
+  {
+   "i": 2,
+   "badge": "Best Overall",
+   "name": "Shark WV201 WANDVAC Handheld Vacuum",
+   "specs": ["Weighs 1.4 lbs", "Brushless motor", "Charging dock included", "Single touch empty"],
+   "specList": [{"label": "Weight", "value": "1.4 lbs"}, {"label": "Motor", "value": "Brushless"}, {"label": "Dock", "value": "Charging dock included"}, {"label": "Emptying", "value": "Single touch"}],
+   "description": "The WANDVAC is the most balanced handheld at this level. At just 1.4 pounds it is light enough to wave around a ceiling corner or the back of a couch without tiring your wrist, and the maker pairs it with a brushless motor for strong cordless suction. A charging dock gives it a permanent parking spot, so the battery is usually full when you reach for it.\n\nEmptying is where the design shows its polish. A single touch releases the contents of the dust cup, so you rarely touch the debris. The bundled tools include a Multi-Surface Pet Tool for upholstery, carpet and pet hair, plus a crevice tool for tight spaces and car interiors. The weak spot is that the listing text gives no cup volume or runtime figures, so you cannot compare capacity directly.\n\nIt suits anyone who vacuums small areas often and wants things to be easy. Compared with the UltraCyclone Pro at 2.2 pounds, it is nearly a pound lighter but likely holds less. Compared with the Evekas and its 670 ml bin, it stands out on polish rather than size. Empty it after each session and wipe the dock contacts if charging ever seems intermittent.",
+   "bestFor": "Daily small cleanups where light weight, a dock and quick emptying matter most.",
+   "pros": ["Weighs just 1.4 lbs for easy reach", "Brushless motor for strong cordless suction", "Single touch empty keeps hands clean", "Pet tool and crevice tool both included"],
+   "cons": ["Dust cup volume is not listed anywhere", "No runtime figure in the listing text", "Dock needs a spot near an outlet"]
+  },
+  {
+   "i": 0,
+   "badge": "Best for Bigger Messes",
+   "name": "Shark UltraCyclone Pro Cordless Handheld Vacuum CH901",
+   "specs": ["XL dust cup", "Two cyclonic air streams", "Weighs 2.2 lbs", "Home and car design"],
+   "specList": [{"label": "Dust cup", "value": "XL"}, {"label": "Airflow", "value": "Two cyclonic streams"}, {"label": "Weight", "value": "2.2 lbs"}, {"label": "Use", "value": "Car and home"}],
+   "description": "The UltraCyclone Pro is the pick when the mess is large. Its XL dust cup holds more before you have to stop and empty, and two cyclonic air streams are designed to separate dirt from the airflow so suction stays more consistent. That combination suits stairs, minivans and homes with shedding pets.\n\nThe drawback is mass. At 2.2 pounds it is the heavier of the two Shark models in this lineup, and you feel that difference when cleaning overhead or holding it out for several minutes. The listing text offers no battery or runtime figures, so check the product page if you need a time estimate. It also needs more room in a cabinet than a compact dustbuster.\n\nChoose it if you value capacity over lightness. Compared with the WANDVAC at 1.4 pounds, it handles longer jobs but tires your arm faster. Compared with the BLACK+DECKER PIVOT VAC, it has the larger bin but fewer reach tools named in the listing. After a pet hair session, remove the cup and filter, tap out debris and let parts air dry before reassembling.",
+   "bestFor": "Larger car, stair and pet hair jobs where a bigger bin saves trips.",
+   "pros": ["XL dust cup handles bigger cleanups", "Cyclonic airflow aims to keep suction steady", "Works for both the car and the house", "Longer sessions between emptying the bin"],
+   "cons": ["At 2.2 lbs it tires the arm sooner", "Battery and runtime details are missing", "Needs more cabinet space than compact models"]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Tight Spots",
+   "name": "BLACK+DECKER dustbuster PIVOT VAC Handheld Vacuum",
+   "specs": ["20V MAX lithium ion battery", "Extendible crevice tool", "Pivoting head", "Rechargeable cordless"],
+   "specList": [{"label": "Battery", "value": "20V MAX lithium ion"}, {"label": "Crevice tool", "value": "Extendible"}, {"label": "Head", "value": "Pivots"}, {"label": "Power", "value": "Rechargeable cordless"}],
+   "description": "The PIVOT VAC is designed around angles. A head that pivots lets you keep the nozzle flat against a car seat, a stair tread or a skirting board without twisting your wrist. It runs from a 20V MAX lithium ion battery, which the maker describes as providing high suction and performance, and an extendible crevice tool stretches into narrow gaps.\n\nThe extendible tool is a real advantage in vehicles, where crumbs hide between the seat and the console. What is missing is detail: the listing provides no weight, no bin volume and no runtime, which makes it harder to weigh against the Blestan's 12 oz bin or the Evekas's 670 ml bin. The pivot joint also adds one more place for fine dust to settle.\n\nThis model is for people who clean tricky shapes more than big areas. Compared with the AdvancedClean, it swaps a rotating nozzle for a pivot head and longer crevice reach. Compared with the WANDVAC, it relies on a familiar brand and tool design rather than a stated weight. Rinse the filter when airflow drops, and fully extend the tool when you need extra reach.",
+   "bestFor": "Cleaning car interiors, baseboards and narrow gaps where angle and reach count.",
+   "pros": ["Pivoting head keeps the nozzle flat on surfaces", "Extendible crevice tool reaches deep gaps", "20V MAX lithium ion battery pack", "Cordless rechargeable and ready for the car"],
+   "cons": ["Weight and bin size are not stated", "No runtime figure in the product text", "Pivot joint can trap fine dust"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Dock-Ready Dustbuster",
+   "name": "BLACK+DECKER dustbuster AdvancedClean Handheld Vacuum",
+   "specs": ["Charging station included", "Crevice tool", "Rotating nozzle", "Home and car design"],
+   "specList": [{"label": "Station", "value": "Charging station included"}, {"label": "Crevice tool", "value": "Included"}, {"label": "Nozzle", "value": "Rotating"}, {"label": "Power", "value": "Cordless rechargeable"}],
+   "description": "The AdvancedClean offers a traditional dustbuster experience with a few useful upgrades. A charging station is part of the package, so the vacuum has a base to rest on and recharge. The nozzle rotates to help you reach awkward angles, and a crevice tool is included for seams in cars, sofas and stair corners.\n\nIt is a compact home-and-car design, and its simplicity is a virtue for people who do not want to learn settings. The cost is capacity: the dust cup is smaller than premium models outside this brand, and the listing includes no weight or runtime numbers. It also costs more than the simplest dustbuster in the brand's lineup, so you are paying for the station and tools.\n\nPick it if you want a straightforward, known design that stays charged. Compared with the WANDVAC, it gives up weight and a brushless motor in exchange for familiarity. Compared with the Blestan, it has a station but a smaller, less clearly specified bin. Keep the charging base near a regular outlet, and empty the cup before it gets half full to maintain airflow.",
+   "bestFor": "Households that want a simple, known dustbuster that always stays on its dock.",
+   "pros": ["Charging station included in the package", "Rotating nozzle helps with awkward angles", "Crevice tool handles seams and corners", "Compact body suits home and car use"],
+   "cons": ["Dust cup is on the smaller side", "No weight or runtime in the listing", "Costs more than the basic dustbuster"]
+  },
+  {
+   "i": 7,
+   "badge": "Best Large Bin Value",
+   "name": "Evekas Handheld Vacuum Cordless, 9000PA, 670ml Dustbin",
+   "specs": ["670 ml dustbin", "6000mAh battery", "2 suction modes", "Type-C charging"],
+   "specList": [{"label": "Dustbin", "value": "670 ml"}, {"label": "Battery", "value": "6000mAh"}, {"label": "Modes", "value": "2 suction modes"}, {"label": "Charging", "value": "Type-C, 3.5 to 4 hours full"}],
+   "description": "The Evekas is the large-bin option among the lesser-known brands. The listing gives it a 670 ml dustbin, which it says holds nearly twice as much as standard models, and a 6000mAh battery. Two suction modes let you drop to a lower setting on delicate fabric or switch to the 9000PA maximum for stubborn grit.\n\nCharging is by Type-C, which is convenient because the cable is common, but the full charge takes about 3.5 to 4 hours, so it is not a quick top-up tool. The 9000PA figure is a maker claim and should be read that way. There is no dock, so the machine rests wherever you leave it, and the listing gives no weight to compare against the 1.4 pound WANDVAC.\n\nIt makes sense for car cleaning and family homes where a bigger bin counts. Compared with the Blestan's 12 oz bin, it holds noticeably more. Compared with the Shark CH901, it offers a similar large-bin idea from a less established brand. Charge it overnight, empty after each session, and wash or tap the filter when suction fades.",
+   "bestFor": "Car and family cleanups where a large bin and common USB-C charging help.",
+   "pros": ["670 ml dustbin holds a lot between empties", "Two suction modes for fabric or grit", "Type-C charging uses a common cable", "6000mAh battery for longer sessions"],
+   "cons": ["Full charge takes 3.5 to 4 hours", "No dock for storage or quick charging", "Weight is not listed on the page"]
+  },
+  {
+   "i": 9,
+   "badge": "Best Compact Extras",
+   "name": "Blestan Handheld Vacuum Cordless with LED Light",
+   "specs": ["1.6 lb body", "12 oz dustbin", "LED light", "2 suction modes"],
+   "specList": [{"label": "Weight", "value": "1.6 lb"}, {"label": "Dustbin", "value": "12 oz"}, {"label": "Light", "value": "LED"}, {"label": "Modes", "value": "2 suction modes, cyclonic"}],
+   "description": "The Blestan packs several thoughtful extras into a 1.6 pound body. Two suction modes use cyclonic airflow, a 12 oz dustbin gives a decent capacity for a lightweight unit, and an LED light helps you see dust under seats and furniture. It is sold as a 3-in-1, which refers to its set of attachments.\n\nThe listing talks about multiple 2000mAh lithium-ion batteries and quick-charge technology, with a battery life it describes as extended by about 30 percent or more. That claim is vague, and you should treat the runtime as unknown. Like the Evekas, it has no dock, so it relies on you remembering to charge it. It is also less proven as a brand than the Shark or BLACK+DECKER models.\n\nIt fits people who want a light, well-lit handheld for car footwells and dark corners. Compared with the WANDVAC at 1.4 pounds, it is a little heavier but adds a light. Compared with the Evekas, it has a smaller bin yet weighs a known 1.6 pounds. Clean the filter after each use, and charge it away from direct heat.",
+   "bestFor": "Dark car footwells and corners where an LED light and a lighter body help.",
+   "pros": ["LED light shows dust in dark corners", "Light 1.6 lb body for one-handed use", "12 oz dustbin is a decent size", "Two suction modes with cyclonic airflow"],
+   "cons": ["Battery life claim is vague and unverified", "No dock listed for storage or charging", "Brand is less established than rivals"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Weight versus bin size", "explanation": "These two traits pull against each other, and you have to decide which matters more. The Shark WANDVAC weighs 1.4 pounds, the Blestan 1.6 pounds, and the Shark CH901 2.2 pounds but with an XL cup. If you clean overhead or for long stretches, favor weight. If your messes are big and you hate stopping to empty, favor capacity such as the Evekas 670 ml bin."},
+  {"criterion": "Charging dock presence", "explanation": "A dock keeps the battery topped up and sets the vacuum where you can see it. The WANDVAC includes a charging dock and the AdvancedClean includes a charging station. The Evekas and Blestan rely on a cable, with the Evekas taking 3.5 to 4 hours for a full charge. If you often forget to plug in gadgets, a dock is the single most useful feature."},
+  {"criterion": "Emptying design", "explanation": "Emptying is the chore you do most, so it should be easy. The WANDVAC uses single touch emptying, and many others need you to twist off a cup. Choose a design that opens over a bin without spilling dust on your hands. A washable or tappable filter also keeps maintenance quick."},
+  {"criterion": "Tools for your mess", "explanation": "Tools turn a generic vacuum into one that reaches your problem spots. The WANDVAC bundles a Multi-Surface Pet Tool and a crevice tool, the PIVOT VAC adds an extendible crevice tool, and the AdvancedClean has a rotating nozzle. A good crevice tool is essential for cars, while a pet tool matters if you have fabric furniture and shedding animals."},
+  {"criterion": "Battery information", "explanation": "Be wary of listings that skip runtime. The Evekas lists 6000mAh, the Blestan mentions 2000mAh cells, and the PIVOT VAC names a 20V MAX pack without a runtime figure. Assume real-world use is shorter than any quoted maximum, especially on the strongest suction mode. Frequent short cleanups work well for handhelds."},
+  {"criterion": "Light and visibility", "explanation": "Dust hides in shadows, so a built-in light changes how thorough you are. The Blestan includes an LED light, which is rare at this level. It helps most in car footwells and under furniture. If you mostly clean in well-lit rooms, this feature matters less than bin size."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Weight and ergonomics", "description": "We ranked listed weights, from the 1.4 pound WANDVAC to the 2.2 pound CH901, and considered how each is held. Lighter bodies score better for overhead and car work. Unlisted weights lowered confidence for the BLACK+DECKER models."},
+  {"title": "Bin size and emptying", "description": "We compared stated bin volumes, including the Evekas at 670 ml and the Blestan at 12 oz, plus emptying design. The WANDVAC's single touch release and the CH901's XL cup stood out for different reasons."},
+  {"title": "Charging and battery", "description": "We looked at docks, charging ports and battery details. The WANDVAC and AdvancedClean include docks, the Evekas uses Type-C with a 3.5 to 4 hour charge, and the Blestan highlights quick charging. Runtime figures were treated cautiously."},
+  {"title": "Tools and reach", "description": "Attachments such as the Multi-Surface Pet Tool, extendible crevice tool and rotating nozzle earned credit. Models that list few tools were judged on body design instead."},
+  {"title": "Value at this budget", "description": "With more room under the cap, we expected docks and brushless motors. The WANDVAC leads on balance, the CH901 on capacity, the dustbusters on familiarity and the Evekas and Blestan on bin size and extras. This reflects product specs and buyer feedback."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Task",
+   "intro": "Pick the machine that matches the job you do most often.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["Daily crumbs and quick tidying", "Shark WV201 WANDVAC Handheld Vacuum", "Dock, single touch empty and a 1.4 lb body"],
+     ["Big pet hair or minivan cleanups", "Shark UltraCyclone Pro Cordless Handheld Vacuum CH901", "XL cup cuts the number of trips to the bin"],
+     ["Narrow gaps between car seats", "BLACK+DECKER dustbuster PIVOT VAC Handheld Vacuum", "Extendible crevice tool and a pivoting head"],
+     ["Traditional dustbuster with a base", "BLACK+DECKER dustbuster AdvancedClean Handheld Vacuum", "Charging station plus a rotating nozzle"],
+     ["Dark footwells and under seats", "Blestan Handheld Vacuum Cordless with LED Light", "The LED shows dust you would miss"]
+    ]
+   },
+   "note": "When in doubt, pick the lighter machine. You will use it more often."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers describe what each step up gives you within the cap.",
+   "table": {
+    "headers": ["Tier within the cap", "Best pick", "What you get"],
+    "rows": [
+     ["Entry level", "Blestan Handheld Vacuum Cordless with LED Light", "A light body and extras without a dock"],
+     ["Entry level", "Evekas Handheld Vacuum Cordless, 9000PA, 670ml Dustbin", "Large bin and Type-C charging"],
+     ["Mid range", "BLACK+DECKER dustbuster PIVOT VAC Handheld Vacuum", "Branded 20V pack and reach tools"],
+     ["Mid range", "BLACK+DECKER dustbuster AdvancedClean Handheld Vacuum", "Station and rotating nozzle"],
+     ["Top of the cap", "Shark WV201 WANDVAC Handheld Vacuum", "Brushless motor, dock and polished emptying"],
+     ["Top of the cap", "Shark UltraCyclone Pro Cordless Handheld Vacuum CH901", "XL cup and cyclonic design"]
+    ]
+   },
+   "note": "Higher tiers add convenience and a more proven brand, not necessarily more raw suction."
+  },
+  {
+   "subheading": "Light Body vs Large Bin",
+   "intro": "This is the main trade in the group.",
+   "cards": [
+    {"label": "Light body", "text": "The WANDVAC at 1.4 pounds and the Blestan at 1.6 pounds are easy to hold and swing. You will empty them more often, but your wrist will thank you on ceilings, shelves and stairs. Best for short, frequent jobs."},
+    {"label": "Large bin", "text": "The Shark CH901 with its XL cup and the Evekas with its 670 ml bin let you finish a big job without stopping. They are heavier or bulkier to hold. Best for vehicles, pet homes and weekend deep cleans."}
+   ],
+   "note": "If you cannot decide, think about whether you quit a job because of arm fatigue or because the bin filled."
+  },
+  {
+   "subheading": "Charging Style",
+   "intro": "How the battery is topped up affects whether the vacuum is ready when you need it.",
+   "table": {
+    "headers": ["Style", "Best pick", "Reason"],
+    "rows": [
+     ["Dock on a shelf or wall", "Shark WV201 WANDVAC Handheld Vacuum", "Parks and charges together"],
+     ["Charging station", "BLACK+DECKER dustbuster AdvancedClean Handheld Vacuum", "Always sits on its base"],
+     ["USB-C cable", "Evekas Handheld Vacuum Cordless, 9000PA, 670ml Dustbin", "Common cable, 3.5 to 4 hours for full"],
+     ["Cable with quick charge claim", "Blestan Handheld Vacuum Cordless with LED Light", "Quick-charge technology is claimed"],
+     ["Battery pack system", "BLACK+DECKER dustbuster PIVOT VAC Handheld Vacuum", "20V MAX lithium ion"]
+    ]
+   },
+   "note": "A vacuum that is dead when you need it will not get used, so make charging effortless."
+  },
+  {
+   "subheading": "For Car Cleaning Specifically",
+   "intro": "Cars have tight gaps, floor mats and low light.",
+   "cards": [
+    {"label": "Look for", "text": "A crevice tool, a bin big enough for sand and crumbs, and ideally a light. Check that the cord or dock does not tie you to the house."},
+    {"label": "In this comparison", "text": "The PIVOT VAC has the extendible crevice tool, the Evekas has the 670 ml bin, the Blestan has an LED light, and the WANDVAC includes a crevice tool in a 1.4 pound body."}
+   ],
+   "note": "Shake out floor mats first, then vacuum the seams."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Handhelds at this level are good, but some limits remain.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want stated runtime and bin figures that the Shark WANDVAC listing omits", "Daily light cleaning is enough, and the WANDVAC dock suits you"],
+     ["You need stronger suction for a whole home than the AdvancedClean provides", "You use it for stairs and small spills only"],
+     ["You want a wet and dry handheld, which none of these are", "You only vacuum dry debris"],
+     ["You want a proven brand over the Evekas or Blestan", "You accept less-known names for a larger bin or a light"]
+    ]
+   },
+   "note": "Treat handhelds as helpers, not whole-home vacuums."
+  }
+ ],
+ "faq": [
+  {"q": "Is the WANDVAC worth choosing over the UltraCyclone Pro?", "a": "It depends on the job. The WANDVAC at 1.4 pounds is easier to hold and has a dock, while the CH901 offers an XL dust cup. If you clean small areas daily, the WANDVAC is likely more comfortable. For big pet or car jobs, the CH901 saves trips."},
+  {"q": "Do I need a brushless motor?", "a": "It is nice to have but not essential. A brushless design, as on the WANDVAC, is generally quieter and more durable than a brushed motor. For occasional cleanup, a simpler motor is fine. Focus first on weight, bin size and tools."},
+  {"q": "How long does the Evekas take to charge?", "a": "The listing says a full charge takes 3.5 to 4 hours via Type-C. That is fine for an overnight top-up but slow if you need it in a hurry. Plan to charge after big jobs so it is ready next time."},
+  {"q": "Can these vacuums pick up liquids?", "a": "No. They are designed for dry debris. Liquids can damage the motor and soak the filter. Wipe up spills first, then vacuum the dry residue."},
+  {"q": "How often should I clean the filter?", "a": "Check it after every few uses and clean it whenever airflow seems to drop. Tapping out the dust is quick, and washable filters should dry fully before reuse. A blocked filter is the usual reason a good handheld seems weak."},
+  {"q": "Is an LED light really useful?", "a": "It can be. The Blestan includes one, and it helps reveal crumbs under seats and in dim corners. In bright rooms you will notice it less. It is a small perk rather than a deciding feature."},
+  {"q": "Are the Pa numbers on the box reliable?", "a": "Treat them as marketing. Different brands measure suction differently, and the Evekas 9000PA figure is a maker claim. A well-designed filter and bin matter more in practice. Use weight, tools and charging to compare."}
+ ]
+}

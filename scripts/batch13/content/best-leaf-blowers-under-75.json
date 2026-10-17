@@ -1,0 +1,168 @@
+{
+ "guideTitle": "6 Best Leaf Blowers Under $75 in 2026",
+ "metaTitle": "Best Leaf Blowers Under $75 (2026)",
+ "metaDescription": "Six budget leaf blowers compared on airflow, battery setup, weight and yard fit, so you can pick the right one for patios, porches and small lawns.",
+ "introParagraphs": [
+  "A leaf blower at an entry-level budget is a very different tool from the backpack machines landscapers carry. It is a handheld, battery-powered sweeper meant for porches, driveways, patios and the edge of a lawn, and it can do that job well when you pick for the right reasons.",
+  "This lineup covers six cordless models that keep the spec sheet honest: airflow in CFM, wind speed in MPH, battery capacity, weight and whether the kit arrives ready to run. We evaluated the listings and the common buyer feedback patterns rather than chasing the biggest number on the box.",
+  "Expect to trade runtime, build refinement and long-term parts support for low cost. In return you get a blower you can charge, grab and use in minutes, and a clear picture of which compromise suits your yard."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "WOLFMEN Cordless Leaf Blower with 2 Batteries",
+   "specs": ["450 CFM airflow", "150 MPH wind speed", "Two batteries and charger", "2 speed modes"],
+   "specList": [{"label": "Airflow", "value": "450 CFM"}, {"label": "Wind speed", "value": "150 MPH"}, {"label": "Speeds", "value": "2"}, {"label": "Battery system", "value": "Standalone 20V, 2 included"}],
+   "description": "The WOLFMEN pairs a 450 CFM axial flow turbofan with two selectable wind intensities, and it ships with two batteries and a charger. That complete kit is the main reason it leads this group: nothing extra needs to be bought before the first cleanup. The maker rates wind speed at 150 MPH, which is enough to roll wet leaves off a deck and push grass clippings off a walkway.\n\nThe two-speed layout is simple to live with. Low suits dusty steps and gravel borders where you do not want to scatter stones, while high handles compacted leaves along a fence line. The tradeoff is that the batteries are a standalone 20V system, so they will not swap into other brands of cordless tools, and the maker has a shorter track record than the big tool names.\n\nIn ownership terms this is a charge-and-go machine without cords, fuel or pull starts. At 450 CFM it moves more air than the VIBOGEN at 420 CFM and far more than the JAGROM at 180 CFM, yet it stays well short of the laapee at 650 CFM. Choose it when you want a balanced, ready-to-run kit for a typical suburban yard rather than a specialist machine.",
+   "bestFor": "Homeowners who want a complete, ready-to-run kit for a standard yard and patio.",
+   "pros": ["Two batteries and a charger arrive in the box", "450 CFM is strong for a handheld at this tier", "Two wind settings cover dust and wet leaves", "Cordless design needs no fuel or extension cord"],
+   "cons": ["Standalone 20V batteries fit no other tools", "Fewer long-term owner reports than big brands", "Only two speeds limits fine control"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Compact",
+   "name": "VIBOGEN Cordless Leaf Blower, 2 Speed",
+   "specs": ["420 CFM airflow", "150 MPH wind speed", "Battery and charger included", "Compact handheld body"],
+   "specList": [{"label": "Airflow", "value": "420 CFM"}, {"label": "Wind speed", "value": "150 MPH"}, {"label": "Speeds", "value": "2"}, {"label": "Kit", "value": "Battery and charger"}],
+   "description": "The VIBOGEN is built around a small, hand-held body aimed at light yard work. The listing claims 420 CFM and 150 MPH, with a low setting for dust and routine sweeping and a high setting for dry leaves, clippings and light debris. Those figures put it just behind the WOLFMEN on airflow while keeping a more compact footprint.\n\nIts tradeoff is capacity. With a single battery in the kit, you get one working session per charge, so it fits patios, porches, garages and small lawns better than a half-acre of oak leaves. If you only blow off a driveway or a balcony once a week, that limitation rarely matters.\n\nStorage is where it shines, since a compact body fits a closet shelf or a garage hook without taking over space. Compared with the RYAHT, which includes two 2.0Ah batteries that swap while one charges, the VIBOGEN asks you to wait out a recharge. Compared with the laapee at 650 CFM, it gives up a lot of airflow, which is the price of a smaller, simpler tool.",
+   "bestFor": "Apartment, townhouse and small-yard owners who value compact storage over long sessions.",
+   "pros": ["Compact body stores easily in a closet or hook", "420 CFM handles dry leaves and clippings", "Battery and charger are bundled together", "Low setting keeps dust and gravel in place"],
+   "cons": ["One battery means a wait between sessions", "Better for small yards than large lots", "Less airflow than the 650 CFM models here"]
+  },
+  {
+   "i": 4,
+   "badge": "Best for Power",
+   "name": "laapee 650 CFM Brushless Leaf Blower",
+   "specs": ["650 CFM airflow", "Brushless motor", "Two 20V 4.0Ah batteries", "6 speeds, 80 to 180 MPH"],
+   "specList": [{"label": "Airflow", "value": "650 CFM"}, {"label": "Motor", "value": "Brushless"}, {"label": "Batteries", "value": "Two 20V 4.0Ah"}, {"label": "Speed range", "value": "80 to 180 MPH"}],
+   "description": "The laapee is the most powerful model in this lineup on paper, with a brushless motor rated at 650 CFM and six speeds spanning 80 to 180 MPH. Two 20V 4.0Ah batteries come with a fast charger, and the listing cites up to 30 minutes of runtime. A brushless motor generally runs cooler and wastes less energy than a brushed one, which helps explain the larger airflow figure.\n\nSix speeds give genuine control. The lowest setting is gentle enough for freshly cut grass or light mulch beds, while the top setting is for heavy, wet leaves and stubborn debris. The tradeoff is that high speed drains batteries faster, so the 30 minute figure should be read as a best case rather than a promise at full power.\n\nIn practice this is the pick for bigger yards and for people who hate repeating passes. Its 650 CFM is well above the WOLFMEN at 450 CFM and the SEYVUM-class 350 CFM machines, and its two 4.0Ah batteries hold twice the capacity of the RYAHT packs at 2.0Ah. The cost of that capability is more weight in the hand than the lightest options.",
+   "bestFor": "Owners of larger yards or heavy leaf drop who want maximum airflow and speed control.",
+   "pros": ["650 CFM is the highest airflow in this group", "Six speeds from 80 to 180 MPH give fine control", "Two 4.0Ah batteries double the working time", "Brushless motor suits repeated use"],
+   "cons": ["Full power shortens the quoted runtime", "Heavier in hand than the lightest picks", "Battery pack is not shared with other tools"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Swappable Batteries",
+   "name": "RYAHT 20V Lightweight Cordless Leaf Blower",
+   "specs": ["3.4 lbs total weight", "Two 20V 2.0Ah batteries", "Fast charger included", "2 speed modes"],
+   "specList": [{"label": "Weight", "value": "3.4 lbs"}, {"label": "Batteries", "value": "Two 20V 2.0Ah"}, {"label": "Speeds", "value": "2"}, {"label": "Charger", "value": "Fast charger included"}],
+   "description": "The RYAHT concentrates on weight and convenience. At 3.4 lbs with an ergonomic non-slip grip, it is easy to hold at arm's length for several minutes, and it includes two 20V 2.0Ah batteries that are interchangeable. That means one pack can charge on the bench while the other is in the tool.\n\nThe two speed modes are straightforward, with a lower setting for light dust and a higher one for leaves. The listing does not give a CFM figure we could confirm, so airflow is the open question here, and it is smart to treat this as a light-duty sweeper rather than a clearing machine. That uncertainty is the main reason it does not sit higher in the ranking.\n\nOwnership is pleasant if your jobs are short. The 2.0Ah packs are smaller than the 4.0Ah packs that come with the laapee, but because you can rotate them, total work time still stretches. Next to the JAGROM, which is lighter on paper at 2.6 lbs, the RYAHT feels more like a finished, comfortable tool, and next to the Houselife it spares you from buying a battery platform.",
+   "bestFor": "Anyone who wants low arm fatigue and the ability to rotate two batteries on small jobs.",
+   "pros": ["Weighs only 3.4 lbs with a non-slip grip", "Two interchangeable batteries let one charge", "Fast charger is included in the kit", "Easy to store and maneuver on stairs"],
+   "cons": ["No confirmed CFM figure on the listing", "2.0Ah packs run out sooner than larger ones", "Only two speeds limits delicate sweeping"]
+  },
+  {
+   "i": 6,
+   "badge": "Best for DeWalt Owners",
+   "name": "Houselife 600 CFM Blower for DeWalt 20V MAX",
+   "specs": ["600 CFM airflow", "150 MPH wind speed", "DeWalt 20V MAX compatible", "Tool only, no battery"],
+   "specList": [{"label": "Airflow", "value": "600 CFM"}, {"label": "Wind speed", "value": "150 MPH"}, {"label": "Motor", "value": "20,000 RPM"}, {"label": "Battery", "value": "Not included"}],
+   "description": "The Houselife is a bare tool that runs on DeWalt 20V MAX batteries, including the DCB204, DCB205 and DCB206 families. Its 20,000 RPM motor is rated at 600 CFM and 150 MPH, with three speed settings. The listing is explicit that the battery and charger are not included, which is the single most important fact about this model.\n\nFor someone who already owns DeWalt batteries, the arithmetic is attractive. You skip buying another pack and charger, and you gain a lot of airflow for a small outlay. For someone without that platform, the same limitation flips the value story, because the extra pack and charger you would have to source can erase the savings.\n\nIn use, a larger DeWalt pack gives a long runtime, but it also adds weight to the back of the handheld body. At 600 CFM it out-blows the WOLFMEN at 450 CFM and sits just under the laapee at 650 CFM, yet it requires a battery you may have to bring yourself. Choose it only if the battery ecosystem is already in your garage.",
+   "bestFor": "Existing DeWalt 20V MAX owners who already have batteries and a charger on the shelf.",
+   "pros": ["600 CFM rating beats most kits in this group", "Runs on common DeWalt 20V MAX battery packs", "Three speed settings add control", "Bare tool avoids duplicate batteries for owners"],
+   "cons": ["Battery and charger are not included at all", "Adds cost if you lack DeWalt batteries", "Larger packs add weight at the rear"]
+  },
+  {
+   "i": 7,
+   "badge": "Lightest Pick",
+   "name": "JAGROM 20V Cordless Leaf Blower, 180 CFM",
+   "specs": ["2.6 lbs, lightest here", "180 CFM, 130 MPH", "Two 2.0Ah batteries", "Two tubes included"],
+   "specList": [{"label": "Weight", "value": "2.6 lbs"}, {"label": "Airflow", "value": "180 CFM"}, {"label": "Wind speed", "value": "130 MPH"}, {"label": "Tubes", "value": "Two"}],
+   "description": "The JAGROM is the lightest blower on this page at 2.6 lbs and the weakest on airflow at 180 CFM, with 130 MPH wind speed. It packs two 2.0Ah batteries, a charger and two tube sections that can be assembled long or used shorter. The listing mentions more than 30 minutes of total working time across the batteries.\n\nThat lightness is the point. For users with sore shoulders or limited grip strength, a tool that weighs about as much as a bag of flour can be the difference between finishing the job and skipping it. The cost is real: 180 CFM is a gentle breeze that clears dust, pollen and dry leaves but struggles with wet, matted piles.\n\nTwo tubes let you adjust reach, which helps when sweeping a porch rail or a low step. Compared with the WOLFMEN at 450 CFM, the JAGROM moves far less air, and compared with the RYAHT at 3.4 lbs it saves only a small amount of weight. Pick it when comfort and light touch matter more than clearing power, and expect to make several passes.",
+   "bestFor": "Buyers who prioritize the lowest possible weight for dusty porches and dry leaves.",
+   "pros": ["Weighs only 2.6 lbs, the lightest pick", "Two 2.0Ah batteries swap while one charges", "Two tubes allow a shorter or longer reach", "Easy to hold overhead or at low angles"],
+   "cons": ["180 CFM is the lowest airflow in the group", "Struggles with wet or matted leaf piles", "Standalone 20V pack fits no other tools"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Airflow in CFM versus MPH", "explanation": "CFM measures how much air moves, while MPH measures how fast it leaves the nozzle, and heavy leaves need both. A low CFM with a high MPH figure feels like a narrow jet and takes more passes to clear a pile. At this budget, look for at least 350 CFM if you have a real lawn to clear. The laapee at 650 CFM and the Houselife at 600 CFM lead on volume, while the JAGROM at 180 CFM is built for dust and dry leaves only."},
+  {"criterion": "Battery capacity and swap setup", "explanation": "Battery capacity, measured in amp-hours, sets how long you can work, and two packs let you rotate while one charges. A 4.0Ah pack roughly doubles the working time of a 2.0Ah pack when voltage and load are similar. Check whether the kit includes batteries at all, since one listing here ships as a bare tool. The laapee includes two 4.0Ah packs, while the RYAHT and JAGROM each include two 2.0Ah packs."},
+  {"criterion": "Weight in your hand", "explanation": "A blower is held out in front of your body, so a pound of weight is felt much more than it would be on a shelf. Anything near 3 lbs is easy to use for ten minutes, while heavier models tire the forearm sooner. Look at the weight on the listing and add a battery if it is excluded. The JAGROM is 2.6 lbs and the RYAHT is 3.4 lbs, which makes both comfortable for short jobs."},
+  {"criterion": "Speed settings and control", "explanation": "More speed steps let you match the blast to the surface, which saves battery and avoids scattering mulch or gravel. Two speeds are enough for most patios, but six speeds help if you clear flower beds and hard surfaces. The laapee offers six settings from 80 to 180 MPH, and the Houselife offers three, while the WOLFMEN, VIBOGEN and RYAHT keep it to two."},
+  {"criterion": "Battery platform lock-in", "explanation": "A battery that fits other tools in your garage can save real money, but a standalone pack ties you to one brand. Entry-level kits usually use a proprietary 20V pack, which is fine if you only need one tool. The Houselife is the exception, since it runs on DeWalt 20V MAX packs, but it ships without a battery or charger. The WOLFMEN uses its own 20V pack, so it will not share power with your drill."},
+  {"criterion": "Yard size and debris type", "explanation": "Match the tool to the job, because a patio and an acre of oak leaves are very different tasks. For porches, garages and small lawns, 350 to 450 CFM is plenty and compact tools win on storage. For wet, matted leaves, step up toward 600 CFM or more. The VIBOGEN at 420 CFM suits small yards, while the laapee suits bigger ones."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Airflow and wind speed", "description": "We compared the CFM and MPH figures that each maker states on its listing, then weighed them against the stated motor type. The laapee leads at 650 CFM and the Houselife follows at 600 CFM, while the JAGROM sits at 180 CFM. We treated any claim without a published figure with extra caution, which is why the RYAHT is positioned on comfort rather than power."},
+  {"title": "Battery and kit completeness", "description": "We looked at what is actually in the box: the number of batteries, their amp-hour rating, and whether a charger is bundled. The laapee gives two 4.0Ah packs, the WOLFMEN gives two batteries and a charger, and the Houselife gives nothing. A kit that is ready to run scores higher than one that needs add-ons."},
+  {"title": "Weight and ergonomics", "description": "We compared stated weights and grip design, since a handheld blower is used at arm's length. The JAGROM is the lightest at 2.6 lbs, followed by the RYAHT at 3.4 lbs with a non-slip grip. Heavier battery setups such as the larger packs on the laapee and Houselife scored lower here but higher on endurance."},
+  {"title": "Control and versatility", "description": "We counted speed modes, tube options and the ability to handle clippings, dust, light snow and leaves. The laapee leads with six speeds, the Houselife has three, and the WOLFMEN, VIBOGEN and RYAHT each have two. The JAGROM earns points for its two-tube design."},
+  {"title": "Value and ownership risk", "description": "We weighed what each blower gives for its budget tier against its risks, such as a standalone battery or a bare-tool design. Lineup positioning is clear: the WOLFMEN is the balanced kit, the laapee is the power choice, the JAGROM is the light-touch choice, and the Houselife only makes sense for existing DeWalt owners."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Yard Size and Debris",
+   "intro": "Start with what you actually need to move and how much of it there is.",
+   "table": {"headers": ["Situation", "Best pick", "Why"], "rows": [
+    ["Small patio or balcony with dust and dry leaves", "JAGROM 20V Cordless Leaf Blower", "180 CFM is enough for light debris and it weighs only 2.6 lbs"],
+    ["Townhouse yard with a small lawn", "VIBOGEN Cordless Leaf Blower", "420 CFM in a compact body that stores easily"],
+    ["Typical suburban yard with mixed leaves", "WOLFMEN Cordless Leaf Blower", "450 CFM and two batteries cover a standard cleanup"],
+    ["Large yard or heavy, wet leaf drop", "laapee 650 CFM Blower", "650 CFM plus two 4.0Ah batteries reduce repeat passes"],
+    ["You already own DeWalt batteries", "Houselife 600 CFM Blower", "600 CFM without the cost of a second battery system"]
+   ]},
+   "note": "If you are unsure, favor airflow over weight, because a weak blower that needs three passes costs more time than a slightly heavier one."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Within this cap there are three practical tiers, and each one buys a different kind of value.",
+   "table": {"headers": ["Tier", "Pick", "What you get"], "rows": [
+    ["Entry", "JAGROM 20V Cordless Leaf Blower", "Lowest weight and two batteries, with minimal airflow"],
+    ["Entry", "RYAHT 20V Lightweight Blower", "Two swappable 2.0Ah batteries and a comfortable 3.4 lbs"],
+    ["Mid", "VIBOGEN Cordless Leaf Blower", "420 CFM in a compact body with one battery"],
+    ["Mid", "WOLFMEN Cordless Leaf Blower", "450 CFM with two batteries and a charger"],
+    ["Top of cap", "laapee 650 CFM Blower", "Brushless motor, six speeds and two 4.0Ah packs"]
+   ]},
+   "note": "Stretching to the upper tier mostly buys battery capacity and airflow, not extra features."
+  },
+  {
+   "subheading": "Included Battery vs Bare Tool",
+   "intro": "Some blowers come ready to run, while others assume you already own a battery.",
+   "cards": [
+    {"label": "Included battery and charger", "text": "The WOLFMEN, VIBOGEN, laapee, RYAHT and JAGROM all arrive with a battery and charger, so you can work the day you open the box. This is simpler and safer for first-time cordless buyers. Pick this side if you do not already own a compatible battery platform."},
+    {"label": "Bare tool on an existing platform", "text": "The Houselife runs on DeWalt 20V MAX packs and does not include a battery or charger. It makes sense only if you have a spare pack and a charger already. Pick this side if you want 600 CFM and own the batteries."}
+   ],
+   "note": "Everyone without DeWalt packs should choose from the included-battery side."
+  },
+  {
+   "subheading": "By Weight and Strength",
+   "intro": "The tool needs to be comfortable enough that you will actually use it.",
+   "table": {"headers": ["If you need", "Pick", "Reason"], "rows": [
+    ["The lightest possible tool", "JAGROM 20V Cordless Leaf Blower", "2.6 lbs, the lowest weight in the group"],
+    ["Light and comfortable with a rotating battery", "RYAHT 20V Lightweight Blower", "3.4 lbs and two swappable packs"],
+    ["Balanced weight and power", "WOLFMEN Cordless Leaf Blower", "450 CFM without a bulky body"],
+    ["Maximum power and endurance", "laapee 650 CFM Blower", "Larger packs and brushless motor, with more weight"]
+   ]},
+   "note": "If grip strength is limited, avoid leaving a large battery pack attached for long sessions."
+  },
+  {
+   "subheading": "For Porches and Patios Specifically",
+   "intro": "Hard surfaces and tight spaces reward control more than raw power.",
+   "cards": [
+    {"label": "Look for", "text": "A low speed setting, a short tube or a reachable length, and a body light enough to carry upstairs. Six speed steps or two tubes help avoid scattering potted soil or gravel."},
+    {"label": "In this comparison", "text": "The JAGROM with two tubes and 2.6 lbs, the VIBOGEN with a compact body and 420 CFM, and the laapee with its 80 MPH lowest setting all handle patios well. The Houselife is a poor fit unless you already own the battery."}
+   ],
+   "note": "For patios, quiet and control matter more than the last 100 CFM."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A bigger budget changes what you get in a few specific ways.",
+   "table": {"headers": ["Spend more if", "Save if"], "rows": [
+    ["You clear more than a quarter acre, and the laapee at 650 CFM is still not enough", "Your yard is small and the WOLFMEN at 450 CFM covers it"],
+    ["You want a battery shared with a full cordless tool set rather than a standalone pack", "You only need one tool and the included kit is enough"],
+    ["You want long-term parts support from an established brand", "You blow leaves a few times a year and a simple tool will do"],
+    ["Weight matters but you still need more than the JAGROM at 180 CFM can move", "Your debris is dust and dry leaves and 180 CFM suffices"]
+   ]},
+   "note": "Value at this budget is about matching the tool to the job, not buying the highest number."
+  }
+ ],
+ "faq": [
+  {"q": "How do I choose between the WOLFMEN and the VIBOGEN?", "a": "The WOLFMEN offers 450 CFM and two batteries, while the VIBOGEN offers 420 CFM in a more compact body with one battery. If you want longer sessions without waiting for a recharge, the WOLFMEN is the better fit. If storage space is tight and your jobs are short, the VIBOGEN is easier to live with."},
+  {"q": "Is a cheaper cordless blower powerful enough for wet leaves?", "a": "Wet leaves are heavy and need airflow in the 600 CFM range, so the laapee at 650 CFM and the Houselife at 600 CFM are the realistic options here. Lower CFM models like the JAGROM at 180 CFM will struggle with matted piles. For wet leaves, let them dry for a day if you can and use a rake for the worst spots."},
+  {"q": "How long do the batteries last in these blowers?", "a": "Listings cite roughly 25 to 30 minutes at best for the larger packs, and times drop at high speed. The laapee with two 4.0Ah packs has the most capacity, while the RYAHT and JAGROM use 2.0Ah packs that run out sooner. Rotating two packs while one charges is the practical way to extend a session."},
+  {"q": "Do these blowers work with DeWalt tools?", "a": "Only the Houselife is designed for DeWalt 20V MAX batteries, and it does not include one. The other blowers use standalone 20V packs that do not interchange with other tools. Check compatibility on the listing before assuming a battery will fit."},
+  {"q": "Is a higher MPH always better?", "a": "No, because MPH measures nozzle speed while CFM measures volume. A blower with high MPH but low CFM can feel sharp but still move little debris. Look at both numbers, and favor CFM for large piles."},
+  {"q": "How do I care for the battery so it lasts?", "a": "Store the battery at room temperature, away from freezing garages or hot cars, and avoid leaving it fully drained for months. Use the charger that came with the kit and unplug it when done. Keep the air inlet clear of leaf debris so the motor does not overheat."},
+  {"q": "Are these blowers loud?", "a": "Cordless electric blowers are generally quieter than gas models, but the listings give limited decibel data. Higher speeds are louder, so use the lowest setting that works. Consider hearing protection if you run a blower for extended periods."}
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "guideTitle": "6 Best Video Intercom Systems Under $500 in 2026",
+ "metaTitle": "Best Video Intercom Systems Under $500 (2026)",
+ "metaDescription": "Six larger-capacity video intercom kits for apartments and bigger homes, covering 3, 4 and 6-household sets, touch panels and smart alerts.",
+ "introParagraphs": [
+  "A bigger budget does not make a video intercom better at everything, but it does open the door to larger systems. This is the range where multi-household kits for four and six homes appear, along with touchscreen panels, smart alerts and keyfob access.",
+  "We evaluated each pick from its product listing and specs, concentrating on how many homes it serves, how it is wired, and what extra functions it adds beyond a camera and a screen. Several kits here are aimed at shared entries in small apartment buildings, so capacity and cabling matter more than screen gloss.",
+  "If you only have one door to cover, the cheaper guides in this series may serve you better. If you are managing a shared entrance, wiring a larger home, or want a smart panel with human detection, this lineup is where the extra spending shows up."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best for Four Homes",
+   "name": "AMOCAM 4-Unit Wired Apartment Intercom",
+   "specs": ["1 camera, 4 monitors", "7-inch touch key screens", "4 households", "IR outdoor camera", "16 chime tones"],
+   "specList": [{"label": "Households", "value": "4"}, {"label": "Monitors", "value": "4 x 7-inch"}, {"label": "Screen type", "value": "Acrylic touch key"}, {"label": "Chimes", "value": "16 tones"}],
+   "description": "This AMOCAM set serves four households from a single outdoor camera, with one indoor monitor per home. The monitors are 7-inch acrylic panels with touch-key controls for answering, monitoring and unlocking, and the system provides dual-way talk plus a mute option. Sixteen chime tones and adjustable volume, brightness and contrast round out the settings.\n\nThe structure is purpose-built for shared entries: one panel at the street door, a monitor in each flat. That keeps the entrance uncluttered and makes it simple to explain to residents. The limit is that the kit is capped at four units and cannot be expanded, so a building that might grow needs the six-unit version.\n\nInstallation follows the wired AMOCAM pattern, so plan a cable path to each apartment before purchase. Compared with the six-unit set it saves two monitors you may not need, and compared with the LUMOBELL three-family kit it adds a fourth flat but drops the smart alerts.",
+   "bestFor": "A four-flat building with a shared street door and no plans to expand.",
+   "pros": ["Four monitors serve four households together", "Acrylic touch-key screens in each flat", "Mute option plus 16 selectable chimes", "Simple one-panel layout at the entrance"],
+   "cons": ["Capped at four units, no expansion path", "Wired cabling needed to every apartment"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Smart Three-Family Kit",
+   "name": "LUMOBELL 2-Wire 3-Family Smart Intercom",
+   "specs": ["3 independent 7-inch monitors", "3-button outdoor panel", "WiFi6 support", "Human detection", "RFID key fobs"],
+   "specList": [{"label": "Monitors", "value": "3 x 7-inch touch"}, {"label": "Outdoor panel", "value": "3 call buttons"}, {"label": "Wiring", "value": "2-wire"}, {"label": "Unlock methods", "value": "Fob, monitor, remote"}],
+   "description": "LUMOBELL stands out here because it adds smart functions to a shared-entry design. The outdoor panel carries three call buttons, so each family has its own bell, and each home gets an independent 7-inch touch monitor. It uses two-wire cabling, supports WiFi6 on the smart side, and offers human detection with adjustable motion zones and sensitivity.\n\nUnlocking is flexible: you can use RFID key fobs, the indoor touch monitor or remote unlock through the phone. The smart layer is the reason to pick it over the plain AMOCAM kits, because phone alerts for people at the door cut down on false notifications. The cost is a hard ceiling of three families, since the listing says it does not expand.\n\nTwo-wire cabling helps in older buildings where there is no space for a large bundle of conductors. It is a better fit for three homes than the 4-Unit AMOCAM, which has no smart alerts, and it costs more effort to set up than the single-house LUMOBELL dual-monitor kit.",
+   "bestFor": "Three households that want smart alerts and key fob entry on thin cable.",
+   "pros": ["Individual call button for each household", "Human detection with adjustable motion zones", "Fob, monitor or remote unlock choices", "Two-wire cabling suits older buildings"],
+   "cons": ["Hard limit of three families, no expansion", "Smart features add a WiFi and app layer"]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Six Homes",
+   "name": "AMOCAM 6-Unit Wired Apartment Intercom",
+   "specs": ["1 camera, 6 monitors", "7-inch LCD press key", "6 households", "IR outdoor camera", "16 chime tones"],
+   "specList": [{"label": "Households", "value": "6"}, {"label": "Monitors", "value": "6 x 7-inch"}, {"label": "Controls", "value": "Press keys"}, {"label": "Chimes", "value": "16 tones"}],
+   "description": "For the biggest shared entry in this guide, the six-unit AMOCAM kit supplies one outdoor camera and six 7-inch LCD monitors. Each monitor uses press keys for answering, monitoring and unlocking, with dual-way intercom and mute. As on the other AMOCAM sets there are 16 chimes and adjustable screen settings.\n\nSix monitors in one box is the draw: a small block of flats gets full coverage without chaining separate kits. The press-key interface is dated, and the kit is not expandable beyond six units, so confirm that is the right ceiling for the building. Cabling is the main cost, because six monitors means six separate cable runs.\n\nIt is the plain-spoken option here, with no keyfobs or phone alerts, whereas the LUMOBELL adds both for three homes. Against the 4-Unit AMOCAM it adds two more homes at the same design, which is worth it only if you need them.",
+   "bestFor": "A six-flat building that wants one panel and one monitor per flat.",
+   "pros": ["Six monitors cover a six-flat building", "Tried-and-true wired design is predictable", "Dual-way talk and a mute option", "One outdoor camera keeps the entrance simple"],
+   "cons": ["Press keys and no smart features", "Cannot grow beyond six households later"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Value for Three Homes",
+   "name": "AMOCAM 3-Unit Wired Apartment Intercom",
+   "specs": ["1 camera, 3 monitors", "7-inch LCD screens", "3 households", "IR night vision", "Press-key controls"],
+   "specList": [{"label": "Households", "value": "3"}, {"label": "Monitors", "value": "3 x 7-inch"}, {"label": "Night vision", "value": "IR outdoor camera"}, {"label": "Chimes", "value": "16 tones"}],
+   "description": "This is the entry-level multi-unit kit in the list: one outdoor camera with infrared night vision and three 7-inch LCD monitors for three homes. Press keys handle answering, monitoring and unlocking, and you get dual-way intercom with a mute mode. Chimes number sixteen, with adjustable volume, brightness and contrast.\n\nIt is the sensible pick when three flats need a shared entry and nobody wants a phone app. The listing reads as a basic kit, so check what accessories and lock connections are included. Like the larger AMOCAM sets it relies on conventional multi-wire cabling.\n\nCompared with the LUMOBELL three-family kit it gives up smart detection and keyfobs, but it keeps the controls dead simple. Against the 4-Unit and 6-Unit AMOCAM sets it is smaller and easier to wire, so it is the right size if the building has only three homes.",
+   "bestFor": "A three-flat building that wants the simplest shared entry.",
+   "pros": ["Three monitors cover three homes simply", "Infrared night vision at the street door", "Adjustable screen brightness and volume", "Plain controls need no app or account"],
+   "cons": ["No keyfob entry or phone features listed", "Package contents need checking first"]
+  },
+  {
+   "i": 8,
+   "badge": "Best for a Large House",
+   "name": "TMEZON Ring-Style 1-Camera 2-Monitor System",
+   "specs": ["Ring-style camera", "2 indoor monitors", "7-inch screens", "Remote unlock", "4-wire system"],
+   "specList": [{"label": "Monitors", "value": "2 x 7-inch"}, {"label": "Wiring", "value": "4-wire"}, {"label": "Night vision", "value": "IR camera"}, {"label": "Intercom", "value": "Dual-way"}],
+   "description": "TMEZON takes a different approach from the apartment kits: one ring-style camera feeds two monitors in a single home. The cameras use infrared night vision, the monitors are 7 inches, and the system supports dual-way talk and unlock through a gate-lock output. Controls are touch style and the chime library has 16 tones.\n\nThe listing positions it at larger single-family properties, where screens in different wings are more useful than a third household. It is wired with four conductors, so cable planning matters. The package details should be confirmed on the listing.\n\nIt is a modest kit in this lineup because every other pick supports more homes or adds smart features. Still, if your home is big and you only need two screens, it avoids paying for apartment capacity. Compared with the LUMOBELL dual-monitor set it has no 1080P camera listed, but it works without WiFi.",
+   "bestFor": "A big single-family home that needs two screens and no app.",
+   "pros": ["Two screens for different wings of a house", "Gate-lock output for remote unlock", "Works without WiFi or an app account", "Infrared camera for after-dark visitors"],
+   "cons": ["Four-wire cabling needs careful planning", "Lower capacity than the apartment kits"]
+  },
+  {
+   "i": 9,
+   "badge": "Best 1080P House Kit",
+   "name": "LUMOBELL 2-Wire Dual 7-Inch Touch Intercom",
+   "specs": ["2-wire connection", "Dual 7-inch touchscreens", "1080P camera", "Door release", "Motion alerts"],
+   "specList": [{"label": "Wiring", "value": "2-wire"}, {"label": "Monitors", "value": "2 x 7-inch touch"}, {"label": "Camera", "value": "1080P HD"}, {"label": "Alerts", "value": "Phone motion alerts"}],
+   "description": "The LUMOBELL dual-monitor kit brings a 1080P doorbell camera and two 7-inch touchscreens to a two-wire retrofit. It can reuse existing doorbell wires, so a villa or flat can be upgraded without rewiring, and the listing describes smart motion alerts to your phone. A door-release function lets you open the entry from the monitor.\n\nWhat it delivers at this level is polish: the camera detail is better than older press-key kits, and the touch interface is closer to a phone. It does not scale to multiple households, so it is a home upgrade, not a building system. The listing leaves the accessory list vague, so check what ships.\n\nIt beats the TMEZON on image quality and retrofit ease, though it relies on a phone link for the smart features. If your priority is a modern single-home setup, this is a stronger pick than the multi-unit AMOCAM sets, which are built for a different job.",
+   "bestFor": "A single home or flat that wants 1080P video and touch screens.",
+   "pros": ["1080P camera with clear phone viewing", "Reuses existing doorbell wire on retrofits", "Touch interface on both monitors", "Motion alerts when someone approaches"],
+   "cons": ["Does not support multiple households", "Accessory list not fully spelled out"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Household capacity ceiling", "explanation": "Larger kits are built to fixed counts, so choose the number carefully. The AMOCAM 3-Unit, 4-Unit and 6-Unit sets serve three, four and six homes, and the LUMOBELL 3-Family kit lists a limit of three. None of these lists expansion. If your building might add a unit, buy the next size up now."},
+  {"criterion": "One panel, many buttons", "explanation": "A shared entry should make it obvious which button belongs to which home. The LUMOBELL 3-Family panel has three call buttons for three families, which avoids confusion. The AMOCAM sets rely on a single panel and the system routing. Check the exterior layout so visitors cannot ring the wrong flat."},
+  {"criterion": "Smart alerts and detection", "explanation": "Human detection reduces useless notifications from passing cars or shadows. The LUMOBELL 3-Family kit lists human detection with adjustable motion zones, while the AMOCAM 4-Unit and 6-Unit sets keep to a basic wired design. Smart features add a WiFi and app layer you must maintain. Pick them if you want phone awareness, skip them if you want a closed system."},
+  {"criterion": "Cabling effort per household", "explanation": "Every extra monitor adds a cable run. A six-unit AMOCAM kit means six runs, whereas the two-wire LUMOBELL design uses thinner cable. Measure each distance and check for existing conduit. The labor often outweighs the hardware difference."},
+  {"criterion": "Unlock options", "explanation": "Shared doors work best with several entry methods. The LUMOBELL 3-Family kit lists RFID key fobs, indoor touch unlock and remote unlock, while the TMEZON Ring-Style kit lists a gate-lock output. Keyfobs let residents in without answering. Make sure your door hardware is compatible."},
+  {"criterion": "Touch versus keypad control", "explanation": "The AMOCAM 4-Unit lists acrylic touch-key screens, the LUMOBELL kits list full touch monitors, and the AMOCAM 3-Unit and 6-Unit sets use press keys. Touch is faster for menus, while keys are easier for some older residents. Consider who will use the screens most."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Capacity and fit", "description": "We compared how many households each kit serves and whether that matches common building sizes. The AMOCAM 6-Unit leads on raw capacity, followed by the 4-Unit, with the 3-Unit and LUMOBELL 3-Family tied at three. The two-monitor house kits, the TMEZON and the LUMOBELL dual-monitor set, were assessed separately because they solve a different problem. We also asked whether a kit leaves any room to adapt if a household is added or removed, and none of these lists a way to do so."},
+  {"title": "Smart and access features", "description": "We looked at alerts, detection and unlock methods described on each listing. The LUMOBELL 3-Family kit leads with human detection and key fobs, while the AMOCAM sets stay basic. We noted where a feature adds an account or WiFi dependency."},
+  {"title": "Wiring practicality", "description": "We judged how realistic the cabling is for a typical small building. Two-wire kits like the LUMOBELL score well, while the multi-wire AMOCAM sets need careful planning. We used the listings and buyer feedback to flag where vague instructions might slow a DIY install."},
+  {"title": "Interface and everyday use", "description": "We compared press keys, touch keys and full touchscreens. Residents with different comfort levels with technology were considered, and the simpler AMOCAM controls scored well for plain usability. The LUMOBELL touch screens scored higher on menu depth, though a deeper menu is only a benefit if the people living there will bother to learn it. Large, clearly marked answer and unlock keys were treated as a real advantage in a shared entry."},
+  {"title": "Value at this budget", "description": "We asked whether the extra capacity or smart functions justify the cost compared with a cheaper single-door kit. For larger buildings the AMOCAM sets deliver the most monitors per kit, while the LUMOBELL 3-Family delivers the most features per home. The lineup positions the TMEZON as a house-only option, the AMOCAM 3-Unit as the low-risk building choice, and the LUMOBELL 3-Family as the pick for buyers who will actually use phone alerts. We did not reward features that a typical resident is unlikely to touch."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Number of Households",
+   "intro": "Start with a headcount of homes.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Three flats, simple controls", "AMOCAM 3-Unit Wired Apartment Intercom", "Three monitors, press keys, no app"],
+     ["Three flats, smart alerts", "LUMOBELL 2-Wire 3-Family Smart Intercom", "Human detection and key fobs"],
+     ["Four flats", "AMOCAM 4-Unit Wired Apartment Intercom", "Four monitors from one camera"],
+     ["Six flats", "AMOCAM 6-Unit Wired Apartment Intercom", "Six monitors from one camera"],
+     ["One large home", "TMEZON Ring-Style 1-Camera 2-Monitor System", "Two screens, no apartment capacity"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Inside the cap, the tiers follow capacity and smart features.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry within the cap", "TMEZON Ring-Style 1-Camera 2-Monitor System", "Two wired screens for one home"],
+     ["Lower-mid", "LUMOBELL 2-Wire Dual 7-Inch Touch Intercom", "1080P and touch for a single home"],
+     ["Upper-mid", "AMOCAM 3-Unit Wired Apartment Intercom", "Three-household shared entry"],
+     ["Top of the cap", "AMOCAM 6-Unit Wired Apartment Intercom", "Six households on one system"]
+    ]
+   },
+   "note": "The LUMOBELL 3-Family and AMOCAM 4-Unit kits sit between the middle and upper tiers."
+  },
+  {
+   "subheading": "Basic Wired vs Smart Wired",
+   "cards": [
+    {"label": "Basic wired", "text": "The AMOCAM 3-Unit, 4-Unit and 6-Unit kits and the TMEZON work as closed systems. They are predictable and need no phone. Pick them for plain shared entries."},
+    {"label": "Smart wired", "text": "The LUMOBELL 3-Family and LUMOBELL dual-monitor kits add phone alerts, detection and remote unlock on two-wire cabling. They are modern and flexible, with a WiFi dependency. Pick them if remote awareness matters."}
+   ]
+  },
+  {
+   "subheading": "By Building Layout",
+   "intro": "Layout drives cable length and complexity.",
+   "table": {
+    "headers": ["Layout", "Pick", "Reason"],
+    "rows": [
+     ["Old building, narrow conduit", "LUMOBELL 2-Wire 3-Family Smart Intercom", "Thin two-wire cable"],
+     ["Open walls during renovation", "AMOCAM 6-Unit Wired Apartment Intercom", "Easy to run six cables while open"],
+     ["Two-wing house", "TMEZON Ring-Style 1-Camera 2-Monitor System", "Screens at both ends"],
+     ["Existing doorbell wire in a single home", "LUMOBELL 2-Wire Dual 7-Inch Touch Intercom", "Reuses the wire"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Shared Entrances Specifically",
+   "cards": [
+    {"label": "Look for", "text": "A clear button per household, a way to let residents in without answering, and a capacity that matches the building. Think about who maintains the system."},
+    {"label": "In this comparison", "text": "The LUMOBELL 3-Family kit has three call buttons and key fobs, the AMOCAM 4-Unit and 6-Unit kits cover bigger buildings, and the AMOCAM 3-Unit covers a small one. Each has a fixed ceiling."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["Your building has more than six units, past the AMOCAM 6-Unit ceiling", "You have three or four flats, so the AMOCAM 3-Unit or 4-Unit set is enough"],
+     ["You want cloud storage and a managed app, beyond the LUMOBELL 3-Family features", "You are happy with a closed system like the TMEZON"],
+     ["You want a larger indoor panel than 7 inches", "Seven inches works in your hallway"],
+     ["You need heavy-duty commercial access control", "A small residential entry is the goal"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {"q": "How many households can these kits serve?", "a": "The AMOCAM sets cover three, four and six homes, and the LUMOBELL 3-Family kit covers three. The single-home options are the TMEZON and the LUMOBELL dual-monitor set. None are described as expandable, so pick the right size up front."},
+  {"q": "Which kit is best for an older building?", "a": "The LUMOBELL 3-Family kit uses two-wire cabling, which is easier to route through narrow spaces. The AMOCAM kits use more conductors and need more planning. Check for conduit before buying, and look at how much free space is left in any existing duct, because a second or third cable often will not fit once the first is in place. If the walls are solid masonry, surface trunking can be a neater fallback than drilling."},
+  {"q": "Do I need WiFi for a shared-entry intercom?", "a": "The AMOCAM kits and the TMEZON work without WiFi, because the camera and the monitors talk to each other over cable. The LUMOBELL kits use WiFi for their smart features such as phone alerts and remote unlock. If your building has patchy internet or you would rather not manage an app, choose a closed system, and if you do want the smart layer, test the signal at the entry panel first."},
+  {"q": "Can residents open the door without answering?", "a": "The LUMOBELL 3-Family kit lists RFID key fobs for that. The larger AMOCAM sets rely on the indoor monitor instead, which means a resident has to pick up the screen to buzz a guest or a courier in. Fobs are worth having in busy buildings where people arrive with their hands full, and spare fobs should be kept somewhere safe so a lost one can be deleted quickly."},
+  {"q": "Is a six-unit kit harder to install?", "a": "It is more work because there are six cable runs, but the method is the same as the smaller sets. Plan the route and label each cable at both ends so the right monitor rings for the right flat. An open-wall renovation is the best time to do it, because fishing six cables through finished walls can take a full weekend. Test every monitor on the bench before you close up the walls."},
+  {"q": "Why pay more than the cheaper intercoms?", "a": "You get more monitors, bigger capacity or smart features, and that is where the extra spending shows up. A single-door home does not need them, and a cheaper one-screen kit will serve it well. A shared entry or a large home benefits from the added capacity, since buying separate kits for each household would cost more in the end and leave the entrance cluttered with several cameras and buttons."},
+  {"q": "What is human detection?", "a": "It is a motion filter that tries to alert you only when a person appears, which reduces false alerts from shadows and cars. The LUMOBELL 3-Family kit lists it with adjustable zones. It depends on the app and WiFi."}
+ ]
+}

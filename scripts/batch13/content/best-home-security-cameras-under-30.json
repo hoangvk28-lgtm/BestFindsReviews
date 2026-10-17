@@ -1,0 +1,182 @@
+{
+ "guideTitle": "6 Best Home Security Cameras Under $30 in 2026",
+ "metaTitle": "6 Best Home Security Cameras Under $30 (2026)",
+ "metaDescription": "Six budget home security cameras compared on resolution, storage, Wi-Fi bands and indoor or outdoor use, so you can check on pets, packages and rooms.",
+ "introParagraphs": [
+  "A low-cost camera cannot do everything a premium system does, but it can answer the questions most households actually have: is the dog on the sofa, did the package arrive, is someone at the side door. At this budget level the differences between models are mostly about where the footage goes, how the camera connects, and whether it can live outdoors.",
+  "This lineup covers the main routes. The Tapo C100 is a 1080P wired indoor camera with both cloud and SD card storage. The IHOMWAY K09 adds 2K video with free cloud and local recording. The HITELLARCAM is a wireless outdoor 2K camera with a stated 1 to 6 month battery life, and the AOQEE C1 and VIMTAG cover indoor and outdoor placement with IP65 and IP66 ratings.",
+  "We evaluated each pick based on product specs and buyer feedback, paying attention to resolution, night vision, storage, Wi-Fi support and weather rating. We also point out where a listing leaves out detail, because cameras with unclear storage terms can turn into a recurring cost you did not plan on."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "Tapo C100 1080P Indoor Security Camera",
+   "specs": ["1080P indoor video", "Cloud and SD card storage", "2-way audio and siren", "Wired power"],
+   "specList": [{"label": "Resolution", "value": "1080P"}, {"label": "Placement", "value": "Indoor"}, {"label": "Storage", "value": "Cloud and SD card"}, {"label": "Features", "value": "Motion detection, 2-way audio, siren"}],
+   "description": "The Tapo C100 is the safe, familiar choice from a known network brand. It records 1080P video indoors, uses a wired power connection, and offers motion detection, two-way audio and a siren on top of night vision. Storage flexibility is its strongest card, since you can use a memory card for local footage or choose cloud storage.\n\nThe resolution trails the 2K models in this group, so faces and small details are less sharp when you zoom in. It also sits in the middle of the pack for price in this lineup, so it is not an obvious bargain on features alone. The text of the listing we reviewed mixes in some wording about a different solar-powered Tapo model, so double-check the product page for exactly what ships.\n\nIt suits renters and first-time buyers who want a recognizable name and simple setup. Compared with the IHOMWAY K09, it has lower resolution but an established app. Compared with the HITELLARCAM, it stays indoors and plugs in rather than running on a battery. Position it at eye level facing the room, and leave it plugged in to avoid battery chores.",
+   "bestFor": "First-time buyers who want a familiar brand and flexible storage indoors.",
+   "pros": ["Cloud and SD card storage both available", "Motion detection with two-way audio and siren", "Wired power avoids battery swaps entirely", "Recognizable app and brand ecosystem"],
+   "cons": ["1080P is less sharp than the 2K models", "Listing mixes in text about another model", "Indoor only, not for outdoor placement"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Indoor 2K with Storage",
+   "name": "IHOMWAY K09 2K Indoor Security Camera, Free Cloud",
+   "specs": ["2K resolution", "Dual-band 5GHz and 2.4GHz Wi-Fi", "Free cloud storage", "24/7 TF card recording"],
+   "specList": [{"label": "Resolution", "value": "2K"}, {"label": "Wi-Fi", "value": "5GHz and 2.4GHz"}, {"label": "Local storage", "value": "TF card up to 256GB (not included)"}, {"label": "Power", "value": "Wired"}],
+   "description": "The IHOMWAY K09 packs 2K video, dual-band Wi-Fi and two storage options into a wired indoor camera. It supports both 5GHz and 2.4GHz networks, and the listing says it connects without changing your router setup, which helps in homes where a faster 5GHz band is the default. Cloud storage is described as free, and a TF card up to 256GB can record around the clock if you supply one.\n\nContinuous local recording is the standout, because you can scroll back through the day rather than relying only on motion clips. The compromises are the extras it does not mention: there is no pan and tilt in the text, no weatherproofing, and the card itself is not included. Free cloud terms can change, so read the app's current policy before relying on it.\n\nThis camera suits a living room, entryway or nursery where you want a sharper image than 1080P. Compared with the Tapo C100, it offers higher resolution and continuous recording. Compared with the Cinnado D1, it gives faster Wi-Fi but no stated 360 degree coverage. Format the TF card in the camera app and check recordings after the first day.",
+   "bestFor": "Indoor monitoring where sharper 2K video and 24/7 local recording matter.",
+   "pros": ["2K video gives sharper detail than 1080P", "Supports both 5GHz and 2.4GHz Wi-Fi", "24/7 recording to a TF card up to 256GB", "Free cloud storage is advertised"],
+   "cons": ["TF card is not included in the box", "No weather rating, so indoor only", "Free cloud terms may change over time"]
+  },
+  {
+   "i": 2,
+   "badge": "Best Wireless Outdoor",
+   "name": "HITELLARCAM 2K Wireless Outdoor Security Camera",
+   "specs": ["2K video", "Battery listed at 1 to 6 months", "Free cloud storage", "AI motion detection"],
+   "specList": [{"label": "Resolution", "value": "2K"}, {"label": "Battery", "value": "1 to 6 months (varies)"}, {"label": "Storage", "value": "Free cloud and local SD"}, {"label": "Wi-Fi", "value": "2.4G and 5G"}],
+   "description": "The HITELLARCAM is the only truly wireless outdoor option here, powered by a battery that the maker says lasts 1 to 6 months. That wide range is honest in a way, because battery life depends on how often motion triggers recording, temperature and video settings. It records in 2K with full-color night vision, supports both 2.4G and 5G Wi-Fi, and is sold as waterproof with two-way audio.\n\nAI motion detection aims to cut down on false alerts from passing shadows. Free cloud storage is mentioned, with a local SD card option, though buyers should confirm retention limits in the app. The main drawback is that battery life varies more than premium cameras claim, so plan to check the level regularly. Specs also come from the listing rather than independent testing.\n\nIt makes sense for porches, garages and sheds without an outlet. Compared with the AOQEE C1, which is wired, it places anywhere but needs recharging. Compared with the Tapo C100, it works outdoors but costs you battery management. Mount it where you can reach it to recharge, and angle it down to reduce passing-car triggers.",
+   "bestFor": "Outdoor spots without an outlet, such as porches, sheds and side gates.",
+   "pros": ["Wireless battery power for easy placement", "2K video with full-color night vision", "AI motion detection to reduce false alerts", "Waterproof design for outdoor mounting"],
+   "cons": ["Battery life varies a lot with use", "Cloud storage terms need checking in the app", "Specs come from the listing, not testing"]
+  },
+  {
+   "i": 3,
+   "badge": "Best for Pets and Rooms",
+   "name": "Cinnado D1 2K Indoor Security Camera, 360 Degree",
+   "specs": ["2K FHD live stream", "360 degree monitoring", "Siren and motion sensor", "2-way audio, multiple users"],
+   "specList": [{"label": "Resolution", "value": "2K FHD"}, {"label": "Coverage", "value": "360 degree"}, {"label": "Wi-Fi", "value": "2.4GHz"}, {"label": "Audio", "value": "Built-in microphone and speaker"}],
+   "description": "The Cinnado D1 is an indoor pan camera designed around pets, babies and elderly relatives. It streams in 2K and covers a room with 360 degree monitoring, so one unit can follow movement across a living area instead of staring at one wall. A built-in siren and motion sensor trigger push notifications to your phone.\n\nTwo-way audio lets you speak to a pet or relative through the built-in microphone and speaker, and multiple users can view the feed. Its connection is 2.4GHz Wi-Fi only, which is more compatible with older routers but slower than the 5GHz bands on the IHOMWAY. The listing does not describe storage options in the text we reviewed, so check what is supported before buying.\n\nIt suits a family room where one camera should cover everything. Compared with the Tapo C100, it offers rotation and higher resolution. Compared with the HITELLARCAM, it stays indoors and wired. Place it on a shelf with a clear sightline, rotate it away when you are home if privacy is a concern, and set motion zones to avoid alerts from windows.",
+   "bestFor": "Family rooms and pet areas where one camera should follow movement.",
+   "pros": ["360 degree monitoring covers a whole room", "2K stream is sharper than 1080P cameras", "Siren and push alerts for motion", "Two-way audio with multiple viewers"],
+   "cons": ["2.4GHz Wi-Fi only, no 5GHz band", "Storage options are not described in the text", "Suitable for indoor placement only"]
+  },
+  {
+   "i": 6,
+   "badge": "Best Indoor-Outdoor Pair",
+   "name": "AOQEE C1 2K Security Cameras, 2-Pack, Indoor and Outdoor",
+   "specs": ["2K Ultra HD video", "Color night vision", "IP65 waterproof", "Two cameras in one pack"],
+   "specList": [{"label": "Resolution", "value": "2K Ultra HD"}, {"label": "Weather rating", "value": "IP65"}, {"label": "Wi-Fi", "value": "2.4G, wired power"}, {"label": "Pack", "value": "2 cameras"}],
+   "description": "The AOQEE C1 gives you two cameras in one box, which is unusual at this budget. They record in 2K with color night vision, carry an IP65 waterproof rating, and can be installed either indoors or outdoors. A noise-canceling microphone and speaker allow two-way talk, and motion detection sends alerts.\n\nIP65 means the camera is built to resist water jets, which is plenty for rain on a porch but not a guarantee against every weather event. The cameras use 2.4G Wi-Fi and wired power, so each needs an outlet nearby, which limits placement more than the battery HITELLARCAM. Storage details are limited in the text we reviewed.\n\nThey suit someone who wants a front door and a back door camera for the price of one. Compared with the VIMTAG, they offer two units but a lower IP rating. Compared with the Cinnado D1, they do not rotate but can go outside. Run the power cable through a weather-sealed spot, and test the Wi-Fi signal at each location before drilling.",
+   "bestFor": "Covering front and back doors with a matched pair of wired cameras.",
+   "pros": ["Two 2K cameras come in one pack", "IP65 rating supports outdoor mounting", "Color night vision with two-way talk", "Works indoors or outdoors as needed"],
+   "cons": ["Each camera needs a nearby power outlet", "2.4G Wi-Fi only, no faster band", "Storage terms are thin in the text"]
+  },
+  {
+   "i": 8,
+   "badge": "Best Resolution",
+   "name": "VIMTAG 2.5K Security Camera, Outdoor and Indoor",
+   "specs": ["2.5K HD video", "Color night vision", "IP66 weatherproof", "AI human and motion detection"],
+   "specList": [{"label": "Resolution", "value": "2.5K"}, {"label": "Weather rating", "value": "IP66"}, {"label": "Detection", "value": "Human, motion and sound"}, {"label": "Range", "value": "Up to 33 feet"}],
+   "description": "The VIMTAG offers the highest stated resolution in this group at 2.5K, along with color night vision enhanced by what the maker describes as a supplemental light. The IP66 rating is the strongest weather claim here, covering heavy rain and sun exposure according to the listing. Smart AI detection looks for human, motion and sound events up to 33 feet away and sends alerts.\n\nThe extra pixels help when you zoom in on a license plate area or a face at the door, at least in good light. The tradeoffs are that the listing text says little about storage and subscription options, and heavier video files can mean larger cloud or card use. IP66 is a design rating, not a promise it will survive every storm.\n\nIt suits a doorway or driveway where you want detail. Compared with the AOQEE C1, it has higher resolution and a stronger IP rating but comes as a single unit. Compared with the Tapo C100, it works outdoors and gives more pixels. Aim it away from direct sun, and trim any branches that could trigger endless motion alerts.",
+   "bestFor": "Doorways and driveways where more detail and a stronger weather rating matter.",
+   "pros": ["2.5K resolution is the sharpest in the group", "IP66 is the strongest weather rating here", "Human, motion and sound detection up to 33 ft", "Color night vision for outdoor use"],
+   "cons": ["Storage terms are not clear in the text", "Higher resolution means larger video files", "Sold as a single camera in this listing"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Resolution and what it buys", "explanation": "Resolution affects how much detail you can zoom into, but only up to a point. The Tapo C100 records 1080P, the HITELLARCAM, IHOMWAY K09 and Cinnado D1 record 2K, and the VIMTAG reaches 2.5K. For a room, 1080P is enough to see what is happening. For a doorway where you may need to identify a face or a package, 2K or higher is a worthwhile upgrade."},
+  {"criterion": "Where the footage is stored", "explanation": "Storage decides ongoing cost and privacy. The Tapo C100 offers cloud and SD card, the IHOMWAY K09 offers free cloud and a TF card up to 256GB, and the HITELLARCAM lists free cloud with local SD support. Always read the current cloud terms in the app, since free tiers can limit retention. A memory card gives you control but can be lost if the camera is stolen."},
+  {"criterion": "Wi-Fi band support", "explanation": "A camera connects to your router on 2.4GHz, 5GHz or both. The IHOMWAY K09 and HITELLARCAM support both, while the Cinnado D1 and AOQEE C1 listings point to 2.4G only. 2.4GHz travels farther through walls, while 5GHz is faster. For a camera far from the router, 2.4GHz is often more reliable."},
+  {"criterion": "Power: wired or battery", "explanation": "Wired cameras like the Tapo C100, IHOMWAY K09 and AOQEE C1 never run low, but they need an outlet. The HITELLARCAM runs on a battery listed at 1 to 6 months, which is flexible but requires periodic recharging. Choose wired for spots near power and battery for places like gates and sheds."},
+  {"criterion": "Weather rating for outdoor use", "explanation": "Outdoor cameras need a tested rating. The AOQEE C1 is IP65 and the VIMTAG is IP66, while the HITELLARCAM is described as waterproof without a stated code. The Tapo C100, IHOMWAY K09 and Cinnado D1 are indoor designs and should stay inside. A rating suggests resistance to water jets, not complete immunity."},
+  {"criterion": "Alert quality", "explanation": "Constant false alerts teach you to ignore notifications. The HITELLARCAM uses AI motion detection to cut down on false triggers and the VIMTAG detects human, motion and sound events. Cameras with only basic motion sensing tend to react to shadows and passing cars. Look for adjustable zones and sensitivity in the app."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Video and night vision", "description": "We compared stated resolutions from 1080P on the Tapo C100 to 2.5K on the VIMTAG, plus night vision type. Color night vision on the AOQEE C1, HITELLARCAM and VIMTAG earned extra credit for identifying clothing and objects."},
+  {"title": "Storage and cost", "description": "We looked at cloud and local options. The Tapo C100 and IHOMWAY K09 give both, and the HITELLARCAM advertises free cloud. Listings with unclear storage terms were scored cautiously."},
+  {"title": "Connection and power", "description": "We weighed Wi-Fi band support and wired versus battery power. Dual-band support on the IHOMWAY K09 and HITELLARCAM stood out, while the HITELLARCAM's battery adds placement freedom with recharging."},
+  {"title": "Weather and placement", "description": "We checked ratings and intended placement. The VIMTAG's IP66 and AOQEE C1's IP65 suit outdoor use, and the Tapo C100, IHOMWAY K09 and Cinnado D1 are for indoors."},
+  {"title": "Value at this budget", "description": "Each pick leaves something out. The Tapo C100 leads on familiarity, the IHOMWAY on indoor 2K recording, the HITELLARCAM on wireless outdoor use and the VIMTAG on resolution. This reflects product specs and buyer feedback, not hands-on testing."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Placement",
+   "intro": "Where the camera lives narrows the field faster than any spec.",
+   "table": {
+    "headers": ["Situation", "Best pick", "Why"],
+    "rows": [
+     ["Living room or nursery", "Cinnado D1 2K Indoor Security Camera, 360 Degree", "360 degree coverage and 2K video"],
+     ["Entry hall or shelf, simple setup", "Tapo C100 1080P Indoor Security Camera", "Familiar brand with cloud and SD card"],
+     ["Indoor camera with continuous recording", "IHOMWAY K09 2K Indoor Security Camera, Free Cloud", "24/7 TF recording up to 256GB"],
+     ["Porch or shed without an outlet", "HITELLARCAM 2K Wireless Outdoor Security Camera", "Battery power and waterproof body"],
+     ["Front and back doors", "AOQEE C1 2K Security Cameras, 2-Pack, Indoor and Outdoor", "Two IP65 cameras in one pack"]
+    ]
+   },
+   "note": "Check Wi-Fi signal strength at the exact mounting spot before you commit."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Inside this cap, tiers reflect what is included rather than raw quality.",
+   "table": {
+    "headers": ["Tier within the cap", "Best pick", "What you get"],
+    "rows": [
+     ["Entry level", "Tapo C100 1080P Indoor Security Camera", "Simple indoor camera with flexible storage"],
+     ["Entry level", "Cinnado D1 2K Indoor Security Camera, 360 Degree", "2K and rotation for one room"],
+     ["Mid range", "IHOMWAY K09 2K Indoor Security Camera, Free Cloud", "Dual-band Wi-Fi and 24/7 recording"],
+     ["Mid range", "AOQEE C1 2K Security Cameras, 2-Pack, Indoor and Outdoor", "Two cameras with outdoor rating"],
+     ["Top of the cap", "HITELLARCAM 2K Wireless Outdoor Security Camera", "Wireless battery freedom outdoors"],
+     ["Top of the cap", "VIMTAG 2.5K Security Camera, Outdoor and Indoor", "Highest resolution and IP66 rating"]
+    ]
+   },
+   "note": "Higher tiers add outdoor ability or sharper video. Lower tiers cover indoor basics."
+  },
+  {
+   "subheading": "Wired vs Battery",
+   "intro": "How the camera gets power changes where you can put it and how often you touch it.",
+   "cards": [
+    {"label": "Wired", "text": "The Tapo C100, IHOMWAY K09, Cinnado D1 and AOQEE C1 plug in, so they never go dark from a flat battery. They need an outlet or a cable run, which limits placement. Best for interiors and doors near power."},
+    {"label": "Battery", "text": "The HITELLARCAM lists 1 to 6 months of battery, depending on how often it records. It goes anywhere but must be recharged. Best for gates, sheds and spots with no outlet."}
+   ],
+   "note": "Busy locations drain batteries faster, so expect the low end of the range at a front door."
+  },
+  {
+   "subheading": "Storage Strategy",
+   "intro": "Pick your storage before you pick a camera, because it shapes ongoing cost.",
+   "table": {
+    "headers": ["Preference", "Best pick", "Reason"],
+    "rows": [
+     ["Local card plus cloud option", "Tapo C100 1080P Indoor Security Camera", "Supports cloud and SD card"],
+     ["Continuous local recording", "IHOMWAY K09 2K Indoor Security Camera, Free Cloud", "TF card up to 256GB, 24/7"],
+     ["Free cloud with outdoor use", "HITELLARCAM 2K Wireless Outdoor Security Camera", "Free cloud advertised with SD support"],
+     ["Two cameras, one purchase", "AOQEE C1 2K Security Cameras, 2-Pack, Indoor and Outdoor", "Storage details to confirm"],
+     ["Sharper clips for review", "VIMTAG 2.5K Security Camera, Outdoor and Indoor", "2.5K files are larger"]
+    ]
+   },
+   "note": "Read the cloud retention period in the app before relying on any free plan."
+  },
+  {
+   "subheading": "For Package and Porch Watching Specifically",
+   "intro": "Porch cameras need weather resistance, decent night vision and useful alerts.",
+   "cards": [
+    {"label": "Look for", "text": "An outdoor rating, color night vision, person detection and a mounting spot under cover. Avoid pointing the lens at bright lights, which wash out the image."},
+    {"label": "In this comparison", "text": "The VIMTAG offers IP66 and human detection up to 33 feet. The HITELLARCAM adds wireless placement. The AOQEE C1 gives two IP65 cameras, which cover both the porch and the back door."}
+   ],
+   "note": "No camera can promise to prevent theft. Treat these as tools for checking what happened."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "These cameras do the basics, but some needs call for more.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want a proven app with long-term cloud support beyond the free terms on the HITELLARCAM", "You will use local card recording on the IHOMWAY K09"],
+     ["You need a battery or solar outdoor camera with clearer specs than the HITELLARCAM listing", "A wired AOQEE C1 pair covers your doors"],
+     ["You want 4K detail or wide pan and tilt coverage outdoors", "2K or 2.5K video is enough"],
+     ["You need professional monitoring or integrations", "You only want to check in on a room"]
+    ]
+   },
+   "note": "Start small. You can always add another camera later."
+  }
+ ],
+ "faq": [
+  {"q": "Is a cheap security camera good enough?", "a": "For checking on rooms, pets and doorways, yes. Models like the Tapo C100 and IHOMWAY K09 provide clear live views and alerts. They are not substitutes for a professional alarm system, and you should treat them as monitoring tools rather than guarantees of protection."},
+  {"q": "Do I need a subscription?", "a": "Not always. The IHOMWAY K09 supports a TF card, so you can record locally without paying for cloud. The HITELLARCAM advertises free cloud storage, but terms can change. Check the current plan details in the app before buying."},
+  {"q": "What is the difference between 2K and 1080P?", "a": "A 2K camera records more pixels than 1080P, so zoomed-in details such as faces or text look sharper. For a small room, 1080P on the Tapo C100 is fine. For a doorway, the extra resolution of the VIMTAG at 2.5K can help."},
+  {"q": "Can the AOQEE C1 go outdoors?", "a": "Yes, it carries an IP65 waterproof rating and is designed for both indoor and outdoor use. IP65 resists water jets but is not a guarantee against every condition. Mount it under an eave and seal the power connection."},
+  {"q": "How long does the HITELLARCAM battery last?", "a": "The listing says 1 to 6 months, which reflects how much the range depends on use. A camera that records often at a busy front door will drain faster than one at a quiet gate. Check the battery level in the app regularly."},
+  {"q": "Where should I place an indoor camera?", "a": "Place it at a height with a clear view of the area you want to watch, away from direct sunlight and windows that cause glare. Avoid pointing it into private spaces such as bathrooms, and tell household members that it is there."},
+  {"q": "Will a 2.4GHz camera work with my router?", "a": "Almost always. Most routers broadcast 2.4GHz, and the Cinnado D1 and AOQEE C1 use it. If your router combines bands into one network name, you may need to pair the camera while your phone is on 2.4GHz. Dual-band cameras like the IHOMWAY K09 offer more flexibility."}
+ ]
+}

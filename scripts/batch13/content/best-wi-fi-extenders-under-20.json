@@ -1,0 +1,171 @@
+{
+ "guideTitle": "6 Best Wi Fi Extenders Under $20 in 2026",
+ "metaTitle": "Best Wi Fi Extenders Under $20 (2026)",
+ "metaDescription": "Six plug-in Wi Fi extenders compared on band support, Ethernet ports, claimed coverage and setup, with honest notes on what budget boosters can do.",
+ "introParagraphs": [
+  "A plug-in Wi Fi extender picks up your router's signal and rebroadcasts it into a dead room, which is useful for a back bedroom, a garage or an upstairs office. At this budget you get an inexpensive box that plugs into a wall outlet, and the real differences are band support, Ethernet ports and how honestly the coverage figures are stated.",
+  "We evaluated each extender from its product page and specs, looking at single-band versus dual-band design, the number of Ethernet ports, device limits and operating modes. This page is weighted toward the more capable end of the budget, so most picks add a wired port or a dual-band radio instead of being a bare single-band repeater.",
+  "Treat every coverage figure as a best case. Walls, floors and distance cut real range, and an extender placed in a spot that already has a weak signal will only repeat that weak signal. Use the notes below to match the box to your router, your devices and the room you want to fix."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Simple Single-Band Pick",
+   "name": "Auomiliya 300Mbps WiFi Extender with Ethernet",
+   "specs": ["300Mbps on 2.4GHz", "Ethernet port", "Browser setup", "Repeater design", "Plug-in unit"],
+   "specList": [{"label": "Speed", "value": "Up to 300Mbps, 2.4GHz"}, {"label": "Wired port", "value": "Ethernet"}, {"label": "Setup", "value": "Phone or PC browser"}, {"label": "Claimed coverage", "value": "Up to 9995 sq ft"}],
+   "description": "Auomiliya sells a straightforward single-band extender that supports up to 300Mbps on the 2.4GHz band. It has an Ethernet port, and setup is done from a phone or computer by connecting to its WiFi and entering your router password. The listing claims coverage of up to 9995 square feet, a best-case figure that is not realistic for a typical home.\n\nThe 2.4GHz band travels well through walls but is slower and more crowded than 5GHz, so this suits email, browsing and smart-home gear more than heavy streaming. The Ethernet port lets you wire a TV or console for a steadier connection. The main limit is that it is single-band, so everything shares one radio.\n\nOwnership is simple: plug it in about halfway between the router and the dead zone, then run the setup page. Compared with the Tilstongy it is slower and has one fewer port, while against the TP-Link it lacks a 5GHz band. It is best for light use in a small trouble spot.",
+   "bestFor": "Light browsing and smart-home devices in one weak-signal room.",
+   "pros": ["Ethernet port wires one device directly", "2.4GHz band penetrates walls well", "Setup through a browser, no app needed", "Plug-in design takes no desk space"],
+   "cons": ["Single band shares one slower radio", "Coverage claim is clearly a best case"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Dual-Band Features",
+   "name": "Tilstongy 1200Mbps Dual-Band WiFi Extender",
+   "specs": ["867Mbps on 5GHz", "300Mbps on 2.4GHz", "6 antennas", "2 Ethernet ports", "3 operating modes"],
+   "specList": [{"label": "5GHz speed", "value": "Up to 867Mbps"}, {"label": "2.4GHz speed", "value": "Up to 300Mbps"}, {"label": "Antennas", "value": "6 omnidirectional, 2dBi"}, {"label": "Ports", "value": "2 LAN/WAN"}],
+   "description": "Tilstongy offers the most hardware in this group: a dual-band design with 867Mbps on 5GHz and 300Mbps on 2.4GHz, six 2dBi antennas and two Ethernet ports. It switches between bands automatically and offers three operating modes. The listing claims 15,000 square feet of coverage, which is a best-case figure.\n\nTwo Ethernet ports are the standout, because they let you connect a TV and a console or a desktop at the same time. Dual-band operation means the 5GHz side can carry faster traffic for streaming, while the 2.4GHz side reaches further. The bulk of six antennas makes it a larger unit than a slim plug-in, and the claimed speeds are theoretical maxima.\n\nPlace it where the router signal is still strong, not at the edge of coverage. It outclasses the Auomiliya on bands and ports, while the TP-Link is more compact. If you need wired connections as well as Wi Fi, this is the most flexible pick on the list.",
+   "bestFor": "A room with a TV and a console that both need a wired connection.",
+   "pros": ["Dual-band design adds a 5GHz option", "Two Ethernet ports for wired devices", "Auto band switching needs little tuning", "Three modes cover repeater and bridge use"],
+   "cons": ["Larger body blocks a neighbouring outlet", "Listed speeds are theoretical maximums"]
+  },
+  {
+   "i": 2,
+   "badge": "Most Honest Claims",
+   "name": "TP-Link Dual-Band WiFi Extender with Ethernet Port",
+   "specs": ["Dual band 5GHz/2.4GHz", "Ethernet port", "Up to 1200 sq ft", "44% more bandwidth than N300", "Compact body"],
+   "specList": [{"label": "Bands", "value": "5GHz and 2.4GHz"}, {"label": "Coverage", "value": "Up to 1200 sq ft"}, {"label": "Port", "value": "1 Ethernet"}, {"label": "Bandwidth claim", "value": "44% over single-band N300"}],
+   "description": "TP-Link keeps its claims modest: a dual-band extender that the maker says offers up to 44 percent more bandwidth than single-band N300 extenders, covering up to 1200 square feet. It has an Ethernet port, supports 5GHz and 2.4GHz and uses a compact body.\n\nThe smaller coverage claim is more believable than the 10,000-plus figures on competitors, which makes planning easier. A compact body fits behind furniture and stays clear of nearby sockets. The listing does not give an explicit 5GHz speed figure, so you will not know the exact ceiling, and 1200 square feet is the smallest coverage in the lineup.\n\nSetup is typical for the class: plug in, connect and follow the prompts. Against the Tilstongy it has one Ethernet port instead of two but a more realistic range, and against the Auomiliya it adds a 5GHz band. It is the better pick for a small flat or a single awkward room.",
+   "bestFor": "A single room or small flat where a believable range claim matters.",
+   "pros": ["Modest coverage claim is easy to trust", "Dual-band beats older single-band units", "Compact body leaves neighbouring outlets free", "Ethernet port serves a TV or console"],
+   "cons": ["Smallest stated coverage in this list", "Listing omits a 5GHz speed figure"]
+  },
+  {
+   "i": 3,
+   "badge": "Most Modes",
+   "name": "Uppoon WiFi Extender with Ethernet and 5 Modes",
+   "specs": ["Repeater, bridge, AP modes", "5 working modes", "Ethernet port", "One-tap pairing", "Up to 10,000 sq ft claimed"],
+   "specList": [{"label": "Modes", "value": "Repeater, bridge, AP and more"}, {"label": "Pairing", "value": "One-tap"}, {"label": "Port", "value": "Ethernet"}, {"label": "Claimed coverage", "value": "Up to 10,000 sq ft"}],
+   "description": "Uppoon offers five working modes, including repeater, bridge and access point, with an Ethernet port and one-tap pairing. The listing says setup finishes within minutes and is suited to beginners and seniors, with no complex network configuration. It claims coverage of up to 10,000 square feet.\n\nThe mode range makes it more versatile than most, since access point mode can turn a wired jack into a wireless network. One-tap pairing helps anyone who dislikes setup pages. The listing does not say whether it is dual-band, so check for 5GHz support before assuming it, and the coverage claim is a best-case figure.\n\nIt is a good gift for a relative who wants a boost without fiddling. Compared with the Auomiliya it offers more modes and an easier pairing step, while the Tilstongy brings a clear dual-band spec. Pair it only with routers that support the one-tap method.",
+   "bestFor": "A first-time user who wants easy pairing and flexible modes.",
+   "pros": ["One-tap pairing keeps setup short", "Five modes include bridge and access point", "Ethernet port serves a wired device", "Plug-and-play suits non-technical users"],
+   "cons": ["Listing does not state dual-band support", "Coverage figure reads as a best case"]
+  },
+  {
+   "i": 4,
+   "badge": "Best for Older Devices",
+   "name": "Jancane WiFi Extender for 55 Devices",
+   "specs": ["Up to 55 devices", "Ethernet repeater or AP", "802.11 N/B/G support", "Up to 5800 sq ft claimed", "Access-point mode"],
+   "specList": [{"label": "Devices", "value": "Up to 55"}, {"label": "Standards", "value": "802.11 N/B/G"}, {"label": "Modes", "value": "Repeater or AP"}, {"label": "Claimed coverage", "value": "Up to 5800 sq ft"}],
+   "description": "Jancane supports up to 55 devices and works with 802.11 N, B and G networks. It has an Ethernet port and two modes, repeater or access point, and the listing claims coverage of up to 5800 square feet. The access-point mode turns a wired connection into a wireless one.\n\nCompatibility with older standards makes it friendly to older routers and gadgets, and the access-point mode is handy for a home office with a wired jack. The older standard also limits speeds, which will not suit modern streaming, and the coverage claim reads as a best case. Treat 55 devices as a connection ceiling, not a performance promise.\n\nIt is a quiet workhorse for low-demand setups such as sensors, printers and phones. Compared with the Tilstongy it is much slower, and against the UWDFH it lacks a dual-band claim. If your devices are older, it is a pragmatic pick.",
+   "bestFor": "Older routers and low-demand gadgets in a home office or workshop.",
+   "pros": ["Access-point mode makes a wired jack wireless", "Works with older 802.11 N/B/G gear", "Supports as many as 55 devices", "Ethernet port serves a TV or desktop"],
+   "cons": ["Older standard limits modern streaming speed", "Coverage claim reads as a best case"]
+  },
+  {
+   "i": 5,
+   "badge": "Best High-Capacity Dual-Band",
+   "name": "UWDFH 1200Mbps Dual-Band WiFi Extender",
+   "specs": ["1200Mbps dual-band", "300Mbps on 2.4GHz", "50+ devices", "Up to 10,000 sq ft claimed", "5GHz and 2.4GHz"],
+   "specList": [{"label": "Total speed", "value": "Up to 1200Mbps"}, {"label": "2.4GHz speed", "value": "300Mbps"}, {"label": "Devices", "value": "50 or more"}, {"label": "Claimed coverage", "value": "Up to 10,000 sq ft"}],
+   "description": "UWDFH lists a dual-band design with 1200Mbps total speed, 300Mbps on the 2.4GHz band and support for more than 50 devices. The listing says it extends coverage to basements, attics, garages and patios and claims a range of 10,000 square feet.\n\nThe device count suits a household with many phones, tablets, cameras and smart speakers. Dual-band operation gives the 5GHz side room for faster work while 2.4GHz handles reach. The headline speed is a combined theoretical figure, and the big coverage number is best case.\n\nAs a result it works best as a whole-home helper for a busy network. It is closer in spirit to the Tilstongy, though it lacks the stated six antennas and two ports, and it beats the Jancane on speed. Place it halfway to the dead zone and avoid pushing it into the weakest corner.",
+   "bestFor": "A busy household with many phones, tablets and smart devices.",
+   "pros": ["Dual-band design with 1200Mbps total", "Listing supports 50 or more devices", "Aimed at basements, garages and patios", "5GHz side gives room for streaming"],
+   "cons": ["Headline speed is a combined theoretical figure", "Port details are thin on the listing"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Single-band versus dual-band", "explanation": "A single-band extender like the Auomiliya shares one 2.4GHz radio for everything, which halves throughput when repeating. Dual-band units such as the Tilstongy, TP-Link and UWDFH add a 5GHz band that can carry faster traffic. If you stream video, choose dual-band. If you only need phones and smart plugs online, a simple single-band unit can be enough."},
+  {"criterion": "Ethernet ports", "explanation": "A wired port bypasses the wireless link for a device that needs a steady connection. The Tilstongy has two LAN/WAN ports, while the Auomiliya, TP-Link, Uppoon and Jancane each list one. Wired connections help smart TVs and consoles. If you want to connect two devices, the Tilstongy is the clearest fit."},
+  {"criterion": "Realistic coverage", "explanation": "Maker figures are best-case numbers. TP-Link claims 1200 square feet, Jancane 5800, Uppoon and UWDFH 10,000 and Tilstongy 15,000. The smaller number is the more believable one for a typical home. Walls and floors cut real range, so judge by room count, not square feet."},
+  {"criterion": "Operating modes", "explanation": "Modes change what the box can do. The Uppoon lists five modes, including repeater, bridge and access point, and the Jancane lists repeater and AP. Access point mode lets a wired jack feed a wireless signal. If you plan to use the box in different ways, more modes are worth having."},
+  {"criterion": "Supported standards", "explanation": "Older standards limit speed. The Jancane lists 802.11 N, B and G, which suits older gear but limits streaming, while the dual-band picks target faster use. Check that your router can talk to the extender. Mixed old and new networks can still work but run at the slower speed, and in some setups an older device on the network can drag the whole extender down to the lowest common standard. Where possible, keep an old gadget on the Ethernet port instead of its Wi Fi radio."},
+  {"criterion": "Setup and placement", "explanation": "The Uppoon lists one-tap pairing and the Auomiliya uses browser setup. Placement matters more than any feature: put the extender where the router signal is still good, roughly halfway to the dead room. Put it in the dead room itself and it will repeat a weak signal. Test with a phone before settling on a socket. Also keep the extender off power strips with surge protectors where possible, because a direct wall socket gives the cleanest power and the best antenna orientation. If the first spot is poor, moving the unit a single room closer to the router often fixes it."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Band and speed design", "description": "We compared single-band and dual-band layouts and the speed figures on each listing. The Tilstongy and UWDFH lead with dual-band designs, followed by the TP-Link. The Auomiliya and Jancane were scored as lighter-duty boxes."},
+  {"title": "Wired connectivity", "description": "We counted Ethernet ports and checked mode support. The Tilstongy leads with two ports, and the Uppoon and Jancane add access point modes. A wired link was treated as a real advantage for TVs and consoles."},
+  {"title": "Claim credibility", "description": "We read the coverage numbers critically, since every listing states a best case. The TP-Link's 1200 square feet is the most plausible, while the 10,000 and 15,000 figures are theoretical. Based on specs and buyer feedback, we penalised vague or inflated language."},
+  {"title": "Setup simplicity", "description": "We looked at how setup is described. The Uppoon's one-tap pairing and the Auomiliya's browser setup are straightforward. We noted that placement choice affects every model equally."},
+  {"title": "Value at this budget", "description": "We asked what each extender delivers compared with a bare repeater and what you would get by spending more. The lineup positions the Tilstongy as the feature leader, the TP-Link as the credible compact option and the Auomiliya as the basic fallback."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Home Size",
+   "intro": "Pick by the number of rooms you need to reach.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Small flat, one weak room", "TP-Link Dual-Band WiFi Extender with Ethernet Port", "Realistic 1200 sq ft claim"],
+     ["Two-storey house with many devices", "UWDFH 1200Mbps Dual-Band WiFi Extender", "Dual-band and 50+ device support"],
+     ["Garage or workshop", "Jancane WiFi Extender for 55 Devices", "Handles older gear in repeater or AP mode"],
+     ["Home with TV and console in one room", "Tilstongy 1200Mbps Dual-Band WiFi Extender", "Two Ethernet ports"],
+     ["Light use in one corner", "Auomiliya 300Mbps WiFi Extender with Ethernet", "Simple single-band repeater"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Inside the cap, tiers separate by band support and ports.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry within the cap", "Auomiliya 300Mbps WiFi Extender with Ethernet", "Single-band with one port"],
+     ["Lower-mid", "Jancane WiFi Extender for 55 Devices", "Older standards and AP mode"],
+     ["Upper-mid", "TP-Link Dual-Band WiFi Extender with Ethernet Port", "Dual-band from a known brand"],
+     ["Top of the cap", "Tilstongy 1200Mbps Dual-Band WiFi Extender", "Dual-band, six antennas, two ports"]
+    ]
+   },
+   "note": "The Uppoon and UWDFH sit between the middle tiers, depending on whether you value modes or capacity."
+  },
+  {
+   "subheading": "Repeater vs Access Point Mode",
+   "cards": [
+    {"label": "Repeater mode", "text": "The extender grabs your router's Wi Fi and rebroadcasts it. The Auomiliya, TP-Link, Tilstongy, Uppoon, Jancane and UWDFH can all do this. It is easiest when you have no cable in the dead room."},
+    {"label": "Access point mode", "text": "The extender plugs into a wired Ethernet jack and turns it into Wi Fi. The Uppoon and Jancane list this. It is more reliable than repeating if you have a jack available."}
+   ]
+  },
+  {
+   "subheading": "By Device Type",
+   "intro": "What you connect decides the band you need.",
+   "table": {
+    "headers": ["Device", "Pick", "Reason"],
+    "rows": [
+     ["Streaming TV", "Tilstongy 1200Mbps Dual-Band WiFi Extender", "5GHz band plus wired port"],
+     ["Phones and tablets", "UWDFH 1200Mbps Dual-Band WiFi Extender", "Dual-band with broad device support"],
+     ["Smart plugs and sensors", "Auomiliya 300Mbps WiFi Extender with Ethernet", "2.4GHz band is enough"],
+     ["Older printer or laptop", "Jancane WiFi Extender for 55 Devices", "Supports 802.11 N/B/G"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Easy Setup Specifically",
+   "cards": [
+    {"label": "Look for", "text": "One-tap pairing or a clear browser guide, plus a plain explanation of placement. Avoid models that need several apps."},
+    {"label": "In this comparison", "text": "The Uppoon lists one-tap pairing, the Auomiliya uses a browser page, and the TP-Link follows a standard prompt. All of them benefit from careful placement."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You need Wi Fi 6 speeds or a mesh system for a big home", "A single weak room is the problem, so the TP-Link is enough"],
+     ["You stream 4K video far from the router", "You browse and email, so the Auomiliya will do"],
+     ["You want a unit with a dedicated backhaul band", "You are happy with the Tilstongy dual-band design"],
+     ["You need a sleek unit with an app and diagnostics", "A plain plug-in box suits you"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {"q": "Where should I plug in a Wi Fi extender?", "a": "Place it roughly halfway between the router and the weak area, where the router signal is still decent. If the extender sits in the dead zone, it can only repeat a poor signal. Test with a phone before settling, walking from the router to the dead room with a speed test open and noting where the bars start to drop. Most extenders have a signal light that turns from red to white or green when the spot is good, so use it as a quick guide. Avoid sockets behind large furniture or next to a microwave, which can interfere with the 2.4GHz band."},
+  {"q": "Will an extender make my internet faster?", "a": "No, it extends reach, not your plan's speed. A repeater can even reduce speed on a single-band design, because it shares one radio. Dual-band units such as the Tilstongy reduce that penalty by using one band to talk to the router and another to serve your devices, though budget models rarely dedicate a band to that job. If a room is only a little weak, a better router position or a wired connection to the dead room may help more than any extender."},
+  {"q": "Are the coverage claims real?", "a": "They are best-case figures, not what you will see in a typical home. The TP-Link's 1200 square feet is the most modest here. Count rooms and walls instead, and assume each solid wall or floor costs you a large share of range. Brick, concrete and foil-backed insulation are the worst offenders, so a house with those materials may get only a fraction of the stated figure. An honest rule is to plan for one extender per trouble spot, not per house."},
+  {"q": "What does an Ethernet port do?", "a": "It lets you plug a TV, console or desktop into the extender with a cable. That avoids the wireless hop for that device. The Tilstongy has two ports and the others list one."},
+  {"q": "Do I need dual-band?", "a": "If you stream or video call, yes, because 5GHz carries more data. If you only run smart plugs and email, a single-band Auomiliya may be fine. Check what your router offers, since an extender cannot add a band your router does not broadcast. Many routers combine both bands under one name, which can leave a device on the slower band, so naming them separately in the router settings gives you more control over which band your TV connects to."},
+  {"q": "Can an old router work with these?", "a": "Usually yes, especially the Jancane, which lists 802.11 N, B and G. The connection runs at the slower standard. Update router firmware where possible."},
+  {"q": "When should I buy a mesh system instead?", "a": "If you have a large home with several dead zones, mesh gives smoother roaming than one extender. An extender suits a single trouble spot. Mesh costs more than this lineup, but it uses one network name and hands devices between nodes without you reconnecting, which is a real convenience when you walk around the house on a video call."}
+ ]
+}

@@ -1,0 +1,1026 @@
+[
+ {
+  "id": 1,
+  "seed": "air fryer",
+  "slug": "best-air-fryers-under-75",
+  "keyword": "best air fryers under 75",
+  "title": "Best Air Fryers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 2,
+  "seed": "air fryer",
+  "slug": "best-air-fryers-under-150",
+  "keyword": "best air fryers under 150",
+  "title": "Best Air Fryers Under $150",
+  "tier": 150
+ },
+ {
+  "id": 3,
+  "seed": "automatic pill dispenser",
+  "slug": "best-automatic-pill-dispensers-under-200",
+  "keyword": "best automatic pill dispensers under 200",
+  "title": "Best Automatic Pill Dispensers Under $200",
+  "tier": 200
+ },
+ {
+  "id": 4,
+  "seed": "automatic pot stirrer",
+  "slug": "best-automatic-pot-stirrers-under-150",
+  "keyword": "best automatic pot stirrers under 150",
+  "title": "Best Automatic Pot Stirrers Under $150",
+  "tier": 150
+ },
+ {
+  "id": 5,
+  "seed": "big button cell phones for senior",
+  "slug": "best-big-button-cell-phones-for-seniors-under-50",
+  "keyword": "best big button cell phones for seniors under 50",
+  "title": "Best Big Button Cell Phones For Seniors Under $50",
+  "tier": 50
+ },
+ {
+  "id": 6,
+  "seed": "big button cell phones for senior",
+  "slug": "best-big-button-cell-phones-for-seniors-under-75",
+  "keyword": "best big button cell phones for seniors under 75",
+  "title": "Best Big Button Cell Phones For Seniors Under $75",
+  "tier": 75
+ },
+ {
+  "id": 7,
+  "seed": "bluetooth tracker",
+  "slug": "best-bluetooth-trackers-under-25",
+  "keyword": "best bluetooth trackers under 25",
+  "title": "Best Bluetooth Trackers Under $25",
+  "tier": 25
+ },
+ {
+  "id": 8,
+  "seed": "bluetooth tracker",
+  "slug": "best-bluetooth-trackers-under-50",
+  "keyword": "best bluetooth trackers under 50",
+  "title": "Best Bluetooth Trackers Under $50",
+  "tier": 50
+ },
+ {
+  "id": 9,
+  "seed": "bread maker",
+  "slug": "best-bread-makers-under-150",
+  "keyword": "best bread makers under 150",
+  "title": "Best Bread Makers Under $150",
+  "tier": 150
+ },
+ {
+  "id": 10,
+  "seed": "bread maker",
+  "slug": "best-bread-makers-under-200",
+  "keyword": "best bread makers under 200",
+  "title": "Best Bread Makers Under $200",
+  "tier": 200
+ },
+ {
+  "id": 11,
+  "seed": "canister vacuum",
+  "slug": "best-canister-vacuums-under-150",
+  "keyword": "best canister vacuums under 150",
+  "title": "Best Canister Vacuums Under $150",
+  "tier": 150
+ },
+ {
+  "id": 12,
+  "seed": "canister vacuum",
+  "slug": "best-canister-vacuums-under-200",
+  "keyword": "best canister vacuums under 200",
+  "title": "Best Canister Vacuums Under $200",
+  "tier": 200
+ },
+ {
+  "id": 13,
+  "seed": "canister vacuum",
+  "slug": "best-canister-vacuums-under-300",
+  "keyword": "best canister vacuums under 300",
+  "title": "Best Canister Vacuums Under $300",
+  "tier": 300
+ },
+ {
+  "id": 14,
+  "seed": "carpet cleaner",
+  "slug": "best-carpet-cleaners-under-30",
+  "keyword": "best carpet cleaners under 30",
+  "title": "Best Carpet Cleaners Under $30",
+  "tier": 30
+ },
+ {
+  "id": 15,
+  "seed": "carpet cleaner",
+  "slug": "best-carpet-cleaners-under-75",
+  "keyword": "best carpet cleaners under 75",
+  "title": "Best Carpet Cleaners Under $75",
+  "tier": 75
+ },
+ {
+  "id": 16,
+  "seed": "chromebook",
+  "slug": "best-chromebooks-under-300",
+  "keyword": "best chromebooks under 300",
+  "title": "Best Chromebooks Under $300",
+  "tier": 300
+ },
+ {
+  "id": 17,
+  "seed": "chromebook",
+  "slug": "best-chromebooks-under-500",
+  "keyword": "best chromebooks under 500",
+  "title": "Best Chromebooks Under $500",
+  "tier": 500
+ },
+ {
+  "id": 18,
+  "seed": "coffee maker",
+  "slug": "best-coffee-makers-under-25",
+  "keyword": "best coffee makers under 25",
+  "title": "Best Coffee Makers Under $25",
+  "tier": 25
+ },
+ {
+  "id": 19,
+  "seed": "corded landline phones for senior",
+  "slug": "best-corded-landline-phones-for-seniors-under-30",
+  "keyword": "best corded landline phones for seniors under 30",
+  "title": "Best Corded Landline Phones For Seniors Under $30",
+  "tier": 30
+ },
+ {
+  "id": 20,
+  "seed": "corded landline phones for senior",
+  "slug": "best-corded-landline-phones-for-seniors-under-50",
+  "keyword": "best corded landline phones for seniors under 50",
+  "title": "Best Corded Landline Phones For Seniors Under $50",
+  "tier": 50
+ },
+ {
+  "id": 21,
+  "seed": "cordless grass shear",
+  "slug": "best-cordless-grass-shears-under-75",
+  "keyword": "best cordless grass shears under 75",
+  "title": "Best Cordless Grass Shears Under $75",
+  "tier": 75
+ },
+ {
+  "id": 22,
+  "seed": "cordless phone",
+  "slug": "best-cordless-phones-under-75",
+  "keyword": "best cordless phones under 75",
+  "title": "Best Cordless Phones Under $75",
+  "tier": 75
+ },
+ {
+  "id": 23,
+  "seed": "cordless phone",
+  "slug": "best-cordless-phones-under-100",
+  "keyword": "best cordless phones under 100",
+  "title": "Best Cordless Phones Under $100",
+  "tier": 100
+ },
+ {
+  "id": 24,
+  "seed": "countertop dishwasher",
+  "slug": "best-countertop-dishwashers-under-300",
+  "keyword": "best countertop dishwashers under 300",
+  "title": "Best Countertop Dishwashers Under $300",
+  "tier": 300
+ },
+ {
+  "id": 25,
+  "seed": "dehumidifier",
+  "slug": "best-dehumidifiers-under-75",
+  "keyword": "best dehumidifiers under 75",
+  "title": "Best Dehumidifiers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 26,
+  "seed": "dehumidifier",
+  "slug": "best-dehumidifiers-under-150",
+  "keyword": "best dehumidifiers under 150",
+  "title": "Best Dehumidifiers Under $150",
+  "tier": 150
+ },
+ {
+  "id": 27,
+  "seed": "digital day clocks for dementia",
+  "slug": "best-digital-day-clocks-for-dementia-under-50",
+  "keyword": "best digital day clocks for dementia under 50",
+  "title": "Best Digital Day Clocks For Dementia Under $50",
+  "tier": 50
+ },
+ {
+  "id": 28,
+  "seed": "digital photo frame",
+  "slug": "best-digital-photo-frames-under-75",
+  "keyword": "best digital photo frames under 75",
+  "title": "Best Digital Photo Frames Under $75",
+  "tier": 75
+ },
+ {
+  "id": 29,
+  "seed": "digital photo frame",
+  "slug": "best-digital-photo-frames-under-100",
+  "keyword": "best digital photo frames under 100",
+  "title": "Best Digital Photo Frames Under $100",
+  "tier": 100
+ },
+ {
+  "id": 30,
+  "seed": "digital photo frame",
+  "slug": "best-digital-photo-frames-under-150",
+  "keyword": "best digital photo frames under 150",
+  "title": "Best Digital Photo Frames Under $150",
+  "tier": 150
+ },
+ {
+  "id": 31,
+  "seed": "digital radios for senior",
+  "slug": "best-digital-radios-for-seniors-under-25",
+  "keyword": "best digital radios for seniors under 25",
+  "title": "Best Digital Radios For Seniors Under $25",
+  "tier": 25
+ },
+ {
+  "id": 32,
+  "seed": "e reader",
+  "slug": "best-e-readers-under-75",
+  "keyword": "best e readers under 75",
+  "title": "Best E Readers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 33,
+  "seed": "e reader",
+  "slug": "best-e-readers-under-150",
+  "keyword": "best e readers under 150",
+  "title": "Best E Readers Under $150",
+  "tier": 150
+ },
+ {
+  "id": 34,
+  "seed": "electric griddle",
+  "slug": "best-electric-griddles-under-100",
+  "keyword": "best electric griddles under 100",
+  "title": "Best Electric Griddles Under $100",
+  "tier": 100
+ },
+ {
+  "id": 35,
+  "seed": "electric jar opener",
+  "slug": "best-electric-jar-openers-under-30",
+  "keyword": "best electric jar openers under 30",
+  "title": "Best Electric Jar Openers Under $30",
+  "tier": 30
+ },
+ {
+  "id": 36,
+  "seed": "electric jar opener",
+  "slug": "best-electric-jar-openers-under-50",
+  "keyword": "best electric jar openers under 50",
+  "title": "Best Electric Jar Openers Under $50",
+  "tier": 50
+ },
+ {
+  "id": 37,
+  "seed": "electric pruning shear",
+  "slug": "best-electric-pruning-shears-under-75",
+  "keyword": "best electric pruning shears under 75",
+  "title": "Best Electric Pruning Shears Under $75",
+  "tier": 75
+ },
+ {
+  "id": 38,
+  "seed": "electric pruning shear",
+  "slug": "best-electric-pruning-shears-under-100",
+  "keyword": "best electric pruning shears under 100",
+  "title": "Best Electric Pruning Shears Under $100",
+  "tier": 100
+ },
+ {
+  "id": 39,
+  "seed": "electric snow shovel",
+  "slug": "best-electric-snow-shovels-under-150",
+  "keyword": "best electric snow shovels under 150",
+  "title": "Best Electric Snow Shovels Under $150",
+  "tier": 150
+ },
+ {
+  "id": 40,
+  "seed": "electric snow shovel",
+  "slug": "best-electric-snow-shovels-under-300",
+  "keyword": "best electric snow shovels under 300",
+  "title": "Best Electric Snow Shovels Under $300",
+  "tier": 300
+ },
+ {
+  "id": 41,
+  "seed": "electric spin scrubber",
+  "slug": "best-electric-spin-scrubbers-under-50",
+  "keyword": "best electric spin scrubbers under 50",
+  "title": "Best Electric Spin Scrubbers Under $50",
+  "tier": 50
+ },
+ {
+  "id": 42,
+  "seed": "electric spin scrubber",
+  "slug": "best-electric-spin-scrubbers-under-75",
+  "keyword": "best electric spin scrubbers under 75",
+  "title": "Best Electric Spin Scrubbers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 43,
+  "seed": "electric weed burner",
+  "slug": "best-electric-weed-burners-under-50",
+  "keyword": "best electric weed burners under 50",
+  "title": "Best Electric Weed Burners Under $50",
+  "tier": 50
+ },
+ {
+  "id": 44,
+  "seed": "emergency weather radio",
+  "slug": "best-emergency-weather-radios-under-30",
+  "keyword": "best emergency weather radios under 30",
+  "title": "Best Emergency Weather Radios Under $30",
+  "tier": 30
+ },
+ {
+  "id": 45,
+  "seed": "emergency weather radio",
+  "slug": "best-emergency-weather-radios-under-75",
+  "keyword": "best emergency weather radios under 75",
+  "title": "Best Emergency Weather Radios Under $75",
+  "tier": 75
+ },
+ {
+  "id": 46,
+  "seed": "fall detection watche",
+  "slug": "best-fall-detection-watches-under-100",
+  "keyword": "best fall detection watches under 100",
+  "title": "Best Fall Detection Watches Under $100",
+  "tier": 100
+ },
+ {
+  "id": 47,
+  "seed": "fall detection watche",
+  "slug": "best-fall-detection-watches-under-150",
+  "keyword": "best fall detection watches under 150",
+  "title": "Best Fall Detection Watches Under $150",
+  "tier": 150
+ },
+ {
+  "id": 48,
+  "seed": "floor scrubber",
+  "slug": "best-floor-scrubbers-under-75",
+  "keyword": "best floor scrubbers under 75",
+  "title": "Best Floor Scrubbers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 49,
+  "seed": "floor scrubber",
+  "slug": "best-floor-scrubbers-under-100",
+  "keyword": "best floor scrubbers under 100",
+  "title": "Best Floor Scrubbers Under $100",
+  "tier": 100
+ },
+ {
+  "id": 50,
+  "seed": "floor scrubber",
+  "slug": "best-floor-scrubbers-under-200",
+  "keyword": "best floor scrubbers under 200",
+  "title": "Best Floor Scrubbers Under $200",
+  "tier": 200
+ },
+ {
+  "id": 51,
+  "seed": "garden cart",
+  "slug": "best-garden-carts-under-150",
+  "keyword": "best garden carts under 150",
+  "title": "Best Garden Carts Under $150",
+  "tier": 150
+ },
+ {
+  "id": 52,
+  "seed": "garden cart",
+  "slug": "best-garden-carts-under-200",
+  "keyword": "best garden carts under 200",
+  "title": "Best Garden Carts Under $200",
+  "tier": 200
+ },
+ {
+  "id": 53,
+  "seed": "garden hose nozzle",
+  "slug": "best-garden-hose-nozzles-under-25",
+  "keyword": "best garden hose nozzles under 25",
+  "title": "Best Garden Hose Nozzles Under $25",
+  "tier": 25
+ },
+ {
+  "id": 54,
+  "seed": "garden kneeler",
+  "slug": "best-garden-kneelers-under-75",
+  "keyword": "best garden kneelers under 75",
+  "title": "Best Garden Kneelers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 55,
+  "seed": "garden sprayer",
+  "slug": "best-garden-sprayers-under-20",
+  "keyword": "best garden sprayers under 20",
+  "title": "Best Garden Sprayers Under $20",
+  "tier": 20
+ },
+ {
+  "id": 56,
+  "seed": "garden stool",
+  "slug": "best-garden-stools-under-75",
+  "keyword": "best garden stools under 75",
+  "title": "Best Garden Stools Under $75",
+  "tier": 75
+ },
+ {
+  "id": 57,
+  "seed": "handheld steam cleaner",
+  "slug": "best-handheld-steam-cleaners-under-50",
+  "keyword": "best handheld steam cleaners under 50",
+  "title": "Best Handheld Steam Cleaners Under $50",
+  "tier": 50
+ },
+ {
+  "id": 58,
+  "seed": "handheld vacuum",
+  "slug": "best-handheld-vacuums-under-75",
+  "keyword": "best handheld vacuums under 75",
+  "title": "Best Handheld Vacuums Under $75",
+  "tier": 75
+ },
+ {
+  "id": 59,
+  "seed": "handheld vacuum",
+  "slug": "best-handheld-vacuums-under-100",
+  "keyword": "best handheld vacuums under 100",
+  "title": "Best Handheld Vacuums Under $100",
+  "tier": 100
+ },
+ {
+  "id": 60,
+  "seed": "handheld vacuum",
+  "slug": "best-handheld-vacuums-under-150",
+  "keyword": "best handheld vacuums under 150",
+  "title": "Best Handheld Vacuums Under $150",
+  "tier": 150
+ },
+ {
+  "id": 61,
+  "seed": "hedge trimmer",
+  "slug": "best-hedge-trimmers-under-50",
+  "keyword": "best hedge trimmers under 50",
+  "title": "Best Hedge Trimmers Under $50",
+  "tier": 50
+ },
+ {
+  "id": 62,
+  "seed": "home security camera",
+  "slug": "best-home-security-cameras-under-30",
+  "keyword": "best home security cameras under 30",
+  "title": "Best Home Security Cameras Under $30",
+  "tier": 30
+ },
+ {
+  "id": 63,
+  "seed": "home security camera",
+  "slug": "best-home-security-cameras-under-50",
+  "keyword": "best home security cameras under 50",
+  "title": "Best Home Security Cameras Under $50",
+  "tier": 50
+ },
+ {
+  "id": 64,
+  "seed": "home security camera",
+  "slug": "best-home-security-cameras-under-75",
+  "keyword": "best home security cameras under 75",
+  "title": "Best Home Security Cameras Under $75",
+  "tier": 75
+ },
+ {
+  "id": 65,
+  "seed": "key finder",
+  "slug": "best-key-finders-under-25",
+  "keyword": "best key finders under 25",
+  "title": "Best Key Finders Under $25",
+  "tier": 25
+ },
+ {
+  "id": 66,
+  "seed": "leaf blower",
+  "slug": "best-leaf-blowers-under-50",
+  "keyword": "best leaf blowers under 50",
+  "title": "Best Leaf Blowers Under $50",
+  "tier": 50
+ },
+ {
+  "id": 67,
+  "seed": "leaf blower",
+  "slug": "best-leaf-blowers-under-75",
+  "keyword": "best leaf blowers under 75",
+  "title": "Best Leaf Blowers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 68,
+  "seed": "leaf blower",
+  "slug": "best-leaf-blowers-under-150",
+  "keyword": "best leaf blowers under 150",
+  "title": "Best Leaf Blowers Under $150",
+  "tier": 150
+ },
+ {
+  "id": 69,
+  "seed": "lightweight carpet cleaner",
+  "slug": "best-lightweight-carpet-cleaners-under-75",
+  "keyword": "best lightweight carpet cleaners under 75",
+  "title": "Best Lightweight Carpet Cleaners Under $75",
+  "tier": 75
+ },
+ {
+  "id": 70,
+  "seed": "lightweight carpet cleaner",
+  "slug": "best-lightweight-carpet-cleaners-under-100",
+  "keyword": "best lightweight carpet cleaners under 100",
+  "title": "Best Lightweight Carpet Cleaners Under $100",
+  "tier": 100
+ },
+ {
+  "id": 71,
+  "seed": "lightweight carpet cleaner",
+  "slug": "best-lightweight-carpet-cleaners-under-150",
+  "keyword": "best lightweight carpet cleaners under 150",
+  "title": "Best Lightweight Carpet Cleaners Under $150",
+  "tier": 150
+ },
+ {
+  "id": 72,
+  "seed": "lightweight garden hose",
+  "slug": "best-lightweight-garden-hoses-under-25",
+  "keyword": "best lightweight garden hoses under 25",
+  "title": "Best Lightweight Garden Hoses Under $25",
+  "tier": 25
+ },
+ {
+  "id": 73,
+  "seed": "lightweight garden hose",
+  "slug": "best-lightweight-garden-hoses-under-30",
+  "keyword": "best lightweight garden hoses under 30",
+  "title": "Best Lightweight Garden Hoses Under $30",
+  "tier": 30
+ },
+ {
+  "id": 74,
+  "seed": "lightweight leaf blower",
+  "slug": "best-lightweight-leaf-blowers-under-75",
+  "keyword": "best lightweight leaf blowers under 75",
+  "title": "Best Lightweight Leaf Blowers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 75,
+  "seed": "medical alert system",
+  "slug": "best-medical-alert-systems-under-75",
+  "keyword": "best medical alert systems under 75",
+  "title": "Best Medical Alert Systems Under $75",
+  "tier": 75
+ },
+ {
+  "id": 76,
+  "seed": "medical alert system",
+  "slug": "best-medical-alert-systems-under-100",
+  "keyword": "best medical alert systems under 100",
+  "title": "Best Medical Alert Systems Under $100",
+  "tier": 100
+ },
+ {
+  "id": 77,
+  "seed": "medical alert system",
+  "slug": "best-medical-alert-systems-under-150",
+  "keyword": "best medical alert systems under 150",
+  "title": "Best Medical Alert Systems Under $150",
+  "tier": 150
+ },
+ {
+  "id": 78,
+  "seed": "microwave",
+  "slug": "best-microwaves-under-150",
+  "keyword": "best microwaves under 150",
+  "title": "Best Microwaves Under $150",
+  "tier": 150
+ },
+ {
+  "id": 79,
+  "seed": "motion sensor light",
+  "slug": "best-motion-sensor-lights-under-25",
+  "keyword": "best motion sensor lights under 25",
+  "title": "Best Motion Sensor Lights Under $25",
+  "tier": 25
+ },
+ {
+  "id": 80,
+  "seed": "raised garden bed",
+  "slug": "best-raised-garden-beds-under-30",
+  "keyword": "best raised garden beds under 30",
+  "title": "Best Raised Garden Beds Under $30",
+  "tier": 30
+ },
+ {
+  "id": 81,
+  "seed": "raised garden bed",
+  "slug": "best-raised-garden-beds-under-75",
+  "keyword": "best raised garden beds under 75",
+  "title": "Best Raised Garden Beds Under $75",
+  "tier": 75
+ },
+ {
+  "id": 82,
+  "seed": "raised garden bed",
+  "slug": "best-raised-garden-beds-under-100",
+  "keyword": "best raised garden beds under 100",
+  "title": "Best Raised Garden Beds Under $100",
+  "tier": 100
+ },
+ {
+  "id": 83,
+  "seed": "raised planter",
+  "slug": "best-raised-planters-under-30",
+  "keyword": "best raised planters under 30",
+  "title": "Best Raised Planters Under $30",
+  "tier": 30
+ },
+ {
+  "id": 84,
+  "seed": "rolling garden seat",
+  "slug": "best-rolling-garden-seats-under-75",
+  "keyword": "best rolling garden seats under 75",
+  "title": "Best Rolling Garden Seats Under $75",
+  "tier": 75
+ },
+ {
+  "id": 85,
+  "seed": "rolling garden seat",
+  "slug": "best-rolling-garden-seats-under-100",
+  "keyword": "best rolling garden seats under 100",
+  "title": "Best Rolling Garden Seats Under $100",
+  "tier": 100
+ },
+ {
+  "id": 86,
+  "seed": "smart lock",
+  "slug": "best-smart-locks-under-75",
+  "keyword": "best smart locks under 75",
+  "title": "Best Smart Locks Under $75",
+  "tier": 75
+ },
+ {
+  "id": 87,
+  "seed": "smart lock",
+  "slug": "best-smart-locks-under-150",
+  "keyword": "best smart locks under 150",
+  "title": "Best Smart Locks Under $150",
+  "tier": 150
+ },
+ {
+  "id": 88,
+  "seed": "smart plug",
+  "slug": "best-smart-plugs-under-25",
+  "keyword": "best smart plugs under 25",
+  "title": "Best Smart Plugs Under $25",
+  "tier": 25
+ },
+ {
+  "id": 89,
+  "seed": "smart speaker",
+  "slug": "best-smart-speakers-under-300",
+  "keyword": "best smart speakers under 300",
+  "title": "Best Smart Speakers Under $300",
+  "tier": 300
+ },
+ {
+  "id": 90,
+  "seed": "smart thermostat",
+  "slug": "best-smart-thermostats-under-150",
+  "keyword": "best smart thermostats under 150",
+  "title": "Best Smart Thermostats Under $150",
+  "tier": 150
+ },
+ {
+  "id": 91,
+  "seed": "snow blower",
+  "slug": "best-snow-blowers-under-500",
+  "keyword": "best snow blowers under 500",
+  "title": "Best Snow Blowers Under $500",
+  "tier": 500
+ },
+ {
+  "id": 92,
+  "seed": "snow blower",
+  "slug": "best-snow-blowers-under-1000",
+  "keyword": "best snow blowers under 1000",
+  "title": "Best Snow Blowers Under $1000",
+  "tier": 1000
+ },
+ {
+  "id": 93,
+  "seed": "soundbar",
+  "slug": "best-soundbars-under-150",
+  "keyword": "best soundbars under 150",
+  "title": "Best Soundbars Under $150",
+  "tier": 150
+ },
+ {
+  "id": 94,
+  "seed": "soundbar",
+  "slug": "best-soundbars-under-200",
+  "keyword": "best soundbars under 200",
+  "title": "Best Soundbars Under $200",
+  "tier": 200
+ },
+ {
+  "id": 95,
+  "seed": "soundbar",
+  "slug": "best-soundbars-under-300",
+  "keyword": "best soundbars under 300",
+  "title": "Best Soundbars Under $300",
+  "tier": 300
+ },
+ {
+  "id": 96,
+  "seed": "steam mop",
+  "slug": "best-steam-mops-under-100",
+  "keyword": "best steam mops under 100",
+  "title": "Best Steam Mops Under $100",
+  "tier": 100
+ },
+ {
+  "id": 97,
+  "seed": "steam mop",
+  "slug": "best-steam-mops-under-150",
+  "keyword": "best steam mops under 150",
+  "title": "Best Steam Mops Under $150",
+  "tier": 150
+ },
+ {
+  "id": 98,
+  "seed": "string trimmer",
+  "slug": "best-string-trimmers-under-75",
+  "keyword": "best string trimmers under 75",
+  "title": "Best String Trimmers Under $75",
+  "tier": 75
+ },
+ {
+  "id": 99,
+  "seed": "tablet",
+  "slug": "best-tablets-under-75",
+  "keyword": "best tablets under 75",
+  "title": "Best Tablets Under $75",
+  "tier": 75
+ },
+ {
+  "id": 100,
+  "seed": "tablet",
+  "slug": "best-tablets-under-150",
+  "keyword": "best tablets under 150",
+  "title": "Best Tablets Under $150",
+  "tier": 150
+ },
+ {
+  "id": 101,
+  "seed": "talking clock",
+  "slug": "best-talking-clocks-under-25",
+  "keyword": "best talking clocks under 25",
+  "title": "Best Talking Clocks Under $25",
+  "tier": 25
+ },
+ {
+  "id": 102,
+  "seed": "talking clock",
+  "slug": "best-talking-clocks-under-50",
+  "keyword": "best talking clocks under 50",
+  "title": "Best Talking Clocks Under $50",
+  "tier": 50
+ },
+ {
+  "id": 103,
+  "seed": "tv headphones for senior",
+  "slug": "best-tv-headphones-for-seniors-under-75",
+  "keyword": "best tv headphones for seniors under 75",
+  "title": "Best Tv Headphones For Seniors Under $75",
+  "tier": 75
+ },
+ {
+  "id": 104,
+  "seed": "tv headphones for senior",
+  "slug": "best-tv-headphones-for-seniors-under-100",
+  "keyword": "best tv headphones for seniors under 100",
+  "title": "Best Tv Headphones For Seniors Under $100",
+  "tier": 100
+ },
+ {
+  "id": 105,
+  "seed": "tv",
+  "slug": "best-tvs-under-150",
+  "keyword": "best tvs under 150",
+  "title": "Best Tvs Under $150",
+  "tier": 150
+ },
+ {
+  "id": 106,
+  "seed": "tv",
+  "slug": "best-tvs-under-300",
+  "keyword": "best tvs under 300",
+  "title": "Best Tvs Under $300",
+  "tier": 300
+ },
+ {
+  "id": 107,
+  "seed": "ultrasonic cleaner",
+  "slug": "best-ultrasonic-cleaners-under-50",
+  "keyword": "best ultrasonic cleaners under 50",
+  "title": "Best Ultrasonic Cleaners Under $50",
+  "tier": 50
+ },
+ {
+  "id": 108,
+  "seed": "ultrasonic cleaner",
+  "slug": "best-ultrasonic-cleaners-under-100",
+  "keyword": "best ultrasonic cleaners under 100",
+  "title": "Best Ultrasonic Cleaners Under $100",
+  "tier": 100
+ },
+ {
+  "id": 109,
+  "seed": "universal remote",
+  "slug": "best-universal-remotes-under-20",
+  "keyword": "best universal remotes under 20",
+  "title": "Best Universal Remotes Under $20",
+  "tier": 20
+ },
+ {
+  "id": 110,
+  "seed": "universal remote",
+  "slug": "best-universal-remotes-under-30",
+  "keyword": "best universal remotes under 30",
+  "title": "Best Universal Remotes Under $30",
+  "tier": 30
+ },
+ {
+  "id": 111,
+  "seed": "universal remote",
+  "slug": "best-universal-remotes-under-50",
+  "keyword": "best universal remotes under 50",
+  "title": "Best Universal Remotes Under $50",
+  "tier": 50
+ },
+ {
+  "id": 112,
+  "seed": "upright vacuum",
+  "slug": "best-upright-vacuums-under-150",
+  "keyword": "best upright vacuums under 150",
+  "title": "Best Upright Vacuums Under $150",
+  "tier": 150
+ },
+ {
+  "id": 113,
+  "seed": "upright vacuum",
+  "slug": "best-upright-vacuums-under-200",
+  "keyword": "best upright vacuums under 200",
+  "title": "Best Upright Vacuums Under $200",
+  "tier": 200
+ },
+ {
+  "id": 114,
+  "seed": "upright vacuum",
+  "slug": "best-upright-vacuums-under-300",
+  "keyword": "best upright vacuums under 300",
+  "title": "Best Upright Vacuums Under $300",
+  "tier": 300
+ },
+ {
+  "id": 115,
+  "seed": "vacuum mop combo",
+  "slug": "best-vacuum-mop-combos-under-200",
+  "keyword": "best vacuum mop combos under 200",
+  "title": "Best Vacuum Mop Combos Under $200",
+  "tier": 200
+ },
+ {
+  "id": 116,
+  "seed": "vacuum mop combo",
+  "slug": "best-vacuum-mop-combos-under-300",
+  "keyword": "best vacuum mop combos under 300",
+  "title": "Best Vacuum Mop Combos Under $300",
+  "tier": 300
+ },
+ {
+  "id": 117,
+  "seed": "video doorbell",
+  "slug": "best-video-doorbells-under-75",
+  "keyword": "best video doorbells under 75",
+  "title": "Best Video Doorbells Under $75",
+  "tier": 75
+ },
+ {
+  "id": 118,
+  "seed": "video doorbell",
+  "slug": "best-video-doorbells-under-150",
+  "keyword": "best video doorbells under 150",
+  "title": "Best Video Doorbells Under $150",
+  "tier": 150
+ },
+ {
+  "id": 119,
+  "seed": "video intercom system",
+  "slug": "best-video-intercom-systems-under-200",
+  "keyword": "best video intercom systems under 200",
+  "title": "Best Video Intercom Systems Under $200",
+  "tier": 200
+ },
+ {
+  "id": 120,
+  "seed": "video intercom system",
+  "slug": "best-video-intercom-systems-under-300",
+  "keyword": "best video intercom systems under 300",
+  "title": "Best Video Intercom Systems Under $300",
+  "tier": 300
+ },
+ {
+  "id": 121,
+  "seed": "video intercom system",
+  "slug": "best-video-intercom-systems-under-500",
+  "keyword": "best video intercom systems under 500",
+  "title": "Best Video Intercom Systems Under $500",
+  "tier": 500
+ },
+ {
+  "id": 122,
+  "seed": "watering timer",
+  "slug": "best-watering-timers-under-30",
+  "keyword": "best watering timers under 30",
+  "title": "Best Watering Timers Under $30",
+  "tier": 30
+ },
+ {
+  "id": 123,
+  "seed": "weed puller",
+  "slug": "best-weed-pullers-under-30",
+  "keyword": "best weed pullers under 30",
+  "title": "Best Weed Pullers Under $30",
+  "tier": 30
+ },
+ {
+  "id": 124,
+  "seed": "wi fi extender",
+  "slug": "best-wi-fi-extenders-under-20",
+  "keyword": "best wi fi extenders under 20",
+  "title": "Best Wi Fi Extenders Under $20",
+  "tier": 20
+ },
+ {
+  "id": 125,
+  "seed": "window cleaning robot",
+  "slug": "best-window-cleaning-robots-under-200",
+  "keyword": "best window cleaning robots under 200",
+  "title": "Best Window Cleaning Robots Under $200",
+  "tier": 200
+ },
+ {
+  "id": 126,
+  "seed": "window cleaning robot",
+  "slug": "best-window-cleaning-robots-under-300",
+  "keyword": "best window cleaning robots under 300",
+  "title": "Best Window Cleaning Robots Under $300",
+  "tier": 300
+ },
+ {
+  "id": 127,
+  "seed": "wireless doorbell",
+  "slug": "best-wireless-doorbells-under-20",
+  "keyword": "best wireless doorbells under 20",
+  "title": "Best Wireless Doorbells Under $20",
+  "tier": 20
+ },
+ {
+  "id": 128,
+  "seed": "wireless doorbell",
+  "slug": "best-wireless-doorbells-under-30",
+  "keyword": "best wireless doorbells under 30",
+  "title": "Best Wireless Doorbells Under $30",
+  "tier": 30
+ }
+]

@@ -1,0 +1,206 @@
+{
+ "guideTitle": "6 Best Upright Vacuums Under $300 in 2026",
+ "metaTitle": "Best Upright Vacuums Under $300 (2026)",
+ "metaDescription": "Six upright vacuums at the top of this series, from powered Lift-Away Sharks to a light Eureka, compared on pods, brushrolls, bins and upkeep tradeoffs.",
+ "introParagraphs": [
+  "The largest budget cap in this series opens the door to the best-equipped uprights in the group: powered Lift-Away pods, swivel steering, self-cleaning brushrolls and sealed filtration claims. The six picks below lean on Shark's Rotator and Navigator lines, with one featherweight Eureka for contrast. We evaluated them on pod design, steering, hair handling, bin size and what each listing actually states about filtration.",
+  "What more spending buys at this level is mostly flexibility. A powered pod keeps a spinning brush working when you detach it, swivel steering turns the head without fighting the handle, and LED headlights show dust you would otherwise miss. What you give up is simplicity, since more mechanisms mean more to clean and more to eventually replace.",
+  "If your needs are basic, the cheaper siblings in this series cover them. Choose from this page when you want a machine that doubles as a handheld, handles pet hair with less effort or reduces the number of attachments you have to swap."
+ ],
+ "products": [
+  {
+   "i": 1,
+   "badge": "Best Rotator Design",
+   "name": "Shark Rotator Lift-Away NV501 HEPA Upright",
+   "specs": ["Lift-Away pod", "0.9-quart dust cup", "Swivel steering", "HEPA filter listed"],
+   "specList": [
+    {"label": "Portability", "value": "Lift-Away pod"},
+    {"label": "Dust cup", "value": "0.9 quart"},
+    {"label": "Steering", "value": "Swivel"},
+    {"label": "Tools", "value": "Dusting brush, upholstery tool, crevice tool"}
+   ],
+   "description": "The Shark Rotator NV501 pairs a detachable Lift-Away pod with swivel steering, which is a combination that matters in homes with furniture clutter and stairs. The listing describes strong multi-surface suction and a pod that you pull off to clean stairs, furniture and similar spots with the attached tools.\n\nIts dust cup is listed at 0.9 quart, which is modest, so you will empty it more often than a large-bin model. The listing names pet hair cleanup, supported by a wide upholstery tool for furniture. HEPA appears in the product title, though the page does not give further filtration detail.\n\nIn use, it is a more maneuverable cousin to the Navigator family. The swivel head makes steering easier than the Navigator NV356E, and it offers a handier tool kit than the Oreck. It lacks the powered pod of the NV752, so the brush stops spinning when you detach it. For a home that wants steering and a pod without paying for the powered version, it is a balanced middle option.",
+   "bestFor": "Furniture-heavy homes with stairs that want steering and a pod.",
+   "pros": ["Swivel steering turns easily around furniture", "Lift-Away pod reaches stairs and upholstery", "Wide upholstery tool is described for pet hair", "HEPA filter is named in the product title"],
+   "cons": ["0.9 quart cup needs frequent emptying", "Brush is not powered in pod mode", "Listing gives limited filtration detail"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Powered Pod",
+   "name": "Shark NV752 Rotator Powered Lift-Away TruePet",
+   "specs": ["Powered Lift-Away", "Swivel steering", "LED headlights", "Large dust cup"],
+   "specList": [
+    {"label": "Pod", "value": "2-in-1 powered Lift-Away"},
+    {"label": "Steering", "value": "Advanced swivel"},
+    {"label": "Lighting", "value": "LED headlights"},
+    {"label": "Filtration", "value": "HEPA with Anti-Allergen Complete Seal"}
+   ],
+   "description": "The NV752 is the most advanced upright in this group. Its 2-in-1 powered Lift-Away technology means the pod can be lifted away to deep-clean under furniture while a powered brush keeps working, which is rare among uprights. Swivel steering and LED headlights complete the maneuvering package.\n\nThe listing names a large dust cup, an upholstery tool and a HEPA filter with Anti-Allergen Complete Seal. It states that the system traps 99.9 percent of dust and allergens inside the vacuum, which is a manufacturer claim and not a health promise. The TruePet name signals its focus on pet hair.\n\nThere are tradeoffs. It sits at the top of the cap, so the premium needs to be justified by your use. It is more machine than you need for plain floors. Against the Rotator NV501, it adds a powered pod and headlights, and against the Navigator NV352 it adds steering and a larger bin. For a pet household with stairs and tight furniture, it is the most complete answer here.",
+   "bestFor": "Pet households with stairs and low furniture to clean under.",
+   "pros": ["Powered pod keeps the brush spinning off-floor", "LED headlights reveal dust in dim corners", "Large dust cup means fewer trips to empty", "Swivel steering handles tight furniture layouts"],
+   "cons": ["Sits at the top of the budget cap", "More mechanisms than a floor-only upright", "Filtration figure is the maker's own claim"]
+  },
+  {
+   "i": 0,
+   "badge": "Best Dual-Roller Head",
+   "name": "Shark Navigator Lift-Away NV352 HEPA Lavender",
+   "specs": ["DuoClean PowerFins", "Lift-Away pod", "Self-cleaning brushroll", "XL capacity"],
+   "specList": [
+    {"label": "Brush system", "value": "DuoClean PowerFins plus soft roller"},
+    {"label": "Portability", "value": "Lift-Away with foot pedal"},
+    {"label": "Hair handling", "value": "Self-cleaning brushroll"},
+    {"label": "Finish", "value": "Lavender"}
+   ],
+   "description": "The Navigator NV352 builds its identity on the DuoClean PowerFins head, which uses a PowerFins roller and a soft roller together to keep constant contact with the floor. The self-cleaning brushroll is described as continuously removing hair as you clean, which means less time with scissors.\n\nA foot-pedal release detaches the lightweight pod for stairs, furniture and car seats. The listing frames the whole machine for carpet, area rug and hard floor cleaning, with an XL dust cup. HEPA is named in the title, and the lavender finish is cosmetic.\n\nIt is simpler than the NV752 and has no powered pod, no LED headlights and no stated swivel steering. It competes on the head design and the self-cleaning roll. Compared with the NV356E it adds a better brush system, and compared with the ZU561 it focuses on dual rollers rather than sealed filtration. For people who want strong floor performance and pet-hair control without the top-tier extras, it is a dependable choice.",
+   "bestFor": "Mixed-floor homes that want hair control without top-tier extras.",
+   "pros": ["Dual rollers keep steady floor contact", "Self-cleaning roll removes hair as you clean", "Foot pedal detaches the pod quickly", "XL dust cup suits long cleaning sessions"],
+   "cons": ["No powered pod or LED headlights", "Swivel steering is not listed on the page", "Filtration detail is limited to a title mention"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Core Lift-Away",
+   "name": "Shark Navigator Lift-Away NV356E HEPA White",
+   "specs": ["Lift-Away pod", "HEPA filter listed", "Pet hair cleanup", "Dusting and crevice tools"],
+   "specList": [
+    {"label": "Portability", "value": "Detach pod for above-floor cleaning"},
+    {"label": "Filtration", "value": "HEPA in title"},
+    {"label": "Tools", "value": "Dusting brush and crevice tool"},
+    {"label": "Finish", "value": "White and silver"}
+   ],
+   "description": "The NV356E is the plain Navigator Lift-Away. It offers multi-surface suction for carpet and hardwood, a detachable pod for stairs and furniture, and a dusting brush and crevice tool for the above-floor work. The listing speaks to pet hair on carpets, upholstery and stairs.\n\nIt is more modest than the other Sharks here. There is no dual-roller head, no self-cleaning brushroll mentioned and no powered pod. What you get is the Lift-Away format at its simplest, with HEPA named in the title and a white and silver finish.\n\nThat makes it the easiest to understand and maintain. Against the NV501 it gives up swivel steering and a wide upholstery tool, and against the NV352 it gives up the better head. It is also the one to choose if you want the pod format without paying for extras you will not use. At the top of this series it is a cautious buy, so confirm that the price gap over the cheaper siblings is worth the pod to you.",
+   "bestFor": "Buyers who want the Lift-Away format and nothing more.",
+   "pros": ["Detachable pod for stairs and furniture", "Dusting brush and crevice tool included", "Pet hair cleanup is named on the listing", "Simplest Shark format with fewer parts"],
+   "cons": ["No self-cleaning brushroll on the listing", "No swivel steering or headlights stated", "Fewer upgrades than the pricier Shark models"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Sealed Filtration",
+   "name": "Shark ZU561 Navigator Lift-Away Speed Red Peony",
+   "specs": ["Self-cleaning brushroll", "Lift-Away mode", "HEPA filter", "Complete Seal"],
+   "specList": [
+    {"label": "Brushroll", "value": "Self-cleaning, no hair wrap"},
+    {"label": "Modes", "value": "Upright and Lift-Away"},
+    {"label": "Filtration", "value": "HEPA plus Complete Seal"},
+    {"label": "Finish", "value": "Red Peony"}
+   ],
+   "description": "The ZU561 emphasizes a closed filtration path. Its listing pairs a HEPA filter with Anti-Allergen Complete Seal technology and claims it traps over 99.9 percent of dust and allergens inside the vacuum. Take that as the maker's figure, not an assurance about anyone's health.\n\nThe self-cleaning brushroll is described as removing hair with no wrap, and the machine runs as an upright or in Lift-Away mode for stairs and furniture. It is the Navigator with the strongest filtration story and the most deliberate hair control.\n\nIt does not add swivel steering or headlights, and it lacks a powered pod, so the NV752 outclasses it on features. Against the NV352 it swaps the dual-roller head for sealed filtration, and against the NV356E it adds hair control. If sealed filtration matters to your household and you want a simpler machine than the NV752, this is the right target, and the Red Peony color is purely cosmetic.",
+   "bestFor": "Households that value a sealed filter path and hair control.",
+   "pros": ["HEPA with Complete Seal is clearly described", "Self-cleaning roll limits hair wrap", "Runs as upright or detachable pod", "Listing details a dust capture claim"],
+   "cons": ["No swivel steering or powered pod", "Capture figure is the maker's own claim", "Fewer maneuvering aids than the NV752"]
+  },
+  {
+   "i": 6,
+   "badge": "Best Lightweight Contrast",
+   "name": "Eureka Airspeed Ultra-Lightweight NEU10AE4",
+   "specs": ["7.7 lb body", "10.5 inch path", "Quick release handle", "Crevice and dusting tools"],
+   "specList": [
+    {"label": "Weight", "value": "7.7 pounds"},
+    {"label": "Cleaning path", "value": "10.5 inches"},
+    {"label": "Handle", "value": "Quick release for above-floor use"},
+    {"label": "Tools", "value": "Crevice tool and dusting brush"}
+   ],
+   "description": "The Eureka Airspeed is here as the lightweight alternative to the feature-rich Sharks. At 7.7 pounds it is easy to lift, and its 10.5 inch path suits quick cleaning in compact rooms. A quick release handle lets you attach the crevice tool or dusting brush for upholstery and ledges.\n\nThe listing positions it as senior-friendly and notes it stores in a small space. It is explicitly described for lighter to moderate cleaning, which means it is not a deep-pile or heavy-duty machine. The listing does not specify HEPA filtration, and it has no self-cleaning roll or powered pod.\n\nThe case for it is weight. Compared with the Rotator NV501 and the Navigator models, it is far easier to carry upstairs, but it lacks their pods, hair control and sealed filtration. If you are sensitive to weight and your cleaning is routine, it is a smart pick even at the top of a budget, because it spares you the extra mass. If you expect deep-pile work, choose a Shark.",
+   "bestFor": "Anyone for whom weight matters more than features.",
+   "pros": ["At 7.7 pounds it is the lightest pick here", "Quick release handle for above-floor tasks", "Crevice tool and dusting brush included", "Compact body fits a small closet"],
+   "cons": ["Described for lighter to moderate cleaning", "No HEPA filtration stated on the listing", "No self-cleaning brushroll or powered pod"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Decide if a powered pod matters", "explanation": "A powered pod keeps the brush spinning when you detach it, which helps with pet hair on stairs and upholstery. The Shark NV752 uses 2-in-1 powered Lift-Away, while the NV501, NV352, NV356E and ZU561 use a standard pod. If you often clean fabric with embedded hair, the powered version is worth the premium. If you just need suction on dust, a standard pod is enough."},
+  {"criterion": "Prioritize steering for clutter", "explanation": "Maneuverability decides how much time you spend reversing and turning. The Shark Rotator NV501 and NV752 list swivel steering, while the Navigator models do not state it. In a home with many chair legs, low tables and sofa bases, swivel is a real time saver. In open rooms, you can ignore it."},
+  {"criterion": "Look at bin size honestly", "explanation": "A small cup means more trips to the bin. The NV501 lists a 0.9 quart dust cup, while the NV752 and NV352 list large and XL capacities. For pet homes and big floor plans, favor the larger cups. For small apartments, a small cup is fine."},
+  {"criterion": "Check hair handling claims", "explanation": "Hair wrap is the chore that drives many upright purchases. The ZU561 and NV352 list self-cleaning brushrolls, while the NV356E and Eureka Airspeed do not. If you have long hair or a shedding pet, choose a self-cleaning roll. Otherwise accept the occasional cut."},
+  {"criterion": "Read filtration wording closely", "explanation": "Words like HEPA and sealed can mean different things on different pages. The ZU561 and NV752 describe Complete Seal systems that trap over 99.9 percent of dust and allergens, and the NV501, NV352 and NV356E name HEPA in titles. The Eureka Airspeed does not state it. Treat these as maker claims and confirm the details before buying."},
+  {"criterion": "Balance weight against capability", "explanation": "More capable machines tend to weigh more. The Eureka Airspeed weighs 7.7 pounds, but the listing frames it for lighter to moderate work. If you carry the vacuum up stairs often, weigh that heavily. If you push it on a single level, favor capability."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Pod capability", "description": "We looked at how each pod works and what powers it. The NV752 stands out with a powered pod, the NV501, NV352, NV356E and ZU561 use standard pods, and the Eureka Airspeed has a quick release handle only. Tool kits were part of the score."},
+  {"title": "Steering and visibility", "description": "We checked for swivel steering and lighting. The NV752 combines swivel steering with LED headlights, the NV501 lists swivel, and the other Sharks do not state either. The Eureka Airspeed relies on low weight for handling."},
+  {"title": "Hair and bin handling", "description": "We compared brushroll behavior and bin size. The ZU561 and NV352 list self-cleaning rolls, the NV752 lists a large cup, and the NV501 lists 0.9 quart. This is based on specs and buyer feedback."},
+  {"title": "Filtration language", "description": "We read each listing for filtration detail. The ZU561 and NV752 describe sealed systems with a 99.9 percent claim, the others name HEPA in titles, and the Airspeed states nothing. Claims were treated as manufacturer statements."},
+  {"title": "Value at the cap", "description": "At the largest budget in the series, each pick has to offer more than a basic upright. The NV752 justifies itself with a powered pod and lights, the ZU561 with sealed filtration, and the Airspeed with its low weight. Picks that added little scored lower."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Cleaning Priority",
+   "intro": "Pick the priority that annoys you most today.",
+   "table": {
+    "headers": ["Priority", "Pick", "Why"],
+    "rows": [
+     ["Pet hair on stairs and sofas", "Shark NV752 Rotator Powered Lift-Away TruePet", "Powered pod keeps the brush spinning"],
+     ["Hair wrap on rollers", "Shark Navigator Lift-Away NV352 HEPA Lavender", "Self-cleaning brushroll"],
+     ["Sealed filter path", "Shark ZU561 Navigator Lift-Away Speed Red Peony", "HEPA with Complete Seal"],
+     ["Tight furniture layouts", "Shark Rotator Lift-Away NV501 HEPA Upright", "Swivel steering and a pod"],
+     ["Light weight", "Eureka Airspeed Ultra-Lightweight NEU10AE4", "7.7 pounds"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "In this cap, tiers separate by how many conveniences you add.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Eureka Airspeed Ultra-Lightweight NEU10AE4", "A light body with simple tools"],
+     ["Entry", "Shark Navigator Lift-Away NV356E HEPA White", "A basic pod format"],
+     ["Mid", "Shark Navigator Lift-Away NV352 HEPA Lavender", "Dual-roller head and self-cleaning roll"],
+     ["Mid", "Shark ZU561 Navigator Lift-Away Speed Red Peony", "Self-cleaning roll and sealed filtration"],
+     ["Premium", "Shark Rotator Lift-Away NV501 HEPA Upright", "Pod with swivel steering"],
+     ["Premium", "Shark NV752 Rotator Powered Lift-Away TruePet", "Powered pod, lights and swivel steering"]
+    ]
+   }
+  },
+  {
+   "subheading": "Powered Pod vs Standard Pod",
+   "intro": "The mechanism is whether the brush spins when you detach the pod.",
+   "cards": [
+    {"label": "Powered pod", "text": "The Shark NV752 Rotator Powered Lift-Away TruePet keeps a powered brush working when the pod is lifted away. That helps with embedded hair on sofas and stair carpet. Choose it if upholstery and pet hair are routine jobs."},
+    {"label": "Standard pod", "text": "The Shark Rotator Lift-Away NV501 HEPA Upright, Shark Navigator Lift-Away NV352 HEPA Lavender, Shark Navigator Lift-Away NV356E HEPA White and Shark ZU561 Navigator Lift-Away Speed Red Peony rely on suction and tools in pod mode. That is enough for dust and crumbs. Choose it for lighter above-floor chores."}
+   ],
+   "note": "The powered pod is the one feature that visibly changes upholstery cleaning."
+  },
+  {
+   "subheading": "By Bin Size",
+   "intro": "Bin size decides how often you stop mid-clean.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Large home", "Shark NV752 Rotator Powered Lift-Away TruePet", "Large dust cup"],
+     ["Frequent long sessions", "Shark Navigator Lift-Away NV352 HEPA Lavender", "XL dust cup"],
+     ["Small apartment", "Shark Rotator Lift-Away NV501 HEPA Upright", "0.9 quart cup is adequate for small spaces"],
+     ["Light touch-ups", "Eureka Airspeed Ultra-Lightweight NEU10AE4", "Compact design for quick passes"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sealed Filtration Specifically",
+   "intro": "Filtration wording is the least consistent part of upright listings.",
+   "cards": [
+    {"label": "Look for", "text": "A named sealed system, a stated HEPA filter and a clear description of what is captured. Watch for listings that mention HEPA only in the title."},
+    {"label": "In this comparison", "text": "The Shark ZU561 Navigator Lift-Away Speed Red Peony and Shark NV752 Rotator Powered Lift-Away TruePet describe Complete Seal with a 99.9 percent claim. The Shark Navigator models and Rotator NV501 name HEPA in their titles. The Eureka Airspeed does not state it."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Beyond this cap, buyers move into cordless or robotic territory.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want cordless freedom for stairs", "The Shark Navigator Lift-Away NV356E HEPA White covers stairs with its pod"],
+     ["You want a self-emptying base", "You are happy emptying the Shark NV752 Rotator Powered Lift-Away TruePet cup"],
+     ["You need independently tested filtration", "The Shark ZU561 Navigator Lift-Away Speed Red Peony claims suit your needs"],
+     ["You want a very light cordless stick", "The Eureka Airspeed Ultra-Lightweight NEU10AE4 is light enough"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {"q": "Is the powered Lift-Away worth the extra?", "a": "It is worth it if you clean upholstery and stair carpet with embedded pet hair. The NV752 keeps a powered brush working in pod mode. If you only vacuum dust and crumbs, a standard pod from the NV501 or NV356E is enough."},
+  {"q": "Which model is best for pet hair?", "a": "The NV752 TruePet is aimed squarely at it, with a powered pod and a large cup. The NV352 and ZU561 add self-cleaning brushrolls. The NV501 adds a wide upholstery tool. Choose by whether your problem is floors, upholstery or hair wrap. If the real trouble is hair twisted around the roller, the self-cleaning models solve it at the source, while the powered pod solves hair that is ground into fabric."},
+  {"q": "Do these vacuums have true HEPA filters?", "a": "Listings name HEPA, and the ZU561 and NV752 describe Complete Seal systems with a 99.9 percent claim. Those are manufacturer statements. Read the full product page for specifics, and avoid treating them as health guarantees."},
+  {"q": "Is a small dust cup a problem?", "a": "The NV501 lists 0.9 quart, which means more frequent emptying than large-cup models. In a small apartment it is fine. In a big house with pets, the NV752 or NV352 cups are easier to live with."},
+  {"q": "Why is the Eureka included at this level?", "a": "It offers a counterpoint on weight. At 7.7 pounds it is far lighter than the Sharks, though described for lighter to moderate cleaning. If weight is your main concern, it can beat feature-rich machines on daily use."},
+  {"q": "How often should I clean the filters?", "a": "Follow the manual for each model, since listings vary. A clogged filter is a common cause of weak suction, so a regular check is a good habit. Rinse only if the manual says the filter is washable, and let any washed part dry completely before you put it back. A damp filter can smell and can shorten the life of the part, so keep a spare cycle in mind if the maker sells one."},
+  {"q": "What would a higher budget add?", "a": "Cordless operation, self-emptying bases and motorized tools are the common upgrades. None of these picks have them. If a pod, steering and hair control cover your needs, you already have them here."}
+ ]
+}

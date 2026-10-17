@@ -1,0 +1,207 @@
+{
+ "guideTitle": "6 Best Video Doorbells Under $75 in 2026",
+ "metaTitle": "Best Video Doorbells Under $75 (2026)",
+ "metaDescription": "Six video doorbells at an accessible cap compared on resolution, power choices, subscription needs, field of view and what each listing really includes.",
+ "introParagraphs": [
+  "Video doorbells at this budget deliver the essentials: live view, two-way talk, motion alerts and night vision. The six models here cover battery, wired and hybrid power, 2K and head-to-toe framing, and a range of subscription approaches. We evaluated each on resolution, field of view, power source, storage and subscription terms, and on how plainly the listing states what is and is not included.",
+  "The most important differences are rarely the headline resolution. They are the power choice, whether a chime is in the box, whether recordings need a paid plan and whether the doorbell works with your Wi-Fi band. Several picks here are 2.4 GHz only, and a few require existing doorbell wiring.",
+  "Read the install notes first, then the storage terms. A cheap doorbell with a surprise monthly fee or a missing indoor chime ends up costing more in frustration than the sticker suggests, so the sections below flag those details pick by pick."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "BOIFUN 2K Wireless Video Doorbell",
+   "specs": ["2K resolution", "166 degree view", "HDR night vision", "No subscription needed"],
+   "specList": [
+    {"label": "Resolution", "value": "2K"},
+    {"label": "Field of view", "value": "166 degrees, f/2.5 aperture"},
+    {"label": "Wi-Fi", "value": "2.4 GHz only"},
+    {"label": "Subscription", "value": "Not required for essential features"}
+   ],
+   "description": "The BOIFUN is a battery-powered 2K doorbell with a 166 degree field of view and an f/2.5 aperture meant to keep visitors in focus. HDR night vision and a 1.2T AI chip are described as giving fast, stable response, and human detection filters alerts down to people.\n\nIts most useful trait is the subscription stance. The listing says real-time alerts, two-way audio, human detection and video access need no monthly fee, which keeps the long-term cost predictable. Wi-Fi is 2.4 GHz only, a limit that matters if your router combines bands or your porch has a weak signal.\n\nThe tradeoff is brand maturity. It is a lesser-known name, so app polish and support are less proven than Arlo's or Wyze's. Compared with the Tapo D205 it offers a wider stated field of view, and compared with the Chamberlain myQ it avoids a mandatory ecosystem. For a renter or a first-time buyer who wants clear 2K and no monthly bill, it is the best balance in this group.",
+   "bestFor": "First-time buyers who want 2K video without a monthly fee.",
+   "pros": ["Wide 166 degree view reduces porch blind spots", "Essential alerts and audio need no subscription", "HDR night vision with f/2.5 aperture lens", "Human detection helps filter pointless alerts"],
+   "cons": ["Supports 2.4 GHz Wi-Fi networks only", "Lesser-known brand with less proven support", "Battery needs periodic recharging in use"]
+  },
+  {
+   "i": 1,
+   "badge": "Best Included Chime",
+   "name": "Arlo Video Doorbell 2K 2nd Gen with Chime",
+   "specs": ["2K head-to-toe video", "Chime included", "Wired or wireless", "IP65 weather resistance"],
+   "specList": [
+    {"label": "Resolution", "value": "2K head-to-toe"},
+    {"label": "Included", "value": "Doorbell plus chime"},
+    {"label": "Power", "value": "Wired or wireless"},
+    {"label": "Weather rating", "value": "IP65"}
+   ],
+   "description": "The Arlo Video Doorbell 2K arrives with a matching chime, which means the indoor sounder is in the box and not an extra purchase. The listing says it records in 2K head-to-toe framing and carries an IP65 rating to withstand the elements. You can run it wired or wireless.\n\nThe tradeoff is the plan. The listing says advanced features such as 60-day video history, AI detection and emergency response sit behind Arlo Secure, and that a paid plan is required for them. Package, pet, person and vehicle detection are part of that smart-alert set, so expect the full experience to carry a recurring fee.\n\nIt is a polished product from an established name, and the included chime is a real convenience. Against the BOIFUN you gain a bundled chime and a recognized brand, but you lose the subscription-free promise. Compared with the Wyze Wired v2, it adds wireless flexibility. For someone who wants a clean, branded install and is comfortable with an optional plan, it makes sense.",
+   "bestFor": "Buyers who want a bundled chime and a recognized ecosystem.",
+   "pros": ["Matching chime is included in the bundle", "2K head-to-toe framing shows full visitors", "IP65 rating for outdoor weather exposure", "Works wired or wireless for flexible installs"],
+   "cons": ["Advanced features need a paid Arlo Secure plan", "Recording history depends on that subscription", "Fewer free features than subscription-free picks"]
+  },
+  {
+   "i": 2,
+   "badge": "Best Long Battery Life",
+   "name": "Tapo D205 2K Wireless Video Doorbell",
+   "specs": ["2K video", "160 degree view", "5,200 mAh battery", "AI detection, no fees"],
+   "specList": [
+    {"label": "Resolution", "value": "2K"},
+    {"label": "Field of view", "value": "160 degrees"},
+    {"label": "Battery", "value": "5,200 mAh, up to 180 days per listing"},
+    {"label": "Chime", "value": "Not included"}
+   ],
+   "description": "The Tapo D205 puts the focus on battery life. A 5,200 mAh built-in rechargeable cell is listed for up to 180 days of use, with an asterisk that usage matters, so busy doors will see shorter results. The video is 2K with a 160 degree ultra-wide view, and night vision is included.\n\nSmart features include person detection, two-way talk and a ring call. The listing says AI detection comes with no fees, which keeps recurring cost low. One clear gap is that a chime is not included, so you will hear alerts through the phone app unless you add a chime.\n\nCompared with the Arlo bundle, it skips the chime but avoids the paid plan. Against the BOIFUN it has a narrower stated field of view but a clearly stated battery capacity. It is a good fit for porches with no wiring where you want to charge as rarely as possible, and for buyers who are comfortable relying on phone notifications.",
+   "bestFor": "Wire-free porches where infrequent charging matters.",
+   "pros": ["Large 5,200 mAh battery with a long rated life", "2K video with a 160 degree ultra-wide view", "Person detection with AI and no fees", "Includes two-way talk and a ring call"],
+   "cons": ["Chime is not included in the box", "Quoted battery life depends on how busy the door is", "Phone alerts are the default notification route"]
+  },
+  {
+   "i": 3,
+   "badge": "Best for Existing Wiring",
+   "name": "Wyze Wired Doorbell Camera v2 2K",
+   "specs": ["Existing wiring required", "2K head-to-toe video", "Starlight color night vision", "Voice deterrence"],
+   "specList": [
+    {"label": "Power", "value": "Existing doorbell wiring required"},
+    {"label": "Resolution", "value": "2K head-to-toe"},
+    {"label": "Night vision", "value": "Starlight color"},
+    {"label": "Audio", "value": "Two-way via the Wyze app"}
+   ],
+   "description": "The Wyze Wired Doorbell v2 replaces an existing wired doorbell and uses that power, so there is no battery to recharge. The listing says it captures 2K head-to-toe video, which frames a whole visitor and a package at their feet, and a starlight sensor adds color to night footage.\n\nTwo-way audio runs through the Wyze app, and smart notifications and a voice deterrence option round out the features. The compact body and the accessible cost make it appealing for straightforward monitoring. The key requirement is stated up front: existing doorbell wiring is required, so it is not for homes without a wired bell.\n\nThat requirement is both the strength and the limit. A wired design means steady power and no charging chore, but installation takes more effort than a stick-on battery model. Compared with the Wyze Battery doorbell, it trades portability for continuous power. Against the Arlo, it lacks the bundled chime but costs less to run. If you already have a wired doorbell and want a set-and-forget upgrade, it is a natural choice.",
+   "bestFor": "Homes with existing doorbell wiring that want no charging.",
+   "pros": ["Wired power means no battery to recharge", "Head-to-toe 2K framing shows packages", "Starlight sensor adds color night footage", "Voice deterrence option for unwanted visitors"],
+   "cons": ["Requires existing doorbell wiring to install", "Installation is harder than a battery model", "Audio and alerts depend on the Wyze app"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Hybrid Power",
+   "name": "Wyze Battery Video Doorbell 1:1 Head-to-Toe",
+   "specs": ["1536x1536 HD+ video", "150 by 150 degree view", "Up to 6 months battery", "Wired option"],
+   "specList": [
+    {"label": "Resolution", "value": "1536x1536 HD+"},
+    {"label": "Field of view", "value": "150 by 150 degrees, 1:1 ratio"},
+    {"label": "Power", "value": "Battery or AC hardwired"},
+    {"label": "Charging", "value": "USB-C rechargeable battery"}
+   ],
+   "description": "The Wyze Battery Video Doorbell uses a square 1:1 frame at 1536x1536, which the listing says captures visitors head-to-toe and packages tucked near the door. Its 150 by 150 degree field of view covers both width and height, and color night vision is included.\n\nPower is flexible. The listing says the battery lasts up to six months, or you can hardwire it to AC for continuous power. A built-in USB-C rechargeable battery means you charge it with a common cable. That hybrid approach lets you start wire-free and switch later if you add wiring.\n\nThe resolution is below the 2K picks, so fine detail at a distance will be softer, and a chime is not mentioned. Compared with the Wyze Wired v2, it trades 2K for install flexibility. Against the Tapo D205, it offers a taller frame and a wired fallback. For a porch where you want to watch the doorstep as much as the visitor, the square view is the main reason to choose it.",
+   "bestFor": "Doorsteps where watching packages matters as much as visitors.",
+   "pros": ["Square 1:1 frame shows head to toe and boxes", "Runs on battery or hardwired AC power", "USB-C rechargeable battery is easy to charge", "Color night vision with two-way audio"],
+   "cons": ["Resolution is below the 2K models here", "Chime is not mentioned on the listing", "Battery life varies with how busy the door is"]
+  },
+  {
+   "i": 6,
+   "badge": "Best Smart Ecosystem",
+   "name": "Chamberlain myQ Video Doorbell 2K",
+   "specs": ["2K camera", "150 degree wide angle", "Battery or wired", "Color night vision"],
+   "specList": [
+    {"label": "Resolution", "value": "2K"},
+    {"label": "Field of view", "value": "150 degrees"},
+    {"label": "Power", "value": "Battery or wired"},
+    {"label": "Night vision", "value": "Color"}
+   ],
+   "description": "The Chamberlain myQ Video Doorbell offers a 2K camera, a 150 degree wide-angle lens and color night vision. It can run on battery or be wired, and it provides live view with two-way talk plus motion alerts that notify your phone in real time.\n\nIts main identity is the myQ ecosystem, the app that also controls many Chamberlain garage door openers. For a household already using myQ, a doorbell in the same app is tidy. The listing does not spell out storage or subscription terms in the portion we reviewed, so read the full page before buying if recording cost matters.\n\nCompared with the BOIFUN, the field of view is narrower, and compared with the Arlo it does not mention a bundled chime. It makes the most sense for myQ users who want a single app. If you are not already in that ecosystem, the subscription-free picks or the Wyze models are more transparent about cost, and may be an easier first doorbell."
+,
+   "bestFor": "Households already using the myQ app for a garage door.",
+   "pros": ["2K video with a 150 degree wide-angle lens", "Color night vision for after-dark visitors", "Battery or wired power gives install choice", "Fits neatly into the myQ app ecosystem"],
+   "cons": ["Storage terms are unclear in the listing excerpt", "Narrower stated view than the BOIFUN", "Best value only if you already use myQ"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Read the subscription terms first", "explanation": "Recurring fees can outweigh the hardware cost within a year or two. The BOIFUN and Tapo D205 state that essential or AI features carry no fee, while the Arlo listing says its advanced features need a paid Arlo Secure plan. Decide whether you want cloud history before you buy. If you do not, prefer models that advertise free core features."},
+  {"criterion": "Match the power source to your door", "explanation": "Power choice dictates installation. The Wyze Wired v2 needs existing doorbell wiring, the Tapo D205 uses a 5,200 mAh battery rated up to 180 days, and the Wyze Battery doorbell offers up to 6 months or AC hardwiring. If you have no wiring, a battery model is the practical answer. Renters should favor battery or hybrid models."},
+  {"criterion": "Check your Wi-Fi band", "explanation": "Many budget doorbells only work on 2.4 GHz networks. The BOIFUN listing says it supports 2.4 GHz Wi-Fi only, and several other budget models share that limit. Confirm that your router offers a 2.4 GHz band near the door. A weak porch signal makes any camera feel broken."},
+  {"criterion": "Look at framing, not just resolution", "explanation": "A taller frame helps you see packages. The Wyze Battery doorbell uses a 1:1 frame at 1536x1536, and the Wyze Wired v2 and Arlo list head-to-toe 2K framing. A wide field like the BOIFUN's 166 degrees helps with porch width. Pick the aspect that matches how you want to watch the door."},
+  {"criterion": "Check whether a chime is included", "explanation": "Without an indoor chime, you rely on phone notifications. The Arlo bundle includes a chime, while the Tapo D205 listing says a chime is not included. If someone in the home does not carry a phone, the chime matters. Budget for one if it is not in the box."},
+  {"criterion": "Consider the brand and app", "explanation": "The app is the daily interface. The Chamberlain myQ ties to the myQ app that many garage door owners already use, and the Wyze doorbells live in the Wyze app. Established ecosystems tend to have more mature support. If you already use one, adding a doorbell there can simplify life."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Image and framing", "description": "We compared resolution, field of view and aspect ratio. The BOIFUN lists a 166 degree view, the Tapo D205 160 degrees and the Chamberlain 150 degrees. The Wyze Battery doorbell uses a square 1:1 frame, and the Arlo and Wyze Wired list head-to-toe 2K."},
+  {"title": "Power and install", "description": "We looked at how each unit is powered and what installation requires. The Wyze Wired v2 requires existing wiring, the Tapo D205 and BOIFUN are battery-based, and the Wyze Battery and Chamberlain can run either way. Battery life figures were taken from listings."},
+  {"title": "Subscription and storage", "description": "We weighed what the listing says about fees. The BOIFUN and Tapo D205 promise no fees for core or AI features, and the Arlo requires a paid plan for advanced features. Listings that were silent were scored cautiously."},
+  {"title": "Network and compatibility", "description": "We checked Wi-Fi band notes and app ecosystems. The BOIFUN is 2.4 GHz only, and the Chamberlain integrates with myQ. Silence about network limits cost points."},
+  {"title": "Value at the cap", "description": "At this budget, each pick should offer something distinctive. The Arlo adds a chime, the Tapo adds battery life, the BOIFUN adds field of view and the Wyze models add framing or wiring flexibility. Picks near the cap were held to a higher standard."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Power Source",
+   "intro": "Power choice is the first install decision.",
+   "table": {
+    "headers": ["Situation", "Pick", "Why"],
+    "rows": [
+     ["Existing doorbell wiring", "Wyze Wired Doorbell Camera v2 2K", "Wired power with no charging"],
+     ["No wiring, charge rarely", "Tapo D205 2K Wireless Video Doorbell", "5,200 mAh battery rated up to 180 days"],
+     ["Start wireless, maybe hardwire later", "Wyze Battery Video Doorbell 1:1 Head-to-Toe", "Battery or AC hardwired"],
+     ["Either wired or wireless", "Arlo Video Doorbell 2K 2nd Gen with Chime", "Works wired or wireless"],
+     ["Battery with no monthly plan", "BOIFUN 2K Wireless Video Doorbell", "Essential features have no fee"]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Within this cap, tiers are about what is bundled and how recurring costs work.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry", "Wyze Wired Doorbell Camera v2 2K", "Wired 2K with starlight night vision"],
+     ["Entry", "Wyze Battery Video Doorbell 1:1 Head-to-Toe", "Square frame with battery or wired power"],
+     ["Mid", "BOIFUN 2K Wireless Video Doorbell", "2K and a wide view with no required fee"],
+     ["Mid", "Tapo D205 2K Wireless Video Doorbell", "Long battery rating and AI detection"],
+     ["Premium", "Arlo Video Doorbell 2K 2nd Gen with Chime", "Bundle with chime and a plan option"],
+     ["Premium", "Chamberlain myQ Video Doorbell 2K", "Ecosystem fit with 2K video"]
+    ]
+   }
+  },
+  {
+   "subheading": "Free Features vs Paid Plans",
+   "intro": "The tradeoff is how much of the experience sits behind a subscription.",
+   "cards": [
+    {"label": "Free core features", "text": "The BOIFUN 2K Wireless Video Doorbell lists real-time alerts, two-way audio and human detection with no fee, and the Tapo D205 2K Wireless Video Doorbell lists AI detection with no fees. Choose this side if you want predictable cost."},
+    {"label": "Paid plan for extras", "text": "The Arlo Video Doorbell 2K 2nd Gen with Chime lists 60-day video history, AI detection and emergency response behind Arlo Secure. Choose this side if cloud history and richer alerts matter and you accept a recurring fee."}
+   ],
+   "note": "Check what the free tier actually includes before assuming it covers recording."
+  },
+  {
+   "subheading": "By Framing Preference",
+   "intro": "Frame shape decides what you see on a porch.",
+   "table": {
+    "headers": ["Preference", "Pick", "Why"],
+    "rows": [
+     ["Watch boxes on the step", "Wyze Battery Video Doorbell 1:1 Head-to-Toe", "Square 1:1 frame"],
+     ["Full-body visitors", "Wyze Wired Doorbell Camera v2 2K", "Head-to-toe 2K"],
+     ["Wide porch coverage", "BOIFUN 2K Wireless Video Doorbell", "166 degree view"],
+     ["Balanced wide view", "Chamberlain myQ Video Doorbell 2K", "150 degree wide angle"]
+    ]
+   }
+  },
+  {
+   "subheading": "For Renters Specifically",
+   "intro": "Renters need installs that can be undone and a low long-term cost.",
+   "cards": [
+    {"label": "Look for", "text": "Battery power, no wiring changes, free core features and easy removal. Confirm that your landlord allows a doorbell mount."},
+    {"label": "In this comparison", "text": "The BOIFUN 2K Wireless Video Doorbell and Tapo D205 2K Wireless Video Doorbell suit renters, with batteries and no required fees for core features. The Wyze Battery Video Doorbell 1:1 Head-to-Toe is also a fit."}
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Beyond this cap, buyers gain smarter detection and local storage.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want local storage with no cloud", "The BOIFUN 2K Wireless Video Doorbell meets your needs"],
+     ["You want dual cameras for packages", "The Wyze Battery Video Doorbell 1:1 Head-to-Toe covers the doorstep"],
+     ["You want a stronger ecosystem with locks", "The Arlo Video Doorbell 2K 2nd Gen with Chime already fits"],
+     ["You want a screen indoors", "Phone alerts from the Tapo D205 2K Wireless Video Doorbell are enough"]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {"q": "Do I need a subscription for these doorbells?", "a": "Not always. The BOIFUN lists essential features with no fee, and the Tapo D205 lists AI detection with no fees. The Arlo listing says advanced features need a paid Arlo Secure plan. Read each listing for what the free tier actually includes."},
+  {"q": "Which works without existing wiring?", "a": "The BOIFUN, Tapo D205, Arlo, Wyze Battery and Chamberlain models can run on battery. The Wyze Wired v2 requires existing doorbell wiring. If you have no wiring, choose a battery model."},
+  {"q": "How long does the battery last?", "a": "Listings state up to 180 days for the Tapo D205 and up to six months for the Wyze Battery doorbell. Real results depend on how often the door triggers recordings. A busy street will shorten the interval, and cold weather can also reduce how long a charge lasts, so plan on a recharge routine you can remember rather than counting on the longest figure."},
+  {"q": "Why does my doorbell not connect to Wi-Fi?", "a": "Many budget models only support 2.4 GHz networks. The BOIFUN listing says so directly. Check your router for a 2.4 GHz band and place the doorbell within range of it."},
+  {"q": "Is 2K better than HD?", "a": "It shows more detail, but framing and night vision matter too. The Wyze Battery doorbell is 1536x1536 yet captures a tall square view. Pick the model whose frame fits your doorstep. Standing at the door and measuring how far your packages usually land from the threshold is a simple way to decide whether a tall frame or a wide frame will serve you better."},
+  {"q": "Do I need a chime?", "a": "If you want an indoor sound, yes. The Arlo bundle includes one, and the Tapo D205 listing says a chime is not included. Otherwise you rely on phone alerts. A silent phone, a household member without a smartphone or a loud room can all mean a missed visitor, so treat the chime as part of the real cost of any model that leaves it out."},
+  {"q": "What would a bigger budget add?", "a": "Local storage, dual cameras and deeper ecosystems are common upgrades. None of these six picks include dual cameras. If your needs are core video and audio, these cover them."}
+ ]
+}

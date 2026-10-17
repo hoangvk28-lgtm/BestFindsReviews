@@ -1,0 +1,154 @@
+{
+ "guideTitle": "6 Best Chromebooks Under $500 in 2026",
+ "metaTitle": "6 Best Chromebooks Under $500 (2026)",
+ "metaDescription": "Six Chromebooks at or under $500 with 8GB RAM, sharper screens and 2-in-1 options, compared for buyers who want a laptop that will last several years.",
+ "introParagraphs": [
+  "A higher budget changes what a Chromebook can be. At this level you can find 8GB of memory, a taller 16:10 screen, newer Intel chips and convertible bodies, which turn a basic browser machine into something you can keep for years. The question is no longer whether it will work, but which upgrades you will actually feel.",
+  "The six picks below span a thin 14 inch laptop with a sharp WUXGA display, a 15.6 inch model with extra storage, a renewed 2-in-1 with a faster Intel chip, and a rugged 11.6 inch convertible. We evaluated each from the specs and buyer feedback on the listing, and where a page gives conflicting details we say so rather than guess.",
+  "Our approach is to separate the upgrades that matter from the ones that look good on paper. Memory and screen quality shape daily use more than a slightly faster clock speed, and storage matters less than people fear when the cloud does most of the work. Read the picks as options for different lifestyles, not a single ranking. A person who types all day and a person who reads in bed want different machines, and the right answer at this cap is often the one that fixes your biggest annoyance rather than the one with the longest feature list. Where a listing is incomplete or contradictory, treat that as a cost in itself."
+ ],
+ "products": [
+  {
+   "i": 7, "badge": "Best Overall", "name": "Lenovo Chromebook m 14 Inch WUXGA Laptop",
+   "specs": ["14 inch WUXGA IPS display", "MediaTek Kompanio 540", "8GB RAM", "16:10 aspect ratio", "Just under 3 lb"],
+   "specList": [{"label": "Display", "value": "14 inch, 1920 x 1200 IPS"}, {"label": "Processor", "value": "MediaTek Kompanio 540"}, {"label": "Memory", "value": "8GB"}, {"label": "Weight", "value": "Just under 3 lb"}],
+   "description": "Lenovo's Chromebook m 14 is the most polished machine in this group. It pairs a MediaTek Kompanio 540 processor with 8GB of RAM and a 14 inch WUXGA IPS display at 1920 x 1200, in a 16:10 shape that shows more of a page than a standard widescreen. The body weighs just under 3 lb and has reinforced construction for carrying around.\n\nThe extra vertical room helps with documents, email and web pages, and the 8GB of memory gives breathing room for a dozen tabs. Audio is tuned for clear calls, and Google Gemini features are built into the Chromebook experience. The processor is a MediaTek design with different performance traits from Intel, so heavy Linux or Android workloads may behave differently.\n\nCompared with the Lenovo Flagship at 4GB, it doubles the memory and taller screen. Against the HP N200 at 15.6 inches, it is far easier to carry. It is the pick for someone who wants a laptop they will enjoy using every day.",
+   "bestFor": "Daily users who want a sharp 16:10 screen and 8GB of memory.",
+   "pros": ["8GB RAM gives comfortable tab headroom", "Sharp 1920 x 1200 IPS 16:10 display", "Weighs just under 3 lb for carrying", "Gemini features are built in to ChromeOS"],
+   "cons": ["MediaTek chip behaves unlike Intel", "Storage figure is not on the main listing", "No touch or convertible hinge mentioned"]
+  },
+  {
+   "i": 9, "badge": "Best Storage and Memory", "name": "HP Chromebook 15 Inch Intel N200 with 8GB RAM",
+   "specs": ["Intel N200 4-core", "8GB DDR5 RAM", "192GB total storage", "15.6 inch display", "Numeric keyboard"],
+   "specList": [{"label": "Processor", "value": "Intel N200, 4 cores"}, {"label": "Memory", "value": "8GB DDR5"}, {"label": "Storage", "value": "64GB eMMC plus 128GB SD card"}, {"label": "Webcam", "value": "HD with privacy shutter"}],
+   "description": "This HP lists the most generous spec sheet in the group for raw hardware. An Intel N200 four-core processor works with 8GB of DDR5 memory, and 192GB of total storage comes from a 64GB eMMC plus a 128GB SD card. A full numeric keyboard sits beside the 15.6 inch display, and the HD webcam has a privacy shutter.\n\nThe extra storage is the headline for people who like to keep photos, PDFs and offline media on the device. The DDR5 memory and four cores give it a clear step up over the Celeron-based picks. Note that the SD card is a removable add-on, so it is not as fast or permanent as built-in storage, and the listing comes from a reseller configuration rather than a stock model.\n\nNext to the Acer at 15.6 inches, it offers more memory and storage. Against the Lenovo m 14, it is bigger and heavier but offers more raw capacity. It suits a home-base laptop that doubles as a media library.",
+   "bestFor": "Home users who want large storage and a numeric keypad.",
+   "pros": ["8GB DDR5 memory with four cores", "192GB combined storage for local files", "HD webcam with a privacy shutter", "Full numeric keyboard for number work"],
+   "cons": ["Part of the storage is a removable SD card", "Reseller configuration, not stock", "15.6 inch size is bulky to carry"]
+  },
+  {
+   "i": 8, "badge": "Best Value 2-in-1", "name": "HP 14 Inch FHD 2-in-1 Chromebook Renewed",
+   "specs": ["14 inch FHD IPS touchscreen", "360 degree flip hinge", "Intel N100 4-core", "4GB DDR5 RAM", "USB-C and USB-A ports"],
+   "specList": [{"label": "Display", "value": "14 inch FHD IPS touch"}, {"label": "Processor", "value": "Intel N100, up to 3.40GHz"}, {"label": "Memory", "value": "4GB DDR5"}, {"label": "Condition", "value": "Renewed"}],
+   "description": "HP's 14 inch 2-in-1 pairs a full HD IPS touchscreen that flips 360 degrees with an Intel N100 four-core processor boosting up to 3.40GHz. It carries 4GB of DDR5 memory, 64GB of storage, a USB-C port, a USB-A port and a headphone and microphone jack.\n\nThe N100 is a newer, more efficient design than the Celeron N4120 family, which should give smoother performance in daily tasks. The 360 degree hinge allows tent, stand and tablet modes, useful for video, reading and shared screens. This is a renewed unit, so the grading and warranty from the seller matter, and results can vary between individual units.\n\nCompared with the Lenovo m 14, it offers touch and convertibility but half the memory. Against the Lenovo Flagship, it has a more modern processor and a flip body. It makes sense for buyers who want a flexible device and accept the renewed condition for the savings.",
+   "bestFor": "Buyers who want a flip-and-touch 14 inch at a lower outlay.",
+   "pros": ["Flips 360 degrees into tent and tablet modes", "Newer N100 chip with four cores", "Full HD IPS touchscreen display", "Both USB-C and USB-A ports included"],
+   "cons": ["Renewed condition varies by seller grading", "4GB RAM is lower than the other upgrades", "Warranty terms depend on the seller"]
+  },
+  {
+   "i": 0, "badge": "Best Touchscreen Laptop", "name": "Lenovo Flagship 14 Inch FHD Touchscreen Chromebook",
+   "specs": ["14 inch FHD touchscreen", "MediaTek Kompanio 520", "Octa-core design", "4GB RAM", "64GB eMMC"],
+   "specList": [{"label": "Display", "value": "14 inch, 1920 x 1080 touch"}, {"label": "Processor", "value": "Kompanio 520, 8 cores"}, {"label": "Memory", "value": "4GB"}, {"label": "Storage", "value": "64GB eMMC"}],
+   "description": "Lenovo's Flagship model offers a classic laptop shape with a 14 inch full HD touchscreen and a MediaTek Kompanio 520 octa-core processor made of four A73 and four A53 cores at 2.0GHz. It ships with 4GB of RAM and 64GB of eMMC storage.\n\nIt is a lighter-weight option for browsing, streaming and light productivity, with the efficiency of a design aimed at long battery life. The touchscreen helps with Android apps and quick navigation. At this budget, 4GB of RAM stands out as the key limitation, since several rivals offer 8GB.\n\nCompared with the Lenovo m 14, it has a lower resolution and half the memory but includes touch. Against the HP 2-in-1, it is a conventional laptop without a flip. It is a solid fit for someone who wants a straightforward touchscreen Chromebook and does not mind keeping tab counts modest.",
+   "bestFor": "Users who want a plain touchscreen laptop with no fuss.",
+   "pros": ["Full HD touchscreen on a 14 inch body", "Eight-core Kompanio 520 for efficiency", "64GB eMMC for apps and documents", "Slim, light laptop shape for carrying"],
+   "cons": ["4GB RAM trails the 8GB alternatives", "No flip hinge for tablet-style use", "MediaTek chip differs from Intel"]
+  },
+  {
+   "i": 1, "badge": "Best Budget Large Screen", "name": "Acer 15.6 Inch FHD Chromebook 2026 Edition",
+   "specs": ["15.6 inch FHD display", "Dual-core Intel Celeron", "64GB storage", "WiFi 6", "Carrying sleeve included"],
+   "specList": [{"label": "Display", "value": "15.6 inch, 1920 x 1080"}, {"label": "Processor", "value": "Dual-core Intel Celeron"}, {"label": "Storage", "value": "64GB"}, {"label": "Extras", "value": "Numeric keypad, sleeve"}],
+   "description": "Acer's 15.6 inch Chromebook delivers a full HD display, a full-size keyboard with a numeric keypad and WiFi 6, with a protective sleeve in the box. It runs ChromeOS with Gemini AI features and uses a dual-core Intel Celeron processor with 64GB of storage.\n\nThe large screen and keyboard are made for spreadsheets and long reading sessions, and the sleeve is a practical extra. The processor is the least powerful in this group, so it is better for light work than heavy multitasking. The listing does not mention a memory figure in the highlights, so confirm the RAM before buying.\n\nNext to the HP N200, it has a weaker chip and less storage but the same screen size. Against the Lenovo m 14, it is bulkier and less refined. It is the economical large-screen option for a family computer that lives on a table.",
+   "bestFor": "Families who want a large screen for shared home use.",
+   "pros": ["Large 15.6 inch full HD display", "Numeric keypad and full-size keys", "WiFi 6 and a carry sleeve included", "Simple ChromeOS with Gemini features"],
+   "cons": ["Dual-core chip is the slowest here", "Memory figure is not highlighted", "Bulkier than the 14 inch picks"]
+  },
+  {
+   "i": 5, "badge": "Most Compact Convertible", "name": "HP Chromebook x360 11 G3 EE 2-in-1",
+   "specs": ["11.6 inch touchscreen", "Durable 360 degree hinge", "Four usage modes", "Laptop, tent, stand, tablet", "Education-style build"],
+   "specList": [{"label": "Display", "value": "11.6 inch touchscreen"}, {"label": "Hinge", "value": "360 degree, four modes"}, {"label": "Form", "value": "2-in-1 convertible"}, {"label": "Note", "value": "Listing configuration is inconsistent"}],
+   "description": "HP's x360 11 G3 EE is a small education-oriented convertible with a durable hinge that moves between laptop, tent, stand and tablet modes on an 11.6 inch touchscreen. The compact body suits shared use and travel.\n\nThe listing is inconsistent about the internals. The title names a Celeron N4020 with 4GB and 32GB of storage, while the feature text mentions an Intel Core i5-7Y54 with 8GB of RAM and a 128GB SSD. Because the two descriptions do not match, you should confirm the exact configuration with the seller before ordering, and treat the lower specification as the safe assumption.\n\nCompared with the HP 14 inch 2-in-1, it is smaller and likely less powerful, but it is easier to carry. Against the Lenovo m 14, it lacks the sharp display. It suits a secondary device for travel or a child, as long as the configuration is verified.",
+   "bestFor": "Travel and shared use where a small flip screen is welcome.",
+   "pros": ["Four modes from one durable hinge", "Compact 11.6 inch body is easy to stash", "Touchscreen suits reading and drawing", "Education-oriented build is made for handling"],
+   "cons": ["Listing specs contradict each other", "Small screen cramps long documents", "Configuration must be verified before buying"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "RAM beyond 4GB", "explanation": "At this budget, 8GB of RAM is realistic and makes the biggest day-to-day difference, because Chrome tabs and Android apps consume memory quickly. The Lenovo m 14 and HP N200 both list 8GB, while the Flagship, Acer and HP 2-in-1 list 4GB or less. If you keep more than ten tabs open, prioritize memory over almost everything else. Running out of RAM shows up as tabs that reload when you switch back to them, and that annoyance is the clearest sign that a 4GB machine has reached its limit for your habits."},
+  {"criterion": "Screen shape and resolution", "explanation": "A 16:10 panel at 1920 x 1200 shows more vertical content than a 16:9 screen at 1920 x 1080. The Lenovo m 14 uses WUXGA, while the Flagship, Acer and HP 2-in-1 use full HD. For writing, spreadsheets and web pages, the taller shape reduces scrolling. The difference sounds small on paper, but it adds about ten percent more vertical room, which is enough to see several more lines of a document or a longer slice of a web page without touching the trackpad."},
+  {"criterion": "Processor generation", "explanation": "Newer Intel designs like the N100 and N200 are more efficient than the Celeron N4020 or N4120 of earlier years. The HP 2-in-1 lists an N100 boosting to 3.40GHz and the HP 15 inch lists an N200 with four cores. MediaTek options like the Kompanio 540 favor battery life and cool operation. Do not chase gigahertz alone: a four-core chip with 8GB of memory will feel smoother in a browser than a faster dual-core part starved for RAM."},
+  {"criterion": "Storage and expansion", "explanation": "Total storage matters if you keep files offline. The HP N200 combines 64GB of eMMC with a 128GB SD card for 192GB total, while the Acer and Lenovo Flagship stop at 64GB. A card is slower than built-in storage, so use it for media rather than apps."},
+  {"criterion": "Convertible versus clamshell", "explanation": "A 360 degree hinge adds tent, stand and tablet modes, which helps reading and sharing a screen, but adds weight and cost. The HP 2-in-1 and x360 offer flip hinges, while the others are standard laptops. Choose a convertible only if you will use the modes. A hinge that rotates fully is also a point of mechanical wear, so look for a model with a reputation for a firm, durable hinge and avoid bending the screen past its limit."},
+  {"criterion": "Renewed versus new", "explanation": "A renewed laptop can be a bargain, but condition grading, battery health and warranty vary by seller. The HP 14 2-in-1 is listed as renewed. Ask for the return window, battery condition and warranty length before buying, and treat the savings as a trade for some uncertainty. A renewed unit is a sensible choice only when the seller allows an easy return, because a weak battery or worn hinge may only show up after a week of use."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Memory and processor", "description": "We compared RAM and chip class as stated on each listing. The Lenovo m 14 and HP N200 earned top marks for 8GB, the HP 2-in-1 gained for its N100, and the Acer lost points for the slowest processor."},
+  {"title": "Display quality", "description": "We weighed resolution, size and shape. The Lenovo m 14's 1920 x 1200 IPS panel led, the full HD screens of the Flagship, Acer and HP 2-in-1 followed, and the x360's 11.6 inch panel trailed."},
+  {"title": "Storage and ports", "description": "We counted storage and ports. The HP N200's 192GB total was highest, while the HP 2-in-1 earned credit for both USB-C and USB-A."},
+  {"title": "Form factor", "description": "We considered portability and flexibility. The Lenovo m 14 at just under 3 lb scored for carrying, and the flip bodies on the HP models added versatility."},
+  {"title": "Listing reliability", "description": "We penalized unclear or inconsistent listings, such as the x360, and flagged renewed condition on the HP 14 2-in-1 as a risk factor. A trustworthy listing is part of the value, since a buyer who cannot confirm what is inside the box cannot judge whether the price is fair. We did not assume the better of two conflicting specifications for any model."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Daily Workload",
+   "intro": "Match memory and screen to what you actually do.",
+   "table": {"headers": ["Workload", "Pick", "Reason"], "rows": [
+    ["Many tabs and documents", "Lenovo Chromebook m 14", "8GB RAM and a tall WUXGA display"],
+    ["Photos and offline files", "HP Chromebook 15 N200", "192GB total storage and 8GB DDR5"],
+    ["Reading and tablet use", "HP 14 2-in-1", "360 degree hinge and FHD touchscreen"],
+    ["Light browsing on a touchscreen", "Lenovo Flagship 14", "FHD touch with Kompanio 520"]
+   ]},
+   "note": "Memory matters more than clock speed for tab-heavy days."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Within the upper cap, tiers separate by memory and condition.",
+   "table": {"headers": ["Tier", "Pick", "What you get"], "rows": [
+    ["Entry", "HP Chromebook x360 11", "Compact convertible with a configuration to verify"],
+    ["Lower mid", "HP 14 2-in-1 Renewed", "Newer N100 chip in a flip body"],
+    ["Mid", "Acer 15.6 Inch", "Large screen and WiFi 6"],
+    ["Upper end of the cap", "Lenovo Chromebook m 14", "8GB and a refined 16:10 display"]
+   ]},
+   "note": "Tiers describe relative standing within the cap."
+  },
+  {
+   "subheading": "Clamshell vs 2-in-1",
+   "intro": "Convertible bodies change how you hold and share the screen.",
+   "cards": [
+    {"label": "Clamshell", "text": "A standard laptop is lighter and sturdier for typing. The Lenovo m 14, Flagship, Acer and HP 15 inch fit here. Choose one if you mostly type."},
+    {"label": "2-in-1", "text": "A flip hinge adds tablet and tent modes for reading, video and sharing. The HP 14 2-in-1 and HP x360 fit here. Choose one if you want a tablet-style option."}
+   ],
+   "note": "Test the hinge feel if you can before relying on it."
+  },
+  {
+   "subheading": "Screen Size and Portability",
+   "intro": "A second axis is where the laptop will live.",
+   "table": {"headers": ["Habit", "Pick", "Reason"], "rows": [
+    ["Carried daily", "Lenovo Chromebook m 14", "Just under 3 lb with a sharp display"],
+    ["Desk or table", "HP Chromebook 15 N200", "15.6 inch screen and numeric keyboard"],
+    ["Travel or kids", "HP Chromebook x360 11", "Compact 11.6 inch convertible"],
+    ["Shared family computer", "Acer 15.6 Inch", "Large FHD screen and sleeve"]
+   ]},
+   "note": "A bigger screen costs carrying comfort."
+  },
+  {
+   "subheading": "For Video Calls and Remote Work Specifically",
+   "intro": "Calls reward a decent webcam, clear audio and enough memory.",
+   "cards": [
+    {"label": "Look for", "text": "A webcam with a privacy shutter, tuned speakers, 8GB of RAM and stable WiFi, plus a bright screen that shows faces clearly."},
+    {"label": "In this comparison", "text": "The HP N200 has an HD webcam with a privacy shutter and 8GB DDR5, and the Lenovo m 14 offers tuned audio and 8GB. The Acer adds WiFi 6."}
+   ],
+   "note": "Close extra tabs before a call to keep video smooth."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A higher budget buys build quality and longevity.",
+   "table": {"headers": ["Spend more if", "Save if"], "rows": [
+    ["You want a premium metal body beyond the Lenovo m 14", "A plastic body is fine for home use"],
+    ["You need a brighter display or higher refresh rate", "A 1920 x 1200 IPS panel looks good to you"],
+    ["You want a new unit instead of the renewed HP 2-in-1", "You accept a renewed machine with a return window"],
+    ["You run Linux apps or heavy Android workloads", "You browse, stream and write documents"]
+   ]},
+   "note": "Premium Chromebooks mostly add materials, displays and longer support."
+  }
+ ],
+ "faq": [
+  {"q": "Which Chromebook under this cap is the best?", "a": "The Lenovo Chromebook m 14 is the best overall because of its 8GB RAM, 1920 x 1200 IPS display and light weight. The HP N200 is better if storage matters more, and the HP 2-in-1 suits a flip design."},
+  {"q": "Is 8GB of RAM worth it on a Chromebook?", "a": "Yes, if you keep many tabs or run Android apps. Chrome uses memory aggressively, and 8GB prevents tabs reloading. For light use, 4GB is workable, but 8GB makes a laptop feel faster for longer."},
+  {"q": "Are renewed Chromebooks safe to buy?", "a": "They can be, if the seller offers a clear return window and warranty. Check the condition grade, battery health and the ChromeOS update expiration date, since an older model may have limited support left."},
+  {"q": "Does the SD card on the HP N200 count as real storage?", "a": "It adds space, but it is removable and slower than built-in eMMC. Use it for photos and media rather than apps. Keep a backup, as cards can fail or be lost."},
+  {"q": "Should I choose a 2-in-1 or a regular laptop?", "a": "Choose a 2-in-1 if you will read, draw or share the screen often. For mostly typing and browsing, a clamshell like the Lenovo m 14 is lighter and usually sturdier."},
+  {"q": "How long should a Chromebook last?", "a": "Hardware often lasts many years, but software support is the limiter. Each model has an automatic update expiration, so check it before buying. Newer chips like the N100 and N200 typically have longer support windows. A renewed machine built on an older platform may reach its end-of-support date sooner than a new one, which shortens the real life of the savings."},
+  {"q": "What is the most common mistake at this budget?", "a": "Buying on screen size or color without comparing memory and update dates. A 15.6 inch screen with 4GB feels slower than a 14 inch with 8GB. Always compare RAM, storage and support length first. Ask also whether the seller is the maker or a reseller, because bundled configurations such as extra SD cards are assembled by sellers and may not carry the maker's own warranty terms."}
+ ]
+}

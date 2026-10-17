@@ -1,0 +1,216 @@
+{
+ "guideTitle": "6 Best TVs Under $150 in 2026",
+ "metaTitle": "Best TVs Under $150 in 2026",
+ "metaDescription": "Six smart TVs from 32 to 43 inches compared on resolution, Fire TV versus Roku software and room fit, so you can pick the right small screen.",
+ "introParagraphs": [
+  "A television in this budget is almost always a secondary-room set: a bedroom, a kitchen counter, a guest room or a dorm. That changes what matters. Screen size, resolution, and how painless the built-in streaming menu feels count for more than showroom picture claims. This guide ranks six smart TVs by what each one does best for a small or second room.",
+  "We evaluated each set from its listed specifications and how the maker describes it, and we did not run hands-on trials. Where a model sits next to a near-twin, such as the three 32-inch Insignia and Roku options, we point out the one spec that separates them so you are not guessing.",
+  "Two decisions drive most of the choice. The first is size and resolution, since going from 32 to 43 inches with 4K changes the experience more than anything else here. The second is software, because Fire TV and Roku TV feel quite different to live with day after day."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "INSIGNIA 43-Inch F50 Series 4K Fire TV",
+   "specs": ["43-inch 4K UHD", "HDR10 support", "Built-in Fire TV", "Alexa voice remote", "Live TV without cable"],
+   "specList": [
+    {"label": "Screen size", "value": "43 inches"},
+    {"label": "Resolution", "value": "4K Ultra HD (2160p)"},
+    {"label": "HDR", "value": "HDR10"},
+    {"label": "Software", "value": "Fire TV"},
+    {"label": "Remote", "value": "Alexa Voice Remote"}
+   ],
+   "description": "The 43-inch Insignia is the most capable set in this group on paper, and it is the only 4K model here. It offers four times the pixels of Full HD, HDR10 for a wider range of brights and darks, and upscaling for content that is not native 4K. Fire TV is built in, so apps like Prime Video, Netflix, Disney+ and Hulu are on the home screen without a separate streaming stick.\n\nThe Alexa voice remote lets you search across apps, switch inputs and control the TV by voice, which is handy if navigating menus is a chore. The size also matters, because 43 inches is a big step up from the 32-inch sets for a living room or a larger bedroom. The tradeoff is that HDR10 on a budget panel is modest, so do not expect high-end contrast.\n\nSetup is the typical Fire TV routine of signing in, choosing apps and connecting to Wi-Fi. Compared with the INSIGNIA 40-Inch F40, it jumps to 4K and adds three inches of screen. Compared with the Roku 32-Inch Select, it gives you far more pixels but uses Fire TV rather than Roku's simpler layout.",
+   "bestFor": "Buyers who want a bigger 4K screen for a main viewing room.",
+   "pros": ["The only 4K panel among these six sets", "HDR10 widens the range of bright and dark", "Fire TV and Alexa remote are built in", "43 inches suits a larger room or sofa"],
+   "cons": ["Budget HDR10 is modest, not dramatic", "Fire TV menus carry sponsored content", "Heavier and bulkier than the 32-inch sets"]
+  },
+  {
+   "i": 2,
+   "badge": "Best for Simplicity",
+   "name": "Roku 32-Inch Select Series Smart TV",
+   "specs": ["32-inch 1080p Full HD", "Roku TV software", "Voice remote", "Fast Wi-Fi", "Setup in minutes"],
+   "specList": [
+    {"label": "Screen size", "value": "32 inches"},
+    {"label": "Resolution", "value": "1080p Full HD"},
+    {"label": "Software", "value": "Roku TV"},
+    {"label": "Remote", "value": "Voice remote"},
+    {"label": "Best rooms", "value": "Bedrooms and kitchens"}
+   ],
+   "description": "Roku's own Select Series 32-inch is the plainest and most predictable TV in this lineup. It has a 1080p Full HD panel, fast Wi-Fi and an uncluttered home screen of tiles that launch apps quickly. The maker says setup takes minutes, and the remote is intentionally pared down to the controls you actually use.\n\nBecause Roku builds both the TV and the software, the experience is cohesive and stable. A feature called Smart Picture automatically cleans up lower-quality incoming signals, which helps with older cable or streaming sources. The compact size suits a bedroom or kitchen, but it also means this is not a set for a big living room.\n\nIt is a good fit when ease matters more than extras. Compared with the Hisense 32-Inch Hi-QLED, it skips the quantum dot color treatment but keeps the Full HD resolution that the Hisense lacks. Compared with the INSIGNIA 32-Inch F40, it switches the software from Fire TV to Roku for a cleaner interface.",
+   "bestFor": "Anyone who wants an uncluttered home screen and a Full HD picture.",
+   "pros": ["Uncluttered Roku home screen is easy to learn", "1080p Full HD panel on a 32-inch frame", "Smart Picture cleans up lower-quality signals", "Setup takes only a few minutes"],
+   "cons": ["Smaller than the 40 and 43-inch options", "No 4K or HDR10 offered in this model", "Roku remote lacks Alexa-style smart controls"]
+  },
+  {
+   "i": 3,
+   "badge": "Best Color",
+   "name": "Hisense 32-Inch QD4SR Hi-QLED Smart Roku TV",
+   "specs": ["32-inch HD panel", "Hi-QLED color", "Roku OS built in", "Dolby Audio", "2026 model"],
+   "specList": [
+    {"label": "Screen size", "value": "32 inches"},
+    {"label": "Panel", "value": "HD with Hi-QLED color"},
+    {"label": "Software", "value": "Roku OS"},
+    {"label": "Audio", "value": "Dolby Audio"},
+    {"label": "Model year", "value": "2026"}
+   ],
+   "description": "Hisense adds Hi-QLED color technology to a compact 32-inch HD set, aiming for truer skin tones and richer shades than a standard LED panel. It runs Roku OS, so the grid-based interface and unified icons make navigation straightforward, and it carries Dolby Audio for a fuller sound than flat TV speakers usually offer.\n\nColor is the headline here, and for anyone watching nature shows, sports or family photos in a bedroom, richer color is a visible upgrade. The caveat is resolution, since this is an HD panel rather than 1080p, which makes text look softer than on the Full HD sets. For a small bedroom screen that difference is easier to forgive.\n\nIt works best as a bedroom or kitchen companion. Compared with the Roku 32-Inch Select, it trades sharpness for color and sound. Compared with the INSIGNIA 32-Inch F20 Fire TV at 720p, it matches the HD resolution but adds quantum-dot color and Roku's interface.",
+   "bestFor": "Small-room viewers who value color and sound over pixel count.",
+   "pros": ["Hi-QLED technology lifts color and skin tones", "Roku OS keeps navigation grid-based and clear", "Dolby Audio improves on flat TV speakers", "Compact 32-inch size fits a bedroom"],
+   "cons": ["HD panel is softer than 1080p sets", "No 4K or HDR10 at this compact size", "Small screen limits shared viewing"]
+  },
+  {
+   "i": 5,
+   "badge": "Best Mid-Size Full HD",
+   "name": "INSIGNIA 40-Inch F40 Series Full HD Fire TV",
+   "specs": ["40-inch 1080p", "Built-in Fire TV", "Alexa voice remote", "Free and live TV", "LED panel"],
+   "specList": [
+    {"label": "Screen size", "value": "40 inches"},
+    {"label": "Resolution", "value": "1080p Full HD"},
+    {"label": "Software", "value": "Fire TV"},
+    {"label": "Remote", "value": "Alexa Voice Remote"},
+    {"label": "Content", "value": "Thousands of channels and apps"}
+   ],
+   "description": "This 40-inch Insignia hits a practical middle point. It gives you a full 1080p picture on a larger panel than the 32-inch sets, and it includes Fire TV with an Alexa voice remote. The maker highlights access to over a million streaming movies and episodes and free live channels without cable.\n\nThe extra eight inches over the compact sets make a real difference from a couch several feet away, and 1080p at 40 inches still looks clean. It does not offer 4K or HDR10, so it is a no-frills picture, though a dependable one. The Alexa remote helps with searches and switching inputs, which saves menu hunting.\n\nIt is a good choice if you want a bigger screen without paying for 4K. Compared with the INSIGNIA 43-Inch F50, it gives up 4K and HDR10 but keeps Full HD. Compared with the Roku 32-Inch Select, it is bigger and uses Fire TV, which carries more advertising on its home screen.",
+   "bestFor": "Buyers who want a bigger Full HD screen without moving up to 4K.",
+   "pros": ["40-inch panel is larger than the 32-inch sets", "True 1080p Full HD resolution on a larger panel", "Fire TV removes the need for a streaming box", "Alexa remote helps with voice search"],
+   "cons": ["No 4K or HDR10 at this mid screen size", "Fire TV home screen carries promoted content", "Bulkier than the compact 32-inch sets"]
+  },
+  {
+   "i": 4,
+   "badge": "Best Backlight",
+   "name": "INSIGNIA 32-Inch F40 Series Direct LED Fire TV",
+   "specs": ["32-inch 1080p Full HD", "Direct LED backlight", "Built-in Fire TV", "Alexa voice remote", "400+ free channels"],
+   "specList": [
+    {"label": "Screen size", "value": "32 inches"},
+    {"label": "Resolution", "value": "1080p Full HD"},
+    {"label": "Backlight", "value": "Direct LED"},
+    {"label": "Software", "value": "Fire TV"},
+    {"label": "Free channels", "value": "400+"}
+   ],
+   "description": "The 32-inch F40 pairs a 1080p Full HD panel with a direct LED backlight, which the maker says gives better brightness uniformity than edge-lit sets. It includes Fire TV, an Alexa voice remote and access to more than 400 free streaming channels.\n\nBacklight type is a small detail with a visible payoff. Direct LED lighting behind the whole panel can reduce the uneven bright patches that some edge-lit budget TVs show on dark scenes. The result is a steadier picture at a compact size. Like the other 32-inch sets, it is best viewed from a few feet away.\n\nIt is a sensible bedroom or kitchen TV for people who like Fire TV. Compared with the INSIGNIA 32-Inch F20 at 720p, it jumps to Full HD and gets the better backlight. Compared with the Roku 32-Inch Select, it matches the resolution but uses Fire TV and a direct LED panel instead of Roku's interface.",
+   "bestFor": "Bedroom viewers who want Full HD and a more even backlight.",
+   "pros": ["Direct LED backlight improves brightness evenness", "1080p resolution at 32 inches looks sharp", "More than 400 free channels are included", "Fire TV and Alexa remote are built in"],
+   "cons": ["Small screen suits only close viewing", "No 4K or HDR10 support in this model", "Fire TV menus include promoted rows"]
+  },
+  {
+   "i": 1,
+   "badge": "Most Basic",
+   "name": "INSIGNIA 32-Inch F20 Series HD Fire TV",
+   "specs": ["32-inch 720p HD", "Built-in Fire TV", "Alexa voice remote", "Free and live TV", "Thousands of apps"],
+   "specList": [
+    {"label": "Screen size", "value": "32 inches"},
+    {"label": "Resolution", "value": "720p HD"},
+    {"label": "Software", "value": "Fire TV"},
+    {"label": "Remote", "value": "Alexa Voice Remote"},
+    {"label": "Best rooms", "value": "Bedroom, dorm or secondary room"}
+   ],
+   "description": "The F20 is the lowest-resolution TV here, at 720p on a 32-inch panel. It still includes Fire TV and an Alexa Voice Remote that controls the set by voice, searching across apps and switching inputs. The maker highlights access to over a million streaming movies and episodes plus thousands of channels and apps.\n\nAt 32 inches viewed from a bed or a desk, 720p is perfectly watchable, and the simplicity keeps cost-to-use low. It is the set to choose if the TV is a background companion, a kitchen screen or a dorm TV rather than the star of a room. The limit is detail: text and fine graphics look softer than on any other model here.\n\nOwnership is simple. You plug it in, sign in to Fire TV and go. Compared with the INSIGNIA 32-Inch F40, it drops to 720p and loses the direct LED backlight. Compared with the Hisense 32-Inch Hi-QLED, it matches the resolution but offers no color enhancement or Dolby Audio.",
+   "bestFor": "Secondary rooms where the TV is background viewing.",
+   "pros": ["Alexa voice remote is included in the box", "Fire TV and thousands of apps are built in", "Suits a bedroom, dorm or spare room", "Compact and easy to place on a dresser"],
+   "cons": ["720p is the softest picture in this group", "No direct LED backlight or HDR", "Small screen limits shared viewing"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Screen size for the room", "explanation": "Size should match how far you sit from the screen. The three 32-inch Insignia and Roku sets suit a bed or counter, the 40-inch INSIGNIA F40 suits a few feet more distance, and the 43-inch INSIGNIA F50 suits a small living room. As a rule, sit about one and a half to two times the diagonal away. If the room allows it, one size up is rarely a mistake."},
+  {"criterion": "Resolution and what it shows", "explanation": "Resolution affects text and fine detail more than movie color. The INSIGNIA 43-Inch F50 is the only 4K set, the Roku 32-Inch Select, INSIGNIA 32-Inch F40 and INSIGNIA 40-Inch F40 are 1080p, and the Hisense 32-Inch QD4SR and INSIGNIA 32-Inch F20 are lower HD. On a 32-inch screen the jump from HD to 1080p is easy to see in text. If you stream news and menus, favor 1080p."},
+  {"criterion": "Fire TV versus Roku software", "explanation": "The interface is what you look at before any show starts. Roku on the Select and Hisense sets uses a simple grid of tiles, while Fire TV on the INSIGNIA models adds Alexa voice search and more promoted content. Roku suits people who want fewer distractions. Fire TV suits people who already use Alexa and Amazon services."},
+  {"criterion": "Backlight and picture quality", "explanation": "Budget LED panels vary in how evenly they light the screen. The INSIGNIA 32-Inch F40 uses direct LED for better uniformity, and the Hisense adds Hi-QLED color technology. The other sets rely on standard panels. If you watch dark movies at night, backlight type is worth a look."},
+  {"criterion": "Remote and voice control", "explanation": "A good remote cuts frustration for the whole household. The INSIGNIA sets ship with Alexa voice remotes, and the Roku sets offer a voice remote with a simpler layout. Voice search helps when typing titles is awkward. Choose the remote that you would find easiest to use with one hand."},
+  {"criterion": "Placement and mounting", "explanation": "Small TVs usually sit on a dresser or mount to a wall. The 32-inch models are light enough for easy placement, while the 40 and 43-inch sets are bulkier. Check the stand width against your furniture before you buy. If you plan to mount, confirm the VESA pattern on the product page."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Picture resolution", "description": "We compared stated resolution and panel notes. The INSIGNIA 43-Inch F50 leads with 4K and HDR10, the 1080p sets follow, and the HD models score lowest. Hisense earned some credit back for its Hi-QLED color treatment."},
+  {"title": "Software ease", "description": "We weighed how simple the home screen is to use. The Roku 32-Inch Select leads with its uncluttered grid, and the Hisense shares that software. Fire TV earned credit for Alexa voice search but lost a little for promoted content."},
+  {"title": "Room fit", "description": "We matched each size to the type of room. The 32-inch models fit bedrooms and kitchens, the INSIGNIA 40-Inch F40 fits a bigger bedroom and the 43-inch fits a small living room. Each set had to serve a clear room type."},
+  {"title": "Backlight and color", "description": "We looked at backlight design and color treatment. The INSIGNIA 32-Inch F40 stands out for its direct LED lighting, and the Hisense stands out for Hi-QLED color. Plain panels received no bonus."},
+  {"title": "Overall value of features", "description": "We counted voice remotes, free channels and audio features. The INSIGNIA sets lead for voice and free channels, and the Hisense adds Dolby Audio. The set with the fewest extras sits at the bottom."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room",
+   "intro": "Match the TV to the space, not the other way around.",
+   "table": {
+    "headers": ["Room", "Pick", "Why"],
+    "rows": [
+     ["Small living room", "INSIGNIA 43-Inch F50 Series 4K Fire TV", "Largest screen and the only 4K panel"],
+     ["Large bedroom", "INSIGNIA 40-Inch F40 Series Full HD Fire TV", "40 inches with 1080p"],
+     ["Kitchen counter", "Roku 32-Inch Select Series Smart TV", "Compact and simple to operate"],
+     ["Dorm or guest room", "INSIGNIA 32-Inch F20 Series HD Fire TV", "Basic Fire TV in a small body"],
+     ["Bedroom with dim lighting", "INSIGNIA 32-Inch F40 Series Direct LED Fire TV", "Direct LED backlight for steadier darks"]
+    ]
+   },
+   "note": "If a room is shared, favor the larger size, since small screens are hard to share."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Within this cap, tiers describe what you gain as you move up the list.",
+   "table": {
+    "headers": ["Tier", "Pick", "What you get"],
+    "rows": [
+     ["Entry tier within the cap", "INSIGNIA 32-Inch F20 Series HD Fire TV", "A basic 720p screen with Fire TV"],
+     ["Lower-mid tier", "INSIGNIA 32-Inch F40 Series Direct LED Fire TV", "1080p and a better backlight"],
+     ["Mid tier", "Roku 32-Inch Select Series Smart TV", "Full HD and Roku's simple interface"],
+     ["Upper-mid tier", "Hisense 32-Inch QD4SR Hi-QLED Smart Roku TV", "Quantum dot color and Dolby Audio"],
+     ["Top of the cap", "INSIGNIA 43-Inch F50 Series 4K Fire TV", "A bigger screen with 4K and HDR10"]
+    ]
+   },
+   "note": "Moving up usually buys screen size or resolution, which are the upgrades you notice most."
+  },
+  {
+   "subheading": "Fire TV vs Roku TV",
+   "intro": "The software shapes how the TV feels each evening.",
+   "cards": [
+    {"label": "Fire TV", "text": "Fire TV is on the INSIGNIA 43-Inch F50, 40-Inch F40, 32-Inch F40 and 32-Inch F20. It offers Alexa voice search and ties into Amazon services. The home screen carries more suggestions and ads."},
+    {"label": "Roku TV", "text": "Roku powers the Roku 32-Inch Select and Hisense 32-Inch QD4SR. Its grid of tiles is quick to learn, with fewer promoted rows. It suits people who want to turn on the TV and go."}
+   ],
+   "note": "Choose Roku for calm, Fire TV for voice control."
+  },
+  {
+   "subheading": "Resolution Decision",
+   "intro": "Resolution changes what you notice at a given distance.",
+   "table": {
+    "headers": ["Need", "Pick", "Reason"],
+    "rows": [
+     ["Sharpest picture possible", "INSIGNIA 43-Inch F50 Series 4K Fire TV", "4K with HDR10"],
+     ["Clean text on a small screen", "Roku 32-Inch Select Series Smart TV", "1080p at 32 inches"],
+     ["Full HD on a bigger frame", "INSIGNIA 40-Inch F40 Series Full HD Fire TV", "1080p at 40 inches"],
+     ["Color over sharpness", "Hisense 32-Inch QD4SR Hi-QLED Smart Roku TV", "Hi-QLED color on an HD panel"]
+    ]
+   },
+   "note": "At 32 inches, 1080p matters more than HDR, so prioritize it if you read on screen."
+  },
+  {
+   "subheading": "For a Bedroom TV Specifically",
+   "intro": "Bedroom viewing is closer, dimmer and quieter than living room viewing.",
+   "cards": [
+    {"label": "Look for", "text": "Look for 32 to 40 inches, even backlighting for dark scenes and a remote that is easy to find in low light. A sleep timer and simple menus help too."},
+    {"label": "In this comparison", "text": "The INSIGNIA 32-Inch F40 Series Direct LED Fire TV and Roku 32-Inch Select Series Smart TV are the strongest bedroom matches. The INSIGNIA 40-Inch F40 Series Full HD Fire TV suits a larger bedroom."}
+   ],
+   "note": "Sit at a comfortable distance and avoid mounting the TV too high."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "A budget TV is fine for a second room, but some needs require more.",
+   "table": {
+    "headers": ["Spend more if", "Save if"],
+    "rows": [
+     ["You want deeper contrast than the INSIGNIA 43-Inch F50 Series 4K Fire TV can deliver", "HDR10 and 4K from the INSIGNIA 43-Inch F50 Series 4K Fire TV already exceed your needs"],
+     ["You need a screen larger than 43 inches for a main room", "A 40-inch Full HD set like the INSIGNIA 40-Inch F40 Series Full HD Fire TV fits your space"],
+     ["You want better sound than the Hisense 32-Inch QD4SR Hi-QLED Smart Roku TV offers", "Dolby Audio on the Hisense 32-Inch QD4SR Hi-QLED Smart Roku TV is enough for a bedroom"],
+     ["You want minimal ads and a simple interface beyond the INSIGNIA 32-Inch F20 Series HD Fire TV", "Roku 32-Inch Select Series Smart TV satisfies your need for a quiet home screen"]
+    ]
+   },
+   "note": "For a primary living room TV, consider spending more for size and contrast."
+  }
+ ],
+ "faq": [
+  {"q": "Is a 32-inch TV big enough?", "a": "For a bedroom, kitchen or dorm, yes. Sit about five feet away for a comfortable view. For a living room with several viewers, the INSIGNIA 43-Inch F50 or 40-Inch F40 is a better fit."},
+  {"q": "Do I need a 4K TV at this budget?", "a": "Not necessarily. The INSIGNIA 43-Inch F50 is the only 4K option here, and its benefit is mostly on larger screens. For 32-inch sets, 1080p is more noticeable than 4K."},
+  {"q": "Which is easier to use, Fire TV or Roku?", "a": "Roku generally feels simpler, with a grid of apps and fewer promoted rows. Fire TV adds Alexa voice search, which helps if you like talking to the remote. Either is easy once learned."},
+  {"q": "Why is the Hisense only HD?", "a": "The 32-inch Hisense focuses on color with Hi-QLED technology rather than pixel count. For a small bedroom screen the difference from Full HD is less obvious. If text sharpness matters, choose the Roku 32-Inch Select instead."},
+  {"q": "Can I use these TVs without Wi-Fi?", "a": "You can watch over an antenna or connected devices, but smart features need Wi-Fi. Streaming apps, voice control and free channels all rely on a network connection. Plan for a router within range."},
+  {"q": "How long do budget TVs last?", "a": "Many last several years with normal use. Avoid blocking vents and keep the TV away from heat and moisture. Software updates may slow on older models, so a simple setup helps."},
+  {"q": "Do I need a soundbar?", "a": "Small TVs have small speakers, so a soundbar is a common upgrade. The Hisense includes Dolby Audio, which helps. For dialogue-heavy viewing, an affordable bar makes a noticeable difference."}
+ ]
+}
