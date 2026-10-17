@@ -1,0 +1,157 @@
+{
+ "guideTitle": "6 Best Bluetooth Hearing Amplifiers in 2026",
+ "metaTitle": "Best Bluetooth Hearing Amplifiers (2026)",
+ "metaDescription": "Six Bluetooth hearing amplifiers compared on listed gain, battery, controls and form, with a clear note on how they differ from hearing aids.",
+ "introParagraphs": [
+  "A Bluetooth hearing amplifier is a consumer sound device that raises the volume of what is around you and can also stream calls or music from a phone. It is not a hearing aid, even when a listing uses that phrase, and the difference is more than a label: hearing aids are regulated medical devices set for an individual's hearing, while amplifiers are general-purpose gadgets that boost sound broadly. That is the first thing to hold in mind while shopping.",
+  "This lineup covers six models: the Jusha CZ-T01 neckband, the ADCDAC neckband, the JMTO pocket unit with a display, the mocodi bone conduction design, a TTQ earbud pair and the HearCare earbuds. We compared listed gain figures, battery hours, control style, wearing format and how clearly each page describes its limits. Several listings use hearing aid wording, so each is read for what it actually specifies.",
+  "Loud sound close to the ear can be harmful, so start low and raise slowly. Anyone who notices hearing changes should see an audiologist or other qualified clinician, because an amplifier cannot diagnose or treat anything."
+ ],
+ "products": [
+  {
+   "i": 0, "badge": "Best Overall", "name": "Jusha CZ-T01 Neckband Hearing Amplifier with Bluetooth",
+   "specs": ["50 dB full-range gain listed", "34 channels", "30 hours per charge", "200 mAh lithium battery", "Free companion app"],
+   "specList": [{"label": "Gain", "value": "50 dB listed"}, {"label": "Channels", "value": "34"}, {"label": "Battery", "value": "200 mAh, 30 hours"}, {"label": "Charge time", "value": "1 to 2 hours"}],
+   "description": "Jusha builds the CZ-T01 as a neckband with in-ear tips, a free companion app and Bluetooth for calls. The listing states 50 dB of full-range gain across 34 channels, and a 200 mAh lithium battery that runs up to 30 hours and recharges in about one to two hours. It switches between amplifying surrounding sound and acting as a Bluetooth earphone.\n\nThe published numbers are what put it first. Most rivals give a vague claim about clarity, while this page states gain, channels, battery size and charge time, so you can compare it against another amplifier directly. The neckband format keeps the unit resting on the shoulders rather than behind the ear.\n\nIts page also reaches into territory it should not, with language about hearing loss severity that goes beyond what an amplifier can claim, so read the listing with that in mind. Setup through the app is an extra step some will skip. Against the ADCDAC, which lists no gain figure, it is the better documented neckband.",
+   "bestFor": "Buyers who want published gain and battery numbers in a neckband.",
+   "pros": ["States 50 dB gain and 34 channels", "30 hours per charge on a 200 mAh battery", "Charges in about one to two hours", "Free app and Bluetooth for calls"],
+   "cons": ["Listing language overreaches on hearing loss", "App setup adds a step some will skip"]
+  },
+  {
+   "i": 1, "badge": "Best Quick Charge", "name": "ADCDAC Neckband Hearing Amplifier with Bluetooth",
+   "specs": ["Bluetooth neckband", "5 volume levels", "2 noise reduction modes", "1.5 hour Type-C charge", "Carrying case included"],
+   "specList": [{"label": "Volume levels", "value": "5"}, {"label": "Noise modes", "value": "2"}, {"label": "Charge", "value": "1.5 hours via Type-C"}, {"label": "Extras", "value": "Carrying case"}],
+   "description": "ADCDAC packs a neckband with in-ear tips, Bluetooth pairing for phone calls, five volume levels and two noise reduction modes. A Type-C cable charges it in about 1.5 hours, and the page says it runs over 24 hours. A carrying case comes in the box.\n\nThe controls are simple enough for non-technical users, with a handful of fixed volume steps rather than a slider or an app. That makes it easier to set the same level each day. The neckband keeps both earpieces connected and holds them in reach.\n\nThe weak spot is the listing text, which calls the product a hearing aid and does not give an amplification figure. That can mislead a buyer, so treat it as an amplifier and look for the missing gain number before purchase. Compared with the Jusha at a stated 50 dB, it gives less to compare on, though its charge time is a little quicker than the Jusha's one to two hours.",
+   "bestFor": "People who want simple steps, quick Type-C charging and a case.",
+   "pros": ["Neckband holds in-ear tips and keeps hands free", "Five volume levels and two noise modes", "Quick 1.5 hour Type-C charging", "Carrying case comes in the box"],
+   "cons": ["Hearing aid wording on the listing can mislead", "No amplification figure on the listing"]
+  },
+  {
+   "i": 2, "badge": "Best Display Controls", "name": "JMTO Bluetooth Hearing Amplifier with Display",
+   "specs": ["Pocket-sized unit", "4 listening modes", "LED display", "Large buttons", "Built-in Bluetooth"],
+   "specList": [{"label": "Modes", "value": "General, Noise Canceling, Indoor, Outdoor"}, {"label": "Display", "value": "LED"}, {"label": "Format", "value": "Pocket-sized"}, {"label": "Wireless", "value": "Bluetooth"}],
+   "description": "JMTO designs a pocket-sized amplifier with a clear LED display and large controls, aimed at older adults who struggle with small buttons. It offers four named modes, General, Noise Canceling, Indoor and Outdoor, and has built-in Bluetooth so you can connect to a phone. The page describes it for staying in touch with family and friends.\n\nThe display is the standout, because many amplifiers in this price band hide their settings behind tiny lights or an app. Here you can see the mode and level at a glance, which helps a person who dislikes guessing. A pocket unit carries a wire to the earpieces, so it is less discreet than an all-in-one earbud.\n\nThe listing does not give a gain figure or battery life in the details we reviewed. In that respect it trails the Jusha. Against the mocodi, it keeps your ears closed rather than open, which changes how much of the room you hear. Choose it for easy-to-read controls.",
+   "bestFor": "People who value large buttons and a readable screen over discretion.",
+   "pros": ["Four named listening modes for different places", "Clear LED display shows settings at a glance", "Large buttons suit weaker hands and eyesight", "Pocket size carries without a neckband"],
+   "cons": ["No gain or battery figure in the details", "Wired earpieces are less discreet than earbuds"]
+  },
+  {
+   "i": 3, "badge": "Best Open-Ear Design", "name": "mocodi Bone Conduction Hearing Amplifier",
+   "specs": ["Bone conduction open-ear", "Ni-Ti memory wire frame", "Unibody ear-hook design", "Built-in HD microphone", "Bluetooth calls"],
+   "specList": [{"label": "Type", "value": "Bone conduction"}, {"label": "Fit", "value": "Ear hooks, memory wire"}, {"label": "Microphone", "value": "Built-in HD"}, {"label": "Wireless", "value": "Bluetooth"}],
+   "description": "mocodi takes a different path with a bone conduction frame that rests outside the ear canal. The page describes a unibody design with ergonomic ear hooks and a Ni-Ti alloy memory wire that holds a secure fit. A built-in HD microphone handles calls, and the open-ear approach is described as keeping situational awareness.\n\nOpen-ear design suits people who dislike having the canal blocked or who need to hear traffic and voices around them. It is more like a pair of bone conduction headphones than an in-ear amplifier, so manage expectations about how much extra volume it provides. The listing gives no gain, battery or charge figures in the details reviewed.\n\nThat gap makes it harder to rank against the Jusha, which publishes 50 dB and 30 hours. It is a better match for someone who wants an open feel and Bluetooth calls more than strong amplification. Treat the amplifier label with care, since the product reads more like a headset.",
+   "bestFor": "Wearers who want to keep the ear canal open while taking calls.",
+   "pros": ["Open-ear design keeps surroundings audible", "Memory wire frame is built for a secure fit", "Built-in HD microphone for phone calls", "No ear tips to size or replace"],
+   "cons": ["No gain or battery figure in the details", "Reads more like a headset than an amplifier"]
+  },
+  {
+   "i": 4, "badge": "Best Voice Focus", "name": "TTQ Bluetooth Rechargeable Hearing Amplifier Earbuds",
+   "specs": ["Smart DSP chip", "5 volume levels", "3 noise reduction levels", "Noise reduction listed up to 18 dB", "2-in-1 earbuds"],
+   "specList": [{"label": "Chip", "value": "Smart DSP"}, {"label": "Volume levels", "value": "5"}, {"label": "Noise levels", "value": "3, up to 18 dB listed"}, {"label": "Format", "value": "Rechargeable earbuds"}],
+   "description": "TTQ sells a pair of rechargeable earbuds with a smart DSP chip that the listing says identifies and boosts human voices. There are five volume levels and three noise reduction levels, with reduction of up to 18 dB claimed. The earbuds double as Bluetooth earbuds for calls and music.\n\nThe pitch is voice clarity. Many amplifiers lift every sound equally, so a processor that favors speech is a reasonable goal, though the listing's claims are the maker's own. Earbuds are the most discreet format here and sit entirely in the ear.\n\nThe tradeoff is small parts and small controls, plus the same hearing aid wording found in the title. Against the HearCare, which also uses a DSP chip, the TTQ publishes more about noise levels. Against the ADCDAC neckband, it is less visible but easier to lose, so keep the case close.",
+   "bestFor": "Someone who wants discreet earbuds with a voice-focused processor.",
+   "pros": ["Smart DSP chip aimed at human voices", "Five volume levels to choose from", "Three noise reduction levels, up to 18 dB listed", "Doubles as Bluetooth earbuds for calls"],
+   "cons": ["Small earbuds are easy to drop or misplace", "Hearing aid wording in the title can mislead"]
+  },
+  {
+   "i": 9, "badge": "Best Lightweight Earbuds", "name": "HearCare Bluetooth Hearing Amplifier Earbuds",
+   "specs": ["Built-in DSP smart chip", "4.5 g per earbud", "Auto switching modes", "Noise canceling", "Rechargeable"],
+   "specList": [{"label": "Weight", "value": "4.5 g per earbud"}, {"label": "Chip", "value": "DSP smart chip"}, {"label": "Switching", "value": "Auto between amplifier and streaming"}, {"label": "Power", "value": "Rechargeable"}],
+   "description": "HearCare uses a DSP smart chip in lightweight earbuds that weigh 4.5 g each. The page says you pair them once and they switch automatically between amplifier mode and Bluetooth streaming. A noise canceling feature is advertised as part of the clear-sound pitch.\n\nAutomatic switching removes a step from daily use, which matters if you do not want to fiddle with a phone each time you take a call. The weight keeps them comfortable for long wear, and the listing says they stay securely in the ear. The details we reviewed do not state gain or battery hours.\n\nThat lack of numbers is the downside against the Jusha. Compared with the TTQ, it offers fewer published settings but a simpler pairing story. The lightest in the group, it is the one to look at for a user who wants to forget it is in the ear.",
+   "bestFor": "Daily wear where low weight and automatic switching matter.",
+   "pros": ["Each earbud weighs just 4.5 grams", "Pair once, then modes switch automatically", "Built-in DSP chip with noise canceling", "Sits fully in the ear for a discreet look"],
+   "cons": ["No gain or battery figure in the details", "Earbud size may not seal for every ear"]
+  }
+ ],
+ "buyingCriteria": [
+  {"criterion": "Amplifier vs hearing aid", "explanation": "A hearing amplifier boosts sound broadly, while a hearing aid is a regulated device tuned to a person's measured hearing. Several listings here, including the ADCDAC and TTQ, use hearing aid wording that can blur the line. Treat every product in this lineup as a consumer amplifier. If you suspect hearing changes, an audiologist is the right first stop, not a gadget."},
+  {"criterion": "Stated gain in dB", "explanation": "Gain tells you how much louder sound can get, and higher is not automatically better. The Jusha lists 50 dB and the TTQ lists noise reduction up to 18 dB, while the ADCDAC, JMTO and mocodi give no gain figure. A product with no number is harder to compare. High gain close to the ear calls for starting at the lowest setting."},
+  {"criterion": "Battery and charging", "explanation": "Battery hours decide whether you recharge nightly or weekly. The Jusha lists 30 hours on a 200 mAh cell and the ADCDAC over 24 hours, with the ADCDAC charging in 1.5 hours and the Jusha in one to two. Listed hours depend on volume, so expect fewer at a loud setting. Look for Type-C or a case that charges the units."},
+  {"criterion": "Controls you can handle", "explanation": "Tiny buttons are a frequent complaint. The JMTO has large buttons and an LED display, the ADCDAC has five volume levels and the Jusha adds an app. Choose a control style that you can operate without your glasses. If you cannot press the control reliably, the features do not matter."},
+  {"criterion": "Wearing format", "explanation": "Neckbands like the Jusha and ADCDAC keep the electronics on your shoulders, earbuds like the TTQ and HearCare sit in the ear, and the mocodi rests outside it. Open-ear designs keep surroundings audible while closed ones block more noise. Think about glasses, hair and how long you wear them. Comfort determines whether the device stays in use."},
+  {"criterion": "Honest listing language", "explanation": "Pages that overstate benefits are a warning sign. The Jusha text refers to hearing loss severity and the ADCDAC calls itself a hearing aid. A listing that simply states gain, battery and what the product is, is the better signal. Check the return policy, since amplifier claims are not reviewed."}
+ ],
+ "howWeEvaluated": [
+  {"title": "Published specifications", "description": "We looked for stated gain, channels, battery and charge time. The Jusha leads with 50 dB, 34 channels and 30 hours, the TTQ publishes noise reduction levels, and the ADCDAC lists charge time and volume steps. The JMTO, mocodi and HearCare give fewer figures."},
+  {"title": "Controls and display", "description": "Control design was compared for older users. The JMTO has large buttons and an LED display, the ADCDAC offers five fixed volume steps, and the Jusha relies partly on an app. Earbuds like the TTQ and HearCare use touch or button controls that are smaller."},
+  {"title": "Wearing format", "description": "We compared neckband, pocket, bone conduction and earbud formats. The mocodi leaves the canal open, the HearCare weighs 4.5 g per earbud, and the Jusha and ADCDAC use neckbands. Each format trades discretion for ease of handling."},
+  {"title": "Bluetooth features", "description": "Phone connection was reviewed. All six offer Bluetooth, with the HearCare switching automatically and the mocodi built around call quality. The Jusha and ADCDAC double as earphones. We did not test call quality."},
+  {"title": "Listing honesty", "description": "Wording was weighed against what an amplifier can claim. Hearing aid language on the ADCDAC and TTQ, and severity language on the Jusha, count against clarity. Value reflects what is included, not price."}
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Wearing Style",
+   "intro": "How it sits on you decides whether you will wear it.",
+   "table": {"headers": ["Style", "Pick", "Why"], "rows": [
+    ["Neckband, published numbers", "Jusha CZ-T01 Neckband Hearing Amplifier", "50 dB, 34 channels, 30 hours"],
+    ["Neckband with case", "ADCDAC Neckband Hearing Amplifier", "Case and 1.5 hour charge"],
+    ["Pocket unit", "JMTO Bluetooth Hearing Amplifier with Display", "Large buttons and screen"],
+    ["Open ear", "mocodi Bone Conduction Hearing Amplifier", "Canal stays open"],
+    ["Discreet earbuds", "HearCare Bluetooth Hearing Amplifier Earbuds", "4.5 g per earbud"]
+   ]},
+   "note": "Comfort over a full day beats any single feature, so think about glasses, hats and how long you will wear it before choosing a format."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers describe features, not price.",
+   "table": {"headers": ["Tier", "Pick", "What you get"], "rows": [
+    ["Entry", "HearCare Bluetooth Hearing Amplifier Earbuds", "Light earbuds with auto switching"],
+    ["Entry to mid", "TTQ Bluetooth Rechargeable Earbuds", "Five volume and three noise levels"],
+    ["Mid", "ADCDAC Neckband Hearing Amplifier", "Neckband with case"],
+    ["Mid to premium", "JMTO Bluetooth Hearing Amplifier with Display", "Display and four modes"],
+    ["Premium", "Jusha CZ-T01 Neckband Hearing Amplifier", "Most published specifications"]
+   ]},
+   "note": "Check the return window before you commit."
+  },
+  {
+   "subheading": "Neckband vs Earbuds",
+   "intro": "The two common formats make opposite tradeoffs.",
+   "cards": [
+    {"label": "Neckband", "text": "A band holds the battery and electronics on the shoulders so the tips can be bigger and easier to find. It is harder to hide and can tangle with collars. The Jusha CZ-T01 and ADCDAC fit here."},
+    {"label": "Earbuds", "text": "Earbuds sit fully in the ear and are nearly invisible, but they are small and can be lost. The TTQ and HearCare are in this group. Pick them if discretion is the first priority."}
+   ],
+   "note": "Open-ear mocodi sits between the two in how it feels."
+  },
+  {
+   "subheading": "By Control Preference",
+   "intro": "Control type is a daily usability issue.",
+   "table": {"headers": ["Preference", "Pick", "Control"], "rows": [
+    ["Big buttons and a screen", "JMTO Bluetooth Hearing Amplifier with Display", "Large buttons, LED"],
+    ["Fixed steps", "ADCDAC Neckband Hearing Amplifier", "Five volume levels"],
+    ["App control", "Jusha CZ-T01 Neckband Hearing Amplifier", "Free companion app"],
+    ["Preset noise levels", "TTQ Bluetooth Rechargeable Earbuds", "Three noise levels"],
+    ["Set and forget", "HearCare Bluetooth Hearing Amplifier Earbuds", "Automatic switching"]
+   ]},
+   "note": "Try the controls with your glasses off if that is how you use them."
+  },
+  {
+   "subheading": "For Phone Calls Specifically",
+   "intro": "Bluetooth calls are the reason many people choose these.",
+   "cards": [
+    {"label": "Look for", "text": "Look for a built-in microphone, simple answer controls and easy pairing. Open-ear designs keep your surroundings audible during calls, while closed ones block more background sound."},
+    {"label": "In this comparison", "text": "The mocodi lists a built-in HD microphone and open-ear calls. The Jusha and ADCDAC double as Bluetooth earphones, and the HearCare switches automatically between amplifier and streaming."}
+   ],
+   "note": "Call quality varies by phone, so check how the product handles yours."
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "More money should buy information and fit, not louder claims.",
+   "table": {"headers": ["Spend more if", "Save if"], "rows": [
+    ["You want published gain and battery, so pick the Jusha CZ-T01", "A simple sound boost is enough, so the HearCare earbuds will do"],
+    ["Controls are the problem, so the JMTO display helps", "You are comfortable with an app, so the Jusha works"],
+    ["You want to keep your ears open, so the mocodi suits", "Closed earbuds are fine, so the TTQ covers it"],
+    ["Hearing seems to be changing, so see an audiologist first", "Only an occasional boost is wanted, so the ADCDAC is enough"]
+   ]},
+   "note": "A clinical hearing check is worth more than any upgrade."
+  }
+ ],
+ "faq": [
+  {"q": "Is a Bluetooth hearing amplifier a hearing aid?", "a": "No. Hearing aids are regulated medical devices set to an individual's hearing, while these are consumer amplifiers that raise sound broadly. Some listings, such as the ADCDAC and TTQ, use hearing aid wording. Treat them as amplifiers and see a clinician about hearing concerns."},
+  {"q": "How loud can they get?", "a": "Only the Jusha publishes a figure, at 50 dB of gain. Others give no number, which makes comparison hard. High volume near the ear can be harmful, so start at the lowest level and increase slowly."},
+  {"q": "Which has the best battery?", "a": "The Jusha lists 30 hours on a 200 mAh battery and the ADCDAC over 24 hours. The mocodi, JMTO, TTQ and HearCare details we reviewed did not give hours. Listed life drops at higher volume."},
+  {"q": "Can I use them on phone calls?", "a": "Yes, all six offer Bluetooth. The mocodi has a built-in HD microphone and the HearCare switches automatically between modes. Pairing steps and call quality vary by phone."},
+  {"q": "Are they good for restaurants?", "a": "Amplifiers lift all sound, including background noise. The TTQ lists three noise reduction levels and the JMTO an Outdoor and Noise Canceling mode, but results vary. Do not expect the speech focus of a fitted device. A quiet corner table, a seat with your back to the wall and a lower volume often help more than any mode setting. If a place is still too loud, step outside for a call rather than turning the level up further."},
+  {"q": "How do I care for them?", "a": "Wipe tips and charging contacts with a dry cloth and keep them in the case. Do not wear them in the shower. Replace worn tips so the fit stays snug. Charge the unit on a regular schedule instead of letting it run flat, and store the neckband or case away from heat and damp. A loose tip that whistles is usually a sizing problem, so try the other tip sizes included before assuming a fault."},
+  {"q": "Should I see a professional first?", "a": "If you notice hearing changes, yes. An audiologist can test your hearing and explain options, including prescription and over-the-counter hearing aids. An amplifier can come later as a convenience, and it works best when treated as a supplement to professional advice rather than a replacement for it. Bring the listing details with you if you want a clinician's opinion on whether a given device suits your situation."}
+ ]
+}
