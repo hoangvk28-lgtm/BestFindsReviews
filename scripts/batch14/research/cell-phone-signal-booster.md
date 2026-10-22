@@ -1,0 +1,11 @@
+# cell-phone-signal-booster research (WebSearch, 2026-10)
+- Check your outdoor signal first (apps such as CellMapper); a stronger booster is not always needed.
+- With a strong outdoor signal, downlink output power matters more; with a weak one, gain matters most.
+- Gain figures differ by source: weBoost-linked material cites +65 dB for home kits and +50 dB for vehicle; Waveform cites 63 to 72 dB for broadband boosters. Do not quote one number as a hard FCC cap without checking.
+- Consumer boosters are sold as kits with antennas and cables; look for an FCC ID and "Meets Network Protection Standard" wording.
+- Outside and inside antennas too close cause feedback (oscillation); the booster cuts gain and, if that fails, FCC rules require it to shut off.
+- Required separation is model specific: weBoost suggests about 25 to 30 feet vertical as a rule of thumb; SureCall lists about 60 feet for one model; another vendor says 30 to 50 feet.
+- Forced lower gain from poor separation shrinks the coverage area.
+- Coverage depends on floor plan, construction and outdoor signal; no maker can guarantee a square-footage figure.
+- Three key variables: coverage area, gain, carrier band compatibility.
+- A booster only amplifies an existing outdoor signal; with none, it cannot help.

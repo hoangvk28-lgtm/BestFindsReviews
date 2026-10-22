@@ -1,0 +1,11 @@
+# floor-lamp research (WebSearch, 2026-10)
+- Reading lamps: guides cite 400 to 800 lumens on the reading surface; a Joybuy guide says 1,000+ lumens if the lamp doubles as reading light.
+- Color temperature advice conflicts: 2700 to 3000K warm for relaxing, 3500 to 4000K neutral, 4000 to 5000K for focused tasks. Adjustable CCT covers the range.
+- CRI: 80+ is a living-space minimum; 90+ recommended where color and text accuracy matter.
+- Aging eyes often need more light; a stepless dimmer from about 5 to 100 percent allows fine tuning.
+- Look for flicker-free drivers; cheap LEDs can cause headaches.
+- Gooseneck or swivel heads aim light at the page without moving the lamp; a tilting head switches direct and indirect light.
+- Tip-over: one guide suggests a base at least 8 inches across; check base size and weight versus lamp height and arm reach.
+- Physical buttons on the pole beat touch sensors, which can fail with dry skin or poor circulation.
+- Route cords out of walking paths.
+- Most guides are retailer content; verify specs on the product page.

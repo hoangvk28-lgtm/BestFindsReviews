@@ -1,0 +1,12 @@
+# pet-hair-remover research (WebSearch, 2026-10)
+- Reusable tools (rubber blades, silicone bristles, electrostatic nylon) grab hair without sheets; one guide says cost beats adhesive rollers within a few months.
+- Adhesive rollers suit fast touch-ups on clothes and smooth fabric; sheets lose stickiness after a few swipes.
+- For upholstery, a reusable brush or handheld remover tends to outperform adhesive rollers.
+- Delicate or loose-knit fabric can snag under a stiff brush; use gentle pressure and patch-test.
+- Reusable brushes need periodic cleaning with a comb.
+- Standard roller width is about 4 inches; jumbo about 6.5 inches.
+- Damp rubber glove or squeegee lifts fur from upholstery; rinse between wipes.
+- For heavy hair on clothes, a short dryer cycle with a dryer sheet or dryer balls moves hair to the lint trap.
+- A rubber broom loosens hair from carpet before vacuuming; electrostatic brooms suit hard floors; feather dusters spread hair.
+- Washable microfiber covers lose static pull if washed with fabric softener.
+- Rankings in these sources are not independent tests.

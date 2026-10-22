@@ -1,0 +1,420 @@
+{
+ "guideTitle": "5 Best weBoost Cell Phone Signal Boosters (2026)",
+ "metaTitle": "Best weBoost Cell Phone Signal Boosters (2026)",
+ "metaDescription": "Five weBoost signal boosters compared for homes, cabins, and trucks, covering gain, coverage, antenna setup, and who each model suits best.",
+ "introParagraphs": [
+  "weBoost is one of the most recognized names in consumer signal boosters, and its lineup is split by where you use it: whole homes, cabins, smaller spaces, and vehicles. This guide compares five models so you can choose by situation instead of by product name.",
+  "The range runs from the Home Complete, which lists 72dB of maximum gain and installation included, to the Cabin at 65dB and 5,000 square feet with a 24-foot telescoping pole. The Home Studio and Home Studio Omni target smaller spaces, and the Drive Reach OTR is built for trucks and semis.",
+  "All weBoost listings say they support the major U.S. carriers and 5G, though coverage always depends on the outdoor signal. We evaluated each pick on specs and buyer feedback, weighting install effort and fit for the stated use."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best Overall",
+   "name": "weBoost Home Complete Installed Kit",
+   "specs": [
+    "72dB max gain",
+    "Installation included",
+    "All carriers",
+    "4G LTE and 5G"
+   ],
+   "specList": [
+    {
+     "label": "Max gain",
+     "value": "72dB"
+    },
+    {
+     "label": "Install",
+     "value": "Included via On-Tech"
+    },
+    {
+     "label": "Carriers",
+     "value": "All networks"
+    },
+    {
+     "label": "Network",
+     "value": "4G LTE and 5G"
+    }
+   ],
+   "description": "The Home Complete is the strongest and most hands-off weBoost. The listing calls it the brand's strongest booster at 72dB of maximum gain, and it amplifies all carriers at once. The standout is that installation is included: you schedule an appointment with the card in the box and a partner installer handles it.\n\nIf you are comfortable on a ladder, the cost buys little you could not do yourself. For someone who dislikes roof work or worries about antenna separation, though, professional install removes the main source of poor results.\n\nCompared with the Home Studio picks it targets whole homes rather than a single space. It also works for the whole family regardless of carrier. Choose it when you want a fix handled once, correctly, without cable routing decisions.",
+   "bestFor": "Whole homes where you want professional install",
+   "pros": [
+    "72dB max gain, the highest in this group",
+    "Installation included with the kit",
+    "Boosts all carriers at once"
+   ],
+   "cons": [
+    "Highest cost in this roundup",
+    "Install is scheduled, not same day"
+   ]
+  },
+  {
+   "i": 1,
+   "badge": "Best for Cabins and Remote Spots",
+   "name": "weBoost Cabin Signal Booster",
+   "specs": [
+    "65dB gain",
+    "Up to 5,000 sq ft",
+    "24-ft telescoping pole",
+    "Directional antenna"
+   ],
+   "specList": [
+    {
+     "label": "Gain",
+     "value": "65dB"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 5,000 sq ft"
+    },
+    {
+     "label": "Antenna",
+     "value": "Directional with 24-ft pole"
+    },
+    {
+     "label": "Carriers",
+     "value": "All U.S."
+    }
+   ],
+   "description": "The Cabin is designed for places where the nearest tower is far or hidden. Its directional antenna sits on a 24-foot telescoping pole with stabilizing support, so you can aim it at a distant tower through trees. It lists 65dB of gain and coverage up to 5,000 square feet for multiple users and devices.\n\nThat pole is both its strength and its burden. Raising a 24-foot mast takes planning, and it is more involved than the compact Home Studio models. It also is not the simplest choice for a standard suburban home.\n\nIt sits in the upper price range, below the Home Complete. Where the Home Complete favors convenience, the Cabin favors reach in tough terrain. It is a strong pick for a lake house, a rural property, or any home surrounded by trees.",
+   "bestFor": "Cabins, rural homes, and tree-covered properties",
+   "pros": [
+    "Directional antenna aimed at distant towers",
+    "24-foot telescoping pole for height",
+    "Up to 5,000 sq ft listed"
+   ],
+   "cons": [
+    "Mast setup takes planning and effort",
+    "Overkill for a typical suburban home"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Best Value for Smaller Spaces",
+   "name": "weBoost Home Studio",
+   "specs": [
+    "4G LTE and 5G",
+    "US and Canadian carriers",
+    "FCC approved",
+    "Simple setup"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G LTE and 5G"
+    },
+    {
+     "label": "Carriers",
+     "value": "U.S. and Canadian"
+    },
+    {
+     "label": "Approval",
+     "value": "FCC approved"
+    },
+    {
+     "label": "Setup",
+     "value": "Straightforward"
+    }
+   ],
+   "description": "The Home Studio is the entry weBoost for a smaller space. It lists support for all major U.S. and Canadian networks, FCC approval, and an emphasis on straightforward installation with clear instructions. It is a good match for an apartment, a studio, or a single weak room.\n\nThe listing gives fewer hard numbers than the Cabin or Home Complete, such as gain or square footage, so it is harder to compare on specs. That is a real drawback if you like to verify. It is better treated as a simple, trusted-brand solution for modest needs.\n\nAgainst the Home Complete it skips the installer and the 72dB output. Choose it when your space is small and you can handle a simple setup yourself.",
+   "bestFor": "Apartments and single weak rooms",
+   "pros": [
+    "Lists U.S. and Canadian carrier support",
+    "FCC approved",
+    "Setup described as straightforward"
+   ],
+   "cons": [
+    "Few published gain or coverage numbers",
+    "Not meant for whole-home coverage"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Lowest-Cost weBoost",
+   "name": "weBoost Home Studio Omni",
+   "specs": [
+    "4G LTE and 5G",
+    "All U.S. carriers",
+    "Omni antenna",
+    "Small home use"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G LTE and 5G"
+    },
+    {
+     "label": "Carriers",
+     "value": "All U.S."
+    },
+    {
+     "label": "Antenna",
+     "value": "Omni-style"
+    },
+    {
+     "label": "Use",
+     "value": "Homes"
+    }
+   ],
+   "description": "The Home Studio Omni is the lowest-cost weBoost in this roundup. The listing says it improves 4G LTE and 5G coverage across all U.S. carriers for homes, and the name points to an omni-style outdoor antenna that receives from all directions. That makes aiming simpler than with a directional design like the Cabin.\n\nThe listing is thin on numbers, with no stated gain or coverage area, so you are trusting the brand more than a spec sheet. An omni antenna is easier to place but typically less able to reach a distant tower than the Cabin's aimed antenna.\n\nIt is the cheapest way into weBoost, just under the Home Studio. It suits a moderate-signal area where aiming is the obstacle. If you live far from towers, step up to the Cabin.",
+   "bestFor": "Budget buyers in moderate-signal areas",
+   "pros": [
+    "Lowest-cost weBoost here",
+    "Omni-style antenna needs no aiming",
+    "Lists all U.S. carriers"
+   ],
+   "cons": [
+    "No published gain or coverage figures",
+    "Less reach than the directional Cabin"
+   ]
+  },
+  {
+   "i": 3,
+   "badge": "Best for Trucks and Road Use",
+   "name": "weBoost Drive Reach OTR",
+   "specs": [
+    "Trucks and semis",
+    "4G LTE and 5G",
+    "Made in the USA",
+    "FCC approved"
+   ],
+   "specList": [
+    {
+     "label": "Use",
+     "value": "Trucks and semis"
+    },
+    {
+     "label": "Network",
+     "value": "5G and LTE"
+    },
+    {
+     "label": "Origin",
+     "value": "Made in the USA"
+    },
+    {
+     "label": "Carriers",
+     "value": "Verizon, AT&T, T-Mobile, US Cellular"
+    }
+   ],
+   "description": "The Drive Reach OTR is built for over-the-road drivers, with a design that reaches the farthest cell towers and boosts signal for multiple devices. It lists compatibility with Verizon, AT&T, T-Mobile, and US Cellular, and support for 5G. It is made in the USA and FCC approved.\n\nIt is the odd one out in a home-focused guide because it is not for houses at all. Its value is for long-haul driving and rural routes where tower distance is the problem. For a regular passenger car, a lighter product would be simpler.\n\nIt sits in the middle of the price range, above the Home Studios and below the Cabin. Choose it if you or a family member drives a truck or semi and wants one booster for every device in the cab.",
+   "bestFor": "Truck drivers needing farthest-tower reach",
+   "pros": [
+    "Built to reach distant towers",
+    "Lists four major carriers",
+    "Made in the USA and FCC approved"
+   ],
+   "cons": [
+    "Not meant for home use",
+    "Overbuilt for a regular passenger car"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Match model to location",
+   "explanation": "weBoost splits its line by use, and the wrong one will disappoint. The Home Complete targets whole homes at 72dB, the Cabin targets remote sites at 65dB and 5,000 square feet, and the Drive Reach OTR is for trucks. Buying a vehicle booster for a house is a common mistake. Start from where you need signal."
+  },
+  {
+   "criterion": "Know your outdoor signal",
+   "explanation": "A booster only amplifies an existing signal and cannot create service. Check outdoor bars with an app such as CellMapper at the roof or highest point. The Cabin's 24-foot pole helps where the signal exists but is far away. Without any outdoor signal no weBoost will work."
+  },
+  {
+   "criterion": "Gain figures vary",
+   "explanation": "weBoost-linked material cites about 65dB for home kits and 50dB for vehicle units, while the Home Complete lists 72dB maximum. Other sources cite 63 to 72dB for broadband boosters, so treat gain as a rough guide. Do not assume one number is a hard FCC cap. Choose by use case first."
+  },
+  {
+   "criterion": "Antenna type matters",
+   "explanation": "The Cabin uses a directional antenna on a 24-foot pole to target a tower, while the Home Studio Omni name points to an omni-style antenna that needs no aiming. Directional gives reach, omni gives simplicity. Choose directional in remote areas and omni when towers are near and in several directions."
+  },
+  {
+   "criterion": "Antenna separation",
+   "explanation": "Outside and inside antennas too close cause feedback and the booster cuts gain, shrinking coverage. weBoost suggests about 25 to 30 feet vertical as a rule of thumb, and other vendors cite larger figures. The Home Complete avoids this risk because a partner installer places everything. Plan separation for self-installs."
+  },
+  {
+   "criterion": "Install effort and cost",
+   "explanation": "The Home Complete includes professional installation and costs the most, while the Home Studio and Home Studio Omni are simpler self-installs at lower cost. The Cabin needs mast work. Decide whether you would rather pay for the install or do it yourself."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fit for stated use",
+   "description": "We checked each model against the use named in its listing. The Home Complete and Cabin both fit their jobs clearly, while the Drive Reach OTR fits only trucks. The strongest fit is the Home Complete for whole homes."
+  },
+  {
+   "title": "Published specs",
+   "description": "We favored listings with real numbers. The Home Complete lists 72dB and the Cabin lists 65dB and 5,000 square feet, while the Home Studio and Home Studio Omni publish few figures. The most basic spec sheet is the Home Studio Omni."
+  },
+  {
+   "title": "Installation effort",
+   "description": "The Home Complete includes installation, and the Cabin needs a 24-foot mast. Most buyers install alone, so this carried weight."
+  },
+  {
+   "title": "Antenna design",
+   "description": "We weighed directional versus omni choices for the stated use case. The Cabin's directional pole suits remote areas and the Omni suits simple placement."
+  },
+  {
+   "title": "Value and fit",
+   "description": "The Home Studio Omni is lowest cost, and the Home Complete is highest."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Location",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Recommended pick"
+    ],
+    "rows": [
+     [
+      "Whole home, want it installed for you",
+      "weBoost Home Complete Installed Kit"
+     ],
+     [
+      "Cabin, lake house, or tree-covered property",
+      "weBoost Cabin Signal Booster"
+     ],
+     [
+      "Apartment or single weak room",
+      "weBoost Home Studio"
+     ],
+     [
+      "Moderate signal, lowest cost",
+      "weBoost Home Studio Omni"
+     ],
+     [
+      "Long-haul truck or semi",
+      "weBoost Drive Reach OTR"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Recommended pick"
+    ],
+    "rows": [
+     [
+      "Lowest-cost pick",
+      "weBoost Home Studio Omni"
+     ],
+     [
+      "Low-cost, small spaces",
+      "weBoost Home Studio"
+     ],
+     [
+      "Mid-range, vehicles",
+      "weBoost Drive Reach OTR"
+     ],
+     [
+      "Upper range, remote reach",
+      "weBoost Cabin Signal Booster"
+     ],
+     [
+      "Premium, installed whole home",
+      "weBoost Home Complete Installed Kit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Directional vs Omni Antenna",
+   "cards": [
+    {
+     "label": "Directional",
+     "text": "The Cabin's antenna on a 24-foot pole is aimed at a specific tower, giving reach in remote or wooded areas. It takes more setup effort."
+    },
+    {
+     "label": "Omni",
+     "text": "The Home Studio Omni receives from all directions without aiming, which is simpler where towers are near. Choose the Cabin for remote spots and the Omni for simple placement in moderate signal."
+    }
+   ]
+  },
+  {
+   "subheading": "By Install Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Recommended pick"
+    ],
+    "rows": [
+     [
+      "Want a professional to install",
+      "weBoost Home Complete Installed Kit"
+     ],
+     [
+      "Comfortable with a mast",
+      "weBoost Cabin Signal Booster"
+     ],
+     [
+      "Want a simple self-install",
+      "weBoost Home Studio"
+     ],
+     [
+      "Want no aiming",
+      "weBoost Home Studio Omni"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Rural Properties Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Directional reach, antenna height, and some existing outdoor signal. Distance to the tower, not room count, is the main issue."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Cabin fits best with its directional antenna and 24-foot pole, with the Home Complete as the premium hands-off alternative."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want professional install, which points to the Home Complete, or you need remote reach, which points to the Cabin."
+    },
+    {
+     "label": "Save if",
+     "text": "Your space is small and signal is moderate. The Home Studio and Home Studio Omni cover that at lower cost."
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which weBoost should I buy for my house?",
+   "a": "For a whole home, the Home Complete includes installation and lists 72dB. For a small space, the Home Studio is simpler and cheaper. Choose by space size and install preference."
+  },
+  {
+   "q": "Is the Home Complete worth the higher cost?",
+   "a": "It is if you do not want to climb a ladder or risk poor antenna separation, since installation is included. If you are comfortable installing yourself, the cost buys less."
+  },
+  {
+   "q": "Can I use the Drive Reach OTR at home?",
+   "a": "No. It is designed for trucks and semis. Use a home model such as the Home Complete or Home Studio for a house."
+  },
+  {
+   "q": "What does the Cabin's pole do?",
+   "a": "The 24-foot telescoping pole raises a directional antenna so you can aim at distant towers through trees. It requires stabilizing and more setup effort than compact models."
+  },
+  {
+   "q": "Will a booster work without outdoor signal?",
+   "a": "No. It only amplifies existing signal, so check outdoor bars first. Without any, no booster will help."
+  },
+  {
+   "q": "Why do the Home Studio listings have few specs?",
+   "a": "Their listings give fewer numbers such as gain or coverage area than the Cabin or Home Complete. Compare them on use case and install ease instead, and check the maker's page for details."
+  },
+  {
+   "q": "Does weBoost work on all carriers?",
+   "a": "The listings say these models support all major U.S. carriers and 5G, and the Home Studio also lists Canadian carriers. Actual results depend on your outdoor signal."
+  }
+ ]
+}

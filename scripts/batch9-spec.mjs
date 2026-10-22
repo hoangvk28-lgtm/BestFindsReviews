@@ -23,7 +23,7 @@ if (cmd === "brief") {
   mkdirSync(resolve(B, "briefs"), { recursive: true });
   let md = "";
   for (const a of range) {
-    if (existsSync(resolve(B, "content", `${a.slug}.json`))) continue;
+    if (existsSync(resolve(B, "content", `${a.slug}.json`)) || !existsSync(resolve(B, "pool", `${a.slug}.json`))) continue;
     const p = pool(a.slug);
     md += `\n## ${a.id} ${a.slug}\nCluster: ${a.cluster} | Seed: ${a.seed} | Title: ${a.title} | KW: ${a.keyword} | Type: ${a.type}\nSupporting: ${clip(a.supporting, 220)}\nAngle: ${clip(a.why, 200)} ${clip(a.note, 200)}\n`;
     const rel = p.items.filter((it) => isRelevant(it.title, a.seed)).length;
@@ -32,7 +32,8 @@ if (cmd === "brief") {
       if (shown >= Number(process.env.MAXITEMS || 10)) return;
       if (!process.env.NOFILTER && p.relevantCount !== undefined && rel >= 5 && !isRelevant(it.title, a.seed)) return;
       shown++;
-      md += `[${i}] ${clip(it.title, 120)} | brand: ${it.brand || "-"}\n${prior.has(it.asin) ? `   known specs (from an existing guide): ${prior.get(it.asin)}\n` : ""}${it.features.slice(0, 3).map((f) => "   - " + clip(f, 150)).join("\n")}\n`;
+      const pr = (x) => parseFloat(String(x.price).replace(/[^\d.]/g, "")) || 0; const rank = p.items.filter((o) => pr(o) < pr(it)).length + 1;
+      md += `[${i}] ${clip(it.title, 120)} | brand: ${it.brand || "-"} | price rank ${rank}/${p.items.length} (1 = cheapest)\n${prior.has(it.asin) ? `   known specs (from an existing guide): ${prior.get(it.asin)}\n` : ""}${it.features.slice(0, 3).map((f) => "   - " + clip(f, 150)).join("\n")}\n`;
     });
   }
   const out = resolve(B, "briefs", `${from}-${to}.md`);

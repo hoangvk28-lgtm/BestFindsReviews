@@ -1,0 +1,11 @@
+# dinnerware research (WebSearch, 2026-10)
+- Weight ranking in retailer comparisons: stoneware heavy, porcelain medium, melamine light. Weight matters for arthritic or weak grip.
+- Porcelain is dense and non-porous, resisting chips and cracks; stoneware is chip-resistant but not chip-proof.
+- Melamine is shatterproof but typically not suitable for oven or microwave.
+- Porcelain and stoneware are usually microwave and dishwasher safe; gold or silver trim is the exception for microwaves. Always check the set's label.
+- Home Instead (caregiver firm) cites Corelle as very thin and lightweight; a marketing source, not a test.
+- Libbey senior-line sheet describes wider handles, raised rims and steep rim transitions to ease one-handed use.
+- Matte or lightly textured finishes can reduce glare and improve grip (one guide).
+- Lead and cadmium: FDA sets leach limits; look for written confirmation of FDA or Prop 65 compliance, and be wary of vague "eco glaze" claims.
+- Vintage, thrift and hand-painted pieces carry more lead risk, especially with damaged glaze.
+- Sources are sales-oriented retailers; details vary.

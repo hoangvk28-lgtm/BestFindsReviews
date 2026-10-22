@@ -1,0 +1,11 @@
+# phone-stand research (WebSearch, 2026-10)
+- Check the device width range and weight limit including the case; ranges vary from about 4 to 12.9 inches down to about 5 inches.
+- Add weight to the base if using a heavy tablet in a case.
+- Heavier base with non-slip padding resists tipping on video calls; one listing says plastic stands wobble versus aluminum.
+- Height: desktop stands cover about 4.3 to 6.7 inches; tower or tripod styles reach 9 to 18 inches for eye-level camera framing.
+- Bed options: gooseneck mounts (about 60 cm) or headboard clamps (headboard must fit the clamp); one tablet bed holder spans 18.1 to 39.8 inches.
+- A charging slot or open design lets you charge during long calls.
+- Silicone or rubber grip padding avoids scratches.
+- Foldable models carry easily but are usually lighter and less stable.
+- For seniors, favor large adjustment knobs and few steps; a patent filing notes the need for stands that suit limited dexterity.
+- "Universal fit" is marketing; verify measurements.
