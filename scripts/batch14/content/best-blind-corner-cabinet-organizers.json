@@ -305,122 +305,134 @@
  ],
  "howToChoose": [
   {
-   "heading": "By Blind Corner Configuration",
-   "type": "table",
-   "rows": [
-    {
-     "scenario": "Right-hinged 36-inch blind corner door",
-     "pick": "VEVOR Swing Right Blind Corner Cabinet Organizer"
-    },
-    {
-     "scenario": "Left-hinged 36-inch blind corner door",
-     "pick": "DWVO 2-Tier Blind Corner Pull-Out Organizer"
-    },
-    {
-     "scenario": "Unsure which side the door hinges on",
-     "pick": "VADANIA Blind Corner Pull Out Organizer"
-    },
-    {
-     "scenario": "Right-hinged, prefer independent dual trays",
-     "pick": "Kinchoix Blind Corner Cabinet Pull Out Organizer 36-inch"
-    },
-    {
-     "scenario": "Left-hinged, smaller 30-inch cabinet",
-     "pick": "Kinchoix Blind Corner Cabinet Pull Out Organizer 30-inch"
-    },
-    {
-     "scenario": "Need full pull-out drawers instead of a swing tray",
-     "pick": "STORKING Blind Corner Cabinet Pull Out 2 Tier"
-    }
-   ]
+   "subheading": "By Blind Corner Configuration",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick"
+    ],
+    "rows": [
+     [
+      "Right-hinged 36-inch blind corner door",
+      "VEVOR Swing Right Blind Corner Cabinet Organizer"
+     ],
+     [
+      "Left-hinged 36-inch blind corner door",
+      "DWVO 2-Tier Blind Corner Pull-Out Organizer"
+     ],
+     [
+      "Unsure which side the door hinges on",
+      "VADANIA Blind Corner Pull Out Organizer"
+     ],
+     [
+      "Right-hinged, prefer independent dual trays",
+      "Kinchoix Blind Corner Cabinet Pull Out Organizer 36-inch"
+     ],
+     [
+      "Left-hinged, smaller 30-inch cabinet",
+      "Kinchoix Blind Corner Cabinet Pull Out Organizer 30-inch"
+     ],
+     [
+      "Need full pull-out drawers instead of a swing tray",
+      "STORKING Blind Corner Cabinet Pull Out 2 Tier"
+     ]
+    ]
+   }
   },
   {
-   "heading": "By Budget",
-   "type": "table",
-   "rows": [
-    {
-     "scenario": "Lowest-cost pick in this comparison",
-     "pick": "DWVO 2-Tier Blind Corner Pull-Out Organizer"
-    },
-    {
-     "scenario": "Mid-range value with reversible mounting",
-     "pick": "VADANIA Blind Corner Pull Out Organizer"
-    },
-    {
-     "scenario": "Mid-range, independent dual-tray swing",
-     "pick": "Kinchoix Blind Corner Cabinet Pull Out Organizer 30-inch or 36-inch"
-    },
-    {
-     "scenario": "Premium pick with rust-resistant frame",
-     "pick": "VEVOR Swing Right Blind Corner Cabinet Organizer"
-    },
-    {
-     "scenario": "Highest-cost pick with full drawer system",
-     "pick": "STORKING Blind Corner Cabinet Pull Out 2 Tier"
-    }
-   ]
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick"
+    ],
+    "rows": [
+     [
+      "Lowest-cost pick in this comparison",
+      "DWVO 2-Tier Blind Corner Pull-Out Organizer"
+     ],
+     [
+      "Mid-range value with reversible mounting",
+      "VADANIA Blind Corner Pull Out Organizer"
+     ],
+     [
+      "Mid-range, independent dual-tray swing",
+      "Kinchoix Blind Corner Cabinet Pull Out Organizer 30-inch or 36-inch"
+     ],
+     [
+      "Premium pick with rust-resistant frame",
+      "VEVOR Swing Right Blind Corner Cabinet Organizer"
+     ],
+     [
+      "Highest-cost pick with full drawer system",
+      "STORKING Blind Corner Cabinet Pull Out 2 Tier"
+     ]
+    ]
+   }
   },
   {
-   "heading": "Swing-Out Tray vs Full Pull-Out Drawers",
-   "type": "cards",
+   "subheading": "Swing-Out Tray vs Full Pull-Out Drawers",
    "cards": [
     {
-     "title": "Swing-Out Tray",
-     "description": "DWVO, VEVOR and both Kinchoix organizers use a single or dual swing-arm tray that rotates 270 degrees out of the cabinet. This style generally installs faster and works well for cookware and larger items. Recommended if you want a simpler mechanism and mostly store pots, pans and bulky containers."
+     "label": "Swing-Out Tray",
+     "text": "DWVO, VEVOR and both Kinchoix organizers use a single or dual swing-arm tray that rotates 270 degrees out of the cabinet. This style generally installs faster and works well for cookware and larger items. Recommended if you want a simpler mechanism and mostly store pots, pans and bulky containers."
     },
     {
-     "title": "Full Pull-Out Drawers",
-     "description": "STORKING uses a four-drawer, ball-bearing pull-out system that fully extends from the cabinet for a lazy-Susan-style experience. This style separates items into distinct drawers but needs a larger cabinet footprint and more installation time. Recommended if you want strict item separation and have a larger 36-inch-plus blind corner cabinet."
+     "label": "Full Pull-Out Drawers",
+     "text": "STORKING uses a four-drawer, ball-bearing pull-out system that fully extends from the cabinet for a lazy-Susan-style experience. This style separates items into distinct drawers but needs a larger cabinet footprint and more installation time. Recommended if you want strict item separation and have a larger 36-inch-plus blind corner cabinet."
     }
    ]
   },
   {
-   "heading": "By Rotation Style",
-   "type": "table",
-   "rows": [
-    {
-     "scenario": "Single combined swing arm, both tiers move together",
-     "pick": "DWVO 2-Tier Blind Corner Pull-Out Organizer"
-    },
-    {
-     "scenario": "Two independently rotating trays",
-     "pick": "Kinchoix Blind Corner Cabinet Pull Out Organizer 36-inch"
-    },
-    {
-     "scenario": "Wire basket pull-out system, not a rotating tray",
-     "pick": "VADANIA Blind Corner Pull Out Organizer"
-    },
-    {
-     "scenario": "Rotating four-drawer lazy Susan style",
-     "pick": "STORKING Blind Corner Cabinet Pull Out 2 Tier"
-    }
-   ]
+   "subheading": "By Rotation Style",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick"
+    ],
+    "rows": [
+     [
+      "Single combined swing arm, both tiers move together",
+      "DWVO 2-Tier Blind Corner Pull-Out Organizer"
+     ],
+     [
+      "Two independently rotating trays",
+      "Kinchoix Blind Corner Cabinet Pull Out Organizer 36-inch"
+     ],
+     [
+      "Wire basket pull-out system, not a rotating tray",
+      "VADANIA Blind Corner Pull Out Organizer"
+     ],
+     [
+      "Rotating four-drawer lazy Susan style",
+      "STORKING Blind Corner Cabinet Pull Out 2 Tier"
+     ]
+    ]
+   }
   },
   {
-   "heading": "For Aging Hands and Limited Mobility Specifically",
-   "type": "cards",
+   "subheading": "For Aging Hands and Limited Mobility Specifically",
    "cards": [
     {
-     "title": "Look for",
-     "description": "Soft-close hardware so trays do not slam shut, ball-bearing or smooth glide mechanisms that need minimal force to open, and lower-positioned trays that reduce bending or reaching deep into a dark corner."
+     "label": "Look for",
+     "text": "Soft-close hardware so trays do not slam shut, ball-bearing or smooth glide mechanisms that need minimal force to open, and lower-positioned trays that reduce bending or reaching deep into a dark corner."
     },
     {
-     "title": "In this comparison",
-     "description": "DWVO's soft-close glide and STORKING's ball-bearing drawer slides both reduce the physical effort needed to access a loaded organizer, while VADANIA's reversible mount means a caregiver or adult child can install it correctly on the first attempt regardless of door hinge side."
+     "label": "In this comparison",
+     "text": "DWVO's soft-close glide and STORKING's ball-bearing drawer slides both reduce the physical effort needed to access a loaded organizer, while VADANIA's reversible mount means a caregiver or adult child can install it correctly on the first attempt regardless of door hinge side."
     }
    ]
   },
   {
-   "heading": "When to Spend More",
-   "type": "cards",
+   "subheading": "When to Spend More",
    "cards": [
     {
-     "title": "Spend more if",
-     "description": "You store heavy cast iron or a stand mixer and want a stated load rating like DWVO's 33 pounds per shelf, or you live in a humid kitchen and want VEVOR's stated rust-resistant chrome-plated frame for long-term durability."
+     "label": "Spend more if",
+     "text": "You store heavy cast iron or a stand mixer and want a stated load rating like DWVO's 33 pounds per shelf, or you live in a humid kitchen and want VEVOR's stated rust-resistant chrome-plated frame for long-term durability."
     },
     {
-     "title": "Save if",
-     "description": "You have a smaller 30-inch blind corner and mostly store lightweight pantry items, where the compact Kinchoix 30-inch swing-left organizer covers the basics without paying for extra drawer capacity you will not use."
+     "label": "Save if",
+     "text": "You have a smaller 30-inch blind corner and mostly store lightweight pantry items, where the compact Kinchoix 30-inch swing-left organizer covers the basics without paying for extra drawer capacity you will not use."
     }
    ]
   }
