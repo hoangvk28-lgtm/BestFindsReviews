@@ -1,0 +1,13 @@
+# patio heater research
+- Electric infrared suits a defined seating area near an outlet; propane suits open or movable setups; natural gas suits a fixed, professionally installed spot.
+- Electric patio heaters generally top out around 1500W (the common 120V household circuit limit); propane units offer far more heat, rated in BTU.
+- Infrared heats people and objects directly, so it holds up better in breeze. Propane warms the air around it and works best in open, covered-but-ventilated areas.
+- Rated BTU alone does not predict comfort: reflector design, distance, wind and ceiling height all change real coverage.
+- A rough sizing rule seen in buying guides is about 20 BTU per square foot, plus a buffer for wind. Treat it as a guide and follow the maker's coverage figure.
+- Propane units need more clearance from flammables, awnings and low ceilings than infrared units. Always follow the manual's clearance distances.
+- Look for tip-over shutoff and flame-out (flame failure) protection on gas heaters; overheat protection and tip-over shutoff on electric.
+- Fuel-burning heaters are outdoor only because of carbon monoxide risk. Only electric units are rated for indoor use, and only if the listing says so.
+- Certification marks (ETL, CSA, UL) matter; check the listing text rather than assuming.
+- IP ratings: higher second digit (IP44, IP55, IP65) means better water resistance; rain-rated is not the same as submersion proof.
+- Anchoring or weighting the base helps in windy areas; a sand or water base adds stability for tall gas heaters.
+- Garage-style PTC ceramic fan heaters warm nearby air with a fan; they work in small enclosed spots like garages, greenhouses and screened porches, not open patios in wind.

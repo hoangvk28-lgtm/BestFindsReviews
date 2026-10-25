@@ -1,0 +1,13 @@
+# zero gravity chair
+- Standard zero gravity chairs are often rated around 300 lb; heavy-duty models reach 440 to 500 lb with thicker steel tubing.
+- Standard seat width is about 19-20 in; wide models run 24, 29 or 33 in.
+- A positive lock that holds the recline angle matters more than any padding; friction locks can slip at lighter body weights.
+- Bungee cords and the lock are the wear parts; replaceable cords extend chair life.
+- Padded polyester with higher GSM cushioning is warmer and softer; textilene mesh breathes better in heat but cushions less.
+- Seat height and fully reclined length matter for tall users; a 72 in reclined length suits taller frames.
+- Check getting in and out: low seat height and a lock that releases smoothly help older users.
+- Folding weight and carry handle matter if the chair moves between patio and storage.
+- Zero gravity positioning raises the legs near heart level; a gentle recline is fine, but anyone with a medical condition should ask a clinician before long sessions.
+- Canopies add shade but can catch wind; check angle adjustment and do not leave chairs open in gusts.
+- Sets of two save storage per chair but the pair shares one decision; check each chair has its own tray and lock.
+- Cup trays and side tables often clip on and can loosen; check how they attach.

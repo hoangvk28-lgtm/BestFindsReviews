@@ -1,0 +1,11 @@
+# watering wand
+- Length should follow layout: roughly 15-18 in for raised beds and ground-level pots, 30-36 in for hanging baskets and deep shrub borders.
+- Longer wands reach farther but are harder to maneuver and heavier at the tip; buyers often start short and go longer only if needed.
+- Metal construction (aluminum tube, zinc alloy or stainless fittings) tends to outlast plastic under daily use and drops.
+- Thumb or trigger shutoff at the handle saves walking back to the spigot and cuts wasted water; thumb controls are often easier on tired hands.
+- A swivel or ratcheting head helps reach under foliage and over tall plants; check that the ratchet holds its angle.
+- Soft rain shower heads with hundreds of small holes protect seedlings and delicate flowers; the head should unscrew so clogs can be cleared.
+- Multi-pattern dials (shower, mist, jet, flat, cone) add versatility but more parts can loosen over time.
+- Common mistakes: buying too long for small patios, ignoring wand weight when wet, choosing by pattern count rather than the pattern actually used.
+- Hose-end threads should be checked for a seated washer; most leaks come from a missing or worn rubber washer.
+- Drain and store wands out of freezing weather; trapped water can crack plastic parts.

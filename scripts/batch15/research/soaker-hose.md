@@ -1,0 +1,12 @@
+# Research: soaker hose (seed)
+- Common lengths 25, 50, 75, 100 ft; very long runs lose pressure toward the far end, often cited to keep a run under about 100 ft.
+- Kinks block flow; uncoil and let the hose relax in the sun before laying out.
+- Flush a new hose and flush a few times a season to clear debris.
+- Cover with 2 to 3 inches of mulch to protect from sun and cut evaporation; do not bury deeply and mark location.
+- Soaker hoses water most evenly on level ground; connect separate lengths with solid hose on slopes.
+- Soaker hoses work best at low pressure; a pressure regulator is commonly advised if the spigot is high. Follow maker rating.
+- Flat fabric hoses are easy to lay and linkable; round rubber hoses are heavier and tend to be durable for permanent runs.
+- Water runs slowly, so run time is long (often 30 to 90+ minutes depending on soil) and a timer prevents forgetting.
+- Hard water minerals can clog pores over time; drain and store in winter to avoid freeze damage.
+- 1/4 inch soaker tubing suits short runs and containers with micro drip systems; 1/2 and 5/8 inch suit garden beds.
+- Brass fittings resist cracking compared with plastic; check threads are standard 3/4 inch garden hose.

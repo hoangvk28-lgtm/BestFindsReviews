@@ -1,0 +1,11 @@
+# hose reel cart research
+- Capacity is rated for a standard hose, usually 5/8 inch. A thicker 3/4 inch hose takes more drum space, so real capacity is lower than marketed.
+- Overfilling beyond rated length causes uneven winding, difficulty cranking, and strain on the frame.
+- Larger drum diameter reduces kinking and coil memory.
+- Materials: powder-coated steel, aluminum and polypropylene resist corrosion; steel can rust over time in humid climates if coating chips.
+- Very large cart for a small yard adds bulk and reduces maneuverability.
+- Two-wheel carts tip back and carry weight on the handler; four-wheel carts stand on their own.
+- Hose guides help wind evenly; angled brass connectors reduce kinking at the connection.
+- Expandable hoses are not suited to many reels (some makers say so explicitly).
+- Check mounting surface for wall mounted units.
+- Rated lengths assume hose not included; the weight of a full hose adds to the cart load.

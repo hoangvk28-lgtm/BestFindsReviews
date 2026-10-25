@@ -1,0 +1,13 @@
+# plant stand research
+- Weigh pots as they will actually be: watered soil is far heavier than dry soil, so judge capacity against the saturated weight.
+- Capacity is often listed per shelf and for the whole stand; entry-level shelves may only hold about 20 to 30 pounds each. A listing that says decorative use only is a warning sign.
+- Put the heaviest pots on the lowest tiers to keep the center of gravity low.
+- A stand is only as stable as its base is wide relative to its load. Tall narrow frames need a wider base, bracing, or adjustable feet, especially on carpet.
+- Non-slip pads or adjustable feet help on uneven floors.
+- For corner placement, roughly 40 to 52 inches reads as a strong vertical line; check ceiling and window sill height.
+- Shelf spacing: measure the tallest pot plus foliage and allow at least 2 inches of spare clearance.
+- Drainage: use saucers or perforated trays over a floor you care about; wood and MDF swell if water sits on them.
+- Wood outdoors needs treatment; metal needs a rust-resistant coating; MDF is indoor only.
+- Grow-light stands need an outlet near the stand and a timer; full-spectrum LEDs are supplemental, not a replacement for a bright window for demanding plants.
+- Many retail roundups are affiliate content with unverified capacity claims, so rely on stated specs and general principles.
+- Tiered or staggered designs let light reach lower shelves; ladder designs lean on a wall or corner.

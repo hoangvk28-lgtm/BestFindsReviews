@@ -38,7 +38,8 @@ for (const a of loadArticles().filter((x) => x.id >= from && x.id <= to)) {
   if (relevant() < 6 && !p.refetched) {
     for (const q of [a.title.replace(/^best\s+/i, ""), `${a.keyword} ${a.seed}`]) {
       const seen = new Set(p.items.map((x) => x.asin));
-      for (const it of await search(q)) if (!seen.has(it.asin)) p.items.push(it);
+      const inBudget = (it) => { const x = parseFloat(String(it.price).replace(/[^0-9.]/g, "")); return !a.tier || (x > 0 && x <= a.tier); };
+      for (const it of await search(q)) if (!seen.has(it.asin) && inBudget(it)) p.items.push(it);
       if (relevant() >= 6) break;
     }
     p.refetched = true;

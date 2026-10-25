@@ -26,6 +26,13 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch15") {
+    // Keyword 23.10 outdoor/garden batch: best + under-budget ladder guides
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch15-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword,
+      niche: r.tier ? "Budget" : "Home & Garden",
+      why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle; seniors-friendly ease of use is a plus where relevant.`, note: "" }));
+  }
   if (process.env.BATCH === "batch13") {
     return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch13-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", niche: "Budget", why: `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).`, note: "" }));
   }
@@ -57,7 +64,7 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === resolve(process.argv[1
   for (const a of loadArticles().filter((x) => x.id >= from && x.id <= to)) {
     const out = resolve(dir, `${a.slug}.json`);
     if (existsSync(out)) continue;
-    const query = a.type === "Comparison" ? a.seed : a.keyword;
+    const query = a.query || (a.type === "Comparison" ? a.seed : a.keyword);
     let items = [];
     for (let attempt = 0; attempt < 3 && !items.length; attempt++) {
       const res = await fetch("https://creatorsapi.amazon/catalog/v1/searchItems", { method: "POST",
@@ -72,7 +79,8 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === resolve(process.argv[1
       brand: i.itemInfo?.byLineInfo?.brand?.displayValue || i.itemInfo?.byLineInfo?.manufacturer?.displayValue || "",
       price: i.offersV2?.listings?.[0]?.price?.money?.displayAmount || "", img: i.images?.primary?.large?.url || "",
       features: (i.itemInfo?.features?.displayValues || []).slice(0, 5) }))
-      .filter((p) => p.asin && p.title && p.img);
+      .filter((p) => p.asin && p.title && p.img)
+      .filter((p) => !a.tier || ((x) => x > 0 && x <= a.tier)(parseFloat(String(p.price).replace(/[^0-9.]/g, ""))));
     writeFileSync(out, JSON.stringify({ ...a, query, fetchedAt: new Date().toISOString().slice(0, 10), items: picks }, null, 1));
     console.log(`${a.id} ${a.slug} ${picks.length}`);
     await new Promise((r) => setTimeout(r, 1100));

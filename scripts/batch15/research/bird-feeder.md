@@ -1,0 +1,14 @@
+# Research: bird feeder
+- Seed feeders should be cleaned about every two weeks (Clemson Extension, Sequoia Audubon), more often in wet weather, heavy traffic, winter, or if sick or dead birds appear.
+- Standard sanitizing wash: 1 part bleach to 9 parts water (10%), soak or pour and let sit about 10 minutes, scrub with a stiff brush, rinse with plain water, dry fully before refilling.
+- Vinegar does not kill bacteria, mold or yeast; not a substitute for bleach on seed feeders.
+- If sick or dead birds are seen, take feeders and baths down and wait at least a month after the last sighting before rehanging. Wear gloves, wash hands after.
+- Plastic, metal and glass are easier to sanitize than wood or clay, which absorb moisture.
+- Look for a roof to keep seed dry, drainage in the base, a clear window to check seed level, and a design that opens without tools.
+- Pole feeders: about 5 feet off the ground, cone baffle at least 17 inches wide, at least 10 feet from the nearest tree, shrub or structure.
+- Dome baffles on hanging feeders: about 15 to 18 inches wide, roughly 6 inches above the feeder; too low or too close is ineffective.
+- A baffle does nothing if squirrels can jump from a shed, fence or branch.
+- Window collisions: place feeders within about 3 feet of a window or more than 30 feet away.
+- Finches favor nyjer/thistle in tube feeders; cardinals favor sunflower in hoppers or platforms; platform feeders suit the widest range of species.
+- Sweep up spilled seed and hulls about once a month.
+- Bird baths need fresh water and regular scrubbing.

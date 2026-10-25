@@ -1,0 +1,12 @@
+# Research: rocking chair (seed)
+- Seat height for easy standing is commonly cited at about 17 to 20 inches; feet flat with knees near 90 degrees.
+- Armrests should be sturdy, wide enough to grip, and extend slightly past the front of the seat to help push up.
+- Too-soft, plush seats make getting out harder; a firmer seat is easier for standing.
+- Wide base and sturdy frame matter for stability; rockers add motion, so test standing from the chair.
+- Rocker geometry (tipping risk when rising) is rarely covered by sellers; check runner length and anti-slip pads.
+- Glider vs rocker: gliders move on a linkage or short curve, rockers on curved runners; recliners with 30 degree rocking add a footrest.
+- Outdoor HDPE (high density polyethylene) resists moisture and UV and needs no painting; wood needs sealing.
+- Cushions: seat and back sizes vary (17x17 seat, 17x21 back is common); measure seat width, depth and back height before buying.
+- Ties plus a non-slip bottom keep cushions from sliding on a rocker as it moves.
+- Foam density and fill (memory foam, polyester, cotton blend) decide whether a cushion flattens; waterproof covers suit porches.
+- Check posted weight capacity (300, 350, 450 lb in these listings) with margin.
