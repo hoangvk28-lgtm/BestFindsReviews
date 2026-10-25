@@ -33,6 +33,10 @@ export function loadArticles() {
       niche: r.tier ? "Budget" : "Home & Garden",
       why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle; seniors-friendly ease of use is a plus where relevant.`, note: "" }));
   }
+  if (process.env.BATCH === "batch14") {
+    // Keyword senior 22.11 batch: niche + budget guides, product pools from scripts/stage-a.mjs
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch14-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.pillar, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: r.supporting || "", type: "Best", status: "", niche: r.type === "budget" ? "Budget" : r.group, why: r.type === "budget" ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Niche angle: ${r.keyword.replace(/^best /, "")}. Every pick must genuinely fit this angle; senior relevance: ${r.rel}.`, note: "" }));
+  }
   if (process.env.BATCH === "batch13") {
     return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch13-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", niche: "Budget", why: `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).`, note: "" }));
   }

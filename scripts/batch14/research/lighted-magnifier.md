@@ -1,0 +1,11 @@
+# lighted-magnifier research (WebSearch, 2026-10)
+- Higher power narrows field of view; less of a sentence or page is visible, which slows reading and adds fatigue.
+- Use the lowest power that reads comfortably. Starting points: 3.5x for newspapers and mail, 5x for fine print and labels.
+- One stand-magnifier grouping: up to 3x for large print and books, 4x to 10x for standard reading, labels and maps, 12x to 30x for fine print and hobbies.
+- More light often lets you use lower power; built-in LEDs bring light onto the page.
+- Stand magnifiers hold a fixed focus height, helping people with arthritis or tremor; handhelds suit quick tasks if grip is good, with wide cushioned handles.
+- Stand models leave hands free but are bulkier.
+- Retailers market 3x wide-view models for early to mid AMD; these are vendor claims.
+- Decide the task first (reading, prices, crafts) and buy where returns or trials are allowed.
+- Magnifier use takes practice; a low-vision evaluation is the best way to choose power.
+- Electronic video magnifiers typically run 2x to 12x for users who struggle with optical ones.

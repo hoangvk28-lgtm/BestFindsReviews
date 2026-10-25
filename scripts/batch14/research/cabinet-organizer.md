@@ -1,0 +1,11 @@
+# cabinet-organizer research (WebSearch, 2026-10)
+- Measure the interior opening, not the outer frame; an organizer sized to the frame may not clear the door or let it close.
+- Measure width at the top, middle and bottom and use the smallest figure, since cabinet walls can bow or warp.
+- Measure the height of each shelf space separately, noting top lips or frames that limit how high you can lift items in.
+- Record height, width and depth with a metal tape; do not estimate.
+- Adjustable-shelf peg pins can protrude and stop risers or bins sitting flat; check before buying.
+- Hinges, magnetic latches and face-frame lips limit how a slide-out or bin slides in.
+- Slide-out makers typically leave about 1/4 inch clearance each side; account for it when choosing between close sizes.
+- Check each riser's rated capacity; wide, flat legs or a continuous frame spread load across the shelf better than narrow feet.
+- Low risers for lower shelves help older users see and reach items without bending as far.
+- Sellers' capacity numbers are claims, not independent tests.

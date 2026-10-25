@@ -1,0 +1,12 @@
+# large-print-keyboard research (WebSearch, 2026-10)
+- "4x larger" lettering is the common marketing claim; one guide suggests 2x to 4x. It is unverified, so compare printed key dimensions.
+- High-contrast schemes cited: black on white, black on yellow (VisionBoard 2 makers say easier than white on black), yellow on black.
+- Backlighting helps in dim rooms but needs adjustable brightness to avoid glare; some models reset to a default color at power-up.
+- Avoid RGB models with flashing or color-changing effects; they can disorient light-sensitive users.
+- Slightly spaced keys can reduce accidental double presses for arthritic hands.
+- Look for a light, consistent key press and bold legends if arthritis is a concern.
+- Wired avoids battery concerns; wireless uses a USB receiver (needs a USB port) or Bluetooth (pairs with more devices).
+- Some models offer both USB-C wired and Bluetooth with two-device switching.
+- Full-size layout with numeric keypad and wrist rest are common features.
+- Inexpensive large-print overlays are an option for an existing keyboard.
+- Keycap shape and spacing are personal; try in person if possible.

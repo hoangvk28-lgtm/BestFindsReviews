@@ -1,0 +1,11 @@
+# lint-roller research (WebSearch, 2026-10)
+- Two types: reusable handle with refill rolls, or disposable one-piece rollers.
+- Sheets per roll typically run 56 to 120; listings range from about 56 sheets to 100 and 120.
+- Compare price per sheet, not sheet count; multi-packs are often cheaper per sheet (listings showed roughly 5 to 17 cents per sheet).
+- Refill-only packs are sold separately; confirm the refill fits your handle brand.
+- Check packaging for the surface and use: extra-sticky for pet hair, or scented tape as an extra.
+- Disposable tape creates waste; reusable washable rollers are an alternative.
+- Standard rollers are about 4 inches wide; jumbo versions approach 6.5 inches and cover clothing faster.
+- A larger easy-grip handle helps people with arthritic hands tear sheets and roll with less pressure.
+- Adhesive loses tack after a few swipes on heavy pet hair; best for light touch-ups.
+- Sources are retailer listings; prices and counts shift.

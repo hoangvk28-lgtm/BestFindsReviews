@@ -1,0 +1,11 @@
+# book light research (WebSearch, 2026-10)
+- Warm amber (about 1800K to 3200K) is generally recommended for bedtime reading; cooler 5000K to 6000K suits focused daytime reading. Adjustable color temperature lets you switch by time of day.
+- For close-up page reading, roughly 15 to 50 lumens is typically sufficient; very high output causes harsh glare on white paper.
+- Raw lumen numbers matter less than beam quality, color and flicker-free output.
+- Neck lights make a light bubble for the wearer without disturbing others, but are bulkier and less portable than clip-ons.
+- A good clip mount does not flop over when you turn the page; check clip padding and neck rigidity.
+- USB-C rechargeable is now standard; runtime drops sharply at the highest brightness, so compare runtimes at a stated brightness level.
+- Older eyes: an optometry publication says a 65-year-old needs at least twice the light of a 21-year-old.
+- American Lighting Association: look for 2700 to 3000K for general lighting, CRI of 80 or more (Shipshape suggests 90 or more); cooler 3500 to 4000K renders colors better for reading small labels.
+- Glare: avoid exposed bright sources and shiny surfaces; shield the bright part of the light; use dimmers to match room conditions.
+- Individual vision varies, so adjustable brightness beats one fixed setting.

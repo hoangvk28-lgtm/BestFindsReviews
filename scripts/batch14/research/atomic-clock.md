@@ -1,0 +1,12 @@
+# atomic-clock research (WebSearch, 2026-10)
+- WWVB transmits from Fort Collins, Colorado at 60 kHz; manufacturers cite roughly 2,000 miles of range.
+- These clocks are quartz-based and only correct themselves when a signal is received; between syncs they run on quartz.
+- Reception is much better at night; clocks usually search overnight. Electrical storms between you and Colorado can block it.
+- NIST: place clock along a wall or near a window facing Fort Collins; antennas are directional, so rotate desktop units 90 degrees or use a perpendicular wall.
+- Keep at least 1 to 2 meters from computer monitors (NIST); La Crosse says six feet from TVs, computers, AC units; Acurite says up to 10 feet.
+- Massive metal and concrete structures block the signal unless near a window; metal siding or aluminum frames can hurt reception.
+- At 60 kHz there can be temporary reception nulls at certain distances; the East Coast and mountainous regions can be weaker.
+- A partial tower/signal icon means reposition the clock. Do not press buttons for about four minutes during first search.
+- Low batteries can stop syncing; fresh alkaline cells recommended. Some models allow forcing a search by holding a button 3 to 10 seconds; a failed search can take about 12 minutes.
+- "Enhanced reception" is a manufacturer claim, not an independent result. Coverage is not guaranteed everywhere.
+- Legacy-format clocks often misorient the antenna and suffer man-made noise, so placement matters more than model.

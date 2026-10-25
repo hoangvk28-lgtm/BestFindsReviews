@@ -1,0 +1,11 @@
+# dish-rack research (WebSearch, 2026-10)
+- Plastic racks clean easily but can develop mold and discoloration over time.
+- Wood is generally not recommended because of mold, rot and cracking.
+- Coated steel is cheaper, but chipped coating lets moisture reach the metal and rust; stainless resists corrosion better and costs more.
+- Rounded contours with few tight corners and crevices resist mold and clean more easily.
+- Too little capacity leads to stacking wet dishes, which slows drying and may promote bacterial growth.
+- Drainage matters: a tilted rack, drainage spout or drip tray moves water off. A removable drip tray is easier to clean.
+- Size for the load: one or two people can use a compact rack; families need tiers or dividers for pots.
+- Measure counter or sink space including spouts and any upper tiers.
+- Removable cutlery holders make cleaning easier and help prevent mold.
+- Light racks that empty easily suit users with limited grip or reach; sources do not give weight thresholds.

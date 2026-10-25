@@ -1,0 +1,483 @@
+{
+ "guideTitle": "6 Best Smart Bulbs Under $15 (2026)",
+ "metaTitle": "Best Smart Bulbs Under $15 (2026)",
+ "metaDescription": "Six budget smart bulbs compared on brightness, voice assistant support and setup, so you can add easy voice and app control without a hub.",
+ "introParagraphs": [
+  "A smart bulb is one of the simplest upgrades for anyone who would rather say a sentence than reach for a switch, and the budget end has more choice than ever. The six picks here range from the Amazon Basics bulb that works with Alexa only to the Govee that lists Matter, and from 800 lumens on most to 1350 lumens on the Lightinginside. We evaluated them based on product specs and buyer feedback, ranking them on how simple they are to set up and live with.",
+  "Brightness and platform support differ more than colors do. The Govee and Meliya both list 16 million colors, the Philips adds Siri support and SpaceSense motion sensing, and the Feit and Amazon Basics keep things simple with Alexa focused setups. Every one connects over Wi-Fi, so a 2.4 GHz network is the main setup requirement across the group.",
+  "Spending more would buy hub-based systems with steadier performance across many lights, better color rendering and longer warranties. For one to three lamps, the picks below are plenty. The sections that follow show which bulb matches your voice assistant, your room and your patience for apps."
+ ],
+ "products": [
+  {
+   "i": 1,
+   "badge": "Best Overall",
+   "name": "Govee A19 Color Changing Smart Bulb",
+   "specs": [
+    "800 lumens",
+    "Matter support",
+    "Alexa and Google",
+    "54 scene modes"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "800 lumens, E26 base"
+    },
+    {
+     "label": "Platforms",
+     "value": "Matter, Alexa, Google Assistant"
+    },
+    {
+     "label": "Colors",
+     "value": "16 million"
+    },
+    {
+     "label": "Scenes",
+     "value": "54 presets, music sync"
+    }
+   ],
+   "description": "The Govee A19 is the only pick in this guide that lists Matter support alongside Alexa and Google Assistant, which gives it the widest ecosystem reach at this budget. It outputs 800 lumens from an E26 base, the standard brightness for a household A19 bulb. Sixteen million colors and 54 preset scene modes sit behind the Govee Home app.\n\nMatter helps only if your controller is also Matter-certified, so the label does not remove the need for a compatible hub or speaker. Music sync uses the phone's microphone, which makes it more of a party feature than a daily one. The app is rich, but that richness means more menus for someone who just wants the light to turn on.\n\nSetup means screwing the bulb in, pairing through the app and joining a 2.4 GHz network, since Wi-Fi bulbs commonly fail on 5 GHz. Leave the wall switch on, because cutting power kills the connection. Against the Lightinginside it offers broader platform support but 550 fewer lumens, and against the Philips it lacks the motion sensing feature.",
+   "bestFor": "Households that want a bulb ready for multiple assistants",
+   "pros": [
+    "Lists Matter, Alexa and Google support",
+    "800 lumens matches a standard household bulb",
+    "16 million colors with 54 preset scenes",
+    "Music sync adds a fun extra"
+   ],
+   "cons": [
+    "Matter needs a certified controller to matter",
+    "App has many menus for simple needs",
+    "Costs more than the lowest-cost picks"
+   ]
+  },
+  {
+   "i": 2,
+   "badge": "Brightest Bulb",
+   "name": "Lightinginside 1350 Lumen Smart Bulb",
+   "specs": [
+    "1350 lumens",
+    "11W",
+    "No hub",
+    "Alexa and Google"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "1350 lumens, 100W equivalent"
+    },
+    {
+     "label": "Power use",
+     "value": "11W"
+    },
+    {
+     "label": "Hub",
+     "value": "None required"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa, Google Assistant"
+    }
+   ],
+   "description": "The Lightinginside bulb is the brightest in the group, rated at 1350 lumens from 11W, the equivalent of a 100W incandescent. It needs no hub and works with Alexa and Google Assistant through the SmartLife app over Wi-Fi. That makes it a good choice for a kitchen, a hallway or a large room.\n\nIt is sold as a single bulb, so lighting a whole room costs more than a multi-pack listing suggests. The high output can be too bright for a bedside lamp unless you dim it down. SmartLife is a generic app, so the interface is more functional than polished.\n\nThe listing notes that you can connect locally over Bluetooth for first setup, which can ease pairing, and 2.4 GHz is the safe network assumption for a bulb like this. Remember to leave the wall switch on after setup. Compared with the Govee it is far brighter but lacks Matter, and versus the Amazon Basics it has far wider voice assistant support.",
+   "bestFor": "Large rooms that need 100W-class light",
+   "pros": [
+    "1350 lumens is the brightest here",
+    "Only 11W of power use",
+    "No hub needed",
+    "Voice control through Alexa or Google"
+   ],
+   "cons": [
+    "Sold as a single bulb",
+    "May be too bright for a bedside lamp",
+    "Matter is not listed"
+   ]
+  },
+  {
+   "i": 0,
+   "badge": "Best With Siri and Motion",
+   "name": "Philips WiZ Color A19 Smart Bulb 2-Pack",
+   "specs": [
+    "800 lumens each",
+    "Alexa, Google, Siri",
+    "SpaceSense motion",
+    "16 million colors"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "800 lumens each, 60W equivalent"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa, Google Home, Siri"
+    },
+    {
+     "label": "Motion",
+     "value": "SpaceSense sensing"
+    },
+    {
+     "label": "Colors",
+     "value": "16 million, tunable whites"
+    }
+   ],
+   "description": "The Philips pair uses the WiZ platform and gives you two color A19 bulbs at 800 lumens each, equal to a 60W bulb. The standout feature is SpaceSense, which senses motion in the room and turns lights on and off automatically. It works with Alexa, Google Home and Siri, and a WiZ remote is available for non voice control.\n\nThe remote matters for people who do not like talking to a speaker, since it brings back a physical switch. Requiring the WiZ app is a trade-off, and 800 lumens is modest for a large room. SpaceSense is useful in hallways and bathrooms but can feel odd where you sit still.\n\nTwo bulbs cover a pair of lamps, and the app guides setup in a few minutes. Wi-Fi bulbs commonly need a 2.4 GHz network, so check your router first.",
+   "bestFor": "Apple households and anyone who wants motion-triggered light",
+   "pros": [
+    "Works with Alexa, Google Home and Siri",
+    "SpaceSense turns lights on automatically",
+    "WiZ remote adds a no-voice option",
+    "16 million colors and tunable whites"
+   ],
+   "cons": [
+    "Requires the WiZ app",
+    "800 lumens is modest for large rooms"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Lowest Cost",
+   "name": "Feit Electric A19 RGBW Smart Bulb",
+   "specs": [
+    "60W equivalent",
+    "RGBW color",
+    "2.4GHz Wi-Fi",
+    "Alexa and Google"
+   ],
+   "specList": [
+    {
+     "label": "Equivalent",
+     "value": "60W"
+    },
+    {
+     "label": "Colors",
+     "value": "16 million, tunable whites"
+    },
+    {
+     "label": "Network",
+     "value": "2.4GHz Wi-Fi, no hub"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa, Google Assistant"
+    }
+   ],
+   "description": "The Feit bulb is the lowest-cost pick in this guide, an A19 RGBW bulb equal to a 60W incandescent. It offers over 16 million colors plus tunable whites from warm to cool, and it works with Alexa and Google Assistant. It connects directly over 2.4 GHz Wi-Fi and needs no hub.\n\nThe listing says to keep the bulb within about 30 feet of your router, which is a practical limit for upstairs or garage lamps. It is a single bulb with no motion feature and no Matter label. It suits someone who wants a first smart bulb without paying for extras.\n\nSetup is a screw-in, an app pairing and a 2.4 GHz check, with the wall switch left on. Compared with the Meliya it has fewer scene features but a plain voice setup, and next to the Lightinginside it gives far less light.",
+   "bestFor": "A first smart bulb at the lowest cost",
+   "pros": [
+    "Lowest cost in this lineup",
+    "RGBW color with tunable whites",
+    "Works with Alexa and Google",
+    "No hub required"
+   ],
+   "cons": [
+    "Single bulb only",
+    "Needs to be within about 30 feet of the router",
+    "No Matter or motion features"
+   ]
+  },
+  {
+   "i": 3,
+   "badge": "Easiest Alexa Setup",
+   "name": "Amazon Basics Smart A19 Color Bulb",
+   "specs": [
+    "800 lumens",
+    "9W",
+    "Alexa only",
+    "2.4GHz Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "800 lumens, 60W equivalent"
+    },
+    {
+     "label": "Power use",
+     "value": "9W"
+    },
+    {
+     "label": "Platform",
+     "value": "Alexa only"
+    },
+    {
+     "label": "Colors",
+     "value": "16 presets, dims to 5 percent"
+    }
+   ],
+   "description": "The Amazon Basics bulb is built for Alexa and nothing else, which makes setup as simple as screwing it in and waiting for the Alexa app to announce it found the first bulb. It draws 9W for 800 lumens, a 60W equivalent, and it dims down to 5 percent. It also offers 16 preset color choices.\n\nBecause it works with Alexa only, Google or Apple households will not be able to use it. The 2.4 GHz Wi-Fi requirement still applies, so check your router. It is a good fit for an Echo household that wants the least possible setup.\n\nThere is no separate app to learn, which helps first-time users. The 16 presets are fewer than the 16 million colors on the others, but most people use a few warm whites and an occasional color. Next to the Lightinginside it gives much less light, and next to the Feit it trades platform choice for easier Alexa setup.",
+   "bestFor": "Echo households that want the simplest setup",
+   "pros": [
+    "Setup entirely in the Alexa app",
+    "800 lumens from 9W",
+    "Dims down to 5 percent",
+    "No extra app to learn"
+   ],
+   "cons": [
+    "Works with Alexa only",
+    "Only 16 preset colors",
+    "Half the light of the 1350 lumen bulb"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Most Scene Options",
+   "name": "Meliya Color Changing Smart Bulb",
+   "specs": [
+    "Wi-Fi and Bluetooth",
+    "16 million colors",
+    "44 preset scenes",
+    "Alexa and Google"
+   ],
+   "specList": [
+    {
+     "label": "Connection",
+     "value": "2.4GHz Wi-Fi and Bluetooth"
+    },
+    {
+     "label": "Colors",
+     "value": "16 million, tunable white"
+    },
+    {
+     "label": "Scenes",
+     "value": "44 presets, music sync"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa, Google Assistant"
+    }
+   ],
+   "description": "The Meliya bulb combines Wi-Fi and Bluetooth, which gives it two ways to connect and makes first pairing easier. It supports Alexa and Google Assistant, offers 16 million colors with tunable white, and includes 44 preset scenes. Music sync reacts to sounds picked up by your phone.\n\nFew hard specs are listed, such as lumen output, so you cannot tell how bright it is compared with the 800 lumen picks. That thin documentation is the main reason it ranks last. It is a decent choice for decorative color use, but less proven for task lighting.\n\nAs with any Wi-Fi bulb, 2.4 GHz is the network band to use. Keep the wall switch on so the bulb stays connected. Compared with the Govee it offers fewer scenes and no Matter, and against the Feit it adds Bluetooth pairing but gives no brightness figure.",
+   "bestFor": "Mood lighting and decorative scenes",
+   "pros": [
+    "Wi-Fi and Bluetooth connection options",
+    "16 million colors with tunable white",
+    "44 preset scenes",
+    "Works with Alexa and Google"
+   ],
+   "cons": [
+    "No brightness figure on the listing",
+    "No Matter support listed",
+    "Better for mood than for task light"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Brightness in lumens",
+   "explanation": "About 800 lumens is the standard for an A19 household bulb, and 1,100 to 1,600 lumens suit brighter rooms. The Lightinginside leads at 1350 lumens from 11W, while the Govee, Philips and Amazon Basics sit at 800 lumens. The Feit lists only a 60W equivalent, and the Meliya gives no figure. Match the lumens to the room: 800 for a lamp, more for a kitchen."
+  },
+  {
+   "criterion": "Voice assistant fit",
+   "explanation": "A bulb is only useful if it works with the assistant you already own. The Amazon Basics is Alexa only, the Philips adds Siri, and the Govee, Lightinginside, Feit and Meliya cover Alexa and Google. Voice failures usually point to connectivity rather than a faulty assistant. Check your speaker before you buy, not after."
+  },
+  {
+   "criterion": "Wi-Fi band and range",
+   "explanation": "Most Wi-Fi bulbs need a 2.4 GHz network, and joining 5 GHz is a common setup failure. The Feit's listing asks you to stay within about 30 feet of the router. Dual-band routers usually work fine. A weak signal at the lamp is the usual reason a bulb goes offline."
+  },
+  {
+   "criterion": "Power switch behavior",
+   "explanation": "A bulb needs constant power, so a wall switch, pull chain or tripped breaker kills the radio and voice commands fail. Leave the wall switch on, or use a switch cover. After an outage, some bulbs return at full brightness, so check the behavior. This applies to every pick in this guide."
+  },
+  {
+   "criterion": "Color quality",
+   "explanation": "CRI of 90 plus is excellent and low 80s are acceptable, though budget listings rarely state CRI. One test found a budget RGB bulb under 40 CRI at its warmest setting. Bulbs with RGBW or tunable white, like the Feit, Govee and Philips, give cleaner whites than RGB only designs. Tunable white from roughly 2200 to 2700 K suits evenings."
+  },
+  {
+   "criterion": "App, Matter and remote options",
+   "explanation": "The Govee lists Matter, which reduces lock-in but only works with a Matter-certified controller. The Philips offers a WiZ remote for non voice control, and the Amazon Basics needs only the Alexa app. Matter does not fix a bad bulb. Decide how much app time you want to spend."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Brightness and efficiency",
+   "description": "The Lightinginside at 1350 lumens and 11W led, and the Govee, Philips and Amazon Basics matched at 800 lumens. The Meliya scored lowest for documentation because it gives no figure."
+  },
+  {
+   "title": "Platform support",
+   "description": "We looked at which assistants and standards each bulb supports. The Govee with Matter, Alexa and Google scored highest, the Philips scored for Siri, and the Amazon Basics scored lowest for flexibility with Alexa only. The Feit and Meliya landed in the middle with Alexa and Google but no Matter or Siri."
+  },
+  {
+   "title": "Setup simplicity",
+   "description": "We reviewed pairing steps and requirements. The Amazon Basics' Alexa app setup was the simplest, and the Meliya's Bluetooth pairing helped. Bulbs that need extra apps like WiZ and SmartLife scored in the middle."
+  },
+  {
+   "title": "Extra features",
+   "description": "The Philips with SpaceSense and a WiZ remote led, the Govee followed with 54 scenes, and the Feit had the fewest extras. The Feit scored lowest because it offers few extras beyond color and voice control."
+  },
+  {
+   "title": "Value at this budget",
+   "description": "The Govee earned the best value score for Matter and 800 lumens, and the Meliya lost points for missing specs."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Voice Assistant",
+   "intro": "The bulb has to match the assistant you already use.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Recommended pick"
+    ],
+    "rows": [
+     [
+      "Alexa only, simplest setup",
+      "Amazon Basics Smart A19 Color Bulb"
+     ],
+     [
+      "Alexa or Google, brightest light",
+      "Lightinginside 1350 Lumen Smart Bulb"
+     ],
+     [
+      "Apple Siri household",
+      "Philips WiZ Color A19 Smart Bulb 2-Pack"
+     ],
+     [
+      "Matter smart home plans",
+      "Govee A19 Color Changing Smart Bulb"
+     ],
+     [
+      "Alexa or Google, lowest cost",
+      "Feit Electric A19 RGBW Smart Bulb"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "These tiers are relative, since all six picks sit under this guide's cap.",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Recommended pick"
+    ],
+    "rows": [
+     [
+      "Lowest-cost pick",
+      "Feit Electric A19 RGBW Smart Bulb"
+     ],
+     [
+      "Low cost, most scenes",
+      "Meliya Color Changing Smart Bulb"
+     ],
+     [
+      "Mid-range Alexa bulb",
+      "Amazon Basics Smart A19 Color Bulb"
+     ],
+     [
+      "Mid-range brightest bulb",
+      "Lightinginside 1350 Lumen Smart Bulb"
+     ],
+     [
+      "Upper tier with Matter",
+      "Govee A19 Color Changing Smart Bulb"
+     ],
+     [
+      "Highest cost, two bulbs with motion",
+      "Philips WiZ Color A19 Smart Bulb 2-Pack"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Bright Bulb vs Standard Bulb",
+   "intro": "More lumens is not always better for every room.",
+   "cards": [
+    {
+     "label": "Bright bulb",
+     "text": "The Lightinginside at 1350 lumens suits kitchens, hallways and large rooms. It is also the most efficient per lumen at 11W. It can be too bright for a bedside lamp unless dimmed."
+    },
+    {
+     "label": "Standard bulb",
+     "text": "The Govee, Philips and Amazon Basics at 800 lumens suit lamps and bedrooms. They match a 60W bulb. The Feit is also a 60W equivalent."
+    },
+    {
+     "label": "Our recommendation",
+     "text": "Choose the Lightinginside for large rooms and the Govee for everyday lamps."
+    }
+   ]
+  },
+  {
+   "subheading": "By Control Method",
+   "intro": "Voice is not the only way to control a bulb.",
+   "table": {
+    "headers": [
+     "Preference",
+     "Recommended pick"
+    ],
+    "rows": [
+     [
+      "Physical remote option",
+      "Philips WiZ Color A19 Smart Bulb 2-Pack"
+     ],
+     [
+      "Automatic motion-triggered light",
+      "Philips WiZ Color A19 Smart Bulb 2-Pack"
+     ],
+     [
+      "Alexa app only, no extra app",
+      "Amazon Basics Smart A19 Color Bulb"
+     ],
+     [
+      "Bluetooth pairing assist",
+      "Meliya Color Changing Smart Bulb"
+     ],
+     [
+      "Full scene library in an app",
+      "Govee A19 Color Changing Smart Bulb"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a First Smart Lamp Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for easy pairing, a brand your speaker supports and a 2.4 GHz network. Leave the wall switch on, and start with one bulb in a lamp you use daily. Avoid bulbs with long app menus if you want simplicity."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Amazon Basics is the simplest for an Alexa household, and the Feit is the lowest-cost Alexa or Google option. The Govee suits those planning a larger smart home."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you plan more than a few lights, since hub-based Zigbee or Thread systems feel more reliable beyond about 10 to 15 lights. A higher tier also adds better color rendering and documented warranties. The Govee is the nearest in this guide to a future-ready bulb."
+    },
+    {
+     "label": "Save if",
+     "text": "Save with the Feit if you want one or two bulbs for a lamp. The Amazon Basics is good value for Alexa households. Skip the Meliya unless you want decorative scenes."
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I choose between the Govee and the Philips?",
+   "a": "The Govee lists Matter support and 54 scenes, while the Philips pair adds Siri, SpaceSense motion sensing and a WiZ remote option. Both offer 800 lumens. Choose the Govee for platform flexibility and the Philips for Apple homes or motion control."
+  },
+  {
+   "q": "Is a budget smart bulb good enough?",
+   "a": "For one to three lamps, yes. Budget bulbs deliver the core features: voice control, app control and schedules. Spending more buys better color rendering, hub-based reliability and longer warranties."
+  },
+  {
+   "q": "How long do smart bulbs last?",
+   "a": "LED smart bulbs generally last years, but the radio and app support can fail first. Leave the wall switch on and keep your app updated. Replace a bulb that regularly drops offline."
+  },
+  {
+   "q": "Why does my bulb stop responding?",
+   "a": "Voice failures usually mean a connectivity problem, not a faulty assistant. The common causes are a wall switch turned off, a weak 2.4 GHz signal or a router change. Check power and range first."
+  },
+  {
+   "q": "Does Matter make a bulb better?",
+   "a": "Matter reduces lock-in, but both the bulb and your controller must be Matter-certified. The Govee lists Matter support. It does not fix a weak bulb."
+  },
+  {
+   "q": "Can I use these with a wall switch?",
+   "a": "You can, but keep the switch on. Cutting power kills the bulb's connection, so apps and voice commands will fail. A smart switch or a switch cover solves this."
+  }
+ ]
+}
