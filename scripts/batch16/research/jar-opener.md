@@ -1,0 +1,15 @@
+# Jar opener research (seed: jar opener)
+- Standard mason jar lids are about 2.3 to 2.75 inches wide; peanut butter and condiment jars often run about 3.2 to 3.4 inches.
+- Lever or clamp style openers use teeth on the lid edge and a long handle; they multiply twisting force but you still hold the jar.
+- Rubber or silicone grip pads and V-shaped tools are cheap and gentle on lids but still need you to grip and twist.
+- Under-cabinet mounted openers grip the lid so you turn the jar; they need a mounting spot, are not portable, and cabinet clearance limits tall jars.
+- Electric openers take the most manual effort out of the job but cost more, need power or batteries, and only fit a stated lid range.
+- Fixed-hole plate openers (multiple circular sizes) are compact but the lid must match a hole.
+- Adjustable openers cover more sizes but need adjusting before each lid, which takes some dexterity.
+- Stainless steel teeth grip best; sharp teeth can mark lid edges and need care near fingers.
+- Multi-tool openers also handle bottles and pop-top cans, but a dedicated tool may grip better for jars.
+- Vacuum seals cause most stuck lids; breaking the seal first often matters more than torque.
+- Wedging a flat tool such as a bottle opener under the lid rim and levering up releases the seal with a pop; spoons and knives can bend.
+- Running the lid (not the whole glass jar) under warm water expands the metal and can ease it; watch for burns and thermal shock to glass.
+- Tapping the lid edge or the jar base can also break the seal; rubber gloves or a towel add grip.
+- If you cannot grip firmly at all, mounted or electric options suit better than handheld levers.

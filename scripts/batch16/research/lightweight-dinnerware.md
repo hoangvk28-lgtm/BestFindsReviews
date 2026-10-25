@@ -1,0 +1,16 @@
+# Lightweight dinnerware research (seed: lightweight dinnerware)
+- Per-plate weights are rarely published on listings; compare by material (plastic blends and wheat straw lightest, tempered glass like Corelle Vitrelle light for its strength, porcelain mid, stoneware heaviest).
+- Melamine is generally treated as fine for cold and room-temperature food but not for microwaving or holding very hot or acidic food; Hong Kong Centre for Food Safety advises not to heat or cook in melamine-ware or use it in a microwave or oven.
+- Melamine resin is made from melamine and formaldehyde; heat is the main concern for migration into food.
+- Wheat straw sets are a fiber and polypropylene blend; most are rated microwave safe but ratings vary by brand (roughly 100 to 120 C / 212 to 248 F in listings).
+- Standard polypropylene plastic can warp above about 212 F, so check the maker's stated limit before reheating.
+- Corelle Vitrelle is a triple-layer glass: light, chip resistant and microwave safe, but a hard edge drop can still break it.
+- Porcelain is lighter than stoneware for the same size; thin porcelain can chip on hard knocks.
+- Stoneware is the heaviest common material; large service-for-8 stoneware sets are heavy to lift and store.
+- For weak or painful hands, a raised rim helps push food onto a fork; a lower rim can be easier for scooping from, so rim height should match reach and grip.
+- Lightweight suits weak grip, while heavier plates can suit people with tremors; weight is a trade-off, not a pure positive.
+- A non-slip base or suction ring keeps a plate steady for one-handed eating; suction needs a smooth, dry surface.
+- Polypropylene and melamine are the common lightweight materials, ceramic is also offered; always confirm dishwasher and microwave ratings.
+- Stacking and nesting designs cut cabinet space and the number of lifts when unloading the dishwasher.
+- Deep, curved bowls are easier to hold in one hand than flat-rimmed ones.
+- Plastic and wheat straw blends can scuff or stain over time, especially with tomato sauces and turmeric.

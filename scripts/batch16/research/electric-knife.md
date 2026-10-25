@@ -1,0 +1,16 @@
+# electric knife (electric knife sharpeners, slot guides)
+- Electric slot sharpeners use abrasive wheels; stage 1 is coarse (reshape), later stages hone and polish.
+- Common home layouts: 2-stage (coarse plus fine) or 3-stage (coarse, medium or fine, polish).
+- Diamond abrasive wheels are harder than most steels and cut faster; common grits cited in listings are 360 and 600.
+- Angle guides hold the blade steady; 15 degree edges suit Asian and many modern knives, 20 degree edges suit traditional European and American knives.
+- Converting a 20 degree edge to 15 degree thins the edge for finer slicing but needs a first pass on the coarse stage.
+- Some models offer selectable angles (for example 12 to 22 degrees) or speeds; others are fixed.
+- Manufacturer manuals often exclude scissors and serrated knives; Presto limits serrated use to the stage 2 slots on the smooth side only.
+- Never use the coarse stage on serrations; it can strip the tooth tips.
+- Do not force the blade or press down; let the wheels work with light pressure, keeping the blade in contact with the guide.
+- Clean the blade first; dirt can damage the wheels.
+- Resharpening a lightly dull knife takes seconds; a first reshape takes longer. Listings quote 30 to 60 seconds.
+- Ceramic knives need diamond abrasive; check the model states ceramic support.
+- Swarf (metal dust) plates or trays make cleanup easier and keep filings off the counter.
+- Belt systems (Work Sharp style) are more versatile for pocket knives and tools but take more setup than slot designs.
+- Electric knives (carving knives) use reciprocating serrated blades and are not sharpened; blades are replaced or left as is.

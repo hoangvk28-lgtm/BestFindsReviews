@@ -1,0 +1,15 @@
+# Research: vegetable peeler
+- Swivel (straight) peelers have the blade parallel to the handle and pivot to follow produce contour; good for carrots, asparagus, thin delicate skins.
+- Y-peelers put the blade perpendicular to the handle, cover more surface per stroke, and suit large produce like potatoes, squash; handy on a cutting board.
+- Straight peelers give more control on small or delicate produce.
+- Serrated blades grip tougher or slick skins (winter squash, citrus) more reliably than plain edges.
+- Julienne peelers make thin strips, zucchini ribbons and veggie noodles; they are a specialty tool, not ideal for standard peeling.
+- Stainless steel blades resist rust and are durable; carbon steel rusts if left wet or put in the dishwasher.
+- Carbon steel should be washed and dried right after use.
+- A peeler needing extra pressure or repeat passes over one spot is dull; dull peelers raise slip risk.
+- A honing rod can restore plain stainless or carbon steel edges but damages serrated or ceramic blades.
+- Some chefs advise replacing a peeler about yearly because blades dull; cheap peelers make this practical.
+- Oversized, soft, non-slip handles are commonly recommended for people with arthritis; palm and finger-style peelers suit those who struggle with a pinch grip.
+- Dishwasher safety claims vary by listing and user reports; check the product page.
+- Built-in potato eye removers are a common extra on swivel peelers.
+- Multi-tool sets save buying separate tools; some guides suggest owning one swivel and one Y peeler.

@@ -26,6 +26,13 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch16") {
+    // Keyword new 25.10: arthritis-friendly kitchen tools, best + under-budget ladder guides
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch16-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword,
+      niche: r.tier ? "Budget" : "Easy Kitchen",
+      why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle; grip comfort for arthritic or weak hands is a plus where relevant. Not a medical framing.`, note: "" }));
+  }
   if (process.env.BATCH === "batch15") {
     // Keyword 23.10 outdoor/garden batch: best + under-budget ladder guides
     return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch15-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,

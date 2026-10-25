@@ -1,0 +1,15 @@
+# bottle opener (twist caps, child-resistant medicine caps)
+- Useful aids share three traits: a grip that does not slip on the cap, a handle long enough to create leverage, and a shape that fits the cap sizes you actually use.
+- Conical or stepped designs fit many cap sizes; fixed-hole plates need a size match first.
+- Rubber or silicone lining adds friction, especially on smooth plastic caps.
+- Toothed metal grippers bite into caps but can mark lid edges and need careful storage.
+- Multi-tab grippers with closely spaced tabs give less stable purchase; wider tab spacing grips better.
+- Tabs that add a finger lever increase torque, so the hand supplies less rotational force.
+- Lever-style removers multiply the turning force of the wrist.
+- Child-resistant (push-and-turn) caps need axial pressure and rotation together, which is the hard part for weak hands.
+- Slide-to-open child-resistant closures exist (SnapSlide) that need less torque, but availability depends on the pharmacy.
+- A common accommodation: many pharmacies will dispense in non-child-resistant containers on request; ask the pharmacist. Keep them away from children.
+- Commercial pill-bottle openers (for example Jokari style) add leverage for tight or child-resistant caps.
+- Pry-off crown caps (beer) need a different tool than twist-off openers; many twist openers state they do not open them.
+- No search source gave grip-strength or torque figures; avoid stating any.
+- Wet or oily hands reduce grip; dry the cap and use a non-slip pad.

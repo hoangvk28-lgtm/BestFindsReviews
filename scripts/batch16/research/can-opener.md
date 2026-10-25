@@ -1,0 +1,18 @@
+# Research note: can opener (seed)
+- Manual openers need no power, are portable and generally cost less than electric; electric models take counter space (or a charge/batteries) and are often judged shorter-lived.
+- A standard manual opener needs a firm grip and a steady wrist twist; for weak grip, arthritis or one-handed use, one-touch electric models are the most cited fix.
+- Top-cut (rotary, bite-the-seam) openers cut the lid at the top seam and leave a sharp, jagged lid edge; side-cut (safety, smooth-edge) openers cut below the rim seam and leave a dull, finger-safe lid and rim.
+- Side-cut lids can usually be set back on the can as a short-term cover for leftovers; food should still be moved to a container for storage.
+- Caveat: some sources note a side-cut mechanism may wear sooner than a traditional rotary opener because of how it engages the can.
+- With a side-cut design the cutting wheel stays above the food, so there is less food contact to clean.
+- Magnet lid lifters help only if the magnet is strong enough; a weak magnet lets the lid drop back into the food.
+- Cheap plastic gears can strip or skip after limited use; a hardened steel wheel and metal drive gear last longer.
+- Handles: large soft-grip handles and an oversized turning knob reduce the pinch and twist force needed; long handles add leverage.
+- Electric one-touch models let you set the opener on the can and press a button without a second hand to steady it; lever-style electrics require holding the lever through the whole cut.
+- Plug-in electrics stop working in a power outage; battery and USB models need fresh cells or a charge.
+- No credible lab publishes turning-force figures for can openers; grip claims in listings are qualitative, so judge by knob size, handle diameter and leverage.
+- Cleaning: wipe or hand wash the wheel and gear after use and dry fully; dishwashers promote rust and dulling.
+- Blades are designed to cut, not to be sharpened; replace the opener when it skips, leaves metal shavings, shows rust, or the gear slips. Light rust can be treated with vinegar or a baking soda paste, then dry thoroughly.
+- Inspect the cutting wheel periodically, and look for nicks or metal flecks on the can rim before eating.
+- Ring-pull cans (pet food, tuna) are meant to open without a tool, but the tab can be hard for weak fingers or nails; a hook or lever tab tool slides under the ring and lifts it with leverage. Cans without a tab still need a real opener.
+- Large institutional #10 cans need a bigger crank or swing-away opener; standard household openers are sized for typical cans.
