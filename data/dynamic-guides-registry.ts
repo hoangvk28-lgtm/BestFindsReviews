@@ -3965,6 +3965,19 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-electric-knife-sharpeners-under-100": () => import("./guides/best-electric-knife-sharpeners-under-100"),
   "best-electric-knife-sharpeners-under-150": () => import("./guides/best-electric-knife-sharpeners-under-150"),
   "best-electric-knife-under-40": () => import("./guides/best-electric-knife-under-40"),
+  "best-vegetable-peelers-with-replaceable-blades": () => import("./guides/best-vegetable-peelers-with-replaceable-blades"),
+  "best-lightweight-dinnerware-for-arthritis": () => import("./guides/best-lightweight-dinnerware-for-arthritis"),
+  "best-lightweight-plates-and-bowls": () => import("./guides/best-lightweight-plates-and-bowls"),
+  "best-lightweight-ceramic-dinnerware": () => import("./guides/best-lightweight-ceramic-dinnerware"),
+  "best-lightweight-camping-dinnerware": () => import("./guides/best-lightweight-camping-dinnerware"),
+  "best-lightweight-dinnerware-under-40": () => import("./guides/best-lightweight-dinnerware-under-40"),
+  "best-lightweight-dinnerware-under-60": () => import("./guides/best-lightweight-dinnerware-under-60"),
+  "best-lightweight-dinnerware-under-80": () => import("./guides/best-lightweight-dinnerware-under-80"),
+  "best-lightweight-dinnerware-under-100": () => import("./guides/best-lightweight-dinnerware-under-100"),
+  "best-lightweight-dinnerware-under-150": () => import("./guides/best-lightweight-dinnerware-under-150"),
+  "best-jar-openers-under-15": () => import("./guides/best-jar-openers-under-15"),
+  "best-jar-openers-under-30": () => import("./guides/best-jar-openers-under-30"),
+  "best-jar-openers-under-40": () => import("./guides/best-jar-openers-under-40"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);
