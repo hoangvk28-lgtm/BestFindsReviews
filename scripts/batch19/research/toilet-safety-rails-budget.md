@@ -1,0 +1,5 @@
+- Ratings range about 250-375 lb; some say evenly distributed load.
+- Inner width ranges from about 17-19 in fixed to 19-25 in adjustable; measure bowl and surrounding space.
+- Toilet-mounted frames depend on seat bolt spacing (e.g. 5.5 in); freestanding rely on feet or suction and floor grip.
+- Height adjustable about 26-33 in; folding frames suit small bathrooms.
+- Verify dimensions on the maker's own documentation.

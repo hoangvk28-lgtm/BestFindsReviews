@@ -1,0 +1,6 @@
+- No-arm risers suit steady users needing height only; arms or locking designs for shaky transfers.
+- Clamp-on brackets fit under the rim, no plumbing change; bolt-style uses longer bolts; locks prevent shifting.
+- Clamp models list bowl width ranges (e.g. 14-18 in); check the bowl.
+- Therapists suggest knee-back-to-floor measurement minus current toilet height.
+- Rubber feet and tightened hardware decide wobble; recheck lock after install.
+- Existing seat lid may not close over a riser.

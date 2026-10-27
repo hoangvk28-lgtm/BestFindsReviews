@@ -1,0 +1,263 @@
+[
+ {
+  "id": 1,
+  "seed": "grab bar",
+  "pillar": "",
+  "slug": "best-grab-bars-under-20",
+  "keyword": "best grab bars under 20",
+  "title": "Best Grab Bars Under $20",
+  "tier": 20
+ },
+ {
+  "id": 2,
+  "seed": "grab bar",
+  "pillar": "",
+  "slug": "best-grab-bars-under-30",
+  "keyword": "best grab bars under 30",
+  "title": "Best Grab Bars Under $30",
+  "tier": 30
+ },
+ {
+  "id": 3,
+  "seed": "grab bar",
+  "pillar": "",
+  "slug": "best-grab-bars-under-75",
+  "keyword": "best grab bars under 75",
+  "title": "Best Grab Bars Under $75",
+  "tier": 75
+ },
+ {
+  "id": 4,
+  "seed": "non slip shower mat",
+  "pillar": "",
+  "slug": "best-non-slip-shower-mats-under-15",
+  "keyword": "best non slip shower mats under 15",
+  "title": "Best Non Slip Shower Mats Under $15",
+  "tier": 15
+ },
+ {
+  "id": 5,
+  "seed": "non slip shower mat",
+  "pillar": "",
+  "slug": "best-non-slip-shower-mats-under-20",
+  "keyword": "best non slip shower mats under 20",
+  "title": "Best Non Slip Shower Mats Under $20",
+  "tier": 20
+ },
+ {
+  "id": 6,
+  "seed": "non slip shower mat",
+  "pillar": "",
+  "slug": "best-non-slip-shower-mats-under-30",
+  "keyword": "best non slip shower mats under 30",
+  "title": "Best Non Slip Shower Mats Under $30",
+  "tier": 30
+ },
+ {
+  "id": 7,
+  "seed": "non slip shower mat",
+  "pillar": "",
+  "slug": "best-non-slip-shower-mats-under-40",
+  "keyword": "best non slip shower mats under 40",
+  "title": "Best Non Slip Shower Mats Under $40",
+  "tier": 40
+ },
+ {
+  "id": 8,
+  "seed": "raised toilet seat",
+  "pillar": "",
+  "slug": "best-raised-toilet-seats-under-50",
+  "keyword": "best raised toilet seats under 50",
+  "title": "Best Raised Toilet Seats Under $50",
+  "tier": 50
+ },
+ {
+  "id": 9,
+  "seed": "raised toilet seat",
+  "pillar": "",
+  "slug": "best-raised-toilet-seats-under-75",
+  "keyword": "best raised toilet seats under 75",
+  "title": "Best Raised Toilet Seats Under $75",
+  "tier": 75
+ },
+ {
+  "id": 10,
+  "seed": "raised toilet seat",
+  "pillar": "",
+  "slug": "best-raised-toilet-seats-under-150",
+  "keyword": "best raised toilet seats under 150",
+  "title": "Best Raised Toilet Seats Under $150",
+  "tier": 150
+ },
+ {
+  "id": 11,
+  "seed": "toilet seat riser",
+  "pillar": "",
+  "slug": "best-toilet-seat-risers-under-40",
+  "keyword": "best toilet seat risers under 40",
+  "title": "Best Toilet Seat Risers Under $40",
+  "tier": 40
+ },
+ {
+  "id": 12,
+  "seed": "toilet seat riser",
+  "pillar": "",
+  "slug": "best-toilet-seat-risers-under-60",
+  "keyword": "best toilet seat risers under 60",
+  "title": "Best Toilet Seat Risers Under $60",
+  "tier": 60
+ },
+ {
+  "id": 13,
+  "seed": "toilet seat riser",
+  "pillar": "",
+  "slug": "best-toilet-seat-risers-under-100",
+  "keyword": "best toilet seat risers under 100",
+  "title": "Best Toilet Seat Risers Under $100",
+  "tier": 100
+ },
+ {
+  "id": 14,
+  "seed": "toilet safety rails",
+  "pillar": "",
+  "slug": "best-toilet-safety-rails-under-75",
+  "keyword": "best toilet safety rails under 75",
+  "title": "Best Toilet Safety Rails Under $75",
+  "tier": 75
+ },
+ {
+  "id": 15,
+  "seed": "toilet safety rails",
+  "pillar": "",
+  "slug": "best-toilet-safety-rails-under-150",
+  "keyword": "best toilet safety rails under 150",
+  "title": "Best Toilet Safety Rails Under $150",
+  "tier": 150
+ },
+ {
+  "id": 16,
+  "seed": "bedside commode",
+  "pillar": "",
+  "slug": "best-bedside-commodes-under-75",
+  "keyword": "best bedside commodes under 75",
+  "title": "Best Bedside Commodes Under $75",
+  "tier": 75
+ },
+ {
+  "id": 17,
+  "seed": "bedside commode",
+  "pillar": "",
+  "slug": "best-bedside-commodes-under-150",
+  "keyword": "best bedside commodes under 150",
+  "title": "Best Bedside Commodes Under $150",
+  "tier": 150
+ },
+ {
+  "id": 18,
+  "seed": "transfer bench",
+  "pillar": "",
+  "slug": "best-transfer-benches-under-200",
+  "keyword": "best transfer benches under 200",
+  "title": "Best Transfer Benches Under $200",
+  "tier": 200
+ },
+ {
+  "id": 19,
+  "seed": "bathtub safety rail",
+  "pillar": "",
+  "slug": "best-bathtub-safety-rails-under-50",
+  "keyword": "best bathtub safety rails under 50",
+  "title": "Best Bathtub Safety Rails Under $50",
+  "tier": 50
+ },
+ {
+  "id": 20,
+  "seed": "bathtub safety rail",
+  "pillar": "",
+  "slug": "best-bathtub-safety-rails-under-100",
+  "keyword": "best bathtub safety rails under 100",
+  "title": "Best Bathtub Safety Rails Under $100",
+  "tier": 100
+ },
+ {
+  "id": 21,
+  "seed": "retractable hose reel",
+  "pillar": "Garden & Yard",
+  "slug": "best-retractable-hose-reels-under-50",
+  "keyword": "best retractable hose reels under 50",
+  "title": "Best Retractable Hose Reels Under $50",
+  "tier": 50
+ },
+ {
+  "id": 22,
+  "seed": "retractable hose reel",
+  "pillar": "Garden & Yard",
+  "slug": "best-retractable-hose-reels-under-100",
+  "keyword": "best retractable hose reels under 100",
+  "title": "Best Retractable Hose Reels Under $100",
+  "tier": 100
+ },
+ {
+  "id": 23,
+  "seed": "retractable hose reel",
+  "pillar": "Garden & Yard",
+  "slug": "best-retractable-hose-reels-under-150",
+  "keyword": "best retractable hose reels under 150",
+  "title": "Best Retractable Hose Reels Under $150",
+  "tier": 150
+ },
+ {
+  "id": 24,
+  "seed": "lightweight garden hose",
+  "pillar": "Garden & Yard",
+  "slug": "best-lightweight-garden-hoses-under-40",
+  "keyword": "best lightweight garden hoses under 40",
+  "title": "Best Lightweight Garden Hoses Under $40",
+  "tier": 40
+ },
+ {
+  "id": 25,
+  "seed": "lightweight garden hose",
+  "pillar": "Garden & Yard",
+  "slug": "best-lightweight-garden-hoses-under-60",
+  "keyword": "best lightweight garden hoses under 60",
+  "title": "Best Lightweight Garden Hoses Under $60",
+  "tier": 60
+ },
+ {
+  "id": 26,
+  "seed": "wireless tv headphones",
+  "pillar": "Simple Tech",
+  "slug": "best-wireless-tv-headphones-under-50",
+  "keyword": "best wireless tv headphones under 50",
+  "title": "Best Wireless TV Headphones Under $50",
+  "tier": 50
+ },
+ {
+  "id": 27,
+  "seed": "wireless tv headphones",
+  "pillar": "Simple Tech",
+  "slug": "best-wireless-tv-headphones-under-100",
+  "keyword": "best wireless tv headphones under 100",
+  "title": "Best Wireless TV Headphones Under $100",
+  "tier": 100
+ },
+ {
+  "id": 28,
+  "seed": "pill dispenser",
+  "pillar": "Simple Tech",
+  "slug": "best-pill-dispensers-under-25",
+  "keyword": "best pill dispensers under 25",
+  "title": "Best Pill Dispensers Under $25",
+  "tier": 25
+ },
+ {
+  "id": 29,
+  "seed": "pill dispenser",
+  "pillar": "Simple Tech",
+  "slug": "best-pill-dispensers-under-50",
+  "keyword": "best pill dispensers under 50",
+  "title": "Best Pill Dispensers Under $50",
+  "tier": 50
+ }
+]

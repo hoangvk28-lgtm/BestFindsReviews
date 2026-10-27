@@ -1,0 +1,6 @@
+- Raised seats add about 2-6 in; 3.5 and 5 in are the common heights; feet should rest flat.
+- Shape must match the bowl (round vs elongated); some listings fit both.
+- Budget ratings about 220-300 lb; same model can be listed at different ratings; verify.
+- Bolt-on resists wobble better than tool-free; check how tool-free locks.
+- Some makers (Carex) take no returns on toilet products; confirm fit first.
+- Measure knee-back to floor to choose height.
