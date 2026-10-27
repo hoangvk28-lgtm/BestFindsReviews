@@ -1,0 +1,13 @@
+# Research: big button phone (ease of use, not medical)
+
+- Three families: corded landline (plugs into the wall jack; simplest, many draw power from the phone line and keep working in a power cut on a traditional copper line), cordless DECT home phone (base on mains power plus one or more handsets; mobility around the home), and mobile big-button phones (bar or flip style with physical keys, work anywhere with signal and a plan).
+- US 2G/3G networks are shut down, so a mobile big-button phone needs 4G LTE, and carriers generally require VoLTE support for voice calls. Check the listing for 4G and the carrier named; "unlocked" does not guarantee your carrier. Confirm with the carrier before buying.
+- Physical keys give predictable feedback compared with a glass touchscreen, which can misread shaky hands, dry skin or gloves. Raised, well-spaced keys and high-contrast numerals reduce misdials. Guides suggest key faces on the order of 1.5 to 2 inches only for the largest desk phones; many handsets use smaller but still oversized keys, so compare against the product photo.
+- Backlit keypads help in dim rooms; high-contrast (white on black, or black on yellow) lettering helps more than backlight alone. Check whether the display is a large-digit LCD or a small standard one.
+- Photo speed-dial keys let one press call a stored person, with a picture slot beside the key. Check how many photo keys there are and whether the photo can be swapped.
+- Volume: amplified or volume-boost handsets add extra dB on incoming audio; a dedicated boost button is quicker than a menu slider. Loud ringers (roughly 85 dB and up) and a flashing visual ringer help in a large home. Speakerphone loudness varies.
+- Hearing aid compatibility is rated M (acoustic) and T (telecoil) from 1 to 4 in the US; 3 or 4 is best. Verify with the box or manual and the specific aid; a doctor or audiologist can advise on hearing questions.
+- Built-in answering machines: digital (no tape) with a set recording time; check whether messages can be played from the handset or only the base, and whether the base needs mains power.
+- DECT 6.0 cordless phones run on 1.9 GHz, away from Wi-Fi; add-on handsets only work with the matching base series. Cordless bases need mains power, so keep a corded or mobile phone as a backup in outages. Fiber, cable or VoIP service also needs a powered modem.
+- Nuisance call blocking (call block lists, one-ring scam awareness) is a useful addition for older users.
+- Mobile big-button phones often add an SOS key, charging dock, loud speaker and torch; battery life is long on feature phones, but app support is minimal.

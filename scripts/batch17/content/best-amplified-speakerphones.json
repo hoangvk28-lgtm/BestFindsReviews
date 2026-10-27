@@ -1,0 +1,511 @@
+{
+ "guideTitle": "6 Best Amplified Speakerphones in 2026",
+ "metaTitle": "Best Amplified Speakerphones in 2026",
+ "metaDescription": "Six amplified phones with speakerphones compared on loudness, tone control, ringer volume and answering, from VTech and Clarity to budget corded models.",
+ "introParagraphs": [
+  "A speakerphone sounds like a small extra until you watch someone try to hold a handset against one ear while writing a note, stirring a pot or sitting with a hearing aid that whistles near plastic. Hands-free audio takes the handset out of the equation, and on an amplified phone it also means the loudspeaker itself has to be strong enough to carry a whole conversation across a kitchen. That is a harder job than boosting an earpiece, which is why two phones that both say amplified can behave very differently once the handset is back in its cradle.",
+  "The six phones here cover three kinds of buyer. The VTech SN1127 and the Clarity E814CC are corded bases with an answering machine, the Clarity XLC8 is a cordless Bluetooth model that can pair with a cell phone, and the Lativu, Sacumea and Serene Innovations phones are simpler corded designs built around large keys and a loud ringer. Amplification claims in the listings range from 26dB on the Serene Innovations to 50dB on the Clarity XLC8, and ringer claims climb from 85dB to 120dB.",
+  "We evaluated these from the listing text and the product specifications, and we did not claim hands-on testing. Where a listing gives no figure, such as the speakerphone output on most of these, we say so instead of guessing, and we suggest checking the box or manual for anything that matters to you, including hearing aid compatibility. Questions about hearing itself are best taken to a doctor or audiologist."
+ ],
+ "products": [
+  {
+   "i": 5,
+   "badge": "Best Overall",
+   "name": "VTech SN1127 Amplified Corded Senior Phone",
+   "specs": [
+    "Corded, line powered design",
+    "8 photo speed dial keys",
+    "90dB adjustable ringer",
+    "Answering machine",
+    "Visual flashing alert"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Corded with answering machine"
+    },
+    {
+     "label": "Speed dial",
+     "value": "8 photo keys"
+    },
+    {
+     "label": "Ringer",
+     "value": "Up to 90dB plus flasher"
+    },
+    {
+     "label": "Keys",
+     "value": "Big buttons"
+    }
+   ],
+   "description": "The VTech SN1127 is the most complete corded phone in this group because it pairs a speakerphone with an answering machine, eight photo speed dial keys and a visual alert in one base. The listing calls it fully reliable because the corded design keeps working during power outages, which is a meaningful claim for a phone that people may rely on in an emergency. Big buttons and a loud adjustable ringer complete a package that is built for older adults rather than adapted from an office phone.\n\nThe photo keys are the feature that sets it apart from the plain corded models below. You slide a picture of a family member behind each of eight large buttons, so one press calls that person and nobody has to read a name or remember a number. The ringer reaches 90dB with a bright flashing indicator, which is softer than the 120dB claimed for the Lativu but is paired with a light, so a missed call is less likely even if the ringer is turned down for night.\n\nOwnership is simple, since the base needs only a phone line and a place on the table. The answering machine adds a layer of settings that the Sacumea and Lativu phones skip, which is a plus if you want messages stored and a small cost if you want the least menu possible. Against the Clarity E814CC it gives up the cordless handset option, but it is the cleaner choice if you want one fixed phone that does everything and nothing more.",
+   "bestFor": "Households that want a fixed corded phone with photo dialing, a built-in answering machine and a visual ringer.",
+   "pros": [
+    "Photo keys remove the need to read names",
+    "Corded design keeps working in a power cut",
+    "Flashing light backs up the 90dB ringer",
+    "Answering machine built into the same base"
+   ],
+   "cons": [
+    "No cordless handset to carry around",
+    "Ringer is quieter than the 120dB models",
+    "More settings than a basic one-piece phone"
+   ]
+  },
+  {
+   "i": 3,
+   "badge": "Best Cordless and Bluetooth",
+   "name": "Clarity XLC8 Amplified Cordless Bluetooth Phone",
+   "specs": [
+    "Up to 50dB amplification",
+    "4 tone settings",
+    "Bluetooth cell pairing",
+    "Talking caller ID",
+    "Talking keypad"
+   ],
+   "specList": [
+    {
+     "label": "Amplification",
+     "value": "Up to 50dB"
+    },
+    {
+     "label": "Tone control",
+     "value": "4 settings"
+    },
+    {
+     "label": "Connections",
+     "value": "Landline, VoIP or paired cell phone"
+    },
+    {
+     "label": "Announcements",
+     "value": "Talking caller ID and keypad"
+    }
+   ],
+   "description": "The Clarity XLC8 is the only cordless model here and the only one that can take a cell phone call, since the listing says it pairs by Bluetooth as well as working over a traditional landline or VoIP line. Its amplification goes up to 50dB, the highest claim in this lineup, and four tone settings let you shape the sound rather than just raise it. That combination makes it the strongest choice for someone whose main problem is clarity on the phone.\n\nThe talking caller ID and talking keypad announce a name or number aloud and speak the digits as they are pressed. Both reduce the need to squint at a small screen, and both are unusual in this group, where the other phones rely on printed buttons and a display. A speakerphone is included, though the listing does not give its output, so a person with a large room should judge by the manual.\n\nThe tradeoff is that a cordless phone depends on a base that needs mains power, so the XLC8 will not ring during an outage the way the corded VTech SN1127 does. It is also more of a gadget to set up than the Lativu or Sacumea phones, which only need a phone cord. If you spend a lot of time moving between rooms, the freedom of a handset you can carry is worth that extra effort, and it is a better fit than the Clarity E814CC when you do not want a fixed base on the table.",
+   "bestFor": "People who want the loudest amplification here and the freedom to carry the handset or pair a cell phone.",
+   "pros": [
+    "Highest amplification claim in the group",
+    "Four tone settings shape how voices sound",
+    "Pairs with a cell phone over Bluetooth",
+    "Announces callers and keys aloud"
+   ],
+   "cons": [
+    "Cordless base needs mains power",
+    "Speakerphone output is not listed",
+    "More setup than a plain corded phone"
+   ]
+  },
+  {
+   "i": 9,
+   "badge": "Best Expandable System",
+   "name": "Clarity E814CC Amplified Corded Base Phone",
+   "specs": [
+    "Up to 40dB amplification",
+    "4 tone settings",
+    "Expands to 4 cordless handsets",
+    "Digital answering machine",
+    "Large high contrast display"
+   ],
+   "specList": [
+    {
+     "label": "Amplification",
+     "value": "Up to 40dB"
+    },
+    {
+     "label": "Tone control",
+     "value": "4 settings"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 4 D703HS handsets"
+    },
+    {
+     "label": "Answering",
+     "value": "Digital machine"
+    }
+   ],
+   "description": "The Clarity E814CC is a corded base that can grow into a whole-house system, because the listing says it takes up to four D703HS cordless handsets. That makes it the most flexible phone here, since a household can begin with a fixed corded phone and add handsets for the bedroom or the garden later. The base itself offers up to 40dB of amplification, four tone settings and a loud, clear speakerphone.\n\nThe display is large and high contrast, and the keypad carries high contrast numbers, so reading a caller or dialing is easier than on a small standard screen. A digital answering machine is built in, and the caller display lights up as a visual ringer. The listing also notes that the base is sold alone, so the handsets are extra, and anyone planning a multi-handset setup should budget for them.\n\nAt 40dB it amplifies less than the Clarity XLC8 at 50dB, and it uses a base that also needs power for the cordless features, so check how the corded handset behaves in a power cut before relying on it. It is more expensive in effort than the Lativu or Sacumea, but it covers more ground than either. Choose it over the VTech SN1127 if you think you will want cordless handsets at some point.",
+   "bestFor": "Families who want a fixed corded phone today and the option of extra cordless handsets later.",
+   "pros": [
+    "Expands to four cordless handsets",
+    "Four tone settings and up to 40dB",
+    "Large high contrast caller display",
+    "Visual ringer through the lit display"
+   ],
+   "cons": [
+    "Handsets are sold separately",
+    "Less amplification than the XLC8 at 50dB",
+    "Many features mean a longer setup"
+   ]
+  },
+  {
+   "i": 1,
+   "badge": "Loudest Ringer",
+   "name": "Lativu Big Button Corded Phone",
+   "specs": [
+    "Ringer up to 120dB",
+    "9 one-touch keys",
+    "Red SOS button",
+    "3 handset volume levels",
+    "LED call flasher"
+   ],
+   "specList": [
+    {
+     "label": "Ringer",
+     "value": "Off, low or high, up to 120dB"
+    },
+    {
+     "label": "Handset volume",
+     "value": "Low, high, very high"
+    },
+    {
+     "label": "One-touch keys",
+     "value": "8 custom plus 1 SOS"
+    },
+    {
+     "label": "Alert",
+     "value": "LED flasher"
+    }
+   ],
+   "description": "The Lativu is a plain, loud corded phone with nine one-touch keys, eight you can program and one red SOS key. Its ringer switch has off, low and high positions and the listing claims up to 120dB, the loudest figure of any phone here. Handset volume has three levels, low, high and very high, and an LED flashes when a call comes in.\n\nNumber storage, redial and a flash key round out the basics. There is no answering machine, no cordless handset and no photo slots mentioned, so what you get is a fixed phone with big controls. That simplicity is the reason to buy it, since each setting is a physical switch or a labeled key rather than a menu.\n\nCompared with the VTech SN1127, whose ringer tops out at 90dB, the Lativu is the pick for a large or noisy home where the ringer is the problem. Next to the Sacumea it adds a clear SOS key and a flasher, and next to the Clarity E814CC it drops the answering machine and expansion in exchange for a lower-effort setup. The listing does not state the speakerphone output, so judge it as a convenience feature rather than a room-filling one.",
+   "bestFor": "Noisy or large homes where the main need is a very loud ringer and big, labeled keys.",
+   "pros": [
+    "Ringer claimed up to 120dB",
+    "Red SOS key among nine one-touch buttons",
+    "Three-step handset volume switch",
+    "LED flasher backs up the ringer"
+   ],
+   "cons": [
+    "No answering machine or cordless handset",
+    "Speakerphone output is not stated",
+    "No tone control for voice clarity"
+   ]
+  },
+  {
+   "i": 8,
+   "badge": "Best Simple Hands-Free",
+   "name": "Sacumea Big Button Phone With Speakerphone",
+   "specs": [
+    "Big buttons for low vision",
+    "Hands-free speakerphone",
+    "Caller ID shows number",
+    "110dB plus ringer claim",
+    "Corded design"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Corded landline"
+    },
+    {
+     "label": "Speakerphone",
+     "value": "Hands-free"
+    },
+    {
+     "label": "Caller ID",
+     "value": "Number only"
+    },
+    {
+     "label": "Ringer",
+     "value": "110dB plus"
+    }
+   ],
+   "description": "The Sacumea is built around two ideas, big buttons that cut down on misdials and a hands-free speakerphone for talking while doing housework. The listing says the caller ID shows the number only, not the name, to keep the screen uncomplicated, and that choice sets it apart from phones that try to display everything. The ringer claim is 110dB plus, close to the Lativu but without a photo or SOS feature in the listing text.\n\nThe cost of simplicity is the lack of extras. There is no answering machine, no cordless option and no tone control, so someone who wants shaping of the sound should look at the Clarity XLC8 instead. For a person who simply wants a fixed phone with a loud ringer and a speakerphone, those omissions are a virtue because there is less to configure.\n\nSetup is a single phone cord into the wall jack. Compared with the Serene Innovations it offers a louder ringer and a speakerphone, but it lacks the photo buttons, and compared with the VTech SN1127 it is a lighter, lower-effort phone with fewer safety extras. It is the pick for a second phone in a kitchen or workshop.",
+   "bestFor": "A second phone in a kitchen or workshop where hands-free talking and big keys matter most.",
+   "pros": [
+    "Hands-free speakerphone for housework",
+    "Large keys designed to reduce misdials",
+    "Caller ID kept to a simple number display",
+    "Loud ringer claimed at 110dB plus"
+   ],
+   "cons": [
+    "Caller ID shows the number but no name",
+    "No photo keys or answering machine",
+    "Corded only, so it stays in one spot"
+   ]
+  },
+  {
+   "i": 7,
+   "badge": "Best Photo Buttons at Low Gain",
+   "name": "Serene Innovations Amplified Big Button Phone",
+   "specs": [
+    "26dB amplification",
+    "Photo speed dial buttons",
+    "85dB ringer",
+    "Giant buttons",
+    "Corded design"
+   ],
+   "specList": [
+    {
+     "label": "Amplification",
+     "value": "26dB"
+    },
+    {
+     "label": "Ringer",
+     "value": "85dB"
+    },
+    {
+     "label": "Speed dial",
+     "value": "Photo buttons"
+    },
+    {
+     "label": "Type",
+     "value": "Corded"
+    }
+   ],
+   "description": "The Serene Innovations phone is a corded model with giant buttons, photo speed dial slots and a modest 26dB of amplification. The listing describes loading a portrait behind each speed dial button so that one press dials a person, which makes the phone useful to people who navigate by faces rather than names. The ringer is rated at 85dB, comparable to heavy traffic, and that is the quietest ringer in this group.\n\nThat modest figure is the trade. The phone amplifies less than the Clarity XLC8 at 50dB or the Clarity E814CC at 40dB, so it suits someone who needs a little extra volume rather than a lot. It also lacks the speakerphone strength, answering machine and visual alert of the pricier models.\n\nAs a result it works best as a calm, fixed phone for someone who finds the other models too busy, and a poor fit for anyone who needs strong amplification or tone shaping. The photo keys are a clearer benefit than on the Sacumea or Lativu, and its quiet-by-comparison ringer may be a feature in a small, quiet home. Check the hearing aid compatibility claim in the manual if that matters, because the listing text does not give an FCC M or T rating.",
+   "bestFor": "Quiet homes where photo dialing matters more than maximum volume.",
+   "pros": [
+    "Photo buttons for one-press dialing",
+    "Giant buttons are easy to find by feel",
+    "Gentle amplification for light needs",
+    "Simple corded setup with few options"
+   ],
+   "cons": [
+    "Only 26dB of amplification",
+    "85dB ringer is the quietest here",
+    "No answering machine or flasher listed"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Speakerphone loudness and clarity",
+   "explanation": "A speakerphone has to fill a room, and most listings state a handset figure but not a speaker figure. Without that number you are judging from the design: a heavy base like the VTech SN1127 or Clarity E814CC usually has more cabinet volume than a thin one-piece phone like the Sacumea. Look for a separate speaker volume control, because the handset and the speaker do not need the same setting. If the claim is silent, ask the maker or check the manual before buying."
+  },
+  {
+   "criterion": "Handset amplification in dB",
+   "explanation": "Amplification is quoted in decibels of added incoming volume. In this lineup it runs from 26dB on the Serene Innovations to 40dB on the Clarity E814CC and 50dB on the Clarity XLC8. Higher is not automatically better, since very high settings can distort speech, so look for a control you can set to the level you need. If you need only a little extra, 26dB may be enough, and if you need a lot, favor the models with the higher ceilings."
+  },
+  {
+   "criterion": "Tone control for voice clarity",
+   "explanation": "Volume raises every frequency equally, which can make a voice sound muddy rather than clearer. Tone settings let you lift the higher frequencies that carry consonants. The Clarity XLC8 and Clarity E814CC each offer four tone settings, while the Lativu, Sacumea and Serene Innovations list only volume steps. If a caller is easy to hear but hard to understand, tone control is the feature that matters."
+  },
+  {
+   "criterion": "Ringer volume and visual alert",
+   "explanation": "Ringer claims in this group run from 85dB on the Serene Innovations to 90dB on the VTech SN1127 and up to 120dB on the Lativu. A light matters as much as the number, because a flasher still works when the ringer is switched off or the person is in another room. The VTech SN1127 includes a flashing indicator and the Lativu uses an LED. Match the ringer to the size of the home and add a light if sleep or noise is a factor."
+  },
+  {
+   "criterion": "Corded or cordless behavior in a power cut",
+   "explanation": "A corded phone that draws power from the line keeps working when the electricity fails, which is the VTech SN1127's headline claim. A cordless base such as the Clarity XLC8 needs mains power, so a home with only cordless phones may have no working phone in an outage. Fiber, cable and VoIP service also usually depend on a powered modem. If this phone is a safety line, keep at least one corded phone or a charged cell phone as a backup."
+  },
+  {
+   "criterion": "Photo keys and one-touch dialing",
+   "explanation": "One-touch keys remove the need to remember or read numbers. The VTech SN1127 offers 8 photo keys, the Lativu 9 one-touch keys including an SOS key, and the Serene Innovations carries photo slots as well. Check how many keys are programmable and whether the photo can be swapped when a contact changes. For a user who struggles with names, photos are more useful than a longer phonebook."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Speakerphone suitability",
+   "description": "We looked at which phones state a hands-free feature and which give a figure for it. The Sacumea, Lativu and VTech SN1127 all describe speakerphone use, while the Clarity E814CC calls its speaker extra loud and clear. Where the listing gave no output figure, we marked that as a gap rather than assuming a result. This keeps our ranking tied to what the maker actually claims."
+  },
+  {
+   "title": "Amplification and tone",
+   "description": "We compared the stated dB of added incoming volume and whether the tone could be shaped. The Clarity XLC8 leads at 50dB with four tone settings, followed by the Clarity E814CC at 40dB, with the Serene Innovations at 26dB. Phones that offered only volume steps were scored lower for clarity-driven needs. We treated the dB number as relative, since sources disagree on how much any given user needs."
+  },
+  {
+   "title": "Ringer and visual alert",
+   "description": "We checked the claimed ringer loudness and whether a light backs it up. The Lativu leads on loudness at up to 120dB, the VTech SN1127 pairs a 90dB ringer with a flasher, and the Serene Innovations is the quietest at 85dB. We favored phones that gave a second way to notice a call. A loud ringer alone can still be missed in a distant room."
+  },
+  {
+   "title": "Ease of daily use",
+   "description": "We scored how many steps it takes to place or answer a call. Photo keys on the VTech SN1127 and Serene Innovations, SOS and one-touch keys on the Lativu, and the talking keypad on the Clarity XLC8 all reduce effort. The simplest phone, the Sacumea, wins on fewest controls but gives up photo dialing. Complexity is a cost for some buyers and a feature for others, so we flagged both."
+  },
+  {
+   "title": "Power and reliability design",
+   "description": "We separated corded, line-powered phones from cordless bases that need mains power. The VTech SN1127, Lativu, Sacumea and Serene Innovations are corded, the Clarity E814CC combines a corded base with optional cordless handsets, and the Clarity XLC8 is cordless and Bluetooth. We rewarded designs that keep working when the lights go out. We also noted the setup effort of each, since a phone that is hard to install is a phone that stays in the box."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Main Priority",
+   "intro": "Most buyers have one thing that bothers them most on the phone, so start there.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Need the most added volume and a clearer voice",
+      "Clarity XLC8 Amplified Cordless Bluetooth Phone",
+      "Up to 50dB and four tone settings"
+     ],
+     [
+      "Want an answering machine and photo keys in one corded phone",
+      "VTech SN1127 Amplified Corded Senior Phone",
+      "8 photo keys and a 90dB ringer with flasher"
+     ],
+     [
+      "Home is large or noisy",
+      "Lativu Big Button Corded Phone",
+      "Ringer claimed up to 120dB plus an LED flasher"
+     ],
+     [
+      "Want a plain hands-free phone for the kitchen",
+      "Sacumea Big Button Phone With Speakerphone",
+      "Big keys, speakerphone and a simple number display"
+     ],
+     [
+      "Plan to add handsets later",
+      "Clarity E814CC Amplified Corded Base Phone",
+      "Expands to four D703HS handsets"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Without quoting prices, the lineup falls into relative tiers.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "What you get"
+    ],
+    "rows": [
+     [
+      "Entry",
+      "Sacumea Big Button Phone With Speakerphone",
+      "A loud ringer and hands-free calling with few extras"
+     ],
+     [
+      "Entry",
+      "Lativu Big Button Corded Phone",
+      "SOS key and 120dB ringer claim at a similar level"
+     ],
+     [
+      "Mid",
+      "Serene Innovations Amplified Big Button Phone",
+      "Photo buttons and 26dB amplification"
+     ],
+     [
+      "Mid to upper",
+      "VTech SN1127 Amplified Corded Senior Phone",
+      "Answering machine, photo keys and flasher"
+     ],
+     [
+      "Premium",
+      "Clarity XLC8 Amplified Cordless Bluetooth Phone",
+      "50dB, tone control and cell phone pairing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Corded vs Cordless",
+   "intro": "The decision is about mobility against reliability.",
+   "cards": [
+    {
+     "label": "Corded",
+     "text": "A corded phone stays on the table, takes power from the line and keeps working in a power cut. The VTech SN1127, Lativu, Sacumea and Serene Innovations fall here, and the Clarity E814CC has a corded base. The cost is that you must walk to the phone. Pick corded if the phone is a safety line or if the home is small."
+    },
+    {
+     "label": "Cordless",
+     "text": "A cordless handset moves with you, so a call is answered before the voicemail picks up. The Clarity XLC8 is the cordless model, and the Clarity E814CC can add up to four handsets. The cost is a base that needs mains power. Pick cordless if reaching the phone quickly is the problem, and keep a corded or mobile backup."
+    }
+   ],
+   "note": "The Clarity E814CC is the compromise: a corded base now, cordless handsets later."
+  },
+  {
+   "subheading": "Plain Volume vs Tone Control",
+   "intro": "A second decision is how the sound is adjusted.",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Reason"
+    ],
+    "rows": [
+     [
+      "Just louder, nothing more",
+      "Lativu Big Button Corded Phone",
+      "Three simple handset volume levels"
+     ],
+     [
+      "Need clearer consonants",
+      "Clarity E814CC Amplified Corded Base Phone",
+      "Four tone settings with 40dB"
+     ],
+     [
+      "Need clarity plus the highest gain",
+      "Clarity XLC8 Amplified Cordless Bluetooth Phone",
+      "Four tone settings with 50dB"
+     ],
+     [
+      "Only light amplification",
+      "Serene Innovations Amplified Big Button Phone",
+      "26dB is enough for mild needs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Hands-Free Cooking Calls Specifically",
+   "intro": "The kitchen is where a speakerphone earns its place.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A separate speaker volume control, a base heavy enough to stay put and big keys that can be pressed with a damp finger. Check that the speakerphone starts with one key and that the handset can be left in the cradle without cutting the call."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Sacumea Big Button Phone With Speakerphone is the simplest hands-free option, and the VTech SN1127 adds a louder 90dB ringer, photo keys and an answering machine. The Clarity E814CC lists an extra loud and clear speakerphone, which suits a larger room."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "table": {
+    "headers": [
+     "Spend more if",
+     "Save if"
+    ],
+    "rows": [
+     [
+      "You need up to 50dB and tone control, so the Clarity XLC8 is justified",
+      "You only need light boost and the Serene Innovations at 26dB is enough"
+     ],
+     [
+      "You want an answering machine and photo keys, as on the VTech SN1127",
+      "You want a plain phone and the Sacumea or Lativu will do"
+     ],
+     [
+      "You expect to add handsets, so the Clarity E814CC will grow with you",
+      "One fixed phone covers the home and no handsets are planned"
+     ],
+     [
+      "A cell phone paired by Bluetooth would save a second device",
+      "A landline alone handles all calls"
+     ]
+    ]
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": "What makes an amplified speakerphone different from a normal one?",
+   "a": "An amplified phone raises incoming volume above a normal phone, usually on both the handset and the speaker. Models such as the Clarity XLC8 quote up to 50dB, and some add tone controls to shape the sound. A normal speakerphone has a volume knob but not that extra headroom. Check that the amplification applies to the speaker as well as the handset, because listings often describe only the handset."
+  },
+  {
+   "q": "Which of these is best for a larger room?",
+   "a": "The Clarity E814CC lists an extra loud and clear speakerphone, and the VTech SN1127 has a heavy base with a 90dB ringer. Neither listing gives a speaker output figure, so check the manual if room size matters. A cordless handset such as the Clarity XLC8 can be carried into the room instead of relying on the speaker alone."
+  },
+  {
+   "q": "Are these phones good value?",
+   "a": "The Sacumea and Lativu cost the least and cover the basics of big keys, a speakerphone and a loud ringer. The VTech SN1127 and Clarity phones cost more because they add an answering machine, tone control or expandability. Spend extra only for a feature you will actually use. A phone with ten settings that nobody touches is worse than a simple one."
+  },
+  {
+   "q": "Will a corded phone still work in a power cut?",
+   "a": "A corded phone that draws power from the line keeps working during an outage on a traditional copper line, which the VTech SN1127 listing highlights. Phones that rely on a base such as the Clarity XLC8 need mains power. If your phone service comes through a fiber or cable modem, that modem also needs power, so a backup plan is sensible."
+  },
+  {
+   "q": "Do amplified phones work with hearing aids?",
+   "a": "Compatibility is rated on M and T numbers from 1 to 4, with 4 the best, and a telecoil in the aid is needed for the T rating to matter. The listings in this group do not all give those ratings, so check the box and the manual. An audiologist can advise on which phone suits the specific aid. A phone is a convenience tool, not treatment."
+  },
+  {
+   "q": "Is more amplification always better?",
+   "a": "No, because very high settings can distort speech and make it harder to follow. The ideal phone has adjustable amplification so you can set the level that is comfortable. The 50dB on the Clarity XLC8 gives headroom, while the 26dB on the Serene Innovations is enough for mild needs. Choose by how much you need, not by the largest number."
+  }
+ ]
+}

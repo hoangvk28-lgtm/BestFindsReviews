@@ -1,0 +1,15 @@
+# Research: amplified phone (ease of use, not medical)
+
+- Amplification is quoted in dB of added incoming volume. Typical amplified phones run roughly 20 to 50 dB, a few reach 50-plus. Sources disagree on which level suits which person, so treat the number as relative: more headroom is useful, but very high settings can distort speech, so pick a phone with an adjustable control rather than a fixed boost.
+- A plain volume control raises every frequency equally, which can make speech sound muddy or boomy. Tone control (high/low emphasis, often 4 to 6 preset settings) lets the user lift the frequencies that are hard to follow, and can reduce the sense of background noise.
+- Some phones add outgoing amplification or a "slow talk" feature that slows the speed of the caller's speech; a talking caller ID announces the name or number aloud.
+- Hearing aid compatibility on US phones is rated with FCC M (microphone/acoustic) and T (telecoil/inductive) numbers from 1 to 4, with 4 the best. A telecoil ("T-coil") in the hearing aid picks up the handset's magnetic signal directly; not every aid has a telecoil. Some amplifiers pair to Bluetooth hearing aids instead. A listing's claim should be checked against the box or manual and the specific aid.
+- Ringer loudness: around 85 dB is a loud ringer, 90 to 100 dB or more is very loud. A flashing light (visual ringer) helps when the user is in another room or the ringer is switched off. Ringer pitch and tone adjust on some models.
+- Corded phones that take power from the phone line keep working in a power cut on a traditional copper line; DECT cordless bases need mains power, so a cordless-only home has no phone when the power fails unless the base has battery backup or the model has a documented outage mode. Phone service delivered over fiber, cable or VoIP also usually needs a powered modem or terminal (consider a UPS for it).
+- Corded amplified models are often capable of stronger amplification and are simpler; cordless gives mobility, which matters if getting to the phone quickly is the problem.
+- DECT 6.0 cordless phones operate on 1.9 GHz, which avoids Wi-Fi interference; base stations are expandable with additional handsets (the same brand and series).
+- Photo speed dial keys let each button show a picture of the contact; useful for people who find names hard to read or remember. Some phones let the keys switch between one-touch and normal modes.
+- An external ringer amplifier or flasher plugs into the phone line or pairs by Bluetooth to a cell phone; it adds a louder ringer and light but does not amplify the call audio.
+- Add-on handsets are accessories that only work with the matching base (for example the VTech SN5107 pairs with SN5127 or SN5147 systems); they are not a phone on their own.
+- Clarity (Plantronics-origin, now under Clarity/Illinois Telephone), Panasonic, Geemarc, VTech, AT&T, Swissvoice are the main brands; Clarity and Geemarc concentrate on amplified models, Panasonic and VTech add amplification or volume boost on mainstream cordless lines.
+- Ask a doctor or audiologist about hearing questions; a phone is a convenience tool, not treatment.

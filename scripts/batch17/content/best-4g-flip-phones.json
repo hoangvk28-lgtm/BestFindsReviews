@@ -1,0 +1,548 @@
+{
+ "guideTitle": "6 Best 4G Flip Phones in 2026",
+ "metaTitle": "Best 4G Flip Phones in 2026",
+ "metaDescription": "Six 4G LTE flip phones compared on what the network label really promises, from an AT&T locked Smartflip to unlocked TCL, artfone, UNIWA and VAHVARNA models.",
+ "introParagraphs": [
+  "A flip phone that says 4G on the box has passed the first test of the post-3G era, but the label alone says surprisingly little. It does not say which carriers the phone's radio bands cover, whether the carrier has switched on voice over LTE for that exact model, or whether a SIM is included, locked or needs activating somewhere else first. This guide looks at six 4G flips through those practical gaps, because the gaps are where first-day frustration comes from.",
+  "The six picks are the TCL Flip 3, the artfone G3, the SilisoundTek 4G dual-screen flip, the UNIWA V202T, the VAHVARNA KaiOS flip and the AT&T Smartflip IV. Between them you will find phones locked to one carrier, phones that arrive with a SIM already inside, and phones sold unlocked with a recommended carrier written in the listing. All six are described as 4G, but they are not interchangeable.",
+  "We evaluated each from its listing and from buyer feedback, did not claim hands-on testing, and treat every carrier statement as the seller's claim. Where a listing is cut off or vague, we say so rather than guess."
+ ],
+ "products": [
+  {
+   "i": 0,
+   "badge": "Best for Verizon-Network Plans",
+   "name": "TCL Flip 3 (T435S) 4G LTE Flip Phone",
+   "specs": [
+    "4G LTE",
+    "Verizon and GSM unlocked",
+    "3.2 inch inner screen",
+    "1.77 inch outer screen",
+    "Shortcut keys"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G LTE"
+    },
+    {
+     "label": "Lock",
+     "value": "Unlocked, original carrier Verizon"
+    },
+    {
+     "label": "Inner screen",
+     "value": "3.2 inch"
+    },
+    {
+     "label": "Outer screen",
+     "value": "1.77 inch"
+    },
+    {
+     "label": "Storage",
+     "value": "16GB"
+    }
+   ],
+   "description": "The TCL Flip 3 is a straightforward 4G LTE clamshell whose listing is unusually candid about its limits. It says the phone was originally a Verizon device, that it is unlocked for most Verizon MVNO carriers, and that it will not work for all carriers. For a 4G buyer that is the most useful sentence in the entire listing, because it tells you the radio is tuned for one carrier family.\n\nOn the practical side it offers a 3.2-inch inner display, a 1.77-inch outer display that shows notifications, large buttons and dedicated keys for favorite contacts and messages. Sixteen gigabytes of storage is ample for a phone with no real app store. The shortcut keys are the feature that most separates it from the plainest flips, since they reduce how many presses it takes to reach a person.\n\nIt works best when you pair it with a Verizon-network plan and confirm the model with the reseller beforehand. Against the UNIWA V202T, which ships with a SpeedTalk Mobile SIM, the TCL asks you to bring your own plan. Against the artfone G3 it leans toward a different carrier family altogether.",
+   "bestFor": "Verizon-network plans from a reseller that accepts unlocked phones.",
+   "pros": [
+    "4G LTE on a clean clamshell",
+    "Outer screen shows notifications",
+    "Shortcut keys for contacts and messages",
+    "Honest carrier statement in the listing"
+   ],
+   "cons": [
+    "Does not work on all carriers",
+    "Little beyond calls and texts",
+    "Model must be verified before buying"
+   ]
+  },
+  {
+   "i": 4,
+   "badge": "Best VoLTE Keypad",
+   "name": "artfone G3 4G VoLTE Flip Phone",
+   "specs": [
+    "4G VoLTE",
+    "2.4 inch screen",
+    "21 large buttons",
+    "SOS button",
+    "Hearing Enhancement Mode"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G VoLTE, 2G/3G/4G bands listed"
+    },
+    {
+     "label": "Screen",
+     "value": "2.4 inch"
+    },
+    {
+     "label": "Keys",
+     "value": "21 large buttons"
+    },
+    {
+     "label": "Safety",
+     "value": "SOS button"
+    },
+    {
+     "label": "Carrier",
+     "value": "T-Mobile recommended"
+    }
+   ],
+   "description": "The artfone G3 puts the term VoLTE right in its name, which is exactly the label a 4G buyer wants to see. The listing says it supports 2G, 3G and 4G LTE bands and recommends T-Mobile as the best match, with 21 large physical buttons including an SOS key and speed dial. A 2.4-inch screen sits inside the clamshell.\n\nA Hearing Enhancement Mode is also listed, switched on by long-pressing the camera button after earphones or a hearing device are connected. This is a useful extra for people who like to adjust call audio without opening menus. There is no outer screen, so the caller is invisible until you flip it open, which is a deliberate simplification.\n\nIts 2G and 3G listing is mostly history now, since the major US carriers retired 3G, so the 4G VoLTE line is the one that counts. Next to the SilisoundTek, it trades the outer display for the hearing mode and the very large key count. It is the keypad-first choice among the six.",
+   "bestFor": "T-Mobile users who want a large-key phone with VoLTE.",
+   "pros": [
+    "VoLTE named in the title",
+    "21 large physical keys",
+    "SOS key and speed dial",
+    "Hearing Enhancement Mode with earphones"
+   ],
+   "cons": [
+    "No outer screen",
+    "Listing favors T-Mobile",
+    "Old 2G and 3G bands add nothing today"
+   ]
+  },
+  {
+   "i": 5,
+   "badge": "Best Dual Screen with Dock",
+   "name": "SilisoundTek 4G Dual-Screen Flip Phone",
+   "specs": [
+    "4G LTE unlocked",
+    "2.8 inch plus 1.5 inch screens",
+    "Charging dock",
+    "1400mAh battery",
+    "SOS button"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G LTE, T-Mobile recommended"
+    },
+    {
+     "label": "Screens",
+     "value": "2.8 inch inner, 1.5 inch outer"
+    },
+    {
+     "label": "Battery",
+     "value": "1400mAh, 6 to 8 hours talk"
+    },
+    {
+     "label": "Charging",
+     "value": "Dock"
+    },
+    {
+     "label": "Features",
+     "value": "SOS, speed dial, large fonts"
+    }
+   ],
+   "description": "The SilisoundTek flip is an unlocked 4G LTE phone that says it supports multiple carrier networks, with optimal compatibility on T-Mobile and other carriers less certain. It combines a 2.8-inch inner screen with a 1.5-inch outer screen, an SOS button, speed dial and large fonts. A 1400mAh battery is listed for six to eight hours of talk time.\n\nThe charging dock is the part of the design that quietly improves daily life, since setting a phone into a cradle is simpler than lining up a small plug. The battery is modest, so nightly charging is a habit to build. The hedged carrier language is honest, and a careful buyer should ask the carrier about VoLTE before relying on anything but T-Mobile.\n\nIt overlaps strongly with the 4G models sold under the same maker, which differ mainly in listing details. Compared with the UNIWA V202T, it has a larger inner screen but fewer preloaded conveniences such as a bundled SIM. The maker sells several near-identical models, so make sure the listing you buy matches the 2.8 inch plus 1.5 inch screens described here.",
+   "bestFor": "A dual-screen 4G flip with a dock on T-Mobile.",
+   "pros": [
+    "4G LTE and unlocked",
+    "Dual screens",
+    "Charging dock",
+    "SOS button and speed dial"
+   ],
+   "cons": [
+    "Other carriers uncertain",
+    "Smaller 1400mAh battery",
+    "Outer screen is only 1.5 inches"
+   ]
+  },
+  {
+   "i": 7,
+   "badge": "Best with SIM Included",
+   "name": "UNIWA V202T 4G Flip Phone Unlocked",
+   "specs": [
+    "4G unlocked",
+    "2.4 inch plus 1.77 inch screens",
+    "SpeedTalk Mobile SIM pre-installed",
+    "8 speed dials",
+    "SOS button"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G unlocked"
+    },
+    {
+     "label": "Screens",
+     "value": "2.4 inch inner, 1.77 inch outer"
+    },
+    {
+     "label": "SIM",
+     "value": "SpeedTalk Mobile pre-installed"
+    },
+    {
+     "label": "Speed dial",
+     "value": "8 slots"
+    },
+    {
+     "label": "Safety",
+     "value": "SOS button"
+    }
+   ],
+   "description": "The UNIWA V202T is the only 4G pick that arrives with a SpeedTalk Mobile SIM already installed, which the listing flags in its own advice to check the carrier and SIM before buying. It has a 2.4-inch inner screen and a 1.77-inch outer screen, oversized physical keys and bold fonts, eight speed dials and an SOS button. For someone who wants a phone ready to activate, a bundled SIM shortens the setup.\n\nThe bundled SIM is also the catch. If you already have a plan from another carrier, you will need to swap the SIM, and you should confirm that the phone's bands and VoLTE profile suit that carrier. The listing excerpt gives a band list for 2G and 3G but not the full 4G detail, so ask the seller for the LTE bands before relying on it.\n\nCompared with the TCL Flip 3, the UNIWA is friendlier to a first setup but less explicit about carrier support. It is the pick for buyers who want a package and are happy to use the included service to start. A person who dislikes hunting for a phone store may find the bundled SIM the most welcome part of the package.",
+   "bestFor": "A ready-to-activate 4G flip with a SIM in the box.",
+   "pros": [
+    "SIM pre-installed",
+    "Dual HD color screens",
+    "Eight speed dials",
+    "Oversized keys and bold fonts"
+   ],
+   "cons": [
+    "Need to check carrier and SIM before buying",
+    "LTE bands not fully listed in the excerpt",
+    "Switching carriers means swapping the SIM"
+   ]
+  },
+  {
+   "i": 1,
+   "badge": "Best 4G with KaiOS",
+   "name": "VAHVARNA KaiOS Dual-Screen Flip Phone, 4G LTE",
+   "specs": [
+    "4G LTE GSM",
+    "KaiOS",
+    "3.2 inch main screen",
+    "2.0 inch outer screen",
+    "Single nano SIM"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G LTE GSM unlocked"
+    },
+    {
+     "label": "OS",
+     "value": "KaiOS"
+    },
+    {
+     "label": "Main screen",
+     "value": "3.2 inch"
+    },
+    {
+     "label": "Outer screen",
+     "value": "2.0 inch"
+    },
+    {
+     "label": "SIM",
+     "value": "Single nano"
+    }
+   ],
+   "description": "This VAHVARNA flip is a 4G LTE GSM phone running KaiOS, with a 3.2-inch main screen, a 2.0-inch outer screen and one nano SIM slot. The listing names AT&T and T-Mobile among compatible carriers and then warns about one it does not work with, though the text is cut off in the excerpt. It is the most feature-rich of the keypad-style 4G picks.\n\nKaiOS adds a small app store, so you can carry maps, a browser and other light tools without moving to a full smartphone. The tradeoff is more menus than the plainest flips. As with any KaiOS phone, which apps are available has shifted over time, so confirm with the maker before counting on a particular one.\n\nIf you want 4G reliability and a few smart features, it is a good middle. Against the artfone G3 it gives up the dedicated SOS emphasis and the very large key count but gains a bigger outer display and apps. It is worth asking the maker which carrier the incompatibility note refers to before ordering, since the excerpt does not finish the sentence.",
+   "bestFor": "A 4G flip with light smart features on AT&T or T-Mobile.",
+   "pros": [
+    "4G LTE with KaiOS apps",
+    "Large 2.0 inch outer screen",
+    "3.2 inch main display",
+    "Unlocked GSM"
+   ],
+   "cons": [
+    "Incompatible carrier is cut off in the listing",
+    "More menus than a basic flip",
+    "App support can change"
+   ]
+  },
+  {
+   "i": 9,
+   "badge": "Best AT&T Locked Option",
+   "name": "AT&T Smartflip IV (U102AA) 4G Flip Phone",
+   "specs": [
+    "4G",
+    "Locked to AT&T",
+    "4GB storage",
+    "AT&T SIM included"
+   ],
+   "specList": [
+    {
+     "label": "Network",
+     "value": "4G, AT&T only"
+    },
+    {
+     "label": "Lock",
+     "value": "Locked to AT&T"
+    },
+    {
+     "label": "Storage",
+     "value": "4GB"
+    },
+    {
+     "label": "SIM",
+     "value": "AT&T SIM included"
+    },
+    {
+     "label": "Model",
+     "value": "Smartflip IV U102AA"
+    }
+   ],
+   "description": "The AT&T Smartflip IV is the simplest answer for an AT&T customer. The listing says it is locked to AT&T, that an AT&T SIM card is included, and that it will not work on any other company. There is no ambiguity about the network, which is a relief after the hedged language on the unlocked picks.\n\nIt is described as a 4G phone with 4GB of storage. The excerpt for this model gives few other specs, so look at the product page for screen size and key layout. Being carrier-locked also means that it cannot move with you if you ever change providers.\n\nIt is the pick for someone who is already on AT&T and wants a phone that works without any compatibility homework. Compared with the TCL Flip 3, it trades flexibility for certainty. If you are on any other carrier, skip it entirely. If you are adding a line to an existing AT&T account, ask the store whether the phone can be added without a new SIM fee, since some plans handle that differently.",
+   "bestFor": "Existing AT&T customers who want certainty over flexibility.",
+   "pros": [
+    "AT&T SIM included",
+    "Clear carrier compatibility",
+    "4G network support",
+    "No unlocking questions"
+   ],
+   "cons": [
+    "Works only on AT&T",
+    "Few specs in the excerpt",
+    "Cannot move to another carrier"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What the 4G label guarantees",
+   "explanation": "A 4G label tells you the phone has an LTE radio, but not which bands it covers or whether a carrier has enabled voice over LTE for that exact model. Since 3G was retired in 2022, voice calls run over LTE, so a phone with the radio but without VoLTE approval may power on and still fail to place calls. The artfone G3 and TCL Flip 3 both list 4G LTE, but the carrier still decides. Ask for confirmation using the phone's model number. The IMEI is printed on the box or found by dialing a code, and a carrier can look it up in seconds."
+  },
+  {
+   "criterion": "Carrier lock versus carrier hint",
+   "explanation": "There are three different statements a listing can make: locked to one carrier, unlocked with a recommended carrier, or unlocked with partial carrier support. The AT&T Smartflip IV is locked to AT&T, the SilisoundTek and artfone G3 recommend T-Mobile, and the TCL Flip 3 is unlocked for most Verizon MVNOs. Read which of the three applies before you order, because the right one depends on where you already have service. A recommended carrier in an unlocked listing is a sales hint and not a guarantee, so treat it as the best case. Ask the carrier directly if your plan is with a smaller reseller."
+  },
+  {
+   "criterion": "SIM included or not",
+   "explanation": "A bundled SIM is convenient if the carrier suits you, and a hurdle if it does not. The UNIWA V202T ships with a SpeedTalk Mobile SIM, and the AT&T Smartflip IV includes an AT&T SIM. The others need you to supply a SIM, and a new one may need activating in another device. Hold on to the old SIM for a few days in case you need to switch back while the new line settles in."
+  },
+  {
+   "criterion": "Why 2G and 3G band lists mislead",
+   "explanation": "Some listings, such as the artfone G3, mention 2G, 3G and 4G support. Because the major US carriers have retired 3G, those older bands add nothing for voice in most areas. What matters is the list of 4G LTE bands. If the listing does not give them, ask the seller before you buy."
+  },
+  {
+   "criterion": "Operating system and complexity",
+   "explanation": "Basic firmware on the TCL Flip 3 and artfone G3 is simplest, KaiOS on the VAHVARNA flip adds a small app store, and the Smartflip IV excerpt does not describe its software. More capable systems bring more menus and updates. Choose the lowest level that does the job. For someone who dislikes surprises, the plainest firmware is a feature, since nothing changes after an update. KaiOS suits people curious about extras."
+  },
+  {
+   "criterion": "Screens, keys and charging",
+   "explanation": "Outer screens show callers, large keys reduce misdials, and docks simplify charging. The VAHVARNA flip has a 2.0-inch outer screen, the TCL Flip 3 has 1.77 inches, the UNIWA has 1.77 inches and the SilisoundTek has 1.5 inches. The artfone G3 has none but has 21 large keys. A dock on the SilisoundTek helps if small ports are hard to align. Between the options, think about whether glancing at an outer screen or feeling a big key matters more in your day."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Network wording",
+   "description": "We read how each listing describes its network and compared the claims. The artfone G3 names VoLTE, the TCL Flip 3 admits limits, and the AT&T Smartflip IV states a hard lock."
+  },
+  {
+   "title": "Carrier clarity",
+   "description": "We scored how clearly a buyer can tell which carriers work. The Smartflip IV and TCL Flip 3 were the clearest, while the VAHVARNA excerpt is cut off."
+  },
+  {
+   "title": "Setup burden",
+   "description": "We considered SIM inclusion and activation effort. The UNIWA and Smartflip IV include SIMs, while the others need you to bring one."
+  },
+  {
+   "title": "Usability",
+   "description": "We compared keys, screens and charging. The artfone G3 leads on key size, the VAHVARNA on outer screen size, and the SilisoundTek on the dock."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The TCL Flip 3 leads on candor, the artfone G3 on VoLTE and keys, the SilisoundTek on dock, the UNIWA on bundled setup, the VAHVARNA on features and the Smartflip IV on certainty for AT&T."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Carrier You Already Use",
+   "intro": "Start with the network that already serves your home.",
+   "table": {
+    "headers": [
+     "Your carrier",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "AT&T",
+      "AT&T Smartflip IV (U102AA) 4G Flip Phone",
+      "Locked and certain"
+     ],
+     [
+      "Verizon-network reseller",
+      "TCL Flip 3 (T435S) 4G LTE Flip Phone",
+      "Unlocked for most Verizon MVNOs"
+     ],
+     [
+      "T-Mobile with big keys",
+      "artfone G3 4G VoLTE Flip Phone",
+      "VoLTE and 21 keys"
+     ],
+     [
+      "T-Mobile with dock",
+      "SilisoundTek 4G Dual-Screen Flip Phone",
+      "Dock and outer screen"
+     ],
+     [
+      "No plan yet",
+      "UNIWA V202T 4G Flip Phone Unlocked",
+      "SIM included"
+     ]
+    ]
+   },
+   "note": "Check the model number with the carrier either way."
+  },
+  {
+   "subheading": "By Budget Level",
+   "intro": "Price order inside the group.",
+   "table": {
+    "headers": [
+     "Level",
+     "Recommended pick",
+     "Reason"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "SilisoundTek 4G Dual-Screen Flip Phone",
+      "Lowest price rank"
+     ],
+     [
+      "Low",
+      "artfone G3 4G VoLTE Flip Phone",
+      "Keys and VoLTE"
+     ],
+     [
+      "Middle",
+      "TCL Flip 3 (T435S) 4G LTE Flip Phone",
+      "Shortcut keys"
+     ],
+     [
+      "Upper",
+      "AT&T Smartflip IV (U102AA) 4G Flip Phone",
+      "Locked, AT&T SIM included"
+     ],
+     [
+      "Upper",
+      "VAHVARNA KaiOS Dual-Screen Flip Phone, 4G LTE",
+      "Apps"
+     ],
+     [
+      "Top",
+      "UNIWA V202T 4G Flip Phone Unlocked",
+      "Bundled SIM"
+     ]
+    ]
+   },
+   "note": "Prices change, so use this only as a rough order."
+  },
+  {
+   "subheading": "Locked vs Unlocked 4G",
+   "intro": "A lock is a limit and a promise.",
+   "cards": [
+    {
+     "label": "Locked",
+     "text": "The AT&T Smartflip IV (U102AA) 4G Flip Phone only works on AT&T and includes an AT&T SIM. It removes guesswork but cannot follow you to another provider. Choose it if you are staying with AT&T."
+    },
+    {
+     "label": "Unlocked",
+     "text": "The TCL Flip 3 (T435S) 4G LTE Flip Phone, artfone G3 4G VoLTE Flip Phone, SilisoundTek 4G Dual-Screen Flip Phone, UNIWA V202T 4G Flip Phone Unlocked and VAHVARNA KaiOS Dual-Screen Flip Phone, 4G LTE accept other SIMs, but each has band limits. Choose these if you may switch."
+    }
+   ],
+   "note": "Locked for certainty, unlocked for freedom."
+  },
+  {
+   "subheading": "Screens and Charging",
+   "intro": "Daily handling differs.",
+   "table": {
+    "headers": [
+     "Preference",
+     "Recommended pick",
+     "Reason"
+    ],
+    "rows": [
+     [
+      "Biggest outer screen",
+      "VAHVARNA KaiOS Dual-Screen Flip Phone, 4G LTE",
+      "2.0 inch"
+     ],
+     [
+      "Dock charging",
+      "SilisoundTek 4G Dual-Screen Flip Phone",
+      "Cradle"
+     ],
+     [
+      "No outer screen, biggest keys",
+      "artfone G3 4G VoLTE Flip Phone",
+      "21 keys"
+     ],
+     [
+      "Eight speed dials",
+      "UNIWA V202T 4G Flip Phone Unlocked",
+      "Speed dial"
+     ]
+    ]
+   },
+   "note": "Handle a demo unit if you can."
+  },
+  {
+   "subheading": "For a Brand-New Setup Specifically",
+   "intro": "A first-time setup benefits from fewer steps.",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Choose a bundled SIM or a locked phone from the carrier you will use, so there is one fewer compatibility step."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The AT&T Smartflip IV (U102AA) 4G Flip Phone and UNIWA V202T 4G Flip Phone Unlocked both include SIMs and are the fastest to start."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "intro": "Extra cost buys features or certainty.",
+   "table": {
+    "headers": [
+     "Spend more if",
+     "Save if"
+    ],
+    "rows": [
+     [
+      "You want apps on the VAHVARNA KaiOS Dual-Screen Flip Phone, 4G LTE",
+      "You only need calls from the artfone G3 4G VoLTE Flip Phone"
+     ],
+     [
+      "You want a locked certainty like the AT&T Smartflip IV (U102AA) 4G Flip Phone",
+      "You are happy to check compatibility yourself"
+     ],
+     [
+      "You want shortcut keys on the TCL Flip 3 (T435S) 4G LTE Flip Phone",
+      "Speed dial on the UNIWA V202T 4G Flip Phone Unlocked is enough"
+     ],
+     [
+      "You want a dock like the SilisoundTek 4G Dual-Screen Flip Phone",
+      "A cable is fine"
+     ]
+    ]
+   },
+   "note": "Choose what you will use daily."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does 4G mean on a flip phone?",
+   "a": "It means the phone has an LTE radio. It does not guarantee your carrier supports that exact model for voice. Ask the carrier with the model number and IMEI. If the carrier says yes, that is the clearest signal available before you buy."
+  },
+  {
+   "q": "Do I need VoLTE?",
+   "a": "Yes, in the US. The major carriers retired 3G in 2022, so voice runs over LTE. The artfone G3 names VoLTE in its title, but check for others."
+  },
+  {
+   "q": "Can I use an AT&T-locked phone on another carrier?",
+   "a": "No. The AT&T Smartflip IV is locked to AT&T and will not work with another provider. If you may switch, choose an unlocked phone. A locked phone is still a fine buy when you know you will stay put, and it removes compatibility worries."
+  },
+  {
+   "q": "Why include a SIM?",
+   "a": "It saves a step. The UNIWA ships with a SpeedTalk Mobile SIM, and the Smartflip IV with an AT&T SIM. Check that the carrier suits you."
+  },
+  {
+   "q": "Are 2G and 3G bands useful?",
+   "a": "Not much. Those networks have been retired by the major US carriers. The 4G LTE bands are what matter. If a listing talks mostly about 2G and 3G, treat it as marketing language and ask for the 4G band list."
+  },
+  {
+   "q": "Which 4G flip is simplest?",
+   "a": "A keypad flip like the artfone G3 or TCL Flip 3. The VAHVARNA adds KaiOS apps. The Smartflip IV excerpt does not describe its software. If your user has never held a smartphone, start with a keypad model and add complexity only if it is needed."
+  },
+  {
+   "q": "What if the phone will not call?",
+   "a": "Contact the carrier with the IMEI and model, and ask if VoLTE is enabled. A new SIM may need activation. A factory reset can help. Keep the receipt and packaging until you are sure the phone works well on your plan."
+  }
+ ]
+}
