@@ -1,0 +1,13 @@
+# bed assist rail research notes
+- The FDA hospital bed guidance (March 2006, "Hospital Bed System Dimensional and Assessment Guidance to Reduce Entrapment") defines seven entrapment zones; zones 1 to 4 account for most entrapments and deaths.
+- Secondary sources cite gaps under about 4-3/4 inches for the head zones and under about 2-3/8 inches at the rail ends (neck zone). These figures were not verified against the FDA document, so do not state them as exact; say only that gaps around a rail are the risk.
+- The FDA guidance excludes or partly excludes some bed types (air-fluidized, bariatric, pediatric, air mattresses), so it is not a blanket approval for home use.
+- Bed rails are commonly sorted into strap-based (base slides between mattress and box spring), tension/clamp (rely on mattress weight and friction) and mobility assist rails.
+- Assist rails are usually a short handle to help move from lying to sitting or standing; full-length rails give more fall coverage but create more gap and entrapment exposure. Half-length designs make exiting at the foot of the bed easier.
+- Manufacturer manuals stress the mattress must sit tight against the rail with no gap, and recommend checking at least daily; any gap could let a person become wedged.
+- Mattress thickness ranges vary by rail (examples seen: 15 to 43 cm, 20 to 40 cm, 10 to 16 inches). Check the rail's own range.
+- Some rails use a safety strap looped around the bed frame; one maker suggests two straps for divan bases. At least one rail fixes to the frame instead of the mattress.
+- Stated weight limits vary widely (examples seen from about 127 kg to 190 kg, and 400 lb for one assist handle). Treat the rating as a hard maximum and check whether it applies to the rail or the user.
+- At least one assist rail is explicitly not intended to support a person's full body weight.
+- Several manuals say the rail is not for adjustable (height-adjustable or profiling) beds; check this before buying for an adjustable base.
+- Confirm setup with a clinician or occupational therapist; make no medical-benefit claims.

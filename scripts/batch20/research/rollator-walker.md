@@ -1,0 +1,14 @@
+# Seed: rollator walker
+- Handle fit: grips should sit near the user's standing wrist-crease height, elbows slightly bent, shoulders relaxed.
+- Measure wrist-crease height in inches and compare to each model's published handle range.
+- Seat: feet should reach the floor with knees roughly level for short rests; seats are for brief rests, not transport.
+- Weight capacity is the maker's rated maximum user load; count bags or carried items. Higher ratings usually mean heavier frames.
+- Lock brakes before sitting; loop or push-down parking brakes keep the frame from rolling away.
+- Confirm the user can squeeze and lock the brakes with their grip strength before relying on the seat.
+- Weight matters for trunk loading by caregivers; lighter is not always more stable outdoors.
+- Larger wheels (8 inch and up) roll over cracks, grass and thresholds better than 6 to 7.5 inch wheels, but make a longer frame.
+- Check folded and unfolded width against the tightest doorway at home.
+- 4-wheel models are the default; 3-wheel models turn tighter but usually have no full seat and feel less stable.
+- Common mistakes: not engaging brakes when sitting, overloading the basket, using on slopes, skipping wheel and brake checks.
+- Standard walkers have no wheels and are lifted; rollators roll and have brakes, so brake and seat checks matter.
+- Fit and suitability should be confirmed with a clinician or physical therapist.

@@ -26,6 +26,15 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch20") {
+    // new kw ver 2 25.10 (batch20): mobility and daily-living aids, best + under-budget ladder guides
+    const SAFETY = /bed assist rail|transfer board|quad cane|rollator|walking cane/;
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch20-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword,
+      niche: r.tier ? "Budget" : "Mobility & Daily Living",
+      why: [r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle.`,
+        SAFETY.test(r.seed) ? "SAFETY-SENSITIVE: be conservative, cite stated weight limits and fit requirements, advise confirming fit and use with a clinician or physical therapist, never imply medical benefit (bed rails: mention entrapment-gap risk)." : ""].filter(Boolean).join(" "), note: "" }));
+  }
   if (process.env.BATCH === "batch16") {
     // Keyword new 25.10: arthritis-friendly kitchen tools, best + under-budget ladder guides
     return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch16-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,

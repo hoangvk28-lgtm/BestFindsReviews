@@ -1,0 +1,13 @@
+# walker accessories research
+- Trays and bags are often built for a specific frame type; a tray made for a folding walker can fit a standard walker insecurely. Match the accessory to the walker type.
+- "Universal" does not guarantee fit: measure the width between the frame arms, handle cutout depth and crossbar length before buying.
+- Listed tray widths example: some fit walkers up to about 18 to 18.5 inches wide between the arms.
+- Attachment style matters: clips designed for thin tubing may not grip thick tubing; straps with hook-and-loop adapt to more frame shapes.
+- Weight ratings vary widely: some trays list about 5 lb, others 10 lb, fabric organizers about 15 lb. The rating covers the total load including drinks and dishes.
+- Exceeding the rating can bend or detach the accessory and make the walker tip or drop items.
+- Spread weight evenly and keep heavy items low and centered on the frame.
+- Fold-down trays fold flat when not in use; check that a mounted accessory does not block the walker folding.
+- For drinks, raised edges (about 1/2 inch) and non-slip surface reduce sliding; cup holders need a snug fit.
+- Test a new tray with a light object before loading it.
+- Rollators usually have their own seat and often a basket; under-seat bags or side bags attach to the handles or frame, and a seat-mounted load should not exceed the maker's stated limit.
+- Confirm compatibility with a clinician or physical therapist; no clinical source found comparing trays on rollators vs standard walkers.

@@ -1,0 +1,15 @@
+# adaptive dining research notes
+- Scoop plates use a high-low rim: low entry wall (about 1/2 in on one maker's listing) rising to a high back wall, so food is pushed onto a fork or spoon with one hand.
+- Retailer listings repeat three features: raised sloped edge, suction or non-slip base, and polypropylene construction.
+- Suction rings and rubber pads both stop sliding, but suction needs a smooth, non-porous surface; textured placemats defeat it.
+- Color contrast is the main low-vision feature: a bright rim or plate against a dark table helps food and plate edge stand out.
+- Plate guards clip or curve onto an ordinary plate to add a wall; listings promise fit for roughly 9 to 12 in plates, so check rim shape and plate depth.
+- Silicone guards are flexible and dishwasher friendly but can lift off very flat or very rimmed plates.
+- Divided plates mainly separate foods and portions; on their own they do not stop a plate from sliding.
+- Melamine is usually dishwasher safe but sources say not to microwave it unless the maker states so.
+- Wheat straw and polypropylene blends are the common microwave-friendly plastic; listings cite limits near 230 to 248 F, so confirm per product.
+- Dishwasher safety for plastics typically means top rack.
+- Stainless steel plates are not microwave safe, and ceramic depends on glaze and any metal trim.
+- Ceramic is heavy and breakable; heavier plates stay put but are harder to lift and clean for weak grip.
+- Compartment depth matters more than count: deeper walls scoop better, shallow ones let sauces mix.
+- Always check the stated diameter; several listings are small side plates, not dinner plates.

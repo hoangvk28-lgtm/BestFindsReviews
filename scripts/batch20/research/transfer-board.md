@@ -1,0 +1,15 @@
+# transfer board research
+- Weight rating is the first filter; ratings on consumer boards run from roughly 220 to 600 lb, so match the rating with margin.
+- Over about 400 lb users should look at a properly rated bariatric board, not stretch a standard one.
+- Measure the gap from the front of the wheelchair cushion to the destination surface before choosing length.
+- 24 to 30 inch boards cover most bed and chair transfers; 30 to 36 inch suits wider gaps such as car, SUV or van seats.
+- Longer boards bridge more but are harder to carry and slide across.
+- Width of 8 inches is common; a wider board gives a bigger target but is bulkier.
+- Keep the two surfaces within about half an inch of each other, or move to a slightly lower surface.
+- Tapered ends slide under the user more easily and avoid catching clothing.
+- Cutout handles give grip, but hands can get trapped in them; some boards offer none.
+- The unsupported gap between surfaces is the risky part; keep it as small as possible.
+- Transfers are done in several small movements, not one big move, often with a gait or transfer belt.
+- Turntable discs rotate 360 degrees for people who cannot pivot; the one listed here requires caregiver assistance.
+- Check listings for conflicting specs (a title and bullet can disagree on capacity) and confirm with the seller.
+- Learn the technique with a physical or occupational therapist before first use.

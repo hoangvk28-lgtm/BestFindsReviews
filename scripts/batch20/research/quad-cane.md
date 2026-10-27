@@ -1,0 +1,16 @@
+# quad cane research notes
+- A quad base gives four floor contact points and stands on its own, which gives more lateral stability than a single-point cane; manufacturers position it for people who want help with balance on uneven ground or when rising from a chair.
+- Trade-off: quad canes are heavier and bulkier than single-point canes, and a single-point cane is lighter and more maneuverable but asks more of the user's own balance.
+- Small base is described by makers (for example Medline) as suited to a faster pace and tighter spaces; large base gives more stability at a slower pace.
+- A large base can be too wide for a standard stair tread; on stairs a quad cane may need to be turned sideways to fit.
+- Standard adult quad canes are commonly rated at about 250 to 300 lb; bariatric models commonly list 500 lb (for example ProBasics lists adult 300 lb, bariatric 500 lb).
+- Steel or reinforced bariatric models add noticeable weight compared with aluminum.
+- Adjustable canes commonly cover roughly 29 to 38 inches; exact range varies by model.
+- Common height guide: handle near wrist-crease height with a relaxed standing posture, leaving a gentle elbow bend (about 15 to 20 degrees) while in use.
+- Cane is generally held in the hand opposite the weaker or injured leg.
+- Flat side of a quad base typically faces the body, with the two splayed legs pointing away; some canes let you rotate the base 180 degrees at the adjustment collar.
+- Stairs memory aid: up with the good leg, down with the bad; use the handrail in the other hand when there is one. Technique varies with gait and strength, so a physical therapist should check it.
+- A physical therapist can check height, cane side and gait in minutes, which matters most after surgery or a noticeable change in steadiness.
+- Flatter, wider or foam handles may feel better for wrist or hand discomfort; offset handles keep the shaft under the palm.
+- Replacement rubber tips wear out; worn or cracked tips reduce traction and should be replaced.
+- Quad canes work best on flat, smooth to moderately uneven surfaces; thick grass, gravel and deep carpet can tilt the base so only some feet touch.

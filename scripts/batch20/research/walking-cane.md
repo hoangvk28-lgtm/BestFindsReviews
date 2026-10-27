@@ -1,0 +1,15 @@
+# walking cane research
+- Size by wrist crease: stand upright in usual shoes, arms relaxed, measure from the wrist crease to the floor, round up to the nearest half inch. A helper measures more accurately.
+- Fit check: standing with the cane, the body should not be stooped forward or leaning back; some sources measure to the wrist center, so results differ slightly.
+- Adjustable canes: slide the lower tube to the wrist height and let the push button click into the nearest hole; check that the button is fully engaged.
+- Hand: commonly the cane goes in the hand opposite the weaker or injured leg. No detailed source found; confirm with a physical therapist or doctor.
+- Handle types: T-shape, offset, crook, swan neck, ergonomic. Offset aligns the shaft under the palm; crook/derby handles hook over a table edge but concentrate pressure on the palm.
+- Derby handles use a modified curve with a hook for hanging.
+- Offset handles are often suggested for hand or wrist discomfort; claims of exact percent strain reduction are unsourced and should not be repeated.
+- Quad canes spread support over four prongs and stand upright; all four points must touch the ground under load, so they are not right for everyone (Physio-Pedia).
+- Weight capacity varies by model: examples seen include 150, 220, 300 and 500 lb. Always read the maker's rating for the exact model.
+- Worn rubber tips can slip or wobble; replace them. Twist the old tip off and push a new one on, with water for ease.
+- Standard tip size for most canes is 3/4 inch shaft diameter; check before buying replacements.
+- Wide quad bases add stability but are bulkier; heavy pressure can wear the base cap.
+- No source found on wooden cane load ratings or folding hinge maintenance; rely on stated listing figures only.
+- Confirm cane type, height and use with a clinician or physical therapist; do not claim medical benefit.

@@ -1,0 +1,15 @@
+# Research: dressing aid
+- Hospital patient guides list a reacher, sock aid and dressing stick as tools a provider may recommend after hip replacement.
+- Core hip rule in those guides: avoid bending forward and avoid lifting the knee above the hip; the aids exist to keep to that rule.
+- Surgeon and occupational therapist instructions take priority because precautions vary by surgical approach.
+- Sock aid method: sit, load the sock onto the cradle, lower it to the floor, slip the foot in, point toes and pull the cords until the sock is on.
+- Sock aids are generally meant for regular socks, not compression stockings or sheer hosiery.
+- Long shoehorn method: set the horn in the heel of the shoe and slide the heel down along it, without bending.
+- Dressing stick: one end has a push/pull hook for pulling pants up or pushing clothing off; the opposite end often has a cup or C hook for zippers and shoelace loops.
+- OT study material frames these tools as compensating for restricted range of motion, weakness, and spinal or posterior hip precautions.
+- Button hooks: built-up, contoured or foam handles make gripping easier with arthritis; some have a finger hole for steadier control.
+- Two-ended or paired hooks exist so a smaller loop handles shirt buttons and a larger one handles coat or pants buttons.
+- Wire loop should be slim and smooth so it passes through buttonholes without snagging threads.
+- Plastic hooks and handles can bend or crack under daily use; wood and steel last longer in buyer reports.
+- For very limited grip, a long flexible handle with a hand strap reduces the grasping needed.
+- Practical test: hold the handle in the working hand, confirm no pinching is needed, and match hook size to the most common button.

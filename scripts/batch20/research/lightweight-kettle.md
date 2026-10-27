@@ -1,0 +1,14 @@
+# lightweight kettle research notes
+- Water weighs about 1 kg per liter, so a full 1.7 L kettle adds roughly 1.7 kg to its empty weight; a 0.5 to 1 L kettle adds 0.5 to 1 kg. Capacity changes lifting load more than body material does.
+- Published empty weights for 1.7 L kettles vary widely: one plastic-body listing near 1.3 kg, glass listings between about 1 and 1.3 kg. Weight figures differ by listing, so only trust the maker's stated number.
+- Plastic-bodied kettles tend to be lighter; glass lets you see the boil and scale buildup but is more fragile; 304 stainless steel is durable and neutral-tasting but double-wall versions add mass.
+- Filling to only what you need is the simplest way to cut lifting weight: a half-full 1.7 L kettle is far easier to pour than a full one.
+- Cordless kettles lift off a 360 degree swivel base, so you can fill at the sink and pour without carrying a cord.
+- Most kettles in this class use a steam sensor for auto shutoff, so the water must reach a full boil before power cuts.
+- Auto shutoff and boil-dry protection are separate features; check that a listing states both.
+- Gooseneck spouts give controlled pouring but the narrow neck can make cleaning and filling harder.
+- A wide fill mouth (around 4 inches on one small travel kettle listing) makes filling and hand-cleaning easier.
+- Small 0.5 to 0.6 L travel kettles at 600 W boil slower than 1500 W models, with maker claims near 5 minutes.
+- A handle that stays cool and allows a full-hand grip matters more for pouring comfort than a few ounces of weight.
+- Descale on a regular schedule; mineral scale on the element lengthens boil times and is easier to spot in glass or with a wide opening.
+- For camp kettles, anodized aluminum is lightest, stainless steel heavier but more durable over open flame; folding insulated handles help packing.

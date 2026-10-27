@@ -1,0 +1,13 @@
+# couch assist handle / chair standing aid research
+- Two main designs: frame sits under the furniture's front legs (floor-contact base pads, handle rises beside the user), or a handle/frame tucks under or between seat cushions.
+- Under-leg frames depend on the furniture leg spacing and clearance; the maker's width and leg-height specs must match the sofa.
+- Cushion-tuck designs need the seat to sit above a minimum ground clearance (one listing states more than 1.3 inches) and a firm base.
+- Listed weight limits vary by model: roughly 250, 300, 330 lb for common consumer units; heavy-duty units list 300 to 400 lb. Limits are manufacturer claims, per model.
+- Handle height and base depth are usually adjustable; set height so the elbow is bent when pushing up.
+- The aid is not free-standing; it relies on the furniture's weight on the base. Recheck positioning periodically.
+- Handles are a push-up assist only; they do not lift the user and are not a substitute for a lift chair.
+- Soft, deep or low sofas increase the rise effort; a firmer seat and higher seat height make standing easier.
+- Recliners and sectionals with motion mechanisms or sliding legs may not suit under-leg frames.
+- Check the floor: smooth floors and rugs can let furniture slide; non-slip pads help.
+- Folding or portable models suit travel but often have lower limits.
+- A clinician or occupational therapist can check transfer technique, grip strength and furniture suitability.

@@ -1,0 +1,15 @@
+# seat lift cushion research
+- Two types: manual (gas or spring mechanism, no power) and electric (plugs into an outlet, lever or remote controls the tilt).
+- Manual cushions are set by user weight slot; listings quote assistance of roughly 70 to 80 percent of body weight at the right setting.
+- Listed weight limits vary: 220, 250, 300 lb, and ranges such as 80 to 230 lb. Always match user weight to the rating or range.
+- A lighter person on a cushion set for a heavier person can get an overly energetic lift; set the weight slot for the actual user.
+- Maker guidance (Uplift): use on chairs with arms and a stable seat; not for wheelchairs, cars, recliners, or office chairs with non-lockable wheels.
+- Chair must not slide: a seat that tilts forward can push the chair backward, so use against a wall or on a non-slip surface.
+- Have something to hold when rising, such as armrests.
+- Manual mechanisms can stiffen with disuse and may need working before they release properly.
+- Manual units are light (one lists about 9 lb) and fold or carry for travel; electric units need a nearby outlet.
+- Electric units often quote a lift angle (35 degrees in several listings) and a stop-anywhere lever.
+- Firm seating surfaces work best; soft sofas can let the cushion sink or shift.
+- Covers: some are machine washable; check the care label.
+- Car seat use is only valid if the maker states it; many manuals exclude automobile seats.
+- A clinician or occupational therapist can assess strength, balance and transfers before choosing.
