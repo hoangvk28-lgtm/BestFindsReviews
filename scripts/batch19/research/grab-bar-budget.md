@@ -1,0 +1,7 @@
+- Budget grab bars: 304 stainless is the bathroom standard for rust resistance; brushed finish hides water spots.
+- Suction bars are balance aids only; need smooth non-porous surface; can fail without warning.
+- Screw-mounted bars are the reliable option; never anchor into drywall alone; use studs, blocking or rated hollow-wall system.
+- Rated loads (500 lb) assume proper stud mounting; included screws can strip easily at the cheap end.
+- Flanges with several holes help hit studs at 16-24 in spacing.
+- Tile: diamond-tipped bit, slow drilling to avoid cracking.
+- Carried over: ADA grip 1.25-2 in; common lengths 12-36 in; mount any angle.

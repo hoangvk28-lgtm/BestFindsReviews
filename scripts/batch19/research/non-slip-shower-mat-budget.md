@@ -1,0 +1,7 @@
+- Budget mats are commonly PVC (stiffens with age, cups crack at base, stronger odor) vs TPE (better flexibility, mold resistance).
+- Suction needs smooth non-porous surface; textured tile, grout, refinished tubs prevent sealing; use friction mat instead.
+- Closely packed cups out to the perimeter; evenly spaced drain holes.
+- Do not trust "no odor" claims without certification.
+- Hang dry after every use; bath oils can break the suction seal.
+- Wider cheap mats cover more tub floor but need flat floor all the way across.
+- Carried over: drain holes prevent mildew; machine wash cold.

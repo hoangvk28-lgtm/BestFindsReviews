@@ -35,6 +35,27 @@ export function loadArticles() {
       why: [r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle.`,
         SAFETY.test(r.seed) ? "SAFETY-SENSITIVE: be conservative, cite stated weight limits and fit requirements, advise confirming fit and use with a clinician or physical therapist, never imply medical benefit (bed rails: mention entrapment-gap risk)." : ""].filter(Boolean).join(" "), note: "" }));
   }
+  if (process.env.BATCH === "batch19") {
+    // budget-only gap fill for batches 14/17/18; best + under-budget ladders
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch19-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.pillar || "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword,
+      niche: r.tier ? "Budget" : r.pillar || "Bathroom Safety",
+      why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle; ease of use for older adults is a plus where relevant. Not a medical framing.`, note: "" }));
+  }
+  if (process.env.BATCH === "batch18") {
+    // keyword best 27.10: bathroom safety, toilet aids, handheld showers, transfer benches, commodes; best + under-budget ladders
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch18-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.pillar || "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword,
+      niche: r.tier ? "Budget" : r.pillar || "Bathroom Safety",
+      why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle; ease of use for older adults is a plus where relevant. Not a medical framing.`, note: "" }));
+  }
+  if (process.env.BATCH === "batch17") {
+    // keyword 26.10: senior phones, bed wedges, night lights, magnifying lamps, TV audio, garden; best + under-budget ladders
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch17-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.pillar || "", seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword,
+      niche: r.tier ? "Budget" : r.pillar || "Home Comfort",
+      why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle; ease of use for older adults is a plus where relevant. Not a medical framing.`, note: "" }));
+  }
   if (process.env.BATCH === "batch16") {
     // Keyword new 25.10: arthritis-friendly kitchen tools, best + under-budget ladder guides
     return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch16-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,

@@ -1,0 +1,5 @@
+- Clamp rails fit tub walls about 3 to 6 or 7 in thick.
+- Flat straight edge needed; curved, sloped, textured edges not compatible.
+- Some makers do not recommend fiberglass tubs.
+- Typical 300 lb rating is evenly distributed load.
+- Clamp needs hand strength to tighten; recheck seating.

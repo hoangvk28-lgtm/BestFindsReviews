@@ -1,0 +1,6 @@
+- Listings use 1.25 or 1.5 in diameter; ADA gripping surface roughly 1.25 to 2 in.
+- Common lengths 12, 16, 18, 24, 32, 36, 42 in.
+- Rated loads: 250 lb common, some 300-500 lb, valid only when screwed into studs or blocking.
+- Studs usually 16 in on center; no stud means rated anchors (SecureMount, Easy Mount).
+- Use all flange screws; mount vertical, horizontal or diagonal.
+- Suction bars are balance aids, not load-bearing.

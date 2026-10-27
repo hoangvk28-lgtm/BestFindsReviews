@@ -1,0 +1,5 @@
+- Suction mats need smooth non-porous surfaces; textured tile, grout lines, refinished tubs prevent seal.
+- Around 100+ wide flat cups for standard tubs.
+- Materials: natural rubber (smell), TPE (odorless, washable), PVC (cheaper, less durable).
+- Drainage holes prevent standing water and mildew; grime traps under cups.
+- Machine wash cold, hang dry, lift mat after each use.
