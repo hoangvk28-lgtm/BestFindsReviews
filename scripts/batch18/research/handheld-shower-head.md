@@ -1,0 +1,5 @@
+- Flow restrictor often 2.5 GPM or less; WaterSense about 2.0 or 1.75 GPM. "High pressure" label means little at low house pressure.
+- Hoses 59 to 82 in; longer helps rinsing legs, pets, tub cleaning.
+- Pause switch lets you lather without touching the valve or changing temperature; brief drip after shutoff.
+- Slide bars adjust height; push-button tool-free models exist.
+- Silicone nozzles ease scale cleaning.
