@@ -4,7 +4,6 @@ import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import { AtAGlance } from "@/components/product/AtAGlance";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
-import { getPublicGuideBySlug } from "@/lib/public-guides";
 import {
   guideTitle,
   metaTitle,
@@ -141,8 +140,7 @@ function ProductSection({ product }: { product: GuideProduct & { ctaLabel?: stri
 }
 
 export default async function Page() {
-  const guide = await getPublicGuideBySlug("toaster-oven-vs-toaster");
-  const heroImg = guide?.thumbnailImage ?? guide?.heroImage ?? fallbackHeroImage;
+  const heroImg = fallbackHeroImage;
 
   const articleSchema = {
     "@context": "https://schema.org",
