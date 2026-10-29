@@ -1,0 +1,12 @@
+# garden hose connector research
+- Standard garden hose thread is 3/4 inch GHT; repair ends are for 5/8 or 3/4 inch hose inner diameters.
+- Solid brass is generally favored for durability but is heavier and can drag on light hoses.
+- Aluminum is lighter but reviewers report corrosion; aluminum touching brass in wet contact may corrode over time.
+- Check listed material; some listings show brass imagery but ship aluminum.
+- Plastic quick connects often include a valve so water stops when unplugged, but may crack with UV exposure.
+- Quick connects restrict flow; some brass ones have about a 1/2 inch inside diameter.
+- Replace hose washers and O-rings about once a year.
+- Brands of quick connect are not always interchangeable; stay with one brand.
+- Non-auto-shutoff quick connects keep water flowing when disconnected; shutoff versions stop it.
+- Repair connectors use clamps; cut hose end squarely and tighten fully.
+- Splitters add valves for two outputs from one spigot.

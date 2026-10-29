@@ -1,0 +1,14 @@
+# kitchen scissors research
+- Come-apart pivots (screw or twist-lock) let you separate blades so raw-meat residue is not trapped in the pivot joint.
+- Trade-off: blades that separate too easily can be annoying or unsafe; they should open about 90 degrees without falling apart.
+- A small internal spring can pop out during disassembly on some designs.
+- Most shears use high-carbon or 3Cr13/3Cr14 stainless steel; can be sharpened with a wet stone.
+- Micro-serrations on one or both blades grip slippery skin and reduce slipping.
+- Poultry shears: guides suggest roughly 3.5mm blade thickness for bone and joint work; thinner blades flex against cartilage.
+- Hardness around 53-57 HRC is cited as a balance of edge retention and chip resistance; very soft steel dulls fast.
+- Straight blades suit general use; curved or tapered poultry shears reach around bones.
+- Spring-loaded designs reduce hand effort; some can lock up if squeezed fully closed, so check mechanism.
+- Spatchcock mistakes: dull shears, cutting off the backbone line, cutting the breastbone instead of the backbone.
+- Hold shears first to judge balance and hand fit where possible.
+- Dull blades or flimsy hinges force hacking and raise the risk of slipping.
+- Cleaning after raw poultry: follow USDA/FDA guidance (not covered by search); take-apart and dishwasher-safe designs help.

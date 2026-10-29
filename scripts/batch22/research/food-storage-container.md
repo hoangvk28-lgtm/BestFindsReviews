@@ -1,0 +1,13 @@
+# food storage container research
+- Borosilicate glass resists thermal shock better than soda-lime glass.
+- Regular glass can shatter moving quickly from cold to hot.
+- Plastic is lighter and less likely to break; suits lunches and portability.
+- Tritan and polypropylene are BPA-free, warp resistant, dishwasher safe.
+- Plastic can stain, warp and hold odors over time.
+- Lids are the weak point: plastic lids are not oven safe; check lid and base labels separately.
+- Glass heating is usually done with lid off unless vented.
+- Vented lids release steam in the microwave.
+- Snap-lock lids with removable silicone gaskets are common; gaskets need removing to clean.
+- Premium sets use glass lids with silicone rim.
+- Stacking and nesting design affects cabinet space.
+- Match sizes to use: small for sauces and snacks, large for leftovers and meal prep.

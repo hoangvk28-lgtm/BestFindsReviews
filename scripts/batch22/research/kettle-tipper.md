@@ -1,0 +1,13 @@
+# kettle tipper / small electric tea kettle research
+- Size by largest single pour: 0.8-1.0 L suits one or two people; 1.2-1.7 L is the usual household range; 1.8 L and up for entertaining.
+- One litre gives roughly 4-5 cups of tea or coffee.
+- Most kettles have a minimum fill line and will not run below it.
+- Wattage typically ranges 600 W to 3000 W; higher wattage boils faster but draws more power.
+- Low wattage (600 W) small kettles take roughly 4-6 minutes for 0.5-0.8 L.
+- Stainless is durable and easy to clean; glass shows water level but can be more fragile.
+- Check the water-contact surface: 304 stainless or glass inner vs plastic parts.
+- Look for auto shut-off and boil-dry protection on the spec sheet.
+- Wide mouth openings (about 4 in) make hand cleaning easier.
+- Cordless base with 360 degree swivel makes serving easier.
+- Green tea brews around 70-80C, coffee 90-96C; variable temperature is a separate feature.
+- Gooseneck spouts give controlled pour for pour-over.

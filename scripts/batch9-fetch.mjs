@@ -26,6 +26,15 @@ export function parseCsv(text) {
   return rows;
 }
 export function loadArticles() {
+  if (process.env.BATCH === "batch22") {
+    // kw 29.10 (batch22): kitchen scissors, adaptive aids, book holders, food storage, garden, shopping carts, TV speakers
+    const NICHE = { "kitchen scissors": "Kitchen", "food storage container": "Kitchen", "salad spinner": "Kitchen", "kettle tipper": "Kitchen", "dustpan and brush": "Home Cleaning",
+      "garden hose connector": "Garden", "lopper": "Garden", "plant caddy": "Garden", "book holder": "Reading", "wireless tv speaker": "TV Audio", "shopping cart": "Daily Living" };
+    const AID = /adaptive|arthritis|elderly|seniors|hearing|easy-open|door-knob|key-turner|faucet|tipping|kettle-tipper|loop-scissors|table-top/;
+    return JSON.parse(readFileSync(resolve(ROOT, "scripts/batch22-plan.json"), "utf-8")).map((r) => ({ id: r.id, cluster: r.seed, seed: r.seed, title: r.title, slug: r.slug, keyword: r.keyword, supporting: "", type: "Best", status: "", tier: r.tier,
+      query: r.tier && r.seed === "book holder" ? "book stand for reading with page clips" : r.tier ? r.title.replace(/^Best\s+/, "").replace(/\s+Under \$\d+$/, "") : r.keyword, niche: r.tier ? "Budget" : NICHE[r.seed] || "Daily Living",
+      why: r.tier ? `BUDGET GUIDE: every product listed is currently priced at or under $${r.tier}. Frame value-for-money tradeoffs at this budget, compare with what spending more would add, but never state prices or dollar figures in the text (the title is fine).` : `Angle: "${r.keyword}". Picks must clearly match this angle.${AID.test(r.slug) ? " Daily-living aid for limited grip or mobility: judge grip force, handle size and one-handed use; never imply medical benefit or treatment." : ""}`, note: "" }));
+  }
   if (process.env.BATCH === "batch20") {
     // new kw ver 2 25.10 (batch20): mobility and daily-living aids, best + under-budget ladder guides
     const SAFETY = /bed assist rail|transfer board|quad cane|rollator|walking cane/;

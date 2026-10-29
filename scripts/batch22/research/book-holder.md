@@ -1,0 +1,13 @@
+# Research: book holder (seed)
+- Adjustability is the top buyer priority: guides suggest at least 5 distinct tilt settings, held by friction hinges or locking notches.
+- Some premium stands offer infinite angle through hinges or gas lifts; budget stands use notched backrests.
+- Page retention varies: a bottom ridge or lip, spring clips, or a transparent page holder. Thin wire clips often cannot reach across a thick book.
+- Spring clips grip harder than flexible wire clips; clip thickness limits (about 1.2 to 1.57 inches) are often the real limit, not the stand's load rating.
+- Typical stands support roughly 5 to 8 lb (2.3 to 3.6 kg); some list only 6.6 lb, others 11 lb or more. Check against your heaviest hardcover.
+- Measure the largest book (width, depth, spine thickness) against the stated opening before buying.
+- Solid wood is durable but heavy; metal is lighter and portable but can wobble on uneven surfaces; metal frames should have a protective coating.
+- Tall stands with heavy books tip when the base is narrow, the hinge is loose or the material flexes.
+- Match to place: sturdy clipped stand for desk and textbooks; wide wooden board for kitchen cookbooks; lap-style or light portable stand for bed and sofa.
+- Some stiff new books will not stay open without clips, so a stand with no clips may need the book broken in.
+- Height and tilt adjustment matter more for neck posture than simply holding the book.
+- No authoritative source found for a specific neck angle, so no degree recommendations are stated.

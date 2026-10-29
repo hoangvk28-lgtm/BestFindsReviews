@@ -1,0 +1,12 @@
+# salad spinner research
+- Pump models: fast for small/medium batches, no hand repositioning, usually compact.
+- Crank models: more torque/feel for heavy loads like romaine; often need two hands to steady base.
+- Pull-cord models: jerky, harder on wrists, hard with limited grip.
+- Electric/rechargeable: little manual effort, convenient for hand or wrist limits and daily use.
+- Capacity measured in quarts; match to usual salad size; oversized spinners waste cabinet space.
+- Stainless steel bowls favored for durability and no staining; plastic lighter and often see-through.
+- Collapsible models save space but are generally less durable.
+- Start with moderate speed to avoid bruising delicate greens, increase as needed.
+- Brake button stops basket quickly; non-slip base keeps unit steady.
+- Removable lid and basket matter for cleaning hidden moisture and residue.
+- Basket doubles as colander; bowl can serve or store greens in the fridge.

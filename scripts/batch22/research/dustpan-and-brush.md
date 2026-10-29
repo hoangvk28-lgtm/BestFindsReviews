@@ -1,0 +1,13 @@
+# dustpan and brush research
+- Soft flexible rubber lip spanning the whole pan width seals gaps where fine dust escapes; rigid plastic lips leave a gap.
+- Long handles around 50-55 inches suit most adults, grip near hip height.
+- Steel or metal cores resist cracking at joints better than plastic-only shafts.
+- Check that metal handle joints stay tight; some unscrew with use.
+- Medium-stiff compact bristles reach corners without splaying.
+- PET synthetic bristles are durable and easy to clean.
+- A comb or teeth on the pan rim cleans hair from bristles.
+- Brush that snaps into the pan handle stores compactly and covers bristles.
+- Hanging holes allow wall storage.
+- Some long sets detach for handheld use.
+- Upright dustpans with long handles avoid kneeling or bending.
+- Mini sets suit desks, keyboards, cars, small spills.

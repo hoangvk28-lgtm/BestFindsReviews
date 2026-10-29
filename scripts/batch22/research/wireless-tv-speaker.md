@@ -1,0 +1,15 @@
+# wireless tv speaker research
+- Standard Bluetooth often adds roughly 100 to 250 ms delay, enough for visible lip-sync drift; TV-focused links advertise under 40 ms.
+- Dedicated 2.4GHz RF base stations avoid the TV's Bluetooth stack and are usually steadier for TV video than plain Bluetooth.
+- RF transmitters often take only optical and 3.5 mm/RCA inputs, not HDMI ARC. Check TV output ports first.
+- Speech sits mostly in the 1 to 4 kHz midrange; dialogue or voice EQ modes and left/right balance help clarity.
+- Bluetooth is best for phone and music; poor as the primary TV link unless low-latency codecs are supported on both ends.
+- Optical (TOSLINK) carries Dolby Digital 5.1 but not Atmos. HDMI ARC is minimum for Atmos/DTS:X, eARC offers more bandwidth.
+- Older TVs may only output compressed formats over optical.
+- Small rooms (under about 15 square meters): 2.0 or 2.1 bars often fit better than multi-channel systems that are hard to position.
+- Check whether rear speakers are real separate units or virtual processing.
+- Wireless subwoofers and rear speakers remove audio cable, not the power cable; plan outlets.
+- A big subwoofer near a wall in a small room can boom; look for bass adjustment.
+- Atmos height channels (the last number in 5.1.2) are up-firing speakers needing an unobstructed ceiling.
+- Soundbars with HDMI passthrough help if consoles or Blu-ray players are used.
+- Sources are mostly retail guides; verify figures against maker specs.

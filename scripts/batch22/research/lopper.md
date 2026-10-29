@@ -1,0 +1,12 @@
+# lopper research
+- Bypass blades pass like scissors and suit living green wood; anvil blades press onto a flat surface and suit dry dead wood but crush live tissue.
+- Stated capacity usually assumes fresh green wood; dry hardwood at the same diameter is much harder.
+- Rough capacity tiers: about 1 in light use, 1 to 1.5 in general use, up to 2 in heavy duty. Exceeding capacity damages tool and plant.
+- Handle length: 18 to 22 in = control, short reach; 24 to 30 in = common home balance; long or telescoping = reach and leverage but more weight.
+- Compound or gear action trades more stroke for more force; marketing multipliers (3x to 5x) are approximations.
+- Ratchet designs cut in stages, reducing force per squeeze; useful with limited hand strength but need many clicks per thick cut.
+- Telescopic handles allow overhead work without a ladder; check that locks are fully engaged.
+- Aluminum or fiberglass handles reduce weight; cushioned grips and bumpers reduce shock.
+- Low-friction coatings reduce sap gumming and rust.
+- Battery pruners: brushless motors, cut-capacity modes, battery platform compatibility (tool-only vs included battery) matter.
+- Sharp cut near the branch collar; cut larger branches in stages to avoid bark tearing.
