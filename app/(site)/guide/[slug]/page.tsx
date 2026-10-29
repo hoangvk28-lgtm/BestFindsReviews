@@ -36,7 +36,13 @@ type Props = { params: Promise<{ slug: string }> };
 export async function generateStaticParams() {
   const [guideSlugs] = await Promise.all([getPublicGuideSlugs()]);
   const categorySlugs = categories.map((c) => c.slug);
-  const all = [...new Set([...guideSlugs, ...categorySlugs, ...dynamicGuideSlugs])];
+  // dynamicGuideSlugs (4000+ rich data-file guides) are intentionally NOT prerendered:
+  // they render on first request and are ISR-cached from then on. Prerendering them
+  // put ~5000 HTML pages (~3GB) into every deployment, blowing through Vercel Hobby's
+  // Deployment Storage and ISR Writes quotas on each push.
+  const all = [...new Set([...guideSlugs, ...categorySlugs])].filter(
+    (slug) => !dynamicGuideSlugs.includes(slug)
+  );
   return all.map((slug) => ({ slug }));
 }
 

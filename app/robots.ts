@@ -31,6 +31,8 @@ export default function robots(): MetadataRoute.Robots {
       // bandwidth without sending real traffic back to the site.
       { userAgent: "Bytespider", disallow: "/" },
       { userAgent: "CCBot", disallow: "/" },
+      // SEO-tool and scraper crawlers: no referral traffic, heavy ISR reads.
+      ...["PetalBot","AhrefsBot","SemrushBot","MJ12bot","DotBot","BLEXBot","DataForSeoBot","Barkrowler","serpstatbot","Amazonbot","meta-externalagent","ImagesiftBot","Baiduspider","YisouSpider","Sogou"].map((ua) => ({ userAgent: ua, disallow: "/" })),
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
   };

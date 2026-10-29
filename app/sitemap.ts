@@ -5,6 +5,9 @@ import { guides as staticGuides } from "@/data/guides";
 import { categories } from "@/data/categories";
 import { isSupabaseConfigured } from "@/lib/supabase/server";
 
+// Cache the sitemap for 24h instead of rendering it (and querying Supabase) on every crawl.
+export const revalidate = 86400;
+
 // Try to load published slugs from Supabase; merge with static data so no slug is ever missing.
 async function getPublishedProductSlugs(): Promise<{ slug: string; updatedAt: string }[]> {
   const staticEntries = staticProducts.map((p) => ({ slug: p.slug, updatedAt: new Date().toISOString() }));
