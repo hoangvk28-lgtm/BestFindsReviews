@@ -19,11 +19,17 @@ export function buildMetadata({
   noIndex?: boolean;
   type?: "website" | "article";
 }): Metadata {
-  // Build the display title once, with "| WorthRated" appended if not already present.
+  // Build the display title once, with a brand suffix appended if not already present.
+  // Content pages get "| Reviewed by WorthRated" when it keeps the title within 60 chars,
+  // otherwise the short "| WorthRated" so SERP titles are never truncated.
   // Use { absolute } so the root layout template (%s | WorthRated) never wraps it again.
+  const reviewedSuffix = ` | Reviewed by ${SITE_NAME}`;
+  const isContent = /^\/(guide|reviews|compare)\/./.test(path);
   const fullTitle = title.includes(SITE_NAME)
     ? title
-    : `${title} | ${SITE_NAME}`;
+    : isContent && title.length + reviewedSuffix.length <= 60
+      ? `${title}${reviewedSuffix}`
+      : `${title} | ${SITE_NAME}`;
   const canonicalUrl = `${SITE_URL}${path}`;
   // Support absolute Supabase image URLs directly; fall back to default OG image.
   const ogImage = image

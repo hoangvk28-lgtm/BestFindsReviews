@@ -31,81 +31,9 @@ export interface GuideProduct {
 }
 
 export const products: GuideProduct[] = [
-  {
-    id: "smeg-drip-cream",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Smeg 50's Retro Style Aesthetic Drip Coffee Machine, 10 Cup Glass Carafe (Cream)",
-    amazonUrl: "https://www.amazon.com/dp/B07RJTPR4Y?tag=worthrated-20",
-    imageUrl: "https://m.media-amazon.com/images/I/312odlWAjGL._SL500_.jpg",
-    price: "$259.95",
-    rating: "4.1",
-    reviews: "2,582 reviews",
-    specs: ["10-cup glass carafe, 47oz", "Two aroma strength settings", "Programmable auto-start", "Keep-warm plate, 60 minutes"],
-    specList: [{"label":"Feature 1","value":"10-cup glass carafe, 47oz"},{"label":"Feature 2","value":"Two aroma strength settings"},{"label":"Reviews","value":"Programmable auto-start"},{"label":"Feature 4","value":"Keep-warm plate, 60 minutes"}],
-    description:
-      "This is the flagship Smeg drip machine, with a 10-cup glass carafe, programmable auto-start, and a choice of light or intense aroma settings on an LED control panel. The carafe lid opens further back than most standard drip carafes, which genuinely helps with pouring and rinsing without the finish or hardware getting in the way.\n\nThe reusable permanent filter is included alongside standard paper filter compatibility, so day to day operation is close to any other programmable drip machine once you get past the retro shell. The keep-warm plate holds coffee for up to 60 minutes, which is shorter than some competitors and worth knowing if you tend to nurse a pot for longer than that.",
-    bestFor: "Buyers who want the full Smeg drip feature set and are comfortable paying a design premium over a plain programmable machine.",
-    pros: [
-      "Full LED control panel with programmable auto-start and two strength settings",
-      "Reusable permanent filter included, reduces ongoing paper filter cost",
-      "Carafe lid designed for easier pouring and cleaning than a standard lid",
-    ],
-    cons: [
-      "Keep-warm plate only holds temperature for about 60 minutes",
-      "Priced well above a similarly sized plain programmable drip machine",
-    ],
-  },
-  {
-    id: "smeg-drip-black",
-    rank: 2,
-    badge: "Best Value",
-    name: "Smeg 50's Retro Style Aesthetic Drip Coffee Machine, 10 Cup Glass Carafe (Black)",
-    amazonUrl: "https://www.amazon.com/dp/B07RLR97QQ?tag=worthrated-20",
-    imageUrl: "https://m.media-amazon.com/images/I/41XY4wuXt3L._SL500_.jpg",
-    price: "$199.99",
-    rating: "4.1",
-    reviews: "2,582 reviews",
-    specs: ["10-cup glass carafe, 47oz", "Auto-start programming", "Two aroma strength settings", "LED display"],
-    specList: [{"label":"Capacity","value":"10-cup glass carafe, 47oz"},{"label":"Reviews","value":"Auto-start programming"},{"label":"Feature 3","value":"Two aroma strength settings"},{"label":"Lighting","value":"LED display"}],
-    description:
-      "This black-finish drip model carries the same core feature set as the cream version, including the 10-cup carafe, programmable auto-start, and dual aroma strength settings, at a lower current price. If the cream finish and the roughly 60 dollar premium it usually carries are not important to you, this is the more sensible way into the same brewing experience.\n\nAs with the other Smeg drip model, the reservoir and brew basket require periodic descaling like any drip machine, and the compact 10.25 by 14.25 by 9 inch footprint keeps it manageable on a standard counter despite the retro-styled housing.",
-    bestFor: "Buyers who want the same Smeg drip performance as the flagship model without paying extra for a specific finish.",
-    pros: [
-      "Same core brewing features as the higher-priced cream model",
-      "Lower current price than the cream version",
-      "Compact footprint fits most standard counters",
-    ],
-    cons: [
-      "Feature list published for this listing is thinner than the cream model's, worth confirming current specs before buying",
-      "Same 60-minute keep-warm limit as the rest of the drip lineup",
-    ],
-  },
-  {
-    id: "smeg-espresso",
-    rank: 3,
-    badge: "Best for Espresso",
-    name: "Smeg EGF03 Semi-Automatic Espresso Machine with Built-In Grinder, Dual Thermoblock (Cream, 120V)",
-    amazonUrl: "https://www.amazon.com/dp/B0CKFNR9Y3?tag=worthrated-20",
-    imageUrl: "https://m.media-amazon.com/images/I/31lGTeOBFPL._SL500_.jpg",
-    price: "$999.95",
-    rating: "4.3",
-    reviews: "69 reviews",
-    specs: ["Integrated conical burr grinder", "Dual thermoblock heating", "58mm commercial-grade portafilter", "Pressure gauge, steam wand"],
-    specList: [{"label":"Durability","value":"Integrated conical burr grinder"},{"label":"Feature 2","value":"Dual thermoblock heating"},{"label":"Filtration","value":"58mm commercial-grade portafilter"},{"label":"Feature 4","value":"Pressure gauge, steam wand"}],
-    description:
-      "This is a genuinely different category of machine from the two drip models above, built around an integrated conical burr grinder, a 58mm commercial-style portafilter, and a pressure gauge for monitoring extraction. The dual thermoblock heating system is meant to keep brew temperature stable while the steam wand runs milk frothing separately, which is the setup that matters most for consistent espresso shots.\n\nAt close to 1,000 dollars, it competes directly with dedicated espresso brands rather than with other Smeg products, and the retro design premium is a smaller share of the total price here than it is on the drip machines. Buyers should weigh whether they want the learning curve and cleaning routine of a real portafilter machine before choosing it over a simpler pod-based espresso maker.",
-    bestFor: "Buyers who specifically want espresso with grinder integration and are willing to pay for a commercial-style portafilter setup.",
-    pros: [
-      "Integrated grinder removes the need for a separate burr grinder purchase",
-      "Pressure gauge helps monitor and correct extraction, useful for learning proper technique",
-      "Dual thermoblock heating supports back-to-back shots without a long recovery wait",
-    ],
-    cons: [
-      "Significant price and learning curve jump from the drip models in this comparison",
-      "Portafilter, steam wand, and grinder all need regular separate cleaning",
-    ],
-  },
+  {"id":"smeg-drip-cream","rank":1,"badge":"Best Overall","name":"Smeg 50's Retro Style Aesthetic Drip Coffee Machine, 10 Cup Glass Carafe","amazonUrl":"https://www.amazon.com/dp/B07RJTPR4Y?tag=worthrated-20","imageUrl":"https://m.media-amazon.com/images/I/312odlWAjGL._SL500_.jpg","price":"$259.95","rating":"4.1","reviews":"2,582 reviews","specs":["10-cup glass carafe, 47oz","Two aroma strength settings","Programmable auto-start","Keep-warm plate, 60 minutes"],"specList":[{"label":"Feature 1","value":"10-cup glass carafe, 47oz"},{"label":"Feature 2","value":"Two aroma strength settings"},{"label":"Reviews","value":"Programmable auto-start"},{"label":"Feature 4","value":"Keep-warm plate, 60 minutes"}],"description":"This is the flagship Smeg drip machine, with a 10-cup glass carafe, programmable auto-start, and a choice of light or intense aroma settings on an LED control panel. The carafe lid opens further back than most standard drip carafes, which genuinely helps with pouring and rinsing without the finish or hardware getting in the way. The reusable permanent filter is included alongside standard paper filter compatibility, so day to day operation is close to any other programmable drip machine once you get past the retro shell. The keep-warm plate holds coffee for up to 60 minutes, which is shorter than some competitors and worth knowing if you tend to nurse a pot for longer than that.","bestFor":"Buyers who want the full Smeg drip feature set and are comfortable paying a design premium over a plain programmable machine.","pros":["Full LED control panel with programmable auto-start and two strength settings","Reusable permanent filter included, reduces ongoing paper filter cost","Carafe lid designed for easier pouring and cleaning than a standard lid"],"cons":["Keep-warm plate only holds temperature for about 60 minutes","Priced well above a similarly sized plain programmable drip machine"]},
+  {"id":"smeg-drip-black","rank":2,"badge":"Best Value","name":"Smeg 50's Retro Style Aesthetic Drip Coffee Machine, 10 Cup Glass Carafe","amazonUrl":"https://www.amazon.com/dp/B07RLR97QQ?tag=worthrated-20","imageUrl":"https://m.media-amazon.com/images/I/41XY4wuXt3L._SL500_.jpg","price":"$199.99","rating":"4.1","reviews":"2,582 reviews","specs":["10-cup glass carafe, 47oz","Auto-start programming","Two aroma strength settings","LED display"],"specList":[{"label":"Capacity","value":"10-cup glass carafe, 47oz"},{"label":"Reviews","value":"Auto-start programming"},{"label":"Feature 3","value":"Two aroma strength settings"},{"label":"Lighting","value":"LED display"}],"description":"This black-finish drip model carries the same core feature set as the cream version, including the 10-cup carafe, programmable auto-start, and dual aroma strength settings, at a lower current price. If the cream finish and the roughly 60 dollar premium it usually carries are not important to you, this is the more sensible way into the same brewing experience. As with the other Smeg drip model, the reservoir and brew basket require periodic descaling like any drip machine, and the compact 10.25 by 14.25 by 9 inch footprint keeps it manageable on a standard counter despite the retro-styled housing.","bestFor":"Buyers who want the same Smeg drip performance as the flagship model without paying extra for a specific finish.","pros":["Same core brewing features as the higher-priced cream model","Lower current price than the cream version","Compact footprint fits most standard counters"],"cons":["Feature list published for this listing is thinner than the cream model's","Same 60-minute keep-warm limit as the rest of the drip lineup"]},
+  {"id":"smeg-espresso","rank":3,"badge":"Best for Espresso","name":"Smeg EGF03 Semi-Automatic Espresso Machine with Built-In Grinder, Dual","amazonUrl":"https://www.amazon.com/dp/B0CKFNR9Y3?tag=worthrated-20","imageUrl":"https://m.media-amazon.com/images/I/31lGTeOBFPL._SL500_.jpg","price":"$999.95","rating":"4.3","reviews":"69 reviews","specs":["Integrated conical burr grinder","Dual thermoblock heating","58mm commercial-grade portafilter","Pressure gauge, steam wand"],"specList":[{"label":"Durability","value":"Integrated conical burr grinder"},{"label":"Feature 2","value":"Dual thermoblock heating"},{"label":"Filtration","value":"58mm commercial-grade portafilter"},{"label":"Feature 4","value":"Pressure gauge, steam wand"}],"description":"This is a genuinely different category of machine from the two drip models above, built around an integrated conical burr grinder, a 58mm commercial-style portafilter, and a pressure gauge for monitoring extraction. The dual thermoblock heating system is meant to keep brew temperature stable while the steam wand runs milk frothing separately, which is the setup that matters most for consistent espresso shots. At close to 1,000 dollars, it competes directly with dedicated espresso brands rather than with other Smeg products, and the retro design premium is a smaller share of the total price here than it is on the drip machines. Buyers should weigh whether they want the learning curve and cleaning routine of a real portafilter machine before choosing it over a simpler pod-based espresso maker.","bestFor":"Buyers who specifically want espresso with grinder integration and are willing to pay for a commercial-style portafilter setup.","pros":["Integrated grinder removes the need for a separate burr grinder purchase","Pressure gauge helps monitor and correct extraction, useful for learning proper technique","Dual thermoblock heating supports back-to-back shots without a long recovery wait"],"cons":["Significant price and learning curve jump from the drip models in this comparison","Portafilter, steam wand, and grinder all need regular separate cleaning"]},
 ];
 
 export const buyingCriteria = [

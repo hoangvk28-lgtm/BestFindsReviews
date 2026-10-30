@@ -30,81 +30,9 @@ export interface GuideProduct {
 }
 
 export const products: GuideProduct[] = [
-  {
-    id: "oxo-brew-9-cup",
-    rank: 1,
-    badge: "Best Overall",
-    name: "OXO Brew 9-Cup Drip Coffee Maker, Programmable, Stainless Steel",
-    amazonUrl: "https://www.amazon.com/dp/B00YEYKK8U?tag=worthrated-20",
-    imageUrl: "https://m.media-amazon.com/images/I/41o0XxoT2cL._SL500_.jpg",
-    price: "$223.00",
-    rating: "3.9",
-    reviews: "3,615 reviews",
-    specs: ["SCA Gold Cup certified", "BetterBrew precision temperature control", "Rainmaker showerhead", "Double-wall thermal carafe", "Single-dial cup and timer programming"],
-    specList: [{"label":"Feature 1","value":"SCA Gold Cup certified"},{"label":"Feature 2","value":"BetterBrew precision temperature control"},{"label":"Brand","value":"Rainmaker showerhead"},{"label":"Feature 4","value":"Double-wall thermal carafe"},{"label":"Scheduling","value":"Single-dial cup and timer programming"}],
-    description:
-      "This is the one machine in this comparison actually labeled and sold as a 9-cup model, and it carries SCA Gold Cup certification, meaning its BetterBrew technology keeps water between roughly 197.6 and 204.8 degrees Fahrenheit across the whole cycle. A single dial lets you choose cup count and set the automatic wake-up timer without digging through menus, and a rainmaker showerhead is built to disperse water evenly whether you are brewing two cups or a full pot.\n\nIts double-wall stainless steel thermal carafe holds heat for hours, and a built-in mixing tube is designed to keep the last cup poured as strong as the first. It is the most expensive model here, which tracks with its certification and genuine 9-cup-specific engineering.",
-    bestFor: "Buyers who specifically want a genuinely 9-cup-labeled, SCA-certified machine and are willing to pay for it.",
-    pros: [
-      "Only model here actually labeled and sold as 9-cup",
-      "SCA Gold Cup certified for verified brew temperature",
-      "Thermal carafe with an internal mixing tube for consistent strength pour to pour",
-    ],
-    cons: [
-      "Highest price of the three models in this comparison by a wide margin",
-      "Premium price for a capacity most 8-cup or 10-cup machines also cover",
-    ],
-  },
-  {
-    id: "moccamaster-kbt",
-    rank: 2,
-    badge: "Best Build Quality",
-    name: "Technivorm Moccamaster 79112 KBT Coffee Brewer, 40oz, Polished Silver",
-    amazonUrl: "https://www.amazon.com/dp/B002S4DI2S?tag=worthrated-20",
-    imageUrl: "https://m.media-amazon.com/images/I/41xdT6KJEGL._SL500_.jpg",
-    price: "$309.22",
-    rating: "4.2",
-    reviews: "3,285 reviews",
-    specs: ["40oz total brewed capacity", "4 to 6 minute brew time", "Manual adjust brew basket", "Stainless steel thermal carafe", "5-year warranty"],
-    specList: [{"label":"Capacity","value":"40oz total brewed capacity"},{"label":"Feature 2","value":"4 to 6 minute brew time"},{"label":"Feature 3","value":"Manual adjust brew basket"},{"label":"Material","value":"Stainless steel thermal carafe"},{"label":"Warranty","value":"5-year warranty"}],
-    description:
-      "Worth flagging directly: Moccamaster states this model's capacity as 40oz, which by the standard 5oz manufacturer cup works out closer to 8 cups than 9, despite it sometimes appearing in 9-cup-adjacent searches. We are including it here because it is a genuinely well-regarded, precision-built machine in this capacity range, not because its labeled capacity is a perfect match, and buyers should treat its true output as roughly 8 cups.\n\nIt brews 40oz in 4 to 6 minutes with a manually adjustable brew basket for customizing extraction, and its stainless steel thermal carafe and 5-year warranty reflect a build quality tier above the other two machines in this comparison.",
-    bestFor: "Buyers prioritizing brewing precision and long-term build quality over an exact 9-cup capacity match.",
-    pros: [
-      "Manually adjustable brew basket for extraction control",
-      "5-year warranty, longest of the three models here",
-      "Widely regarded for consistent, high-quality extraction",
-    ],
-    cons: [
-      "Stated 40oz capacity is actually closer to 8 cups than 9",
-      "Second-highest price in this comparison",
-    ],
-  },
-  {
-    id: "krups-simply-brew-9",
-    rank: 3,
-    badge: "Best Value",
-    name: "KRUPS Coffee Maker 10 Cups Simply Brew Stainless Steel Drip Coffee Maker",
-    amazonUrl: "https://www.amazon.com/dp/B08PP1H7QK?tag=worthrated-20",
-    imageUrl: "https://m.media-amazon.com/images/I/31SbNxvTcWL._SL500_.jpg",
-    price: "$52.66",
-    rating: "4.1",
-    reviews: "22,693 reviews",
-    specs: ["1.5L / 51oz capacity", "900 watts", "Pause & Brew system", "Reusable filter, measuring spoon, no-drip carafe", "Dishwasher-safe glass carafe"],
-    specList: [{"label":"Capacity","value":"1.5L / 51oz capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Feature 3","value":"Pause & Brew system"},{"label":"Filtration","value":"Reusable filter, measuring spoon, no-drip carafe"},{"label":"Feature 5","value":"Dishwasher-safe glass carafe"}],
-    description:
-      "Also worth flagging directly: this KRUPS model is sold and labeled as a 10-cup machine, with a stated 1.5L, or roughly 51oz, capacity, which is closer to 10 cups than 9. We include it here as the budget option for buyers in the 9-cup search range who are comfortable with a machine that actually brews slightly more, since true 9-cup machines are limited and this covers the same practical need at a fraction of the OXO's price.\n\nIts Pause & Brew system lets you pull the carafe mid-cycle for an early cup, and it ships with a reusable filter, measuring spoon, and a no-drip, dishwasher-safe glass carafe.",
-    bestFor: "Buyers who want a low-cost machine covering roughly the same practical capacity as a 9-cup, even though it is labeled and sized as 10-cup.",
-    pros: [
-      "Lowest price by a wide margin in this comparison",
-      "Stated capacity closely matches its 10-cup label, no false advertising",
-      "Dishwasher-safe glass carafe and included reusable filter",
-    ],
-    cons: [
-      "Not actually a 9-cup machine; brews closer to 50oz than 45oz",
-      "No thermal carafe, needs an active warming plate to stay hot",
-    ],
-  },
+  {"id":"oxo-brew-9-cup","rank":1,"badge":"Best Overall","name":"OXO Brew 9-Cup Drip Coffee Maker, Programmable, Stainless Steel","amazonUrl":"https://www.amazon.com/dp/B00YEYKK8U?tag=worthrated-20","imageUrl":"https://m.media-amazon.com/images/I/41o0XxoT2cL._SL500_.jpg","price":"$223.00","rating":"3.9","reviews":"3,615 reviews","specs":["SCA Gold Cup certified","BetterBrew precision temperature control","Rainmaker showerhead","Double-wall thermal carafe","Single-dial cup and timer programming"],"specList":[{"label":"Feature 1","value":"SCA Gold Cup certified"},{"label":"Feature 2","value":"BetterBrew precision temperature control"},{"label":"Brand","value":"Rainmaker showerhead"},{"label":"Feature 4","value":"Double-wall thermal carafe"},{"label":"Scheduling","value":"Single-dial cup and timer programming"}],"description":"This is the one machine in this comparison actually labeled and sold as a 9-cup model, and it carries SCA Gold Cup certification, meaning its BetterBrew technology keeps water between roughly 197.6 and 204.8 degrees Fahrenheit across the whole cycle. A single dial lets you choose cup count and set the automatic wake-up timer without digging through menus, and a rainmaker showerhead is built to disperse water evenly whether you are brewing two cups or a full pot. Its double-wall stainless steel thermal carafe holds heat for hours, and a built-in mixing tube is designed to keep the last cup poured as strong as the first. It is the most expensive model here, which tracks with its certification and genuine 9-cup-specific engineering.","bestFor":"Buyers who specifically want a genuinely 9-cup-labeled, SCA-certified machine and are willing to pay for it.","pros":["Only model here actually labeled and sold as 9-cup","SCA Gold Cup certified for verified brew temperature","Thermal carafe with an internal mixing tube for consistent strength pour to pour"],"cons":["Highest price of the three models in this comparison by a wide margin","Premium price for a capacity most 8-cup or 10-cup machines also cover"]},
+  {"id":"moccamaster-kbt","rank":2,"badge":"Best Build Quality","name":"Technivorm Moccamaster 79112 KBT Coffee Brewer, 40oz, Polished Silver","amazonUrl":"https://www.amazon.com/dp/B002S4DI2S?tag=worthrated-20","imageUrl":"https://m.media-amazon.com/images/I/41xdT6KJEGL._SL500_.jpg","price":"$309.22","rating":"4.2","reviews":"3,285 reviews","specs":["40oz total brewed capacity","4 to 6 minute brew time","Manual adjust brew basket","Stainless steel thermal carafe","5-year warranty"],"specList":[{"label":"Capacity","value":"40oz total brewed capacity"},{"label":"Feature 2","value":"4 to 6 minute brew time"},{"label":"Feature 3","value":"Manual adjust brew basket"},{"label":"Material","value":"Stainless steel thermal carafe"},{"label":"Warranty","value":"5-year warranty"}],"description":"Worth flagging directly: Moccamaster states this model's capacity as 40oz, which by the standard 5oz manufacturer cup works out closer to 8 cups than 9, despite it sometimes appearing in 9-cup-adjacent searches. We are including it here because it is a genuinely well-regarded, precision-built machine in this capacity range, not because its labeled capacity is a perfect match, and buyers should treat its true output as roughly 8 cups. It brews 40oz in 4 to 6 minutes with a manually adjustable brew basket for customizing extraction, and its stainless steel thermal carafe and 5-year warranty reflect a build quality tier above the other two machines in this comparison.","bestFor":"Buyers prioritizing brewing precision and long-term build quality over an exact 9-cup capacity match.","pros":["Manually adjustable brew basket for extraction control","5-year warranty, longest of the three models here","Widely regarded for consistent, high-quality extraction"],"cons":["Second-highest price in this comparison"]},
+  {"id":"krups-simply-brew-9","rank":3,"badge":"Best Value","name":"KRUPS Coffee Maker 10 Cups Simply Brew Stainless Steel Drip Coffee Maker","amazonUrl":"https://www.amazon.com/dp/B08PP1H7QK?tag=worthrated-20","imageUrl":"https://m.media-amazon.com/images/I/31SbNxvTcWL._SL500_.jpg","price":"$52.66","rating":"4.1","reviews":"22,693 reviews","specs":["1.5L / 51oz capacity","900 watts","Pause & Brew system","Dishwasher-safe glass carafe"],"specList":[{"label":"Capacity","value":"1.5L / 51oz capacity"},{"label":"Feature 2","value":"900 watts"},{"label":"Feature 3","value":"Pause & Brew system"},{"label":"Feature 5","value":"Dishwasher-safe glass carafe"}],"description":"Also worth flagging directly: this KRUPS model is sold and labeled as a 10-cup machine, with a stated 1.5L, or roughly 51oz, capacity, which is closer to 10 cups than 9. We include it here as the budget option for buyers in the 9-cup search range who are comfortable with a machine that actually brews slightly more, since true 9-cup machines are limited and this covers the same practical need at a fraction of the OXO's price. Its Pause & Brew system lets you pull the carafe mid-cycle for an early cup, and it ships with a reusable filter, measuring spoon, and a no-drip, dishwasher-safe glass carafe.","bestFor":"Buyers who want a low-cost machine covering roughly the same practical capacity as a 9-cup, even though it is labeled and sized as 10-cup.","pros":["Lowest price by a wide margin in this comparison","Stated capacity closely matches its 10-cup label, no false advertising","Dishwasher-safe glass carafe and included reusable filter"],"cons":["Not actually a 9-cup machine; brews closer to 50oz than 45oz","No thermal carafe, needs an active warming plate to stay hot"]},
 ];
 
 export const buyingCriteria = [

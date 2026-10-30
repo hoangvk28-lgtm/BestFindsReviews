@@ -1,0 +1,5016 @@
+{
+ "scanned": 5126,
+ "unparsed": [
+  "best-1-gallon-watering-cans.ts",
+  "best-2-gallon-watering-cans.ts",
+  "best-adjustable-hose-nozzles.ts",
+  "best-bluetooth-tracker-under-100.ts",
+  "best-bluetooth-tracker-under-25.ts",
+  "best-bluetooth-tracker-under-50.ts",
+  "best-bluetooth-tracker-under-75.ts",
+  "best-brass-hose-nozzles.ts",
+  "best-bucket-garden-tool-organizers.ts",
+  "best-compost-tumbler-under-100.ts",
+  "best-compost-tumbler-under-150.ts",
+  "best-compost-tumbler-under-200.ts",
+  "best-compost-tumbler-under-50.ts",
+  "best-copper-watering-cans.ts",
+  "best-cordless-chainsaw-under-100.ts",
+  "best-cordless-chainsaw-under-200.ts",
+  "best-cordless-chainsaw-under-300.ts",
+  "best-cordless-chainsaw-under-500.ts",
+  "best-cordless-lawn-edger-under-100.ts",
+  "best-cordless-lawn-edger-under-200.ts",
+  "best-cordless-lawn-edger-under-300.ts",
+  "best-cordless-lawn-edger-under-500.ts",
+  "best-cordless-pruning-saw-under-100.ts",
+  "best-cordless-pruning-saw-under-150.ts",
+  "best-cordless-pruning-saw-under-200.ts",
+  "best-cordless-pruning-saw-under-300.ts",
+  "best-corner-garden-tool-organizers.ts",
+  "best-digital-magnifier-under-100.ts",
+  "best-digital-magnifier-under-200.ts",
+  "best-digital-magnifier-under-300.ts",
+  "best-digital-magnifier-under-500.ts",
+  "best-dramm-hose-nozzles.ts",
+  "best-easy-squeeze-hose-nozzles.ts",
+  "best-electric-dethatcher-under-100.ts",
+  "best-electric-dethatcher-under-200.ts",
+  "best-electric-dethatcher-under-300.ts",
+  "best-electric-dethatcher-under-500.ts",
+  "best-electric-log-splitter-under-1000.ts",
+  "best-electric-log-splitter-under-300.ts",
+  "best-electric-log-splitter-under-500.ts",
+  "best-electric-log-splitter-under-700.ts",
+  "best-electric-lopper-under-100.ts",
+  "best-electric-lopper-under-200.ts",
+  "best-electric-lopper-under-300.ts",
+  "best-electric-lopper-under-500.ts",
+  "best-electric-snow-shovel-under-100.ts",
+  "best-electric-snow-shovel-under-200.ts",
+  "best-electric-snow-shovel-under-300.ts",
+  "best-electric-snow-shovel-under-500.ts",
+  "best-electronic-magnifier-under-1000.ts",
+  "best-electronic-magnifier-under-1500.ts",
+  "best-electronic-magnifier-under-200.ts",
+  "best-electronic-magnifier-under-500.ts",
+  "best-galvanized-watering-cans.ts",
+  "best-garden-auger-under-100.ts",
+  "best-garden-auger-under-200.ts",
+  "best-garden-auger-under-300.ts",
+  "best-garden-auger-under-50.ts",
+  "best-garden-hose-nozzles.ts",
+  "best-garden-shredder-under-1000.ts",
+  "best-garden-shredder-under-200.ts",
+  "best-garden-shredder-under-300.ts",
+  "best-garden-shredder-under-500.ts",
+  "best-garden-tool-organizer-bags.ts",
+  "best-garden-tool-organizers-for-garages.ts",
+  "best-garden-tool-organizers-for-seniors.ts",
+  "best-garden-tool-organizers-with-wheels.ts",
+  "best-garden-tool-organizers.ts",
+  "best-garden-tool-storage-cabinets.ts",
+  "best-garden-tool-storage-racks.ts",
+  "best-garden-watering-cans.ts",
+  "best-gilmour-hose-nozzles.ts",
+  "best-haws-watering-cans.ts",
+  "best-heavy-duty-garden-tool-organizers.ts",
+  "best-heavy-duty-hose-nozzles.ts",
+  "best-high-pressure-garden-hose-nozzles-for-cleaning.ts",
+  "best-high-pressure-hose-nozzles.ts",
+  "best-hose-nozzles-for-car-washing.ts",
+  "best-hose-nozzles-for-seniors.ts",
+  "best-hose-nozzles-for-watering-plants.ts",
+  "best-hose-nozzles.ts",
+  "best-indoor-plant-watering-cans.ts",
+  "best-jet-hose-nozzles.ts",
+  "best-key-finder-under-100.ts",
+  "best-key-finder-under-25.ts",
+  "best-key-finder-under-50.ts",
+  "best-key-finder-under-75.ts",
+  "best-large-button-calculator-under-100.ts",
+  "best-large-button-calculator-under-25.ts",
+  "best-large-button-calculator-under-50.ts",
+  "best-large-button-calculator-under-75.ts",
+  "best-large-watering-cans.ts",
+  "best-lawn-aerator-under-100.ts",
+  "best-lawn-aerator-under-200.ts",
+  "best-lawn-aerator-under-300.ts",
+  "best-lawn-aerator-under-500.ts",
+  "best-lightweight-watering-cans.ts",
+  "best-long-spout-watering-cans.ts",
+  "best-melnor-hose-nozzles.ts",
+  "best-mesh-wifi-system-under-100.ts",
+  "best-mesh-wifi-system-under-200.ts",
+  "best-mesh-wifi-system-under-300.ts",
+  "best-mesh-wifi-system-under-500.ts",
+  "best-metal-garden-tool-organizers.ts",
+  "best-metal-watering-cans.ts",
+  "best-mini-chainsaw-under-100.ts",
+  "best-mini-chainsaw-under-150.ts",
+  "best-mini-chainsaw-under-200.ts",
+  "best-mini-chainsaw-under-50.ts",
+  "best-motion-sensor-light-under-100.ts",
+  "best-motion-sensor-light-under-25.ts",
+  "best-motion-sensor-light-under-50.ts",
+  "best-motion-sensor-light-under-75.ts",
+  "best-narrow-spout-watering-cans-for-houseplants.ts",
+  "best-orbit-hose-nozzles.ts",
+  "best-outdoor-garden-tool-organizers.ts",
+  "best-outdoor-storage-shed-under-1000.ts",
+  "best-outdoor-storage-shed-under-1500.ts",
+  "best-outdoor-storage-shed-under-2000.ts",
+  "best-outdoor-storage-shed-under-500.ts",
+  "best-plastic-watering-cans.ts",
+  "best-potting-bench-under-100.ts",
+  "best-potting-bench-under-200.ts",
+  "best-potting-bench-under-300.ts",
+  "best-potting-bench-under-500.ts",
+  "best-small-garden-tool-organizers.ts",
+  "best-small-watering-cans.ts",
+  "best-smart-alarm-clock-under-100.ts",
+  "best-smart-alarm-clock-under-150.ts",
+  "best-smart-alarm-clock-under-200.ts",
+  "best-smart-alarm-clock-under-50.ts",
+  "best-smart-home-hub-under-100.ts",
+  "best-smart-home-hub-under-200.ts",
+  "best-smart-home-hub-under-300.ts",
+  "best-smart-home-hub-under-50.ts",
+  "best-smart-plug-under-100.ts",
+  "best-smart-plug-under-25.ts",
+  "best-smart-plug-under-50.ts",
+  "best-smart-plug-under-75.ts",
+  "best-smartwatch-for-seniors-under-100.ts",
+  "best-smartwatch-for-seniors-under-200.ts",
+  "best-smartwatch-for-seniors-under-300.ts",
+  "best-smartwatch-for-seniors-under-500.ts",
+  "best-snow-blower-under-1000.ts",
+  "best-snow-blower-under-1500.ts",
+  "best-snow-blower-under-300.ts",
+  "best-snow-blower-under-500.ts",
+  "best-sttoraboks-garden-tool-organizers.ts",
+  "best-talking-clock-under-100.ts",
+  "best-talking-clock-under-25.ts",
+  "best-talking-clock-under-50.ts",
+  "best-talking-clock-under-75.ts",
+  "best-thumb-control-hose-nozzles.ts",
+  "best-vevor-garden-tool-organizers.ts",
+  "best-wall-mounted-garden-tool-organizers.ts",
+  "best-watering-cans-for-flowers.ts",
+  "best-watering-cans-for-seniors.ts",
+  "best-watering-cans-with-removable-roses.ts",
+  "best-watering-cans.ts",
+  "best-weather-station-under-100.ts",
+  "best-weather-station-under-200.ts",
+  "best-weather-station-under-300.ts",
+  "best-weather-station-under-500.ts",
+  "best-wifi-extender-under-100.ts",
+  "best-wifi-extender-under-150.ts",
+  "best-wifi-extender-under-200.ts",
+  "best-wifi-extender-under-50.ts",
+  "best-wireless-tv-speaker-under-100.ts",
+  "best-wireless-tv-speaker-under-200.ts",
+  "best-wireless-tv-speaker-under-300.ts",
+  "best-wireless-tv-speaker-under-500.ts",
+  "best-wood-chipper-under-1000.ts",
+  "best-wood-chipper-under-200.ts",
+  "best-wood-chipper-under-300.ts",
+  "best-wood-chipper-under-500.ts"
+ ],
+ "byIssue": {
+  "seller-voice": 42,
+  "skeleton-desc": 1133,
+  "filler-cons-only": 1121,
+  "truncated-bullet": 51,
+  "dash-anywhere": 60,
+  "label-prefix": 1
+ },
+ "files": {
+  "are-automatic-litter-boxes-worth-it.ts": [
+   "seller-voice",
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-1-5-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-1-gallon-garden-sprayers.ts": [
+   "filler-cons-only"
+  ],
+  "best-10-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-10-cup-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-10-inch-wood-chippers.ts": [
+   "skeleton-desc"
+  ],
+  "best-10-quart-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-10-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-10-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-100-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-10x10-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-10x8-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-11-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-12-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-12-inch-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-12-zone-smart-sprinkler-controllers.ts": [
+   "filler-cons-only"
+  ],
+  "best-120-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-12v-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-13-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-14-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-150-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-18-inch-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-18-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-18v-cordless-grass-shears.ts": [
+   "filler-cons-only"
+  ],
+  "best-2-burner-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-2-gallon-garden-sprayers.ts": [
+   "filler-cons-only"
+  ],
+  "best-2-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-20-cup-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-20-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-20-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-20-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-20v-cordless-grass-shears.ts": [
+   "filler-cons-only"
+  ],
+  "best-20v-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-20v-cordless-pruning-saws.ts": [
+   "skeleton-desc"
+  ],
+  "best-21-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-22-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-22-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-24-inch-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-24-inch-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-24-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-24-inch-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-25-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-26-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-28-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-3-cup-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-3-inch-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-3-point-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-3-point-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-3-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-30-inch-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-30-inch-snow-blowers.ts": [
+   "seller-voice",
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-30-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-32-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-35-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-36-inch-induction-cooktops.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-36-inch-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-4-gallon-garden-sprayers.ts": [
+   "filler-cons-only"
+  ],
+  "best-4-inch-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-4-outlet-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-4-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-4-ton-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-40-inch-tow-behind-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-40-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-40v-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-40v-electric-snow-shovels.ts": [
+   "seller-voice",
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-40v-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-45-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-48-inch-tow-behind-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-4x6-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5-cup-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5-gallon-compost-bins.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5-gallon-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5-inch-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-5-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-50-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-5g-cell-phone-signal-boosters-for-home.ts": [
+   "truncated-bullet"
+  ],
+  "best-5x3-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6-5-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6-cup-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6-inch-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6-inch-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6-quart-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-6-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6-ton-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-60-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-60v-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-60v-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-60v-snow-blowers.ts": [
+   "skeleton-desc"
+  ],
+  "best-6x4-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6x6-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-6x8-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-7-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-7-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-7-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-70-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-7x7-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8-cup-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8-cup-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8-inch-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8-inch-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8-quart-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-8-quart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-80-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-80v-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-80v-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-80v-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8x10-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-8x8-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-9-ton-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-90-pint-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-abco-tech-garden-kneelers.ts": [
+   "filler-cons-only"
+  ],
+  "best-adjustable-height-garden-stools.ts": [
+   "filler-cons-only"
+  ],
+  "best-affordable-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-agri-fab-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet",
+   "dash-anywhere"
+  ],
+  "best-air-conditioner-and-dehumidifier-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-fryer-toaster-ovens.ts": [
+   "seller-voice"
+  ],
+  "best-air-fryers-with-dial-controls.ts": [
+   "seller-voice"
+  ],
+  "best-air-purifier-and-dehumidifier-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifier-and-humidifier-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifiers-for-bedrooms.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifiers-for-large-rooms.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifiers-for-pets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifiers-for-small-rooms.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifiers-with-activated-carbon-filters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-air-purifiers-with-washable-filters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-airdoctor-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-airmsen-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-alen-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-all-clad-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-all-clad-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-all-in-one-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-altec-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ambiano-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ambiano-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-amerisun-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-anova-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-aoxun-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-aprilaire-dehumidifiers.ts": [
+   "skeleton-desc",
+   "dash-anywhere"
+  ],
+  "best-ariens-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-aroma-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-asplundh-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-atlas-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-atv-and-utv-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-auertech-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-auertech-twin-tub-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-austin-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-automatic-litter-boxes-for-cats.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-automatic-litter-boxes-for-large-cats.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-automatic-litter-boxes-for-multiple-cats.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-automatic-litter-boxes-for-odor-control.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-automatic-litter-boxes-with-enclosures.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-automatic-litter-boxes-without-apps.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-automatic-litter-boxes-without-wi-fi.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-autonomous-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-avid-armor-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-bamix-immersion-blenders.ts": [
+   "skeleton-desc",
+   "dash-anywhere"
+  ],
+  "best-bandit-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-barrel-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-battery-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-battery-sprayers-with-long-wands.ts": [
+   "filler-cons-only"
+  ],
+  "best-bauer-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bear-cat-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-beelicious-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-belavi-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-belife-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bella-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-big-bear-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-billy-goat-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bilt-hard-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-black-decker-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-black-decker-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-blenders-for-soup.ts": [
+   "skeleton-desc"
+  ],
+  "best-blueair-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bluebird-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-bonsenkitchen-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bosch-compact-washer-and-dryer-sets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bosch-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bosch-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bosch-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bosch-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-boss-industrial-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-braun-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-braun-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-breville-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-breville-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-breville-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-briggs-and-stratton-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-brinly-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-brush-master-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bubba-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "seller-voice",
+   "filler-cons-only"
+  ],
+  "best-budget-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-budget-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-budget-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-budget-washer-dryer-combos.ts": [
+   "skeleton-desc"
+  ],
+  "best-budget-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-bullet-blenders.ts": [
+   "skeleton-desc"
+  ],
+  "best-bullet-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-bunn-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cabela-s-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-car-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-catlink-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-cedar-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ceramic-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-chamber-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-champion-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-chef-preserve-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-chefman-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-chi-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-chip-resistant-dinnerware-sets.ts": [
+   "filler-cons-only"
+  ],
+  "best-clear-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-comfee-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-comfee-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-commercial-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-commercial-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-front-load-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-top-load-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-washer-and-dryer-sets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-compact-washers-and-dryers-for-small-apartments.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-washers-for-apartments.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-washers-for-rvs.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-washers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compost-tumblers-for-beginners.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-compost-tumblers-for-kitchen-scraps.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compost-tumblers-for-leaves-and-garden-waste.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-compost-tumblers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-compost-tumblers-for-small-gardens.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-compost-tumblers-with-handles.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-conair-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-corded-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-corded-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-corded-electric-tillers.ts": [
+   "filler-cons-only"
+  ],
+  "best-corded-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-electric-fillet-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-electric-tillers.ts": [
+   "filler-cons-only"
+  ],
+  "best-cordless-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-grass-shears-for-seniors.ts": [
+   "filler-cons-only"
+  ],
+  "best-cordless-grass-shears-under-100.ts": [
+   "filler-cons-only"
+  ],
+  "best-cordless-grass-shears-under-50.ts": [
+   "filler-cons-only"
+  ],
+  "best-cordless-grass-shears-with-batteries-and-chargers.ts": [
+   "filler-cons-only"
+  ],
+  "best-cordless-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-lawn-edger-and-trimmer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-cordless-lawn-edgers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-lawn-edgers-with-batteries-and-chargers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-cordless-lawn-edgers-with-blades.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-lawn-edgers-with-wheels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-pruning-saws-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-pruning-saws-for-thick-branches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-pruning-saws-with-batteries-and-chargers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-pruning-saws-with-extension-poles.ts": [
+   "skeleton-desc"
+  ],
+  "best-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cordless-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-core-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-cosori-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-costway-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-costway-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-countertop-compost-bins.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-countertop-dishwasher-under-300.ts": [
+   "skeleton-desc"
+  ],
+  "best-countertop-dishwasher-under-400.ts": [
+   "skeleton-desc"
+  ],
+  "best-countertop-dishwasher-under-500.ts": [
+   "skeleton-desc"
+  ],
+  "best-countertop-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-countertop-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-countertop-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-countertop-nugget-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-country-pro-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-coway-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cowsar-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-craftsman-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-craftsman-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-craftsman-electric-dethatchers.ts": [
+   "skeleton-desc"
+  ],
+  "best-craftsman-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-craftsman-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-craftsman-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-crock-pot-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-crock-pot-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-crushed-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cub-cadet-snow-blowers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-cuckoo-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cuckoo-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cuisinart-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cuisinart-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cuisinart-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cuisinart-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-cuisinart-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-danby-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-danby-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifier-and-humidifier-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "label-prefix"
+  ],
+  "best-dehumidifier-condensate-pumps.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-1-000-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-1-200-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-1-500-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-2-000-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-3-000-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-400-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-500-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-600-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-800-sq-ft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-attics.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-basements.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-bathrooms.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-bedrooms.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-crawl-spaces.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-garages.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-homes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-mold-prone-rooms.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-rvs.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-under-100.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-under-50.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-with-drain-hoses.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers-with-pumps.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-desiccant-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-desk-reading-lamps.ts": [
+   "filler-cons-only"
+  ],
+  "best-desktop-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-devoko-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dewalt-compatible-battery-sprayers.ts": [
+   "filler-cons-only"
+  ],
+  "best-dewalt-cordless-grass-shears.ts": [
+   "filler-cons-only"
+  ],
+  "best-dewalt-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dewalt-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dewalt-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-dewalt-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dewalt-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-magnifiers-for-coins.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-magnifiers-for-reading.ts": [
+   "skeleton-desc"
+  ],
+  "best-digital-magnifiers-with-cameras.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-magnifiers-with-large-screens.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-magnifying-glasses.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-video-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-digital-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-dr-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-dr-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dr-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-drum-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dual-chamber-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-duxtop-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-dyson-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-earth-machine-compost-bins.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-earthquake-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-earthquake-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-earthwise-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-earthwise-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-earthwise-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-easy-to-use-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-easy-to-use-watering-timers-for-seniors.ts": [
+   "filler-cons-only"
+  ],
+  "best-ecozy-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ego-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-ego-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ego-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-einhell-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-carving-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-composters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-dethatcher-and-aerator-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-dethatcher-and-scarifier-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-dethatchers-for-large-lawns.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-dethatchers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-dethatchers-for-small-lawns.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-fillet-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-food-chopper-and-grinder-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-food-choppers-for-meat.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-food-choppers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-food-choppers-with-glass-bowls.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knife-blades.ts": [
+   "skeleton-desc"
+  ],
+  "best-electric-knife-sharpeners.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives-for-bread.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives-for-meat.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives-for-turkey.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives-under-50.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives-with-storage-cases.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-lawn-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-log-splitters-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-log-splitters-under-500.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-onion-and-garlic-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-power-rakes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-pressure-cookers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-electric-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-for-decks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-for-heavy-snow.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-electric-snow-shovels-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-for-sidewalks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-for-steps.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-under-100.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-under-200.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels-with-wheels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-tillers-for-hard-soil.ts": [
+   "filler-cons-only"
+  ],
+  "best-electric-tillers.ts": [
+   "filler-cons-only"
+  ],
+  "best-electric-two-stage-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-vegetable-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electric-weed-burners-under-75.ts": [
+   "filler-cons-only"
+  ],
+  "best-electric-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-electrolux-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-elevated-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-emergency-weather-radios-under-75.ts": [
+   "skeleton-desc"
+  ],
+  "best-energy-efficient-toaster-ovens.ts": [
+   "seller-voice"
+  ],
+  "best-energy-star-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-equator-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-eschenbach-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-euhomy-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-euhomy-nugget-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-eva-dry-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-everhot-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-external-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-extra-large-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-eyoyo-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-fagor-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-farberware-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-farberware-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-fcmp-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-feppo-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-filtered-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-fissler-pressure-cookers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-flip-phones.ts": [
+   "skeleton-desc"
+  ],
+  "best-folding-garden-kneelers.ts": [
+   "filler-cons-only"
+  ],
+  "best-folding-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processor-and-blender-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processors-for-chopping-vegetables.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processors-for-dough.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-food-processors-for-grinding-meat.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processors-for-peanut-butter.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processors-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processors-for-shredding-cheese.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-food-processors-with-dicing-kits.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-foodsaver-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-franke-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-fresko-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-frigidaire-countertop-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-frigidaire-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-frigidaire-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-frigidaire-nugget-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-full-size-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-full-size-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-fully-automatic-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-furrytail-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-fuzzy-logic-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-chipper-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-compost-bins.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-kneeler-seats.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-kneelers-for-seniors.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-kneelers-under-30.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-kneelers-under-50.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-kneelers-with-handles.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-kneelers.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-shredder-mulchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-shredders-for-composting.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-shredders-for-leaves.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-shredders-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garden-sprayers-for-seniors.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-sprayers-under-25.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-sprayers-with-long-wands.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-sprayers.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-stools-for-seniors.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-stools-under-50.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-stools-with-storage.ts": [
+   "filler-cons-only"
+  ],
+  "best-garden-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-garment-steamers-for-clothes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garment-steamers-for-curtains.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garment-steamers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garment-steamers-for-suits.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garment-steamers-for-wedding-dresses.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-gas-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-gas-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-gas-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-gasbye-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-ge-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-opal-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-profile-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ge-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-germguardian-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-geryon-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-giantex-portable-washing-machines.ts": [
+   "skeleton-desc"
+  ],
+  "best-glass-bowl-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-greatcircleusa-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-greenpan-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-greenworks-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-greenworks-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-greenworks-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-greenworks-electric-tillers.ts": [
+   "filler-cons-only"
+  ],
+  "best-greenworks-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-greenworks-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-gun-safe-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-haier-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-hamilton-beach-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hamilton-beach-slow-cookers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-handheld-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-handheld-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-handheld-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-handheld-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-handheld-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-handheld-steam-cleaner-under-100.ts": [
+   "seller-voice"
+  ],
+  "best-handheld-steam-cleaner-under-150.ts": [
+   "seller-voice"
+  ],
+  "best-handheld-steam-cleaner-under-50.ts": [
+   "seller-voice"
+  ],
+  "best-handheld-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-handheld-vacuums-under-50.ts": [
+   "filler-cons-only"
+  ],
+  "best-hava-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hawkins-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hearing-amplifiers-under-75.ts": [
+   "skeleton-desc"
+  ],
+  "best-heat-pump-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-heated-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-heavy-duty-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-heavy-duty-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-heavy-duty-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hisense-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hollow-tine-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice",
+   "dash-anywhere"
+  ],
+  "best-homelite-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-honda-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-honeywell-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-honeywell-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-horizontal-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hose-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-hoshizaki-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-and-cold-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispenser-faucets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispenser-tanks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispensers-for-coffee.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispensers-for-home.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispensers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispensers-for-tea.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-husqvarna-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hvac-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hydraulic-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-hyundai-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ice-ball-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ice-makers-for-home.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ice-makers-for-parties.ts": [
+   "skeleton-desc"
+  ],
+  "best-ice-makers-for-rvs.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ice-makers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ice-makers-with-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blender-sets-with-attachments.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-baby-food.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-frothing-milk.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-mashed-potatoes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-mayonnaise.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-milkshakes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-smoothies.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-soap-making.ts": [
+   "skeleton-desc"
+  ],
+  "best-immersion-blenders-for-soup.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-for-whipped-cream.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-with-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-immersion-blenders-with-whisks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-impact-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-indoor-compost-bins.ts": [
+   "skeleton-desc"
+  ],
+  "best-induction-compatible-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-induction-cooktops-for-cast-iron.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-induction-cooktops-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-induction-cooktops-for-woks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-induction-cooktops-with-downdraft.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-induction-cooktops-with-knobs.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-induction-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-industrial-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-industrial-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-insinkerator-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-instant-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-instant-pot-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-instaseal-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-japanese-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-japanese-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-jar-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-jaspr-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-jcb-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-jiffy-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-jigoo-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-jimmy-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-john-deere-lawn-aerators.ts": [
+   "skeleton-desc"
+  ],
+  "best-john-deere-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet",
+   "dash-anywhere"
+  ],
+  "best-jora-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-kenmore-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kenmore-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-keter-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-keystone-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kids-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-kitchen-compost-bins.ts": [
+   "skeleton-desc"
+  ],
+  "best-kitchen-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kitchenaid-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kitchenaid-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kitchenaid-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kitchensmith-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kobalt-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kobalt-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kobalt-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kohler-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-kubota-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-capacity-hot-water-dispensers.ts": [
+   "skeleton-desc"
+  ],
+  "best-large-compost-bins.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-large-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-pressure-cookers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-large-print-keyboards-under-40.ts": [
+   "skeleton-desc"
+  ],
+  "best-large-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-large-wood-chippers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-laundry-carts-for-seniors.ts": [
+   "seller-voice"
+  ],
+  "best-laundry-carts-for-stairs.ts": [
+   "seller-voice"
+  ],
+  "best-lawn-aerator-and-spreader-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerator-boots.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerator-overseeders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerator-shoes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerator-tools.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerators-for-large-lawns.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerators-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-aerators-for-small-lawns.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-lawn-aerators-with-seeders.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-mower-snow-blower-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lawn-mowers-under-500.ts": [
+   "truncated-bullet"
+  ],
+  "best-lem-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-levoit-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-levoit-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-lg-compact-washer-and-dryer-sets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lg-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lg-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lg-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lg-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lifetime-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lifetime-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-lightweight-cordless-grass-shears.ts": [
+   "filler-cons-only"
+  ],
+  "best-lightweight-cordless-lawn-edgers.ts": [
+   "skeleton-desc"
+  ],
+  "best-lightweight-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lightweight-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lightweight-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-lightweight-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "seller-voice"
+  ],
+  "best-lightweight-garden-sprayers.ts": [
+   "filler-cons-only"
+  ],
+  "best-lightweight-garden-stools.ts": [
+   "filler-cons-only"
+  ],
+  "best-lightweight-handheld-steam-cleaners.ts": [
+   "skeleton-desc"
+  ],
+  "best-lightweight-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-linkchef-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-linkchef-immersion-blenders.ts": [
+   "skeleton-desc"
+  ],
+  "best-liquid-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-litheli-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-litheli-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-litter-robot-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-littermaid-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-little-gourmet-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-magic-chef-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-magimix-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-makita-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-makita-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-makita-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-makita-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mantis-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-manual-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice",
+   "dash-anywhere"
+  ],
+  "best-mason-genie-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mattress-vacuum-cleaners.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mattress-vacuums-for-couches-and-upholstery.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mattress-vacuums-for-pet-hair.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mattress-vacuums-with-hepa-filters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mattress-vacuums-with-uv-light.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-maytag-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-maze-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-mcculloch-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-meat-your-maker-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mechanical-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-medify-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-megawise-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mellif-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "seller-voice",
+   "filler-cons-only"
+  ],
+  "best-melnor-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-meowant-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mesliese-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-metal-compost-tumblers.ts": [
+   "skeleton-desc"
+  ],
+  "best-metal-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-metal-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-midea-cube-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-midea-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-midea-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-miele-compact-washer-and-dryer-sets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-miele-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-miele-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-milwaukee-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-milwaukee-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-milwaukee-lawn-mowers.ts": [
+   "filler-cons-only"
+  ],
+  "best-milwaukee-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mini-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-miracle-gro-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-moen-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-moiswell-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-molekule-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mooka-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-motorized-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mountfield-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mtd-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-mueller-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-mueller-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-muskox-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-narrow-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-narrow-raised-planters.ts": [
+   "filler-cons-only"
+  ],
+  "best-neakasa-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-nesco-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-neuro-fuzzy-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-newair-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-nictemaw-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ninesky-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ninja-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ninja-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ninja-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ninja-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ninja-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-non-electric-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-non-toxic-toaster-ovens.ts": [
+   "seller-voice"
+  ],
+  "best-nonstick-rice-cookers.ts": [
+   "skeleton-desc"
+  ],
+  "best-nugget-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-nutribullet-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-nutrichef-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-nutrichef-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-nuwave-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-one-handed-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-open-top-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-orbit-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-oster-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-our-place-air-fryers.ts": [
+   "seller-voice"
+  ],
+  "best-outdoor-compost-bins.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-outdoor-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-shed-kits.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-sheds-for-bikes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-sheds-for-garbage-cans.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-outdoor-storage-sheds-for-lawn-mowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-sheds-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-sheds-with-floors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-sheds-with-shelves.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-outsunny-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ovente-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-panda-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-patiowell-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-patriot-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pelonis-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-perfect-aire-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pet-zone-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-petkit-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-petlibro-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-petpivot-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-petsafe-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-philips-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-plastic-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-plastic-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-plateful-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-plug-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-plumbed-in-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-blenders.ts": [
+   "skeleton-desc"
+  ],
+  "best-portable-compact-washers.ts": [
+   "skeleton-desc"
+  ],
+  "best-portable-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-dishwasher-under-1000.ts": [
+   "skeleton-desc"
+  ],
+  "best-portable-dishwasher-under-300.ts": [
+   "skeleton-desc"
+  ],
+  "best-portable-dishwasher-under-500.ts": [
+   "skeleton-desc"
+  ],
+  "best-portable-dishwasher-under-700.ts": [
+   "skeleton-desc"
+  ],
+  "best-portable-dishwashers-for-apartments.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-portable-dishwashers-for-rvs.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-dishwashers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-dishwashers-on-wheels.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-portable-dishwashers-with-butcher-block-tops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-portable-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines-for-apartments.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines-for-campers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines-for-camping.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines-for-rvs.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines-with-dryers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-portable-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potane-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-bench-tables.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches-for-greenhouses.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches-under-100.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches-with-sinks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches-with-storage.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches-with-wheels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-poulan-pro-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-powered-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-powerful-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-powersmart-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-powerxl-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pressure-cooker-air-fryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pressure-cooker-under-100.ts": [
+   "skeleton-desc"
+  ],
+  "best-pressure-cooker-under-150.ts": [
+   "skeleton-desc"
+  ],
+  "best-pressure-cooker-under-200.ts": [
+   "skeleton-desc"
+  ],
+  "best-pressure-cooker-under-300.ts": [
+   "skeleton-desc"
+  ],
+  "best-pressure-cookers-for-brown-rice.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pressure-cookers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-pressure-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-prestige-pressure-cookers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-presto-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pro-breeze-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-proctor-silex-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-professional-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-professional-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-professional-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-programmable-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-psos-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-pto-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-push-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-quest-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rabbit-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rain-bird-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-raised-planters-under-100.ts": [
+   "filler-cons-only"
+  ],
+  "best-raised-planters-under-200.ts": [
+   "filler-cons-only"
+  ],
+  "best-rapala-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-raycop-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rca-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ready-hot-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-regal-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-remote-control-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-resin-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cooker-under-100.ts": [
+   "skeleton-desc"
+  ],
+  "best-rice-cooker-under-150.ts": [
+   "skeleton-desc"
+  ],
+  "best-rice-cooker-under-200.ts": [
+   "skeleton-desc"
+  ],
+  "best-rice-cooker-under-50.ts": [
+   "skeleton-desc"
+  ],
+  "best-rice-cookers-for-basmati-rice.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cookers-for-brown-rice.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cookers-for-quinoa.ts": [
+   "skeleton-desc"
+  ],
+  "best-rice-cookers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cookers-for-sticky-rice.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cookers-for-sushi-rice.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cookers-with-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ride-on-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-riding-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-robot-coupe-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-robot-coupe-immersion-blenders.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-robotic-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-roller-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-roller-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rolling-garden-stools.ts": [
+   "filler-cons-only"
+  ],
+  "best-rolling-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-room-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rovsun-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rowenta-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-rubbermaid-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ryan-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ryobi-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-ryobi-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ryobi-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ryobi-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-ryobi-electric-snow-shovels.ts": [
+   "seller-voice",
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ryobi-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ryobi-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-ryobi-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-saker-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-salav-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-samsung-bespoke-washer-dryer-combos.ts": [
+   "skeleton-desc"
+  ],
+  "best-samsung-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-samsung-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-santa-fe-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-scoopfree-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-scotsman-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-seal-a-meal-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-seesii-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-self-cleaning-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-self-cleaning-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-self-propelled-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-self-propelled-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-self-watering-raised-planters.ts": [
+   "filler-cons-only"
+  ],
+  "best-semi-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-senix-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-senix-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-shark-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-shark-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-silo-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-silonn-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-simplicity-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-single-burner-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-single-chamber-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-single-stage-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-skid-steer-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-skil-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cooker-under-100.ts": [
+   "skeleton-desc"
+  ],
+  "best-slow-cooker-under-150.ts": [
+   "skeleton-desc"
+  ],
+  "best-slow-cooker-under-200.ts": [
+   "skeleton-desc"
+  ],
+  "best-slow-cooker-under-50.ts": [
+   "skeleton-desc"
+  ],
+  "best-slow-cookers-for-one-or-two-people.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cookers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cookers-with-browning-functions.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cookers-with-locking-lids.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cookers-with-stainless-steel-inserts.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cookers-with-timers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-small-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-electric-food-choppers.ts": [
+   "skeleton-desc"
+  ],
+  "best-small-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-small-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-laundry-carts.ts": [
+   "seller-voice"
+  ],
+  "best-small-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-small-motion-sensor-lights.ts": [
+   "skeleton-desc"
+  ],
+  "best-small-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-small-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-smart-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-smart-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-smart-washer-dryer-combos.ts": [
+   "skeleton-desc"
+  ],
+  "best-smartlux-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-smeg-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-snow-blower-attachments-for-zero-turn-mowers.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "best-snow-blower-cabs.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blower-covers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blower-skid-shoes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet",
+   "dash-anywhere"
+  ],
+  "best-snow-blower-tires.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-gravel-driveways.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-heavy-wet-snow.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-hills.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-large-driveways.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-sidewalks.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-for-small-driveways.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-under-100.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers-under-300.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-joe-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-snow-joe-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-soleus-air-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-sonic-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-soundbars-under-100.ts": [
+   "filler-cons-only"
+  ],
+  "best-spike-lawn-aerators.ts": [
+   "seller-voice",
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-splendide-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-spt-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-stackable-compact-washer-and-dryer-sets.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "best-stainless-steel-electric-food-choppers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-food-processors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stainless-steel-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-standing-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stihl-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stihl-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stihl-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stihl-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stihl-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-stovetop-pressure-cookers.ts": [
+   "skeleton-desc"
+  ],
+  "best-sun-joe-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-sun-joe-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-sun-joe-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-sun-joe-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-sunbeam-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-sunbeam-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-suncast-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-superhandy-electric-log-splitters.ts": [
+   "skeleton-desc"
+  ],
+  "best-swivel-garden-stools.ts": [
+   "filler-cons-only"
+  ],
+  "best-t-fal-pressure-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tall-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tall-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tatung-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tcisa-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-teant-mattress-vacuums.ts": [
+   "skeleton-desc"
+  ],
+  "best-thermador-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-thermos-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-three-stage-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tiger-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tiger-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-toaster-ovens-under-150.ts": [
+   "seller-voice"
+  ],
+  "best-toastmaster-electric-knives.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-toastmaster-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tolife-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-top-loading-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-toro-electric-snow-shovels.ts": [
+   "skeleton-desc"
+  ],
+  "best-toro-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-toro-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-toshiba-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tow-behind-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-track-drive-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-tractor-snow-blowers.ts": [
+   "skeleton-desc"
+  ],
+  "best-travel-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-travel-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-travel-vacuum-sealers-for-luggage.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-triple-slow-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-troy-bilt-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-twin-tub-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-two-stage-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ultrasonic-cleaners-for-vinyl-records.ts": [
+   "truncated-bullet"
+  ],
+  "best-ultrasonic-mattress-vacuums.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-under-counter-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-under-sink-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-upright-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-upright-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacmaster-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealer-bags.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealer-containers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealer-pumps.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealer-rolls.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-fish.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-food.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-hunters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-liquids.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-mason-jars.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-meal-prep.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-meat.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-for-sous-vide.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-with-built-in-bag-cutters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers-with-reusable-bags.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vacuum-storage-bags-for-clothes-and-travel.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ventless-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ventrac-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vertical-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vertical-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-compost-tumblers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-digital-magnifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vevor-vacuum-sealers.ts": [
+   "skeleton-desc"
+  ],
+  "best-vinyl-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vissani-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-vitamix-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-voltask-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-walensee-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-walk-behind-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-warcat-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-waring-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-washer-dryer-combos-for-apartments.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-washer-dryer-combos-for-rvs.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-washer-dryer-combos-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-washer-dryer-combos-for-small-apartments.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-washer-dryer-combos-with-steam.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-watering-timers-under-25.ts": [
+   "filler-cons-only"
+  ],
+  "best-watering-timers.ts": [
+   "filler-cons-only"
+  ],
+  "best-waterproof-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-waterproof-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-weatherproof-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wen-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wen-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-westinghouse-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-westinghouse-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-westinghouse-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-weston-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wevac-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-whirlpool-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-whirlpool-portable-dishwashers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-whirlpool-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-whole-house-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wine-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-winix-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wolf-induction-cooktops.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wonderwash-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wood-chippers-for-seniors.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-wooden-outdoor-storage-sheds.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-wooden-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-worx-cordless-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "best-worx-cordless-pruning-saws.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-worx-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-worx-electric-snow-shovels.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-worx-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-yaheetech-potting-benches.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-yarbo-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-yard-butler-lawn-aerators.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-yard-glow-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-yardmax-electric-log-splitters.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-yardmax-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-yardworks-electric-dethatchers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-ziploc-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-zojirushi-hot-water-dispensers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-zojirushi-rice-cookers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "best-zulay-immersion-blenders.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "best-zwilling-vacuum-sealers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "compost-tumbler-vs-compost-bin.ts": [
+   "skeleton-desc"
+  ],
+  "cordless-lawn-edger-vs-string-trimmer.ts": [
+   "skeleton-desc",
+   "truncated-bullet",
+   "filler-cons-only"
+  ],
+  "cordless-pruning-saw-vs-mini-chainsaw.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "cordless-pruning-saw-vs-pole-saw.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "cordless-vs-corded-lawn-edgers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "dehumidifier-vs-air-conditioner.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "dehumidifier-vs-air-purifier.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "dehumidifier-vs-humidifier.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "easiest-cordless-lawn-edgers-to-use.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "easiest-outdoor-storage-sheds-to-assemble.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "easiest-potting-benches-to-assemble.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "easiest-toaster-ovens-to-clean.ts": [
+   "seller-voice"
+  ],
+  "electric-dethatcher-vs-lawn-aerator.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "electric-dethatcher-vs-scarifier.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "electric-food-chopper-vs-food-processor.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "electric-knife-vs-carving-knife.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "electric-log-splitter-vs-gas-log-splitter.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "electric-snow-shovel-vs-snow-blower.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "electric-vs-gas-wood-chippers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "fastest-heating-garment-steamers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "garden-shredder-vs-wood-chipper.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "hand-blender-vs-immersion-blender.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "hot-water-dispenser-vs-electric-kettle.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "immersion-blender-vs-food-processor.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "immersion-blender-vs-regular-blender.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "lawn-aerator-vs-dethatcher.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "lawn-aerator-vs-tiller.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "most-energy-efficient-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "plug-aerator-vs-spike-aerator.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "quietest-air-purifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "truncated-bullet"
+  ],
+  "quietest-automatic-litter-boxes.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "seller-voice"
+  ],
+  "quietest-blenders.ts": [
+   "skeleton-desc"
+  ],
+  "quietest-compact-washers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "quietest-dehumidifiers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "quietest-garden-shredders.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "quietest-ice-makers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "quietest-portable-washing-machines.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "quietest-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "single-stage-vs-two-stage-snow-blowers.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "smallest-washer-dryer-combos.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "snow-blower-vs-snow-shovel.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "snow-blower-vs-snow-thrower.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "vacuum-sealer-bags-vs-rolls.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ],
+  "vacuum-sealer-vs-chamber-vacuum-sealer.ts": [
+   "skeleton-desc",
+   "filler-cons-only",
+   "dash-anywhere"
+  ],
+  "what-size-dehumidifier-do-i-need.ts": [
+   "filler-cons-only"
+  ],
+  "wood-chipper-vs-chipper-shredder.ts": [
+   "skeleton-desc",
+   "filler-cons-only"
+  ]
+ }
+}

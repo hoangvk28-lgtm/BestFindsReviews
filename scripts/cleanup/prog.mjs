@@ -1,0 +1,1 @@
+import fs from "fs";const p="progress-2b.json";const a=JSON.parse(fs.readFileSync(p));for(const f of process.argv.slice(2))a.push(f.endsWith(".ts")?f:f+".ts");fs.writeFileSync(p,JSON.stringify(a));console.log(a.length)
